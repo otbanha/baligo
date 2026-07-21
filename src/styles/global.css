@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@300;400;500;700&display=swap');
+/* Google Fonts 改由 BaseHead.astro 按語言非阻塞載入（避免 @import 連鎖 render-blocking） */
 
 /* 標題數字專用：強制數字走中文字型，避免 Playfair Display 的西式 serif 數字 */
 @font-face {
@@ -60,12 +60,14 @@ html {
   font-family: 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
 }
 
-/* 英文 */
-:lang(en) body {
+/* 英文 / 印尼文 */
+:lang(en) body, :lang(id) body {
   font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
 :lang(en) h1, :lang(en) h2, :lang(en) h3,
-:lang(en) h4, :lang(en) h5, :lang(en) h6 {
+:lang(en) h4, :lang(en) h5, :lang(en) h6,
+:lang(id) h1, :lang(id) h2, :lang(id) h3,
+:lang(id) h4, :lang(id) h5, :lang(id) h6 {
   font-family: 'Playfair Display', 'Inter', serif;
 }
 

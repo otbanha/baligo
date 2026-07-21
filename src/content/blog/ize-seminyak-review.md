@@ -3,6 +3,7 @@ title: "IZE Seminyak｜水明漾高 CP 值精品飯店深度評測 2026 - Go Bal
 slug: 'ize-seminyak-hotel-review'
 description: "水明漾 CP 值最高的精品設計旅館之一！IZE Seminyak 以合理價位提供精緻設計感客房、屋頂無邊際泳池與超便利位置。詳解各房型差異、設施使用心得與訂房時機，首訪水明漾旅客的強力推薦。"
 pubDate: 2026-04-18
+updatedDate: 2026-07-20
 pubHour: 16
 category:
   - 住宿推薦
@@ -163,6 +164,6 @@ IZE Seminyak 共有四個主要房型，每種定位清晰：
 ## 📌 訂房資訊
 
 > 評分：Tripadvisor 4.0/5（2,274則評價）⭐ | Agoda 綜合評分 8.7 / 位置 9.3
-> 👉 點此查看最新房價與空房：[Agoda ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808) [Booking](https://booking.tpm.li/uGVpUopY)｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982037&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6ysTFJMEktY-Jo2Hmhx4mIWZDAyONoywGDxgttso7Bu2Qa30dWebg2X_oq0ZMdrVDAM8Mxqk_rDcyftOI6T_kGuKwg5HpBOOhqa4LmF6fe8V4ioWF48ATnkssexmjq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYysDQxN9IzMAAKliRWeKaANScn5iSX5iSWpIZUFgANMdJRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgiCji6D8zPw8iG4DFLGwxJzSVIhKoH1uqVArDGtjH7EwRce-YDnK8omF4RcLQxMrQxcrwyRWFg6gT3ex8vpa-kf6hekahuhG6RpeYF00NUhK0dDAwMDI1NTIXNcg0dLCKNXIQtfE0sTQwFDX1NjM0szYRGPFm95tj4yNTBQYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxOTtbGDpbRtlwMYcGuwgu2mL-45CKtIMUs6dLkGLdA5aO2gRLey0QzxDGC2R6d2nbnxe89pEwkSTWqgzdkPCMDrECxgZGpi5GbgFGD8YIxgogj3EVIzsXs4GRoQDTBkbGHYz_YYDxFSPIWAB82CY7LAIAAA&masterhotelid_tracelogid=100025527-0a982e28-494101-5369634&detailFilters=17|1~17~1*31|982037~31~982037*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=616&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944909)
+> 👉 點此查看最新房價與空房：[Agoda ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808) [Booking](https://booking.tpm.li/uGVpUopY)｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-982037/ize-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 {{block:smk}}

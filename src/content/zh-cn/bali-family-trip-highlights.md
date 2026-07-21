@@ -4,6 +4,7 @@ slug: bali-family-trip-highlights
 description: >-
   这次的巴厘岛亲子自由行旅游对我们一家四口来说，是一次充满惊喜与感动的旅程。身为一个已经第四次踏上这片美丽土地的旅人，我们依然能够在这里找到新的乐趣与感动...
 pubDate: 2024-09-09T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 家庭親子
@@ -18,7 +19,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_665788e465bdd16779eede7aab3fe
 originalUrl: 'https://vocus.cc/article/66c02325fd8978000145e0e1'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
+_srcHash: 58004109f42df4c560d7c5f16f84722c
 ---
 
 > 以下内容由团友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供给我们重新编排：
@@ -69,7 +70,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 
 林小昭提供
 
-在Paperhills咖啡厅，我们幸运地看到了壮观的巴杜尔火山，这座活火山全貌清晰可见，实在是让人惊叹。这家咖啡厅共有四层，每一层都能拍出美美的照片，穿着自己准备的衣服，在这里随便拍都是网美照。包车的好处就在于，我们可以大包小包带着各种装备，随时随地都能捕捉到美好的瞬间。
+在Paperhills咖啡厅，我们幸运地看到了壮观的巴杜尔火山，这座活火山全貌清晰可见，实在是让人惊叹。这家咖啡厅共有四层，每一层都能拍出美美的照片，穿着自己准备的衣服，在这里随便拍都是网红照。包车的好处就在于，我们可以大包小包带着各种装备，随时随地都能捕捉到美好的瞬间。
 
 > 延伸阅读：[巴厘岛金塔马尼12大景观咖啡厅推荐](/zh-cn/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
@@ -88,7 +89,7 @@ _srcHash: 4179eb55859d6107558c4c4ceb1fe2b1
 ![Rijasa Agung 乌布阿贡里加萨酒店——宁静与舒适的完美结合](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
 ![Rijasa Agung 乌布阿贡里加萨酒店——宁静与舒适的完美结合](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
 
-> ▶Rijasa Agung Resort and Villas 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
+> ▶Rijasa Agung Resort and Villas 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1744536/rijasa-agung-resort-and-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/c79DvepT)
 
 已收录在[【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
 

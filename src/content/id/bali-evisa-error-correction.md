@@ -1,7 +1,7 @@
 ---
 slug: bali-evisa-error-correction
-title: 印尼/Bali 電子簽證申請小插曲：如何修改 e-VOA 資料錯誤？
-description: 申請印尼/Bali 電子簽證（e-VOA）時資料填錯怎麼辦？看這篇就對了
+title: Kesalahan Saat Isi e-VOA Bali? Begini Cara Memperbaikinya
+description: Gimana cara benerin data e-VOA yang salah pas daftar? Baca ini dulu
 pubDate: '2024-05-18'
 updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6d33802d985ce46e9a5ad95e0ffa0724.png'
@@ -19,48 +19,48 @@ _srcHash: 615cad819e88bbd345f4f2f73942f036
 ---
 ![印尼/峇里島電子簽證申請小插曲：如何修改e-VOA資料錯誤？](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
 
-**先講結論（2024 年 7 月更新）**：e-VOA 資料填錯**已經不能要求修改了**——印尼移民署從 2024 年 7 月起不再受理更正申請。正確做法是：**付款前一定要逐字檢查**姓名、出生地、護照號碼，發現錯誤就不要付款、直接重新申請；如果付款後才發現錯誤，只能重辦一份新的 e-VOA。這篇文章前半段的寫信修改方法是舊的，已經失效，留著當參考就好。
+**Kesimpulan Awal (Update Juli 2024)** : Data e-VOA yang salah **sudah nggak bisa diminta perbaikan** — Imigrasi Indonesia udah nggak nerima permohonan koreksi sejak Juli 2024. Cara yang bener: **Cek dulu tiap huruf sebelum bayar** — nama, tempat lahir, nomor paspor. Kalau nemu salah, jangan bayar, langsung daftar ulang; kalau udah bayar baru sadar, cuma bisa bikin e-VOA baru. Cara kirim email perbaikan di paragraf awal ini udah nggak berlaku, cuma buat referensi aja.
 
-最近，有一位叫 Mike Chiu 的團友在申請印尼電子簽證（e-VOA）時遇到了一些問題。他在我們的臉書社團裡問大家的意見。Mike 說，他在填申請表時，正確地把出生地輸入成“TAIWAN”，而且還再次確認過輸入是對的。可是，當他收到最後的電子簽證時，卻發現出生地顯示成“Talwan”，「i」長高變成「l」了。Mike 不確定這樣行不行，就問是否需要重新編輯申請，或者該怎麼處理。
+Baru-baru ini, ada anggota grup bernama Mike Chiu yang nemu masalah pas daftar e-VOA. Dia nanya pendapat di grup Facebook kita. Mike bilang, pas isi formulir, dia udah bener masukin tempat lahir "TAIWAN", dan udah cek ulang. Tapi pas terima e-VOA final, tempat lahirnya malah jadi "Talwan" — huruf 'i' naik jadi 'l'. Mike ragu ini aman atau nggak, dan nanya apa perlu edit ulang atau gimana.
 
-對此，另一位旅客 Wei Chih Wen 建議 Mike 先記下電子簽證的編號，然後寫信給相關部門，說明要更改出生地的錯誤，並耐心等回覆。Wei Chih Wen 還提到，他之前也遇過類似的情況，而且成功收到了修改的回覆。
+Wisatawan lain, Wei Chih Wen, saranin Mike catat dulu nomor e-VOA, lalu kirim email ke pihak terkait, jelasin perlu ganti tempat lahir yang salah, dan sabar nunggu balasan. Wei Chih Wen juga cerita dia pernah ngalamin hal serupa, dan berhasil dapet balasan perbaikan.
 
-最後，Mike Chiu 確實照著建議去做，而且很快就收到官方的回覆，問題順利解決了。這次經驗提醒大家，在申請簽證過程中，如果遇到類似的問題，可以透過聯繫官方來修改和確認，以免影響旅行計劃。
+Akhirnya, Mike Chiu ngikutin saran itu, dan cepet dapet balasan resmi, masalahnya beres. Pengalaman ini ngingetin kita, pas proses visa, kalau nemu masalah kayak gini, bisa hubungi pihak resmi buat minta perbaikan dan konfirmasi, biar nggak ganggu rencana liburan.
 
 ![印尼/峇里島電子簽證申請小插曲：如何修改e-VOA資料錯誤？](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
 
-## 具體該怎麼做？
+## Cara Detailnya Gimana?
 
-請印尼移民局協助修改是唯一的解決方法。建議你在上班時間透過[印尼移民局網站](https://evisa.imigrasi.go.id/)的 Contact Us（在首頁的右上角）取得協助。
+Minta bantuan Imigrasi Indonesia buat koreksi adalah satu-satunya jalan. Saran, pas jam kerja, hubungi lewat [situs Imigrasi Indonesia](https://evisa.imigrasi.go.id/) di Contact Us (pojok kanan atas halaman utama).
 
-電子郵件往返最好能一針見血，讓人家知道你的問題在哪裡。請依照下列格式在 email 中附上資訊，就能以最快的速度完成電子簽證上姓名、出生地...等等常見的錯誤：
+Email yang dikirim sebaiknya langsung ke inti masalah, biar mereka tau apa yang salah. Ikutin format di bawah ini pas kirim email, biar cepet beres masalah nama, tempat lahir, dan kesalahan umum lainnya di e-VOA:
 
 ![具體該如何做？](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
 
-Cari promo & booking di sini:
+Pesan, hemat, cek di sini:
 
-➡️[Cari Penginapan di Bali Klik Sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
+➡️[Cari penginapan di Bali? Cek sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-➡️[Klik buat lihat promo Bali lainnya yang super worth it](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+➡️[Lebih banyak promo kece Bali klik aku](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
-## 【2024 七月更新情報】
+## 【Update Juli 2024】
 
-Kemungkinan karena banyaknya permintaan perubahan data, sejak Juli 2024 Imigrasi Indonesia sudah tidak menerima lagi permintaan koreksi data yang salah isi. Balasan dari Imigrasi seperti ini:
+Karena banyak banget email yang minta perubahan data, mulai Juli ini Imigrasi Indonesia udah nggak nerima permintaan koreksi buat data yang salah isi. Balasan email dari Imigrasi kayak gini:
 
 ![在付款之前務必小心檢查！](https://images.gobaligo.id/vocus/vocus_4e4a3669462cf28376c2c8444b6cbcab.jpg)
 
-Sebelum bayar, periksa baik-baik ya!
+Sebelum bayar, wajib cek lagi ya!
 
-Jadi, buat kamu yang mau apply eVisa, tolong periksa lagi sebelum bayar. Kalau ada yang salah, jangan dibayar, apply ulang aja!
+Jadi, buat kamu yang mau apply eVisa, pastiin sebelum bayar semuanya udah bener. Kalau ada yang salah, jangan dibayar, bikin ulang aja!
 
-## Pertanyaan Lain Seputar Aplikasi eVisa
+## Masalah Lain soal Aplikasi eVisa
 
-Masih bingung milih Visa on Arrival (VoA) atau eVisa? Wajib baca ini: [Panduan Visa Travel Bali: VoA vs eVisa, Mana yang Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
+Buat yang masih bingung milih antara Visa on Arrival (VoA) atau eVisa, wajib baca ini: [Panduan Visa Turis Bali: VoA vs eVisa, Mana yang Cocok Buat Kamu?](/id/blog/bali-visa-landing-vs-electronic/)
 
-Kalau kamu nemu masalah pas apply eVisa, di sini udah kami kumpulin semua tanya jawab seputar aplikasi eVisa. Semoga bisa bantu kamu solve masalah dengan lancar: [FAQ Terbaru 2024: Visa Masuk & eVisa eVOA Indonesia/Bali](/id/blog/indonesia-bali-visa-evoa-faq/)
+Kalau kamu nemu masalah pas apply eVisa, kami udah kumpulin semua tanya jawab soal aplikasi eVisa di sini, semoga bisa bantu kamu solve masalahnya: [FAQ Terbaru 2024: Visa Masuk & eVisa eVoA Indonesia/Bali](/id/blog/indonesia-bali-visa-evoa-faq/)
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
-Sebelum lanjut baca 'Panduan Liburan ke Bali Paling Lengkap', kami ajak kamu subscribe dulu channel YouTube 'Xiao Jie Indonesia' yang isinya lebih banyak visual seru. [Klik di sini](http://bit.ly/youtube-jason) [, langsung subscribe](http://bit.ly/youtube-jason)
+Sebelum baca panduan lengkap liburan ke Bali versi kami, kami ajak kamu subscribe dulu channel YouTube "Xiao Jie Indonesia" yang isinya lebih banyak visual seru. [Klik di sini](http://bit.ly/youtube-jason)[, langsung subscribe](http://bit.ly/youtube-jason)
 
-Setelah subscribe, kamu bisa lanjut baca panduan lengkap kami dan explore setiap sudut seru Bali. Klik '[Panduan Liburan ke Bali Paling Lengkap](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)', mulai persiapan trip ke Bali kamu!
+Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kita, menjelajah setiap sudut seru di Bali. Klik 「[Panduan Liburan Mandiri Bali Ultimate](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)」, mulai persiapkan petualanganmu di Bali!

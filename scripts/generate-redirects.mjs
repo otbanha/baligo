@@ -3,11 +3,16 @@
  * generate-redirects.mjs
  *
  * 掃描舊格式檔名（vocus hex / Sveltia 時間戳），
- * 找出已填 slug 的文章，產生 Cloudflare Pages 301 redirect 規則。
+ * 找出已填 slug 的文章，產生 301 redirect 對照表。
+ *
+ * 輸出到 functions/redirect-map.json，由 functions/_middleware.js 查表回 301。
+ * 不再寫入 public/_redirects：Cloudflare Pages 只吃前 2,000 條靜態規則，
+ * 超過的會在部署時被靜默丟棄（2026-07 曾因此讓 917 條轉址失效變 soft-404）。
+ * public/_redirects 僅保留手寫 alias。
  *
  * Usage:
  *   node scripts/generate-redirects.mjs          # 預覽
- *   node scripts/generate-redirects.mjs --write  # 寫入 public/_redirects
+ *   node scripts/generate-redirects.mjs --write  # 寫入 functions/redirect-map.json
  */
 
 import { readFileSync, writeFileSync, readdirSync } from 'fs';
@@ -21,6 +26,7 @@ const ROOT = join(__dirname, '..');
 const WRITE_MODE = process.argv.includes('--write');
 
 const REDIRECTS_FILE = join(ROOT, 'public/_redirects');
+const MAP_FILE = join(ROOT, 'functions/redirect-map.json');
 const MARKER_START = '# === auto-generated slug redirects (start) ===';
 const MARKER_END   = '# === auto-generated slug redirects (end) ===';
 
@@ -157,31 +163,28 @@ if (pendingArticles.length > 0) {
   console.log('');
 }
 
-// ─── 寫入 _redirects ─────────────────────────────────────────
+// ─── 寫入 functions/redirect-map.json ────────────────────────
 if (WRITE_MODE) {
+  // redirectLines 格式固定為「/src/ /dst/ 301」，來源皆為無空白的日期碼 slug
+  const redirectMap = {};
+  for (const line of redirectLines) {
+    const [src, dst] = line.split(' ');
+    redirectMap[src] = dst;
+  }
+  writeFileSync(MAP_FILE, JSON.stringify(redirectMap, null, 0) + '\n', 'utf8');
+  console.log(`✅  已寫入 functions/redirect-map.json（${Object.keys(redirectMap).length} 條規則）`);
+
+  // 移除 _redirects 裡的舊 marker 區塊（一次性遷移，之後為 no-op）
   const existing = readFileSync(REDIRECTS_FILE, 'utf8');
-
-  const block = [
-    MARKER_START,
-    ...redirectLines,
-    MARKER_END,
-  ].join('\n');
-
-  let updated;
   if (existing.includes(MARKER_START)) {
-    // 替換 marker 中間的區塊
     const re = new RegExp(
-      `${escapeRegex(MARKER_START)}[\\s\\S]*?${escapeRegex(MARKER_END)}`,
+      `\\n*${escapeRegex(MARKER_START)}[\\s\\S]*?${escapeRegex(MARKER_END)}\\n*`,
       'g'
     );
-    updated = existing.replace(re, block);
-  } else {
-    // 第一次執行，直接附加在檔案結尾
-    updated = existing.trimEnd() + '\n\n' + block + '\n';
+    const updated = existing.replace(re, '\n').trimEnd() + '\n';
+    writeFileSync(REDIRECTS_FILE, updated, 'utf8');
+    console.log('✅  已從 public/_redirects 移除自動生成區塊（改由 middleware 處理）');
   }
-
-  writeFileSync(REDIRECTS_FILE, updated, 'utf8');
-  console.log(`✅  已寫入 public/_redirects（${redirectLines.length} 條規則）`);
 } else {
   console.log('ℹ️  預覽模式，未寫入任何檔案。加上 --write 參數可實際寫入。');
 }

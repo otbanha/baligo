@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import { remarkBlocks } from './src/remark-blocks.mjs';
+import { rehypeImages } from './src/rehype-images.mjs';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
@@ -20,7 +21,7 @@ if (existsSync(MAP_LASTMOD_FILE)) {
   try { mapLastmod = JSON.parse(readFileSync(MAP_LASTMOD_FILE, 'utf-8')); } catch {}
 }
 
-// 從 blog content 取得 lastmod（優先 update，fallback pubDate）
+// 從 blog content 取得 lastmod（優先 updatedDate，其次舊版 update 字串，最後 fallback pubDate）
 function getBlogLastmod(slug) {
   const dirs = ['blog', 'en', 'zh-cn', 'zh-hk', 'id'];
   for (const dir of dirs) {
@@ -28,6 +29,7 @@ function getBlogLastmod(slug) {
     if (existsSync(p)) {
       try {
         const { data } = matter(readFileSync(p, 'utf-8'));
+        if (data.updatedDate) return new Date(data.updatedDate).toISOString().split('T')[0];
         if (data.update) return data.update.replace(/\//g, '-');
         if (data.pubDate) return new Date(data.pubDate).toISOString().split('T')[0];
       } catch {}
@@ -35,6 +37,26 @@ function getBlogLastmod(slug) {
     }
   }
   return undefined;
+}
+
+// 判斷是否為過期的每日新聞存檔文章（45 天以上），排除於 sitemap 外，
+// 改由 /news/ hub 彙整頁承接排名，避免大量薄內容稀釋全站品質信號。
+const NEWS_STALE_DAYS = 45;
+function isStaleNewsArchive(slug) {
+  const dirs = ['blog', 'en', 'zh-cn', 'zh-hk', 'id'];
+  for (const dir of dirs) {
+    const p = join(process.cwd(), 'src/content', dir, `${slug}.md`);
+    if (existsSync(p)) {
+      try {
+        const { data } = matter(readFileSync(p, 'utf-8'));
+        const cats = Array.isArray(data.category) ? data.category : (data.category ? [data.category] : []);
+        if (!cats.includes('新聞存檔') || !data.pubDate) return false;
+        return (Date.now() - new Date(data.pubDate).getTime()) / 86400000 > NEWS_STALE_DAYS;
+      } catch {}
+      break;
+    }
+  }
+  return false;
 }
 
 // 計算每個 slug 實際存在哪些語言版本（給 sitemap hreflang 用，避免指向 404）
@@ -62,12 +84,20 @@ export default defineConfig({
     sitemap({
       // 排除不需要 Google 收錄的頁面
       filter(page) {
-        return (
+        if (
           !page.includes('/admin/') &&
           !page.includes('/go/') &&
           !page.includes('/bookmarks') &&
-          !page.includes('/index-all')
-        );
+          !page.includes('/index-all') &&
+          !page.endsWith('/news-sitemap.xml') &&
+          !page.endsWith('/news/rss.xml')
+        ) {
+          const path = new URL(page).pathname;
+          const blogMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/([^/]+)\/?$/);
+          if (blogMatch && isStaleNewsArchive(blogMatch[2])) return false;
+          return true;
+        }
+        return false;
       },
       serialize(item) {
         const path = new URL(item.url).pathname;
@@ -123,6 +153,18 @@ export default defineConfig({
           ];
         }
 
+        // /news/ hub（含分頁）與 /news/category/ — 僅 zh-TW，無 hreflang
+        const newsHubMatch = path.match(/^\/news(?:\/(\d+))?\/?$/);
+        if (newsHubMatch) {
+          item.priority = newsHubMatch[1] ? 0.6 : 0.9;
+          item.changefreq = 'daily';
+        }
+        const newsCatMatch = path.match(/^\/news\/category\/([^/]+)\/?$/);
+        if (newsCatMatch) {
+          item.priority = 0.7;
+          item.changefreq = 'daily';
+        }
+
         // hreflang for /tickets/ pages
         const ticketsMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/tickets\/?$/);
         if (ticketsMatch) {
@@ -176,6 +218,7 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [[remarkBlocks, {}]],
+    rehypePlugins: [rehypeImages],
   },
   build: {
     format: 'directory'

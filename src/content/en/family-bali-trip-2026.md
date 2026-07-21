@@ -1,17 +1,18 @@
 ---
 slug: family-bali-trip-2026
 title: >-
-  Six Days in Bali: A Family of Six Returns to the Island of the Gods After 23
-  Years
+  【Six-Day Bali Family Trip】A Family of Six Returns to the Island of the Gods
+  After 23 Years
 description: >-
-  Having benefited from the community, it's time to give back! This summer, our
-  family of six finally returned to Bali. It had been 23 years since our last
-  family trip here. Known as the 'Island of the Gods,' this vacation paradise
-  remains as enchanting as ever, though the number of tourists has noticeably
-  increased, and the tourism facilities have become more diverse and abundant.
-  We are deeply grateful to our community friends for their enthusiastic sharing
-  and assistance, especially for recommending an excellent guide, Betty Pin.
+  I've benefited from this community, so here's my contribution! This summer,
+  our family of six finally set foot on Bali again. It's been 23 years since our
+  last family trip here. This paradise, known as the 'Island of the Gods,' is
+  still stunningly beautiful, though now it's noticeably more crowded, and the
+  tourism facilities are much richer and more diverse. A big thank you to the
+  community friends for their enthusiastic sharing and help, especially for
+  recommending an excellent guide, Betty Pin.
 pubDate: 2026-01-29T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 遊記分享
 tags:
@@ -24,97 +25,98 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
 originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
 lang: en
-_srcHash: 9653a5992f0d249cfaa392f1a19245ef
+_srcHash: 34691ba57188fb648338cd674b343aab
 ---
-> The following travelogue is provided by [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) and has been edited and revised with their permission.
 
-Having benefited from the community, it's time to give back!
+> The following travelogue is provided by [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) and has been edited with their consent.
 
-This summer, our family of six finally returned to Bali. It had been 23 years since our last family trip here. Known as the 'Island of the Gods,' this vacation paradise remains as enchanting as ever, though the number of tourists has noticeably increased, and the tourism facilities have become more diverse and abundant. Our family was thoroughly satisfied with this 6-day, 5-night Bali trip. Below, we’ve compiled our pre-trip preparations, itinerary overview, and insights on hiring a private guide for your reference.
+I've benefited from this community, so here's my contribution!
+
+This summer, our family of six finally set foot on Bali again. It's been 23 years since our last family trip here. This paradise, known as the 'Island of the Gods,' is still stunningly beautiful, though now it's noticeably more crowded, and the tourism facilities are much richer and more diverse. Our family was very satisfied with this 6-day, 5-night independent trip to Bali. Below, I've compiled pre-departure preparations, an itinerary overview, and insights on our private driver and guide for your reference.
 
 ***
 
-## ※ Pre-Trip Preparations
+## ※ Pre-Departure Preparations
 
-### 1. Air Tickets
+### 1. Flights
 
-Eager to immerse ourselves in this vacation paradise, we opted for a direct flight with EVA Air (BR255／BR256), which took approximately 5.5 hours.
+Eager to dive into the embrace of this paradise, we chose EVA Air's direct flights (BR255/BR256), with a flight time of about 5.5 hours.
 
 ### 2. (Very Important!) Visa, Entry, and Related Applications
 
-Includes visa (eVOA／VOA), ~~eCD electronic customs declaration, health information card (SSHP)~~ (now integrated into [AIAC](/en/blog/bali-evisa-customs-health-declaration/)), and tourism tax.
+This includes the visa (eVOA/VOA), ~~eCD electronic customs declaration, health information card (SSHP)~~ (now integrated into [AIAC](/en/blog/bali-evisa-customs-health-declaration/)), and the tourism levy.
 
-**Pro Tip (From Personal Experience):**
+**Friendly Reminder (From Personal Experience):**
 
-For all online applications, it's best to operate during the Indonesian government's regular working hours. The system runs more smoothly, and you're less likely to encounter strange technical issues.
+For all online applications, it's best to do them during Indonesian government office hours (daytime). The system runs smoother, and you're less likely to run into weird technical glitches.
 
 **(1) Visa: eVOA / VOA**
 
-To save time upon arrival, I chose to apply for the eVOA (electronic Visa on Arrival) before departure. This allows you to go directly through the automated immigration gates after landing.
+To save time upon arrival, I applied for an eVOA (electronic visa on arrival) before departure, so I could use the automated gates right after landing.
 
-- Required documents: Scanned passport page (JPG/PDF), passport photo (JPG), accommodation address, flight information, credit card
-- Cost: IDR 500,000 per person (approx. USD$31)
-- Official application website: <https://evisa.imigrasi.go.id/> <--- Only official link
-- Application guide: Many tutorial articles are available in the community, such as [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
+- Documents needed: Passport info page scan (JPG/PDF), passport photo (JPG), accommodation address, flight details, credit card
+- Fee: IDR 500,000/person (approx. USD$16)
+- Official application link: <https://evisa.imigrasi.go.id/> <---This is the only official website
+- Tutorials: There are plenty of guides in the community, like [【2026 Edition】Using the "All Indonesia" Arrival Card for Bali Entry｜Master the Latest Process in 1 Minute: From Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
 **PS:**
 
-The visa is valid for 30 days. It's recommended to apply about 7 days before departure.
+The visa is valid for 30 days. I recommend applying about 7 days before departure.
 
-With eVOA, you can use the automated gates. I usually print a copy as backup.
+With an eVOA, you can use the automated gates. I always print a paper copy just in case.
 
-**(2) eCD Electronic Customs Declaration & SSHP Health Declaration**
+**(2) eCD Electronic Customs Declaration & SSHP Health Statement**
 
-- Required documents: Passport details, eVOA number, flight and accommodation information
-- Application website: 'All Indonesia' integrated arrival system <https://allindonesia.imigrasi.go.id/>
-- Cost: Free
-- Tutorial reference: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
+- Documents needed: Passport details, eVOA number, flight and accommodation info
+- Application link: "All Indonesia" integrated arrival system <https://allindonesia.imigrasi.go.id/>
+- Fee: Free
+- Tutorial reference: [【2026 Edition】Using the "All Indonesia" Arrival Card for Bali Entry｜Master the Latest Process in 1 Minute: From Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/)
 
-**PS:** Please save the QR code on your phone or print a copy for verification.
+**PS:** Save the QR Code on your phone or print a paper copy for inspection.
 
 (3) Tourism Tax
 
-- Required documents: Passport information, credit card
-- Application method: Download the Love Bali App or visit <https://lovebali.baliprov.go.id/home>
+- Documents needed: Passport details, credit card
+- How to apply: Download the Love Bali App or visit <https://lovebali.baliprov.go.id/home>
 - Fee: IDR 150,000 per person (approx. USD$9)
 
-**PS:** Similarly, please save the QR code for verification.
+**PS:** Again, keep the QR Code handy for inspection.
 
-(4) Currency Exchange
+(4) US Dollar Exchange
 
-It’s recommended to exchange USD$100 in Taiwan first, then convert it to Indonesian Rupiah in Indonesia for better rates. Local exchange rates vary based on USD denominations—$100 and $50 bills get the best rates, while $20, $10, $5, and $1 bills may have less favorable rates.
+It's recommended to exchange US$100 bills in Taiwan before heading to Indonesia, as you'll get a better exchange rate for Indonesian Rupiah. In Indonesia, the exchange rate depends on the bill denomination—$100 and $50 bills get the best rates, while $20, $10, $5, and $1 bills have less favorable rates.
 
 {{block:換匯}}
 
 ***
 
-## ※ Private Driver Guide Experience
+## ※ Private Driver & Guide Experience
 
-For this trip, we were fortunate to meet Betty Pingky through a group recommendation. From pre-trip itinerary planning and hotel suggestions to professional guidance and thoughtful companionship during the journey, she made everything feel safe and warm.
+On this trip, I was incredibly lucky to meet Betty Pingky through a community recommendation. From pre-trip itinerary planning and hotel suggestions to professional guiding and warm companionship throughout the journey, she made everything feel reassuring and heartfelt.
 
-![※ Private Driver Guide Experience](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
+![※ 包車導遊心得](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
 
-Sometimes, she even provided "one-person service with two-person care," as her husband Xiao Wu joined us for two days, filling the trip with laughter.
+Sometimes, she even offered 'one-person service, two-person care'—on two days, her husband Xiao Wu joined us, filling the trip with laughter.
 
-On one day when the hotel didn’t provide breakfast and we had an early start, she worried we’d go hungry and proactively prepared breakfast for us. She truly treated us like family—it was heartwarming!
+One morning, our hotel didn't provide breakfast, and we had an early start. Worried we'd go hungry, she proactively prepared breakfast for us. She truly treated us like family—it was so touching!
 
 ***
 
-## ※ Itinerary Overview
+## ※ Itinerary Overview & Travel Journal
 
-![※ Itinerary Overview](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
+![※ 行程概覽與遊記](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
 
 ### **Day 1: Arrival in Bali → Jimbaran Beach Sunset & Seafood Dinner**
 
-- **Attractions**: Currency exchange, Jimbaran sunset
+- **Sights & Activities**: Currency exchange, Jimbaran sunset
 - **Dining**: Dinner at Malafi Cafe Jimbaran
-- **Accommodation**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+- **Accommodation**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
 
-Upon arriving in Bali, Betty was already waiting at the airport with a welcoming smile that instantly eased the fatigue from the long flight. We headed to the villa to drop off our luggage and then made our way to **Jimbaran Beach**. Even after 23 years, the sunset at Jimbaran remains as breathtaking as ever, with the aroma of grilled seafood wafting from the neatly lined stalls along the beach. Dinner at **Malafi Cafe Jimbaran** featured fresh seafood accompanied by live music, as we sat together on the sand, feet buried in the fine grains, gazing at the orange-hued sunset over the sea — pure bliss.
+Upon arrival in Bali, Betty was waiting at the airport with a sign, her warm smile instantly melting away the fatigue of the long flight. We first headed to the villa to drop off our luggage, then made a beeline for **Jimbaran Beach**. Twenty-three years had passed, yet Jimbaran's sunset remained as breathtaking as ever, with rows of seafood barbecue stalls lining the sand and filling the air with tempting aromas. Dinner was at **Malafi Cafe Jimbaran**, where we enjoyed fresh seafood accompanied by a live band. The whole family sat together on the beach, toes in the sand, gazing at the orange-red sunset over the sea—a moment of pure bliss.
 
-![Day 1: Arrival in Bali → Jimbaran Beach Sunset & Seafood Din](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
+![Day 1：抵達峇里島 → 金巴蘭海灘落日與海鮮晚餐](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
 
-For the first two nights, our villa accommodation offered options ranging from one to four bedrooms. For those interested, check out [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952).
+For our first two nights, the villa offers options ranging from one-bedroom to four-bedroom units. If you're interested, check out [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
 
 {{block:jim}}
 
@@ -122,103 +124,103 @@ For the first two nights, our villa accommodation offered options ranging from o
 
 ### **Day 2: Blue Cliff Road → Uluwatu Temple → Relaxing Spa**
 
-- **Attractions**: Water activities, Blue Cliff Road, Uluwatu Temple, Sakar Jepun Spa
-- **Dining**: Lunch at WARUNG LAOTA, dinner at a nearby market
-- **Accommodation**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+- **Sights & Activities**: Water sports, Blue Cliff Road, Uluwatu Temple, Sakar Jepun Spa
+- **Dining**: Lunch at Warung Laota, dinner at a market near the hotel
+- **Accommodation**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
 
-![Day 2: Blue Cliff Road → Uluwatu Temple → Relaxing Spa](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
+![Day 2：藍色斷崖公路 → 烏魯瓦圖廟 → 舒壓 Spa](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
 
-Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted sharply with the steep cliffs. Along the way, we spotted several couples taking wedding photos, adding a romantic touch to the scenery. Next, we visited **Uluwatu Temple**, marveling at the ancient Hindu architecture and intricate stone carvings. In the afternoon, we indulged in a traditional Balinese massage at **Sakar Jepun Spa**, rejuvenating ourselves for the adventures ahead.
+Betty drove us along **Blue Cliff Road**, where the deep blue sea contrasted sharply with the steep cliffs. Along the way, we spotted several couples taking wedding photos—a truly romantic scene. We then visited **Uluwatu Temple**, marveling at the ancient Hindu architecture and intricate stone carvings. In the afternoon, we headed to **Sakar Jepun Spa**, where all six of us enjoyed a traditional Balinese massage to shake off the travel fatigue and recharge for the days ahead.
 
 {{block:uluwatu}}
 
-- [【Highlights】Top-Rated Spas & In-House Massages in Bali, Organized by Area for Easy Reference](/en/blog/spa/)
+- [【Highlights】Top-Rated Spas & In-Room Massage Recommendations in Bali, Organized by Area for Easy Browsing](/en/blog/spa/)
 
 ***
 
-### **Day 3: Safari Park → Countryside Dinner**
+### **Day 3: Bali Safari & Marine Park → Dinner Amidst the Rice Fields**
 
-- **Attractions**: Taman Safari Bali, Ayung River Rafting, Sukawati Market
-- **Dining**: Lunch at Joni's Garden Restaurant (Dirty Duck Rice), Dinner at Freddies Resort & Villas
-- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
+- **Itinerary**: Taman Safari Bali, Ayung River Rafting, Sukawati Market
+- **Meals**: Lunch at Joni Farm Restaurant (Crispy Duck Rice), Dinner at Freddies Resort & Villas
+- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-24141779/freddies-resort-villas-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Fma46mCo)
 
-![Day 3: Safari Park → Countryside Dinner](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
+![Day 3：野生動物園 → 田園晚餐](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
 
-**Taman Safari Bali** is a favorite among children, offering close encounters with elephants, tigers, and other animals. You can also take a safari bus into the wild area, experiencing the vastness of an African savanna. Dinner is served at **Freddies Resort & Villas**, where the serene environment and exquisite dishes make for a delightful evening.
+**Taman Safari Bali** is a hit with kids, offering up-close encounters with elephants, tigers, and more. You can also hop on a safari tram to explore the wild zone, feeling the vastness of an African savanna. Dinner is served at **Freddies Resort & Villas**, where the serene ambiance and exquisite cuisine make for a perfect evening.
 
-**Quick Reference:** [Complete Guide to Bali Safari: Night Stay Experience, Family Fun & Itinerary Planning](/en/blog/bali-safari-night-experience/)
+**Quick Reference:** [Bali Safari Park Complete Guide: Night Stay, Family Fun & Itinerary Planning](/en/blog/bali-safari-night-experience/)
 
 ***
 
-### **Day 4: Ubud Rafting → Art Village → Rice Terrace Swing → BBQ Ribs**
+### **Day 4: Ubud Rafting → Art Village → Rice Terrace Swing → Grilled Pork Ribs**
 
-- **Attractions**: Ubud Rafting, Penglipuran Village, Tegallalang Rice Terrace (Jungle Swing)
-- **Dining**: Lunch included with rafting, Dinner at iiga warung (BBQ Ribs)
-- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
+- **Itinerary**: Ubud Rafting, Penglipuran Village, Tegallalang Rice Terrace (Jungle Swing)
+- **Meals**: Lunch included with rafting, Dinner at iiga warung (Grilled Pork Ribs)
+- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-24141779/freddies-resort-villas-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Fma46mCo)
 
-![Day 4: Ubud Rafting → Art Village → Rice Terrace Swing → BBQ](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
+![Day 4：烏布泛舟 → 藝術村落 → 梯田鞦韆 → 碳烤豬肋排](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
 
-Start the morning with **Ayung River Rafting**, where the lush tropical rainforest scenery and gentle currents make it perfect for family fun—you can even jump in for a swim! Next, visit **Penglipuran Village**, a traditional Balinese art village rich in cultural heritage. The jungle swing at **Tegallalang Rice Terrace** is a must-visit spot for Instagram-worthy photos. Our family couldn't resist taking a turn, soaring high above the emerald-green rice terraces—thrilling and breathtaking. Dinner at **iiga warung** features delicious BBQ ribs with a sweet and savory sauce that we still reminisce about.
+In the morning, head to **Ayung River Rafting**, where the lush tropical rainforest scenery is stunning, and the gentle currents make it perfect for the whole family—you can even jump in for a swim! Next, visit **Penglipuran Village**, a traditional Balinese art village brimming with cultural charm. The **Tegallalang Rice Terrace** jungle swing is a must-photo spot for Instagram lovers; our family couldn't resist queuing up for it. Swinging high above the emerald-green terraces was both thrilling and spectacular. For dinner, we feasted on grilled pork ribs at **iiga warung**—the sweet and savory sauce was so delicious, we're still craving it.
 
 {{block:ubud}}
 
 **Quick Reference:**
 
-- [Bali Rafting Guide (FAQ)](/en/blog/bali-rafting-ayung-telaga-waja/)
+- [Bali Rafting Guide (FAQ for Rafting)](/en/blog/bali-rafting-ayung-telaga-waja/)
 - [Step Back in Time at Penglipuran Village: Experience Bali's Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
-- [Ubud Swing: Bali's 8 Most Beautiful Swing Photo Spots｜Ubud Swing/Dress Rental Guide](/en/blog/ubud-jungle-swings-photo-guide/)
+- [Ubud Swing Guide: The 8 Most Photogenic Swing Spots in Bali | Ubud Swings & Dress Rental Tips](/en/blog/ubud-jungle-swings-photo-guide/)
 
 ***
 
-### **Day 5: Seminyak Shopping → Beachwalk Mall → Final Spa**
+### **Day 5: Seminyak Shopping → Beachwalk Shopping Center → Final Spa**
 
-![Day 5: Seminyak Shopping → Beachwalk Mall → Final Spa](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
+![Day 5：水明漾逛街 → Beachwalk購物中心 → 最後的 Spa](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
 
-- **Attractions**: Bali Handara Cafe, Seminyak Street, Beachwalk Shopping Center, SPA
-- **Dining**: Lunch at Secret Garden Restaurant, Dinner at Beachwalk Shopping Center
-- **Accommodation**: [Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
+- **Itinerary**: Bali Handara Cafe, Seminyak Street, Beachwalk Shopping Center, SPA
+- **Meals**: Lunch at Secret Garden Restaurant, Dinner at Beachwalk Shopping Center
+- **Accommodation**: [Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-987824/sheraton-bali-kuta-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/q7Xyh0DQ)
 
 https://youtu.be/IReL1ztxL7c
 
-The last day is reserved for a relaxed shopping spree. **Seminyak Street** and **Beachwalk Shopping Center** are home to numerous international brands and local specialty shops. Our stay at [Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) is conveniently located above Beachwalk Shopping Center, where we picked up souvenirs and gifts. In the evening, we indulged in one last **SPA** session, perfectly concluding our journey.
+On the final day, we kept it relaxed with some shopping. **Seminyak Street** and **Beachwalk Shopping Center** are packed with international brands and local boutiques. Our stay at [Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-987824/sheraton-bali-kuta-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/q7Xyh0DQ) was conveniently located right above Beachwalk Shopping Center, so we picked up souvenirs and gifts there. In the evening, we treated ourselves to one last **SPA** session, capping off the trip perfectly.
 
 {{block:smk}}
 
 ***
 
-### **Day 6: Stroll Along Kuta Beach → Airport Transfer**
+### **Day 6: Strolling Kuta Beach → Airport Transfer**
 
-- **Itinerary**: Stroll along Kufa Beach, visit Mal Bali Galeria
-- **Dining**: Lunch at Mal Bali Galeria
+- **Attractions**: Stroll along Kuta Beach, Mal Bali Galeria
+- **Meals**: Lunch at Mal Bali Galeria
 - **Accommodation**: Sweet home
 
-Start your morning with a walk along **Kuta Beach**, soaking up Bali's final sea breeze and sunshine. Then head to **Mal Bali Galeria** for some last-minute shopping. After lunch, Betty kindly escorted us to the airport, staying with us until the departure hall for a heartfelt farewell.
+In the morning, take a leisurely walk along **Kuta Beach**, soaking in the last sea breeze and sunshine of Bali. Then head to **Mal Bali Galeria** for some final shopping. After lunch, Betty kindly drives us to the airport, accompanying us all the way to the departure hall for a heartfelt farewell.
 
-![Day 6: Stroll Along Kuta Beach → Airport Transfer](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
+![Day 6：庫塔海灘漫遊 → 機場送機](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
 
 ***
 
 ## ※ Closing Thoughts
 
-Returning to Bali after 23 years, what has changed are the more convenient tourist facilities and diverse experiences, while what remains unchanged is the island's warm hospitality and natural beauty. We are extremely grateful to our guide **Betty Pingky** for her professionalism and thoughtfulness, allowing our family of six to enjoy a relaxing vacation. We also want to thank all the seniors in the community; your sharing was the greatest help in making our trip smooth!
+Returning to Bali after 23 years, what has changed is the more convenient travel facilities and a wider range of experiences; what remains unchanged is the island's warm hospitality and natural beauty. We are deeply grateful to our guide **Betty Pingky** for her professionalism and thoughtfulness, which allowed our family of six to enjoy the vacation with ease. Many thanks also to the senior members of the group—your shared insights were the greatest help in making our trip smooth and enjoyable!
 
 Bali, we'll see you next time!
 
 ***
 
-**Travel Dates: 2025/7/13 \~ 2025/7/18**
+**Travel Dates: July 13, 2025 ~ July 18, 2025**
 
-**Number of Travelers: 6 (Family Trip)**
+**Group Size: 6 people (family trip)**
 
 **Recommended Guide: Betty Pingky**
 
-**Itinerary Planning: Independent Travel + Private Car Guide**
+**Itinerary: Independent travel + private car with guide**
 
 ![非常感謝社團朋友們的熱心分享與協助，為我們推薦了一位非常棒的導遊 Betty Pingky](https://images.gobaligo.id/vocus/vocus_1c7cd1bf0912112ad2aecb4b624112f2.jpg)
 
-Many thanks to the enthusiastic sharing and assistance from our community friends, who recommended an excellent guide, Betty Pingky.
+A huge thank you to all the friends in the group for your warm sharing and help—you recommended an absolutely wonderful guide, Betty Pingky.
 
-Did you find Yama Chen's itinerary exciting? Start planning your own Bali adventure now! We also welcome everyone to share their travel plans in our community!
+Do you think [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/)'s itinerary looks amazing? Go ahead and plan your own Bali free-and-easy trip! Everyone is also welcome to share your itinerary in the group!
 
 {{block:遊記}}
 

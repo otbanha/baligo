@@ -1,11 +1,12 @@
 ---
 slug: bali-lunar-new-year-events
-title: 【Wajib Disimpan】Kumpulan Info Perayaan Imlek di Bali
+title: 【Wajib Disimpan】Kumpulan Info Acara Imlek di Bali
 description: >-
-  Berikut info lengkap perayaan Imlek 2025 di Bali. Kalau kamu dan keluarga
-  liburan ke Bali pas tahun baru Imlek, tetap bisa ngerasain suasana tahun baru
-  di sini, lho!
+  Ini dia info lengkap acara perayaan Imlek 2025 di Bali. Kalau kamu dan
+  keluarga kebetulan liburan ke Bali pas momen Imlek, tetap bisa ngerasain
+  suasana Tahun Baru meski lagi di luar negeri, lho!
 pubDate: '2025-01-15'
+updatedDate: 2026-07-20T00:00:00.000Z
 update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
@@ -19,60 +20,61 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: id
-_srcHash: d7f3fde71789dc874d2ad9b686c30f9c
+_srcHash: e08c4d94e87e2a2eb0f7125c0627373f
 ---
-Berikut info lengkap perayaan Imlek 2025 di Bali. Kalau kamu dan keluarga liburan ke Bali pas tahun baru Imlek, tetap bisa ngerasain suasana tahun baru di negeri orang!
 
-![【Wajib Disimpan】Kumpulan Info Perayaan Imlek di Bali](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
+Ini dia info lengkap acara perayaan Imlek 2025 di Bali. Kalau kamu dan keluarga kebetulan liburan ke Bali pas momen Imlek, tetap bisa ngerasain suasana Tahun Baru meski lagi di luar negeri, lho!
+
+![【必收藏】峇里島慶祝農曆新年的活動資訊整理](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
 ---
 
 ### 1. **Acara Perayaan Imlek**
 
-Pada 29 Januari 2025, Bali akan merayakan Imlek. Komunitas Tionghoa dan pelaku wisata di sini sudah menyiapkan berbagai acara seru, mulai dari pertunjukan budaya tradisional, santapan lezat, sampai dekorasi khas Imlek:
+Pada 29 Januari 2025, Bali bakal merayakan Imlek. Komunitas Tionghoa dan pelaku wisata di sana sudah menyiapkan berbagai acara seru, mulai dari pertunjukan budaya tradisional, pesta kuliner, sampai dekorasi khas Imlek:
 
-- **Pertunjukan Barongsai**: Ini salah satu tradisi paling populer saat Imlek, dipercaya bisa mengusir roh jahat dan membawa keberuntungan. Kamu bisa lihat pertunjukan barongsai keren di [Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761) [Booking](https://booking.tpm.li/yxbd6o5B) dan [Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1502950&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xszFJMEk9Z6Zo_nV-7-sQoxGBpwWnwQdZ80Egvh2B8-Y_kNfNTx6HAJ4GhkZQGCBm8MMxmd3o1cwMm5k5Lq-uMB2UbLDDkamE4yvFBYw3flucYqFmeMm6yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBubmOsZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LQbh8stjFBcbj4gLjeujX3EwhQd-4mF4RcLQxMrQxcrwyRWZo5XCrtYeQK9fM0iLHUNdaN0DaXkDA0MDEwNjU1NdQ0SLS2SjY1TdE0sTYwsTXXNDU0MNI5ue9T41NjIWop1yoHn09gVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsTkbG1uamUXZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPzOs2kk6ZdNo-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANxSG9XhAgAA&masterhotelid_tracelogid=100051355-0a98c33d-494295-7140&detailFilters=17|1~17~1*31|1502950~31~1502950*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1078&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/IVn2859x). (Sumber: [en.tempo.co](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali))
-- **Doa di Klenteng**: Klenteng Tionghoa di Bali, seperti Klenteng Caow Eng Boi dan Satya Dharma Temple, akan dihias lampion merah dan pohon uang, serta mengadakan ritual doa yang memadukan budaya Tionghoa dan Bali. (Sumber: [dijiwasanctuaries.com](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
-- **Pesta Kembang Api**: Di daerah Singaraja dan lainnya, pesta kembang api akan menerangi langit malam, dipercaya bisa mengusir nasib buruk dan menyambut keberuntungan. (Sumber: [dijiwasanctuaries.com](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **Pertunjukan Barongsai**: Ini salah satu tradisi paling ikonik saat Imlek, dipercaya bisa mengusir roh jahat dan membawa keberuntungan. Kamu bisa lihat atraksi barongsai yang keren di tempat-tempat kayak [Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761) [Booking](https://booking.tpm.li/yxbd6o5B) dan [Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1502950/courtyard-by-marriott-bali-seminyak-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/IVn2859x). ([Sumber](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali))
+- **Doa di Klenteng**: Klenteng-klenteng Tionghoa di Bali, seperti Klenteng Caow Eng Boi dan Satya Dharma Temple, bakal dihias lampion merah dan pohon uang. Ada juga upacara doa yang unik, perpaduan budaya Tionghoa dan Bali. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **Pesta Kembang Api**: Di daerah Singaraja dan sekitarnya, kembang api bakal menerangi langit malam, dipercaya bisa mengusir sial dan menyambut keberuntungan. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ---
 
-### 2. **Pengalaman Kuliner Spesial**
+### 2. **Kuliner Spesial Imlek**
 
-Selama Imlek, restoran dan hotel di Bali menyajikan menu spesial yang memadukan masakan tradisional Tionghoa dengan cita rasa lokal:
+Selama Imlek, restoran dan hotel di Bali ngeluarin menu spesial yang menggabungkan masakan tradisional Tionghoa dengan cita rasa lokal:
 
-- **Makan Malam Keluarga**: Banyak hotel mewah seperti [AYANA Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504) dan [Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982) menawarkan makan malam Imlek dengan menu seperti yusheng, bebek Peking, mie panjang umur, dan hidangan simbol kekayaan serta umur panjang lainnya. (Sumber: [1](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/), [2](https://www.themulia.com/bali/lunar-new-year-2025))
-- **Teh Sore & Dimsum**: Damar Terrace di AYANA Bali menyajikan teh sore bertema Imlek dengan dimsum khas Tionghoa yang cantik. (Sumber: [ayana.com](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/))
-- **Jajanan Kaki Lima**: Di Denpasar dan Singaraja, kamu bisa mencicipi jajanan kaki lima perpaduan Tionghoa dan Bali, seperti pangsit dan bebek panggang. (Sumber: [dijiwasanctuaries.com](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **Makan Malam Keluarga**: Banyak hotel mewah kayak [AYANA Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504) dan [Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982) yang nawarin paket makan malam Imlek, dengan menu seperti yusheng, beijing duck, mie panjang umur, dan hidangan lain yang melambangkan kekayaan dan umur panjang. (Sumber [1](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/), [2](https://www.themulia.com/bali/lunar-new-year-2025))
+- **Afternoon Tea & Dimsum**: Di Damar Terrace, AYANA Bali, ada afternoon tea bertema Imlek dengan aneka dimsum yang cantik dan enak. ([Sumber](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/))
+- **Jajanan Pinggir Jalan**: Di daerah Denpasar dan Singaraja, kamu bisa cobain jajanan kaki lima yang merupakan perpaduan rasa Tionghoa dan Bali, kayak pangsit dan bebek panggang. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
-### 3. **Kegiatan Budaya & Seni**
+### 3. **Acara Budaya & Seni**
 
-Perayaan Imlek di Bali nggak cuma soal makanan, tapi juga penuh pengalaman budaya yang seru:
+Perayaan Tahun Baru Imlek di Bali nggak cuma soal makanan, tapi juga penuh dengan pengalaman budaya yang seru:
 
-- **Musik & Tari Tradisional**: Di [Kang Xi Temple](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685798&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-qOHSuYhJgNDYw07rMZPGC02CrvaMt1fXGB_GQHz_5DXzViOqc7BPBETDnwfBp7YnOg59yGQ4EOXYysYIEZjM_eam5k9HhYJbJueaHDDkamA4xMJxhvmS1gun3pFeMpFmaOBVyXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGxopGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkLbNdrLze3i6Rjv66hiG6UbqGF1jbbKXkDQ0MDEwNjU1NdQ0SLRNNjZMNdU0sTYzMDXTNjM0tLDSu9_XeeGJsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbE6WZuaGLlE2XMyhwS6CAhGWW06YSTtIMYeEuyiWrn6-5HvvaXstZk-XIMMPes-3t1tb2gfueZ1zwt54gX1kOMv_6JN9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAGFDC3dIAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-63788&detailFilters=17|1~17~1*31|685798~31~685798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=240&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kOsEG0tu) di [Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164), kamu bisa nonton pertunjukan guzheng (alat musik tradisional China) dan barongsai, plus ikut makan malam keluarga 8 hidangan. ([Sumber](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/))
+- **Musik & Tari Tradisional**: Di [Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685798/hotel-tugu-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/kOsEG0tu) di Kang Xi Temple, kamu bisa nonton pertunjukan guzheng dan barongsai, plus ikut jamuan keluarga 8 hidangan. ([Sumber](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/))
 - **Dekorasi & Pasar Imlek**: Jalanan di Denpasar dihias lampion merah dan dekorasi khas Imlek, bikin suasana makin meriah. Di pasarnya, kamu juga bisa beli kerajinan tangan tradisional dan oleh-oleh khas Imlek. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
-![3. Kegiatan Budaya & Seni](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
+![3. 文化與藝術活動](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
 ---
 
 ### 4. **Aktivitas Ramah Keluarga**
 
-Buat kamu yang liburan bareng keluarga, resor di Bali punya banyak aktivitas seru buat anak-anak:
+Buat kamu yang liburan bareng keluarga, resort di Bali punya banyak aktivitas seru buat anak-anak:
 
 - **Kids Club**: Kids Club di AYANA Bali punya kegiatan seru kayak eksplorasi alam, melukis, dan bikin topeng. ([Sumber](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/))
-- **Pengalaman Budaya**: [Blue Karma Village](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=38785925) ngadain kelas Jamu tradisional dan bikin sesajen khas Bali, jadi anak-anak bisa belajar budaya lokal langsung. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **Pengalaman Budaya**: [Blue Karma Village](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=38785925) ngadain kelas Jamu tradisional dan bikin sesajen khas Bali, biar anak-anak makin kenal budaya lokal. ([Sumber](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ---
 
 ### 5. **Promo Spesial & Paket Menginap**
 
-Ini dia kumpulan promo spesial di Bali, mulai dari diskon hotel, paket liburan, sampai diskon aktivitas — cocok buat referensi kamu:
+Ini dia kumpulan promo spesial di Bali, mulai dari diskon hotel, paket wisata, sampai diskon aktivitas — cocok banget buat referensi kamu:
 
-### **Diskon Hotel**
+### **Promo Hotel**
 
-- [**Munduk Moding Plantation**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=298301): Pesan lebih awal bisa dapet diskon sampai 40%, plus gratis pijat, layanan makan, dan kebijakan pembatalan fleksibel.
-- [**Mulia Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982): Ada promo "bayar 4 malam, nginep 5 malam" — udah termasuk sarapan harian dan aktivitas resor gratis. Cocok buat keluarga atau pasangan, fasilitasnya lengkap banget: kolam renang, SPA, dan restoran.
+- [**Munduk Moding Plantation**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=298301): Pesan lebih awal bisa dapet diskon sampai 40%, plus free massage, layanan makan, dan kebijakan pembatalan yang fleksibel.
+- [**Mulia Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982): Ada promo "nginep 4 malam bayar 3 malam", udah termasuk sarapan harian dan akses gratis ke aktivitas resort. Cocok buat keluarga atau pasangan, fasilitasnya lengkap banget — ada kolam renang, SPA, dan restoran.
 
 ---
 
@@ -85,34 +87,34 @@ Ini dia kumpulan promo spesial di Bali, mulai dari diskon hotel, paket liburan, 
   - **2 Februari**: Lomba Cosplay (16:00) dan penutupan (17:00-22:00), termasuk pertunjukan budaya dan program spesial Imlek.
   - **Acara Lain**: Donor darah (08:30-13:00) dan senam massal (mulai 16:00).
 - **Lokasi**: Patung Catur Muka dan Lapangan Puputan Badung, Denpasar.
-- **Festival Kuliner**: Menyajikan berbagai makanan khas Imlek dan tradisional Indonesia.
+- **Festival Kuliner**: Menyajikan berbagai hidangan khas Imlek dan tradisional Indonesia.
 
 ## Makan Malam Imlek
 
-Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu merasakan suasana Imlek yang kental di surga tropis. Mulai dari pertunjukan barongsai tradisional, jamuan中式 yang mewah, sampai pengalaman budaya yang penuh energi, Bali punya cara unik buat merayakannya. Berikut rekomendasi restoran untuk perayaan Imlek 2025 di Bali, ajak kamu eksplor pengalaman liburan paling kece:
+Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu merasakan suasana Imlek yang kental di surga tropis. Mulai dari pertunjukan barongsai tradisional, jamuan khas Tionghoa yang mewah, sampai pengalaman budaya yang penuh semangat — Bali punya cara unik buat rayain Imlek. Ini dia rekomendasi restoran untuk perayaan Imlek 2025 di Bali, biar kamu bisa nikmatin momen paling seru:
 
 ### Kuta / Legian
 
 1. **Padma Resort Legian**
 2. - Tanggal: 29 Januari 2025
    - Acara: Makan malam prasmanan mewah, termasuk pertunjukan tradisional seperti barongsai dan wushu.
-   - Harga: IDR 550.000+/orang (early bird IDR 500.000+).
+   - Harga: IDR 550.000+/orang (harga early bird IDR 500.000+).
    - Reservasi WA: +62 811 3821 9512
 3. **Montage at Pullman Bali Legian Beach**
 4. - Tanggal: 29 Januari 2025
-   - Acara: Makan malam prasmanan中式, live band dan tarian Tionghoa.
+   - Acara: Makan malam prasmanan ala Tionghoa, dengan live band dan tarian China.
    - Harga: IDR 358.000++/orang, anak 6-11 tahun setengah harga.
    - Reservasi WA: +62 811 376 2500
 5. **Fairfield by Marriott Bali Legian**
 6. - Tanggal: 30 Januari 2025
-   - Acara: Makan malam prasmanan Legian's Lunar Feast, dengan live music.
+   - Acara: Makan malam prasmanan Legian's Lunar Feast, dengan pertunjukan musik live.
    - Harga: IDR 350.000 belum pajak/orang.
    - Reservasi Telp: +62 811 3960 0130
-7. **Mr. Lobster Seafood Bali (punya bos Taiwan, dukung terus ya!)**
+7. **Mr. Lobster Seafood Bali (Punya bos Taiwan, dukung terus ya!)
 
-![Kuta / Legian](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
+![庫塔 / 雷吉安](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 
-- - Tanggal: Mulai sekarang hingga 24 Februari 2025
+- - Tanggal: Mulai sekarang sampai 24 Februari 2025
   - Acara: Paket promo Imlek
   - Harga: IDR 400.000 belum pajak/orang
   - Kontak: Cek [di sini](/id/blog/mr-lobster-seafood-bali/)
@@ -121,8 +123,8 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 
 1. **Makase at Hotel Indigo Bali Seminyak Beach**
 2. - Tanggal: 29 Januari 2025
-   - Acara: Makan malam prasmanan Oriental Feast, pertunjukan barongsai.
-   - Harga: IDR 778.000++/orang, termasuk welcome drink.
+   - Acara: Makan malam prasmanan Oriental Feast, dengan pertunjukan barongsai.
+   - Harga: IDR 778.000++/orang, termasuk minuman sambutan.
    - Reservasi Telp: +62 813 5369 5640
 3. **W Bali – Seminyak**
 4. - Tanggal: 29 Januari hingga 5 Februari 2025
@@ -134,12 +136,12 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 
 1. **Lion X at Renaissance Bali Nusa Dua Resort**
 2. - Tanggal: 28 dan 29 Januari 2025
-   - Acara: Paket spesial dan menu à la carte, pertunjukan barongsai dan ganti muka.
+   - Acara: Paket spesial dan menu à la carte, dengan barongsai dan pertunjukan topeng.
    - Harga: Paket mulai IDR 1.088.000++.
    - Reservasi WA: +62 811 3820 5490
 3. **Kwee Zeen at Sofitel Bali Nusa Dua Beach Resort**
 4. - Tanggal: 28 dan 29 Januari 2025
-   - Acara: Makan malam prasmanan mewah, barongsai dan drum.
+   - Acara: Makan malam prasmanan mewah, dengan barongsai dan pertunjukan drum.
    - Harga: IDR 499.000++/orang.
    - Reservasi Telp: +62 811 3830 5954
 5. **Watercourt at Grand Hyatt Bali**
@@ -152,7 +154,7 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 
 1. **Arunika Restaurant at The Meru Sanur**
 2. - Tanggal: 29 Januari 2025
-   - Acara: Brunch Tahun Baru Imlek, pertunjukan barongsai, dan aktivitas anak-anak.
+   - Acara: Brunch Tahun Baru Imlek, pertunjukan barongsai dan aktivitas anak-anak.
    - Harga: IDR 650.000++/orang.
    - Reservasi: +62 811 3839 8826
 3. **Golden Monkey Sanur**
@@ -170,7 +172,7 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 
 1. **AYANA Bali**
 2. - Tanggal: 27-29 Januari 2025
-   - Acara: Berbagai perayaan, termasuk paket hotpot dan pertunjukan barongsai.
+   - Acara: Berbagai perayaan, termasuk paket hot pot dan pertunjukan barongsai.
    - Harga: Hubungi untuk detail.
    - Reservasi: +62 361 846 8478
 3. **InterContinental Bali Resort**
@@ -183,7 +185,7 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 
 1. **oneeighty at The Edge Bali**
 2. - Tanggal: 27-31 Januari 2025
-   - Acara: Paket keluarga ala China, dengan pemandangan laut yang keren banget.
+   - Acara: Paket keluarga ala China, dengan pemandangan laut yang kece abis.
    - Harga: IDR 850.000++/paket (cocok untuk dua orang).
    - Reservasi WA: +62 821 4463 2077
 3. **di Mare restaurant at Karma Kandara**
@@ -214,26 +216,26 @@ Banyak resor mewah dan restoran di Bali yang menggelar perayaan seru, bikin kamu
 
 ## Kesimpulan
 
-Perayaan Tahun Baru Imlek 2025 di Bali memadukan tradisi Tionghoa dengan budaya Bali, mulai dari pertunjukan barongsai, doa di pura, hingga pesta kuliner — semuanya memberikan pengalaman liburan yang seru banget buat wisatawan. Mau kamu traveling bareng keluarga atau pencinta budaya, pasti nemu acara yang cocok di sini.
+Perayaan Tahun Baru Imlek 2025 di Bali memadukan tradisi Tionghoa dengan budaya Bali, mulai dari pertunjukan barongsai, doa di pura, hingga pesta kuliner — semuanya memberikan pengalaman liburan yang kaya buat para wisatawan. Mau kamu datang bareng keluarga atau sebagai pecinta budaya, pasti ada kegiatan yang cocok di sini.
 
 **Referensi Cepat:**
 
-[Panduan Liburan Keluarga ke Bali saat Imlek: Tiket Pesawat, Visa, Transportasi, Tempat Wisata, & Tips Penting Selama Liburan Tahun Baru Imlek](/id/blog/2026-bali-lunar-new-year-guide/)
+[Panduan Liburan Keluarga ke Bali saat Imlek: Tiket Pesawat, Visa, Transportasi, Tempat Wisata, & Tips Lengkap](/id/blog/2026-bali-lunar-new-year-guide/)
 
-## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
+## 📩 **Gabung sekarang di 'Panduan Wisata Bali' dan jadi ahli liburan ke Bali!**
 
-![Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Ba](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 
-✅ Berita terbaru soal Bali, biar kamu selalu update info liburan  
+✅ Info terbaru soal Bali, biar kamu selalu update soal traveling
 
-✅ Panduan mendalam, bikin itinerary kamu hemat dan bebas khawatir  
+✅ Panduan lengkap, bikin itinerary kamu hemat dan bebas ribet
 
-✅ Rekomendasi tempat rahasia dan peta kuliner lokal eksklusif  
+✅ Rekomendasi tempat rahasia (hidden gem) dan peta kuliner lokal eksklusif
 
-✅ Konten yang nggak ada di grup Facebook  
+✅ Konten yang nggak bakal kamu temuin di grup Facebook
 
-✅ Kumpulan saran itinerary paling lengkap dari sesama traveler, bikin setiap trip jadi mulus tanpa hambatan
+✅ Kumpulkan rekomendasi itinerary paling lengkap dari sesama anggota, biar setiap perjalananmu mulus tanpa drama
 
-Cukup pakai akun Google atau Facebook, registrasinya gampang banget!
+Cukup daftar pakai akun Google atau Facebook — gampang banget!

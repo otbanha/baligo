@@ -1,48 +1,53 @@
 ---
-slug: bali-beauty-and-dark-past
 title: >-
-  Mengenal Bali Lagi: Surga Liburan yang Indah, Tapi Pernah Ada Mimpi Buruk di
-  Baliknya
+  Kenalan Lagi Sama Bali: Surga Liburan yang Kece, Tapi Dulu Pernah Ada Mimpi
+  Buruk
+slug: bali-beauty-and-dark-past
 description: >-
-  Berbagi pengalaman liburan di Bali, memperkenalkan perjalanannya dengan cara
-  yang detail, bikin penonton makin ngerasain pesona unik Bali.
-pubDate: '2024-08-01'
-updatedDate: 2026-07-10T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_c7f3310cc35d60f0ce9de40fedf39b6d.jpg'
+  Ngebahas pengalaman liburan di Bali, cara detailnya ngenalin perjalanan dia,
+  biar penonton makin ngeresapi pesona unik Bali.
+pubDate: 2024-08-01T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島旅遊
   - 峇里島
   - 巴里島
   - 釀電影
   - 釀評論
+heroImage: 'https://images.gobaligo.id/vocus/vocus_c7f3310cc35d60f0ce9de40fedf39b6d.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/66aae164fd8978000179d8f1'
-category:
-  - 遊記分享
+source: ''
+sourceUrl: ''
+updatedDate: 2026-07-17T00:00:00.000Z
 lang: id
-_srcHash: 9a4890d362fc741750f041fd2af3097b
+_srcHash: 089fe61f5a987e5b237c0deed9744d97
 ---
-![重新認識峇里島：絕美的度假勝地，曾經卻發生一場惡夢](https://images.gobaligo.id/vocus/vocus_b45e85b2c504868618ed262e579ace76.jpg)
 
-**Intinya**：Video ini berbagi cerita YouTuber Yo's yang balik lagi ke Bali—nginep di **penginapan yang dikelilingi sawah di Ubud** (lengkap dengan SPA, yoga, teh sore, dan sewa motor) bikin kamu bisa kabur dari hiruk-pikuk komersial Kuta; naik motor eksplorasi terasering Tegallalang, bisa lihat langsung sistem irigasi **Subak** yang udah ada sejak abad ke-9 dan masuk Warisan Dunia UNESCO tahun 2012. Di perjalanan, dia juga merekam cerita tragis lokal yang didengar pas macet di Kuta.
+**Intinya**：Video ini nge-share pengalaman YouTuber Yo's pas balik lagi ke Bali——nginep di **penginapan di Ubud yang dikelilingi sawah** (ada SPA, yoga, afternoon tea, sewa motor) bisa jauhin keramaian komersil Kuta; naik motor eksplorasi terasering Tegallalang, bisa liat langsung sistem irigasi **Subak** yang udah ada sejak abad ke-9 dan jadi Warisan Dunia UNESCO tahun 2012. Di perjalanan juga ada cerita sedih soal tragedi lokal yang dia dapet pas macet di Kuta.
 
-Yo's, YouTuber ini, baru-baru ini berbagi pengalaman liburannya di Bali. Dia memperkenalkan perjalanannya dengan cara yang detail, bikin penonton makin ngerasain pesona unik Bali.
+Yo's, YouTuber ini, baru aja share pengalaman liburannya di Bali. Dia ngenalin perjalanannya dengan cara yang detail, biar penonton makin ngerasain pesona unik Bali.
 
-Dia bilang dulu kesan dia tentang Bali kurang bagus, karena pengalaman singkat di Kuta bikin dia ngerasa tempat ini terlalu komersial dan kurang santai. Tapi setelah pandemi, dia memutuskan buat balik lagi ke Bali, buka pikiran, dan nikmatin semua yang ada di pulau ini.
+Dia bilang dulu kesan dia sama Bali kurang oke, karena pengalaman singkat di Kuta bikin dia ngerasa tempat itu terlalu komersil dan kurang santai. Tapi setelah pandemi, dia mutusin buat balik lagi ke Bali, buka pikiran, dan nikmatin semua yang ada di pulau ini.
 
 ![重新認識峇里島：絕美的度假勝地，曾經卻發生一場惡夢](https://images.gobaligo.id/vocus/vocus_1077d118b89b6bd830c9309d87b96fb4.png)
 
-\Yo's selama liburan di Bali kali ini nginep di sebuah penginapan di Ubud, suasananya asri banget, dikelilingi sawah, jauh dari kebisingan jalan raya. Fasilitas yang ditawarin juga lengkap, termasuk SPA, yoga, dan teh sore, bahkan bisa sewa motor—semua bikin Yo's puas banget.
+\Pas liburan di Bali kali ini, Yo's nginep di sebuah penginapan di Ubud, suasananya asri banget, dikelilingi sawah, jauh dari jalan raya yang rame. Fasilitas penginapannya lengkap banget, ada SPA, yoga, dan afternoon tea, bahkan bisa sewa motor. Semua itu bikin Yo's puas banget.
 
-Di perjalanan ini, dia paling pengen eksplorasi tempat-tempat alam Bali lebih dalam. Dia suka naik motor, karena bikin dia bebas pergi ke mana aja, nikmatin perubahan pemandangan di sekeliling, sambil lihat langsung keseharian warga lokal. Sepanjang jalan, terasering yang megah bikin dia terkesan. Yo's bilang, terasering ini adalah salah satu pemandangan paling ikonik di Bali, yang menarik banyak turis buat foto-foto.
+Di trip ini, dia paling pengen eksplorasi tempat-tempat alam Bali lebih dalam. Dia suka naik motor, karena bisa bebas ke mana aja yang dia mau, nikmatin pemandangan yang berubah-ubah, dan liat langsung keseharian warga lokal. Sepanjang jalan, terasering yang spektakuler bikin dia terkesan. Yo's bilang, terasering ini salah satu pemandangan paling ikonik di Bali, yang bikin banyak turis mampir buat foto-foto.
 
 ![重新認識峇里島：絕美的度假勝地，曾經卻發生一場惡夢](https://images.gobaligo.id/vocus/vocus_495aa1662385c20f01156b9864b60899.png)
 
-Yo's juga cerita soal teknik pertanian di balik terasering—sistem Subak. Sistem ini udah dipraktikkan sejak abad ke-9, lewat saluran air yang canggih buat mendistribusikan air ke berbagai sawah, biar setiap padi dapet air yang cukup. Keberhasilan sistem tanam padi ini juga nggak lepas dari kerja sama komunitas lokal. Sistem ini masuk Warisan Dunia UNESCO tahun 2012.
+Yo's juga nge-share pengetahuannya soal sistem pertanian di balik terasering——sistem Subak. Sistem ini udah dipake sejak abad ke-9, lewat saluran air yang canggih buat ngedistribusikan air ke sawah-sawah yang beda, biar setiap padi dapet air yang cukup. Keberhasilan sistem tanam padi ini juga gak lepas dari kerja sama komunitas lokal. Sistem ini ditetapkan sebagai Warisan Dunia UNESCO tahun 2012.
 
 ![重新認識峇里島：絕美的度假勝地，曾經卻發生一場惡夢](https://images.gobaligo.id/vocus/vocus_da9b776860b93747057974aec1cbedbe.png)
 
-Di perjalanan, Yo's juga mampir ke beberapa air terjun di daerah terpencil. Dia suka tempat-tempat sepi kayak gini buat nikmatin ketenangan dan penyembuhan dari alam. Pas eksplor air terjun, dia sesekali nemu pedagang kaki lima, kayak kakak-adik yang jual durian. Dia berhenti di pinggir jalan buat nyobain durian lokal, ternyata lebih murah dan lebih enak dari tempat lain.
+Di perjalanan, Yo's juga dateng ke beberapa air terjun di daerah pinggiran. Dia suka tempat-tempat yang sepi kayak gini buat nikmatin ketenangan dan ketenteraman alam. Pas eksplor air terjun, dia sesekali nemu pedagang kaki lima, kayak kakak-adik jual durian. Dia mampir dan nyobain durian lokal, ternyata lebih murah dan lebih enak dari tempat lain.
 
-Tapi, pas dalam perjalanan ke Kuta, Yo's ketemu macet parah, dan sopirnya cerita soal tragedi menyedihkan yang terjadi hari itu... Ini kita nggak bocorin, biar kamu nikmatin sendiri video Yo's yang dalam dan penuh perasaan:
+Tapi, pas lagi di perjalanan menuju Kuta, Yo's kena macet parah. Saat itu supirnya cerita soal tragedi sedih yang terjadi hari itu... Gak usah di-spoiler, langsung aja tonton video Yo's yang dalem dan penuh perasaan ini:
 
-Perjalanan Yo's ke Bali kali ini nggak cuma bikin dia makin jatuh cinta sama keindahan dan pesona pulau ini, tapi juga bikin dia lebih paham kehidupan dan sejarah penduduk lokal. Videonya bikin penonton bisa lihat sisi Bali yang lebih nyata dan kaya banget.
+Perjalanan Yo's ke Bali kali ini nggak cuma bikin dia kenal lagi sama keindahan dan pesona pulau ini, tapi juga bikin dia makin paham kehidupan dan sejarah penduduk setempat. Videonya bikin penonton lihat sisi Bali yang lebih asli dan kaya.
+
+https://youtu.be/J7ee-Ylx3CA?si=fm1u1dB9TwE0kApp

@@ -1,0 +1,106 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <BaseHead
+      title="404 找不到頁面"
+      description="您要找的頁面不存在或已搬家。歡迎回到 Go Bali Go 峇里島旅遊攻略首頁，或從熱門分類繼續探索。"
+    />
+    <meta name="robots" content="noindex" />
+  </head>
+  <body>
+    <Header />
+    <TopStrip lang={'zh-tw'} />
+    <main class="nf-page">
+      <p class="nf-code">404</p>
+      <h1>找不到這個頁面</h1>
+      <p class="nf-hint">
+        這個網址可能已經更改、文章已下架，或是連結打錯了。<br />
+        <span class="nf-en">Sorry, the page you're looking for doesn't exist or has moved.</span>
+      </p>
+      <a class="nf-home" href="/blog/">回到首頁看所有文章 →</a>
+      <section class="nf-cats">
+        <h2>從熱門分類繼續探索</h2>
+        <ul>
+          <li><a href="/blog/category/新手指南/">🧭 新手指南</a></li>
+          <li><a href="/blog/category/住宿推薦/">🏨 住宿推薦</a></li>
+          <li><a href="/blog/category/峇里島分區攻略/">🗺️ 峇里島分區攻略</a></li>
+          <li><a href="/blog/category/簽證通關/">🛂 簽證通關</a></li>
+          <li><a href="/blog/category/叫車包車/">🚗 叫車包車</a></li>
+          <li><a href="/blog/category/美食景點活動/">🍽️ 美食景點活動</a></li>
+        </ul>
+      </section>
+    </main>
+    <Footer />
+
+    <style>
+      .nf-page {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 3rem 1.25rem 4rem;
+        text-align: center;
+      }
+      .nf-code {
+        font-size: 5rem;
+        font-weight: 800;
+        line-height: 1;
+        margin: 0 0 0.5rem;
+        color: var(--accent, #0ea5e9);
+      }
+      .nf-page h1 {
+        font-size: 1.6rem;
+        margin: 0 0 1rem;
+      }
+      .nf-hint {
+        color: #666;
+        margin-bottom: 2rem;
+      }
+      .nf-en {
+        font-size: 0.9em;
+        color: #999;
+      }
+      .nf-home {
+        display: inline-block;
+        padding: 0.7rem 1.4rem;
+        border-radius: 8px;
+        background: var(--accent, #0ea5e9);
+        color: #fff;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      .nf-cats {
+        margin-top: 3rem;
+        text-align: left;
+      }
+      .nf-cats h2 {
+        font-size: 1.1rem;
+        margin-bottom: 0.8rem;
+        text-align: center;
+      }
+      .nf-cats ul {
+        list-style: none;
+        padding: 0;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 0.6rem;
+      }
+      .nf-cats a {
+        display: block;
+        padding: 0.6rem 0.9rem;
+        border: 1px solid #e5e5e5;
+        border-radius: 8px;
+        text-decoration: none;
+        color: inherit;
+      }
+      .nf-cats a:hover {
+        border-color: var(--accent, #0ea5e9);
+      }
+    </style>
+  </body>
+</html>

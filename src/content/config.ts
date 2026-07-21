@@ -15,6 +15,11 @@ const blog = defineCollection({
     category: z.array(z.string()).optional(),
     tags: z.any().optional(),
     originalUrl: z.string().optional(),
+    // 峇里島新聞（category 含「新聞存檔」時使用）
+    newsCategory: z.enum(['政策', '交通', '天氣', '景點', '簽證', '治安', '活動']).optional(),
+    source: z.string().optional(),
+    sourceUrl: z.string().optional(),
+    imageAlt: z.string().optional(),
     embeds: z.array(z.object({
       position: z.string(),
       platform: z.enum(['youtube', 'instagram', 'tiktok']),

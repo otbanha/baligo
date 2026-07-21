@@ -1,8 +1,9 @@
 ---
 slug: bali-news-april-20-2026
-title: 2026-04-20 巴厘岛新闻
+title: 2026-04-20 巴厘岛新闻：Kemala Run 万人路跑、22 项重大工程启动
 description: ''
 pubDate: 2026-04-20T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 8
 category:
   - 新聞存檔
@@ -15,7 +16,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 60b0f736df4a7985140103b0014ea5e6
+_srcHash: 1f43c5c15dd3cea7ff96ed35c2d6a4cd
 ---
 
 【今早美金汇率：16,650】

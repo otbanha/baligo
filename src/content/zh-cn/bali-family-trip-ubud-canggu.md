@@ -2,8 +2,9 @@
 title: 巴厘岛亲子游自由行6天5夜：从乌布到坎古的行程推荐
 slug: bali-family-trip-ubud-canggu
 description: >-
-  这次的巴厘岛亲子自由行之旅，我们带着满满的期待出发，探索了乌布的文化气息、享受了坎古的悠闲时光、水明漾的时尚繁华，还品尝了当地夜市的美味小吃。从红眼航班的到达开始，我们的一家人就被巴厘岛的魅力所吸引。这篇游记将带你走进我们的6天5夜行程，分享每一天的美好与惊喜。
+  这次的巴厘岛亲子自由行之旅，我们带着满满的期待出发，探索了乌布的文化气息、享受了坎古的悠闲时光、水明漾的时尚繁华，还品尝了当地夜市的美味小吃。从红眼班机的到达开始，我们一家人就被巴厘岛的魅力所吸引。这篇游记将带你走进我们的6天5夜行程，分享每一天的美好与惊喜。
 pubDate: 2024-08-12T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 家庭親子
@@ -18,16 +19,16 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6bd57177ce5264894751be80f247f6ea.jpg'
 originalUrl: 'https://vocus.cc/article/66b84461fd89780001c7c2b4'
 lang: zh-cn
-_srcHash: ccdd2cb2bbcb75de2d77c653e0021f99
+_srcHash: 602612355bb03d9f68d199282765d90c
 ---
 
 > 以下内容由团友 [赵康康](https://www.facebook.com/share/p/i8CMB6maodm1nafL/) 提供给我们重新编排：
 
-这次的巴厘岛之旅，我们带着满满的期待出发，探索了乌布的文化气息、享受了Atlas海滩俱乐部的悠闲时光，还品尝了当地夜市的美味小吃。从红眼航班的到达开始，我们的一家人就被巴厘岛的魅力所吸引。这篇游记将带你走进我们的6天5夜行程，分享每一天的美好与惊喜。
+这次的巴厘岛之旅，我们带着满满的期待出发，探索了乌布的文化气息、享受了Atlas海滩俱乐部的悠闲时光，还品尝了当地夜市的美味小吃。从红眼班机的到达开始，我们一家人就被巴厘岛的魅力所吸引。这篇游记将带你走进我们的6天5夜行程，分享每一天的美好与惊喜。
 
-## **Day 1：红眼航班与乌布初探**
+## **Day 1：红眼班机与乌布初探**
 
-这次安排了一趟6天5夜的巴厘岛家庭旅游，选择搭乘酷航的红眼航班前往。在新加坡转机等待了约2小时，顺便吃了个早餐并参观了新加坡机场。大约在上午10:00抵达巴厘岛，我们一抵达就马上开始玩耍，丝毫不浪费时间！
+这次安排了一趟6天5夜的巴厘岛家庭旅游，选择搭乘酷航的红眼班机前往。在新加坡转机等待了约2小时，顺便吃了个早餐并参观了新加坡机场。大约在上午10:00抵达巴厘岛，我们一抵达就马上开始玩耍，丝毫不浪费时间！
 
 由于我们在台湾提前购买了SIM卡，抵达巴厘岛后很快就能联络上我们这次的包车司机——Bali Holiday的Awan先生。
 
@@ -43,9 +44,9 @@ Tegenungan Waterfall. （赵康康提供）
 
 > 延伸阅读：[【印尼/巴厘岛旅游】超市/便利店买什么？｜有什么东西是你到超市一定要买的？](https://youtu.be/UoGlRyAdyB8)
 
-这次我们入住的是在订房网上预订的「乌布天堂」，这间Villa环境优美且很有家庭氛围，让我们感受到满满的人情味。
+这次我们入住的是在订房网上预订的「Ubud Paradise」，这间Villa环境优美且很有家庭氛围，让我们感受到满满的人情味。
 
-[**▶乌布天堂 空房 & 房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2511061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTRNTc1MDTTaJpyuPGpsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNiMzQyMntyg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHAARxK4vggAAAA&masterhotelid_tracelogid=100051355-0a935641-494294-75016&detailFilters=17|1~17~1*31|2511061~31~2511061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yI4C37fv)
+[**▶Ubud Paradise 空房 & 房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-2511061/ubud-paradise-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/yI4C37fv)
 
 **（**评价很高的优质villa！已收录在[16间令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)**）**
 
@@ -61,9 +62,9 @@ https://youtu.be/ZEkv46_-_mM
 
 丛林秋千。（赵康康提供）
 
-接着我们前往梯田景点，当地的荡秋千小哥们拍照技术超群，不仅会用慢动作、视频及人像模式等手法捕捉美景，他们还能巧妙抓住最佳时机拍摄，远比老公的拍照技术高超！🤣
+接着我们前往梯田景点，当地的荡秋千小哥们拍照技术超群，不仅会用慢动作、影片及人像模式等手法捕捉美景，他们还能巧妙抓住最佳时机拍摄，远比老公的拍照技术高超！🤣
 
-下午，我们开心地去了圣猴公园，被猴子们围观，随后前往乌布市集逛街，砍价的过程非常有趣！不过，市集里的商品多数是重复的，我通常会选择那些面相比较投缘的店家进行购买。
+下午，我们开心地去了圣猴公园，被猴子们围观，随后前往乌布集市逛街，砍价的过程非常有趣！不过，集市里的商品多数是重复的，我通常会选择那些面相比较投缘的店家进行购买。
 
 ###
 
@@ -79,13 +80,13 @@ Safari Zoo. （赵康康提供）
 
 中午时分，我们偶然观看了一场老虎秀，让我大为惊艳。这是我第一次如此近距离地观察老虎，而且它们不在玻璃笼内，甚至还与现场工作人员有互动，这场景真是值得一看！
 
-> 编按：Bali Safari动物园提供冒险野生游览车，带您穿越动物们的家园，让您感受仿若置身野外的刺激与震撼。除了动物观赏，园区还举办丰富的动物表演，为您带来一场欢乐与自然的交融之旅。请看[这里我们有详细的介绍](/zh-cn/blog/bali-safari-night-stay/)。如果你想要更高的性价比，可以考虑 [住在动物园里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
+> 编按：Bali Safari动物园提供冒险野生游览车，带您穿越动物们的家园，让您感受仿若置身野外的刺激与震撼。除了动物观赏，园区还举办丰富的动物表演，为您带来一场欢乐与自然的交融之旅。请看[这里我们有详细的介绍](/zh-cn/blog/bali-safari-night-stay/)。如果你想要更高的性价比，可以考虑 [住在动物园里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685834/mara-river-safari-lodge-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/PbKYpC56)
 
 晚上，我们请Awan带我们去当地的夜市体验。在夜市里，我们先绕了一圈，请他帮忙介绍各种食物，之后再由他帮我们向店家点餐（因为有些店家不会说英文）。我们享用了烤猪饭、鸡肉丸子面、鸡肉沙嗲、猪肉沙嗲等美食，还买了一堆当地的甜点回住宿享用，这一切花费竟然不超过USD$10，真是非常划算又充满趣味的体验！
 
 ![在夜市大快朵頤，又買了一堆甜點，這樣兩大一小的食量不超過台幣300（趙康康提供）](https://images.gobaligo.id/vocus/vocus_f864205bbf5c06b918b9be00f12ca9d2.jpg)
 
-在夜市大快朵颐，又买了一堆甜点，这样两大一小的食量不超过USD$10（赵康康提供）
+在夜市大快朵颐，又买了一堆甜点，这样两大人一小孩的食量不超过USD$10（赵康康提供）
 
 编按：各位如果对夜市有兴趣，可以看看小杰的巴厘岛夜市游记
 
@@ -93,7 +94,7 @@ https://youtu.be/FphhiUzB7gM
 
 ### **Day 4：海神庙与坎古市集漫游**
 
-第四天，我们参观了著名的海神庙。幸运的是，这天恰逢退潮，我们得以下到海边漫步。天气非常好，随便一拍都是美景，完全可以当作电脑桌面。
+第四天，我们参观了著名的海神庙。幸运的是，这天恰逢退潮，我们得以下到海边漫步。天气非常好，随便一拍都是美景，完全可以当作电脑桌布。
 
 ![海神廟（趙康康提供）](https://images.gobaligo.id/vocus/vocus_5af7bceb17915318e93173bfc2bc2052.jpg)
 
@@ -103,7 +104,7 @@ https://youtu.be/FphhiUzB7gM
 
 {{block:canggu}}
 
-傍晚时分，我们去了附近的海滩，品尝了[网红推荐的烤玉米](https://youtu.be/HKMalFa6zMw)，果然名不虚传！一根烤玉米只需USD$1，既美味又实惠。
+傍晚时分，我们去了附近的海滩，品尝了[网红推荐的烤玉米](https://youtu.be/HKMalFa6zMw)，果然名不虚传！一根烤玉米只需20K，既美味又实惠。
 
 ## **Day 5：Atlas海滩俱乐部的悠闲时光**
 
@@ -125,17 +126,17 @@ Atlas（赵康康提供）
 
 ## **Day 6：最后的采购与告别巴厘岛**
 
-最后一天，Awan应我们的要求，带我们去了当地一家超大型的类似免税店的购物场所（Krisna Toko Oleh Oleh Kas Bali）。虽然这里的商品谈不上精致，但应有尽有，从食物、服饰到家居、首饰样样俱全。这一站，我们把未购买的伴手礼都买齐了，满满一车的战利品让我们很满意地结束了这趟旅行。
+最后一天，Awan应我们的要求，带我们去了当地一家超大型的类似免税店的购物场所（Krisna Toko Oleh Oleh Kas Bali）。虽然这里的商品谈不上精致，但应有尽有，从食物、服饰到家饰、首饰样样俱全。这一站，我们把未购买的伴手礼都买齐了，满满一车的战利品让我们很满意地结束了这趟旅行。
 
 ![我們的戰利品（趙康康提供）](https://images.gobaligo.id/vocus/vocus_6da6ad309b85087a2074fa2e43f4d3e4.jpg)
 
 我们的战利品（赵康康提供）
 
-这是我们第一次来巴厘岛，出发前我已经看了很多视频，虽然心里有所准备，但巴厘岛的美丽依然超乎想象！这里的交通和人们的生活节奏都非常随性，虽然常常堵车，但很少听到喇叭声，大家的耐性超高！除了机场附近的道路有划白线，其他地方的道路规划都很随意，有时候双向车道会突然变成单行道，让人摸不着头脑😂。因此我强烈建议，如果是家庭旅游（或是三人以上的团体），直接包车会更方便且安全。
+这是我们第一次来巴厘岛，出发前我已经看了很多影片，虽然心里有所准备，但巴厘岛的美丽依然超乎想象！这里的交通和人们的生活节奏都非常随性，虽然常常塞车，但很少听到喇叭声，大家的耐性超高！除了机场附近的道路有划白线，其他地方的道路规划都很随意，有时候双向车道会突然变成单行道，让人摸不着头绪😂。因此我强烈建议，如果是家庭旅游（或是三人以上的团体），直接包车会更方便且安全。
 
 ## **推荐司机Bali Holiday Awan**
 
-最后，我要再度推荐这次的包车司机——Bali Holiday的Awan。从第一天见面起，我们就感受到了他的亲切和热心。尽管我出发前已经给他准备了一份行程表，但有时因为疲倦或时间的关系，我们临时更改行程，他都很灵活地帮我们调整，并给出适当的建议，例如哪条路线较顺、哪些景点的停留时间需要多长等。
+最后，我要再度推荐这次的包车司机——Bali Holiday的Awan。从第一天见面起，我们就感受到了他的亲切和热心。尽管我出发前已经给他准备了一份行程表，但有时因为疲倦或时间的关系，我们临时更改行程，他也都很灵活地帮我们调整，并给出适当的建议，例如哪条路线较顺、哪些景点的停留时间需要多长等。
 
 ![我們很滿意的包車司機（趙康康提供）](https://images.gobaligo.id/vocus/vocus_ad7a43d71b2ee96f978fe92dfbedcb54.jpg)
 
@@ -145,9 +146,9 @@ Atlas（赵康康提供）
 
 Awan的联系方式收录在[巴厘岛包车司机名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
 
-您觉得赵康康他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得赵康康他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
-![推荐司机Bali Holiday Awan](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
+![推薦司機Bali Holiday Awan](https://images.gobaligo.id/vocus/vocus_5a1e2aa439de59150271c058d384f2c2.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 

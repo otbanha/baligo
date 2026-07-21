@@ -3,16 +3,19 @@ title: 巴厘岛包车司机推荐（第二页）
 slug: ''
 description: ''
 pubDate: 2026-01-01T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 叫車包車
 tags: []
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 shuffle_h2: true
 embeds: []
+updatedDate: 2026-07-19T00:00:00.000Z
 lang: zh-cn
-_srcHash: 49af3e4651e2d004619d00ac6f33ef7f
+_srcHash: 2bfafe58984e68de912e991e9294de21
 ---
 
 **本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油资，约 10 小时）**，联系时请说明日期、人数与想去的区域。
@@ -123,7 +126,7 @@ _srcHash: 49af3e4651e2d004619d00ac6f33ef7f
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍🏼[网友推荐1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[网友推荐2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18hwbDNCPh/)
+👍🏼[网友推荐1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[网友推荐2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[网友推荐 13](https://www.facebook.com/share/p/18d6a34JTF/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1D8QNjhKF6/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18hwbDNCPh/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1AsUcdwar2/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1Q6GLc2v7v/)
 
 ## Gede Mahendra
 

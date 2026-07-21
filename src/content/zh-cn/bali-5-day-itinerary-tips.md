@@ -4,7 +4,7 @@ title: 巴厘岛5天4夜自由行详细攻略
 description: >-
   杨方瑜提供的巴厘岛游记精彩纷呈，叙述短短5天4夜的旅程中充满新鲜刺激的体验。游记包含行前准备、行程安排和实际体验，真实记录每一天的旅程。强烈建议先大致计划好想去的景点，让司机帮你安排路线。期待下次再来探索这片天堂般的岛屿！
 pubDate: 2024-07-08T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 遊記分享
 tags:
@@ -17,13 +17,13 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_02c8c3347a57c7c83b5f9bb7d913afdb.jpg'
 originalUrl: 'https://vocus.cc/article/6686bcc4fd897800018fb206'
 lang: zh-cn
-_srcHash: 79cc1dd6d8f161635e2a1195816a60c2
+_srcHash: 76d233e7527061958e2eae338c926c4f
 ---
 > 以下内容由团友​[杨方瑜](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R)提供，并同意我们改编
 
-**先说结论**：巴厘岛5天4夜行程扣除头尾移动日其实玩不到3天，建议尽量早起避开塞车；行前准备重点——落地电子签、观光税、Esim网卡（前一天买隔天即可用）、220V吹风机（拍水中美照后吹发用）。按摩店品质参差不齐，随机选择风险较高但也可能有惊喜。
+**先说结论**：巴厘岛5天4夜行程扣除头尾移动日其实玩不到3天，建议尽量早起避开堵车；行前准备重点——落地电子签、观光税、Esim上网卡（前一天买隔天即可用）、220V吹风机（拍水中美照后吹发用）。按摩店品质参差不齐，随机选择风险较高但也可能有惊喜。
 
-这次的巴厘岛之旅虽然只有短短的5天4夜，但真的觉得扣除前后两天的移动时间后，玩的时间还是太少了！这趟行程比较偏累，并不是那种轻松度假的旅行。巴厘岛的交通状况比较容易塞车，所以建议大家尽量早起，这样可以走更多的行程。
+这次的巴厘岛之旅虽然只有短短的5天4夜，但真的觉得扣除前后两天的移动时间后，玩的时间还是太少了！这趟行程比较偏累，并不是那种轻松度假的旅行。巴厘岛的交通状况比较容易堵车，所以建议大家尽量早起，这样可以走更多的行程。
 
 ![峇里島5天4夜自由行詳細攻略](https://images.gobaligo.id/vocus/vocus_6f99182573787e91e20458dab3da02a4.jpg)
 
@@ -31,14 +31,14 @@ _srcHash: 79cc1dd6d8f161635e2a1195816a60c2
 
 1. 落地电子签：在前往巴厘岛之前，记得办理落地电子签证。
 2. 观光税：注意支付观光税。
-3. 填写入境表： 填写好入境表格。
+3. 填写入境表：填写好入境表格。
 4. 货币兑换：建议携带美金到当地兑换成卢比。
 5. 防晒：巴厘岛的阳光非常强烈，忘记带防晒霜的话，很容易晒黑。
 6. 网络使用：建议使用Esim卡，我在虾皮购买了「全球跨境旅游达人」的Esim卡，除非去偏远山区，网速都很稳定。前一天买隔天就可以使用，非常方便。
 7. 玩水拍美照：如果计划玩水后拍美照，记得带支持220V吹风机。
 8. 按摩体验：不论是哪一家按摩店，感觉都像抽奖一样。幸运的是，我们每次按摩体验都很不错，即便是在路边随意选的店也是如此。
 9. 拍照技巧：想拍出网美照，建议事先研究好拍照姿势，并请旅伴练习拍摄技术。我就是不会拍雷的那个。
-10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000卢比（约合USD$0.6），不要给零钱或太小的钞票，这样比较礼貌。
+10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000卢比（约合USD$0.3），不要给零钱或太小的钞票，这样比较礼貌。
 11. 充电转接头：记得携带充电转接头，或者先询问饭店是否可以借用。
 12. 额外税金：有些餐厅和按摩店会收取额外的税金，刷卡也有可能多收3%的手续费。
 
@@ -62,7 +62,7 @@ _srcHash: 79cc1dd6d8f161635e2a1195816a60c2
 
 - 时间：15:00
 - 地点：Soulshine Bali
-- 亮点：这家酒店的泳池非常美丽，而且设有滑水道，服务也很好。房价包含早餐，非常适合花较长时间待在酒店的旅客，性价比高。每晚约新台币8000多元。
+- 亮点：这家酒店的泳池非常美丽，而且设有滑水道，服务也很好。房价包含早餐，非常适合花较长时间待在酒店的旅客，性价比高。每晚约USD$258。
 
 ![5月30日](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
@@ -84,7 +84,7 @@ _srcHash: 79cc1dd6d8f161635e2a1195816a60c2
 
 ![5月30日](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
-> [Soulshine Bali 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
+> [Soulshine Bali 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-9203399/soulshine-resort-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/djqgcgo8)
 
 **3. 按摩**
 
@@ -97,7 +97,7 @@ _srcHash: 79cc1dd6d8f161635e2a1195816a60c2
 
 - 时间：20:30
 - 地点：Arcadia Restaurant
-- 特色：这家餐厅的套餐系列餐点都非常精致美味，且多为外国客人光顾。服务非常周到，环境也很棒。套餐价格约USD$48，需额外加收11%餐饮税和4.5%的服务费。
+- 特色：这家餐厅的套餐系列餐点都非常精致美味，且多为外国客人光顾。服务非常周到，环境也很棒。套餐价格约美金48元，需额外加收11%餐饮税和4.5%的服务费。
 
 这一天的行程安排相对轻松，先换好钱后到乌布入住一家高性价比的酒店，之后享受舒适的按摩，最后在环境优雅的餐厅享用美味的晚餐，为接下来的行程做好充分准备。
 
@@ -119,7 +119,7 @@ ATV好玩！（杨方瑜提供）
 
 https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
-编按：乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山區，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
+编按：乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山区，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
 
 还有一种「火山 ATV 之旅」，您将穿越茂密的森林，攀越黑色熔岩山坡地，并征服具有挑战性的越野地形。导游将带领您穿越这些变化万千的地形，让您充分体验ATV带来的刺激和乐趣。
 
@@ -142,9 +142,9 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 参考：[【巴厘岛漂流 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
-> [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
+[阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
-> [阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+[阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
 **4. 秋千网红拍照**
 
@@ -157,7 +157,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 编按：在乌布，即使是荡秋千都能成为一种富有异国风情的体验。在乌布的一些专门的地方，你会发现各种各样独特而精心设计的荡秋千，悬挂在绿树间或者面对迷人的山谷美景。荡秋千不仅是一种玩乐的方式，更是一种在宁静中欣赏乌布美景的绝佳方式。尽情荡动，让心随着微风摇曳，感受一份轻松和惬意。
 
-> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
+[【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 **5. 晚餐**
 
@@ -170,7 +170,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 - 地点：Soulshine Bali
 
-这一天的行程充满了冒险与刺激，从ATV骑行到阿勇河泛舟，再到秋千网红拍照，都是非常值得体验的活动。最后，选择一间热门的餐厅享用晚餐，然后回到酒店休息。
+这一天的行程充满了冒险与刺激，从ATV骑行到阿勇河漂流，再到秋千网红拍照，都是非常值得体验的活动。最后，选择一家热门的餐厅享用晚餐，然后回到酒店休息。
 
 ### 6月1日
 
@@ -182,7 +182,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 - 时间：12:30
 - 地点：Villa DeDayuh Seminyak
-- 亮点：这家别墅拥有厨具、泳池和浴缸，非常适合长时间在酒店度假的旅客。服务超级好，通过WhatsApp可以获得专人详细回答。价格大概每晚130美元左右。
+- 亮点：这家别墅拥有厨具、泳池和浴缸，非常适合长时间在酒店度假的旅客。服务超级好，通过WhatsApp可以获得专人详细回答。价格大概每晚130多美元。
 
 ![6月1日](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
@@ -216,7 +216,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 **海底漫步**
 
-我们的第一个活动是海底漫步。虽然这项活动听起来非常有趣，但实际体验时却有些失望。一开始戴上头盔的时候，头盔进水而且没有人告知，水直接贴在脸上，让人感到相当害怕。在水下行走时，需要拉着栏杆，但景色并没有特别美丽。
+我们的第一个活动是海底漫步。虽然这项活动听起来非常有趣，但实际体验时却有些失望。一开始戴上头盔的时候，头盔进水而且没人告知，水直接贴在脸上，让人感到相当害怕。在水下行走时，需要拉着栏杆，但景色并没有特别美丽。
 
 **滑翔伞**
 
@@ -232,7 +232,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 **提醒事项**
 
-- **价格谈判**：游玩活动的价格开得比较高，建议先砍价或是提前在网上购买优惠票。
+- **价格谈判**：游玩活动的价格开得比较高，建议先砍价或提前在网上购买优惠票。
 - **拍照费用**：若行程中有拍照服务，这是需要额外付费的。商家会提供一组云端照片和拍摄的录像。
 
 编按：游客需留意的是，南湾的水上活动颇受欢迎，建议在前往时提前预订，以避免现场就地起价的情况。预订能够确保您有足够的机会体验所有想玩的水上活动，同时也避免了在现场支付额外的昂贵费用。在南湾海滩，让我们一同扬帆，享受这片水上活动的乐土，带给您一场充满冒险和欢笑的海上之旅。
@@ -286,11 +286,11 @@ https://youtube.com/shorts/MTbr3sojGAM?si=GZhCEZuNUdypLyRp
 - 地点：Naughty Nuri's
 - 特色：必点他们的招牌猪肋排，味道非常棒
 
-预定[Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d581a84b3)
+预订[Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d581a84b3)
 
 **2. 伴手礼店**
 
-- 购物：最好先查询好要购买什么否则会眼花缭乱，探访当地的伴手礼店，挑选一些特色商品带回家
+- 购物：最好先查好要买什么否则会眼花缭乱，探访当地的伴手礼店，挑选一些特色商品带回家
 
 > [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
@@ -308,18 +308,18 @@ https://youtu.be/cbACc0Ey-A4
 - 时间：17:00左右开始有位子
 - 建议：好的座位需要提前预定并付款，西方人居多有泳池、DJ下面就是海滩，安检很严格，如果直接进去没点商品去玩是免费的哟！可以早点去，有餐点也可以看夕阳。这家海滩俱乐部营业至午夜12点，是放松和享受晚间氛围的好地方。
 
-**5. 回饭店**
+**5. 回酒店**
 
 - Villa DeDayuh
 
 ### 6月3日
 
-**1. 饭店退房**
+**1. 酒店退房**
 
 - 时间：12:00
 - 地点：Villa DeDayuh
 
-**2.路上经过买的布朗尼很好吃**
+**2.路上经过买布朗尼好好吃**
 
 ![楊方瑜提供。編按：圖左不是洋芋片喔！它是木薯片](https://images.gobaligo.id/vocus/vocus_b2e34c73e636c9ac7b9b322bd4ec6de9.jpg)
 
@@ -335,7 +335,7 @@ https://youtu.be/cbACc0Ey-A4
 
 ## 包车司机推荐
 
-在巴厘岛旅行，找一位好的包车司机是非常重要的，特别是玩得很累时，要翻译英文真的会很辛苦。我们推荐[Mang Loco](https://www.facebook.com/komang.rika.501/)，他是曾在台湾工作的巴厘岛人，中文跟原住民学的流利又有趣，性格亲切，感觉像是朋友一样乐于助人。
+在巴厘岛旅行，找一位好的包车司机是非常重要的，特别是玩得很累时，要翻译英文真的会很辛苦。我们推荐[Mang Loco](https://www.facebook.com/komang.rika.501/)，他是在台湾工作过的巴厘岛人，中文跟原住民学的流利又有趣，性格亲切，感觉像是朋友一样乐于助人。
 
 ### Tip：
 

@@ -44,15 +44,20 @@ function getArea(entry) {
   return 'Lainnya (Bali)';
 }
 
-// Bali kabupaten filter
-const BALI_KOTA = new Set([
-  'KAB. BADUNG', 'KAB. GIANYAR', 'KOTA DENPASAR',
-  'KAB. KARANGASEM', 'KAB. BULELENG', 'KAB. TABANAN',
-  'KAB. KLUNGKUNG', 'KAB. BANGLI', 'KAB. JEMBRANA',
-]);
+// Bali kabupaten/kota 名稱（API 曾在 "KAB. X" 前綴格式與純 "X" 格式間切換，兩種都要接受）
+const BALI_NAMES = [
+  'BADUNG', 'GIANYAR', 'DENPASAR',
+  'KARANGASEM', 'KARANGSEM', 'KARAGASEM', // 常見拼寫變體
+  'BULELENG', 'TABANAN', 'KLUNGKUNG', 'BANGLI', 'JEMBRANA',
+];
 
 function isBali(entry) {
-  return BALI_KOTA.has((entry.kotaName || '').toUpperCase().trim());
+  const k = (entry.kotaName || '')
+    .toUpperCase()
+    .trim()
+    .replace(/^KAB\.?\s*/, '')
+    .replace(/^KOTA\s*/, '');
+  return BALI_NAMES.includes(k);
 }
 
 function escapeXml(str) {
@@ -65,6 +70,9 @@ function escapeXml(str) {
     .replace(/'/g, '&apos;');
 }
 
+// 安全門檻：新資料筆數若掉到現有 JSON 的這個比例以下，視為 API 異常，中止寫檔避免資料被清空
+const MIN_RATIO = 0.5;
+
 async function main() {
   console.log(`Fetching ${API_URL} …`);
   const res = await fetch(API_URL);
@@ -75,6 +83,18 @@ async function main() {
   const bali = raw.filter(isBali);
   const outside = raw.length - bali.length;
   console.log(`Filtered to Bali: ${bali.length} (excluded ${outside} non-Bali)`);
+
+  // Sanity check against previous run — refuse to overwrite good data with a bad/empty scrape
+  let prevCount = 0;
+  try {
+    const prev = JSON.parse(fs.readFileSync(JSON_OUT, 'utf-8'));
+    prevCount = Array.isArray(prev) ? prev.length : 0;
+  } catch { /* no previous file, skip check */ }
+
+  if (prevCount > 0 && bali.length < prevCount * MIN_RATIO) {
+    console.error(`❌ 中止：新資料 ${bali.length} 筆遠低於上次 ${prevCount} 筆（門檻 ${MIN_RATIO * 100}%），可能是 API 異常，不寫入檔案。`);
+    process.exit(1);
+  }
 
   // Count missing coords (sanity check)
   const noCoords = bali.filter(e => !e.latitude || !e.longitude).length;

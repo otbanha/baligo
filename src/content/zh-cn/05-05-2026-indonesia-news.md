@@ -1,8 +1,9 @@
 ---
-title: 2026-05-05-indonesia-news
+title: 印尼彩虹云奇景：茂物上空宛如极光的虹彩云是怎么形成的？
 slug: 05-05-2026-indonesia-news
 description: ''
 pubDate: 2026-05-05T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 20
 category:
   - 新聞存檔
@@ -13,7 +14,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 17909a6842bd06063a127c7e7263b605
+_srcHash: d4c74007b376a1d05db62ac82b1f725d
 ---
 
 ## 印尼的彩虹天空奇景

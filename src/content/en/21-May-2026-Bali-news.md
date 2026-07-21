@@ -1,11 +1,11 @@
 ---
-title: 2026-05-21 Bali News
+title: >-
+  2026-05-21 Bali News: Mount Batur Cable Car Finalized, Turtle Island SEZ
+  Transforms
 slug: 21-May-2026-Bali-news
-description: |-
-  Bali News Update
-  Bali News
-  Bali News
+description: Bali news update
 pubDate: 2026-05-21T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 6
 category:
   - 新聞存檔
@@ -19,21 +19,13 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 3ad125289b7ba532ee2b43bfa3a64fb0
+_srcHash: 3831aee1aee468c0fe57c664c094548c
 ---
 
-## 🗞️ Today's Headlines: New Tourism Infrastructure and Economic Zone Transformation
+## 🗞️ Today's Highlights: New Tourism Infrastructure and SEZ Transformation
 
-- **Major Breakthrough in Northern Mountains! Mount Batur Cable Car Project Officially Approved**:
-To revitalize tourism in Central and Northern Bali, the provincial government officially approved a landmark tourism infrastructure project on May 20th—a new cable car route will be built at the summit of **Mount Batur in Kintamani**. Officials stated that this project will not only significantly improve transportation connectivity in North Bali and the central highlands but also aims to create a world-class tourist attraction. In the future, visitors will be able to enjoy panoramic views of volcanic lava and Lake Batur from the comfort of small cable cars.
-- **Beyond Tourism! "Kura Kura Bali SEZ" Transforms into Regional Financial Hub**:
-On May 20th, the Indonesian Ministry of Finance and the central government unveiled an ambitious strategic blueprint to transform the "Kura Kura Bali Special Economic Zone (SEZ)" into a major international financial hub. The zone will focus on sustainable finance, digital financial services, cross-border capital flows, and investment management. Officials emphasized the introduction of modern international regulatory frameworks, enhanced legal certainty, and transparency, leveraging Bali's global reputation to attract global financial institutions and open up new high-net-worth business opportunities beyond traditional tourism.
-- **New Benchmark in Sports Tourism: First "Bali Tourism Run" to Launch in June**:
-The inaugural **Bali Tourism Run 2026**, jointly initiated by the Bali Tourism Board and the Indonesian Travel Agents Association (ASITA), has been officially announced to take place on **June 21st** at the UNESCO World Heritage Site—Jatiluwih Rice Terraces. To protect the local ecological and cultural landscape, the event is strictly limited to 2,000 participants. Organizers also revealed that the "Jatiluwih Festival" will be held on June 20th, combining sports, traditional village life, and local cuisine to promote low-density, high-quality sustainable tourism.
+- **Major Breakthrough in Northern Highlands! Mount Batur Cable Car Project Officially Finalized**: To revitalize tourism appeal in the central-northern and highland regions, the provincial government officially approved a landmark tourism infrastructure project on May 20—a **new cable car route at the summit of Mount Batur in Kintamani**. Officials stated that this project will not only significantly improve transportation links between North Bali and the central highlands but also aims to create a world-class attraction. In the future, visitors will be able to enjoy a breathtaking panoramic view of volcanic lava and Lake Batur from compact cable car cabins.
 
-## 📄 Topics of Interest for Tourists: Event Crowd Warnings and Luxury Accommodation Recovery
+- **Beyond Tourism! 'Turtle Island SEZ' Transforms into Regional Financial Hub**: Indonesia's Ministry of Finance and the central government unveiled an ambitious strategic blueprint on May 20, planning to turn the **Kura Kura Bali Special Economic Zone (SEZ)** into a major regional international financial hub. The SEZ will focus on sustainable finance, digital financial services, cross-border capital flows, and investment management. Officials emphasized the introduction of a modern international regulatory framework, enhanced legal certainty and transparency, leveraging Bali's global recognition to attract international financial institutions, opening up a new high-net-worth business landscape beyond traditional tourism.
 
-- **International Sports Event This Week: Red Bull Cliff Diving World Series**:
-The globally anticipated "Red Bull Cliff Diving World Series" will take place this weekend on the island. Sports tourism expert Nyoman Sujantara reminded officials and tourists that while Bali is well-prepared in terms of natural branding, large-scale events heavily rely on the rapid movement of athletes, officials, and spectators. Visitors heading to popular coastal attractions this week are advised to depart early and be mindful of potential regional traffic congestion around event venues.
-- **Revitalization of Nusa Dua Peninsula and Return of Luxury Resorts**:
-In preparation for upcoming international conferences and business events, I Made Agus Dwiatmika, General Manager of the Nusa Dua Special Economic Zone, announced comprehensive landscape beautification and public facility upgrades in the "Peninsula Island" area to reinforce its position as a world-class high-quality tourism destination. Meanwhile, a renowned five-star all-inclusive resort, popular among families and high-end tourists, recently completed renovations and reopened, signaling a strong recovery in the luxury tourism market in the southern zone.
+- **New Benchmark in Sports Tourism: Inaugural 'Bali Tourism Run' Set for June**: The first-ever **Bali Tourism Run 2026**, co-organized by the Bali Tourism Board and the Indonesian Travel Agents Association (ASITA), has been officially announced to take place on **June 21** at the UNESCO World Heritage Site—Jatiluwih Rice Terraces. To protect the local ecological and cultural carrying capacity, the event strictly limits participation to 2,000 runners. Organizers noted that the day before (June 20), a 'Jatiluwih Festival' will also be held, integrating sports, traditional village life, and local cuisine to promote low-density, high-quality sustainable tourism.

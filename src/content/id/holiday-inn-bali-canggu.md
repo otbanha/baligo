@@ -1,15 +1,16 @@
 ---
 slug: holiday-inn-bali-canggu
 title: >-
-  Holiday Inn Resort Bali Canggu: Dua dewasa nginep, dua anak gratis — mewah dan
-  nyaman semua dapet
+  Holiday Inn Resort Bali Canggu: Dua Dewasa Menginap, Dua Anak Gratis — Mewah
+  dan Nyaman Semua Dapet
 description: >-
   Kalau kamu lagi cari tempat liburan yang bisa menikmati keindahan alam Bali
-  sambil tetap merasakan kemudahan modern, Holiday Inn Resort Bali Canggu (by
-  IHG) yang baru buka akhir 2023 ini wajib banget masuk daftar incaran. Resort
-  bintang lima ini nggak cuma punya lokasi kece, tapi juga pelayanan ramah,
-  fasilitas lengkap, dan value for money yang juara.
+  sambil tetap dapet fasilitas modern, Holiday Inn Resort Bali Canggu (by IHG)
+  yang baru buka akhir 2023 ini wajib banget masuk daftar incaran. Resor bintang
+  lima ini nggak cuma punya lokasi kece, tapi juga pelayanan ramah, fasilitas
+  lengkap, dan value for money yang juara.
 pubDate: 2025-10-08T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -30,72 +31,72 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: id
-_srcHash: b57fcaa03e4759ab006ac79829776a71
+_srcHash: 0cb2638f3c849b57b96e119cbb5f44d0
 ---
 
-Kalau kamu lagi cari tempat liburan yang bisa menikmati keindahan alam Bali sambil tetap merasakan kemudahan modern, **Holiday Inn Resort Bali Canggu (by IHG)** yang baru buka akhir 2023 ini wajib banget masuk daftar incaran. Resort bintang lima ini nggak cuma punya lokasi kece, tapi juga pelayanan ramah, fasilitas lengkap, dan value for money yang juara — sampai-sampai dapat rating **9,4** di berbagai platform.
+Kalau kamu lagi cari tempat liburan yang bisa menikmati keindahan alam Bali sambil tetap dapet fasilitas modern, **Holiday Inn Resort Bali Canggu (by IHG)** yang baru buka akhir 2023 ini wajib banget masuk daftar incaran. Resor bintang lima ini nggak cuma punya lokasi kece, tapi juga pelayanan ramah, fasilitas lengkap, dan value for money yang juara — terbukti dari rating **9,4** di berbagai platform.
 
-![Holiday Inn Resort Bali Canggu: Dua dewasa nginep, dua anak ](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
+![Holiday Inn Resort Bali Canggu 峇里島長谷假日酒店：兩大入住兩小免費 豪華與舒適都有](https://images.gobaligo.id/vocus/vocus_4164487f518e958a96464f1555658ad1.jpg)
 
 ***
 
 ## 🏖️ Lokasi Kece dan Lingkungan Sekitar
 
-Hotel ini ada di jantung Canggu, tinggal jalan kaki ke pantai. Di sekitarnya ada lebih dari 100 restoran, kafe, dan toko-toko unik — hidup banget! Kayak yang ditulis tamu: "Lokasinya ideal, dekat pantai, toko, dan restoran. Cocok buat eksplorasi, tapi juga jadi tempat tenang buat kabur dari keramaian."
+Hotel ini ada di jantung Canggu, tinggal jalan kaki ke pantai. Di sekitarnya ada lebih dari 100 restoran, kafe, dan toko-toko unik — bikin hidup makin praktis. Kayak yang ditulis tamu di review: "Lokasinya ideal, dekat banget ke pantai, toko, dan restoran. Cocok buat eksplorasi, tapi juga jadi tempat tenang buat kabur dari keramaian."
 
-Buat yang suka surfing, bisa langsung ke Echo Beach atau Berawa Beach buat nantang ombak. Kalau lebih suka santai, nikmatin sunset kelas dunia di pasir pantai. Dekat hotel juga ada Canggu Market, supermarket Pepito, dan lainnya — gampang banget kalau mau belanja kerajinan lokal atau kebutuhan sehari-hari.
+Buat yang suka surfing, bisa langsung ke Echo Beach atau Berawa Beach buat nantang ombak. Kalau lebih suka santai, tinggal duduk di pasir pantai sambil nikmatin sunset kelas dunia. Di dekat hotel juga ada Canggu Market, supermarket Pepito, dan lainnya — jadi kalau mau belanja oleh-oleh atau kebutuhan sehari-hari gampang banget.
 
 ***
 
 ## 🛏️ Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian
 
-Hotel punya 10 tipe kamar, dari standar sampai suite keluarga. Yang paling favorit sama keluarga adalah **1 Bedroom Kids Suite** — desainnya bener-bener dipikirin. Anak-anak bisa tidur di ranjang susu sendiri, tinggal tutup sekat, jadi punya ruang pribadi sendiri. Seru buat quality time keluarga, tapi tetap ada privasi.
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
-![Kamar Luas, Nyaman, dan Desainnya Penuh Perhatian](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
+Hotel ini punya 10 tipe kamar, dari standar sampai family suite. Yang paling favorit sama keluarga adalah **1 Bedroom Kids Suite** — desainnya bener-bener dipikirin. Anak-anak bisa tidur di ranjang susu pribadi mereka, tinggal tarik sekat, jadi kayak punya dunia sendiri. Seru buat quality time keluarga, tapi masing-masing tetap punya privasi.
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350879593-569654844.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350880009-588605925.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350880415-caption_1_.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350880928-caption_5_.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350881223-caption_6_.jpg)
+![Kamar luas, nyaman, dan desainnya penuh perhatian](https://images.gobaligo.id/images/2026-03/1774350881649-kr.jpg)
 
-Banyak tamu yang bilang kamarnya nyaman banget:
+Banyak tamu yang bilang kamarnya super nyaman:
 
-"Kami pesan one-bedroom suite, pas banget buat keluarga bertiga. Kamarnya bersih, modern, dan tata letaknya rapi — detailnya bener-bener dipikirin."
+"Kami pesan one-bedroom suite dan cocok banget buat keluarga bertiga. Kamarnya bersih, modern, dan tata letaknya pas — semuanya terasa dirancang dengan detail."
 
-"Kamar modern, nyaman, lengkap semua yang kamu butuhkan. Kolam renang infinity-nya menghadap langsung ke Pantai Canggu, apalagi pas matahari terbenam — langit terpantul di air, cantik banget sampai bikin napas tertahan."
+"Kamar modern, nyaman, dan lengkap banget. Kolam renang infinity-nya menghadap langsung ke Pantai Canggu, apalagi pas matahari terbenam — langit terpantul di air, bikin napas tersengal."
 
 ## 🍽️ Pilihan Makanan Berlimpah, Sarapan Jadi Favorit
 
 Restoran di hotel ini menyajikan berbagai hidangan internasional dan lokal. Tapi yang paling bikin tamu kangen adalah **pengalaman sarapannya**:
 
-"Sarapan prasmanannya luar biasa — dari buah tropis segar sampai hidangan internasional yang lezat, semuanya ada. Bikin setiap pagi terasa seperti sebuah kenikmatan."
+"Buffet sarapannya luar biasa — dari buah tropis segar sampai hidangan internasional yang lezat, semuanya ada. Bikin setiap pagi terasa spesial."
 
-![Pilihan Makanan Berlimpah, Sarapan Jadi Favorit](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
+![豐富餐飲選擇，早餐備受好評](https://images.gobaligo.id/vocus/vocus_f3023a2f7b257b63a50bff27203069b8.jpg)
 
-"Pilihan sarapan beragam, termasuk banyak opsi sehat. Ada juga menu à la carte yang sudah termasuk dalam prasmanan, jadi setiap hari kamu bisa mulai dengan suasana hati yang baik."
+"Pilihan sarapannya beragam, banyak opsi sehat, plus ada menu à la carte yang sudah termasuk buffet. Bikin hari-harimu selalu dimulai dengan semangat."
 
-Kalau kamu malas keluar, layanan kamar 24 jam siap sedia kapan pun kamu ingin menikmati makanan enak di dalam kamar.
+Kalau kamu males keluar, room service 24 jam siap anterin makanan enak ke kamar kapan aja.
 
 ***
 
-## 🏄 Fasilitas Lengkap, Seru buat Semua Usia
+## 🏄 Fasilitas Lengkap, Seru buat Semua Umur
 
-Fasilitas hotel ini beragam banget — mau kamu penggemar fitness, tipe yang rebahan di pinggir kolam, atau pencinta nightlife, semuanya terakomodasi:
+Fasilitas hotel ini super lengkap. Mau kamu pecinta gym, tukang rebahan di kolam renang, atau pencinta nightlife — semuanya terakomodasi:
 
-* **Pusat kebugaran 24 jam**: Alatnya baru dan modern, bikin liburanmu nggak putus latihan.
-* **Kolam renang infinity**: Menghadap ke laut, tempat terbaik buat nikmatin sunset.
-* **Bar dan klub malam**: Mau ngopi santai atau dugem, suasananya pas.
-* **Ramah keluarga**: Hotel ini mengizinkan anak di bawah 11 tahun menginap gratis — lumayan ngirit buat keluarga.
+* **Pusat kebugaran 24 jam**: alatnya baru dan modern, liburan pun nggak bikin putus rutinitas olahraga.
+* **Kolam renang infinity**: pemandangan laut langsung, spot terbaik buat lihat sunset.
+* **Bar & klub malam**: mau ngopi santai atau joget malam-malam, suasananya pas.
+* **Ramah keluarga**: anak di bawah 11 tahun gratis nginep, bikin liburan keluarga lebih hemat.
 
 ![健身房](https://images.gobaligo.id/vocus/vocus_75953427de5451c7eec19082a25e47b2.jpg)
 
-pusat kebugaran
+Pusat kebugaran
 
 ![無邊際泳池+夕陽美景](https://images.gobaligo.id/vocus/vocus_22d7f35ab7451bf3ab5097b4f066b2ca.jpg)
 
-Kolam renang infinity + pemandangan sunset
+Kolam infinity + pemandangan sunset
 
 ![屋頂酒吧](https://images.gobaligo.id/vocus/vocus_8f5cbc7c8da2e4afce5a514f95c057aa.jpg)
 
@@ -103,47 +104,47 @@ Rooftop bar
 
 Ada traveler yang cerita:
 
-"Area kolam renangnya tempat yang pas buat santai, pemandangannya juara. Kadang kursi berjemurnya rebutan sih, tapi karena kami lebih sering di pantai atau jalan-jalan, jadi nggak masalah."
+"Area kolam renangnya tempat yang pas buat santai, pemandangannya juara. Meskipun kadang kursi panjangnya rebutan, karena kami lebih sering di pantai atau jalan-jalan, sih, jadi nggak masalah."
 
 ***
 
-## 👏 Pelayanan detail banget, stafnya ramah dan hangat
+## 👏 Pelayanan detail, stafnya ramah banget
 
-Banyak traveler yang khusus nyebut pelayanan staf hotel yang oke, di review sering muncul pujian kayak gini:
+Banyak tamu yang khusus nyebut pelayanan hotel yang oke, sering muncul pujian kayak gini:
 
-"Stafnya luar biasa — selalu ramah, perhatian, dan tulus hangat. Dari check-in sampai check-out, kami merasa diperhatikan banget."
+"Stafnya luar biasa—selalu ramah, perhatian, dan tulus hangat. Dari check-in sampai check-out, kami merasa diperhatikan banget."
 
-"Handra sangat ramah dan suka bantu, dari saran check-in sampai bantuan sehari-hari, dia selalu berusaha maksimal bikin kami nyaman."
+"Handra sangat ramah dan suka bantu, dari saran check-in sampai bantuan sehari-hari, dia selalu maksimal biar kami nyaman."
 
-Semangat dan profesionalisme staf bikin pengalaman nginep makin berkesan. Skor kebersihan tembus **9.7**, keliatan banget hotel ini serius sama detail.
+Semangat dan profesionalisme staf bikin pengalaman nginep makin berkesan. Skor kebersihan tembus **9.7**, keliatan banget hotel ini serius soal detail.
 
 ***
 
 ## 💰 Worth it banget, harganya masuk akal
 
-Harga rata-rata hotel di Bali sekitar $76–$100 USD, sementara Holiday Inn Canggu meskipun harganya sedikit lebih tinggi (sekitar $151–$200), fasilitas, layanan, dan pengalaman yang ditawarkan benar-benar sepadan. Banyak tamu bilang: 'Value for money banget, overall experience melebihi ekspektasi.'
+Rata-rata harga hotel di Bali sekitar USD$76–$100 per malam. Sementara Holiday Inn Canggu memang sedikit lebih mahal (sekitar USD$151–$200), tapi fasilitas, layanan, dan pengalaman yang ditawarkan benar-benar sepadan. Banyak tamu bilang: 'Value for money banget, overall experience melebihi ekspektasi.'
 
-![Worth it banget, harganya masuk akal](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
+![物超所值，定價合理](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
 
-![Worth it banget, harganya masuk akal](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
+![物超所值，定價合理](https://images.gobaligo.id/vocus/vocus_03096e8f8cdecab5d48ef06a3ec5cd91.jpg)
 
 ***
 
-## ✅ Kesimpulan: Destinasi Liburan yang Wajib Kamu Kunjungi Lagi
+## ✅ Kesimpulan: Destinasi Liburan yang Bikin Pengin Balik Lagi
 
-Baik kamu traveling bareng keluarga, pasangan, atau solo trip, Holiday Inn Resort Bali Canggu bisa kasih kamu pengalaman menginap yang santai, seru, dan penuh kejutan. Lokasi strategis, desain kamar yang nyaman, pilihan makanan dan fasilitas yang lengkap, plus pelayanan staf yang bikin hati hangat — nggak heran banyak tamu bilang di review mereka:
+Apapun tujuan liburanmu — keluarga, pasangan, atau solo traveling — Holiday Inn Resort Bali Canggu bisa kasih kamu pengalaman menginap yang santai, seru, dan penuh kejutan. Lokasi strategis, desain kamar yang nyaman, pilihan makanan dan fasilitas yang lengkap, plus pelayanan staf yang bikin hati hangat. Nggak heran banyak tamu bilang di review mereka:
 
-‘Ini salah satu tempat menginap paling kece di Canggu, tempat yang bikin kamu pengen balik lagi dan lagi.’
+"Ini salah satu tempat menginap paling mempesona di Canggu. Tempat yang bikin kamu pengin balik lagi dan lagi."
 
 **✈️ Info Praktis:**
 
 * Check-in: 15.00 | Check-out: 12.00
-* Layanan antar-jemput bandara bisa dipesan, perjalanan dari Bandara Internasional Ngurah Rai (DPS) sekitar 45–60 menit
+* Layanan antar-jemput bandara tersedia, perjalanan dari Bandara Internasional Ngurah Rai (DPS) sekitar 45–60 menit
 * Biasanya harga terbaik bisa kamu dapat pas booking lewat Agoda
 
-> **▶**[**Cek Harga & Ketersediaan Kamar Holiday Inn Resort Bali Canggu**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=113562229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xczFJMEk9ZmZY8q_R1PZhBiNDCQsJgs5nj0DBDPaHTz7D33ViOntcQjgaWS8vrjAluu6m8MMxq9LJputYGTcyMgFEruU7LCDkekE41TFBUzTJ90yPcXCzPGQ9RLLd6boaqXs1EolKxMdpZLMkpxUJSulJ3v7n65rfb6iVUlHKSW1OBkoBGQl5uaX5pUA2cYWZnoGBkCRksQKzxQlK2MLHaXkxJzk0pzEktSQygKgEWY6SpnFziVFmQVBqbmZJSWpQGVpiTnFqSDxoNRioEwyWFDJD2hOEVQgMz8Pot0QRSwsMac0FeIGoI1uqVA7DGt1MJ3-bFvHi027cTvd1BDF6SbGA-T02EcsTNGxn1gYfrEwNLEydLEyTGJl5piquIuVJ8jE2T8wUtdQN0rXUErO0MDAwNTQ2NRU1yDR0sLYKNFI18TSxMjMQtfQwtxMo_X80stPjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm5ObqZGlZZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUATEkw7uUCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494268-1876&detailFilters=17|1~17~1*31|113562229~31~113562229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1235&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KVi2lfgC)
+> **▶**[**Cek Harga & Ketersediaan Kamar Holiday Inn Resort Bali Canggu**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-113562229/holiday-inn-resort-bali-canggu-by-ihg/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KVi2lfgC)
 
-Udah siap buat liburan ke Bali? Holiday Inn yang satu ini mungkin bakal jadi alasan kamu jatuh cinta sama Canggu.
+Udah siap buat liburan ke Bali? Holiday Inn ini mungkin bakal jadi salah satu alasan kenapa kamu jatuh cinta sama Canggu.
 
 ***
 

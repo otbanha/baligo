@@ -1,9 +1,13 @@
 ---
 slug: bali-mrt-construction-2025
-title: 【Bali交通改善計畫之三】Bali捷運 (MRT) 挖掘工程將於 2025 年 4 月展開
+title: >-
+  【Rencana Perbaikan Transportasi Bali Bagian 3】Proyek Penggalian MRT Bali Akan
+  Dimulai April 2025
 description: >-
-  繼Bali第一階段輕軌（LRT）工程已於 2024 年 9 月 4 日正式啟動，並在Kuta中央停車場舉行了儀式之後。捷運（MRT）的建設計劃將於 2025
-  年 4 月開始挖掘，這是當地交通基礎設施的一大突破。
+  Setelah tahap pertama proyek LRT (Light Rail Transit) Bali resmi dimulai pada
+  4 September 2024 dengan upacara di Kuta Central Parking, rencana pembangunan
+  MRT (Mass Rapid Transit) akan mulai digali pada April 2025. Ini adalah
+  terobosan besar bagi infrastruktur transportasi lokal.
 pubDate: '2024-10-02'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_19ab62eb727acaa12005d3aea911171b.jpg'
 tags:
@@ -19,35 +23,35 @@ lang: id
 _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 ---
 
-繼Bali第一階段輕軌（LRT）工程已於 2024 年 9 月 4 日正式啟動，並在Kuta中央停車場舉行了儀式之後。捷運（MRT）的建設計劃將於 2025 年 4 月開始挖掘，這是當地交通基礎設施的一大突破。接下來，我們將詳細探討Bali捷運的各個階段、施工過程以及未來對旅遊和當地居民的影響。
+Setelah fase pertama proyek LRT (Light Rail Transit) Bali resmi dimulai pada 4 September 2024, dengan upacara yang digelar di tempat parkir pusat Kuta, rencana pembangunan MRT (Mass Rapid Transit) akan mulai digali pada April 2025. Ini adalah terobosan besar dalam infrastruktur transportasi lokal. Selanjutnya, kita akan bahas secara detail tentang berbagai tahapan MRT Bali, proses konstruksinya, serta dampaknya terhadap pariwisata dan warga lokal ke depannya.
 
-![【Bali交通改善計畫之三】Bali捷運 (MRT) 挖掘工程將於 2025 年 4 月展開](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
+![【峇里島交通改善計畫之三】峇里島捷運 (MRT) 挖掘工程將於 2025 年 4 月展開](https://images.gobaligo.id/vocus/vocus_99819bd6538fcfc0eb8fcc36f0c1005b.jpg)
 
-## 捷運的背景
+## Latar Belakang MRT
 
-**Bali捷運計劃的起源：**
+**Awal Mula Proyek MRT Bali:**
 
-Bali捷運項目旨在解決日益嚴重的交通問題，特別是遊客高峰期造成的擁堵。早在數年前，當地政府就開始籌備這一大型基礎設施建設，但由於資金和技術方面的挑戰，項目一直未能啟動。如今，隨著國際投資者的積極參與，這個項目終於得以實施。
+Proyek MRT Bali ini sebenarnya udah dirancang buat ngatasin masalah macet yang makin parah, apalagi pas musim liburan tiba. Sejak beberapa tahun lalu, pemerintah setempat udah mulai mempersiapkan proyek infrastruktur gede ini, tapi karena terkendala dana dan teknologi, proyeknya mandek terus. Nah, sekarang dengan adanya investor internasional yang ikut turun tangan, akhirnya proyek ini bisa jalan juga.
 
-## 項目擔憂與投資者信心
+## Kekhawatiran Proyek dan Kepercayaan Investor
 
-**如何吸引國際投資者：**
+**Gimana Caranya Narik Investor Internasional:**
 
-峇里省代理省長馬亨德拉·賈亞表示，初期他對這一龐大的項目感到擔憂，擔心無法吸引足夠的投資者。然而，隨著國際投資者的積極響應，這一擔憂逐漸消除。許多國際財團都表現出對Bali捷運項目的濃厚興趣，並願意提供資金和技術支持。
+Penjabat Gubernur Bali, Mahendra Jaya, bilang awalnya dia khawatir sama proyek gede ini, takut nggak bisa narik investor yang cukup. Tapi begitu investor internasional merespons positif, kekhawatiran itu perlahan hilang. Banyak konglomerat global yang tertarik banget sama proyek MRT Bali ini, dan siap kasih dana plus dukungan teknis.
 
-## 杜拜能源部長的貢獻
+## Kontribusi Menteri Energi Dubai
 
 **Sumber Dana Investasi:**
 
-Menteri Energi Dubai saat berkunjung ke Bali berjanji memberikan dukungan dana sebesar 75% untuk proyek ini, yang membuat proyek ini semakin layak secara finansial. Dana ini akan digunakan terutama untuk membeli peralatan pengeboran terowongan berteknologi tinggi (TBM) dan biaya konstruksi terkait.
+Menteri Energi Dubai saat berkunjung ke Bali berjanji memberikan dukungan dana sebesar 75% untuk proyek ini, yang membuat proyek ini semakin layak secara finansial. Dana ini akan digunakan terutama untuk membeli peralatan pengeboran terowongan berteknologi tinggi (TBM) serta biaya konstruksi terkait.
 
 ## Spesifikasi Teknis Mesin Bor TBM
 
 **Peralatan yang Digunakan untuk MRT Bali:**
 
-Proyek ini akan menggunakan delapan mesin bor terowongan besar (TBM), enam lebih banyak dari yang digunakan di MRT Jakarta. Diameter TBM yang digunakan di Bali adalah 7,2 meter, lebih besar dari 6 meter di Jakarta, yang berarti terowongan MRT Bali akan lebih luas. Peralatan ini akan tiba di Bali pada April 2025, dan saat itulah pekerjaan penggalian terowongan akan dimulai.
+Proyek ini akan menggunakan delapan mesin bor terowongan besar (TBM), enam lebih banyak dari yang digunakan di MRT Jakarta. Diameter TBM yang digunakan di Bali adalah 7,2 meter, lebih besar dari 6 meter di Jakarta, yang berarti terowongan MRT Bali akan lebih luas. Peralatan ini akan tiba di Bali pada April 2025, dan saat itulah penggalian terowongan akan dimulai.
 
-![Spesifikasi Teknis Mesin Bor TBM](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
+![TBM 挖掘機的技術規格](https://images.gobaligo.id/vocus/vocus_639d9f2561697e36de04070031810cf0.jpg)
 
 ## Kedalaman Terowongan Bawah Tanah
 
@@ -59,76 +63,76 @@ Berdasarkan rencana, terowongan MRT Bali akan berada sekitar 20 hingga 30 meter 
 
 **Wilayah dan Jarak yang Terlibat:**
 
-Tahap pertama jalur kereta bawah tanah akan mencakup pusat Kota Denpasar, kawasan Kuta, dan Bandara Internasional Bali, dengan total panjang sekitar 15 kilometer. Target pembangunan tahap ini adalah menyediakan solusi komuter cepat untuk mengurangi tekanan lalu lintas di area sibuk ini, baik bagi wisatawan maupun penduduk lokal. Stasiun kereta bawah tanah akan ditempatkan di kawasan wisata utama seperti Kuta, Legian, dan pusat Kota Denpasar, sehingga wisatawan dan penduduk lokal bisa naik dengan mudah.
+Tahap pertama jalur MRT akan mencakup pusat Kota Denpasar, kawasan Kuta, dan Bandara Internasional Bali, dengan panjang total sekitar 15 kilometer. Target pembangunan tahap ini adalah menyediakan solusi komuter cepat untuk mengurangi tekanan lalu lintas di area-area sibuk ini, baik bagi wisatawan maupun penduduk lokal. Stasiun MRT akan ditempatkan di kawasan wisata utama seperti Kuta, Legian, dan pusat Kota Denpasar, sehingga wisatawan dan penduduk lokal bisa naik dengan mudah.
 
 ## Tahap Kedua, Ketiga, dan Keempat
 
 **Rencana Pembangunan Jangka Panjang:**
 
-Setelah tahap pertama selesai, pembangunan kereta bawah tanah akan diperluas secara bertahap ke tahap kedua, ketiga, dan keempat. Tahap kedua direncanakan menjangkau titik-titik wisata populer seperti Nusa Dua dan Sanur, memberikan pilihan transportasi yang lebih luas. Tahap ketiga akan mencakup wilayah utara dan timur Bali, dengan tujuan mendorong perkembangan daerah tersebut dan menarik lebih banyak wisatawan. Terakhir, tahap keempat akan mencakup seluruh Bali, membentuk jaringan kereta bawah tanah yang lengkap.
+Setelah tahap pertama selesai, pembangunan MRT akan diperluas secara bertahap ke tahap kedua, ketiga, dan keempat. Tahap kedua direncanakan menjangkau destinasi wisata populer seperti Nusa Dua dan Sanur, memberikan pilihan transportasi yang lebih luas. Tahap ketiga akan mencakup wilayah utara dan timur Bali, dengan tujuan mendorong perkembangan daerah tersebut dan menarik lebih banyak wisatawan. Terakhir, tahap keempat akan mencakup seluruh Bali, membentuk jaringan MRT yang lengkap.
 
 ## Jadwal Proyek
 
 **Perkiraan Tanggal Penyelesaian dan Tantangan:**
 
-Menurut rencana Pemerintah Bali, pembangunan kereta bawah tanah tahap pertama diperkirakan selesai pada tahun 2030. Meskipun rencana ini sangat ambisius, pemerintah dan pihak terkait memperkirakan akan menghadapi banyak tantangan, terutama dalam hal kemajuan konstruksi, masalah teknis, dan penggunaan dana. Namun, pemerintah optimis terhadap masa depan proyek ini dan menyatakan akan berusaha maksimal untuk memastikan selesai tepat waktu.
+Menurut rencana Pemerintah Bali, pembangunan MRT tahap pertama diperkirakan selesai pada tahun 2030. Meskipun proyek ini sangat ambisius, pemerintah dan instansi terkait diperkirakan akan menghadapi banyak tantangan, terutama dalam hal kemajuan konstruksi, masalah teknis, dan penggunaan dana. Namun, pemerintah optimis terhadap masa depan proyek ini dan menyatakan akan berusaha maksimal untuk memastikan penyelesaian tepat waktu.
 
-![Jadwal Proyek](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
+![項目時間表](https://images.gobaligo.id/vocus/vocus_d8ad90a6b1d78f7cae9048e486a4789c.jpg)
 
 ## Dampak pada Transportasi Lokal
 
 **Mengurangi Kemacetan Lalu Lintas:**
 
-Masalah kemacetan lalu lintas yang sudah berlangsung lama di Bali, terutama saat musim liburan, sangat parah. Dengan beroperasinya kereta bawah tanah, penduduk lokal dan wisatawan bisa bepergian dengan lebih cepat dan ramah lingkungan, diperkirakan akan secara signifikan mengurangi tekanan lalu lintas di jalan raya. Setelah tahap pertama beroperasi, kereta bawah tanah akan menjadi moda transportasi ideal menuju bandara dan tempat-tempat wisata utama.
+Masalah kemacetan lalu lintas yang sudah berlangsung lama di Bali, terutama saat musim liburan, sangat parah. Dengan beroperasinya MRT, penduduk lokal dan wisatawan bisa bepergian dengan lebih cepat dan ramah lingkungan, diperkirakan akan secara signifikan mengurangi tekanan lalu lintas di jalan raya. Setelah tahap pertama beroperasi, MRT akan menjadi moda transportasi ideal menuju bandara dan tempat-tempat wisata utama.
 
 ## Dampak terhadap Lingkungan
 
 **Pengurangan Emisi Karbon:**
 
-Sistem MRT sebagai moda transportasi bersih bakal banget ngurangin emisi karbon di Bali. Sekarang, transportasi di sana masih didominasi mobil pribadi dan motor, yang jelas bikin tekanan buat lingkungan. Dengan beroperasinya MRT, makin banyak orang bakal beralih ke transportasi umum, jadi pemakaian bahan bakar berkurang dan jejak karbon Bali ikut mengecil.
+Sistem MRT sebagai moda transportasi bersih bakal banget ngurangin emisi karbon di Bali. Sekarang, transportasi di sana mayoritas pakai mobil pribadi dan motor, yang jelas bikin tekanan buat lingkungan. Dengan beroperasinya MRT, makin banyak orang bakal beralih ke transportasi umum, jadi pemakaian bahan bakar berkurang dan jejak karbon Bali ikut mengecil.
 
-## Tarif MRT dan Keuntungan Warga Lokal
+## Harga Tiket MRT & Keuntungan Warga Lokal
 
 **Apakah Warga Lokal Naik Gratis?**
 
-Berdasarkan rencana awal pemerintah Bali, warga lokal bakal dapet tarif khusus, bahkan mungkin bisa naik MRT gratis di jam-jam tertentu. Ini jelas bakal meringankan biaya transportasi mereka. Pemerintah berharap dengan begini, makin banyak warga lokal yang pilih MRT dan nggak terlalu bergantung sama mobil atau motor.
+Berdasarkan rencana awal pemerintah Bali, warga lokal bakal dapet harga tiket spesial, bahkan mungkin gratis di jam-jam tertentu. Ini jelas bakal ngurangin banget biaya transportasi mereka. Pemerintah berharap dengan cara ini, makin banyak warga lokal yang milih MRT dan nggak terlalu bergantung sama mobil atau motor.
 
-## Kebijakan Tarif untuk Turis
+## Kebijakan Harga Tiket untuk Turis
 
 **Biaya Tiket Mingguan yang Disarankan:**
 
-Buat turis yang liburan ke Bali, pemerintah lagi nimbang-nimbang buat ngeluarin tiket mingguan dan bulanan dengan harga lebih murah, biar mereka bisa naik MRT lebih sering dengan cara yang lebih ekonomis. Perkiraan awal, harga tiket mingguan bakal sekitar 150.000 sampai 200.000 Rupiah. Ini bakal super praktis buat turis yang bolak-balik ke berbagai tempat wisata.
+Buat turis yang liburan ke Bali, pemerintah lagi mikirin buat ngeluarin tiket mingguan dan bulanan dengan harga lebih murah, biar mereka bisa naik MRT lebih sering dengan cara yang lebih ekonomis. Perkiraan awal, harga tiket mingguan mungkin sekitar 150.000 sampai 200.000 Rupiah. Ini bakal super praktis buat turis yang bolak-balik ke berbagai tempat wisata.
 
-## Tantangan yang Diperkirakan dan Solusinya
+## Tantangan yang Diperkirakan & Solusinya
 
 **Masalah yang Dihadapi Proyek MRT Bali:**
 
-Meskipun rencana pembangunan MRT ini bikin excited, tapi ada beberapa tantangan yang perlu dihadapi, kayak pembebasan lahan, pengalihan lalu lintas selama konstruksi, dan kemungkinan keterlambatan proyek. Selain itu, karena proyek MRT ini butuh dana besar dan teknologi tinggi, gimana caranya ngelola sumber daya dengan efektif dan memastikan kualitas bangunan bakal jadi kunci suksesnya proyek ini.
+Meskipun rencana pembangunan MRT ini bikin excited, ada beberapa tantangan yang perlu dihadapi, kayak pembebasan lahan, pengalihan lalu lintas selama konstruksi, dan potensi keterlambatan proyek. Selain itu, karena proyek MRT ini butuh dana besar dan teknologi tinggi, cara mengelola sumber daya dengan efektif dan memastikan kualitas konstruksi bakal jadi kunci suksesnya.
 
 ## Makna MRT bagi Masa Depan Bali
 
 **Dampak Jangka Panjang untuk Pariwisata dan Ekonomi:**
 
-Begitu MRT Bali jadi, bukan cuma bakal nge-boost infrastruktur transportasi lokal, tapi juga bakal jadi dorongan besar buat pariwisata. Dengan akses yang lebih gampang, makin banyak turis bakal milih Bali sebagai destinasi liburan, dan mungkin bakal tinggal lebih lama. Selain itu, pembangunan MRT juga bakal nyiptain banyak lapangan kerja dan bantu perkembangan ekonomi lokal. Dalam jangka panjang, sistem MRT bakal bawa masa depan yang lebih sustainable buat Bali, jadi pusat transportasi utama di destinasi wisata ini.
+Begitu MRT Bali jadi, bukan cuma infrastruktur transportasi lokal yang naik level, tapi juga bakal nge-boost pariwisata banget. Dengan akses yang lebih gampang, makin banyak turis yang bakal milih Bali sebagai destinasi liburan, dan mungkin tinggal lebih lama. Ditambah lagi, pembangunan MRT ini bakal buka banyak lapangan kerja dan dorong ekonomi lokal. Dalam jangka panjang, sistem MRT bakal bawa masa depan yang lebih sustainable buat Bali, jadi hub transportasi utama di destinasi wisata ini.
 
-## Daftar & Gabung Blog Kami
+## Daftar ke Blog Kami
 
-📩 **Langganan sekarang blog 'Panduan Travel Bali', jadi traveler Bali yang jago!**
+📩 **Langganan sekarang di blog 'Panduan Wisata Bali' dan jadi ahli traveling ke Bali!**
 
-![Daftar & Gabung Blog Kami](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
+![註冊加入我們的網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
 **Dengan berlangganan gratis, kamu bakal dapet:**
 
-✅ Berita terbaru soal Bali, biar kamu selalu update info liburan  
+✅ Berita terbaru soal Bali, biar kamu selalu update info traveling  
 
-✅ Panduan mendalam, bikin itinerary kamu hemat dan bebas khawatir  
+✅ Panduan lengkap, biar trip kamu hemat dan bebas ribet  
 
-✅ Rekomendasi tempat rahasia dan peta kuliner lokal eksklusif  
+✅ Rekomendasi eksklusif tempat-tempat rahasia dan peta kuliner lokal
 
-✅ Konten yang nggak ada di grup Facebook  
+✅ Konten yang nggak bakal kamu temuin di grup Facebook
 
-✅ Kumpulan saran itinerary paling lengkap dari sesama traveler, bikin setiap trip jadi mulus tanpa hambatan
+✅ Kumpulkan saran itinerary dari sesama traveler biar setiap perjalanan mulus tanpa hambatan
 
-Cukup daftar pakai akun Google atau Facebook, gampang banget!
+Cukup pakai akun Google atau Facebook, registrasinya gampang banget!
 
 ##

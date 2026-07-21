@@ -3,7 +3,7 @@ slug: alam-wayang-ubud-villa
 title: 【乌布villa推荐】Alam Wayang Ubud
 description: "当繁华的乌布市区遇上宁静，一处结合巴厘岛传统建筑与现代奢华设计的度假天堂——Alam Wayang Ubud，为您带来与众不同的假期体验！\U0001F334"
 pubDate: 2025-01-19T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -21,9 +21,9 @@ agoda_star_rating: 5
 latitude: -8.503674507141113
 longitude: 115.24826049804688
 lang: zh-cn
-_srcHash: 8a7b9e172d2e1d5100ae46516bc93033
+_srcHash: b2b32579770c62d3d19330df71bc317f
 ---
-**先说结论**：Alam Wayang Ubud 适合**想住乌布私人泳池Villa、又不想离市区太远**的旅客——藏在乌布「老外村」Kampoeng Bule 的安静巷弄，距布兰科博物馆800米、车程10分钟到乌布皇宫与市集。全馆13间房，有1-3卧室的私人泳池别墅可选，蜜月、家庭、朋友团体都放得下，巴厘岛传统建筑混现代设计。
+**先说结论**：Alam Wayang Ubud 适合**想住乌布私人泳池 Villa、又不想离市区太远**的旅客——藏在乌布「老外村」Kampoeng Bule 的安静巷弄，距布兰科博物馆 800 米、车程 10 分钟到乌布皇宫与市集。全馆 13 间房，有 1-3 卧室的私人泳池别墅可选，蜜月、家庭、朋友团体都放得下，巴厘岛传统建筑混现代设计。
 
 ### 乌布隐世天堂：Alam Wayang Ubud
 
@@ -39,9 +39,9 @@ _srcHash: 8a7b9e172d2e1d5100ae46516bc93033
 
 位于乌布核心地带，Alam Wayang Ubud 却隐藏在被称为「Kampoeng Bule（老外村）」的安静小巷中，这里因外籍人士社区而闻名，让您既可享受在地村庄的自然与文化，又不失交通便利性。
 
-📍 距离布兰科博物馆仅800米 🏛
+📍 距离布兰科博物馆仅 800 米 🏛
 
-📍 10分钟车程即可抵达[乌布皇宫](/zh-cn/blog/ubud-royal-palace-tour-guide/)与市集 👑
+📍 10 分钟车程即可抵达[乌布皇宫](/zh-cn/blog/ubud-royal-palace-tour-guide/)与市集 👑
 
 📍 步行可探索[天空步道](/zh-cn/blog/ubud-campuhan-ridge-walk/)与周边精品店 🧘‍♀️
 
@@ -97,7 +97,7 @@ Alam Wayang Ubud 为旅人提供了全面而精致的设施，让每位访客都
 
 无论您是蜜月新人、家庭旅客，还是渴望安静静心的探索者，**Alam Wayang Ubud** 都能成为您巴厘岛乌布之旅中不可错过的选择！现在就来体验这座隐世天堂吧！🌸
 
-👉[Alam Wayang Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25688908) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=77293408&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2JY92CE0_ZhBgNLH4LOj6sElnn_rDQwbPQluv6YokShwCeiCkHnk9jTxSJWbPi4A9Hh0IGEGgodWhkBKqsEplX6NDFyApWM4Pxwbm3KhsZq0Fm7HJ02MHIdILxOvcCpnVPv9ifYmHmWMp4iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-AX0zD6eJlaGLlZmjuWMk4Dkde5drGwhpoG-Hq4XWPdISskbGhgYGJoam5rqGiRaWhimmBromliaGJlZ6pobmZoZaaw5evjaE2MjaylI4CkwagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxiczQ0cHMyj7LhYvZ0CRL8oPd8e7u1pb0Uc0i4i6K9bL_kip7T9logOUOYXOCe1zkn7I0X2Eceb3jz9V3_afsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QBS0ClrQgIAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-72562&detailFilters=17|1~17~1*31|77293408~31~77293408*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1040&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/UmcIgSJ3) 房价 & 空房查询
+👉[Alam Wayang Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25688908) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-77293408/alam-wayang-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/UmcIgSJ3) 房价 & 空房查询
 
 ## 住客真实评价
 
@@ -119,7 +119,7 @@ Alam Wayang Ubud 为旅人提供了全面而精致的设施，让每位访客都
 
 酒店的位置也非常便利，虽然需要先到接送点再乘坐电动车进入，但这段小旅程反而成为一个有趣的开端，因为这里有个陡坡，普通汽车无法进入。服务人员非常周到，接送过程快速又顺畅。🚗 酒店后方步行几分钟即可到达主路，沿着这条路大约一二十分钟就能抵达乌布皇宫，周围有很多景点与餐厅，非常方便！这次住宿体验非常棒，让人放松身心，感受到巴厘岛的独特魅力。💖
 
-> 👉[Alam Wayang Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25688908) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=77293408&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2JY92CE0_ZhBgNLH4LOj6sElnn_rDQwbPQluv6YokShwCeiCkHnk9jTxSJWbPi4A9Hh0IGEGgodWhkBKqsEplX6NDFyApWM4Pxwbm3KhsZq0Fm7HJ02MHIdILxOvcCpnVPv9ifYmHmWMp4iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-AX0zD6eJlaGLlZmjuWMk4Dkde5drGwhpoG-Hq4XWPdISskbGhgYGJoam5rqGiRaWhimmBromliaGJlZ6pobmZoZaaw5evjaE2MjaylI4CkwagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxiczQ0cHMyj7LhYvZ0CRL8oPd8e7u1pb0Uc0i4i6K9bL_kip7T9logOUOYXOCe1zkn7I0X2Eceb3jz9V3_afsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QBS0ClrQgIAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-72562&detailFilters=17|1~17~1*31|77293408~31~77293408*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1040&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/UmcIgSJ3) 房价 & 空房查询
+> 👉[Alam Wayang Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25688908) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-77293408/alam-wayang-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/UmcIgSJ3) 房价 & 空房查询
 
 ## 更多乌布villa介绍
 

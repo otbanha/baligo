@@ -908,7 +908,11 @@ const { area } = Astro.props;
     // ─── Dark mode tile switching ─────────────────────────────
     new MutationObserver(() => {
       mapStyleReady = false;
-      map.setStyle(isDark() ? STYLE_DARK : STYLE_LIGHT);
+      // diff:false — a diff-based setStyle tries to reconcile our runtime-added
+      // 'places' source / 'points' layer against a completely different base
+      // style and gets stuck (style.load never fires again, map goes blank).
+      // A full reset reliably fires style.load so trySetupLayers() can rebuild.
+      map.setStyle(isDark() ? STYLE_DARK : STYLE_LIGHT, { diff: false });
       // style.load will fire and call trySetupLayers() → setupLayers()
     }).observe(document.documentElement, { attributes: true, attributeFilter: ['data-dark'] });
   }

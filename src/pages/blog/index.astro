@@ -9,7 +9,7 @@ import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import ForumLatestTopics from '../../components/ForumLatestTopics.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection, render } from 'astro:content';
+import { getCollection } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
@@ -125,19 +125,16 @@ const accommodations = allPosts
     heroImage: p.data.heroImage || '',
   }));
 
-// 最新1則新聞存檔（含render）
-const allBlogRaw = await getCollection('blog');
-const baliNewsRaw = allBlogRaw
-  .filter(p => {
-    const cats = getCategories(p.data.category);
-    return cats.includes('新聞存檔') && isPublished(p);
-  })
-  .sort((a, b) => getPublishTime(b) - getPublishTime(a))
-  .at(0);
-
-const { Content: BaliNewsContent } = baliNewsRaw
-  ? await render(baliNewsRaw)
-  : { Content: null };
+// 最新9則新聞存檔（首頁 widget 用列表，全文在 /news/ 與 /blog/[slug]/）
+const baliNewsPosts = allPosts
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
+  .slice(0, 9)
+  .map(p => ({
+    id: p.id,
+    slug: p.data.slug || p.id,
+    title: p.data.title,
+    date: new Date(p.data.pubDate).toISOString().split('T')[0],
+  }));
 
 // 求救箱問題（隨機顯示用）
 const qaCollection = await getCollection('qa');
@@ -417,15 +414,20 @@ const socialLinks = [
         <!-- Bali News + (Accommodations / 峇里島討論區 / YouTube) -->
         <div class="news-side-grid" id="top-widgets">
           <div class="widget-box news-widget-box">
-            <h2 class="widget-title fade-in">📰 Bali News</h2>
-            {baliNewsRaw ? (
+            <h2 class="widget-title fade-in">📰 峇里島新聞</h2>
+            {baliNewsPosts.length > 0 ? (
               <div class="news-scroll">
-                <a href={`/blog/${baliNewsRaw.id}/`} class="news-post-date">
-                  {new Date(baliNewsRaw.data.pubDate).toISOString().split('T')[0]}
-                </a>
-                <div class="news-body">
-                  <BaliNewsContent />
-                </div>
+                <ul class="news-list">
+                  {baliNewsPosts.map(p => (
+                    <li class="news-item">
+                      <a href={`/blog/${p.slug}/`}>
+                        <span class="news-date">{p.date}</span>
+                        <span class="news-title">{p.title}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+                <a href="/news/" class="news-more-link">查看全部峇里島新聞 →</a>
               </div>
             ) : (
               <div class="widget-empty">即將推出</div>
@@ -522,6 +524,9 @@ const socialLinks = [
       <div id="cat-heading" style="display:none">
         <h1 id="cat-heading-text" class="cat-heading-title"></h1>
       </div>
+
+      <!-- 住宿推薦分類：Travelpayouts 飯店搜尋內容小工具（JS 控制顯示，切到此分類時才動態載入 script，避免容器 display:none 時初始化失敗） -->
+      <div id="accom-search-widget" style="display:none" aria-hidden="true"></div>
 
       <!-- 新手指南分類介紹區塊（JS 控制顯示） -->
       <div id="newbie-guide-intro" style="display:none" aria-hidden="true">
@@ -721,9 +726,9 @@ const socialLinks = [
       if (title) title.textContent = random.title;
     }
 
-    // 從 hero-map.json 載入 heroImage 查詢表（輕量，保證最新）
+    // 從 hero-map.json 載入 heroImage 查詢表（_headers 設 5 分鐘快取＋SWR，夠新又省流量）
     let articleHeroMap = {};
-    fetch('/hero-map.json?v=' + Date.now()).then(r => r.json()).then(map => {
+    fetch('/hero-map.json').then(r => r.json()).then(map => {
       articleHeroMap = map;
       // fetch 完後若目前已在某分類，重新渲染精選（補齊空白 heroImage）
       if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
@@ -887,6 +892,28 @@ const socialLinks = [
         homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
       }
 
+      // 住宿推薦分類：顯示 Travelpayouts 搜尋比價小工具
+      // script 延到容器可見後才動態插入，避免 display:none 時初始化導致小工具量不到寬度而渲染失敗
+      const accomWidget = document.getElementById('accom-search-widget');
+      if (accomWidget) {
+        const isAccom = cat === '住宿推薦';
+        accomWidget.style.display = isAccom ? 'block' : 'none';
+        accomWidget.setAttribute('aria-hidden', isAccom ? 'false' : 'true');
+        if (isAccom && !accomWidget.dataset.mounted) {
+          accomWidget.dataset.mounted = '1';
+          const tpScript = document.createElement('script');
+          tpScript.async = true;
+          tpScript.charset = 'utf-8';
+          tpScript.src = 'https://tpwidg.com/content?trs=519937&shmarker=654252&locale=zh-hant&default_destination=Bali%2C%20Indonesia&powered_by=true&primary_override=%235392F9&color_button=%235392F9&color_icons=%235392F9&dark=%23262626&color_border=%235392F9&color_focused=%2332a8dd&border_radius=5&plain=false&promo_id=8303&campaign_id=104';
+          accomWidget.appendChild(tpScript);
+          const tpScript2 = document.createElement('script');
+          tpScript2.async = true;
+          tpScript2.charset = 'utf-8';
+          tpScript2.src = 'https://tpwidg.com/content?trs=519937&shmarker=654252&lang=hk&layout=S10391&powered_by=true&campaign_id=121&promo_id=4038';
+          accomWidget.appendChild(tpScript2);
+        }
+      }
+
       // 新手指南分類：顯示 intro 區塊 + 動態更新 meta tags
       const newbieIntro = document.getElementById('newbie-guide-intro');
       if (newbieIntro) {
@@ -1033,6 +1060,10 @@ const socialLinks = [
 </html>
 
 <style is:global>
+  #accom-search-widget {
+    margin: 0 0 1.5em;
+  }
+
   /* ---- 新手指南分類 intro ---- */
   .newbie-intro-text {
     margin: 1.2em 0 1.8em;
@@ -1259,12 +1290,17 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   margin-bottom: 1.5em;
   align-items: start;
 }
+/* grid/flex 項目預設 min-width:auto，內層 YouTube aspect-ratio 區塊的內容寬度
+   會把整條 1fr 軌道撐寬（手機版單欄時尤其明顯，導致整頁水平溢出被裁切）。 */
+.news-side-grid > * { min-width: 0; }
 
 .side-stack {
   display: flex;
   flex-direction: column;
   gap: 1.2em;
+  min-width: 0;
 }
+.side-stack > * { min-width: 0; }
 
 .news-widget-box .news-scroll {
   overflow-y: auto;
@@ -1353,6 +1389,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .news-item a:hover .news-title { color: var(--gold); }
 .news-date { font-size: 0.72em; color: var(--gold); }
 .news-title { font-size: 0.85em; color: #5D4037; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-more-link { display: block; margin-top: 0.7em; font-size: 0.8em; font-weight: 700; color: var(--ocean, #0a3d6b); text-decoration: none; }
+.news-more-link:hover { text-decoration: underline; }
 
 /* Top 5 */
 .top5-section {
@@ -1482,7 +1520,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 @media (max-width: 1100px) {
   .featured-grid { grid-template-columns: repeat(2, 1fr); }
   .news-side-grid { grid-template-columns: 1fr; }
-  .news-widget-box .news-scroll { max-height: 420px; }
+  /* 單欄版面時新聞清單不再需要跟右側欄位對齊高度，讓它自然撐開，避免內部捲軸把
+     內容卡在固定高度裡（曾經只顯示得下 ~5 則，其餘要滾動才看得到）。*/
+  .news-widget-box .news-scroll { max-height: none; overflow: visible; }
 }
 
 @media (max-width: 900px) {
@@ -1585,6 +1625,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .card-body { padding: 0.5em 0.75em; }
   .card-title { font-size: 0.85em; -webkit-line-clamp: 2; margin: 0; }
   .card-desc { display: none; }
+
+  /* 手機版峇里島新聞只顯示前5則，其餘要點「查看全部」才看得到 */
+  .news-list .news-item:nth-child(n+6) { display: none; }
 }
 .news-scroll {
   overflow-y: auto;

@@ -1,16 +1,17 @@
 ---
 title: >-
-  【2026 Ubud Hotel Baru】Sanggraloka Ubud Unboxing: Baru Buka Juni, Hutan Organik
-  Farm & Villa Pelarian yang Tenang
+  【2026 Ubud Hotel Baru】Unboxing Sanggraloka Ubud: Dibuka Juni, Hutan Organik &
+  Vila Pelarian yang Tenang
 slug: Sanggraloka-Ubud
 description: >-
   Menyelinap ke surga hijau paling murni di Ubud Utara! Unboxing eksklusif
-  Sanggraloka Ubud yang baru buka Juni 2026. Artikel ini mengupas tuntas: villa
-  pelarian yang memadukan organic farm dan sistem irigasi Subak tradisional,
-  estetika makanan nabati bebas racun dari farm-to-table, pemandangan lembah
-  sungai di pegunungan, serta tips aman dan anti-ribet saat booking di musim
-  kemarau liburan sekolah.
+  Sanggraloka Ubud yang baru dibuka Juni 2026. Artikel ini membahas tuntas: vila
+  pelarian yang memadukan pertanian organik dan metode irigasi Subak
+  tradisional, estetika makanan nabati bebas racun dari ladang ke meja,
+  pemandangan lembah sungai di pegunungan, serta tips aman dan cara menghindari
+  penipuan saat memesan kamar di musim kemarau dan liburan sekolah.
 pubDate: 2026-06-15T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: 16
 category:
   - 住宿推薦
@@ -31,48 +32,48 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 61483f8ff7a4b8bf00b51ec47949a2ad
+_srcHash: 6c2d055b653bd2ada4bcd65d79a595a4
 ---
 
-## 🆕 Buka Baru Juni 2026｜Surga Mewah Hutan Organik di Ubud - Sanggraloka Ubud
+## 🆕 Juni 2026 Baru Dibuka｜Surga Mewah Hutan Organik di Ubud - Sanggraloka Ubud
 
-![Buka Baru Juni 2026｜Surga Mewah Hutan Organik di Ubud - Sang](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
+![2026年6月 新開幕｜烏布叢林有機農場奢華秘境 - Sanggraloka Ubud](https://images.gobaligo.id/images/2026-06/1781513260709-1mc0812000p1vcdvd6973_w_1280_853_r5.webp)
 
-Payangan, dataran tinggi di utara Ubud, terkenal dengan suasana hutan tropis yang lebih dalam daripada pusat Ubud. Pada Mei 2026, sebuah resor baru yang menggabungkan 'akomodasi mewah' dengan 'kehidupan pertanian organik' lahir di sini—**Sanggraloka Ubud** resmi dibuka pada 31 Mei 2026, menjadi salah satu resor bintang lima terbaru di Bali. Resor ini berpusat pada pertanian berkelanjutan, menggabungkan filosofi farm-to-table dengan budaya lokal Bali, menawarkan pengalaman menginap yang menyembuhkan dan alami.
+Payangan, dataran tinggi di Ubud Utara, terkenal dengan suasana hutan tropis yang lebih dalam daripada pusat kota Ubud. Pada Mei 2026, sebuah resor baru yang memadukan 'akomodasi mewah' dan 'kehidupan pertanian organik' lahir di sini——**Sanggraloka Ubud** resmi dibuka pada 31 Mei 2026, menjadi salah satu resor bintang lima terbaru di Bali. Resor ini berpusat pada pertanian berkelanjutan, menggabungkan filosofi kuliner farm-to-table dengan budaya lokal Bali, menawarkan pengalaman menginap yang menyembuhkan dan alami.
 
 ***
 
 ### 📍 Lokasi & Lingkungan Sekitar
 
-![Lokasi & Lingkungan Sekitar](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
+![位置與周邊環境](https://images.gobaligo.id/images/2026-06/1781513338926-0226612000oy42u9o5345_w_1280_853_r5.webp)
 
-Sanggraloka Ubud terletak di Jl. Raya Bresela, Payangan. Tempat wisata di sekitarnya termasuk Jungle Swing (sekitar 16 menit berkendara) dan sawah terasering Tegallalang yang terkenal (sekitar 16 menit berkendara), serta Aloha Ubud Swing (sekitar 17 menit). Dari sini ke pusat Ubud hanya sekitar 15 menit berkendara—meski lokasinya tenang, akses ke pusat kota tetap mudah. Area Payangan dipenuhi pepohonan rindang dan lembah sungai, jadi cocok banget buat kamu yang suka hidden gem di pegunungan.
+Sanggraloka Ubud terletak di Jl. Raya Bresela, Payangan. Tempat wisata di sekitarnya termasuk Jungle Swing (sekitar 16 menit berkendara) dan sawah terasering Tegallalang yang terkenal (sekitar 16 menit berkendara), serta Aloha Ubud Swing (sekitar 17 menit). Dari sini, jarak ke pusat kota Ubud sekitar 15 menit berkendara. Meskipun lokasinya lebih tenang, akses ke pusat kota tetap mudah. Area Payangan dipenuhi pepohonan rindang dan lembah sungai, menjadikannya pilihan utama bagi wisatawan yang mencari tempat tersembunyi di pegunungan.
 
 ***
 
-### 🏨 Fasilitas Hotel
+### 🏨 Fasilitas
 
-Sanggraloka Ubud memposisikan diri sebagai tempat perpaduan 'kemewahan, budaya, dan kehidupan pertanian organik'. Baik kamu yang cari relaksasi, petualangan, atau pengalaman budaya Bali yang mendalam, semua bisa nemu ritme sendiri di sini.
+Sanggraloka Ubud memposisikan dirinya sebagai perpaduan antara 'kemewahan, budaya, dan kehidupan pertanian organik'. Baik kamu mencari relaksasi, petualangan, atau pengalaman budaya Bali yang mendalam, kamu bisa menemukan ritme sendiri di sini.
 
-![Fasilitas Hotel](https://images.gobaligo.id/images/2026-06/1781513373760-1mc2l12000poe3l392156_w_1280_853_r5.webp)
+![設施介紹](https://images.gobaligo.id/images/2026-06/1781513373760-1mc2l12000poe3l392156_w_1280_853_r5.webp)
 
-Resor ini punya dua kolam renang yang dikelilingi taman tropis—kamu bisa berenang santai di bawah sinar matahari Bali. Teras atapnya menawarkan pemandangan lembah Payangan sambil menikmati koktail spesial. Fasilitas Spa menyediakan perawatan seperti pijat batu panas dan body wrap, bikin tubuh dan pikiran rileks total di tengah hutan.
+Resor ini memiliki dua kolam renang yang dikelilingi taman tropis, tempat kamu bisa berenang santai di bawah sinar matahari Bali. Atap teras menawarkan pemandangan lembah Payangan, sambil menikmati koktail yang dibuat dengan ahli. Fasilitas spa menawarkan perawatan seperti pijat batu panas dan body wrap, membuat tubuh dan pikiran benar-benar rileks di tengah hutan.
 
-![Fasilitas Hotel](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
+![設施介紹](https://images.gobaligo.id/images/2026-06/1781513405660-0221s12000p80y955ef27_w_1280_853_r5.webp)
 
-Farm di resor ini jadi daya tarik utama: ada kebun buah organik, kebun sayur ekologis, dan taman kupu-kupu kecil yang menampilkan keanekaragaman hayati lokal Bali. Hasil panen dari farm langsung dipasok ke restoran resor, menciptakan pengalaman farm-to-table yang autentik. Ada dua restoran dan satu kafe dengan menu masakan Indonesia dan internasional—ulasan soal makanannya bagus banget.
+Pertanian resor adalah daya tarik utama: terdapat kebun buah organik, taman ekologi sayuran, dan taman kupu-kupu kecil yang menampilkan ekosistem lokal Bali. Bahan-bahan yang dipanen dari pertanian langsung dipasok ke restoran resor, menciptakan pengalaman farm-to-table yang autentik. Ada dua restoran dan satu kafe, dengan menu yang mencakup masakan Indonesia dan internasional, dan ulasan makanannya sangat bagus.
 
-![Fasilitas Hotel](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
+![設施介紹](https://images.gobaligo.id/images/2026-06/1781513428141-1mc0512000p1v4wqs8d67_w_1280_853_r5.webp)
 
-Pengalaman budaya malam hari juga jadi sorotan. Resor rutin mengadakan pertunjukan tari tradisional Bali dan musik gamelan, jadi kamu bisa merasakan jiwa budaya Ubud tanpa harus keluar. Selain itu, kelas memasak juga jadi aktivitas khas resor—cocok buat kamu yang ingin membawa pulang sedikit cita rasa Bali.
+Pengalaman budaya di malam hari juga jadi highlight. Resort ini rutin mengadakan pertunjukan tari tradisional Bali dan musik gamelan, jadi kamu nggak perlu keluar resort buat merasakan jiwa budaya Ubud di tengah suasana hutan. Selain itu, kelas memasak juga jadi salah satu aktivitas andalan resort — cocok banget buat kamu yang pengen bawa pulang sedikit cita rasa Bali.
 
-Fasilitas lain termasuk: area BBQ, ruang piknik outdoor, toko suvenir, dan perapian di lobi.
+Fasilitas lainnya termasuk: area BBQ, ruang piknik outdoor, toko suvenir, dan perapian di lobi.
 
 ***
 
 ### 🛏️ Tipe Kamar
 
-Pilihan tipe kamarnya lengkap banget, dari Deluxe Room, Premiere Suite, sampai Deluxe Private Pool Villa, Premiere Private Pool Villa (dua lantai dengan kolam renang pribadi), plus Presidential Pool Villa satu dan dua kamar tidur — semua ada.
+Pilihan kamarnya beragam banget, mulai dari Deluxe Room, Premiere Suite, sampai Deluxe Private Pool Villa, Premiere Private Pool Villa (dua lantai dengan kolam renang pribadi), plus Presidential Pool Villa satu dan dua kamar — semua tersedia lengkap.
 
 ![Tipe Kamar](https://images.gobaligo.id/images/2026-06/1781513559571-1mc4e12000p6jzw3z9944_w_1280_853_r5.webp)
 ![Tipe Kamar](https://images.gobaligo.id/images/2026-06/1781513560059-1mc4v12000p6kegc45b12_w_1280_853_r5.webp)
@@ -85,7 +86,7 @@ Pilihan tipe kamarnya lengkap banget, dari Deluxe Room, Premiere Suite, sampai D
 
 ▲Premiere Suite with Valley View
 
-Setiap tipe kamar punya balkon dengan pemandangan lembah. Premiere Suite luasnya sekitar 87 meter persegi, Deluxe Private Pool Villa sekitar 137 meter persegi, dan yang paling top, Premiere Private Pool Villa juga sekitar 137 meter persegi.
+Setiap tipe kamar punya balkon dengan pemandangan lembah. Premiere Suite luasnya sekitar 87 meter persegi, Deluxe Private Pool Villa sekitar 137 meter persegi, dan yang paling premium, Premiere Private Pool Villa, juga sekitar 137 meter persegi.
 
 ![Tipe Kamar](https://images.gobaligo.id/images/2026-06/1781513633878-unnamed_1_.webp)
 ![Tipe Kamar](https://images.gobaligo.id/images/2026-06/1781513634291-1mc2h12000p6jrze46041_w_1280_853_r5.webp)
@@ -99,29 +100,29 @@ Setiap tipe kamar punya balkon dengan pemandangan lembah. Premiere Suite luasnya
 
 ▲Premiere Private Pool Villa
 
-Semua kamar dilengkapi kulkas mini gratis, brankas, gorden blackout, peredam suara, plus kamar mandi dengan jubah mandi, sandal, dan hair dryer. Wi-Fi-nya kencang, 50+ Mbps. Harga mulai dari sekitar USD$140 per malam.
+Semua tipe kamar dilengkapi dengan minibar gratis, brankas, tirai blackout, peredam suara, serta kamar mandi dengan jubah mandi, sandal, dan pengering rambut. Kecepatan Wi-Fi mencapai 50+ Mbps. Harga menginap mulai dari sekitar USD$140 per malam.
 
 ***
 
-### 👥 Cocok buat siapa
+### 👥 Cocok Buat Siapa
 
-Sanggraloka Ubud paling cocok buat kamu yang pengin kabur dari keramaian pusat Ubud dan lebih suka penginapan yang bener-bener healing. Pengalaman organic farm jadi nilai plus banget buat liburan keluarga atau wellness travel. Terus, seri Pool Villa dengan kolam renang pribadi juga bikin pasutri atau pasangan yang lagi bulan madu dapet privasi maksimal.
+Sanggraloka Ubud paling cocok buat kamu yang pengin kabur dari hiruk-pikuk pusat Ubud dan lebih suka nginep yang sifatnya healing banget. Pengalaman organic farm jadi nilai plus buat keluarga dengan anak-anak atau pecinta wellness; seri Pool Villa-nya yang punya kolam renang pribadi juga bikin pasutri atau pasangan yang lagi bulan madu dapet privasi maksimal.
 
 ***
 
-### 💬 Ulasan Tamu
+### 💬 Review Tamu
 
 [https://www.instagram.com/reel/DXZN3OLk1Qv/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/reel/DXZN3OLk1Qv/?utm_source=ig_web_button_share_sheet)
 
-"Di sini beneran kayak mimpi, berada di tengah hutan, kamarnya nyaman dan fasilitas lengkap, pelayanan bintang lima bikin kamu merasa seperti di rumah sendiri. Makanan Indonesia dan internasional di restoran juga bikin terkesan, satu-satunya masalah adalah ogah pulang!" (Sumber: Tripadvisor)
+"Ini beneran kayak mimpi, pas di tengah hutan, kamarnya nyaman dan fasilitas lengkap, pelayanan bintang lima bikin kita merasa kayak di rumah sendiri. Makanan Indonesia dan internasional di restorannya bikin kagum, satu-satunya masalah adalah ogah pulang!" (Sumber: Tripadvisor)
 
-"Ini benar-benar hidden gem di Ubud. Kamar dibuat dari bahan alami, desainnya keren banget; kasurnya nyaman, kamar mandi bersih dan terang, air panas lancar. Stafnya ramah dari check-in sampai check-out." (Sumber: Tripadvisor)
+"Sungguh hidden gem di Ubud. Kamar pakai material alami, desainnya kece abis; kasurnya nyaman, kamar mandi bersih dan terang, air panas lancar. Staf dari check-in sampai check-out selalu ramah dan helpful." (Sumber: Tripadvisor)
 
 ***
 
 ### 📌 Info Pemesanan
 
 Agoda 9.5⭐ Trip 9.7⭐
-Link booking [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=79938031) [Trip](https://id.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=126700045&checkIn=2026-12-02&checkOut=2026-12-03&adult=2&children=1&crn=1&curr=USD&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6zsTFJMEk9YCJ41_j9mdsQsyGBkYaTzkMHjBabJV3XFJgy3V9Yq-DZyGQXmw2ySGAJ2LKgefT2BP3fTsziUHT0aGLkRUsMIOxd8pWm42M3zRi-g_lZjvsYGQ6wMh0gvHXjumMC5ieLXtle4qFhWNyj_Illr2M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmSbmptYWprqGRgABUsSKzxTwJqTE3OSS3MSS1JDKguAhhjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEGQ0UVQfmZ-HkS3AYpYWGJOaSpEJdA-t1SoFYa1sY9YmKJjX7A85fjEwvCLhaGJlaGLlYVjwn7WSaysHL1HdzHuYuUNcQ02DfXUNQzRjdI1vMB6a8JyRilFQwMDAyNTUyNzXYNES4tUoyQTXRNLEwszE11DU3MjS2C4b33z7NIbYyNrKUiYKjBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzMnMycTOOsuFiDg12EZyzSHnnH3ZpBylmT5cgxTcs3JNYmCzttUA8QxgvcOE8vpMZs3ntI2EiSaxVGboe3hlnxAoYuxi5BRg9GCMYKxgbGBlXMbJzMRsYGQowbWBk3MH4HwYYXzGCzAQAewsj11ICAAA&masterhotelid_tracelogid=100025527-0a98e2b4-494864-1572902&detailFilters=17%7C1~17~1*31%7C126700045~31~126700045*80%7C0%7C1~80~0*29%7C1~29~1%7C2&display=exavg&subStamp=308&isCT=true&isFlexible=F&locale=en_id&ages=9&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17670361) [Booking](https://booking.tpm.li/9jO6534Z)
+Link booking [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=79938031) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-126700045/sanggraloka-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9jO6534Z)
 
 {{block:ubud}}

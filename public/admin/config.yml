@@ -61,7 +61,22 @@ collections:
         required: false
         hint: "點 Add 新增標籤，每個標籤獨立一項"
       - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
+      - { label: 首圖替代文字 Alt, name: imageAlt, widget: string, required: false, hint: "僅新聞文章需要，供無障礙與 SEO 使用" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
+      - label: 新聞分類（僅「新聞存檔」文章需填）
+        name: newsCategory
+        widget: select
+        required: false
+        options:
+          - 政策
+          - 交通
+          - 天氣
+          - 景點
+          - 簽證
+          - 治安
+          - 活動
+      - { label: 新聞出處名稱, name: source, widget: string, required: false, hint: "例如：Bali Post、The Bali Sun" }
+      - { label: 新聞出處連結, name: sourceUrl, widget: string, required: false }
       - { label: 🔒 私密發布（有連結才能看）, name: private, widget: boolean, required: false, default: false, hint: "勾選後此文章不會出現在文章列表和搜尋，但有直接連結仍可訪問" }
       - { label: 🔀 H2 區塊亂數排列, name: shuffle_h2, widget: boolean, required: false, default: false, hint: "勾選後每次載入頁面時，H2 標題及其底下的內容區塊會隨機排列順序" }
       - { label: 內文, name: body, widget: markdown }

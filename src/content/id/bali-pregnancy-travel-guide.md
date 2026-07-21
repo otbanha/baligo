@@ -1,13 +1,12 @@
 ---
-title: 'Liburan ke Bali Saat Hamil 3 Bulan: Tips Santai dan Chill'
+title: 'Bali Trip Saat Hamil 3 Bulan: Liburan Santai & Chill'
 slug: bali-pregnancy-travel-guide
 description: >-
-  Liburan 5 hari 4 malam ke Bali kali ini bener-bener first time yang penuh
-  antusiasme buat aku! Kami mampir ke Sanur, Nusa Lembongan, Ubud, Canggu, dan
-  lainnya. Kalian bisa lihat itinerary terbaik dari supir sewaan yang ramah
-  banget!
+  Liburan 5 hari 4 malam ke Bali ini jadi first trip yang super seru! Kami
+  mampir ke Sanur, Nusa Lembongan, Ubud, Canggu, dan lainnya — itinerary paling
+  oke dari driver sewaan bisa kamu contek!
 pubDate: 2024-11-14T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -21,66 +20,66 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_d151d1fea806eec12fad19726e274
 originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 update: 2026/05/22
 lang: id
-_srcHash: c8b240b3b5f610ec85f52da0f309b0f1
+_srcHash: 535e1ceef32a3fc0318301f88247662e
 ---
-> Konten ini diadaptasi dari postingan anggota grup [Liu Huici](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/)
+> Konten berikut diadaptasi dari catatan perjalanan yang dibagikan oleh anggota grup [Liu Huici](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/)
 
-**Ringkasan Penting**: Kunci traveling saat hamil adalah **persiapan matang dan jadwal yang fleksibel** — cari supir sewaan yang bisa bahasa Mandarin, urus eVisa, pajak turis, dan formulir bea cukai online sebelum berangkat. Hari keberangkatan, siapkan surat keterangan sehat dan obat-obatan (obat perut, obat flu). Rute 5 hari 4 malam ini adalah **Sanur → Nusa Lembongan → Ubud → Canggu**, ritmenya santai, nggak maksa itinerary — traveling saat hamil tetap bisa seru!
+**Intinya**: Kunci traveling saat hamil adalah **persiapan matang dan jadwal fleksibel** — cari driver sewaan yang bisa bahasa Mandarin, urus eVisa, pajak turis, dan formulir bea cukai online dari rumah. Hari keberangkatan siapkan surat kesehatan dan obat-obatan (obat perut, obat flu). Rute 5 hari 4 malam ini: **Sanur → Nusa Lembongan → Ubud → Canggu**, ritme santai tanpa ngebut, traveling saat hamil tetap seru!
 
-Liburan ke Bali kali ini bener-bener first time yang penuh antusiasme! Makasih banget buat teman-teman yang sharing di [grup Facebook](https://www.facebook.com/groups/indonesia.travelguide), aku jadi nemu supir sewaan yang jago bahasa Mandarin. Di bagian akhir artikel, aku bakal kasih info spesial soal dia.
+Liburan Bali 5 hari 4 malam ini jadi first trip yang super ditunggu! Makasih banget buat teman-teman di [grup Facebook](https://www.facebook.com/groups/indonesia.travelguide) yang udah sharing info, sampai aku nemu driver sewaan Mandarin yang keren banget — di akhir artikel ada review khusus.
 
 ## Persiapan Sebelum Berangkat:
 
-1. **Supir Sewaan Jago Mandarin**
-   Liburan kali ini ditemenin supir sewaan yang bisa bahasa Mandarin, jadi aku nggak perlu khawatir soal transportasi. Bahasa Mandarinnya lancar banget, nggak cuma anter jemput ke tempat-tempat hits, tapi juga fleksibel ngatur jadwal sesuai waktu dan kondisi lalu lintas — bikin perjalanan makin mulus.
-2. **Konfirmasi Itinerary dengan Supir**
-   Sebelum berangkat, jangan lupa diskusiin jadwal harian sama supir. Dia bakal kasih saran profesional sesuai kebutuhan kita, biar tiap destinasi bisa dinikmati maksimal.
+1. **Driver Mandarin yang Oke**
+   Ada driver sewaan Mandarin nemenin, urusan transportasi jadi nggak pusing. Bahasa Mandarinnya lancar, nggak cuma anter ke tempat wisata, tapi juga fleksibel atur jadwal sesuai waktu dan lalu lintas — perjalanan makin mulus.
+2. **Konfirmasi Itinerary dengan Driver**
+   Sebelum berangkat, pastikan udah diskusi jadwal harian sama driver. Driver bakal kasih saran profesional sesuai kebutuhan kita, biar tiap spot wisata bisa dinikmati maksimal.
 3. **Tukar NT$ ke USD**
-   Sebelum berangkat, ingat tukar dulu sebagian uang ke USD. Nanti di Bali, baru dituker lagi ke Rupiah. Ini cara paling worth it buat ganti uang.
+   Sebelum berangkat, tukar dulu NT$ ke USD. Nanti di Bali baru ditukar lagi ke Rupiah. Ini cara paling hemat.
 4. **eVisa**
-   Jangan lupa urus eVisa Indonesia sebelum berangkat. Ini bisa ngurangin antrean pas imigrasi di bandara, bikin awal perjalanan makin lancar.
+   Jangan lupa urus eVisa Indonesia dari rumah, biar nggak antre lama di imigrasi bandara — awal perjalanan jadi lebih lancar.
 5. **Pajak Turis**
-   Bali nerapin pajak turis buat pengunjung. Saran aku, bayar online aja sebelum berangkat, biar nggak ribet urus di sana.
+   Bali kenakan pajak turis untuk pengunjung. Bayar online aja biar nggak ribet urus di lokasi.
 6. **Formulir Bea Cukai**
-   Tiga hari sebelum berangkat, jangan lupa isi formulir bea cukai online. Ini bakal nghemat waktu pas masuk imigrasi.
-7. **Surat Keterangan Sehat & Tiket**
-   Hari keberangkatan, pastikan udah ambil tiket dan isi surat keterangan sehat. Dokumen harus lengkap biar nggak panik di bandara.
+   Tiga hari sebelum berangkat, isi formulir bea cukai online. Pas masuk bandara, waktu jadi lebih hemat.
+7. **Surat Kesehatan & Tiket**
+   Hari H, ambil tiket dan isi surat kesehatan. Pastikan semua dokumen lengkap biar nggak panik di bandara.
 8. **Siapkan Obat-obatan**
-   Meskipun perjalanan nggak terlalu panjang, tetap sedia obat-obatan dasar kayak obat perut dan obat flu buat jaga-jaga.
+   Meski trip nggak panjang, sedia obat dasar kayak obat perut dan flu buat jaga-jaga.
 
-Persiapan ini keliatannya ribet, tapi bikin perjalanan makin lancar. Aku bisa menikmati setiap momen di Bali!
+Persiapan ini keliatan ribet, tapi bikin perjalanan makin lancar — aku bisa nikmatin tiap momen di Bali!
 
-> Baca Juga: [【2026版】Panduan Masuk Bali Pakai Kartu 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
-> Baca Juga: [Tips Liburan ke Bali: Panduan Pemula Wajib Baca Sebelum ke Bali](/id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
+> Baca juga: [Tips Liburan Bali: Panduan Pemula Wajib Baca Sebelum ke Bali](/id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97)
 
 ***
 
-## Hari Pertama:
+## Hari Pertama: Perjalanan Dimulai!
 
 **Tiba di Bali 15:15**
-Pesawat mendarat tepat waktu di Bandara Internasional Bali, petualangan yang penuh antisipasi resmi dimulai!
+Pesawat mendarat tepat waktu di Bandara Internasional Bali, petualangan yang dinanti-nantikan resmi dimulai!
 
-**Tunjukkan sertifikat kesehatan yang sudah diisi**
-Setelah turun dari pesawat, langkah pertama adalah menunjukkan sertifikat kesehatan yang sudah diisi sebelumnya. Proses ini selesai dengan cepat, bikin kami ngerasa prosedur pencegahan COVID di Bali masih lancar banget.
+**Tunjukkan Sertifikat Kesehatan yang sudah diisi**
+Setelah turun dari pesawat, langkah pertama adalah menunjukkan sertifikat kesehatan yang sudah diisi sebelumnya. Proses ini cepat banget, bikin kami ngerasa prosedur pencegahan COVID-19 di Bali masih lancar jaya.
 
-**Tunjukkan e-visa yang sudah jadi**
-Selanjutnya, kami menunjukkan e-visa. Karena sudah diurus dari jauh-jauh hari, kami nggak perlu antre dan langsung pakai teknologi pengenalan wajah untuk melewati imigrasi dengan cepat. Proses ini super praktis, menghemat banyak repot!
+**Tunjukkan Visa Elektronik yang sudah jadi**
+Selanjutnya, tunjukkan visa elektronik. Karena udah diurus dari jauh-jauh hari, kami nggak perlu antre, langsung pakai teknologi pengenalan wajah buat percepat imigrasi. Prosesnya super gampang, ngurangin ribet banget!
 
-**Tunjukkan formulir deklarasi bea cukai**
-Langkah terakhir adalah menunjukkan formulir deklarasi bea cukai. Ini juga sudah diisi online sebelumnya, jadi seluruh proses masuk berjalan sangat mulus.
+**Tunjukkan Formulir Pabean**
+Langkah terakhir adalah menunjukkan formulir pabean. Ini juga udah diisi online sebelumnya, jadi seluruh proses masuk ke Bali berjalan mulus banget.
 
-**Tunggu bagasi**
-Proses imigrasi terlalu cepat, malah nunggu bagasi yang paling lama 🤣! Tapi begitu bagasi di tangan, rasanya langsung lebih lega.
+**Tunggu Bagasi**
+Proses imigrasi cepet banget, malah nunggu bagasi yang paling lama 🤣! Tapi begitu barang udah di tangan, rasanya langsung lega.
 
-**Bertemu dengan sopir**
-Begitu keluar dari bandara, sopir yang sudah kami pesan sudah menunggu di luar. Saat melihatnya, rasanya seluruh perjalanan jadi lebih terjamin! Siap memulai petualangan kuliner di Bali.
+**Ketemu Sopir**
+Begitu keluar bandara, sopir yang udah kami booking udah nunggu di luar. Pas lihat dia, rasanya perjalanan ini makin terasa nyata! Siap mulai petualangan kuliner di Bali.
 
-**Makan malam: Naughty Nuri's Warung, Sanur (Iga Babi Lezat)**
+**Makan Malam: Naughty Nuri's Warung, Sanur (Iga Babi Enak Banget)**
 
 ![第一天行程：](https://images.gobaligo.id/vocus/vocus_44e005ebfa77730c958280ed8a16e897.jpg)
 
-Makan pertama di Bali, kami memilih Naughty Nuri's Warung di Sanur, yang terkenal dengan iga babi andalannya. Benar-benar nggak mengecewakan, dagingnya empuk banget, dipadukan dengan saus rahasia, seluruh lidah serasa terbangun, enak banget! Kalau ke Bali, restoran ini wajib masuk daftar must-try.
+Makan pertama di Bali, kami pilih Naughty Nuri's Warung di Sanur, yang terkenal dengan iga babi andalannya. Beneran nggak tipu-tipu, dagingnya empuk banget, dipadu saus rahasia, bikin lidah bergoyang, enak banget! Kalau ke Bali, tempat ini wajib masuk daftar kuliner yang harus dicoba.
 
 > ▶[Pengalaman Kuliner Naughty Nuri's Warung Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
 
@@ -100,51 +99,51 @@ Makan pertama di Bali, kami memilih Naughty Nuri's Warung di Sanur, yang terkena
 
 ![第一天行程：](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
 
-> ➡️ Maison Aurelia Sanur 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6024011&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0Xp9lqgQo4HFb0FHBhAoKXXwnDUTCEKrHAJ4IqYceD6NPfHFvcOqx0vdHQrBSg6EODQyGoPA5ECHLkZWsJoZjKevvWfayJgGAm3BDjsYmU4wLudfwNR65T3TKRZmjldMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhhqGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-AaOhkbmJlaGLlZnjFuMkILmcfxcra6C7d7jTBdYmESl5QwMDA1NDY1NTXYNEy0QLM4tkXRNLEyNzA11DMzNTU41v_Z3XnxgbWUtBYl2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4WZo6Gja5QNF7OnS5DgB73n29utLe2lmEPCXRRLVz9f8r33tL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QCpFEtY-gIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-16655&detailFilters=17|1~17~1*31|6024011~31~6024011*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=130&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XNwjIsZ7)
+> ➡️ Cek harga & ketersediaan kamar Maison Aurelia Sanur [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6024011/maison-aurelia-sanur-bali-by-prfrence/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
-Setelah makan malam, kami check-in di Maison Aurelia Sanur. Suasana hotel ini super nyaman, dekorasinya elegan, dan lokasinya juga cukup strategis. Begitu masuk kamar, langsung terasa vibes liburan yang bikin rileks. Malamnya bisa istirahat dengan baik, biar besok siap buat petualangan.
+Setelah makan malam, kami check-in di Hotel Maison Aurelia di Sanur. Suasana hotel ini super nyaman, dekorasinya elegan, dan lokasinya juga cukup strategis. Begitu masuk kamar, langsung terasa vibes liburan yang bikin rileks. Malamnya bisa istirahat dengan tenang buat siapin tenaga buat besok.
 
 ***
 
-## Hari Kedua (Petualangan di Nusa Lembongan):
+## Hari Kedua (Petualangan ke Nusa Lembongan):
 
 **Driver jemput di hotel pagi-pagi**
-Pagi-pagi buta, driver sewaan kami udah on time jemput di hotel. Hari ini kita menuju ke Nusa Lembongan yang cantik, penuh antisipasi!
+Pagi-pagi banget, supir mobil sewaan kami udah on time jemput di hotel. Hari ini kita jalan-jalan ke Nusa Lembongan yang cantik banget, udah nggak sabar!
 
 https://youtube.com/shorts/D6ZFGWE74cE
 
-**Beli paket Nusa Lembongan di dermaga Sanur**
-Sesampainya di dermaga Sanur, kami beli paket one day trip ke Nusa Lembongan langsung di tempat. Banyak pilihan di sini, kami ambil paket yang termasuk snorkeling dan tur spot-spot wisata, value for money banget.
+**Ke dermaga Sanur buat beli paket Nusa Lembongan**
+Sesampainya di dermaga Sanur, kami beli paket one day trip ke Nusa Lembongan langsung di tempat. Banyak pilihan di sini, kami ambil paket yang udah termasuk snorkeling dan tur tempat wisata, worth it banget.
 
 **Ada guide Mandarin yang nemenin**
-Yang paling keren dari trip ini, mereka kasih guide Mandarin yang nemenin kita sepanjang perjalanan dan jelasin semuanya. Bikin perjalanan makin santai dan berisi, nggak perlu khawatir soal bahasa, dan kita bisa lebih ngerti alam serta budaya lokal.
+Yang paling keren dari trip ini, mereka nyediain guide Mandarin yang nemenin kita sepanjang jalan dan jelasin semuanya. Bikin perjalanan makin santai dan seru, nggak perlu khawatir soal bahasa, dan kita jadi lebih paham soal alam serta budaya lokal.
 
 **Aktivitas seru: Snorkeling, Devil's Tears, Dream Beach, Hutan Mangrove**
-Kami snorkeling di spot Nusa Lembongan, nikmatin air jernih dan kehidupan laut yang kaya. Ikan-ikan tropis warna-warni ngelilingin kita, bener-bener bikin kagum! Lanjut ke 'Devil's Tears' yang terkenal, ombak gede nyampar karang, air muncrat ke mana-mana, pemandangannya megah dan dramatis. Abis itu ke Dream Beach, pantai ini bener-bener sesuai namanya, pasir putih halus dan air biru bikin kita rileks total. Terakhir kita eksplor kawasan hutan mangrove, lihat langsung keajaiban alam lokal, seluruh trip seru banget.
+Kami snorkeling di spot Nusa Lembongan, airnya jernih banget dan kehidupan lautnya melimpah. Ikan-ikan tropis warna-warni ngelilingin kita, bener-bener bikin kagum! Lanjut ke tempat terkenal 'Devil's Tears', ombak besarnya nyampar karang, air muncrat ke mana-mana, pemandangannya megah dan bikin merinding. Abis itu ke Dream Beach, pantai ini bener-bener sesuai namanya, pasir putih halus dan air laut biru jernih bikin kita betah banget. Terakhir kita juga eksplor kawasan hutan mangrove, bisa lihat langsung keajaiban alam lokal. Pokoknya trip ini seru dan variatif banget.
 
 ![惡魔的眼淚（Devil's Tear）](https://images.gobaligo.id/vocus/vocus_7a0d26f0255e8b03c1b2a84a2007d87c.jpg)
 
 https://youtube.com/shorts/exdiGPLkVjw
 
-**Termasuk makan siang, santai di pantai, minum Beer Bintang**
-Trip ini juga udah include makan siang, kami nikmatin hidangan lokal di restoran tepi pantai Nusa Lembongan. Setelah makan, kami jalan-jalan santai di pasir, foto-foto, dan buka satu botol Bintang yang dingin, bener-bener nikmatin momen santai yang langka ini.
+**Termasuk makan siang, santai menikmati waktu di pantai, minum Beer Bintang**
+Di perjalanan ini, kami juga disediakan makan siang dengan penuh perhatian. Kami menikmati hidangan lokal di restoran tepi pantai di Nusa Lembongan. Setelah makan, kami berjalan-jalan santai di pasir, berfoto, dan membuka satu botol Bintang bir dingin, benar-benar menikmati momen santai yang langka ini.
 
 ![藍夢島風光](https://images.gobaligo.id/vocus/vocus_03279e6ea3f8dae6eafa0db94094c97a.jpg)
 
-Pesona Nusa Lembongan
+Pemandangan Nusa Lembongan
 
-> Masih penasaran apa aja sih yang seru di Nusa Lembongan? Ada spot menarik apa aja? Cek artikel kami: 「[Panduan Wisata Nusa Lembongan & Ceningan](/id/blog/nusa-lembongan-ceningan-guide/)」
+> Kamu masih ingin tahu apa saja yang seru di Nusa Lembongan? Ada tempat menarik apa saja? Cek artikel kami 「[Panduan Tempat Wisata Nusa Lembongan](/id/blog/nusa-lembongan-ceningan-guide/)」
 
 **Driver antar-jemput kembali ke hotel**
-Seharian main puas banget, driver sewaan di Bali datang tepat waktu jemput kita balik ke hotel. Pemandangan Nusa Lembongan bikin nagih, perjalanan ini benar-benar worth it.
+Seharian bermain dengan sangat puas, driver mobil sewaan di Bali datang tepat waktu lagi untuk menjemput kami kembali ke hotel. Keindahan Nusa Lembongan bikin ketagihan, perjalanan ini benar-benar worth it.
 
 **Jalan-jalan di kawasan Sanur**
-Balik ke Sanur, kita beres-beres sebentar, lalu jalan-jalan di sekitar. Suasana jalan Sanur ramai dan khas banget, pas jalan kita nemu banyak toko kecil yang penuh nuansa Bali.
+Setelah kembali ke Sanur, kami bersih-bersih sebentar, lalu jalan-jalan di sekitar kawasan. Jalanan Sanur ramai dan penuh dengan ciri khas lokal. Selama jalan-jalan, kami menemukan banyak toko kecil yang sarat dengan nuansa khas Bali.
 
 https://youtu.be/laRb_l8BdLM
 
 **Makan malam: Restoran Italia Forketta Bali**
-Makan malam milih restoran Italia di Sanur — Forketta Bali. Restoran ini terkenal dengan hidangan Italia yang elegan. Kita pesan pasta handmade andalan dan pizza panggang, rasa dan teksturnya autentik banget, bikin kita puas. Hidangan Italia seenak ini jadi pilihan pas buat tutup hari yang penuh aktivitas!
+Makan malam memilih restoran Italia di Sanur — Forketta Bali. Restoran ini terkenal dengan hidangan Italia yang elegan. Kami memesan pasta handmade andalan dan pizza panggang, rasa dan teksturnya sangat autentik, bikin kami puas banget. Hidangan Italia yang lezat ini adalah pilihan sempurna untuk menutup hari yang penuh aktivitas!
 
 ![第二天行程（藍夢島探險）：](https://images.gobaligo.id/vocus/vocus_142fdb8c22f4c172038e3ade269ef6ef.jpg)
 
@@ -152,68 +151,68 @@ Makan malam milih restoran Italia di Sanur — Forketta Bali. Restoran ini terke
 
 ***
 
-## Hari Ketiga (One Day Tour Ubud):
+## Hari Ketiga (Tur Sehari Ubud):
 
 **Petualangan Arung Jeram**
-Perjalanan Ubud kita mulai dengan arung jeram yang seru. Melewati hutan hujan tropis Bali yang megah, hanyut di air sungai yang jernih, merasakan sensasi adrenalin dari arus deras — ini benar-benar aktivitas wajib buat pecinta petualangan. Sepanjang perjalanan penuh kejutan dan tantangan, nggak terlupakan!
+Perjalanan Ubud kami dimulai dengan arung jeram yang seru. Menyusuri hutan hujan tropis Bali yang megah, hanyut di air sungai yang jernih, merasakan sensasi adrenalin dari arus deras — ini benar-benar aktivitas utama bagi pecinta petualangan. Seluruh proses penuh kejutan dan tantangan, tak terlupakan!
 
-**Cafe estetik: Foto-foto di ayunan**
+**Kafe Instagramable: Foto di Ayunan**
 
 ![第三天行程（烏布一日遊）：](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
 
-Setelah arung jeram, mampir ke sebuah cafe estetik yang terkenal banget. Keunikannya ada ayunan raksasa, jadi kita bisa sambil berayun sambil menikmati pemandangan sawah yang indah. Orang lokal di sini jago banget foto, suasananya bikin setiap foto terlihat seperti kartu pos. Tempat ini wajib banget buat foto-foto dan check-in.
+Setelah selesai arung jeram, kita mampir ke sebuah kafe hits yang terkenal banget. Keunikannya ada ayunan raksasa, jadi kita bisa sambil berayun sambil menikmati pemandangan sawah yang megah. Orang lokal di sini jago banget motretnya, suasananya bikin setiap foto jadi secantik kartu pos. Bener-bener tempat wajib buat foto-foto dan check-in.
 
-> [【Panduan Ayunan Ubud】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto & Cara Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
+> [【Panduan Ayunan Ubud】8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto, dan Cara Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_de5feafe85fbc690903411bfb7bf280f.jpg)
 
 Tebasari Resto, Bar & Lounge
 
-**Bebek Goreng Klasik**
-Saat makan siang, kami mampir ke restoran bebek goreng terkenal di Ubud. Hidangan ini adalah ikon kuliner Ubud — kulit bebek yang renyah dengan daging super empuk, ditambah aneka sambal khas lokal, bikin ngiler banget! Wajib banget dicoba kalau ke Bali.
+**Bebek Betutu Klasik**
+Saat makan siang, kita mampir ke restoran bebek betutu terkenal di Ubud. Hidangan ini adalah makanan klasik Ubud, kulit bebek yang renyah dengan daging yang empuk, ditambah berbagai saus khas lokal, bikin ngiler banget! Ini benar-benar salah satu makanan wajib coba di Bali.
 
 **Puri Ubud**
-Setelah makan siang, kami mengunjungi Puri Ubud yang penuh sejarah. Arsitektur puri ini khas banget Bali — ukiran detail dan ornamen rumitnya bikin kita takjub, serasa menyelami budaya dan sejarah tradisional setempat.
+Setelah makan siang, kita mengunjungi Puri Ubud yang bersejarah. Arsitektur puri ini sangat khas Bali, dengan ukiran yang detail dan ornamen yang rumit, bikin kita kagum dan bisa merasakan budaya tradisional serta sejarah lokal.
 
-> [【Destinasi Wajib di Ubud】Puri Ubud: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Harian](/id/blog/ubud-royal-palace-tour-guide/)
+> [【Destinasi Wajib di Ubud】Puri Ubud: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 **Pasar Ubud**
-Setelah itu, kami jalan-jalan di Pasar Ubud. Di sini penuh dengan kerajinan tangan, pakaian, dan suvenir. Suasananya ramai banget, dan kami juga beli beberapa oleh-oleh khas sebagai kenang-kenangan perjalanan ini.
+Selanjutnya, kita jalan-jalan di Pasar Ubud. Di sini penuh dengan berbagai kerajinan tangan, pakaian, dan suvenir. Suasana pasarnya ramai banget, dan kita juga beli beberapa suvenir khas sebagai kenang-kenangan perjalanan ini.
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-> Baca juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Cari Oleh-Oleh & Suvenir, Jelajahi Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
+> Baca Juga: [Panduan Lengkap 5 Pasar Seni Terbaik di Ubud: Belanja Suvenir/Oleh-oleh, Jelajahi Harta Karun Budaya Bali](/id/blog/ubud-art-markets-guide/)
 
 https://youtu.be/JtxZHtijEkE
 
 {{block:ubud}}
 
-**Menuju Canggu**
-Setelah seharian penuh di Ubud, kami berangkat menuju Canggu, siap untuk hari-hari santai berikutnya.
+**Menuju ke Canggu**
+Setelah menyelesaikan satu hari penuh di Ubud, kita berangkat menuju Canggu, siap memulai perjalanan santai di hari-hari berikutnya.
 
 ***
 
-## Hari Keempat (One Day Chill di Canggu):
+## Hari Keempat (Chill Day di Canggu):
 
-**The Avocado Factory — Sarapan Sehat & Enak**
-Hari ini dimulai dari The Avocado Factory, kafe sarapan yang fokus pada makanan sehat. Kami pesan menu berbasis alpukat — dari roti bakar alpukat sampai salad sehat, semuanya terasa segar dan lezat. Bikin pagi yang cerah ini makin berenergi.
+**The Avocado Factory Sarapan Sehat & Enak**
+Hari ini kita mulai dari The Avocado Factory, tempat sarapan yang fokus pada makanan sehat. Kita pesan menu berbasis alpukat — dari roti panggang alpukat sampai salad sehat, semuanya segar dan enak banget. Bikin kita full energi di pagi yang cerah ini.
 
-**Gigi Susu: Kafe Kopi & Roti Hits**
-Selanjutnya kami mampir ke kafe hits Gigi Susu, yang terkenal dengan roti dan kopi khasnya. Dekorasi interiornya stylish banget, cocok buat foto-foto. Kopinya creamy dan wangi, dipadukan dengan roti panggang lokal yang fresh — benar-benar nikmat.
+**Gigi Susu: Kafe Roti Hits**
+Lanjut ke kafe hits Gigi Susu, yang terkenal sama roti spesial dan kopinya. Dekorasi dalamnya stylish, cocok banget buat foto-foto. Kopinya wangi dan lembut, ditemani roti panggang lokal yang fresh — benar-benar nikmat.
 
-> Baca juga: Lebih dari 50 rekomendasi restoran di Canggu dari netizen, cek di「[Peta Panduan Canggu](/map/canggu/)」
+> Baca juga: Lebih dari 50 rekomendasi restoran di Canggu dari netizen, cek di "[Peta Panduan Canggu](/map/canggu/)"
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
-**Jelajah Pura Tanah Lot**
-Sore harinya, kami menuju salah satu ikon Bali — Pura Tanah Lot. Pura yang terletak di tepi laut ini tampak seperti pemandangan ajaib yang mengapung di atas air, baik dari segi pemandangan yang megah maupun atmosfer sakralnya, semuanya bikin hati kagum. Tempat ini juga spot terbaik buat lihat matahari terbenam, wajib banget dikunjungi pas di Bali.
+**Mengunjungi Pura Tanah Lot**
+Siang hari, kita menuju salah satu ikon Bali — Pura Tanah Lot. Pura di tepi pantai ini terlihat seperti mengapung di atas laut, pemandangannya megah dan suasananya sakral bikin kita merasa kagum. Tempat ini juga spot terbaik buat lihat sunset, wajib banget dikunjungi pas di Bali.
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-> [Destinasi Wajib Kunjung di Bali: Panduan Lengkap Pura Tanah Lot — Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
+> [Destinasi wajib di Bali: Panduan lengkap Pura Tanah Lot (Tanah Lot) termasuk pasang surut dan tempat wisata sekitar](/id/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
-Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. Di sini ada sinar matahari, pantai, makanan enak, plus para bikini babes dan cowok ganteng. Kami menikmati sore yang santai di sini, berendam di kolam renang sambil minum cocktail dingin, dan menunggu sunset Bali yang legendaris perlahan turun. Begitu malam tiba, pantai jadi terang benderang, suasananya cozy dan romantis banget, bikin kami benar-benar rileks dan menikmati setiap momen liburan.
+Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. Ada sinar matahari, pantai, makanan enak, plus para bikini dan cowok ganteng. Kita nikmati sore santai di sini, berendam di kolam renang sambil minum koktail dingin, dan menunggu sunset Bali yang legendaris. Pas malam tiba, pantai jadi terang benderang, suasananya cozy dan romantis — bikin kita benar-benar rileks dan menikmati setiap momen liburan.
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_324fe7d0c94f96b7efa72d056ac411f2.jpg)
 
@@ -221,51 +220,51 @@ Perhentian terakhir hari ini adalah beach club terkenal di Canggu — The Lawn. 
 
 ***
 
-## Hari Kelima (Siap-siap pulang!):
+## Hari Kelima (Siap-siap Pulang!):
 
 **Belanja di Love Anchor Canggu**
-Pertama hari ini, kami mampir ke pasar Love Anchor yang super populer di Canggu. Di sini ada berbagai macam aksesoris dan oleh-oleh yang bisa dibeli, mulai dari kerajinan tangan, pakaian, sampai pernak-pernik kecil, semuanya penuh nuansa Bali. Ingat, wajib banget nawar! Harga barang di sini fleksibel banget, kami berhasil memotong harga banyak barang sampai setengahnya, super worth it!
+Destinasi pertama hari ini, kita ke pasar Love Anchor yang hits di Canggu. Ada banyak aksesoris dan oleh-oleh yang bisa dibeli — dari kerajinan tangan, pakaian, sampai aksesoris kecil, semuanya bernuansa Bali banget. Jangan lupa tawar-menawar, soalnya harga di sini fleksibel banget. Kita berhasil nurunin harga beberapa barang sampai setengahnya, worth it banget!
 
 ![第五天行程（準備回家囉！）：](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
 
-**Kembali ke Villa Nikmati Waktu Liburan Terakhir**
-Setelah selesai belanja, kami balik ke Villa untuk menikmati beberapa jam terakhir dengan santai. Suasana Villa tenang dan nyaman, berendam di kolam renang sambil berjemur bikin kami benar-benar rileks, jadi penutup sempurna buat liburan Bali yang indah ini.
+**Kembali ke Villa Nikmati Sisa Waktu Liburan**
+Setelah belanja, kita balik ke Villa buat menikmati beberapa jam terakhir dengan santai. Suasana Villa tenang dan nyaman, berendam di kolam renang sambil berjemur — bikin kita benar-benar rileks dan menutup perjalanan Bali yang indah ini dengan sempurna.
 
 ![第五天行程（準備回家囉！）：](https://images.gobaligo.id/vocus/vocus_1d42efde3fdde2dbb838bb53c0a00f79.jpg)
 
-**Menuju Bandara, Siap-siap Naik Pesawat Jam 16:30**
-Setelah meninggalkan Villa, kami sampai di bandara tiga jam lebih awal — ini kebiasaan baik, apalagi di bandara internasional, datang lebih awal bisa menghindari rasa buru-buru karena urusan administrasi atau hal tak terduga. Semua dokumen udah siap, tinggal tenang nunggu boarding.
+**Menuju bandara, siap naik pesawat jam 16:30**
+Setelah check-out dari Villa, kami sampai di bandara tiga jam lebih awal. Ini kebiasaan yang baik, apalagi di bandara internasional — datang lebih awal biar nggak buru-buru urus dokumen atau kena hal tak terduga. Semua dokumen udah siap, tinggal santai nunggu boarding.
 
 ***
 
 ### ❤️Kesan:
 
-1. **Dokumen perjalanan harus disiapkan dari awal!**
-   Selama perjalanan ini, aku lihat banyak turis yang baru ngurus dokumen di tempat, akhirnya antrean panjang banget dan situasinya kacau. Jadi, siapkan dulu surat kesehatan, visa elektronik, formulir bea cukai, dan lainnya biar pas masuk imigrasi lebih cepat dan lancar.
-2. **Destinasi Bali banyak, tapi macet parah, jangan padatin jadwal!**
-   Tempat wisata di Bali emang beragam banget, tapi lalu lintasnya juga padat, apalagi jam sibuk. Saran aku, jangan terlalu penuhin jadwal biar nggak buang waktu di jalan. Pengalaman terbaik di sini ya chill aja, nikmatin ritme hidup lokal.
-3. **Jangan lupa nawar pas belanja di pasar!**
-   Pas belanja di pasar, inget banget buat nawar! Misalnya aku beli dompet koin di Love Anchor, dari harga asli 320 turun ke 140, bahkan di toko lain bisa sampe 100. Jadi pasti ada ruang tawar, jangan malu, berani aja! 😅
-4. **Inggris jelek + hamil 3 bulan, untung ada bantuan lokal yang bisa bahasa Mandarin**
-   Selama perjalanan ini, meskipun hamil 3 bulan dan khawatir soal bahasa Inggris, untungnya kenal supir lokal yang bisa bahasa Mandarin, Kang Ge (Wayan Suantara). Bantuannya bikin perjalanan aku tenang banget, terutama dalam urusan rute dan pilihan tempat, dia kasih banyak saran berguna.
+1. **Dokumen masuk wajib disiapin dari jauh-jauh hari!**
+   Selama perjalanan ini, aku lihat banyak turis baru ngurus dokumen di tempat, jadinya antrean panjang banget dan kacau. Jadi siapin dulu surat kesehatan, e-visa, dan formulir bea cukai biar masuknya cepet dan lancar.
+2. **Bali punya banyak tempat wisata, tapi macet parah — jangan padatin jadwal!**
+   Tempat wisata di Bali emang super variatif, tapi lalu lintasnya juga gila, apalagi jam sibuk. Saran aku, jangan bikin jadwal terlalu padat biar nggak buang waktu di jalan. Pengalaman terbaik di sini ya chill aja, nikmatin ritme hidup lokal.
+3. **Jangan lupa tawar-menawar barang dagangan!**
+   Waktu belanja di pasar, inget buat nawar! Contohnya dompet koin yang aku beli di Love Anchor, dari harga awal 320 turun ke 140, bahkan di toko lain bisa sampe 100. Jadi pasti ada ruang tawar, jangan malu, berani aja ngomong! 😅
+4. **Inggris jelek + hamil 3 bulan, untung ada orang lokal yang bisa Mandarin**
+   Selama trip ini, meskipun hamil 3 bulan dan khawatir soal bahasa Inggris, untung kenal supir lokal yang bisa Mandarin, Kang Ge (Wayan Suantara). Bantuannya bikin perjalanan tenang banget, apalagi soal atur rute dan pilih tempat wisata, dia kasih banyak saran berguna.
 5. **Oleh-oleh rekomendasi: BALI BANANA Banana Cake**
-   Pas pulang jangan lupa beli satu kotak BALI BANANA banana cake, ini oleh-oleh khas Bali, teksturnya lembut, manis dan enak, ada di bandara. Bisa beli dulu pas datang buat nyobain, kalau suka beli lebih banyak buat dibawa pulang. Mereka juga kasih layanan packing gratis, bikin belanja makin praktis.
+   Pulang nanti jangan lupa beli satu kotak BALI BANANA Banana Cake, ini oleh-oleh khas Bali — teksturnya lembut, manis dan enak, ada di bandara. Bisa beli dulu buat nyobain pas sampai, kalau suka beli lebih banyak buat dibawa pulang. Mereka juga kasih layanan packing gratis, bikin belanja makin praktis.
 
-Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
+Baca juga: [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ***
 
-## Rekomendasi Driver
+## Rekomendasi Sopir
 
-Ngomong-ngomong soal supir mobil yang bisa bahasa Mandarin dan super recommended, itu adalah 「Wayan Suantara」, atau yang akrab dipanggil 「Kang Ge」. Setelah add Line-nya, aku langsung bilang rencana perjalanan yang mau diatur, Kang Ge nggak cuma cepat kasih jadwal, tapi juga kasih banyak saran profesional, bikin trip ini makin sempurna. Recommended banget! ❤️ Beneran bisa dipercaya 👍
+Soal supir mobil yang jago Mandarin yang aku sebutin, yaitu «Wayan Suantara», yang akrab dipanggil «Kang Ge». Setelah aku add Line-nya, langsung aku bilang rencana perjalanan yang mau diatur. Kang Ge nggak cepet kasih aturan, tapi juga kasih banyak saran profesional, bikin seluruh trip makin sempurna. Beneran rekomendasi banget! ❤️ Sepenuhnya bisa dipercaya 👍
 
 ![司機推薦](https://images.gobaligo.id/vocus/vocus_0942104964f65a1688cea7612940f267.jpg)
 
-Perjalanan ke Bali kali ini penuh kejutan dan kenangan, dari pemandangan indah sampai kuliner enak, dari petualangan hingga relaksasi. Entah kamu mau menikmati alam Bali atau sekadar menyerap vibes santainya, tempat ini benar-benar surga liburan. Nggak sabar buat balik lagi!
+Trip ke Bali ini penuh kejutan dan kenangan, dari pemandangan indah sampai makanan enak, dari petualangan sampai relaksasi. Baik nikmatin alam Bali atau suasana santainya, ini surga liburan. Nggak sabar buat balik lagi!
 
 ***
 
-Kamu pikir itinerary Liu Huici seru banget? Yuk, segera rencanakan liburan seru versi kamu ke Bali! Jangan lupa juga kirim itinerary-mu ke grup ya!
+Kamu pikir perjalanan Liu Huici seru? Yuk, atur liburan Bali versi kamu sendiri! Juga, jangan ragu buat kirim cerita perjalananmu ke grup ya!
 
 {{block:遊記}}
 

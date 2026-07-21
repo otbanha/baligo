@@ -1,11 +1,11 @@
 ---
-title: 2026-05-22 Bali News
+title: >-
+  2026-05-22 Bali News: Oceanman Open Water Swim Returns, Green Tourism
+  Transformation
 slug: 22-May-2026-Bali-news
-description: |-
-  Bali News Update
-  峇里島新聞
-  巴厘岛新闻
+description: Bali news update
 pubDate: 2026-05-22T00:00:00.000Z
+updatedDate: 2026-07-18T00:00:00.000Z
 pubHour: 7
 category:
   - 新聞存檔
@@ -19,15 +19,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: e851e5feef6bef11fd8d1f7dcd8e2d10
+_srcHash: 4cd405b6b75549a055bae807d113f99a
 ---
-
 ## 🗞️ Today's Highlights: Strong Recovery of International Events and Low-Carbon Tourism
 
-- **"Oceanman Bali 2026" World Open Water Swimming Competition Officially Returns**:
-After a two-year hiatus, the highly anticipated international open water swimming competition **Oceanman Bali 2026** is officially set to take place from **June 19 to 21** at Kedonganan Beach in Jimbaran. With the theme "Waves of Change," the event has attracted over 900 top athletes and enthusiasts from 27 countries and regions, including Indonesia, Malaysia, Australia, Europe, and America, marking a 30% increase in participants compared to previous years. The competition features six categories ranging from a 500-meter children's race to the challenging 10-kilometer main event. This premier international water sports event is expected to bring significant sports tourism benefits to the Jimbaran coastline.
+- **"Oceanman Bali 2026" World Open Water Swim Officially Returns**: After a two-year hiatus, the globally anticipated **Oceanman Bali 2026** international open water swimming event is set to take place from **June 19 to 21** at Kedonganan Beach in Jimbaran. With the theme "Waves of Change," the event has attracted over 900 top athletes and enthusiasts from 27 countries and regions, including Indonesia, Malaysia, Australia, Europe, and the Americas—a 30% surge in participants compared to previous years. The competition spans six categories, from a 500-meter children's race to the challenging 10-kilometer main event, promising a significant boost in sports tourism along the Jimbaran coast.
 
-- **Green Transformation from 'Consumer Tourism' to 'Contributor Tourism'**:
-Reflecting on the island's over-tourism and environmental carrying capacity, the tourism industry is undergoing a fundamental transformation towards an "Eco-Tourism Future." Leading hospitality operators and local environmental organizations are shifting their focus from maximizing tourist numbers and pure consumption to promoting long-term environmental contributions. An increasing number of new luxury villas and resorts are adopting rainwater harvesting, zero-plastic commitments, and community prosperity mechanisms, attracting high-net-worth travelers who value ecological sustainability to participate in local tree planting and coral restoration, turning tourism into a tangible force for protecting local ecosystems.
+- **From "Consumer Tourism" to "Contributive Tourism": A Green Transformation**: Amid growing reflection on overtourism and environmental carrying capacity across the island, the local tourism industry is undergoing a fundamental shift toward an "Eco-Tourism Future." Leading hospitality providers and local environmental organizations are pivoting from a focus on "maximizing visitor numbers and pure consumption" to "driving long-term environmental contributions." An increasing number of emerging high-end villas and resorts are adopting rainwater harvesting, zero-plastic commitments, and community co-prosperity initiatives, attracting eco-conscious high-net-worth travelers to participate in local tree planting and coral restoration, turning tourism into a tangible force for protecting local ecosystems.
 
-## 📄 Topics of Interest for Tourists: Selected Slow Travel, Art Exhibitions, and Community Initiatives
+## 📄 Topics of Interest to Travelers: Slow Travel Highlights, Art Exhibitions, and Community Initiatives

@@ -47,11 +47,44 @@ const ogTitle = stripEmoji(title);
 
 // Use provided heroImage URL, or fall back to default OG image
 const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
+
+// Google Fonts：按語言只載入需要的字型家族（原本 @import 一次載全部 4 家族 ≈ 252KB render-blocking CSS）。
+// 300 字重全站無人使用故移除；600/800 維持現狀由瀏覽器就近合成（與原本行為一致）。
+const fontsPath = Astro.url.pathname;
+const fontsHref = fontsPath.startsWith('/zh-cn/')
+  ? 'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap'
+  : (fontsPath.startsWith('/en/') || fontsPath.startsWith('/id/'))
+    ? 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@400;500;700&display=swap'
+    : 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+TC:wght@400;500;700&display=swap';
 ---
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=5" />
+
+<!--
+  Facebook / Instagram 內建瀏覽器（in-app WebView）已知問題：
+  有時會忽略上面的 viewport width=device-width，導致整頁版面用比實際螢幕
+  寬的「排版寬度」計算，畫面右側被裁掉（不是我們 CSS 的 bug，是該 WebView 的通病）。
+  偵測到 FB/IG in-app browser 時，透過 JS 重新套用 viewport meta 強制其重算版面寬度。
+-->
+<script is:inline>
+(function () {
+  if (!/FBAN|FBAV|FB_IAB|Instagram/i.test(navigator.userAgent || '')) return;
+  var vp = document.querySelector('meta[name="viewport"]');
+  if (!vp) return;
+  var fixed = 'width=device-width,initial-scale=1,viewport-fit=cover,maximum-scale=5';
+  function reapply() {
+    vp.setAttribute('content', 'width=device-width,initial-scale=1');
+    void document.documentElement.offsetHeight;
+    vp.setAttribute('content', fixed);
+  }
+  reapply();
+  document.addEventListener('DOMContentLoaded', reapply);
+  window.addEventListener('load', reapply);
+})();
+</script>
+
 <meta name="mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -70,6 +103,12 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
 <link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
+
+<!-- Google Fonts：非阻塞載入（media="print" 先不套用，載完切回 all），display=swap 期間先用系統字型 -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href={fontsHref} media="print" onload="this.media='all'" />
+<noscript><link rel="stylesheet" href={fontsHref} /></noscript>
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
@@ -112,9 +151,9 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <!-- Travelpayout Drive -->
 <script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1">
   (function () {
-    var script = document.createElement("script");
-    script.async = 1;
-    script.src = 'https://mn-tz.com/NTE5OTM3.js?t=519937';
-    document.head.appendChild(script);
+      var script = document.createElement("script");
+      script.async = 1;
+      script.src = 'https://mn-tz.com/NTE5OTM3.js?t=519937';
+      document.head.appendChild(script);
   })();
 </script>
