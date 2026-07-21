@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781677272545-batur_lake.jpg'
 originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 lang: zh-cn
-_srcHash: 849def694057ff25877763d47da624a0
+_srcHash: 6dbcbc21b493c391fd93d8032951a469
 ---
 <a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼 × 巴杜尔火山 互动地图 ── 景点、咖啡厅、温泉一图掌握 →</a>
 
@@ -31,7 +31,7 @@ _srcHash: 849def694057ff25877763d47da624a0
 
 ![壯麗與靜謐共存的巴杜爾火山湖](https://images.gobaligo.id/vocus/vocus_a5e37e35b2726428b7743348685d03c0.jpg)
 
-**先说结论**：巴杜尔火山湖位于金塔马尼，湖面海拔约 **1,000 米**，除了知名的巴杜尔火山日出徒步，湖畔还有较少人知道的 **Pura Segara Ulun Danu Batur 水神庙**（有别于布拉坦湖那座知名水神庙），适合安排结合日出徒步、游船、湖景咖啡厅与火山温泉的一日包车行程。
+**先讲结论**：巴杜尔火山湖位于金塔马尼，湖面海拔约 **1,000 米**，除了知名的巴杜尔火山日出徒步，湖畔还有较少人知道的 **Pura Segara Ulun Danu Batur 水神庙**（有别于布拉坦湖那座知名水神庙），适合安排结合日出徒步、游船、湖景咖啡厅与火山温泉的一日包车行程。
 
 位于金塔马尼（Kintamani）地区的巴杜尔火山湖，是由古老火山爆发形成的巨大火山口湖。湖面海拔约1,000米，被层层山峦包围，晨曦时分云雾缭绕，仿佛一幅会呼吸的画。
 
@@ -61,7 +61,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 这里游客相对稀少，氛围极度清幽宁静，非常适合喜欢探索秘境、远离尘嚣的旅人。特别是在清晨或黄昏时分造访，更能感受到这座寺庙的精妙之处。
 
-**门票信息：** 约为 20,000 至 25,000 印尼盾（约 USD$1-2 元）
+**门票信息：** 约为 20,000 至 25,000 印尼盾（约 USD$1-2）
 
 ## **徒步登山或日出吉普车之旅**
 
@@ -121,13 +121,13 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 若说巴厘岛的灵魂藏在火山与湖泊之间，那么巴杜尔湖的气质，则藏在一间间面向湖光的咖啡馆里。
 
-以下是我们精选的**数十家巴杜尔湖景咖啡厅**，无论想享受宁静时光还是拍出完美照片，都能找到你的角落。
+以下是我们精选的**数十家巴杜尔湖景咖啡馆**，无论想享受宁静时光还是拍出完美照片，都能找到你的角落。
 
-**快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
+**快速参考：**[巴厘岛金塔马尼13大景观火山咖啡馆/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ***
 
-## 金塔玛尼山林游乐场 The Grand Lagunas
+## 金塔马尼山林游乐场 The Grand Lagunas
 
 ![金塔瑪尼山林遊樂場 The Grand Lagunas](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
@@ -145,7 +145,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 在结束登山与咖啡行之后，前往 **Toya Devasya 温泉** 放松身心。泡在天然火山地热泉中，望着远处的火山与湖泊，是最疗愈的收尾时光。
 
-除了泡温泉，这里更是一个大型的温泉水上乐园哦！
+除了泡温泉，这里更是一个大型的温泉水上乐园喔！
 
 ![泡溫泉、賞美景，完美結尾](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
@@ -155,7 +155,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## **交通与小建议**
 
-- 乌布出发约需1.5 小时车程。可包车或参加行程。
+- 乌布出发约需1.5小时车程。可包车或参加行程。
 - 干季（5–10月）天气稳定，是最佳拍照季节。
 - 记得携带外套与防晒用品，山区气候多变。
 
@@ -183,7 +183,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 非常适合，湖上游船、咖啡厅与温泉都适合亲子同行。
 
-**6. 能否安排一日游？**
+**6.能否安排一日游？**
 
 大部分的包车司机都能提供一日游的安排。
 
@@ -191,4 +191,4 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 {{block:ubud}}
 
-<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼景点互动地图 ── 出发前先看地图，玩得更顺！→</a>
+<a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-top:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔玛尼景点互动地图 ── 出发前先看地图，玩得更顺！→</a>

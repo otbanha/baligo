@@ -1,9 +1,13 @@
 ---
-title: 【Bali Travel Diary】Liburan Ibu-Anak 7 Hari 6 Malam ke Bali — Itinerary Lengkap
+title: >-
+  【Bali Travel Diary】Liburan 7 Hari 6 Malam Ibu & Anak ke Bali — Itinerary
+  Lengkap
 slug: bali-mother-daughter-trip
-description: Itinerary Liburan Ibu-Anak 7 Hari 6 Malam ke Bali — Dibantu Teman Traveler
+description: >-
+  Itinerary Liburan 7 Hari 6 Malam ke Bali yang Diatur oleh Anggota Grup untuk
+  Ibunya
 pubDate: 2024-07-02T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -17,54 +21,54 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_286ab6e85a206f8b44e0547b30ea4
 originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 update: 2026/05/22
 lang: id
-_srcHash: 28d3b943f02208aecadad7f6dd456615
+_srcHash: 3dd012d068098580927815e47078af6a
 ---
 
-> Konten ini disediakan oleh teman traveler [Zhang Pingping](https://www.facebook.com/zhang.p.ping.3/) dan sudah disetujui untuk diadaptasi
+> Konten di bawah ini disediakan oleh anggota grup [Zhang Pingping](https://www.facebook.com/zhang.p.ping.3/) dan telah disetujui untuk diadaptasi oleh kami
 
-**Ringkasan Penting**: Ini adalah catatan perjalanan nyata ibu-anak selama 7 hari 6 malam. Pola perjalanannya: **menginap 2 malam di 3 hotel berbeda + sewa mobil 3 hari + hari terakhir hanya antar ke bandara**. Beberapa tips berguna: selesaikan e-customs, visa, dan pajak turis sebelum berangkat dari Taiwan biar proses imigrasi selesai dalam 10 menit (tunggu bagasi sekitar 30 menit lagi); **kartu SIM fisik lebih stabil daripada eSIM** (eSIM sering putus sinyal); macet di Bali ternyata lebih parah dari yang dibayangkan, jadi pastikan jadwal punya waktu cadangan yang cukup.
+**Ringkasan Penting**: Ini adalah catatan perjalanan nyata selama 7 hari 6 malam ibu dan anak, dengan pola **menginap 2 malam di 3 hotel berbeda + sewa mobil 3 hari + hari terakhir hanya antar ke bandara**. Beberapa tips berguna: selesaikan e-customs, visa, dan pajak turis sebelum berangkat dari Taiwan agar proses imigrasi selesai dalam 10 menit (tunggu bagasi sekitar 30 menit tambahan); **kartu SIM fisik lebih stabil daripada eSIM** (eSIM sering putus sinyal); kemacetan di Bali lebih parah dari yang dibayangkan, pastikan jadwal punya waktu cadangan yang cukup.
 
-Perjalanan kali ini menggabungkan saran dari anggota grup dan pengalaman pribadi, biar bisa kasih feedback detail buat kalian. Selama trip, kami menginap di tiga hotel berbeda, masing-masing 2 malam, plus sewa mobil 3 hari, dan hari terakhir cuma antar ke bandara. Yuk, simak poin-poin penting dan pengalaman seru dari perjalanan ini.
+Perjalanan kali ini menggabungkan saran dari anggota grup dan pengalaman pribadi saya, untuk memberikan umpan balik yang detail. Selama perjalanan, kami menginap di tiga hotel, masing-masing dua malam, dan menyewa mobil selama tiga hari, plus layanan antar ke bandara di hari terakhir. Berikut adalah beberapa poin penting dan pengalaman dari perjalanan ini.
 
 ![【峇里島遊記】母女七天六夜峇里島自由行行程分享](https://images.gobaligo.id/vocus/vocus_31e20a9205edd79820f5422844919002.jpg)
 
-## Rekomendasi Driver
+## Rekomendasi Sopir
 
-Driver yang kami pilih adalah Fovix Ketut, yang banyak direkomendasikan di grup. Aku juga tulus merekomendasikannya buat kalian yang butuh. Meskipun bahasa Inggrisku pas-pasan banget, selama beberapa hari ini semuanya lancar berkat bantuan Ketut. Di sini aku mau bilang, jangan takut sama kendala bahasa — pakai aplikasi penerjemah dan beberapa kata yang kamu hafal udah cukup kok.
+Sopir yang kami pilih adalah Fovix Ketut, yang banyak direkomendasikan di grup. Saya juga dengan tulus merekomendasikannya untuk kalian yang membutuhkan. Meskipun kemampuan bahasa Inggris saya sangat buruk, perjalanan ini tetap lancar berkat bantuan Ketut. Di sini saya ingin bilang, jangan takut dengan kendala bahasa, manfaatkan aplikasi penerjemah dan beberapa kata yang kamu ingat sudah cukup.
 
 > Baca juga: [【Panduan Bali】Mau ke Bali tapi Bahasa Inggris Jelek? Ini Solusinya!](/id/blog/bali-travel-tips-bad-english/)
 
-Satu hal yang perlu diingat soal booking driver: harus tepat janji, jangan seenaknya membatalkan atau tidak muncul. Ini dasar saling percaya. Kami sudah komunikasi dengan baik sebelumnya, dan rute sewa mobilku hampir semuanya diatur ulang sama Ketut, bahkan spa pun rekomendasinya dari dia.
+Satu hal yang perlu diingat soal pemesanan sopir: kamu harus tepat janji, jangan seenaknya membatalkan tanpa kabar, ini dasar saling percaya. Kami sudah komunikasi dengan baik sebelumnya, dan sebagian besar jadwal sewa mobil saya diatur oleh Ketut, bahkan spa pun dia yang rekomendasikan.
 
 ## Tiba di Bandara Bali
 
-Kami udah selesaiin semua urusan elektronik kayak bea cukai, visa, dan pajak turis dari Taiwan, jadi pas sampe di bandara Bali semuanya lancar banget. Pintu elektroniknya banyak, prosesnya cepet banget, kurang dari 10 menit selesai. Yang agak bikin gemes sih nunggu bagasi, sekitar 30 menit. Ada penumpang lain di pesawat yang udah dapet duluan, tapi bagasi kami malah nyangkut di conveyor, kadang karena sabuknya macet.
+Kami sudah menyelesaikan semua proses elektronik untuk bea cukai, visa, dan pajak turis di Taiwan, jadi begitu sampai di Bandara Bali semuanya berjalan lancar banget. Pintu elektroniknya banyak dan prosesnya super cepat, nggak sampai 10 menit selesai. Satu-satunya yang bikin agak gemes adalah nunggu bagasi, sekitar 30 menan. Ada penumpang di pesawat yang sama udah dapet koper duluan, tapi punya kami malah nyangkut di conveyor, kadang karena sabuknya macet. 
 
-Abis ambil bagasi, pas bea cukai pilih antrian yang paling sepi, tunjukin QR code kurang dari 3 menit udah bisa keluar bandara.
+Setelah ambil bagasi, cari jalur yang paling sepi buat bea cukai, tunjukin QR code dan dalam waktu kurang dari 3 menit udah bisa keluar bandara.
 
-> Baca juga: [[Panduan 2026] Cara Masuk Bali Pakai Kartu 'All Indonesia'｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi Lengkap](/id/blog/bali-all-indonesia-arrival-guide/)
+> Baca juga: [【Panduan 2026】Cara Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ## Rencana Perjalanan & Transportasi
 
-Awalnya kira itinerary kali ini nggak terlalu padat, pasti santai dan asyik, tapi ternyata macet di Bali bikin kita setiap hari pulang malam banget. Saran sih, pastiin kasih waktu cadangan buat ngadepin kondisi lalu lintas, biar nggak ganggu jadwal.
+Awalnya kukira itinerary kali ini nggak terlalu padat, pasti santai dan menyenangkan. Tapi ternyata macet di Bali bikin kita pulang malam terus tiap hari. Saran banget, sisihkan waktu ekstra buat ngadepin kondisi lalu lintas biar nggak ganggu rencana perjalanan.
 
-## Pemakaian Internet
+## Penggunaan Internet
 
-Aku dan mama pakai eSIM sama SIM card fisik, providernya sama-sama XL. Ternyata eSIM-ku sering putus sinyal, apalagi pas lagi butuh banget pake Google Translate, bikin bete, jadinya cuma ngandalin kosakata yang ada di kepala. Sedangkan SIM card fisik mama lancar jaya. Selama 7 hari ini aku mostly ngandalin WiFi hotel, akhirnya cuma abis kurang dari 3GB.
+Aku dan mamaku pakai eSIM dan SIM card fisik, operatornya sama-sama XL. Ternyata eSIM-ku sering banget putus sinyal, apalagi pas lagi butuh banget pake Google Translate, bikin frustrasi, jadinya cuma bisa maksain ingatan buat ngomong pake vocab seadanya. Sementara SIM card fisik mamaku lancar jaya. Selama 7 hari ini aku mostly ngandelin WiFi hotel, akhirnya cuma habis kurang dari 3GB data.
 
-> Baca juga: [[Wajib Punya buat Liburan ke Bali] Cara Dapatkan Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
+> Baca juga: [【Wajib Punya buat Liburan ke Bali】Cara Dapatkan Internet/SIM Card di Bali?](/id/blog/bali-sim-card-esim-roaming-guide/)
 
 ***
 
-## 29 Mei  Itinerary Sewa Mobil
+## 29 Mei: Itinerary Sewa Mobil + Sopir
 
 ### Tiba di Bali
 
-Hari ini, perjalanan kami dimulai begitu turun dari pesawat. Pertama, kami menukar uang dan belanja di supermarket. Lalu, kami mampir ke restoran iga babi yang cukup mahal tapi terkenal banget — Naughty Nuri's, dan menikmati iga babi yang lezat.
+Hari ini, itinerary kami dimulai begitu turun dari pesawat. Pertama, kami menukar uang dan belanja di supermarket. Lalu, kami mampir ke restoran iga babi yang cukup mahal tapi terkenal banget — Naughty Nuri's, dan menikmati iga babi yang enak banget.
 
 ### Akomodasi & Spa
 
-Setelah makan, kami langsung menuju tempat menginap di Ubud, Purana Boutique Resort. Hotel ini terletak di tengah hutan dekat pusat Ubud, suasananya alami banget. Meskipun banyak serangga, stafnya ramah, kamarnya bersih dan nyaman, tempat tidurnya enak banget — worth it! Hotel menyediakan shuttle ke Coco supermarket dekat Monkey Forest, super praktis. Saran aku, menginap di sini oke, tapi jangan ambil paket sarapan hotel, soalnya rasanya kurang enak, cuma plating-nya doang yang cantik XD
+Setelah makan, kami langsung menuju akomodasi di Ubud, Purana Boutique Resort. Hotel ini terletak di tengah hutan dekat pusat Ubud, suasananya alami banget. Meskipun banyak serangga, stafnya ramah banget, kamarnya bersih dan nyaman, tempat tidurnya enak buat tidur — worth it banget! Hotel menyediakan shuttle service ke Coco supermarket dekat Monkey Forest, super praktis. Saran aku sih, mending nginep di sini, tapi jangan ambil paket sarapan hotel karena rasanya kurang enak, cuma plating-nya doang yang cantik XD
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783689389064-83481887.jpeg)
 
@@ -82,9 +86,9 @@ Setelah makan, kami langsung menuju tempat menginap di Ubud, Purana Boutique Res
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783689392472-562844496.jpeg)
 
-> Pesan Purana Boutique Resort ▶[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5276354/purana-boutique-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Y9L1kWoJ)
+> Booking Purana Boutique Resort ▶[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5276354/purana-boutique-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Y9L1kWoJ)
 
-Selama di Ubud, kami menikmati dua sesi Spa yang menyenangkan. Pertama, malam hari setelah tiba, sopir kami mengantar ke Jaens Spa Ubud yang cuma 2 menit dari hotel. Spa di sini kualitasnya oke banget dan harganya pas. Kedua, keesokan harinya kami booking langsung lewat hotel.
+Selama di Ubud, kami menikmati dua sesi Spa yang menyenangkan. Pertama, malam hari setelah tiba, sopir kami mengantar ke Jaens Spa Ubud yang cuma 2 menit dari hotel. Spa di sini kualitasnya bagus banget dengan harga yang pas. Kedua, keesokan harinya kami booking langsung lewat hotel.
 
 ![張萍萍提供：Purana附近走路兩分鐘的優質jaens spa](https://images.gobaligo.id/vocus/vocus_22b2f40d3235b284f9cd44edc040c012.jpg)
 
@@ -92,49 +96,49 @@ Dari Zhang Pingping: Jaens Spa berkualitas dekat Purana, jalan kaki 2 menit ▶[
 
 ### Eksplorasi Pusat Kota Ubud
 
-Hari kedua menginap, kami naik shuttle hotel ke Coco supermarket, lalu jalan kaki ke Monkey Forest. Monyet-monyet di sini nakal banget, kami bahkan mengalami insiden dirampok monyet — serem! Setelah itu, kami lanjut eksplorasi Pasar Ubud, jalan-jalan santai dan jajan kuliner. Meskipun hari itu kami tidak pakai mobil sewaan, sopir kami Ketut tetap perhatian, dia sempat kirim pesan malam sebelumnya buat ngasih tips belanja biar kami nggak kena tipu.
+Hari kedua, kami naik shuttle hotel ke Coco supermarket, lalu jalan kaki ke Monkey Forest. Monyet-monyet di sini nakal banget, kami bahkan mengalami insiden dirampok monyet — serem! Setelah itu, kami lanjut menjelajah Pasar Ubud, jalan-jalan santai sambil nyicipin kuliner. Meskipun hari itu kami tidak pakai mobil sewaan, sopir kami Ketut tetap perhatian banget — dia sempat kirim pesan malam sebelumnya buat ngasih tips belanja biar kami nggak kena tipu.
 
 ![張萍萍提供：聖猴森林、椰子專賣店](https://images.gobaligo.id/vocus/vocus_cb95c8d7db7b619d7cedb47c7207d293.jpg)
 
-Dari Zhang Pingping: Monkey Forest, Toko Spesialis Kelapa
+Dari Zhang Pingping: Monkey Forest, Toko Spesial Kelapa
 
 ***
 
-## 31 Mei - Sewa Mobil Harian
+## 31 Mei  Itinerary Sewa Mobil
 
-### Ayunan Hutan Ubud
+### Ubud Jungle Swing
 
-Hari ini tujuan pertama adalah ayunan hutan di Ubud, tempat yang direkomendasikan sama Ketut. Harganya ramah di kantong dan nggak perlu antre panjang. Staf di sini jago banget foto, juga nggak buru-buru, kamu bisa ayun sampai puas. Tapi, karena aku kebanyakan ayun, akhirnya malah pusing dan muntah, jadi lupa nama tempatnya, hehe. (Fovix Ketut nambahin, nama tempat ini: Rice Terrace Tegalalangrice)
+Destinasi pertama hari ini adalah jungle swing di Ubud. Tempat ini rekomendasi dari Ketut, harganya ramah di kantong dan nggak perlu antre panjang. Staf di sini jago banget motret, dan nggak buru-buru—kamu bisa puas berayun sampai puas. Tapi, karena kebanyakan main, aku jadi pusing bahkan muntah, jadi lupa nama tempatnya, hehe. (Fovix Ketut nambahin, nama tempat ini: Rice Terrace Tegalalangrice)
 
 ![張萍萍提供：長禮服是租的150k，可選擇要不要租](https://images.gobaligo.id/vocus/vocus_c2b393ae366c3df7c3a50fed5e9feb9d.jpg)
 
-Dari Zhang Pingping: Gaun panjang bisa disewa 150k, terserah mau sewa atau nggak
+Dari Zhang Pingping: gaun panjang bisa disewa 150k, pilih mau sewa atau nggak
 
-**Referensi Cepat:** [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terbaik di Bali｜Panduan Ayunan Ubud/Sewa Gaun](/id/blog/ubud-jungle-swings-photo-guide/)
+**Referensi Cepat:** [Main Ayunan di Ubud: 8 Spot Foto Ayunan Terindah di Bali | Panduan Sewa Gaun & Ayunan Ubud](/id/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:戶外}}
 
 ### Makan di Restoran
 
-Mama udah laper, Ketut langsung bawa kita ke restoran yang pelayanannya oke dan makanannya enak. Pemandangannya juga cakep, cocok buat foto-foto. (Fovix Ketut nambahin, nama restoran ini: Bebek Tebasari Resto, mending reservasi dulu biar dapet tempat bagus)
+Mama udah laper, Ketut langsung ajak kita ke restoran dengan pelayanan oke dan makanan enak. Pemandangannya juga keren, cocok buat foto-foto. (Fovix Ketut nambahin, nama restonya: Bebek Tebasari Resto. Sebaiknya reservasi dulu biar dapet tempat bagus)
 
 ![張萍萍提供：Teba Sari Resto](https://images.gobaligo.id/vocus/vocus_6380695f84ac526abf6c13eff16e999b.jpg)
 
 Dari Zhang Pingping: Teba Sari Resto
 
-▶[Pesan Voucher Makan Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=866037&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D898cba8a9a)
+▶[Pesan Voucher Makan Bebek Tebasari Resto Diskon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=866037&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D898cba8a9a)
 
 ### Beli Kopi
 
-Selanjutnya, kami minta Ketut anterin beli kopi, sekalian nyobain kopi luwak (civet coffee). Meskipun harganya lumayan mahal, rasanya enak banget sih, setidaknya (semoga) asli. Mama paling suka.
+Selanjutnya, kita minta Ketut anterin beli kopi dan nyobain kopi luwak. Harganya agak mahal, tapi rasanya enak banget—setidaknya (mungkin) asli, dan Mama suka banget.
 
-### Tegenungan Waterfall
+### Air Terjun Tegenungan
 
-Abis itu, kami mampir ke Air Terjun Tegenungan. Di sini ada juga klub kolam renang, tapi kami cuma jadi turis biasa, foto-foto doang. Ketut nemenin dari awal sampai akhir, meskipun cuacanya panas banget, dia tetap sabar bantuin fotoin kami. Capek banget pasti.
+Setelah itu, kita mampir ke Air Terjun Tegenungan. Di sini ada juga klub kolam renang, tapi kita cuma jadi turis biasa—foto-foto doang. Ketut setia nemenin kita sepanjang waktu, meskipun panas banget, dia tetap sabar bantu kita foto. Capek banget pasti.
 
 ![張萍萍提供](https://images.gobaligo.id/vocus/vocus_828dbe14931a983d1d888abb84b43d6e.jpg)
 
-Dokumentasi Zhang Pingping
+Dokumentasi: Zhang Pingping
 
 **Referensi Cepat:** [Panduan Tiga Air Terjun Terkenal di Dekat Ubud, Bali: Tegenungan, Kanto Lampo, dan Tukad Cepung](/id/blog/ubud-waterfalls-guide/)
 
@@ -142,25 +146,25 @@ Dokumentasi Zhang Pingping
 
 ### Spa di Jimbaran
 
-Ketut juga rekomendasiin spa keren banget di Jimbaran — namanya The Calma Spa. Mama sampai nggak berhenti-hentinya muji tempat ini. Pelayanan dan harganya oke banget, bikin kami puas. Selesai spa, kami udah laper banget, Ketut langsung anterin kami ke restoran Indonesia yang super otentik. Harganya murah meriah, rasanya juara. Kami makan sampai kenyang, suasananya juga seru banget. (Fovix Ketut nambahin, nama restonya: Waroeng Kampoeng Jimbaran)
+Ketut juga rekomendasiin spa keren di Jimbaran—The Calma Spa. Ibuku sampai nggak berhenti muji tempat ini. Pelayanan dan harganya oke banget, bikin kita puas. Abis itu, kita laper berat, dan Ketut langsung ajak kita ke restoran Indonesia yang super otentik. Harganya murah banget sampai bikin terharu, rasanya juga mantul. Kita kenyang dan suasananya seru banget. (Catatan dari Fovix Ketut: nama restonya Waroeng Kampoeng Jimbaran)
 
 ![張萍萍提供](https://images.gobaligo.id/vocus/vocus_afb116d9cc25bd458bf2b5f4be9e106b.jpg)
 
-Dokumentasi Zhang Pingping
+Dokumentasi: Zhang Pingping
 
 ### Hotel Kempinski
 
-Karena macet, kami baru sampai di Hotel Kempinski jam sepuluh malam. (Catatan redaksi: info lengkap tentang Kempinski bisa [dilihat di sini](/id/blog/apurva-kempinski-bali-nusa-dua/))
+Karena macet, kita baru sampai di Hotel Kempinski jam sepuluh malam. (Catatan redaksi: info lengkap tentang Kempinski bisa [dilihat di sini](/id/blog/apurva-kempinski-bali-nusa-dua/))
 
-> ▶[Makan di restoran bawah laut mulai USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
+> ▶[Pengalaman Makan di Restoran Bawah Laut Mulai USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
-> ▶[Pesan kamar The Apurva Kempinski Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
+> ▶[Pesan The Apurva Kempinski Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
 
 ![張萍萍提供：凱賓斯基的海底餐廳](https://images.gobaligo.id/vocus/vocus_7d49b289cc4e7edac7c9fa609b7aa117.jpg)
 
-Dokumentasi Zhang Pingping: Restoran bawah laut Kempinski
+Dari Zhang Pingping: Restoran bawah laut di Kempinski
 
-Keesokan harinya, acara bebas di Hotel Kempinski berjalan sangat menyenangkan. Kami makan siang di restoran bawah laut Koral, lalu naik shuttle hotel ke Bali Collection mall. Jemput jam 17:30, dan di mobil disediakan air mineral botol kaca — pelayanannya bener-bener perhatian banget.
+Keesokan harinya, waktu bebas di hotel Kempinski terasa sangat menyenangkan. Kami makan siang di restoran bawah laut Koral, lalu sorenya naik shuttle hotel ke pusat perbelanjaan Bali Collection, dan dijemput jam 17:30. Di dalam mobil juga disediakan air mineral botol kaca, pelayanannya benar-benar perhatian banget.
 
 Malamnya, kami berenang di kamar hotel mewah ini, dan juga menikmati fasilitas sauna hotel.
 
@@ -184,23 +188,23 @@ Malamnya, kami berenang di kamar hotel mewah ini, dan juga menikmati fasilitas s
 
 ***
 
-## 2 Juni  Itinerary Sewa Mobil
+## 2 Juni: Itinerary Sewa Mobil
 
 ### Tanah Barak
 
-Destinasi pertama hari ini adalah Tanah Barak. Aku bukan tipe yang suka foto estetik, jadi pas Ketut motretin aku, dia terus-terusan ketawa. Pasti dia mikir, 'Mbak ini loncatnya gak bisa tapi maksa loncat-loncat terus', momennya kocak banget.
+Destinasi pertama hari ini adalah Tanah Barak. Aku bukan tipe yang suka foto estetik, jadi pas Ketut motretin aku, dia terus-terusan ketawa. Pasti dia mikir, 'Bu ini loncatnya nggak bisa tapi maksa loncat buat foto', lucu banget deh.
 
 ![張萍萍提供](https://images.gobaligo.id/vocus/vocus_b51bafc145176d9154c7b43c3068cea4.jpg)
 
-Dokumentasi: Zhang Pingping
+Dari Zhang Pingping
 
-**Referensi Cepat:** [Batu Barak/Tanah Barak di Bali: Petualangan Epik di Blue Highway / Cliff Road](/id/blog/batu-barak-cliff-road/)
+**Referensi cepat:** [Batu Barak/Tanah Barak di Bali: Petualangan epik di Blue Highway / Cliff Highway](/id/blog/batu-barak-cliff-road/)
 
 ### Pura Uluwatu
 
-Selanjutnya, kita sampai di Pura Uluwatu. Monyet di sini galak banget, jadi Ketut setia menemani kita kayak bodyguard, keringetan, sambil ngusir monyet dan bantu foto-foto. Makasih banget dia udah bawain tas mama yang beratnya kayak batu. Sebelumnya kita lihat langsung HP turis dirampas monyet terus dilempar ke jurang, hilang ditelan laut. Makin bikin kita bersyukur ditemenin dan dilindungi Ketut.
+Selanjutnya, kita sampai di Pura Uluwatu. Monyet-monyet di sini galak banget, jadi Ketut setia menemani kita kayak bodyguard sepanjang jalan, sampai keringetan, sambil ngusir monyet dan juga bantuin foto-foto. Makasih banget dia udah bantuin ibu bawa tas yang seberat batu. Beberapa saat sebelumnya kita lihat langsung hp turis dirampas monyet, terus dilempar ke jurang dan tenggelam, bikin kita makin bersyukur ditemenin dan dilindungi Ketut. 
 
-**Referensi Cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta di Bali: Spot Wajib & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
+**Referensi Cepat:** [Panduan Wisata Pura Uluwatu / Tebing Cinta Bali: Spot Wajib & Tips Praktis](/id/blog/uluwatu-temple-travel-guide/)
 
 {{block:uluwatu}}
 
@@ -208,23 +212,23 @@ Selanjutnya, kita sampai di Pura Uluwatu. Monyet di sini galak banget, jadi Ketu
 
 ![張萍萍提供](https://images.gobaligo.id/vocus/vocus_68d4e911106eea2855ae9b63b329f382.jpg)
 
-Dokumentasi: Zhang Pingping
+Dokumentasi Zhang Pingping
 
-Di Bali, buah favoritku adalah manggis. Ketut tahu selera kita, pas kita lagi di Spa, dia muter ke beberapa tempat cari manggis segar. Dia bahkan beliin sendiri, karena harga lokal bisa setengahnya, tapi kita maksa bayar. Soal durian, kita belum nemu yang kualitasnya oke, Ketut lebih jago dari penjualnya. Dia cek kualitas durian, pas dibuka jelek, dia bantu kita ngomong sama penjual biar nggak beli buah jelek. Bener-bener berpihak ke kita.
+Di Bali, buah favoritku adalah manggis. Ketut tahu selera kita, jadi pas kita lagi di Spa, dia keliling cari manggis segar. Malah dia beliin sendiri, karena harga lokal bisa setengahnya, tapi kita maksa bayar. Soal durian, kita nggak dapet yang kualitas bagus, Ketut lebih jago dari penjualnya. Dia ngecek kualitas durian, pas dibuka jelek, dia bantuin kita ngomong sama penjual biar nggak beli buah jelek. Bener-bener di posisi kita buat nyelesain masalah.
 
-Referensi Cepat: [Musim Manggis, Si Ratu Buah Tropis di Indonesia / Bali](/id/blog/bali-mangosteen-season/)
+Referensi Cepat: [Ratu Buah Tropis - Musim Manggis di Indonesia/Bali](/id/blog/bali-mangosteen-season/)
 
 ### Makan Malam Seafood Sambil Lihat Sunset
 
-Malam harinya, Ketut ngajak kita ke restoran seafood yang super worth it — Menega Cafe. Di sini kita bisa nikmatin pemandangan sunset yang cantik banget. Ketut bantu kita cek tagihan, biar nggak kena tipu. Mama pesan lobster sama dua ekor kepiting besar, plus satu paket yang udah include lobster dan ikan. Total habis sekitar USD$100 lebih. Kita bertiga plus supir aja nggak abis, malah bungkus sisa makanannya. Staf restoran lihat kita udah kenyang, baik banget nyaranin jangan pesan ikan hidup yang mama pesan, karena bakal nggak habis.
+Malamnya, Ketut ajak kita ke restoran seafood yang worth it banget — Menega Cafe. Di sini bisa nikmatin pemandangan sunset yang cantik. Ketut bantuin kita cek tagihan, biar nggak kena tipu. Ibu pesen lobster sama dua kepiting gede, plus satu paket yang isinya lobster dan ikan, total habis sekitar USD$100. Kita bertiga plus sopir aja nggak abis, malah bungkus sisa makanannya. Staf restoran lihat kita udah kenyang, baik banget nyaranin jangan naikin ikan hidup pesanan ibu, karena pasti nggak bakal habis.
 
 ![張萍萍提供：Menega Cafe](https://images.gobaligo.id/vocus/vocus_406e9c484fa212a9c6525dbb3aa1d352.jpg)
 
-Dokumentasi dari Zhang Pingping: Menega Cafe
+Dokumentasi Zhang Pingping: Menega Cafe
 
 ### Akomodasi & Sekitarnya
 
-Tanggal 2 Juni, kita nginep di [The Oberoi Beach Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268) di Seminyak. Hotel ini yang paling perhatian dan bikin liburan terasa banget sepanjang trip kita.
+Pada tanggal 2 Juni, kami menginap di [The Oberoi Beach Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268) di Seminyak. Hotel ini adalah yang paling perhatian dan paling berasa liburan selama perjalanan kami.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783690096696-47526943.jpeg)
 
@@ -244,39 +248,39 @@ Tanggal 2 Juni, kita nginep di [The Oberoi Beach Resort](https://www.agoda.com/p
 
 ▶[Pesan The Oberoi Beach Resort & tipe kamar lainnya](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-687606/the-oberoi-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/yteHcvkn)
 
-Kita jalan-jalan santai di sekitar, lihat sunset, nikmatin semua fasilitas hotel, dan habiskan malam yang menyenangkan.
+Kami jalan-jalan di sekitar, lihat matahari terbenam, nikmati semua fasilitas hotel, dan melewati malam yang menyenangkan.
 
-Tersimpan di: [Rekomendasi Penginapan di Bali: Panduan Akomodasi Tema Pantai Mewah di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
+Tergabung dalam: [Rekomendasi Akomodasi Bali: Panduan Tema Penginapan Mewah di Tepi Pantai Seminyak](/id/blog/seminyak-beach-resorts-guide/)
 
-## 6 Juni: Antar ke Bandara, Pulang ke Taiwan
+## 4 Juni Penjemputan ke Bandara & Kembali ke Taiwan
 
-Hari ini kita siap-siap pulang ke Taiwan. Karena Ketut ada urusan sama anaknya, dia minta kakaknya yang jemput kita ke bandara.
+Hari ini kami bersiap pulang ke Taiwan. Karena Ketut harus mengurus urusan putrinya, dia meminta kakaknya untuk menjemput kami ke bandara.
 
 ### Kesimpulan & Kesan
 
-Semoga feedback kali ini bisa membantu teman-teman yang akan berangkat ke Bali. Karena keterbatasan halaman, banyak detail yang nggak bisa diceritakan satu per satu, yuk kita diskusi aja (o^^o). Ada dua restoran yang awalnya nggak masuk rencana, dibawa dadakan sama Ketut, dan ternyata dua-duanya enak banget—sayangnya aku nggak tahu namanya (catatan redaksi: kami udah minta tambahan info dari Fovix Ketut).
+Ulasan kali ini semoga bisa membantu teman-teman yang akan ke Bali. Karena keterbatasan ruang, banyak detail yang nggak bisa diceritakan satu per satu. Silakan diskusi ya (o^^o). Ada dua restoran yang nggak ada di rencana awal, dibawa langsung sama Ketut, tapi dua-duanya enak banget. Sayangnya kami nggak tahu namanya (red: kami sudah minta tambahan info dari Fovix Ketut).
 
-Sebaliknya, dua restoran hits yang kami datangi—SunSun dan Sacred Rice—nggak cocok di lidah kami. Rasanya biasa aja, nggak istimewa, dan nggak enak.
+Sebaliknya, dua restoran hits yang kami datangi — SunSun dan Sacred Rice — nggak cocok di lidah kami. Rasanya biasa aja, nggak istimewa, dan nggak enak.
 
-### Rekomendasi Driver Sewaan
+### Rekomendasi Sopir Sewaan
 
-Soal driver sewaan, aku juga udah seleksi beberapa nama dari daftar incaran, dan akhirnya beruntung banget milih Fovix Ketut. Ketut memperlakukan ibuku seperti ibunya sendiri—di jalan terus perhatian 'Ibu hati-hati', 'Ibu gimana', dan ibu juga nganggap dia kayak anak sendiri. Dalam beberapa hari aja, kami udah akrab banget.
+Soal supir sewaan, aku juga udah seleksi beberapa nama dari daftar simpanan, dan akhirnya beruntung banget milih Fovix Ketut. Ketut nganggep ibuku kayak ibunya sendiri, sepanjang jalan selalu perhatian dengan 'Ibu hati-hati', 'Ibu gimana', dan ibu juga ngrawat dia kayak anak sendiri. Dalam beberapa hari aja, kita udah punya hubungan yang akrab.
 
-Ketut adalah driver yang cerah, usia 30-an, punya tiga anak. Dia sayang banget sama istrinya, setiap ngomongin istri dan anak perempuannya, dia ketawa senang. Dia kerja keras banget buat melayani tamu, demi cari nafkah buat keluarga. Aku sangat merekomendasikan dia buat teman-teman Taiwan yang mau latihan bahasa Inggris dan suka petualangan backpacker—kalian bisa percaya sama Fovix Ketut.
+Ketut itu supir yang cerah, umurnya awal 30-an, punya tiga anak. Dia sayang banget sama istrinya, setiap ngomongin istri dan anak perempuannya, dia ketawa senang. Dia kerja keras banget buat melayani tamu, demi cari uang buat keluarga. Aku sangat merekomendasikan dia buat teman-teman Taiwan yang mau latihan bahasa Inggris dan suka petualangan backpacker. Kalian bisa tenang pilih Fovix Ketut.
 
-Yang perlu dicatat, para driver di Bali kebanyakan punya istri dan anak, mereka juga perlu ngurus keluarga sendiri. Kadang pasti ada situasi darurat keluarga yang nggak terduga sampai mereka nggak bisa kerja. Aku yakin itu bukan kemauan mereka—kita harus saling pengertian dan memaklumi keadaan mereka ya!
+Yang perlu dicatat, kebanyakan supir di Bali udah punya istri dan anak, mereka juga perlu ngurus keluarga sendiri. Kadang pasti ada situasi darurat keluarga yang nggak terduga dan mereka nggak bisa kerja. Aku yakin itu bukan kemauan mereka. Mari kita saling pengertian dan memaklumi keadaan mereka ya!
 
 **Kontak Fovix Ketut**
 
 ![](https://images.gobaligo.id/images/2026-06/1781177513360-_2026-06-11_18.29.16.png)
 
-**Tambah Line-nya, scan QR Code ya!**
+**Tambah Line, scan QR Code ya!**
 
-Liburan ke Bali kali ini, diam-diam aku juga memaksa diri buat ningkatin sedikit kemampuan listening Inggris. Ayo gabung tim latihan listening bareng, kita tumbuh sama-sama!
+Perjalanan ke Bali kali ini, aku juga diam-diam memaksa diri buat ningkatin sedikit kemampuan listening bahasa Inggris. Ayo gabung tim latihan listening, kita tumbuh bareng!
 
-Semoga tulisan ini bisa bermanfaat buat teman-teman yang akan berangkat ke Bali.
+Semoga ulasan ini bisa membantu teman-teman yang mau ke Bali.
 
-> Postingan ini diadaptasi dari thread grup, artikel asli ada di [sini](https://www.facebook.com/groups/baligo/permalink/1552775948602978/)
+> Tulisan ini diadaptasi dari postingan grup, aslinya di [sini](https://www.facebook.com/groups/baligo/permalink/1552775948602978/)
 
 {{block:遊記}}
 

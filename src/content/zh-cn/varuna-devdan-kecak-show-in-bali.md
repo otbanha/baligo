@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 6b173fc61b2f9902e871d45aa73a0fad
+_srcHash: 307de75a4215b54486d82ba365592484
 ---
 
 # 巴厘岛夜晚不打烊！四大必看神秀，亲子长辈都能玩得超尽兴
@@ -39,7 +39,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 **适合对象：全年龄，尤其推荐带幼儿、行动较慢的长辈**
 
-如果你家宝贝对海洋充满好奇，或是长辈不喜欢长时间户外吹风，乌布地区的 **Varuna Show** 绝对是首选！这是巴厘岛最新的室内水上剧场，在舒适的空间里，上演一场关于海洋生态的梦幻故事。
+如果你家宝贝对海洋充满好奇，或是长辈不喜欢长时间户外吹风，乌布地区的 **Varuna Show** 绝对是首选！这是巴厘岛最新的室内水上剧场，在舒适的空调空间里，上演一场关于海洋生态的梦幻故事。
 
 舞台中央是一个巨型透明水缸，舞者与特技演员在水中穿梭，搭配绚丽的灯光投影和现场音乐，把海底世界搬到你眼前。更贴心的是，座位设计采用剧院式阶梯，视野无死角，长辈不用走太多路、不用晒太阳，就能享受一场「干爽版」的水中芭蕾。小朋友看到「美人鱼」和发光水母出现时，眼睛都发亮了！
 
@@ -47,7 +47,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 [巴厘岛海洋公园 Varuna Show 指南：水下剧场票价、交通建议与 Bali Safari 一日游排法](/zh-cn/blog/varuna-show-bali-safari/)
 
-[> 在Klook购买Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已包含入园门票
+[在Klook购买Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已包含入园门票
 
 {{block:ubud}}
 
@@ -55,7 +55,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 ## 🪄 Devdan 天坛秀 —— 视觉炸裂的印尼文化嘉年华
 
-**适合对象：喜欢热闹、华丽场景的家庭，小学以上孩子最买单**
+**适合对象：喜欢热闹、华丽场景的家庭，小学以上孩子最买账**
 
 如果只能选一场秀，很多人会直接推 **Devdan——Treasure of the Archipelago**。这场位于努沙杜瓦的招牌晚宴秀，把印尼群岛文化浓缩成90分钟的豪华歌舞剧。
 
@@ -77,11 +77,11 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 最后这场，是巴厘岛最经典、最难以复制的体验——**乌鲁瓦图悬崖火舞**。日落时分，坐在断崖旁的露天剧场，面对印度洋，看着几十个赤膊男子围成圈，发出“恰克～恰克～”的人声合唱，没有乐器，却震撼人心。
 
-故事改编自《罗摩衍那》，猴军与魔王大战的高潮，最后由“火焰之舞”收尾——扮演猴子的舞者踏过燃烧的椰子壳，火花四溅，搭配悬崖下的浪涛声，连平时不爱看表演的爸爸都会拿出手手机狂拍。
+故事改编自《罗摩衍那》，猴军与魔王大战的高潮，最后由“火焰之舞”收尾——扮演猴子的舞者踏过燃烧的椰子壳，火花四溅，搭配悬崖下的浪涛声，连平时不爱看表演的爸爸都会拿出手机狂拍。
 
 **带长辈孩子的攻略**：
 
-- **务必提前30分钟入场**，才能抢到中间偏高的座位，视野最好
+- **务必提早 30 分钟入场**，才能抢到中间偏高的座位，视野最好
 - 傍晚崖边风大，帮长辈准备薄外套
 - 火把点燃时会有一股热气和烟味，怕烟的小朋友可以往后坐
 
@@ -97,7 +97,7 @@ _srcHash: 6b173fc61b2f9902e871d45aa73a0fad
 
 ## [同场加映] 🦁 GWK 巴龙舞（Barong Dance）—— 有故事版的华丽舞狮，善恶对决超热血
 
-**适合对象：喜爱文化故事、传统艺术的家庭，3岁以上就能看懂**
+**适合对象：喜爱文化故事、传统艺术的家庭，3 岁以上就能看懂**
 
 https://www.instagram.com/reel/DXOd_lRAfrM/?utm_source=ig_web_button_share_sheet
 
@@ -131,6 +131,6 @@ https://www.instagram.com/reel/DXOd_lRAfrM/?utm_source=ig_web_button_share_sheet
 
 ***
 
-不管你选哪一场，巴厘岛的文化魅力都会用最热情的方式，为你的家族旅行写下难忘回忆。**小提醒**：旺季记得提前在线购票，并确认各场次时间——因为这些神秀，可是会让全家老小都心甘情愿放弃沙滩，准时入座的喔！🌺
+不管你选哪一场，巴厘岛的文化魅力都会用最热情的方式，为你的家族旅行写下难忘回忆。**小提醒**：旺季记得提前线上购票，并确认各场次时间——因为这些神秀，可是会让全家老小都心甘情愿放弃沙滩，准时入座的喔！🌺
 
 {{block:klook}}

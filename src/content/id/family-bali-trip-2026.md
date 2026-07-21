@@ -4,14 +4,15 @@ title: >-
   【Liburan 6 Hari ke Bali】Keluarga 6 Orang Kembali ke Pulau Surga, Reuni Setelah
   23 Tahun
 description: >-
-  Dapet dari grup, sekarang giliran aku balas budi! Liburan musim panas ini,
-  akhirnya kami sekeluarga berenam bisa menginjakkan kaki lagi di Bali. Terakhir
-  kali ke sini bareng-bareng, udah 23 tahun yang lalu. Pulau yang dijuluki
-  'Pulau Dewata' ini masih cantik banget, cuma sekarang turisnya lebih banyak
-  dan fasilitas wisatanya makin beragam. Makasih banget buat teman-teman grup
-  yang udah sharing dan bantu rekomendasiin guide keren, Betty Pin.
+  Dapet dari grup, sekarang giliran aku balikin ke grup! Liburan musim panas
+  tahun ini, akhirnya kami sekeluarga enam orang bisa menginjakkan kaki lagi di
+  Bali. Terakhir kali ke sini bareng-bareng, udah 23 tahun yang lalu. Pulau yang
+  dijuluki 'Pulau Dewata' ini masih cantik banget, cuma sekarang turisnya lebih
+  banyak dan fasilitas wisatanya makin lengkap. Makasih banget buat teman-teman
+  grup yang udah share dan bantu, sampai-sampai kami dikenalin sama guide keren,
+  Betty Pin.
 pubDate: 2026-01-29T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 category:
   - 遊記分享
 tags:
@@ -27,11 +28,11 @@ lang: id
 _srcHash: PENDING_RETRY_34691ba57188fb648338cd674b343aab
 ---
 
-> Catatan perjalanan berikut disediakan oleh [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) dan telah disetujui untuk diedit ulang oleh kami
+> Catatan perjalanan di bawah ini disediakan oleh [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/), dan kami setujui untuk diedit ulang
 
-Dapet dari grup, sekarang giliran aku balas budi!
+Dapet dari grup, sekarang giliran aku balikin ke grup!
 
-Liburan musim panas ini, akhirnya kami sekeluarga berenam bisa menginjakkan kaki lagi di Bali. Terakhir kali ke sini bareng-bareng, udah 23 tahun yang lalu. Pulau yang dijuluki 'Pulau Dewata' ini masih cantik banget, cuma sekarang turisnya lebih banyak dan fasilitas wisatanya makin beragam. Keluarga puas banget sama trip 6 hari 5 malam di Bali ini. Di bawah ini aku rangkum persiapan sebelum berangkat, itinerary, dan review guide plus driver, semoga berguna buat kalian.
+Liburan musim panas tahun ini, akhirnya kami sekeluarga enam orang bisa menginjakkan kaki lagi di Bali. Terakhir kali ke sini bareng-bareng, udah 23 tahun yang lalu. Pulau yang dijuluki 'Pulau Dewata' ini masih cantik banget, cuma sekarang turisnya lebih banyak dan fasilitas wisatanya makin lengkap. Keluarga semua puas banget sama trip 6 hari 5 malam ke Bali ini. Di bawah ini aku rangkum persiapan sebelum berangkat, itinerary, dan review guide plus driver, biar bisa jadi referensi kalian.
 
 ***
 
@@ -39,65 +40,65 @@ Liburan musim panas ini, akhirnya kami sekeluarga berenam bisa menginjakkan kaki
 
 ### 1. Tiket Pesawat
 
-Gak sabar pengen langsung nyemplung ke surga liburan, kami pilih penerbangan langsung EVA Air (BR255/BR256), durasi sekitar 5,5 jam.
+Gak sabar pengen nyemplung ke surga liburan, kami pilih penerbangan langsung EVA Air (BR255/BR256), durasi sekitar 5,5 jam.
 
-### 2. (Penting Banget!) Visa, Imigrasi & Pengurusan Lainnya
+### 2. (Penting Banget!) Visa, Imigrasi, dan Pengurusan Lainnya
 
-Termasuk visa (eVOA/VOA), ~~eCD deklarasi bea cukai elektronik, kartu informasi kesehatan (SSHP)~~ (udah digabung jadi [AIAC](/id/blog/bali-evisa-customs-health-declaration/)), dan pajak turis.
+Termasuk visa (eVOA/VOA), ~~eCD deklarasi bea cukai elektronik, kartu informasi kesehatan (SSHP)~~ (udah digabung jadi [AIAC](/id/blog/bali-evisa-customs-health-declaration/)), dan pajak wisatawan.
 
-**Pengingat Penting (Pengalaman Pribadi):**
+**Pengingat Penting (Dari Pengalaman Pribadi):**
 
-Semua pengajuan online, disarankan dilakukan pada "jam kerja pemerintah Indonesia di siang hari", sistemnya lebih lancar dan kecil kemungkinan muncul masalah teknis aneh.
+Semua pengajuan online, disarankan dilakukan saat "jam kerja pemerintah Indonesia" (siang hari), sistemnya lebih lancar dan kecil kemungkinan muncul masalah teknis aneh.
 
 **(1) Visa: eVOA / VOA**
 
-Biar hemat waktu saat masuk, aku pilih apply eVOA (Electronic Visa on Arrival) sebelum berangkat, begitu turun pesawat langsung bisa lewat gate otomatis.
+Biar hemat waktu saat masuk, aku pilih urus eVOA (Electronic Visa on Arrival) sebelum berangkat, begitu turun pesawat langsung bisa lewat gate autogate.
 
 - Dokumen yang disiapkan: scan halaman paspor (JPG/PDF), foto paspor (JPG), alamat penginapan, info tiket pesawat, kartu kredit
 - Biaya: 500.000 IDR/orang (sekitar USD$16)
 - Link resmi pendaftaran: <https://evisa.imigrasi.go.id/> <--- satu-satunya link resmi
-- Tutorial pendaftaran: banyak banget artikel panduan di grup, misalnya [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
+- Tutorial: banyak banget panduan di grup, misalnya [【Edisi 2026】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 **PS:**
 
-Visa berlaku 30 hari, disarankan apply sekitar 7 hari sebelum berangkat.
+Visa berlaku 30 hari, saran apply sekitar 7 hari sebelum berangkat aja.
 
-Punya eVOA udah bisa lewat gate otomatis, aku biasanya print cadangan fisik.
+Punya eVOA udah bisa lewat autogate, tapi aku biasa print cadangan fisik.
 
 **(2) eCD (Electronic Customs Declaration), SSHP (Health Declaration)**
 
 - Dokumen yang disiapkan: data paspor, nomor eVOA, info tiket dan penginapan
-- Link pendaftaran: sistem integrasi kedatangan "All Indonesia" <https://allindonesia.imigrasi.go.id/>
+- Link pendaftaran: sistem terintegrasi "All Indonesia" <https://allindonesia.imigrasi.go.id/>
 - Biaya: gratis
-- Referensi tutorial: [【2026版】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
+- Panduan: [【Edisi 2026】Panduan Masuk Bali Pakai Kartu Kedatangan "All Indonesia"｜Pahami Proses Terbaru dalam 1 Menit: Turun Pesawat → Bea Cukai → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
-**PS:** Simpan QR Code di HP atau cetak kertasnya buat jaga-jaga ya.
+**PS：** QR Code simpan di HP, atau cetak kertasnya buat jaga-jaga ya.
 
 **(3) Pajak Wisatawan**
 
-- Dokumen yang disiapin: data paspor, kartu kredit
+- Dokumen yang disiapkan: data paspor, kartu kredit
 - Cara daftar: download Love Bali App atau pakai link <https://lovebali.baliprov.go.id/home>
 - Biaya: 150 ribu IDR/orang (sekitar USD$9)
 
-**PS:** Sama, jangan lupa simpan QR Code buat diperiksa.
+**PS：** Sama, jangan lupa simpan QR Code buat diperiksa.
 
 **(4) Tukar Dolar AS**
 
-Saran, di Taiwan mending tukar dulu ke pecahan USD$100, baru nanti di Indonesia dituker ke IDR — kursnya lebih bagus. Di Indonesia, kurs tergantung pecahan美金; pecahan 100 dan 50 dolar paling oke, 20, 10, 5, 1 dolar kursnya beda.
+Saran: tukar dulu di Taiwan dengan pecahan USD$100, baru nanti di Indonesia dituker ke IDR, kursnya lebih bagus. Di Indonesia, kurs tergantung pecahan美金 — USD$100 dan $50 paling oke, USD$20, $10, $5, $1 kursnya beda.
 
 {{block:換匯}}
 
 ***
 
-## ※ Tips Tour Guide & Driver
+## ※ Tips Sewa Mobil + Guide
 
-Trip kali ini lewat rekomendasi grup, dan hoki banget ketemu Betty Pingky. Dari saran itinerary sebelum berangkat, rekomendasi hotel, sampai pemanduan profesional dan perhatian selama perjalanan — bikin tenang dan hangat.
+Trip kali ini rekomendasi dari grup, dan hoki banget ketemu Betty Pingky. Dari saran itinerary sebelum berangkat, rekomendasi hotel, sampai guide yang profesional dan perhatian selama perjalanan — bikin tenang dan hangat.
 
 ![※ 包車導遊心得](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
 
-Kadang, dia bahkan 'layani satu orang, bantu dua orang' — dua hari perjalanan ditemenin juga sama suaminya, Xiao Wu, jadi perjalanan penuh tawa.
+Kadang dia bahkan 'satu orang terima, dua orang yang service', dua hari perjalanan ditemenin juga sama suaminya, Xiao Wu, jadi perjalanan penuh tawa.
 
-Suatu hari, hotel nggak nyediain sarapan dan kita berangkat pagi banget. Dia khawatir kita laper, malah siapin sarapan sendiri. Beneran ngurusin kita kayak keluarga sendiri, bikin terharu!
+Suatu hari, hotel nggak kasih sarapan dan kita berangkat pagi banget. Dia khawatir kita laper, malah inisiatif siapin sarapan buat kita. Beneran ngurusin kita kayak keluarga sendiri, bikin terharu!
 
 ***
 
@@ -105,42 +106,42 @@ Suatu hari, hotel nggak nyediain sarapan dan kita berangkat pagi banget. Dia kha
 
 ![※ 行程概覽與遊記](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
 
-### **Hari 1: Tiba di Bali → Sunset di Jimbaran Beach & Makan Malam Seafood**
+### **Hari 1: Tiba di Bali → Sunset Jimbaran & Makan Malam Seafood**
 
-- **Destinasi**: Tukar uang, sunset di Jimbaran
-- **Makan**: Makan malam di malafi cafe jimbaran
+- **Destinasi**: Tukar uang, Sunset Jimbaran
+- **Makanan**: Makan malam di malafi cafe jimbaran
 - **Akomodasi**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
 
-Setibanya di Bali, Betty sudah menunggu di bandara sambil memegang papan nama. Senyum ramahnya langsung menghilangkan rasa lelah setelah penerbangan panjang. Kami mampir dulu ke villa untuk menaruh barang, lalu langsung menuju **Jimbaran Beach**. 23 tahun berlalu, sunset di Jimbaran tetap indah seperti lukisan. Di sepanjang pantai, tenda-tenda seafood panggang berjejer rapi, aroma harumnya menggoda. Makan malam di **malafi cafe jimbaran** menikmati seafood segar ditemani live music. Keluarga duduk melingkar di pasir, kaki menyentuh butiran pasir halus, di depan mata ada pemandangan sunset jingga di atas laut — kebahagiaan banget rasanya.
+Setibanya di Bali, Betty sudah menunggu di bandara sambil memegang papan nama. Senyum ramahnya langsung menghilangkan rasa lelah setelah penerbangan panjang. Kami mampir dulu ke villa untuk menaruh barang, lalu langsung menuju **Pantai Jimbaran**. 23 tahun berlalu, sunset di Jimbaran tetap indah seperti lukisan. Di sepanjang pantai, deretan tenda BBQ seafood berjejer rapi, aroma harumnya menggoda. Makan malam di **malafi cafe jimbaran** menikmati seafood segar, ditemani live music. Keluarga duduk melingkar di pasir, kaki menyentuh butiran pasir halus, di depan mata pemandangan sunset jingga di atas laut — bener-bener bikin hati penuh kebahagiaan.
 
 ![Day 1：抵達峇里島 → 金巴蘭海灘落日與海鮮晚餐](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
 
-Dua malam pertama kami menginap di villa yang punya pilihan kamar dari 1 sampai 4 kamar. Kalau ada yang butuh referensi, bisa cek [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
+Dua malam pertama kami menginap di villa yang menyediakan pilihan 1 kamar sampai 4 kamar. Kalau ada yang butuh, bisa cek [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
 
 {{block:jim}}
 
 ***
 
-### **Hari 2: Blue Cliff Highway → Uluwatu Temple → Relaksasi Spa**
+### **Hari 2: Blue Cliff Highway → Pura Uluwatu → Spa Relaksasi**
 
-- **Destinasi**: Aktivitas air, Blue Cliff Highway, Uluwatu Temple, Sakar Jepun Spa
-- **Makan**: Makan siang di WARUNG LAOTA, makan malam di pasar dekat hotel
+- **Destinasi**: Aktivitas air, Blue Cliff Highway, Pura Uluwatu, Sakar Jepun Spa
+- **Makanan**: Makan siang di WARUNG LAOTA, makan malam di pasar dekat hotel
 - **Akomodasi**: [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684981/lumbini-luxury-villas-and-spa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/F9KK4zi1)
 
 ![Day 2：藍色斷崖公路 → 烏魯瓦圖廟 → 舒壓 Spa](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
 
-Betty mengantar kami menyusuri **Blue Cliff Highway**. Air laut biru jernih kontras banget sama tebing curam, di sepanjang jalan banyak pasangan yang lagi foto prewedding — romantis banget. Selanjutnya kami mengunjungi **Uluwatu Temple**, arsitektur Hindu kuno dengan ukiran batu yang detail bikin kagum. Sore harinya, kami booking **Sakar Jepun Spa** — enam anggota keluarga menikmati pijat tradisional Bali bareng-bareng, bikin badan segar lagi dan siap buat petualangan selanjutnya.
+Betty mengantar kami menyusuri **Blue Cliff Highway**. Air laut biru jernih kontras banget sama tebing curam, di sepanjang jalan banyak pasangan yang lagi foto prewedding — romantis banget. Lalu kami mengunjungi **Pura Uluwatu**, arsitektur Hindu kuno dengan ukiran batu yang detail bikin kagum. Sore harinya, kami booking **Sakar Jepun Spa**, enam anggota keluarga bareng-bareng menikmati pijat tradisional Bali. Capek langsung ilang, siap buat lanjut petualangan besok.
 
 {{block:uluwatu}}
 
-- [【Video Inti】Kumpulan Rekomendasi SPA & Pijat ke Villa di Bali, Dibagi per Area Biar Lebih Gampang Cari](/id/blog/spa/)
+- [【Edisi Spesial】Rekomendasi SPA & Pijat ke Rumah Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Cari](/id/blog/spa/)
 
 ***
 
-### **Hari 3: Taman Safari → Makan Malam di Tengah Sawah**
+### **Hari 3: Taman Safari → Makan Malam di Sawah**
 
 - **Destinasi & Aktivitas**: Taman Safari Bali, Arung Jeram Sungai Ayung, Pasar Sukawati
-- **Kuliner**: Makan siang bebek betutu di Joni Rice Field Restaurant, Makan malam di Freddies Resort & Villas
+- **Kuliner**: Makan siang Bebek Goreng di Joni Restaurant, Makan malam di Freddies Resort & Villas
 - **Akomodasi**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-24141779/freddies-resort-villas-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Fma46mCo)
 
 ![Day 3：野生動物園 → 田園晚餐](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
@@ -187,13 +188,13 @@ https://youtu.be/IReL1ztxL7c
 
 ***
 
-### **Hari 6: Jalan-jalan Pantai Kuta → Antar ke Bandara**
+### **Hari 6: Jalan-jalan di Pantai Kuta → Antar ke Bandara**
 
 - **Destinasi**: Jalan-jalan di Pantai Kuta, Mal Bali Galeria
 - **Makan**: Siang di Mal Bali Galeria
 - **Menginap**: Sweet home
 
-Pagi-pagi jalan-jalan di **Pantai Kuta**, nikmati angin laut dan sinar matahari terakhir di Bali. Lanjut ke **Mal Bali Galeria** untuk belanja terakhir, setelah makan siang Betty dengan ramah mengantar kami ke bandara, menemani sampai pintu keberangkatan, pamitan dengan tulus.
+Pagi hari jalan-jalan di **Pantai Kuta**, nikmati angin laut dan sinar matahari terakhir di Bali. Setelah itu mampir ke **Mal Bali Galeria** untuk belanja terakhir, siangnya Betty dengan ramah mengantar kami ke bandara, menemani sampai pintu keberangkatan, pamitan dengan tulus.
 
 ![Day 6：庫塔海灘漫遊 → 機場送機](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
 
@@ -201,13 +202,13 @@ Pagi-pagi jalan-jalan di **Pantai Kuta**, nikmati angin laut dan sinar matahari 
 
 ## ※ Penutup
 
-Setelah 23 tahun, kembali ke Bali. Yang berubah adalah fasilitas wisata yang lebih nyaman dan pengalaman yang lebih beragam, yang tidak berubah adalah keramahan penduduk pulau dan keindahan alamnya. Kali ini kami sangat berterima kasih kepada pemandu **Betty Pingky** yang profesional dan perhatian, membuat liburan keluarga berenam jadi santai banget. Juga terima kasih lagi untuk para senior di grup, sharing kalian adalah bantuan terbesar untuk kelancaran perjalanan kami!
+Setelah 23 tahun, kembali lagi ke Bali. Yang berubah adalah fasilitas wisata yang lebih nyaman dan pengalaman yang lebih beragam, yang tidak berubah adalah keramahan penduduk pulau dan keindahan alamnya. Kali ini kami sangat berterima kasih kepada pemandu **Betty Pingky** yang profesional dan perhatian, membuat perjalanan keluarga berenam jadi santai dan menyenangkan. Juga terima kasih kepada para senior di grup, sharing kalian adalah bantuan terbesar untuk kelancaran perjalanan kami!
 
 Bali, sampai jumpa lagi!
 
 ***
 
-**Tanggal liburan: 13 Juli 2025 \~ 18 Juli 2025**
+**Tanggal perjalanan: 13 Juli 2025 \~ 18 Juli 2025**
 
 **Jumlah orang: 6 orang (liburan keluarga)**
 
@@ -219,7 +220,7 @@ Bali, sampai jumpa lagi!
 
 Makasih banget teman-teman grup yang udah sharing dan bantu rekomendasiin guide keren banget, Betty Pingky
 
-Kamu pikir perjalanan [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) seru banget? Yuk langsung atur liburan Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
+Kamu pikir perjalanan [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) seru banget? Yuk, langsung atur jadwal liburan seru ke Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
 {{block:遊記}}
 

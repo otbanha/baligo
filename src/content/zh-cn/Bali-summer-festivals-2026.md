@@ -23,7 +23,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 0fe236bdd321bac237f445ac8b4c69be
+_srcHash: d3ba6aca2c2983fe08dc309d54eb6808
 ---
 
 这里为您整理一份简短的「**2026年 7、8 月巴厘岛夏日节庆指南**」，非常适合分享给这段期间在巴厘岛的旅客，邀请他们一同感受当地的文化魅力与热烈氛围：
@@ -47,7 +47,7 @@ _srcHash: 0fe236bdd321bac237f445ac8b4c69be
 - **巴厘岛风筝节 (Bali Kite Festival)**
     - **日期：** 7 月 18 日 ～ 7 月 19 日
     - **地点：** 沙努尔海滩 (Sanur Beach)
-    - **看点：** 蔚蓝天空中最壮观的画面！来自世界各地的队伍与当地村镇，将在沙努尔海滩操控数米大的巨型传统风筝进行竞赛，现场极具震撼力。
+    - **看点：** 蔚蓝天空中最壮观的画面！来自世界各地的队伍与当地村镇，将在沙努尔海滩操控数公尺大的巨型传统风筝进行竞赛，现场极具震撼力。
 
 https://www.instagram.com/p/DaZ6ebdlGL-/?igsh=bjkzMXV5eG9uZGJ2
 

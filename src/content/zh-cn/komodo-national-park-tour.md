@@ -1,8 +1,8 @@
 ---
-title: 科莫多国家公园跳岛一日游心得：探索异域天堂
+title: Komodo科莫多国家公园跳岛一日游心得：探索异域天堂
 slug: komodo-national-park-tour
 description: >-
-  这是一场难忘的科莫多国家公园跳岛一日游，体验到了帕达尔岛的壮丽景色、迷人的粉红沙滩（Pink
+  这是一场难忘的Komodo科莫多国家公园跳岛一日游，体验到了帕达尔岛的壮丽景色、迷人的粉红沙滩（Pink
   Beach），以及与科莫多龙近距离接触的惊险刺激。行程包括浮潜、魔鬼鱼观赏，还有专业且友善的中文导游带领，是一次结合自然美景与冒险的完美旅程！
 pubDate: 2024-08-22T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_760c821aacc62f110816f131d9c00736.jpg'
 originalUrl: 'https://vocus.cc/article/66b779d9fd89780001baf625'
 lang: zh-cn
-_srcHash: d69f8ab08b854c4deef12140df54fec3
+_srcHash: a98c6f4ed2964cc9712b354689aa7d77
 ---
 > 以下内容由团友 [Astrid Chang](https://www.facebook.com/share/p/LCk9JJoM562KcpHb/) 提供给我们重新编排：
 
@@ -30,7 +30,7 @@ _srcHash: d69f8ab08b854c4deef12140df54fec3
 
 ## **前往科莫多：如何到达**
 
-科莫多国家公园位于巴厘岛以东，距离约一小时的飞行路程。由于目前没有直飞航班，需先从巴厘岛DPS机场搭乘国内线飞至Labuan Bajo的LBJ机场，接着从Labuan Bajo港口搭船展开跳岛一日游。科莫多之所以闻名，除了是全球唯一栖息地的科莫多龙外，还有亚洲少数的粉红海滩——这些景点都令人大开眼界。
+Komodo科莫多国家公园位于巴厘岛以东，距离约一小时的飞行路程。由于目前没有直飞航班，需先从巴厘岛DPS机场搭乘国内线飞至Labuan Bajo的LBJ机场，接着从Labuan Bajo港口搭船展开跳岛一日游。科莫多之所以闻名，除了是全球唯一栖息地的科莫多龙外，还有亚洲少数的粉红海滩——这些景点都令人大开眼界。
 
 ![無修圖無濾鏡，真的六個點裡面的每個海灘都美翻，而且人不多不會擁擠。右圖：粉紅沙灘因為是珊瑚礁碎片跟細白沙結合，所以其實蠻刺的。現場看就是有點粉粉的，正中午會偏紅，網路上太粉的顏色應該都有修圖😉（Astrid Chang提供）](https://images.gobaligo.id/vocus/vocus_3ea87ed7b5c7a2b7e49a6ad9fb84a29a.jpg)
 
@@ -50,7 +50,7 @@ https://youtu.be/hGJwKVtmxAg
 
 - **6:00** 酒店接送出发至港口
 - **8:00** 第一站：帕达尔岛（Padar Island）登顶
-- **10:00** 第二站：粉红沙滩（Pink Beach）享受美景
+- **10:00** 第二站：粉色沙滩（Pink Beach）享受美景
 - **11:20** 第三站：科莫多龙探险（徒步观察）
 
 https://youtu.be/n1hpBG9cXa8
@@ -68,8 +68,8 @@ https://youtu.be/n1hpBG9cXa8
 
 ### **💡 套餐行程包括：**
 
-1. 机场至酒店的单程接送
-2. 当日行程的往返接送
+1. 机场至酒店的单趟接送
+2. 当日行程的来回接送
 3. 午餐、水和饮料
 4. 浮潜装备
 5. 英语导游服务（运气好可能会有中文导游）
@@ -130,7 +130,7 @@ https://youtu.be/czpeOwygHcE
 
 ![左：Ayana Komodo整體來說我覺得服務不到五星，感覺是因為離島&比較新，所以整體細緻度還不是很到位，但飯店的設施是真的多，景也是真的美，但一定要住海景房不然我覺得不值得。右：謝謝 Asri Labuan Bajo的老闆Arda的安排與照顧🥰🙇🏻‍♀️（Astrid Chang提供）](https://images.gobaligo.id/vocus/vocus_ea3ce05de721e77f244cd4206436497e.jpg)
 
-左：Ayana Komodo整体来说我觉得服务不到五星，感觉是因为离岛&比较新，所以整体细致度还不是很到位，但饭店的设施是真的多，景也是真的美，但一定要住海景房不然我觉得不值得。右：谢谢 Asri Labuan Bajo的老板Arda的安排与照顾🥰🙇🏻‍♀️（Astrid Chang提供）
+左：Ayana Komodo整体来说我觉得服务不到五星，感觉是因为离岛&比较新，所以整体细致度还不是很到位，但饭店的设施是真的多，景也是真的美，但一定要住海景房不然我觉得不值得。右：谢谢Asri Labuan Bajo的老板Arda的安排与照顾🥰🙇🏻‍♀️（Astrid Chang提供）
 
 > **提供一个全包式的五天四夜行程，含台湾-巴厘岛直飞机票、巴厘岛-科莫多岛机票、四晚住宿、全程两人包车...等等： ⭐⭐**[**巴厘岛+科摩多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游**](/zh-cn/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 

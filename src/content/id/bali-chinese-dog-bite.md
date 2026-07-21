@@ -1,14 +1,13 @@
 ---
 title: >-
-  【Tips Aman Liburan di Bali】Beli-beli di Bali malah digigit anjing? Panduan
-  bertahan hidup & berobat darurat gegara insiden gigitan rabies yang menimpa
-  turis China
+  【Keamanan Wisata di Bali】Belanja di Bali Malah Digigit Anjing? Panduan
+  Bertahan Hidup & Berobat ala Turis China yang Kena Rabies
 slug: bali-chinese-dog-bite
 description: >-
-  Bali punya populasi anjing liar yang super padat dan termasuk zona rabies.
-  Kalau sampai digigit atau dicakar kucing/anjing, kamu wajib bersihin luka
-  sebersih-bersihnya dalam waktu 24 jam emas, lalu langsung ke rumah sakit
-  internasional terdekat buat dapetin vaksin rabies (Rabies Vaccine) dan
+  Kepadatan anjing liar di Bali sangat tinggi dan merupakan daerah endemis
+  rabies. Kalau kamu sampai digigit atau dicakar kucing/anjing, dalam waktu emas
+  24 jam harus segera bersihkan luka secara menyeluruh dan langsung ke rumah
+  sakit internasional terdekat untuk vaksin rabies (Rabies Vaccine) dan
   imunoglobulin.
 pubDate: 2026-07-15T00:00:00.000Z
 pubHour: 19
@@ -31,35 +30,35 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 86cb3b08bcb7bdddf2ec60baa2d8e6d7
+_srcHash: 98a5366c3759be59cdb886028a3195c0
 ---
 
-Jujur, setiap kali liburan ke Bali, lihat anjing-anjing di pinggir jalan tuh bikin gemas sekaligus waswas. Kejadian terbaru di Bangli ini jadi pengingat keras: jangan sembarangan deketin anjing liar di jalanan.
+Jujur sih, setiap kali ke Bali, lihat anjing-anjing di pinggir jalan rasanya campur aduk antara gemas dan waswas. Kejadian terbaru di Bangli ini jadi pengingat lagi, jangan sembarangan deketin anjing liar di jalanan.
 
 ## Begini Kronologinya
 
-Tanggal 13 Juli sekitar jam 4 sore, seorang turis China bernama Li Qiujun (30 tahun) habis belanja di supermarket Kelurahan Kawan, Bangli. Pas mau balik ke Ubud ketemu guide-nya, tiba-tiba digigit anjing putih di paha kanan. Awalnya cuma mau jalan-jalan biasa dari supermarket seberang RS Bangli, naik mobil balik ke Ubud — nggak nyangka bakal kena musibah begini.
+Tanggal 13 Juli sekitar jam 4 sore, seorang turis China berusia 30 tahun, Li Qiujun, selesai belanja di supermarket Kelurahan Kawan, Bangli. Pas mau balik ke Ubud ketemu tour guidenya, tiba-tiba digigit anjing putih di paha kanan. Tadinya dia cuma mau pulang ke Ubud naik mobil setelah belanja di supermarket seberang RS Bangli, nggak nyangka bakal kena musibah begini.
 
-Yang bikin makin deg-degan, anjing itu ternyata udah lebih dulu menyerang warga lokal bernama Ni Ketut Suciasih di dekat rumahnya, sebelah utara Rutan Bangli. Jadi dalam sehari, anjing ini udah gigit dua orang.
+Yang bikin tambah deg-degan, anjing itu sebelum menggigit dia ternyata udah nyerang warga lokal bernama Ni Ketut Suciasih di dekat rumahnya sebelah utara Rutan Bangli. Artinya, anjing itu dalam sehari udah gigit dua orang.
 
-## Setelah Digigit, Proses Berobat Malah Mampet
+## Setelah Digigit, Tapi Proses Berobatnya Tersendat
 
-Li Qiujun baru ke rumah sakit sekitar tiga jam setelah kejadian. RS Bangli cuma bisa bersihin luka dan balut tekan darurat. Masalahnya — RS itu nggak punya stok vaksin rabies (VAR), cuma bisa nyaranin dia cari klinik atau puskesmas sendiri. Dia masuk RS jam 7 malam, kurang dari setengah jam udah keluar lagi. Intinya, RS cuma bisa tangani luka dasar.
+Li Qiujun baru ke dokter sekitar tiga jam setelah digigit. RS Bangli cuma bisa bersihin luka dan balut tekan darurat. Masalahnya — RS itu sendiri nggak punya stok vaksin rabies (VAR), cuma bisa nyaranin dia ke klinik atau puskesmas buat vaksin. Dia masuk RS jam 7 malam, kurang dari setengah jam udah keluar lagi, artinya yang bisa dilakukan RS cuma penanganan luka dasar.
 
-Untungnya, Li Qiujun akhirnya dapet vaksin di sebuah klinik di Ubud. Korban lainnya, Suciasih, juga udah disuntik di puskesmas setempat.
+Untungnya, Li Qiujun akhirnya bisa vaksin di sebuah klinik di Ubud. Korban lainnya, Suciasih, juga udah vaksin di puskesmas setempat.
 
-## Nasib Anjing Itu Gimana?
+## Nasib Anjing Itu
 
-Dinas peternakan dan kesehatan hewan setempat mengatakan, anjing agresif itu sudah dibunuh oleh warga, dan sampel otaknya sudah dikirim untuk diperiksa. Hasilnya baru keluar dua minggu lagi, baru saat itu bisa dipastikan apakah dua korban benar-benar tertular rabies. Yang agak aneh, petugas bilang sehari sebelum menggigit, anjing itu tidak menunjukkan gejala aneh sama sekali. Baru keesokan harinya tiba-tiba berubah kelakuan dan mulai menyerang orang.
+Dinas peternakan dan kesehatan hewan setempat mengatakan, anjing agresif itu sudah dibunuh oleh warga, dan sampel otaknya sudah dikirim untuk diperiksa. Hasilnya baru keluar dua minggu lagi, baru saat itu bisa dipastikan apakah dua korban benar-benar tertular rabies. Yang agak aneh, petugas bilang sehari sebelum menggigit, anjing itu tidak menunjukkan gejala aneh sama sekali. Baru keesokan harinya tiba-tiba berubah perilaku dan mulai menyerang orang.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1784113400946-anjing-rabies-di-bangli-1784030875524_169.jpeg)
 
 ## Pengingat buat yang mau liburan ke Bali
 
-Jujur aja, jumlah anjing liar di Bali itu lumayan banyak, apalagi di daerah pedesaan atau sekitar pasar. Rabies kalau sudah kambuh hampir nggak ada obatnya, masa inkubasinya bisa pendek bisa panjang, jadi jangan pernah anggap remeh. Kalau kamu liburan ke Bali, saran sih jaga jarak aja, jangan sembarangan mengelus anjing di pinggir jalan. Kalau sampai digigit atau dicakar, pertama-tama cuci lukanya, cari pertolongan medis secepatnya, dan tanya langsung di mana bisa dapat vaksin rabies — soalnya kayak kejadian ini, nggak semua rumah sakit punya stok. Tahu duluan klinik atau puskesmas terdekat yang punya vaksin, di saat genting bisa hemat banyak waktu.
+Jujur aja, jumlah anjing liar di Bali lumayan banyak, apalagi di daerah pedesaan atau sekitar pasar. Rabies kalau sudah kambuh hampir nggak ada obatnya, masa inkubasinya bisa pendek bisa panjang, jadi jangan pernah coba-coba berharap beruntung. Kalau kamu liburan ke Bali, saran sih jaga jarak aja, jangan sembarangan mengelus anjing di pinggir jalan. Kalau sampai digigit atau dicakar, langsung cuci lukanya, cari pertolongan medis secepatnya, dan tanya di mana bisa dapat vaksin rabies — soalnya kayak kejadian ini, nggak semua rumah sakit punya stok. Lebih baik tahu dari sekarang klinik atau puskesmas terdekat yang punya vaksin, pas darurat bisa hemat banyak waktu.
 
 https://youtube.com/shorts/6JKe5P1W5Dc
 
-> Referensi cepat: [Kengerian Liburan di Bali | Turis Taiwan Digigit Anjing, Biaya Medis Vaksin Rabies Tembus 18 Juta Rupiah!](/id/blog/bali-rabies-vaccine-cost/)
+> Referensi cepat: [Kengerian Liburan di Bali｜Wisatawan Taiwan Digigit Anjing, Biaya Medis Vaksin Rabies Tembus 18 Juta Rupiah!](/id/blog/bali-rabies-vaccine-cost/)
 
-> Referensi cepat: Cara Menolong Diri Sendiri? [Langkah Pencegahan Rabies di Zona Wisata Bali Diperketat](/id/blog/bali-rabies-prevention-measures/)
+> Referensi cepat: Cara menyelamatkan diri? [Kawasan Wisata Bali Perketat Pencegahan Rabies](/id/blog/bali-rabies-prevention-measures/)
