@@ -158,7 +158,7 @@ Semua kamarnya didesain super modern, ada pilihan kamar dua dan tiga kamar tidur
 
 Kolam renangnya gede banget, cocok buat berenang sepuasnya dan merasakan kesegaran air. Terus ada 'Water Play Area' yang unik dan wajib dicoba! Di sini kamu bisa bermain air, menikmati sinar matahari, dan bersenang-senang. Mau main water gun? Bisa! Mau seluncuran air? Juga ada! Area kolam renang ini bener-bener surga buat anak-anak dan orang dewasa. Oh iya, ada juga playground indoor lho!
 
-> ▶ Harga & Link Booking: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=108862) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1886140/furamaxclusive-ocean-beam-seminyak-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Q31NunLZ)
+> ▶ Harga & Link Booking: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=108862) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1886140/furamaxclusive-ocean-beach-seminyak-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Q31NunLZ)
 
 ## iSuite by Ekosistem
 

@@ -30,7 +30,7 @@ _srcHash: d6d1cfe189b6d0d37359c1775841b40d
 - **日期**：2025年1月1日（三）至2025年1月11日（六）
 - **機票**：中華航空，價錢約 USD$857/2人
 - **住宿**：
-- - **烏布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817582&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)，5晚共 USD$262，享受原始叢林嘅寧靜同鳥鳴。
+- - **烏布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)，5晚共 USD$262，享受原始叢林嘅寧靜同鳥鳴。
     - **金巴蘭**：[Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670)，5晚共 USD$290，行 5 分鐘就到海邊，感受黃金夕陽同海浪聲嘅魅力。
 - **其他費用**：
 - - **觀光稅**：2人共 USD$21
