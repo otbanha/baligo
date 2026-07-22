@@ -4,11 +4,10 @@ title: >-
   Charity Experiences
 slug: ljy-bali-healing-itinerary
 description: >-
-  This Bali trip wasn't about chasing Instagram hotspots—it was all about
+  This Bali trip wasn’t about chasing popular Instagram spots—it was all about
   seaside afternoon tea, beach clubs, spa treatments, a charity visit, and the
-  slow-paced life in Sanur. Here's my healing birthday itinerary, along with
-  accommodation picks in Seminyak and Sanur, e-visa info, tourist tax details,
-  and real travel tips.
+  slow-paced life in Sanur. Here’s my healing birthday itinerary, accommodations
+  in Seminyak and Sanur, e-visa info, tourist tax, and real travel tips.
 pubDate: 2026-06-24T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: 18
@@ -34,29 +33,32 @@ lang: en
 _srcHash: PENDING_RETRY_ac4b130d97c05ff921ad637d80680473
 ---
 
-> A big thanks to travel community expert [Lai Jiaying's post](https://www.facebook.com/share/p/1JXiVYHAdi/) for sharing
+> A big thanks to travel community expert [Lai Jiaying’s post](https://www.facebook.com/share/p/1JXiVYHAdi/) for sharing
 
-I originally just wanted to hop on a quick flight to Bali without even bothering to plan an itinerary 😆. So I posted a 'Birthday Blind Box' request in the travel group, letting others arrange the trip for me.
+I originally just wanted to hop on a flight to Bali without even planning an itinerary 😆
+So I posted a 'Birthday Surprise Itinerary' request in the group, letting others arrange the trip for me.
 
-❤️ May 16, 17, 18, 19, 20 — Birthday Blind Box Plan
-【Blind Box Requirements】
-I'll provide the budget, and you get full control to plan surprise activities.
+❤️ May 16, 17, 18, 19, 20 — Birthday Surprise Itinerary Plan
+【Birthday Surprise Requirements】
+I’ll provide the budget, and you get to plan all the surprises.
 
-❤️ Budget includes: transport, fuel, entrance fees, your meals, and all my expenses for the day (food & activities).
-❤️ My preferences are clear: no crowded tourist spots. I prefer stunning ocean views, places with a spiritual, healing vibe, and quality, non-commercial local food.
+❤️ The budget covers: transport, gas, entrance fees, your meals, and all my expenses for the day (food & activities).
+❤️ My preferences are clear: no touristy photo spots. I’d rather have stunning ocean views, a touch of spiritual healing, and quality, non-commercial local food.
 
-Believe it or not, the birthday blind box actually happened 🤣. And it was packed with so much content! Now that I'm sorting through the photos, I realize many spots aren't even 'tourist attractions'—they're more like hidden gems locals frequent or places passed around among travelers. But that's exactly what made this trip so memorable.
+Believe it or not, the birthday surprise itinerary actually happened 🤣
+And there was so much packed in! Now that I’m sorting through the photos, I realize many places aren’t even 'tourist attractions'—they’re more like hidden gems locals visit or spots passed around among travelers. But that’s exactly why this trip left such a lasting impression.
 
-Let's start with Day 1.
+Let’s start with Day 1.
 
 ***
 
-## Day 1｜From Taoyuan to Bali, First Stop: Sunset by the Beach 🌅
+## Day 1｜From Taoyuan to Bali, heading straight to the beach for sunset 🌅
 
-I flew out of Taoyuan Airport on China Airlines flight CI771 in economy class. Originally booked in standard economy, I later paid about USD$84 to upgrade to premium economy.
+This time, I flew out of Taoyuan Airport on China Airlines flight CI771 in economy class.
+Originally booked in regular economy, I later upgraded to premium economy for about USD$84.
 
-To be honest, for this flight route, I personally think the value for money is pretty high 👍
-The seat space is noticeably more comfortable, and there's a difference in the meals and overall flying experience. For anyone who wants to hit the ground running as soon as they land, the difference in your mental state is huge.
+To be honest, for this flight distance, I personally think the value for money is pretty high 👍
+The seat space is noticeably more comfortable, and there's a difference in the meals and overall flying experience. For anyone who wants to hit the ground running as soon as they land, your mental state really is much better.
 
 ***
 
@@ -67,9 +69,9 @@ This time, I handled almost everything online in advance, so the entry process w
 #### 1️⃣ Electronic Visa (B1)
 
 I applied for the electronic visa before departure, costing around USD$32.
-After landing, I went straight to the e-gate channel, and the actual clearance took only about 1 minute—no waiting in line at all.
+After landing, I went straight to the e-gate, and it only took about 1 minute to clear customs—no waiting in line at all.
 
-If you're visiting Bali during peak season, I really recommend getting the e-visa in advance; queuing for VOA on-site can sometimes make you question your life choices 😆
+If you're visiting Bali during peak season, I really recommend getting the e-visa in advance. Waiting in line for a VOA on-site can sometimes make you question your life choices 😆
 
 #### 2️⃣ Electronic Customs Declaration
 
@@ -79,7 +81,7 @@ You can submit it online up to three days before departure. Just save the QR cod
 #### 3️⃣ Tourism Tax
 
 I also paid the tourism tax online in advance, around USD$10.
-Nowadays, many processes in Bali are gradually going digital, and handling things ahead of time really saves a lot of hassle.
+Nowadays, many processes in Bali are gradually going digital, and handling things early really saves you a lot of time.
 
 [2025 Bali Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing/Customs to Baggage Claim](/en/blog/2025-bali-immigration-process/)
 
@@ -89,21 +91,21 @@ Nowadays, many processes in Bali are gradually going digital, and handling thing
 
 Along the way, we even received a Dubai chocolate from Heavenly Chocolate Bali.
 
-Honestly, the best part of a birthday blind box is that you never know what's coming next🤣 Sometimes it's not about how expensive something is, but that little surprise of 'someone secretly prepared something for you' that instantly elevates the entire trip's mood.
+I have to say, the best part of a birthday blind box is that you never know what’s coming next🤣 Sometimes it’s not about how expensive something is, but that little surprise of 'someone secretly prepared something for you' that instantly elevates the whole trip’s mood.
 
 ***
 
 ### 🌅 First Stop: Head Straight to Jimbaran for Sunset
 
-We didn't waste a moment after arriving and headed straight to Jimbaran.
+After arriving, we wasted no time and headed directly to Jimbaran.
 
 https://youtube.com/shorts/Rd0qfDV72bM
 
-Photo by Lai Jiaying
+Provided by Lai Jiaying
 
-There are plenty of places in Bali to watch the sunset, but Jimbaran's scene of an orange-red sky with planes descending low is truly iconic. Sitting on the sand, watching the sky shift from bright blue to gold, then orange, and finally blazing across the entire horizon, you get that feeling: 'Ah, I've really made it to Bali.'
+There are plenty of places in Bali to watch the sunset, but Jimbaran’s scene of 'orange-red skies with planes landing low' is truly iconic. Sitting on the sand, watching the sky shift from bright blue to gold, then orange, and finally blazing across the entire horizon, you get that feeling: 'Ah, I’ve really made it to Bali.'
 
-If you're on this China Airlines flight, you might still have time to dash to Seminyak for sunset. But if you're on EVA Air, arriving a bit later, I'd recommend staying in Jimbaran to be safe—otherwise, you're likely to hit rush hour traffic on the way to Seminyak.
+If you’re on this China Airlines flight, you might even have time to dash to Seminyak for sunset. But if you’re on EVA Air, arriving a bit later, I’d recommend staying in Jimbaran to be safe—otherwise, you’re likely to hit rush-hour traffic on the way to Seminyak.
 
 ***
 
@@ -116,13 +118,13 @@ Our first night was at Pelangi Bali Hotel & Spa in Seminyak.
 Photo by Lai Jiaying
 
 For about USD$65 per night for two people, I think it's a great deal given the location.
-The biggest perk? You can walk straight to the beach after dropping off your bags.
+The biggest perk? You can walk straight to the beach after dropping off your luggage.
 
 ![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014649179-695071414_17950095120159785_7534116028163351902_n.webp)
 
 Photo by Lai Jiaying
 
-No need to call a ride or move anywhere else—just stroll to a beachfront restaurant for dinner in the evening, listening to the waves and feeling the sea breeze. That sense of 'the journey has truly begun' is incredibly soothing.
+No need to call a ride or move anywhere else—just stroll to a beachfront restaurant for dinner, listen to the waves, and feel the sea breeze. That sense of 'the trip has truly begun' is incredibly soothing.
 
 ![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014682478-700224347_17950095102159785_6229290711436180316_n.webp)
 
@@ -154,37 +156,37 @@ Check availability & rates: [Agoda](https://www.agoda.com/partners/partnersearch
 
 {{block:smk}}
 
-## Day 2｜Morning Beach Walk, Beach Club, Charity Visit, and Finally Slowing Down in Sanur 🌊
+## Day 2 | Morning Beach Walk, Beach Club, Charity Visit, and Finally Slowing Down in Sanur 🌊
 
-The rhythm of the second day was exactly my ideal Bali mode. No crammed-in attractions, no rushing from morning till night—just a seamless flow between the beach, café bars, community spaces, and Sanur’s slow pace.
-
-***
-
-### 🌞 Seminyak Beach at dawn, even more enchanting than during the day
-
-Around six in the morning, I walked straight out the back door of the hotel onto the sand.
-
-This is exactly why I love staying at beachfront hotels. No need to plan a thing—just waking up and stepping onto the sand for a stroll is already worth it.
-
-Seminyak Beach in the early morning is a completely different world from the night. No blaring music, no crowds of tourists—just the sound of waves, morning joggers, and a handful of foreigners already paddling out to surf.
-
-And I have to say, the 'surfer hottie density' on Seminyak in the morning is seriously high 🤣. Many of them hit the water before dawn, and the beach vibe is super chill. Watching everyone carry their boards into the sea gives you that feeling: 'This is the real Bali everyday life.'
+The rhythm of the second day was exactly my ideal Bali mode—no packed itineraries, no rushing from dawn to dusk, just a seamless flow between the beach, café bars, community spaces, and Sanur’s slow pace.
 
 ***
 
-### 🍸 Atlas Beach Club｜The so-called world's largest beach club
+### 🌞 Seminyak Beach at Dawn, Even More Enchanting Than by Day
 
-During the day, I headed to Atlas Beach Club, which has been generating a lot of buzz lately.
+Around six in the morning, I stepped straight from the hotel’s back door onto the sand.
+
+This is exactly why I love staying at beachfront hotels—no need to plan anything special; just waking up and walking barefoot on the shore is already worth it.
+
+Seminyak Beach in the early morning is a world apart from the night scene. No thumping music, no crowds of tourists—only the sound of waves, morning joggers, and a handful of surfers already paddling out.
+
+And I have to say, the "surfer hottie density" on Seminyak mornings is seriously high 🤣. Many hit the water before sunrise, and the beach vibe is ultra chill. Watching everyone carry their boards into the sea gives you that feeling: "This is the real Bali daily life."
+
+***
+
+### 🍸 Atlas Beach Club｜The World’s Largest Beach Club
+
+During the day, I visited the much-talked-about Atlas Beach Club.
 
 ![Atlas Beach Club｜傳說中的全球最大 Beach Club](https://images.gobaligo.id/images/2026-06/1781014745875-atlas2.jpg)
 
 Photo courtesy of Atlas Beach Club / Lai Jiaying
 
-It's long held the title of the 'world's largest beach club,' and seeing it in person, the scale is truly staggering. The entire space is massive—from the pool and DJ area to the restaurant and lounge zones, it feels almost like a small resort.
+It’s famously known as the "world’s largest beach club," and the scale truly blows you away in person. The entire space is massive—from the pool and DJ area to the restaurant and lounge zones, it feels almost like a small resort.
 
-This time, thanks to a collaboration with TUL BLUE BERAWA, guests staying in suites or above can enter for free, and they even get front-row sofa seating plus a welcome drink. The front-row area makes a huge difference—you get a direct ocean view, with the waves, music, crowds, and sunset all around you. The atmosphere is incredibly immersive.
+This time, thanks to a collaboration with TUL BLUE BERAWA, guests staying in suites or above get free entry, plus direct access to the front-row sofa area and a welcome drink. The front-row area makes a huge difference—you get an unobstructed ocean view, with the waves, music, crowd, and sunset all around you. The atmosphere is incredibly immersive.
 
-That said, I personally feel that Atlas leans more toward a 'lively party-style beach club.' If you love music, a vibrant vibe, and photogenic spots, it’s a great fit. But if you prefer a quiet, relaxing escape, you might enjoy other beach clubs more.
+That said, I personally feel Atlas leans more toward a 'lively party-style Beach Club.' If you love music, a vibrant vibe, and photogenic spots, it’s a great fit. But if you prefer a quiet, laid-back escape, you might enjoy other beach clubs more.
 
 ***
 
@@ -196,11 +198,11 @@ In the afternoon, I headed to the Kempinski in Nusa Dua for afternoon tea.
 
 Photo courtesy of The Apurva Kempinski Bali
 
-I highly recommend booking a sea-view seat in advance. Sitting facing the ocean is a completely different experience from indoor seating.
+I highly recommend booking a sea-view seat in advance. Sitting right by the ocean is a completely different experience from the indoor seating area.
 
-Sipping tea while gazing at the Indian Ocean slows down the entire pace. Plus, the Kempinski’s architecture is grand, blending traditional Balinese elements with a modern style—many corners are quite photogenic.
+Sipping tea while gazing at the Indian Ocean slows down the entire pace. Plus, the Kempinski’s architecture is grand, blending traditional Balinese elements with a modern style—many corners are actually quite photogenic.
 
-Afternoon tea costs around USD$23 per person, which I think is reasonable given the hotel’s level and the views.
+The afternoon tea costs around USD$23 per person, which I think is reasonable given the hotel’s level and the stunning views.
 
 > [【Bali Luxury Afternoon Tea】Kempinski (The Apurva Kempinski) Selasar Deli: Palace-like Architecture, Wood Carving Art, and Dreamy Afternoon Moments](/en/blog/kempinski-selasar-deli-afternoon-tea/)
 
@@ -208,41 +210,41 @@ Afternoon tea costs around USD$23 per person, which I think is reasonable given 
 
 ### 💚 Bali Life Foundation｜The most profound stop on this trip
 
-The most memorable part of the afternoon wasn't actually the sights, but a visit to the Bali Life Foundation.
+The most memorable part of the afternoon wasn't actually the sights, but the visit to the Bali Life Foundation.
 
 https://youtube.com/shorts/ljVgfCUTOyg
 
-Courtesy of Lai Jiaying, Bali Life Foundation
+Provided by Lai Jiaying, Bali Life Foundation
 
 The foundation opens for预约 visits every Friday from 4:00 to 7:00 PM. The campus is actually quite small, currently housing about 50 children.
 
-When we arrived, we were about to unload the rice and cooking oil we brought for donation. A few young boys immediately ran over to help on their own.
+When we arrived, we were about to unload the rice and cooking oil we brought for donation. A few young boys immediately ran over to help.
 
-What shocked me the most—those kids were only about five or six years old, yet each one carried a 10-kilogram bag of rice by themselves.
+What shocked me the most was this—those kids were probably only five or six years old, yet each one was carrying a 10-kilogram bag of rice all by themselves.
 
-That scene was quite striking. You suddenly realize that some children's upbringing is vastly different from the world we're used to.
+That image was actually quite striking. You suddenly realize that some children's upbringing is truly worlds apart from the one we're used to.
 
-But at the same time, they weren't miserable. Instead, they kept laughing, chatting, and even took the initiative to welcome everyone.
+But at the same time, they weren't gloomy. Instead, they kept laughing, chatting, and even took the initiative to greet everyone.
 
 ![Bali Life Foundation｜這趟旅程最深刻的一站](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
 
-Courtesy of Lai Jiaying
+Provided by Lai Jiaying
 
 The foundation has dinner together at 6:00 PM, and visitors are welcome to stay and join. Compared to a simple 'tour,' it felt more like briefly stepping into their lives.
 
-They also run a kindergarten offering half-day to full-day childcare services. Many foreign parents who come to Bali for surfing or work send their children here, and this income helps subsidize the foundation's operations.
+They also run a kindergarten offering half-day to full-day childcare services. Many foreign parents who come to Bali for surfing or work send their kids here, and this income helps subsidize the foundation's operations.
 
-I really like this model. It doesn't rely entirely on donations but strives to build a sustainable cycle that can run long-term.
+I really like this model. It's not entirely reliant on donations, but instead strives to build a cycle that can sustain itself long-term.
 
 ***
 
-### 🏠 Evening Stay at a Sanur Beach Hotel
+### 🏠 Staying at a Beachfront Hotel in Sanur Tonight
 
 In the evening, we move to Sanur and check into Respati Beach Hotel.
 
-This is a typical Sanur-style beach hotel. It's not flashy, but the location is very comfortable.
+This is a classic Sanur-style beachfront hotel. It doesn't go for over-the-top luxury, but the location is incredibly comfortable.
 
-It costs around USD$65 per night for two people. Step out and you're right by the beach, and a five-minute walk takes you to a mall—very convenient for daily needs.
+For two people, it's around USD$65 per night. Step out and you're right by the beach, and a five-minute walk gets you to a mall—very convenient for daily needs.
 
 Compared to Seminyak and Canggu, Sanur has a much slower pace. There's less of a party vibe and more of an atmosphere suited for strolling, zoning out, and taking life easy.
 
@@ -272,43 +274,43 @@ Check room availability & prices: [Agoda](https://www.agoda.com/partners/partner
 
 ***
 
-### 🛍️ Icon Bali Mall｜A Popular Seaside Mall
+### 🛍️ Icon Bali Mall｜The Trendy Seaside Mall
 
 After dropping off our luggage, we headed out to explore Icon Bali Mall.
 
 ![Icon Bali Mall｜最近很紅的海景商場](https://images.gobaligo.id/images/2026-06/1781015028030-icom.jpg)
 
-ICON Bali Mall – Photo by Lai Jiaying
+Photo courtesy of Lai Jiaying at ICON Bali Mall
 
-This is one of the most talked-about new malls near Sanur lately. Its biggest draw is the 'sea view.'
+This is one of the most talked-about new malls in Sanur lately. Its biggest draw is the 'sea view.'
 
 Many spots offer direct ocean views, plus the space is quite new and the air conditioning is strong (laughs). It's quickly become a place many people add to their Sanur itinerary.
 
 ![Icon Bali Mall｜最近很紅的海景商場](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
 
-I also picked up some fragrances from Secret Garden. – Photo by Lai Jiaying. Indonesia actually has many fragrance brands with great prices, and some scents have a lovely tropical feel, perfect for bringing home as souvenirs.
+This time, I also picked up some fragrances from Secret Garden. Photo courtesy of Lai Jiaying. Indonesia actually has many fragrance brands with great prices, and some scents have a tropical feel, perfect for bringing home as souvenirs.
 
-## Day 3｜A Gentle Day Slowing Down in Sanur, So Tender It's Hard to Leave 🌿
+## Day 3｜A Gentle Day of Slowing Down in Sanur, So Soft It's Hard to Leave 🌿
 
-Day three had no packed schedule at all. After sleeping in, I decided to spend the entire day in Sanur.
+On the third day, we had absolutely no fixed plans. After sleeping in naturally, we decided to spend the whole day in Sanur.
 
 ![Day 3｜在沙努爾慢下來的一天，溫柔到讓人捨不得離開](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
 
-Photo by Lai Jiaying
+Photo courtesy of Lai Jiaying
 
-Many first-time visitors to Bali focus on Seminyak, Canggu, or Ubud, but I've always loved Sanur's 'slow seaside vibe.' It's not overly noisy or too touristy—it feels more like a place where you could actually live.
+Many first-time visitors to Bali focus on Seminyak, Canggu, or Ubud, but I've always loved Sanur's 'slow seaside vibe.' It's not overly bustling, nor does it feel too touristy—instead, it feels more like a place where you could truly live.
 
 ***
 
-### 🌅 Strolling Along Sanur Beach｜The morning sea breeze is truly gentle
+### 🌅 A Stroll on Sanur Beach｜The morning sea breeze is truly gentle
 
-I went for a morning stroll along Sanur Beach.
+I went for a walk along Sanur Beach in the morning.
 
-The sea in Sanur feels completely different from Bali's west coast. The waves here are much calmer, and in the early morning, the entire ocean surface has a mirror-like quality.
+The sea in Sanur feels completely different from Bali's west coast. The waves here are much calmer, and in the early morning, the entire ocean surface almost looks like a mirror.
 
 There's no Beach Club music or crowds of people. Just walkers, cyclists, and those sitting by the shore, lost in thought.
 
-I really love the morning air in Sanur. The sea breeze isn't strong—it's gentle and soothing, naturally slowing you down.
+I really love the morning air in Sanur. The sea breeze isn't strong—it's gentle and soothing, naturally making you slow down.
 
 Sometimes the most healing moments of a trip aren't about how many sights you've seen, but about doing nothing at all—just sitting by the sea, staring at the horizon.
 
@@ -316,37 +318,37 @@ Sometimes the most healing moments of a trip aren't about how many sights you've
 
 ### 🧸 Smile Shop｜A stop more meaningful than shopping
 
-This time, I even brought some dolls from Taiwan to donate.
+This time, I even brought some dolls all the way from Taiwan to donate.
 
 This 'Smile Shop' is actually a secondhand charity store run by the Bali Smile Foundation.
 
 ![微笑商店｜比購物更有意義的一站](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
 
-Photo credit: Yayasan Senyum Bali Lai Jiaying
+Photo courtesy of Yayasan Senyum Bali Lai Jiaying
 
-This foundation has long been helping children with cleft lips, palates, and facial deformities in Indonesia, raising medical funds and arranging surgeries to help these kids regain their smiles.
+This foundation has long been helping children with cleft lips, palates, and facial deformities in Indonesia, raising medical funds and arranging surgeries, hoping to help these kids find their smiles again.
 
-I've always admired this kind of nonprofit organization. Because what they do often isn't just short-term help—it truly shapes a child's future.
+I've always had great admiration for this type of nonprofit organization. Because what they do often isn't just short-term aid—it truly shapes a child's future life.
 
-And when you visit, you'll find the overall atmosphere is actually very warm and pressure-free. It feels more like a simple, genuine form of support.
+And when you come here, you'll find the overall atmosphere is actually quite warm and never feels pressuring. It's more like a simple, pure form of support.
 
 ***
 
 ### 🧶 A Heartwarming Cross-Border Crochet Gathering
 
-I happened to join a very special cross-border crochet gathering this time. People from different countries came together, stitch by stitch, crocheting 'breast prostheses.'
+This time, I happened to join a very special cross-border crochet gathering. People from different countries came together, stitch by stitch, crocheting 'breast prostheses.'
 
-Provided by Lai Jiaying
+Photo courtesy of Lai Jiaying
 
 ![一場很溫暖的跨國鉤針聚會](https://images.gobaligo.id/images/2026-06/1781015375794-lady_bumps.jpg)
 
-These handmade crochet prostheses will all be donated to relevant associations for women recovering from breast cancer surgery. Compared to standard prostheses, these knitted ones are lighter, softer, and more comfortable against the skin.
+These handmade crochet prostheses will all be donated to relevant associations for women who have undergone breast cancer surgery. Compared to standard prostheses, these knitted ones are lighter, softer, and more gentle on the skin.
 
-The atmosphere was actually quite quiet. Everyone focused on their crocheting, some chatting, others sharing stories—no overly sentimental words, but a gentle warmth that slowly builds up.
+The atmosphere on-site was actually quite quiet. Everyone focused on their crocheting, heads down—some chatted, others shared stories. There wasn't much sentimental talk, but a gentle warmth slowly built up.
 
-Sometimes the most precious travel memories aren't about visiting spectacular sights, but about these small, genuine human connections.
+Sometimes the most precious travel memories aren't about visiting spectacular sights, but about these small, authentic human connections.
 
-### 💆‍♀️ The Spa I Almost Always Visit in Sanur
+### 💆‍♀️ A Spa I Almost Always Visit in Sanur
 
 ***
 
@@ -360,11 +362,11 @@ This time, I went back to The Nest Boutique Spa, a place I almost always revisit
 
 Provided by Lai Jiaying at The Nest Boutique Spa
 
-> Featured in [【The Ultimate Guide】Bali's Top-Rated SPA Recommendations & In-Room Massage Collection, Organized by Area for Easy Browsing](/en/blog/spa/)
+> Featured in [【Essential Guide】Bali's Top-Rated SPA Recommendations & In-Room Massage Collection, Organized by Area for Easy Browsing](/en/blog/spa/)
 
-Sanur is packed with massage spots, but I've always found this one to be consistently high quality. The atmosphere is relaxing, the pressure is just right—not like the half-hearted treatments you get in touristy areas.
+Sanur is packed with massage spots, but I've always found this one to be consistently high quality. The ambiance is comfortable, the pressure is just right—not the kind of half-hearted service you get in touristy areas.
 
-And honestly, Bali travel often calls for a massage. After all the walking, sunbathing, and car rides, a good session instantly rejuvenates you.
+And honestly, Bali travel often calls for a good massage. After all the walking, sun exposure, and bumpy car rides, a session instantly recharges you.
 
 ***
 
@@ -376,33 +378,29 @@ Feeling completely refreshed after the massage, I headed straight to the mall to
 
 Provided by Lai Jiaying
 
-Sanur is actually becoming more and more convenient now. Unlike before, when many people thought it was 'a bit old-school,' it now has more large malls, restaurants, and cafes, while still keeping its original laid-back vibe.
+Sanur is actually becoming more and more convenient now. Unlike before, when many thought it was 'a bit old-fashioned,' it now has a growing number of large malls, restaurants, and cafes, while still retaining its original laid-back vibe.
 
 ***
 
 ### 💡 Why I'm Growing to Love Sanur More and More
 
-The location of the hotel this time is honestly ridiculously convenient.
+The location of the hotel I stayed at this time is almost ridiculously convenient.
 
-Massage places, the beach, a shopping mall, and money exchange spots—all within a 3-minute walk 👍👍
+Massage parlors, the beach, a shopping mall, and money exchange shops are all within a 3-minute walk 👍👍
 
-This kind of convenience is really important in Bali.
-Because many places might not look far on the map, but in reality, you could end up stuck in traffic for ages, questioning your life choices.
+This kind of convenience is really important in Bali. Because many places may not look far on the map, but in reality, you could be stuck in traffic for what feels like an eternity.
 
-One big advantage of Sanur is that—
-it has great amenities, yet the overall vibe remains relaxing.
+A major advantage of Sanur is that it has great amenities, yet the overall vibe remains relaxing.
 
-Especially if this isn't your first time in Bali, and you're starting to tire of hopping between attractions every day, just wanting a comfortable spot to unwind, stroll, eat, and get a massage—I'd really recommend setting aside a few days for Sanur.
+Especially if this isn't your first time in Bali and you're starting to tire of hopping from one attraction to another, just wanting a comfortable spot to unwind, stroll, eat, and get a massage, I'd highly recommend setting aside a few days for Sanur.
 
 {{block:sanur}}
 
-## Day 4｜Riding a Scooter Through Mountain Roads, from Tirta Empul Temple All the Way to Ubud and Sanur 🛵
+## Day 4｜Riding a Scooter Through Mountain Roads, from Tirta Empul to Ubud and Sanur 🛵
 
-Day four kicked off with scooter travel mode.
-I set off from Sanur sharp at 7 AM, riding straight into central Bali.
+Day four kicked off with scooter travel mode. We set off from Sanur at 7 AM sharp, heading straight into central Bali.
 
-Honestly, riding a scooter in Bali gives you a unique sense of freedom.
-Along the way, you pass through small villages, rice terraces, temples, and mountain roads. Sometimes, just stopping at a red light and seeing roadside offerings, breakfast stalls, or students riding to school makes you think: 'Ah, this is the real Bali everyday life.'
+Honestly, riding a scooter in Bali gives you a unique sense of freedom. Along the way, you pass through small villages, rice terraces, temples, and mountain roads. Sometimes, just stopping at a red light and seeing roadside offerings, breakfast stalls, or students riding to school makes you think, 'Ah, this is the real Bali daily life.'
 
 But a heads-up: if you're not used to riding a scooter or aren't familiar with Southeast Asian traffic rhythms, it's much easier to just hire a driver 🤣
 
@@ -416,55 +414,55 @@ Our first stop was straight to Tirta Empul Temple.
 
 Tirta Empul Temple (Photo by Lai Jiaying)
 
-We arrived very early, so the crowds were still manageable. I'd seen plenty of online photos showing long queues, but coming in the morning really made it much more comfortable—both for taking photos and for experiencing the purification ritual.
+We arrived very early, so the crowds were still manageable. I’d seen plenty of online photos showing long queues, but coming in the morning truly makes the experience much more pleasant—both for taking photos and for participating in the purification ritual.
 
-Tirta Empul is most famous for its holy water purification ceremony. Many locals and tourists line up in order at different spouts to undergo the cleansing ritual.
+The temple is most famous for its holy water purification. Many locals and tourists line up in order at different spouts to perform the cleansing ceremony.
 
 The atmosphere on-site is actually quite serene. Even with a fair number of visitors, you can still feel a very peaceful energy.
 
 But I have to give you a serious heads-up:
 
-⭐️ There are no hairdryers. ⭐️ There are no hairdryers. ⭐️ There are no hairdryers.
+⭐️ No hair dryers. ⭐️ No hair dryers. ⭐️ No hair dryers.
 
-Your hair will just have to air dry after getting wet 😅 Luckily, I brought my own towel—otherwise, riding a scooter with wet hair would have been a total nightmare.
+Your hair will just have to air-dry naturally after getting wet 😅 Luckily, I brought my own towel, otherwise riding a scooter with wet hair would have been a nightmare.
 
 > [Complete Guide to Tirta Empul Temple in Bali: The Thousand-Year-Old Holy Water Purification Ritual, Taboos, and Must-See Highlights](/en/blog/tirta-empul-temple-guide/)
 
 ***
 
-### 🧱 Penglipuran Village: A Traditional Village Full of Life
+### 🧱 Penglipuran Village – A Traditional Village Full of Life
 
 Continuing north on the bike, I arrived at Penglipuran Village.
 
 ![彭利普蘭村｜很有生活感的傳統村莊](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
 
-Penglipuran Village — Photo by Lai Jiaying
+Penglipuran Village – Photo by Lai Jiaying
 
-This village has long been known as one of the cleanest villages in the world. The entire environment is impeccably maintained, and it preserves many traditional Balinese architectural features.
+This place has long been known as one of the cleanest villages in the world. The entire environment is impeccably tidy, and it preserves many traditional Balinese architectural features.
 
-Unlike typical tourist spots, this is still a living village where people actually reside. Many homes have small shops out front selling drinks, snacks, and little souvenirs, giving it a wonderfully down-to-earth feel.
+Unlike typical tourist spots, this is still a living village where people actually reside. Many homes have small shops out front selling drinks, snacks, and little souvenirs, giving it a very down-to-earth feel.
 
-I really enjoyed the pace here. You don’t need to do anything special—just stroll slowly and take it all in.
+I really enjoyed the pace here. There’s no need to do anything special—just take a slow stroll and soak it all in.
 
-A few shops also sell local treats. If you’re tired from riding, it’s a perfect place to sit down and rest.
+A few shops also sell local treats. If you’re tired from riding, it’s a great spot to sit down and rest.
 
 > [Step Back in Time at Penglipuran Village: Experience Bali’s Ancient Charm](/en/blog/penglipuran-village-bali-experience/)
 
 ***
 
-### ☕ Tegallalang Rice Terraces: The View at TIS Cafe Is Absolutely Stunning
+### ☕ Tegallalang Rice Terraces – The View at TIS Cafe Is Absolutely Stunning
 
-After leaving the village, I rode along the mountain road toward the Tegallalang Rice Terraces. This time, I headed straight to the wildly popular TIS Cafe, a favorite spot for photos.
+After leaving the village, I rode along the mountain road toward the Tegallalang Rice Terraces. This time, I headed straight to the wildly popular TIS Cafe, a favorite for photos.
 
 ![德哥拉朗梯田｜TIS Cafe 看景真的很誇張](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
 
-Photo by Lai Jiaying at TIS Cafe
+Photo by TIS Cafe / Lai Jiaying
 
-Many people call this a 'Instagram-worthy café,' but honestly, the view is truly impressive. Sitting facing the rice terraces, watching the layers of green valleys stack up, it's really easy to just zone out.
+Many call this an 'Instagram-worthy café,' but honestly, the view is truly stunning. Sitting facing the rice terraces, watching the layers of green valleys stack up, it's really easy to just zone out.
 
-Plus, the mountain breeze feels incredibly refreshing. It's completely different from the hot, sticky air by the sea.
+Plus, the mountain breeze here is incredibly refreshing—completely different from the hot, sticky air by the coast.
 
-I personally think this kind of spot is perfect for a break during a scooter trip. Grab a coffee, take in the mountain views, and give your butt a rest too 🤣
+I personally think this kind of spot is perfect for a break during a scooter trip. Grab a coffee, take in the mountain views, and give your butt a rest too 😂
 
 ***
 
@@ -474,40 +472,40 @@ At noon, we headed straight for Ubud's iconic dirty duck rice.
 
 ![烏布經典午餐｜Bebek Tepi Sawah 髒鴨飯](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
 
-Photo by Lai Jiaying at Bebek Tepi Sawah
+Photo by Bebek Tepi Sawah / Lai Jiaying
 
-Their Crispy Duck is seriously impressive. The skin is fried super crispy, the meat stays tender, and even the bones are fragrant.
+Their Crispy Duck is seriously impressive—the skin is fried super crispy, the meat stays tender, and even the bones are fragrant.
 
-Pair it with Indonesian chili sauce, and it's absolutely irresistible.
+Paired with Indonesian chili sauce, it's absolutely irresistible.
 
 ![烏布經典午餐｜Bebek Tepi Sawah 髒鴨飯](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
 
 Photo by Lai Jiaying
 
 But I have to say first—
-that chili sauce is really spicy 🤣🤣
+the chili sauce is really spicy 🤣🤣
 
-If you usually handle only mild spice, I’d suggest taking it slow at first, or you might end up spending the rest of the trip hunting for water.
+If you usually handle only mild spice, I’d suggest starting slow, or you might spend the rest of the trip hunting for water.
 
 ***
 
 ### 💦 Tegenungan Waterfall｜Thrilling going down, exhausting coming up 🤣
 
-After eating, we headed southward and made a detour to Tegenungan Waterfall along the way.
+After eating, we headed south and made a detour to Tegenungan Waterfall along the way.
 
 This waterfall is one of the more accessible ones in Bali.
 You don’t have to hike for ages through the mountains, but you still need to descend into the valley.
 
-As you get close to the waterfall, the mist hitting you is truly breathtaking.
-The roar of the water is so loud that you can barely hear someone standing right next to you.
+As you get close to the waterfall, the mist hitting you is truly striking.
+The roar is so loud that you can barely hear someone standing right next to you.
 
 And one thing that makes Bali’s waterfalls special is—
-many aren’t the 'thin and tall' type, but instead have a thick, powerful flow.
+many aren’t the 'thin and tall' kind, but have a thick, powerful flow.
 
 The only problem is…
 
-Climbing back up is seriously tiring 😆
-Especially after eating dirty duck rice—those stairs feel like a test of life itself.
+Climbing back up is a real workout 😆
+Especially after eating dirty duck rice—it feels like a test of life itself.
 
 https://youtube.com/shorts/MmqfkXw211k
 
@@ -523,23 +521,23 @@ This time we went to grab some Massimo gelato.
 
 ![Massimo 冰淇淋｜永遠都在排隊](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
 
-Massimo Italian Restaurant (photo by Lai Jiaying)
+Massimo Italian Restaurant (Photo by Lai Jiaying)
 
-There's always a line at their place, no matter day or night—the entrance is packed with people.
+There's always a line at their place. Day or night, the door is packed with people.
 
-But I have to admit, it's really good for a reason. Tons of flavors!
+But I have to admit, it's impressive for a reason. Tons of flavors!
 
 The best part:
 
 Cheap, huge scoops, and super rich flavor.
 
-It's so easy to say 'I'll just have one scoop' when ordering, but you end up with two🤣
+It's so easy to say 'I'll just have one scoop' when ordering, only to end up with two🤣
 
 https://youtube.com/shorts/EF8o5BgXtjg
 
 ***
 
-### 🛍️ Back at the hotel for a shower, then back into shopping mode in the evening
+### 🛍️ Back at the hotel, showered, and then it was time to hit the personal shopping mode again at night
 
 After showering and changing clothes at the hotel, I walked over to the neighboring Icon Bali Mall in the evening.
 
@@ -547,29 +545,28 @@ https://youtu.be/hdIKOX5wghU
 
 ICON Bali Mall
 
-I've been here almost every day these past few days 🤣
-Straight into 'live shopping agent mode.'
+I've been checking in almost every day these past few days 🤣
+Straight into 'live personal shopping mode.'
 
 Sanur is getting more and more convenient now.
-A lot of things you don't need to go all the way to Kuta or Seminyak for—you can already find plenty here.
+There's no need to make a special trip to Kuta or Seminyak for many things—you can already find plenty right here.
 
 And most importantly—
 no traffic jams.
 That really makes all the difference.
 
-## Day 5｜Dolphins at dawn, monkeys on the mountain trail, and a perfect finish at Cuca 🐬
+## Day 5｜Dolphins at dawn, monkeys on the mountain trails, and a perfect finish at Cuca 🐬
 
-The first few days were pretty slow travel,
-but Day 5 was totally a 'burn-the-candle-at-both-ends kind of day' 🤣
+The first few days were pretty laid-back, but Day 5 was totally a 'burn-the-candle-at-both-ends' kind of day 🤣
 
-We set off from Sanur at 3 a.m., heading all the way north to Lovina.
-It was exhausting to the point of questioning life, but the moment we saw the dolphins, I instantly thought: 'Okay, it was worth it.'
+We set off from Sanur at 3 a.m. and headed all the way north to Lovina.
+It was exhausting to the point of questioning life, but the moment we saw the dolphins, it instantly felt like, 'Okay, totally worth it.'
 
 ***
 
-### 🐬 Dolphin Chasing at Dawn｜A Surreal Sunrise Over Lovina Beach
+### 🐬 Dolphin Chasing at Dawn｜A Dreamy Sunrise Over Lovina Beach
 
-We arrived at Lovina Beach before the sky had even begun to lighten.
+We arrived at Lovina Beach before the sky had even lightened.
 
 https://youtu.be/XRR7ddLAiV4
 
@@ -577,79 +574,79 @@ Photo by Lai Jiaying
 
 Then we hopped onto a traditional local spider boat (Jukung) to head out and chase dolphins.
 
-Honestly, waking up before dawn was absolutely brutal. After a long drive through the night to reach North Bali, I was basically running on autopilot, my soul still half-asleep.
+Honestly, waking up before dawn was absolutely brutal. Especially after a long drive through the night to reach North Bali—I was basically running on autopilot.
 
 But not long after the boat set off, dolphins suddenly started appearing.
 
 And not just one or two—whole pods kept leaping out of the water right beside our boat.
 
-Everyone on board practically screamed with excitement at the same time 😂 That sight alone was enough to jolt you wide awake.
+Everyone on board started screaming and cheering at the same time 😂 That sight alone was enough to jolt you wide awake.
 
-As the sun slowly rose over the horizon, the sky shifted from deep blue to fiery orange, making the whole experience feel utterly surreal.
+Add to that the sunrise slowly rising over the horizon, the sky shifting from deep blue to orange-red—the whole scene felt surreal.
 
 But here's a heads-up:
 
 🌊 Remember to bring a change of clothes and pants.
 The waves really do crash right into the boat.
 
-Especially if you're sitting in the front row—your chances of getting soaked are super high 🤣
+Especially if you're sitting in the front—your chances of getting soaked are super high 🤣
 
 ***
 
-### 🐒 Feeding Monkeys on the Mountain Road｜The Monkeys Here Are Much Gentler
+### 🐒 Feeding Monkeys on the Mountain Road｜These Monkeys Are Much Gentler
 
-On the way back, we made a quick stop at a roadside spot along the mountain road to feed the monkeys.
+On the way back, we stopped by a roadside spot in the mountains to feed the monkeys.
 
-There are monkeys all over Bali, but the ones here are noticeably gentler.
+There are monkeys all over Bali, but the ones here are noticeably tamer.
 Unlike in Uluwatu, where some monkeys will straight-up snatch your glasses or phone 🤣
 
 They charge a small fee on-site (though I honestly can't remember how much 😆), and you can buy food to feed them.
 
-Some monkeys even sit still and wait for food—totally different from the 'gangster monkey vibe' you get in Uluwatu.
+Some monkeys even sit calmly waiting for food—totally different from the 'gangster monkey vibe' you get in Uluwatu.
 
 ***
 
-### ☕ Coffee Park in the Mountains｜A Rest Stop on the Way Back
+### ☕ A Coffee Park in the Mountains｜A Pit Stop on the Way Back
 
 Then, on the return trip, we made another stop at a coffee park nestled in the mountains to take a break.
 
 These types of coffee plantations are actually quite common in the mountainous areas of Bali, and their biggest draw is that almost all teas and coffees are available for free tasting.
 
-From ginger tea and herbal tea to various flavored coffees, there's a wide selection.
+From ginger tea and vanilla tea to various flavored coffees, they have it all.
 
 ![山裡的咖啡公園｜回程中的休息站](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
 
-Photo by Lai Jiaying
+Provided by Lai Jiaying
 
-Of course, the most famous offering is still civet coffee, which costs around IDR 50,000 per cup.
+Of course, the most famous is still the civet coffee, which costs around IDR 50,000 per cup.
 
-Visitors can also see the coffee bean processing and production process firsthand, and there are plenty of teas and coffees available for direct purchase.
+You can also see the coffee bean processing and production process on-site, and there are plenty of teas and coffees available for direct purchase.
 
-I personally find these places perfect as a stopover during long journeys—sitting down to enjoy the breeze and mountain views makes you feel so much better.
+Personally, I think this kind of place is perfect as a pit stop during long journeys. Sitting down, feeling the breeze, and taking in the mountain views can really make you feel much better.
 
 ***
 
-### 🍫 Jungle Gold Bali｜A Place That Will Make Chocolate Lovers Lose Control
+### 🍫 Jungle Gold Bali｜A Place Where Chocolate Lovers Will Lose Control
 
-Then we continued on to a chocolate factory 😂
+Then we continued on to a chocolate factory 🤣
 
 Jungle Gold Bali
 
 The most dangerous part is—
 
-Almost all the chocolates are available for free tasting 😆😆
+Almost all the chocolates are free to sample 😆😆
 
-And not just the casual kind of tasting either. Many flavors have a tropical vibe, like coconut, sea salt, and spices.
+And not just a casual taste either. Many flavors have a tropical vibe, like coconut, sea salt, and spices.
 
-So I originally just planned to 'take a look inside,' but ended up walking out with a bag in hand 🤣
+So I originally just wanted to 'take a look inside,' but ended up walking out with a bag in hand 🤣
 
-> Featured in [【Recommended by Netizens】Six Categories, Over 20 Bali Souvenir Gift Ideas: The Perfect Choices to Cherish Precious Memories](/en/blog/bali-souvenirs-gift-guide/)
+> Featured in [【Recommended by Netizens】Six Categories, Over 20 Bali Souvenir Gift Ideas: Top Picks to Cherish Your Memories](/en/blog/bali-souvenirs-gift-guide/)
 
 ***
 
 ### 🍛 Random Street Find: Babi Guling Roast Pork Rice
 
-Instead of hunting down famous spots for lunch, we randomly stopped at a roadside Babi Guling place.
+For lunch, instead of hunting down a famous spot, we randomly stopped at a Babi Guling place by the roadside.
 
 Babi Guling
 
@@ -657,56 +654,55 @@ Sometimes the best food in Bali isn't necessarily at the top-rated spots on Goog
 
 Crispy pork skin, juicy minced pork, paired with spicy sambal—it's absolutely sinful.
 
-And these kinds of places are usually very local. The people sitting next to you eating are almost all locals, giving you that 'I'm really not in a tourist zone today' feeling.
+And these places usually feel very local. The people sitting next to you are almost all locals, giving you that 'I'm really not in a tourist zone today' feeling.
 
 https://youtube.com/shorts/sVxycGvyT9w
 
 ***
 
-### 💤 Knocked Out the Moment We Got Back to the Hotel
+### 💤 Straight to Sleep the Moment We Got Back
 
-Back in Sanur, the first thing I did was take a shower.
+The first thing we did after returning to Sanur was take a shower.
 
-After washing off the sea salt, sweat, and the exhaustion from a full day of sun and wind, I fell asleep instantly.
+After washing off the sea salt, sweat, and the exhaustion from a full day under the sun, I fell asleep instantly.
 
-No exaggeration at all.
-It was the kind of 'pass out the second you hit the pillow' level 🤣
+No exaggeration. It was the kind of 'pass out the second you hit the pillow' level 🤣
 
-We didn’t schedule anything for the afternoon—just used it to recover from the past few days of burning the candle at both ends.
+We didn’t schedule anything for the afternoon—just pure recovery time for our burned-out bodies from the past few days.
 
 ***
 
-### 🍽️ Cuca｜Still Amazes Me Every Time I’m in Bali
+### 🍽️ Cuca｜Still Blows Me Away Every Time I Visit Bali
 
-After a good nap, we headed out right at 6 PM.
+After a good nap, we headed out at 6 PM sharp.
 
 The grand finale dinner tonight was Cuca, a place I almost always want to revisit every time I’m in Bali.
 
 ![Cuca｜每次來峇里島都還是會驚艷](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
 
-Cuca Restaurant Bali
+Cuca Restaurant Bali provided by Lai Jiaying
 
-It's not the kind of over-the-top fine dining, but it makes you feel like: 'Every dish was thoughtfully crafted.'
+It's not the kind of over-the-top fine dining, but it makes you think: 'Every dish was carefully crafted.'
 
 Their creative dishes, cocktails, and desserts are all truly top-notch.
 
-And the overall vibe is really comfortable—not too formal, yet still refined.
+And the overall atmosphere is very comfortable—not too formal, yet still refined.
 
 > [Dining deal at Cuca Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D96a4421d89k.com)
 
-After chasing dolphins at dawn, long drives, and winding mountain roads, ending the day with a tipsy dinner felt like the perfect way to wrap up this birthday surprise trip.
+After chasing dolphins at dawn, long drives, and winding mountain roads, ending the day with a tipsy dinner felt like the perfect finish to this birthday blind-box trip.
 
 Looking back at Day 5 now, I really get that feeling of:
 
 'How did I even survive this day? 🤣'
 
-## Day 6｜Holy water purification, rice terrace lunch, a visit to the driver's home, and a birthday room upgrade surprise 🎂
+## Day 6｜Holy water purification, rice terrace lunch, visiting the driver's home, and a birthday upgrade surprise 🎂
 
-By the sixth day, the rhythm of the trip had completely shifted again.
+By the sixth day, the rhythm of the trip shifted completely from the days before.
 
 If the earlier days were about exploring Bali, today felt more like slowly stepping into the lives of the Balinese people.
 
-Starting from Sanur in the morning, heading up into the central highlands, and finally winding back down to Jimbaran—this was a major travel day on the trip.
+Starting from Sanur in the morning, heading up into the central highlands, and finally winding back down to Jimbaran—this day was a major transit day on the trip.
 
 ***
 
@@ -714,39 +710,39 @@ Starting from Sanur in the morning, heading up into the central highlands, and f
 
 After a leisurely breakfast, we officially checked out.
 
-These past few days in Sanur have been truly comfortable—beaches, shopping malls, massage parlors, and restaurants are almost all within walking distance.
+Staying in Sanur these past few days was truly comfortable—the beach, shops, massage places, and restaurants were almost all within walking distance.
 
 Loading the luggage into the car marked the end of this slow-paced chapter.
 
-Next, it's time to return to nature and kick off today's healing itinerary.
+Now it was time to return to nature and kick off today's healing itinerary.
 
 ***
 
-### 🧘‍♀️ Taman Beji Griya Waterfall｜Five-Stage Holy Water Purification Ritual
+### 🧘‍♀️ Taman Beji Griya Waterfall｜The Five-Stage Holy Water Purification Ritual
 
-Our first stop is the increasingly popular purification site—Taman Beji Griya Waterfall.
+Our first stop was the increasingly popular purification site—Taman Beji Griya Waterfall.
 
 ![‍ Taman Beji Griya Waterfall｜五階段聖水淨化儀式](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
 
-Taman Beji Griya Waterfall (Photo by Lai Jiaying)
+Photo provided by Lai Jiaying at Taman Beji Griya Waterfall
 
-What it's most famous for is the 'Five-Stage Holy Water Purification Ritual (Melukat).'
+What this place is most famous for is the 'Five-Stage Holy Water Purification Ritual (Melukat).'
 
-Unlike typical self-guided waterfall visits, the entire process here is led by a guide, from blessings and purification to the sacred water cleansing at different stages—it all feels deeply ceremonial.
+Unlike typical self-guided waterfall visits, the entire process here is led by a guide, from blessings and purification to the various stages of holy water cleansing, creating a complete ritualistic experience.
 
-Even if you're not religious, you can still feel how much Balinese culture values purification and blessings.
+Even if you're not religious, you can still feel the importance Balinese culture places on purification and blessings.
 
-If you're a woman joining the ceremony, it's best to wear a swimsuit underneath for convenience.
+If you're a woman participating in the ceremony, it's recommended to wear a swimsuit underneath for convenience.
 
-Besides Melukat, the complex offers various other Balinese healing experiences, such as blessing ceremonies and energy treatments, though most require an additional fee.
+Besides Melukat, the complex offers many other Balinese healing experiences, such as blessing ceremonies and energy treatments, though most require an additional fee.
 
 > [Taman Beji Griya # Soul Retreat & Self-Healing Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F75759-retreat-self-healing-purification-trip-bali-aga-taman-beji-griya%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df36411cfec)
 
-Surrounded by lush greenery, with the sound of waterfalls and flowing water, it truly feels like an escape from the city.
+Surrounded by lush greenery, with the sound of waterfalls and flowing water, the environment truly feels like an escape from the city.
 
 ***
 
-### 🍚 Catavaca Jatiluwih｜Lunch Amidst a UNESCO World Heritage Rice Terrace
+### 🍚 Catavaca Jatiluwih｜Lunch Amidst World Heritage Rice Terraces
 
 After the purification ceremony, we continued heading into the mountains.
 
@@ -754,39 +750,39 @@ For lunch, we dined at Catavaca, a restaurant with stunning views near the Jatil
 
 ![Catavaca Jatiluwih｜世界文化遺產梯田中的午餐](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
 
-Catavaca Jatiluwih provided by Lai Jiaying
+Photo courtesy of Catavaca Jatiluwih
 
-Before us lies the Jatiluwih Rice Terraces, a UNESCO World Heritage site.
+Right before us lies the Jatiluwih Rice Terraces, a UNESCO World Heritage site.
 
 Jatiluwih Rice Terraces
 
-Compared to Tegallalang, this place has far fewer commercial facilities and offers a greater sense of openness and tranquility.
+Compared to Tegallalang, this place has far fewer commercial facilities and feels much more expansive and tranquil.
 
-The entire stretch of terraced fields extends all the way to the foot of the distant mountains, looking like a massive green carpet.
+The entire stretch of terraces extends all the way to the foot of the distant mountains, looking like a massive green carpet.
 
 That day, I ordered a bowl of Indonesian porridge.
 
 I didn't have high expectations at first, but it turned out surprisingly delicious 😋
 
-The texture was smooth and creamy, and it went down easily with the toppings—a seemingly simple dish that you just can't stop eating.
+The texture was smooth and creamy, and it went down perfectly with the toppings—a seemingly simple dish that you just can't stop eating.
 
 Sometimes the most delightful food discoveries on a trip aren't from famous restaurants, but from these unexpected little finds.
 
 ***
 
-### 🏠 An Unexpected Turn｜Invited to the Driver's Home
+### 🏠 An Unexpected Twist｜Invited to the Driver's Home
 
-What came next was arguably one of the most unique experiences of the entire trip.
+What came next was truly one of the most unique experiences of the entire trip.
 
 The driver suddenly warmly invited me to his home.
 
 To be honest, if it were my first time in Bali, I probably wouldn't have dared to accept.
 
-But since we'd already gotten to know each other over the past few days, I decided to go along.
+But after spending a few days together, we'd already gotten quite familiar, so I decided to go along.
 
-When we arrived, I realized this was an experience far beyond what any tourist could easily access.
+When we arrived, I realized this was an experience tourists could never easily access.
 
-The driver showed me around a traditional Balinese house compound, introducing the family shrine, courtyard, and the living spaces of each family member.
+The driver showed me around a traditional Balinese house layout, introducing the family shrine, courtyard, and the living spaces for family members.
 
 It was completely different from the Bali you see in hotels and tourist spots.
 
@@ -794,57 +790,57 @@ This was real life.
 
 The driver's mother runs a small shop.
 
-Seeing a guest arrive, she immediately brought out drinks and snacks to welcome me.
+Seeing a guest arrive, she immediately brought out drinks and snacks to serve.
 
-Even though we couldn't really communicate with words, I could still feel their overwhelming warmth.
+Even though we couldn't fully communicate with words, I could still feel their overwhelming warmth.
 
-Even more surprising, they kept insisting I stay for dinner.
+What surprised me even more was that they kept inviting me to stay for dinner.
 
-That kind of unreserved hospitality is truly touching.
+Their unreserved hospitality was truly touching.
 
-Sometimes the most precious travel memories aren't the sights, but the people.
+Sometimes the most precious travel memories aren’t the sights, but the people.
 
 ***
 
-### 🐟 Kuta's Legendary Fish Soup | Simple Yet Unforgettable
+### 🐟 Kuta’s Classic Fish Soup – Simple Yet Unforgettable
 
-Before dinner, we stopped at a long-established local spot in Kuta for fish soup.
+Before dinner, we stopped at a long-standing local eatery in Kuta for fish soup.
 
 ![庫塔老字號魚湯｜樸實卻令人難忘](https://images.gobaligo.id/images/2026-06/1781017149714-709863826_17952267135159785_5884357276073212035_n.jpg)
 
 Photo by Lai Jiaying
 
-Balinese-style fish soup is quite different from what you'd find in Taiwan.
+Bali-style fish soup is quite different from what you’d find in Taiwan.
 
 Simmered with plenty of local spices, it has absolutely no fishy taste.
 
-The broth is sweet and savory with a lingering hint of sour and spicy, making it incredibly appetizing.
+The broth is sweet and savory with a lingering hint of sour and spicy kick—very appetizing.
 
-After a full day of running around, a steaming bowl of fish soup feels like an instant recharge.
+After a long day of travel, a steaming bowl of fish soup feels like an instant recharge.
 
 ***
 
-### 🛍️ Last-Minute Shopping Spree: Souvenir Stock-Up Time
+### 🛍️ Last-Minute Rush｜Souvenir Stock-Up Time
 
-As the trip winds down, there's always time for one last shopping session.
+As the trip nears its end, there's always time for one last shopping spree.
 
-Back in Kuta, we rush to our favorite shops to stock up.
+Back in Kuta, I hurry to my usual shops to restock.
 
 ![最後衝刺｜伴手禮補貨時間](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
 
-Photo by Lai Jiaying
+Provided by Lai Jiaying
 
 Snacks, instant noodles, coffee, and seasonings—everything gets stuffed into the suitcase.
 
-Every time I visit Bali, I think I've bought enough.
+Every time I come to Bali, I think I've bought enough.
 
-But before heading home, I still can't resist buying another round 🤣
+But before heading home, I can't resist buying another round 🤣
 
 ***
 
-### 🏨 Birthday Surprise: Free Upgrade to a Massive Oceanfront Room
+### 🏨 Birthday Surprise｜Free Upgrade to a Massive Ocean-View Room
 
-Tonight, we check into the Prabhu Jimbaran Bay Beach Resort.
+Tonight, I'm staying at the Prabhu Jimbaran Bay Beach Resort.
 
 Jimbaran Bay Beach Resort & Spa by Prabhu
 
@@ -854,29 +850,29 @@ What started as a routine check-in.
 
 Photo by Lai Jiaying
 
-But then the front desk clerk glanced at my passport and suddenly smiled, saying,
+Unexpectedly, the front desk staff glanced at my passport and suddenly smiled, saying:
 
 “Happy Birthday!”
 
 Then they told me the hotel had upgraded my room for free.
 
-I was already thrilled at that point.
+I was already thrilled at that moment.
 
-But the real surprise began when I actually opened the door to my room.
+But the real surprise only began when I opened the door to my room.
 
-The moment I pushed open the balcony door, I was greeted by an unobstructed panoramic view of the sea.
+The moment I pushed open the balcony door, an unobstructed panoramic sea view unfolded before me.
 
-The sun was slowly setting toward the horizon.
+The sunset was slowly descending toward the horizon.
 
-Orange, pink, and gold blended across the sky and the water.
+Orange, pink, and gold blended across the sky and the sea.
 
-In that moment, I truly felt:
+At that moment, I really felt:
 
-"This birthday gift is just way too big."
+"This birthday gift is way too generous."
 
 🧡❤️
 
-And this surprise birthday trip culminated in the most beautiful sunset, an unexpected delight.
+And this surprise birthday trip culminated in an unexpected moment—the most beautiful sunset.
 
 ### Jimbaran Bay Beach Resort & Spa by Prabhu
 
@@ -906,11 +902,11 @@ And this surprise birthday trip culminated in the most beautiful sunset, an unex
 
 Check availability & rates: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5895863/jimbaran-bay-beach-resort-and-spa-by-prabhu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HdNQ95Gy)
 
-## Day 7｜A Leisurely Day of Doing Nothing in Jimbaran 🌅
+## Day 7｜A Lazy Day in Jimbaran with Zero Rush 🌅
 
 By day seven, there were finally no alarms, no rushing, and no must-do itineraries.
 
-I spent almost the entire day in Jimbaran, fully surrendering to vacation mode.
+I spent almost the entire day in Jimbaran, letting myself fully sink into vacation mode.
 
 ![Day 7｜什麼都不趕的金巴蘭放空日](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
 
@@ -918,9 +914,9 @@ Photo by Lai Jiaying
 
 ***
 
-### 🌅 Beach Walk & Breakfast with Ocean Views
+### 🌅 Beach Walk & Breakfast with a Sea View
 
-In the morning, I took a walk along the beach, watching the calm sea and the slowly rising sun.
+In the morning, I took a stroll along the beach, watching the calm sea and the slowly rising sun.
 
 Back at the hotel, I enjoyed breakfast while taking in the ocean view—a rare moment of doing nothing but letting my mind drift.
 
@@ -936,33 +932,33 @@ First, I had a one-hour relaxing massage, then visited a local traditional pries
 
 He said:
 
-> "You've accumulated too much chaotic energy, thoughts, and ideas—your heart and mind are not aligned."
+> “You’ve accumulated too much chaotic energy, thoughts, and ideas—your heart and mind are not aligned.”
 
 Then he added:
 
-> "It's not that you chose Bali, nor that Bali chose you—it's that your soul belongs to Bali."
+> “It’s not that you chose Bali, nor that Bali chose you—it’s that your soul belongs to Bali.”
 
-I couldn't help but laugh out loud when I heard that 🤣🤣
+I couldn’t help but laugh out loud when I heard that 🤣🤣
 
-But thinking about it more, after visiting Bali so many times, it actually kind of makes sense.
+But thinking about it more, after coming to Bali so many times, it actually kind of makes sense.
 
 ***
 
-### 🏊 Lazy Afternoon at the Pool Bar
+### 🏊 A Lazy Afternoon at the Pool Bar
 
 Back at the hotel, I just lounged around at the pool bar, zoning out.
 
-I even chatted a bit with two handsome foreign guys next to me — about travel, about life.
+I even chatted a bit with two handsome foreign guys next to me—about travel, about life.
 
-No plans, no destination — this kind of laid-back feeling is what real vacation is all about.
+No plans, no destination—this laid-back feeling is what real vacation is all about.
 
 ***
 
 ### 🌄 Sunset and Planes from the Rooftop
 
-In the evening, I headed to the hotel rooftop to enjoy the welcome drinks included with my stay.
+In the evening, I headed to the hotel rooftop to enjoy the complimentary welcome drinks.
 
-Watching the sunset over Jimbaran while continuing to observe planes taking off and landing.
+While watching the sunset over Jimbaran, I kept an eye on the planes taking off and landing.
 
 ![頂樓看夕陽與飛機](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
 
@@ -983,7 +979,7 @@ Photo by Lai Jiaying
 
 ### 🍜 Birthday Dinner at Bakmi Akiu
 
-That evening, a local friend rode his scooter all the way from home to join me for a birthday dinner.
+That evening, a local friend rode his motorbike all the way from home to celebrate my birthday dinner with me.
 
 After chatting, I found out his round trip took over four hours.
 
@@ -993,9 +989,9 @@ I was truly touched when I heard that 🥹
 
 Photo by Lai Jiaying
 
-For dinner, we had Bakmi Akiu's meat noodles. The meal for two came to around over a hundred thousand Indonesian rupiah (about USD$6), simple yet full of warmth.
+For dinner, we had Bakmi Akiu's meat noodles. The meal for two came to around a hundred thousand Indonesian rupiah (about USD$6), simple yet full of warmth.
 
-After eating, we headed to Kopi Kenangan across the street to sit and chat, stretching out this rare reunion a little longer.
+After eating, we headed across to Kopi Kenangan to sit and chat, stretching out this rare reunion a little longer.
 
 ***
 
@@ -1007,9 +1003,9 @@ https://youtu.be/tAU6seMhMUA
 
 Photo by Lai Jiaying
 
-As I sat there in a daze, letting the sea breeze wash over me, fireworks suddenly burst into the night sky without warning.
+As I sat there in the sea breeze, lost in thought, fireworks suddenly burst into the night sky without warning.
 
-Watching each firework bloom and fade along the coastline, my mood grew a little complicated.
+Watching each bloom of fireworks appear and fade over the coastline, my mood turned a bit complicated.
 
 The trip is coming to an end.
 
@@ -1017,9 +1013,9 @@ And I know, the countdown to leaving Bali has begun again. 🌴✨
 
 ## Day 8｜Carrying All the Warmth, Heading Home 🤍
 
-Before I knew it, the last day of this birthday surprise trip had arrived.
+Before I knew it, the last day of this birthday blind-box trip had arrived.
 
-Compared to the hustle and exploration of the previous days, today felt more like a slow, gentle farewell.
+Compared to the hustle and exploration of the previous days, today felt more like a slow farewell.
 
 ![Day 8｜帶著滿滿的溫暖，準備回家](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
 
@@ -1027,19 +1023,19 @@ Photo by Lai Jiaying
 
 ***
 
-### 🍳 One Last Breakfast with an Ocean View
+### 🍳 One Last Breakfast with a Sea View
 
 I had breakfast with Sister Vicky this morning.
 
 We chatted about the incredible encounters over the past few days and the unexpected shifts in mindset during the journey.
 
-Some things don't have answers in the moment, but looking back, you always realize they appeared in your life for a reason.
+Some things don't have answers in the moment, but looking back, you always find they appeared in your life for a reason.
 
 ***
 
-### 🌅 One Last Glimpse of the Jimbaran Coastline
+### 🌅 One Last Glimpse of Jimbaran's Coastline
 
-After packing my bags, I made a point to go up to the hotel rooftop one more time.
+After packing up, I made a point to go up to the hotel rooftop one more time.
 
 Looking at the familiar coastline of Jimbaran, I suddenly felt a bit reluctant to leave.
 
@@ -1051,19 +1047,19 @@ Even before I've left, I'm already starting to miss it.
 
 ### ☕ A Cup of Coffee, a Warm Continuation
 
-After leaving the hotel, I headed to a café to meet up with [Candy, a Taiwanese friend](https://www.threads.com/@risingsunbali) who runs a surf school in Kuta.
+After leaving the hotel, I headed to a café to meet [Candy, a Taiwanese friend](https://www.threads.com/@risingsunbali) who runs a surf school in Kuta.
 
-I handed her the clothes I had specially brought from Taiwan.
+I handed her the clothes I specially brought from Taiwan.
 
-Seeing that these clothes will eventually turn into local support and help, I felt an indescribable sense of fulfillment.
+Seeing how these clothes could turn into local support and help in the future gave me an indescribable sense of fulfillment.
 
 ![一杯咖啡，一份溫暖的延續](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
 
 Photo by Lai Jiaying
 
-We drank coffee and chatted, without any particular plans.
+We sipped coffee and chatted, with no particular plans.
 
-But this kind of genuine human connection became the most beautiful ending to the trip.
+But this kind of genuine human connection turned out to be the most beautiful ending to the trip.
 
 ***
 
@@ -1071,11 +1067,11 @@ But this kind of genuine human connection became the most beautiful ending to th
 
 After arriving at the airport and checking in, I still sat by the window watching planes take off and land.
 
-Plane after plane slowly ascended into the sky.
+One by one, the planes slowly ascended into the sky.
 
-Plane after plane landed safely.
+One by one, they landed safely.
 
-I couldn't help but snap photos of them, silently saying to myself:
+I couldn't help snapping photos of them, silently saying to myself:
 
 **Safe landing.**
 **Safe flight.**
@@ -1092,16 +1088,16 @@ Over these 8 days, what I gained most wasn't the sights.
 
 It’s the people I met along the way.
 
-The snacks and drinks the driver’s mom stuffed into my hands; a friend willing to ride over four hours round trip just to share a bowl of birthday noodles with me; and that surprise birthday fireworks display that appeared out of nowhere on my balcony.
+The snacks and drinks the driver’s mom stuffed into my hands; a friend who willingly rode over four hours round trip just to share a bowl of birthday noodles with me; and that surprise birthday fireworks display that appeared out of nowhere on my balcony.
 
-Looking back now, I think I’ve finally begun to understand what the priest meant.
+Looking back now, I think I’ve finally begun to understand what the priest said.
 
 > It wasn’t me who chose Bali.
-> It’s the warmth of the people here that keeps bringing me back, again and again.
+> It’s the warmth of the people here that keeps bringing me back.
 
-I love Bali — not just for its ocean views, great food, or sunsets.
+I love Bali—not just for its ocean views, food, or sunsets.
 
-But because this island always lets me meet so many genuine, warm-hearted people.
+But because this island always lets me meet so many genuine and warm-hearted people.
 
 What travel leaves behind isn’t just photos and memories.
 

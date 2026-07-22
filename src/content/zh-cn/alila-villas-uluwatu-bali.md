@@ -3,7 +3,7 @@ slug: alila-villas-uluwatu-bali
 title: Alila Villas Uluwatu｜乌鲁瓦图悬崖无边泳池顶奢别墅 2026 - Go Bali Go
 description: >-
   世界十大无边泳池之一！Alila Villas Uluwatu
-  矗立于乌鲁瓦图悬崖顶端，以珊瑚石建筑与可持续设计闻名，明星御用婚礼胜地。解析入住细节、婚礼场地与 2026 最新评测，乌鲁瓦图顶奢住宿的终极指南。
+  矗立乌鲁瓦图悬崖顶端，以珊瑚石建筑与可持续设计闻名，明星御用婚礼胜地。解析入住细节、婚礼场地与 2026 最新评测，乌鲁瓦图顶奢住宿的终极指南。
 pubDate: 2025-10-19T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 category:
@@ -36,13 +36,13 @@ _srcHash: PENDING_RETRY_0cad991ffe9652f1f56fc4255a1c6818
 
 由新加坡顶尖建筑团队 **WOHA** 设计，2009年开业即横扫国际大奖，包括：
 
-🏆 **“全球最受瞩目度假村”**（Conde Nast Traveler）
+🏆 **「全球最受瞩目度假村」**（Conde Nast Traveler）
 
-🏆 **“亚洲最佳环保酒店”**（EarthCheck认证）
+🏆 **「亚洲最佳环保酒店」**（EarthCheck认证）
 
-🏆 **“世界十大无边泳池”**（Infinity Pool榜单）
+🏆 **「世界十大无边泳池」**（Infinity Pool榜单）
 
-这里更是 **贝克汉姆、安吉丽娜·朱莉** 等巨星低调度假的爱店，也是Instagram上爆红的 **“悬崖婚礼”** 首选地！
+这里更是 **贝克汉姆、安吉丽娜·朱莉** 等巨星低调度假的爱店，也是Instagram上爆红的 **「悬崖婚礼」** 首选地！
 
 ![關於Alila Uluwatu：得獎無數的建築奇蹟](https://images.gobaligo.id/vocus/vocus_a026a6668fd17837c1103d9e4a691334.jpg)
 

@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: zh-cn
-_srcHash: PENDING_RETRY_d9114e75300dde4f5b03952b7a935fc3
+_srcHash: d9114e75300dde4f5b03952b7a935fc3
 ---
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
 
@@ -85,53 +85,51 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 https://youtu.be/op78Dk8CjL4
 
-> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)”、“- 圣泉寺”、> 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)”、“- Penglipuran Village（可以租借传统服饰拍照）”、“戴妤珊提供”、> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)”、“- 午餐：Naughty Nuri's Ubud（猪肋排很有名）
-- 点心：Tukies cocount shop（椰子冰）
-- 晚餐：Nomad Restaurant（印尼传统料理）”、“## 第三天(Kintamani)：”、“- Paperhills（观赏巴杜尔/金塔玛尼火山）”、“戴妤珊提供”]} 注意：输入中第一项包含多个段落，但按数组元素处理，因此输出对应翻译。实际数组长度与输入相同。输入数组有9个元素，输出也有9个。但原输入中第一项有换行和多个部分，但作为单一字符串处理。输出中第一项为合并翻译。请确认格式正确。由于输入是数组，输出应为9个翻译。但示例中输出第一项包含多个句子，但作为单一字符串。为准确，按输入逐项翻译。输入第一项：`[> 
+> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)  
 
-- 聖泉寺
+- 圣泉寺
 
-> 🔱💦 烏布聖泉寺（Tirta Empul）峇里島著名聖水寺廟，以淨化儀式🙏 和神聖泉水💧聞名，能為信徒與遊客帶來祝福與好運✨！▶[Klook優惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
+> 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)  
 
-- Penglipuran Village（可以租借傳統服飾拍照）
+- Penglipuran Village（可以租借传统服饰拍照）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_1c6d81057d0a3ab1b62526027ca64d3b.jpg)
 
 戴妤珊提供
 
-> 這個景點的詳細介紹請看：[穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
+> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)  
 
-- 午餐：Naughty Nuri's Ubud（豬肋排很有名）
-- 點心：Tukies cocount shop（椰子冰）
-- 晚餐：Nomad Restaurant（印尼傳統料理）
+- 午餐：Naughty Nuri's Ubud（猪肋排很有名）
+- 点心：Tukies cocount shop（椰子冰）
+- 晚餐：Nomad Restaurant（印尼传统料理）
 
 ## 第三天(Kintamani)：
 
-- Paperhills（觀賞巴杜爾/金塔瑪尼火山）
+- Paperhills（观赏巴杜尔/金塔玛尼火山）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_52ad261fa00188ab35254b50c76214d7.jpg)
 
 戴妤珊提供
 
-【Klook优惠：
-巴杜尔/金塔马尼网红咖啡厅之旅（含四驱吉普车日出&摄影体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
+Klook优惠：
+> 巴杜尔/[金塔马尼网红咖啡厅之旅（含四驱吉普车日出＆摄影体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
 
-- 百沙基母廟
-- Lempuyang Temple（傳說中的天空之門. 不推薦，景點不如預期）
+- 百沙基母庙
+- Lempuyang Temple（传说中的天空之门. 不推荐，景点不如预期）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_8767b734062caf5be564105cd1f63416.jpg)
 
 戴妤珊提供
 
-- 晚餐：Sun Sun Warung（超級好吃！）
+- 晚餐：Sun Sun Warung（超级好吃！）
 
 ![第三天(Kintamani)：](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
 
 {{block:ubud}}
 
-## 第四天(Canggu/Kuta/Jimbaran)：
+## 第四天(坎古/库塔/金巴兰)：
 
-- 海神廟
+- 海神庙
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_a3f4feb525caaaadb0ab771aa994c1e5.png)
 
@@ -141,12 +139,12 @@ https://youtu.be/op78Dk8CjL4
 - Kuta Art Market
 - Rock Bar
 
-視頻由戴妤珊提供
+视频由戴妤珊提供
 
-- 按摩：The Calma Spa Bali - Jimbaran Beach（價格較高但值得，是我們行程中最棒的按摩店之一）
-- 按摩：MOKSHA SPA（庫塔區，腳部按摩和去角質都很舒適又實惠）
-- 午餐：Babi Guling Men Lari（烤乳豬很好吃）
-- 晚餐：Waroeng Kampoeng（當地人常去的熱炒店，非常地道）
+- 按摩：The Calma Spa Bali - Jimbaran Beach（价格较高但值得，是我们行程中最棒的按摩店之一）
+- 按摩：MOKSHA SPA（库塔区，脚部按摩和去角质都很舒适又实惠）
+- 午餐：Babi Guling Men Lari（烤乳猪很好吃）
+- 晚餐：Waroeng Kampoeng（当地人常去的热炒店，非常地道）
 
 ## 第五天（努沙佩尼达）：
 
@@ -205,7 +203,7 @@ Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 这次妤珊他们六天五夜的行程共住了三家住宿，详细的图文+room tour视频，可以看看妤珊在我们[脸书社团上的介绍](https://www.facebook.com/groups/baligo/permalink/1531159957431244/)。
 
-您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿你的行程喔！
 
 {{block:遊記}}
 

@@ -30,7 +30,7 @@ tags:
   - 巴厘岛自由行
   - BaliTravelTips
 update: 2026/05/22
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
 originalUrl: ''
 private: false
@@ -314,25 +314,16 @@ Marriott 旗下 2022 年开业的新酒店，直接建在 Beachwalk 购物中心
 
 ## Discovery Kartika Plaza Hotel ⭐⭐⭐⭐⭐
 
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788367767-80f103620f7336529abeb07b6d8bec71.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788368968-995_15022014180025486583.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788369956-740303134.jpg)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788370363-6662803001541d2b7501d29bafc74327.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788370821-b970d6670429bfbb679c923dd3ebf083.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788372415-c3d49701114ce5dec15826aa63bc3f11.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788372929-3c31e0e923fcb430b17ab52c6f0a9436.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788373365-4c8eb711c15ece36ed665814a0b5658c.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788373859-4d64b63548131ba0aefeddc35b0c70a1.webp)
-
-![Discovery Kartika Plaza Hotel](https://images.gobaligo.id/images/2026-04/1776788374405-8db28f2981ab52d8acba8f300e481358.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788509754-51c2be9d5517eeaa64f551a97539a57c.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510253-453dcc071b3471cd0cf6c66e52ceb871.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510940-1822_14061913230019924832.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511431-1822_16032911240041137651.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511922-456527f6043772e76232e9f988c7d8b0.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512452-28520209.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512915-32808129.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513364-adc270d6abf080349356fa2cf14703ff.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513968-ae423b2fff726de3ff615a9a42896724.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788514468-f293a0cd79882c9629dd3071c8c1cce5.jpg)
 
 8 公顷花园、550 米私人海滩，是整个库塔区域规模最压倒性的海滩度假村，家族旅游完全不怕没事做。
 
@@ -350,30 +341,6 @@ Marriott 旗下 2022 年开业的新酒店，直接建在 Beachwalk 购物中心
 
 翻译2
 
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788441372-642419996.jpg)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788441924-763319737.jpg)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788442603-b0d005df68b6f4ee5f30ff0b06160e06.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788443080-d8af20bc908aa9c848fe5abb3d205eff.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788443578-0e2a911992b24368db9998f07c98a2e6.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788444086-3eb60a514cdc4b58c33ddae4f0690d74.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788444501-3fe55fcc3472b08f78196ed35fe08a91.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788444925-5ef928a0ede937b1ce2355c4a17d13ad.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788445351-38a82f1b3a1112de53dc4f25c7daf309.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788445822-73c18513de23d61715092f0f7cb16e58.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788446283-48452b3d8eaa25c894b99a99a370e518.webp)
-
-![Holiday Inn Resort Baruna Bali](https://images.gobaligo.id/images/2026-04/1776788446755-851333ebf2aa67c92908d625ea2ee3f1.webp)
-
 翻译3
 
 翻译4
@@ -390,26 +357,6 @@ Marriott 旗下 2022 年开业的新酒店，直接建在 Beachwalk 购物中心
 
 翻译9
 
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788509754-51c2be9d5517eeaa64f551a97539a57c.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510253-453dcc071b3471cd0cf6c66e52ceb871.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510940-1822_14061913230019924832.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511431-1822_16032911240041137651.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511922-456527f6043772e76232e9f988c7d8b0.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512452-28520209.jpg)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512915-32808129.jpg)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513364-adc270d6abf080349356fa2cf14703ff.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513968-ae423b2fff726de3ff615a9a42896724.webp)
-
-![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788514468-f293a0cd79882c9629dd3071c8c1cce5.jpg)
-
 翻译10
 
 📍 **位置**：Jl. Pantai Kuta No. 1，直面库塔海滩，库塔艺术市场150米，是整条Jl. Pantai Kuta上最靠海滩的酒店之一。
@@ -423,7 +370,6 @@ Marriott 旗下 2022 年开业的新酒店，直接建在 Beachwalk 购物中心
 > Agoda评价8.5⭐  ｜ [空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1822) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1005488/grand-inna-kuta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/bg94oAJ8)
 
 ***
-
 ## Kuta Beach Heritage Hotel ⭐⭐⭐⭐
 
 ![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788557002-901fd9b712bd8243fb93b063c14f0cdb.webp)
