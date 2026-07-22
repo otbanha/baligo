@@ -5,6 +5,7 @@ import TopStrip from '../../../components/TopStrip.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import { getCollection } from 'astro:content';
+import { catUrlSlug } from '../../../lib/categoryConfig';
 
 export async function getStaticPaths() {
   // 為每個真實分類產生獨立 SSR 靜態頁面，讓爬蟲/AI 工具（NotebookLM、Gemini 等）
@@ -297,6 +298,15 @@ const top10Slugs = (config.featuredSlugs
 
 const canonicalUrl = `https://gobaligo.id/blog/category/${encodeURIComponent(cat)}/`;
 
+// 語言切換器用：各語言分類頁各自的網址路徑（en 為英文 slug，其餘沿用繁中分類值）
+const basePathMap: Record<string, string> = {
+  blog: `blog/category/${encodeURIComponent(cat)}`,
+  'zh-hk': `blog/category/${encodeURIComponent(cat)}`,
+  'zh-cn': `blog/category/${encodeURIComponent(cat)}`,
+  'en': `blog/category/${encodeURIComponent(catUrlSlug('en', cat))}`,
+  'id': `blog/category/${encodeURIComponent(cat)}`,
+};
+
 const itemListSchema = {
   "@context": "https://schema.org",
   "@type": "ItemList",
@@ -359,7 +369,7 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
   <link rel="alternate" hreflang="zh-TW" href={canonicalUrl} />
   <link rel="alternate" hreflang="zh-HK" href={`https://gobaligo.id/zh-hk/blog/category/${encodeURIComponent(cat)}/`} />
   <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/category/${encodeURIComponent(cat)}/`} />
-  <link rel="alternate" hreflang="en" href={`https://gobaligo.id/en/blog/category/${encodeURIComponent(cat)}/`} />
+  <link rel="alternate" hreflang="en" href={`https://gobaligo.id/en/blog/category/${encodeURIComponent(catUrlSlug('en', cat))}/`} />
   <link rel="alternate" hreflang="id" href={`https://gobaligo.id/id/blog/category/${encodeURIComponent(cat)}/`} />
   <meta property="og:title" content={config.title} />
   <meta property="og:description" content={config.ogDescription} />
@@ -371,7 +381,7 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 </head>
 <body>
-  <Header basePath={`blog/category/${encodeURIComponent(cat)}`} />
+  <Header basePathMap={basePathMap} />
   <TopStrip lang="zh-tw" />
 
   <div class="cat-page-layout">

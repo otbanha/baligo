@@ -26,7 +26,26 @@ export function lp(lang: Lang, path: string): string {
 
 // 分類頁 canonical（含結尾斜線、cat 編碼）
 export function categoryUrl(lang: Lang, cat: string): string {
-  return `https://gobaligo.id${lp(lang, `blog/category/${encodeURIComponent(cat)}/`)}`;
+  return `https://gobaligo.id${lp(lang, `blog/category/${encodeURIComponent(catUrlSlug(lang, cat))}/`)}`;
+}
+
+// 英文分類頁網址 slug——只有 en 語言使用全英文網址，其餘語言網址沿用繁中分類值。
+// key 為繁中分類值，需與 catLabel('en', ...) 對應的分類保持同步。
+const CAT_URL_SLUG_EN: Record<string, string> = {
+  '新手指南': 'beginners-guide',
+  '住宿推薦': 'accommodation',
+  '峇里島分區攻略': 'area-guide',
+  '簽證通關': 'visa-entry',
+  '叫車包車': 'transport',
+  '家庭親子': 'family-travel',
+  '遊記分享': 'travel-stories',
+  '美食景點活動': 'food-activities',
+};
+
+// 分類頁網址用的 slug（依語言）；en 用英文 slug，其餘語言沿用繁中分類值原文。
+export function catUrlSlug(lang: Lang, cat: string): string {
+  if (lang === 'en') return CAT_URL_SLUG_EN[cat] ?? cat;
+  return cat;
 }
 
 // 各語言分類顯示名稱（key 為繁中分類值）

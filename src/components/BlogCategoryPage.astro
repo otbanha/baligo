@@ -8,7 +8,7 @@ import Footer from './Footer.astro';
 import ChatBot from './ChatBot.astro';
 import { getCollection } from 'astro:content';
 import {
-  type Lang, LANG_META, HREFLANG_LANGS, lp, categoryUrl, catLabel, UI, getCategoryConfig,
+  type Lang, LANG_META, HREFLANG_LANGS, lp, categoryUrl, catLabel, catUrlSlug, UI, getCategoryConfig,
 } from '../lib/categoryConfig';
 
 interface Props { lang: Lang; cat: string; }
@@ -132,6 +132,15 @@ const hreflangs = [
   { hreflang: 'x-default', href: categoryUrl('zh-tw', cat) },
   ...HREFLANG_LANGS.map(l => ({ hreflang: LANG_META[l].hreflang, href: categoryUrl(l, cat) })),
 ];
+
+// 語言切換器用：各語言分類頁各自的網址路徑（en 為英文 slug，其餘沿用繁中分類值）
+const basePathMap: Record<string, string> = {
+  blog: `blog/category/${encodeURIComponent(catUrlSlug('zh-tw', cat))}`,
+  'zh-hk': `blog/category/${encodeURIComponent(catUrlSlug('zh-hk', cat))}`,
+  'zh-cn': `blog/category/${encodeURIComponent(catUrlSlug('zh-cn', cat))}`,
+  'en': `blog/category/${encodeURIComponent(catUrlSlug('en', cat))}`,
+  'id': `blog/category/${encodeURIComponent(catUrlSlug('id', cat))}`,
+};
 ---
 
 <!doctype html>
@@ -148,7 +157,7 @@ const hreflangs = [
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 </head>
 <body>
-  <Header lang={lang} basePath={`blog/category/${encodeURIComponent(cat)}`} />
+  <Header lang={lang} basePathMap={basePathMap} />
   <TopStrip lang={lang} />
 
   <div class="cat-page-layout">

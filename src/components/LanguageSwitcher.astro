@@ -3,9 +3,10 @@ interface Props {
   currentLang?: string; // 'blog'(zh-tw) | 'zh-cn' | 'zh-hk' | 'en'
   slug?: string;        // 文章 slug，用於跨語言連結
   basePath?: string;    // 獨立頁面路徑，如 'bali-budget-calculator'
+  basePathMap?: Record<string, string>; // 各語言各自不同路徑時使用（如分類頁英文 slug），優先於 basePath
 }
 
-const { currentLang = 'blog', slug = '', basePath } = Astro.props;
+const { currentLang = 'blog', slug = '', basePath, basePathMap } = Astro.props;
 
 const LANGS = [
   { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
@@ -15,10 +16,11 @@ const LANGS = [
   { code: 'id',    label: 'ID',   title: 'Bahasa Indonesia' },
 ];
 
-function buildUrl(langCode: string, slug: string, basePath?: string) {
-  if (basePath) {
+function buildUrl(langCode: string, slug: string, basePath?: string, basePathMap?: Record<string, string>) {
+  const resolvedBasePath = basePathMap?.[langCode] ?? basePath;
+  if (resolvedBasePath) {
     // 獨立頁面（非 blog）：/basePath/ 或 /lang/basePath/
-    return langCode === 'blog' ? `/${basePath}/` : `/${langCode}/${basePath}/`;
+    return langCode === 'blog' ? `/${resolvedBasePath}/` : `/${langCode}/${resolvedBasePath}/`;
   }
   if (langCode === 'blog') {
     // ?lang=tw 告訴首頁腳本：這是使用者主動選擇，不要再自動偵測跳轉
@@ -39,7 +41,7 @@ function buildUrl(langCode: string, slug: string, basePath?: string) {
       <li role="option" aria-selected={lang.code === currentLang}>
         {lang.code === currentLang
           ? <span class="lang-item lang-item--active" title={lang.title}>{lang.label}</span>
-          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
+          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath, basePathMap)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
               {lang.label}
             </a>
         }
