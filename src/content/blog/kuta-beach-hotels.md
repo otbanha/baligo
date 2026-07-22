@@ -35,6 +35,7 @@ private: false
 shuffle_h2: true
 embeds: []
 ---
+Update: 2026/07/22
 
 在峇里島，庫塔（Kuta）幾乎是所有旅程的起點。
 
@@ -717,6 +718,8 @@ Marriott Autograph Collection 旗下五星，位於 Legian 南端海灘正對面
 如果預算有限但又不想放棄設計感，Aloft Beachwalk 和 MAMAKA by Ovolo 是這份名單裡 CP 值最亮眼的兩間，一間新、一間潮，各有各的吸引力。
 
 **訂房建議透過 Agoda 比價**，有時候同一間飯店不同日期差很多，旺季（7-8 月、12 月）至少提前 2 個月預訂，尤其 Sheraton 和 Hard Rock 這種大飯店，好房型和好視野的房間跑得非常快。
+
+想找市區型的庫塔飯店，可參考 [庫塔住宿推薦：12 間精選飯店懶人包](/blog/best-kuta-hotels-list/)；想先了解庫塔這一區適不適合你，可參考 [峇里島庫塔區優缺點分析](/blog/kuta-bali-accommodation-pros-cons/)。
 
 {{block:kuta}}
 

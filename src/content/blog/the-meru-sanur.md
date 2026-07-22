@@ -30,6 +30,7 @@ agoda_star_rating: 5
 latitude: -8.678433418273926
 longitude: 115.2635269165039
 ---
+Update: 2026/07/22
 
 如果你對峇里島的印象只停留在庫塔的喧囂或水明漾的夜生活，那 The Meru Sanur 可能會讓你重新定義「峇里島度假」這件事。
 
@@ -146,5 +147,7 @@ https://www.instagram.com/p/DW8KozagCUI/?utm_source=ig_web_button_share_sheet
 
 > 評分：Tripadvisor 高度推薦 | Agoda 住客評分 ⭐ 9.1（2025 旅人鑑賞優勝）
 > [點我在 Agoda 查看 The Meru Sanur 最新房價與空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-116694051/the-meru-sanur/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Pb1nQOIo)
+
+想看更多沙努爾住宿選擇，可參考完整的 [沙努爾住宿推薦：20+ Sanur 度假村與 Villa 全攻略](/blog/sanur-luxury-budget-resorts/)。
 
 {{block:sanur}}

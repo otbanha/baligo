@@ -25,6 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 ---
+Update: 2026/07/22
 
 ![【水明漾villa推薦】The Club Villas Seminyak：隱身水明漾美食街巷內的傳統泳池別墅、全家出遊高](https://images.gobaligo.id/images/2026-04/1776265152008-afe150a70ee154105594173955740429.webp)
 
@@ -136,5 +137,7 @@ The Club Villas Seminyak 是一個走傳統巴里島風格的私人 Villa 物業
 
 > 評分：Agoda 整體 8.2 ⭐ | 位置 9.1 | Tripadvisor 4.3/5（886則評價）
 > 👉 點此查看最新房價與空房:[  Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2971764) [Booking](https://booking.tpm.li/YbK6TGpz)｜[Trip](https://hk.trip.com/hotels/bali-hotel-detail-685527/the-club-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+
+想看更多水明漾 Villa 選擇，可參考完整的 [水明漾 Villa 推薦：20+ 極致私密泳池別墅](/blog/seminyak-private-villas-guide/)。
 
 {{block:smk}}

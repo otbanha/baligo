@@ -30,6 +30,7 @@ agoda_star_rating: 4
 latitude: -8.68421363830566
 longitude: 115.161010742188
 ---
+Update: 2026/07/22
 
 ![IZE Seminyak｜水明漾高 CP 值精品飯店深度評測 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
 
@@ -165,5 +166,7 @@ IZE Seminyak 共有四個主要房型，每種定位清晰：
 
 > 評分：Tripadvisor 4.0/5（2,274則評價）⭐ | Agoda 綜合評分 8.7 / 位置 9.3
 > 👉 點此查看最新房價與空房：[Agoda ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808) [Booking](https://booking.tpm.li/uGVpUopY)｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-982037/ize-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+
+想看更多水明漾住宿選擇，可參考完整的 [水明漾住宿推薦：精選 10+ 濱海一線精品飯店](/blog/seminyak-beach-resorts-guide/)。
 
 {{block:smk}}

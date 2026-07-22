@@ -21,6 +21,7 @@ private: false
 shuffle_h2: false
 embeds: []
 ---
+Update: 2026/07/22
 
 > 改編自團友 [Cheng Yi Lin 遊記](https://www.facebook.com/share/p/1cFj662JSR/)
 
@@ -112,7 +113,9 @@ Check-in後我給了兩萬印尼盾的小費，真心覺得這是整趟旅程最
 
 住宿詳細介紹：
 
-> [【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫](/blog/le-cliff-bali/)
+> [【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫](/blog/le-cliff-bali-uluwatu/)
+
+想看烏魯瓦圖其他住宿選擇，可參考完整的 [烏魯瓦圖住宿推薦 2026：15 間無敵海景 Villa 與渡假村完整攻略](/blog/uluwatu-bali-villas-resorts-guide/)。
 
 {{block:遊記}}
 
