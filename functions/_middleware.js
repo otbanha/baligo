@@ -159,10 +159,13 @@ export async function onRequest({ request, next }) {
     return next();
   }
 
+  // ?lang=tw：使用者主動選擇繁中（見 blog/index.astro 同款邏輯），略過 cookie／Accept-Language 導向
+  const forceZhTw = url.searchParams.get('lang') === 'tw';
+
   // 已有語言 cookie → 尊重使用者選擇
   const cookies = request.headers.get('cookie') ?? '';
   const cookieMatch = cookies.match(new RegExp(`${LANG_COOKIE}=([^;]+)`));
-  if (cookieMatch) {
+  if (!forceZhTw && cookieMatch) {
     const savedLang = cookieMatch[1];
     // 對 /blog/ 列表頁：非繁中使用者導向對應語系列表頁
     if (savedLang !== 'zh-tw' && (pathname === '/blog/' || pathname === '/blog')) {
@@ -175,20 +178,22 @@ export async function onRequest({ request, next }) {
   }
 
   // 第一次造訪：根據 Accept-Language 自動跳轉
-  const acceptLang = request.headers.get('accept-language') ?? '';
-  const detectedLang = detectLang(acceptLang);
+  if (!forceZhTw) {
+    const acceptLang = request.headers.get('accept-language') ?? '';
+    const detectedLang = detectLang(acceptLang);
 
-  const redirectTo = buildRedirectUrl(detectedLang, pathname);
+    const redirectTo = buildRedirectUrl(detectedLang, pathname);
 
-  if (redirectTo) {
-    return new Response(null, {
-      status: 302,
-      headers: {
-        'Location': redirectTo,
-        'Cache-Control': 'no-store',
-        'Set-Cookie': `${LANG_COOKIE}=${detectedLang}; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`,
-      },
-    });
+    if (redirectTo) {
+      return new Response(null, {
+        status: 302,
+        headers: {
+          'Location': redirectTo,
+          'Cache-Control': 'no-store',
+          'Set-Cookie': `${LANG_COOKIE}=${detectedLang}; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`,
+        },
+      });
+    }
   }
 
   // zh-tw 路徑：設定 cookie 並放行
