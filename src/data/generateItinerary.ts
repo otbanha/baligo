@@ -101,7 +101,7 @@ function souvenirSpot(region: RegionId): Spot {
 }
 
 const REGION_LABEL: Record<RegionId, string> = {
-  ubud: '烏布',
+  ubud: '烏布/金塔瑪尼',
   kuta: '庫塔',
   seminyak: '水明漾',
   canggu: '長谷',
