@@ -1324,7 +1324,22 @@ const ITIN = (function initItinerary() {
     return groups;
   }
 
-  function applyBaseLimit(ordered, maxBases, days, weight) {
+  // 同聚落分組的「保序」版本：只合併在給定順序中緊鄰的同聚落區域，不會把相隔很遠的
+  // 同聚落區域強行拉到一起。用於使用者已明確指定造訪順序時，避免破壞使用者的順序意圖。
+  function groupByClusterOrdered(regions) {
+    const groups = [];
+    for (const r of regions) {
+      const lastGroup = groups[groups.length - 1];
+      if (lastGroup && sameCluster(lastGroup[0], r)) {
+        lastGroup.push(r);
+      } else {
+        groups.push([r]);
+      }
+    }
+    return groups;
+  }
+
+  function applyBaseLimit(ordered, maxBases, days, weight, preserveOrder) {
     const mainland = ordered.filter(r => !OFFSHORE.has(r));
     const offshore = ordered.filter(r => OFFSHORE.has(r));
     const numDays = DAYS_MAP[days];
@@ -1339,7 +1354,7 @@ const ITIN = (function initItinerary() {
     // 本島住宿區最多可保留的「區域數」= 總天數 - 跳島佔用天數（每區至少住一晚，
     // 否則總天數會超出使用者選擇的天數）。以聚落為單位捨去，避免拆散同聚落的區域。
     const maxMainlandRegions = Math.max(1, numDays - offshoreDays);
-    const clusters = groupByCluster(mainland);
+    const clusters = preserveOrder ? groupByClusterOrdered(mainland) : groupByCluster(mainland);
     const keptClusters = [], droppedClusters = [];
     let regionCount = 0;
     for (const cluster of clusters) {
@@ -1374,6 +1389,14 @@ const ITIN = (function initItinerary() {
     const set = new Set(regions);
     let ord = ROUTE_PRIORITY.filter(r => set.has(r));
     for (const r of regions) if (!ord.includes(r)) ord.push(r);
+    return ensureAirportNearLast(ord);
+  }
+
+  // 只做安全微調：確保最後一個住宿區離機場近（其餘順序完全保留）。
+  // 用於使用者已明確指定造訪順序（regionOrder）的情況，跳過 ROUTE_PRIORITY 智慧路線公式。
+  function ensureAirportNearLast(regions) {
+    const set = new Set(regions);
+    let ord = [...regions];
     const last = ord[ord.length - 1];
     if (ord.length > 1 && !AIRPORT_NEAR.has(last)) {
       let moved = false;
@@ -1414,13 +1437,25 @@ const ITIN = (function initItinerary() {
     input.spotIds.forEach(id => { const s = SPOT_BY_ID[id]; if (s) selected.add(s.region); });
     const weight = new Map();
     input.spotIds.forEach(id => { const s = SPOT_BY_ID[id]; if (s) weight.set(s.region, (weight.get(s.region)||0)+1); });
-    let cand = selected.size === 0 ? defaultRegions(input.days, input.companion) : [...selected];
-    const ordered = [...cand].sort((a, b) => {
+
+    // 使用者明確指定的造訪順序（例如從草稿逐日內容依提及順序解析出來）；
+    // 有給時整段沿用，順序的優先權交還給使用者，不再套用「依景點數權重排序」
+    const explicitOrder = (input.regionOrder || []).filter(r => selected.has(r));
+    const hasExplicitOrder = explicitOrder.length > 0;
+
+    let cand;
+    if (hasExplicitOrder) {
+      cand = [...explicitOrder, ...[...selected].filter(r => !explicitOrder.includes(r))];
+    } else {
+      cand = selected.size === 0 ? defaultRegions(input.days, input.companion) : [...selected];
+    }
+
+    const ordered = hasExplicitOrder ? cand : [...cand].sort((a, b) => {
       const ao = OFFSHORE.has(a)?1:0, bo = OFFSHORE.has(b)?1:0;
       if (ao !== bo) return ao - bo;
       return (weight.get(b)||0) - (weight.get(a)||0);
     });
-    const { kept, dropped, advisory } = applyBaseLimit(ordered, maxBases, input.days, weight);
+    const { kept, dropped, advisory } = applyBaseLimit(ordered, maxBases, input.days, weight, hasExplicitOrder);
 
     const offshoreKept = kept.filter(r => OFFSHORE.has(r));
     let mainlandKept = kept.filter(r => !OFFSHORE.has(r));
@@ -1430,8 +1465,9 @@ const ITIN = (function initItinerary() {
       mainlandKept = [...mainlandKept, 'sanur'];
     }
 
-    // 依機場友善的路線順序排列（離開日要落在離機場近的區，同聚落的區保持相鄰）
-    let orderedMainland = routeOrder(mainlandKept);
+    // 有明確順序時只做「最後一天要離機場近」的安全微調，保留使用者指定的順序；
+    // 否則依機場友善的路線順序排列（離開日要落在離機場近的區，同聚落的區保持相鄰）
+    let orderedMainland = hasExplicitOrder ? ensureAirportNearLast(mainlandKept) : routeOrder(mainlandKept);
 
     // 若沙努爾／努沙杜瓦被排在本島行程最後一位，且還有其他離機場近的區可以收尾，
     // 與該區對調，讓跳島能安排在沙努爾／努沙杜瓦的住宿期間（而非行程最後一天）
@@ -1644,6 +1680,9 @@ const ITIN = (function initItinerary() {
 
   function generate(input) {
     const numDays = DAYS_MAP[input.days];
+    // 使用者明確指定造訪順序時，離開日允許真的入住最後一個指定的住宿區（見下方 effectiveRegion），
+    // 不套用「最後一天只剩 1 晚就直接併回前一區」的預設安全簡化（那是給沒有明確意圖的自動排序用的）
+    const hasExplicitOrder = !!(input.regionOrder && input.regionOrder.length > 0);
     const { baseRegions, dropped, advisory } = planBaseRegions(input);
     // 9 天以上且有選離島：建議該離島住一晚（2 天），否則維持整天跳島來回（1 天）
     const offshoreNights = input.days === '9' ? 2 : 1;
@@ -1666,8 +1705,9 @@ const ITIN = (function initItinerary() {
         const changed = willChange && !isLastDayOverall;
         // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區；
         // 但若前一天已經是「換區入住」的 isTransition（已經入住這個新住宿區了），
-        // 就不應該再退回前一個住宿區
-        const effectiveRegion = willChange && isLastDayOverall && !prevWasTransition ? prev : region;
+        // 就不應該再退回前一個住宿區。使用者明確指定順序時例外：最後一站是使用者自己選的
+        // （例如回程前想在機場附近住一晚），就讓它真的入住，不要默默併回前一區
+        const effectiveRegion = willChange && isLastDayOverall && !prevWasTransition && !hasExplicitOrder ? prev : region;
         // 換區當天下午即入住下一個住宿區，因此最後一晚的下午/晚上行程改排在下一區
         const isTransition = hasRegionChangeAfter && d === stay - 1 && !isArr && !willInjectOffshoreAfter && stay > 1;
         const day = { dayNumber: dayNum, region: effectiveRegion, slots: [] };
@@ -1701,6 +1741,13 @@ const ITIN = (function initItinerary() {
           day.checkInRegion = region;
           day.checkInAfterSlots = morningSlots.length;
         } else {
+          // 明確順序下的離開日換區（見上方 effectiveRegion）：不走完整的換區排法，
+          // 但仍標註「今天從 A 移動到 B」，讓使用者知道這天有交通安排
+          if (willChange && isLastDayOverall && hasExplicitOrder) {
+            day.isTravelDay = true;
+            day.travelFrom = prev;
+            day.travelNote = travelNote(prev, effectiveRegion);
+          }
           const cands = candidateSpots(effectiveRegion, input, used, isArr);
           const slots = fillSlots(cands, isArr ? 2 : cap, isArr);
           slots.forEach(s => used.add(s.spot.id));
@@ -2161,7 +2208,7 @@ const REGIONS = {
   east: {
     name: 'East Bali', emoji: '⛩️',
     interestMatch: ['culture','nature','photo','volcano'],
-    keywords: ['天空之門','天空之门','東部','东部','east bali','恆河','恒河','阿貢','阿贡','kintamani','金塔馬尼','金塔玛尼'],
+    keywords: ['天空之門','天空之门','東部','东部','east bali','恆河','恒河','阿貢','阿贡','kintamani','金塔馬尼','金塔玛尼','batur','巴杜爾','巴杜尔','巴度爾','巴度尔'],
     guide: { title: '【2026 峇里島東部攻略】天空之門、恆河聖泉、烏戎水宮', url: '/blog/bali-east-tour-guide/', tag: '分區攻略' },
     spots: [
       { title: '峇里島天空之門 Lempuyang Temple 攻略（不用排隊）', url: '/blog/lempuyang-temple-gate-of-heaven/', tag: '必拍' },
@@ -3344,19 +3391,29 @@ document.getElementById('btn-edit').addEventListener('click', () => {
 function analyzeItinerary(text) {
   if (!text) return { mentionedAreas: [], emptyDays: [] };
   const emptyKws = ['???','待定','tbd','空白','未定','不知道','唔知','還沒想','未排','no plan'];
-  const found = new Set();
+  // 記錄每個區域第一次在草稿中出現的位置（跨全文字元索引），用來還原使用者實際下筆的造訪順序，
+  // 而不是照 REGIONS 物件的鍵值宣告順序（後者跟使用者意圖無關）
+  const firstIndex = new Map();
   const emptyDays = [];
+  let offset = 0;
   text.split('\n').forEach(line => {
     const lo = line.toLowerCase();
     for (const [key, reg] of Object.entries(REGIONS)) {
-      if (reg.keywords.some(kw => lo.includes(kw.toLowerCase()))) found.add(key);
+      for (const kw of reg.keywords) {
+        const idx = lo.indexOf(kw.toLowerCase());
+        if (idx === -1) continue;
+        const globalIdx = offset + idx;
+        if (!firstIndex.has(key) || globalIdx < firstIndex.get(key)) firstIndex.set(key, globalIdx);
+      }
     }
     const dm = line.match(/[Dd](\d+)|第\s*(\d+)\s*[天日]|[Dd]ay\s*(\d+)/);
     if (dm && emptyKws.some(kw => lo.includes(kw.toLowerCase()))) {
       emptyDays.push(LS.emptyDayPre + (dm[1]??dm[2]??dm[3]) + LS.emptyDaySuf);
     }
+    offset += line.length + 1; // +1 還原 split('\n') 拿掉的換行字元
   });
-  return { mentionedAreas: [...found], emptyDays };
+  const mentionedAreas = [...firstIndex.entries()].sort((a, b) => a[1] - b[1]).map(([key]) => key);
+  return { mentionedAreas, emptyDays };
 }
 
 // ── Recommendation Engine ─────────────────────────────────────────────
@@ -3484,15 +3541,23 @@ function buildDayByDay() {
   // 把 UI state 映射成 ItineraryInput
   const companion = ITIN.UI_COMPANION[state.companion] || 'friends';
   const days = state.days || '5';
-  const regions = (state.areas || [])
+  const chipRegions = (state.areas || [])
     .map(a => ITIN.UI_REGION_TO_ID[a])
     .filter(Boolean);
   // state.allSpots 內含 chip 的 data-val；generate() 內部會忽略未知 id
   const spotIds = state.allSpots || [];
 
+  // 若使用者有貼草稿且明確提到 2 個以上不同區域，視為「明確造訪順序」，
+  // 交給 generate() 依此順序排（只做安全微調），不再套用預設智慧路線公式
+  const mentionedIds = analyzeItinerary(state.itinerary).mentionedAreas
+    .map(a => ITIN.UI_REGION_TO_ID[a])
+    .filter(Boolean);
+  const regions = [...new Set([...chipRegions, ...mentionedIds])];
+  const regionOrder = mentionedIds.length >= 2 ? mentionedIds : undefined;
+
   let result;
   try {
-    result = ITIN.generate({ companion, days, regions, spotIds });
+    result = ITIN.generate({ companion, days, regions, spotIds, regionOrder });
   } catch (e) {
     console.error('[trip-planner] day-by-day generate failed', e);
     host.innerHTML = '';

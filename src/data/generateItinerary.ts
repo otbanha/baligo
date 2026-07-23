@@ -25,6 +25,12 @@ export interface ItineraryInput {
   days: DaysOption;
   regions: RegionId[];
   spotIds: string[];
+  /**
+   * 使用者明確指定的造訪順序（例如從草稿逐日內容依提及順序解析出來）。
+   * 有給時，住宿區會照這個順序排（只做「最後一天要離機場近」的安全微調），
+   * 不再套用預設的 ROUTE_PRIORITY 智慧路線公式。
+   */
+  regionOrder?: RegionId[];
 }
 
 export interface ItineraryDay {
@@ -179,18 +185,27 @@ function planBaseRegions(input: ItineraryInput): {
     if (sp) spotWeight.set(sp.region, (spotWeight.get(sp.region) || 0) + 1);
   }
 
+  // 使用者明確指定的造訪順序（例如從草稿逐日內容解析出來）；有給時整段沿用，
+  // 不再套用「依景點數權重排序」，順序的優先權交還給使用者
+  const explicitOrder = (input.regionOrder ?? []).filter((r) => selected.has(r));
+  const hasExplicitOrder = explicitOrder.length > 0;
+
   let candidateRegions: RegionId[];
-  if (selected.size === 0) {
+  if (hasExplicitOrder) {
+    // 明確順序在前，其餘有選但草稿沒提到的區域接在後面
+    candidateRegions = [...explicitOrder, ...[...selected].filter((r) => !explicitOrder.includes(r))];
+  } else if (selected.size === 0) {
     candidateRegions = defaultRegions(input.days);
   } else {
     candidateRegions = [...selected];
   }
 
-  // 排序：依使用者選景點權重高→低，offshore 排後面
-  const ordered = orderBases(candidateRegions, spotWeight);
+  // 排序：有明確順序時原樣保留（僅 offshore 仍靠 applyBaseLimit/後續邏輯處理），
+  // 否則依使用者選景點權重高→低排序，offshore 排後面
+  const ordered = hasExplicitOrder ? candidateRegions : orderBases(candidateRegions, spotWeight);
 
   // 套用住宿區數量上限：本島區全部保留，超出建議數量者列為 advisory（僅提醒）
-  const { kept, dropped, advisory } = applyBaseLimit(ordered, maxBases, input.days, spotWeight);
+  const { kept, dropped, advisory } = applyBaseLimit(ordered, maxBases, input.days, spotWeight, hasExplicitOrder);
 
   const offshoreKept = kept.filter((r) => OFFSHORE.has(r));
   let mainlandKept = kept.filter((r) => !OFFSHORE.has(r));
@@ -200,8 +215,9 @@ function planBaseRegions(input: ItineraryInput): {
     mainlandKept = [...mainlandKept, 'sanur'];
   }
 
-  // 依機場友善的路線順序排列（離開日要落在離機場近的區，同聚落的區保持相鄰）
-  let orderedMainland = routeOrder(mainlandKept);
+  // 有明確順序時只做「最後一天要離機場近」的安全微調，保留使用者指定的順序；
+  // 否則依機場友善的路線順序排列（離開日要落在離機場近的區，同聚落的區保持相鄰）
+  let orderedMainland = hasExplicitOrder ? ensureAirportNearLast(mainlandKept) : routeOrder(mainlandKept);
 
   // 若沙努爾／努沙杜瓦被排在本島行程最後一位，且還有其他離機場近的區可以收尾，
   // 與該區對調，讓跳島能安排在沙努爾／努沙杜瓦的住宿期間（而非行程最後一天）
@@ -261,6 +277,24 @@ function groupByCluster(regions: RegionId[]): RegionId[][] {
   return groups;
 }
 
+/**
+ * 同聚落分組的「保序」版本：只合併在給定順序中緊鄰的同聚落區域，
+ * 不會像 groupByCluster() 把相隔很遠的同聚落區域強行拉到一起。
+ * 用於使用者已明確指定造訪順序（regionOrder）時，避免破壞使用者的順序意圖。
+ */
+function groupByClusterOrdered(regions: RegionId[]): RegionId[][] {
+  const groups: RegionId[][] = [];
+  for (const r of regions) {
+    const lastGroup = groups[groups.length - 1];
+    if (lastGroup && sameCluster(lastGroup[0], r)) {
+      lastGroup.push(r);
+    } else {
+      groups.push([r]);
+    }
+  }
+  return groups;
+}
+
 /** 排序住宿基地：本島權重高者優先，offshore 殿後 */
 function orderBases(regions: RegionId[], spotWeight: Map<RegionId, number>): RegionId[] {
   return [...regions].sort((a, b) => {
@@ -282,6 +316,7 @@ function applyBaseLimit(
   maxBases: number,
   days: DaysOption,
   spotWeight: Map<RegionId, number>,
+  preserveOrder = false,
 ): { kept: RegionId[]; dropped: RegionId[]; advisory: RegionId[] } {
   const mainland = ordered.filter((r) => !OFFSHORE.has(r));
   const offshore = ordered.filter((r) => OFFSHORE.has(r));
@@ -305,7 +340,7 @@ function applyBaseLimit(
   // 本島住宿區最多可保留的「區域數」= 總天數 - 跳島佔用天數（每區至少住一晚，
   // 否則總天數會超出使用者選擇的天數）。以聚落為單位捨去，避免拆散同聚落的區域。
   const maxMainlandRegions = Math.max(1, numDays - offshoreDays);
-  const clusters = groupByCluster(mainland);
+  const clusters = preserveOrder ? groupByClusterOrdered(mainland) : groupByCluster(mainland);
   const keptClusters: RegionId[][] = [];
   const droppedClusters: RegionId[][] = [];
   let regionCount = 0;
@@ -356,6 +391,16 @@ function routeOrder(regions: RegionId[]): RegionId[] {
   let ordered = ROUTE_PRIORITY.filter((r) => inSet.has(r));
   // 補上不在 ROUTE_PRIORITY 的（理論上不會發生）
   for (const r of regions) if (!ordered.includes(r)) ordered.push(r);
+  return ensureAirportNearLast(ordered);
+}
+
+/**
+ * 只做安全微調：確保最後一個住宿區離機場近（其餘順序完全保留）。
+ * 用於使用者已明確指定造訪順序（regionOrder）的情況，跳過 ROUTE_PRIORITY 智慧路線公式。
+ */
+function ensureAirportNearLast(regions: RegionId[]): RegionId[] {
+  const inSet = new Set(regions);
+  let ordered = [...regions];
 
   // 確保最後一個住宿區離機場近；若不是，把整個聚落（保持相鄰）搬到最後
   const last = ordered[ordered.length - 1];
@@ -711,6 +756,9 @@ function buildTradeoffNote(
 
 export function generateItinerary(input: ItineraryInput): ItineraryResult {
   const numDays = DAYS_MAP[input.days];
+  // 使用者明確指定造訪順序時，離開日允許真的入住最後一個指定的住宿區（見下方 effectiveRegion），
+  // 不套用「最後一天只剩 1 晚就直接併回前一區」的預設安全簡化（那是給沒有明確意圖的自動排序用的）
+  const hasExplicitOrder = !!(input.regionOrder && input.regionOrder.length > 0);
   const { baseRegions, dropped, advisory } = planBaseRegions(input);
   // 9 天以上且有選離島：建議該離島住一晚（2 天），否則維持整天跳島來回（1 天）
   const offshoreNights = input.days === '9' ? 2 : 1;
@@ -746,9 +794,12 @@ export function generateItinerary(input: ItineraryInput): ItineraryResult {
       const changedRegion = willChangeRegion && !isLastDayOverall;
       // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區；
       // 但若前一天已經是「換區入住」的 isTransitionDay（已經入住這個新住宿區了），
-      // 就不應該再退回前一個住宿區
+      // 就不應該再退回前一個住宿區。使用者明確指定順序時例外：最後一站是使用者自己選的
+      // （例如回程前想在機場附近住一晚），就讓它真的入住，不要默默併回前一區
       const effectiveRegion =
-        willChangeRegion && isLastDayOverall && !prevWasTransitionDay ? prevRegion! : region;
+        willChangeRegion && isLastDayOverall && !prevWasTransitionDay && !hasExplicitOrder
+          ? prevRegion!
+          : region;
       // 換區當天下午即入住下一個住宿區，因此最後一晚的下午/晚上行程改排在下一區
       const isTransitionDay =
         hasRegionChangeAfter && d === stay - 1 && !isArrivalDay && !willInjectOffshoreAfter && stay > 1;
@@ -809,6 +860,13 @@ export function generateItinerary(input: ItineraryInput): ItineraryResult {
         day.checkInRegion = region;
         day.checkInAfterSlots = morningSlots.length;
       } else {
+        // 明確順序下的離開日換區（見上方 effectiveRegion）：不走完整的換區排法，
+        // 但仍標註「今天從 A 移動到 B」，讓使用者知道這天有交通安排
+        if (willChangeRegion && isLastDayOverall && hasExplicitOrder) {
+          day.isTravelDay = true;
+          day.travelFrom = prevRegion!;
+          day.travelNote = buildTravelNote(prevRegion!, effectiveRegion);
+        }
         const candidates = candidateSpotsForRegion(effectiveRegion, input, usedSpotIds, isArrivalDay);
         const slots = fillDaySlots(candidates, isArrivalDay ? 2 : cap, {
           arrivalOnly: isArrivalDay,
