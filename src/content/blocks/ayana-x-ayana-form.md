@@ -1,5 +1,5 @@
 ---
-title: Ayana X Ayana form
+title: Ayana-X-Ayana-form
 type: normal
 randomCount: 5
 ---
