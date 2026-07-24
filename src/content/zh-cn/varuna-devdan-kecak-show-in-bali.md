@@ -5,6 +5,7 @@ description: >-
   点亮诸神之岛的魔幻夜晚！2026 巴厘岛四大必看神秀终极全攻略。一文详解：全印尼首创 Varuna 顶级水下魔幻大秀、惊险高空特技 Devdan
   舞台剧，以及乌鲁瓦图断崖 Kecak 百人传统火舞, 精彩华丽的巴龙舞。附上长辈不费力、亲子放电与旺季抢票防坑生存指南！
 pubDate: 2026-06-17T00:00:00.000Z
+updatedDate: 2026-07-24T00:00:00.000Z
 pubHour: 20
 category:
   - 美食景點活動
@@ -21,12 +22,15 @@ tags:
   - Best cultural shows in Bali 2026
 heroImage: >-
   https://images.gobaligo.id/images/2026-06/1781757413399-mixcollage-18-jun-2026-11-35-am-1900.jpg
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 307de75a4215b54486d82ba365592484
+_srcHash: 21afc1d3156aeee5c7fa4653de7c0d9a
 ---
 
 # 巴厘岛夜晚不打烊！四大必看神秀，亲子长辈都能玩得超尽兴
@@ -36,6 +40,8 @@ _srcHash: 307de75a4215b54486d82ba365592484
 ***
 
 ## 🐠 Varuna Show 水底世界 —— 让爷爷奶奶也惊呼的魔幻水剧场
+
+https://youtu.be/RpOWG9Ub7Ms?si=H8HWYuDgbqjKHszR
 
 **适合对象：全年龄，尤其推荐带幼儿、行动较慢的长辈**
 
@@ -47,7 +53,7 @@ _srcHash: 307de75a4215b54486d82ba365592484
 
 [巴厘岛海洋公园 Varuna Show 指南：水下剧场票价、交通建议与 Bali Safari 一日游排法](/zh-cn/blog/varuna-show-bali-safari/)
 
-[在Klook购买Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已包含入园门票
+> [在Klook购买Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已包含入园门票
 
 {{block:ubud}}
 
@@ -55,15 +61,17 @@ _srcHash: 307de75a4215b54486d82ba365592484
 
 ## 🪄 Devdan 天坛秀 —— 视觉炸裂的印尼文化嘉年华
 
-**适合对象：喜欢热闹、华丽场景的家庭，小学以上孩子最买账**
+https://youtu.be/aKRNhsFdXRg?si=CJoU33qo0N8NP2Om
 
-如果只能选一场秀，很多人会直接推 **Devdan——Treasure of the Archipelago**。这场位于努沙杜瓦的招牌晚宴秀，把印尼群岛文化浓缩成90分钟的豪华歌舞剧。
+**适合对象：喜欢热闹、华丽场景的家庭，小学以上孩子最买单**
+
+如果只能选一场秀，很多人会直接推 **Devdan——Treasure of the Archipelago**。这场位于努沙杜瓦的招牌晚宴秀，把印尼群岛文化浓缩成 90 分钟的豪华歌舞剧。
 
 从苏门答腊的鼓舞、爪哇的优雅宫廷舞，到婆罗洲的丛林节奏，再到巴布亚的原始战舞，**搭配空中吊环、火焰特效、巨大道具和快速换装**，节奏明快，完全没有冷场。长辈会惊艳于服装的精致，孩子则被高空翻滚和突然喷出的火花吓得又笑又叫。
 
 **亲子友善亮点**：现场提供儿童座椅、表演前有互动暖场，结束后还能跟舞者合照，全家回忆满满。
 
-[【巴厘岛必看】Devdan Show 天坛秀全攻略：购票优惠、座位选择与印尼五大岛文化巡礼](/zh-cn/blog/devdan-show-nusa-dua/)
+[【巴厘岛必看】Devdan Show 天谭秀全攻略：购票优惠、座位选择与印尼五大岛文化巡礼](/zh-cn/blog/devdan-show-nusa-dua/)
 
 > > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) [kkday购票](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/devdan-show-10759118?curr=IDR&locale=zh-HK&poiType=3&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -73,11 +81,13 @@ _srcHash: 307de75a4215b54486d82ba365592484
 
 ## 🔥 Kecak Fire Dance 乌鲁瓦图火舞 —— 悬崖边的史诗级震撼
 
-**适合对象：体力较好、喜欢户外氛围的家庭（建议6岁以上）**
+https://youtu.be/gpU1TEVLQjQ?si=y9u0QsfeX2ir4th4
 
-最后这场，是巴厘岛最经典、最难以复制的体验——**乌鲁瓦图悬崖火舞**。日落时分，坐在断崖旁的露天剧场，面对印度洋，看着几十个赤膊男子围成圈，发出“恰克～恰克～”的人声合唱，没有乐器，却震撼人心。
+**适合对象：体力较好、喜欢户外氛围的家庭（建议 6 岁以上）**
 
-故事改编自《罗摩衍那》，猴军与魔王大战的高潮，最后由“火焰之舞”收尾——扮演猴子的舞者踏过燃烧的椰子壳，火花四溅，搭配悬崖下的浪涛声，连平时不爱看表演的爸爸都会拿出手机狂拍。
+最后这场，是巴厘岛最经典、最难以复制的体验——**乌鲁瓦图悬崖火舞**。日落时分，坐在断崖旁的露天剧场，面对印度洋，看着几十位赤膊男子围成圈，发出“恰克～恰克～”的人声合唱，没有乐器，却震慑人心。
+
+故事改编自《罗摩衍那》，猴军与魔王大战的高潮，最后由“火焰之舞”收尾——扮演猴子的舞者踏过燃烧的椰子壳，火花四溅，搭配悬崖下的浪涛声，连平时不爱看表演的爸爸都会拿出手手机狂拍。
 
 **带长辈孩子的攻略**：
 
@@ -90,8 +100,6 @@ _srcHash: 307de75a4215b54486d82ba365592484
 > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7692452023) [Kkday购票](https://www.kkday.com/zh-tw/product/129108-uluwatu-kecak-fire-dance-ticket-bali-indonesia?qs=kecak&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-HK&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
 {{block:uluwatu}}
-
-**https://youtube.com/shorts/ujiqwWnqfgc**
 
 {{block:戶外}}
 
@@ -108,11 +116,11 @@ https://www.instagram.com/reel/DXOd_lRAfrM/?utm_source=ig_web_button_share_sheet
 **亲子友善亮点**：
 
 - 场地宽敞，有遮荫座位，不怕日晒雨淋
-- 表演约1小时，节奏轻快，不拖沓
+- 表演约 1 小时，节奏轻快，不拖沓
 
-**贴心提醒**：GWK园区很大，建议提早抵达顺便参观巨型神鹰雕像；前排座位能看清面具细节，但怕声响较大的孩子可选中后排。
+**贴心提醒**：GWK 园区很大，建议提早抵达顺便参观巨型神鹰雕像；前排座位能看清面具细节，但怕声响较大的孩子可选中后排。
 
-[【巴厘岛地标】GWK神鹰广场文化公园全攻略：世界最高雕像、传统舞蹈表演与美照取景点](/zh-cn/blog/gwk-cultural-park-bali/)
+[【巴厘岛地标】GWK 神鹰广场文化公园全攻略：世界最高雕像、传统舞蹈表演与美照取景点](/zh-cn/blog/gwk-cultural-park-bali/)
 
 > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1308000&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D267583b10e) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/garuda-wisnu-kencana-cultural-park-90757?curr=IDR&locale=zh_hk&poiType=3&ext-searchpage=1&lasttraceid=412fdea9-954a-0cc7-eab8-178eb2281978&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18082528)
 
@@ -131,6 +139,8 @@ https://www.instagram.com/reel/DXOd_lRAfrM/?utm_source=ig_web_button_share_sheet
 
 ***
 
-不管你选哪一场，巴厘岛的文化魅力都会用最热情的方式，为你的家族旅行写下难忘回忆。**小提醒**：旺季记得提前线上购票，并确认各场次时间——因为这些神秀，可是会让全家老小都心甘情愿放弃沙滩，准时入座的喔！🌺
+https://youtube.com/shorts/ujiqwWnqfgc
+
+不管你选哪一场，巴厘岛的文化魅力都会用最热情的方式，为你的家族旅行写下难忘回忆。**小提醒**：旺季记得提前在线购票，并确认各场次时间——因为这些神秀，可是会让全家老小都心甘情愿放弃沙滩，准时入座的喔！🌺
 
 {{block:klook}}

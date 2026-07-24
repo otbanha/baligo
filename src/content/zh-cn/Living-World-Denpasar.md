@@ -200,9 +200,9 @@ Living World Denpasar 内的大型超市可以一次买齐。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783486999441-bu9brbqkj4cx0h4d7o9wpeqttetj97ikv2d7kfrl-ysebculp5midohmnxuatxyz-blugkzq4p_z6bvaxbtu4hll5nlbldjvnedyt8ugbv0h3ygacvbynakqgovobsmlfoct1azltpvgfbmxn34zwdbl_jky9rrft0axcbfycqprfukrzl9faizuefk6dl9x.jpeg)
 
-如果是带着幼儿或国小年龄的小朋友来巴厘岛，**Kidzlandia** 是相当受欢迎的室内游乐空间。
+如果是带着幼儿或小学年龄的小朋友来巴厘岛，**Kidzlandia** 是相当受欢迎的室内游乐空间。
 
-园区内设有大型球池、溜滑梯、攀爬设施、角色扮演区与各式互动游戏，不受天气影响，无论是雨季还是炎热的午后，都能让孩子尽情放电。
+园区内设有大型球池、滑梯、攀爬设施、角色扮演区与各式互动游戏，不受天气影响，无论是雨季还是炎热的午后，都能让孩子尽情放电。
 
 家长则可以趁孩子游玩时，到附近咖啡厅稍作休息，是不少亲子旅客喜欢安排的景点。
 

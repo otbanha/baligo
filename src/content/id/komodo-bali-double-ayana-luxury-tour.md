@@ -1,16 +1,14 @@
 ---
 title: >-
-  ⭐⭐Komodo + Bali Double AYANA Luxury 5D4N｜Menginap di Resort Kelas Dunia, Pink
+  ⭐⭐Komodo + Bali Double AYANA Luxury 5D4N｜Menginap di Resor Kelas Dunia, Pink
   Beach, Komodo Dragon Sekaligus⭐⭐
 slug: komodo-bali-double-ayana-luxury-tour
 description: >-
-  Menginap di AYANA Resort Bali dan AYANA Komodo yang kelas dunia, masing-masing
-  dua malam kemewahan. Jelajahi Komodo Dragon, Pink Beach, Pulau Padar,
-  snorkeling Manta Ray, dan destinasi kelas dunia lainnya.全程 private transport,
-  tanpa gabung grup, ciptakan liburan mewah double island Komodo + Bali paling
-  impian.
+  Menginap dua malam di AYANA Resort Bali dan AYANA Komodo, resor mewah kelas
+  dunia. Jelajahi Komodo Dragon, Pink Beach, Pulau Padar, snorkeling Manta, dan
+  destinasi kelas dunia lainnya.全程 private transport, tanpa grup, ciptakan
+  liburan mewah double island Komodo + Bali paling impian.
 pubDate: 2026-07-25T00:00:00.000Z
-updatedDate: 2026-07-23T00:00:00.000Z
 pubHour: 8
 category:
   - 遊記分享
@@ -37,93 +35,146 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-07-24T00:00:00.000Z
 lang: id
-_srcHash: PENDING_RETRY_17ab429920ace8919e9f58459f36bb11
+_srcHash: PENDING_RETRY_2fb42eb691520a862b169e8e6a86749b
 ---
 
-# Komodo + Bali Double AYANA Luxury 5D4N｜Menginap di Resort Kelas Dunia, Jelajahi Komodo Dragon, Pink Beach & Pemandangan Laut Impian
-
-Kalau ada satu perjalanan yang bisa memuaskan 'keajaiban alam kelas dunia' dan 'liburan pulau mewah' sekaligus, maka liburan mewah double AYANA ini wajib masuk bucket list kamu.
-
-Di satu sisi, ada Taman Nasional Komodo yang hanya bisa dikunjungi terbatas setiap harinya. Di sisi lain, ada AYANA Resort Bali yang terkenal internasional. Dari hewan purba Komodo Dragon, Pink Beach yang super cantik, sampai infinity pool di tebing dan Rock Bar yang mendunia, semua destinasi paling ikonik di Indonesia bisa kamu nikmati dalam satu trip.
-
-## Menginap di Dua Resort AYANA Kelas Dunia
-
-Yang bikin trip ini spesial, kamu akan menginap di dua resort AYANA terkenal, masing-masing dua malam. Gak perlu ganti hotel tiap hari, gak perlu buru-buru, bener-bener balikin ritme liburan ke tangan kamu.
-
-### AYANA Resort Bali
-
-Terletak di tebing Jimbaran, AYANA Resort adalah salah satu resort bintang lima paling ikonik di Bali. Punya pemandangan Samudra Hindia yang luas, infinity pool, pantai pribadi, dan Rock Bar yang terkenal di seluruh dunia. Setiap sudutnya penuh vibe liburan.
-
-### AYANA Komodo Waecicu Beach
+# Komodo + Bali Double AYANA Luxury 5D4N｜Menginap di Resor Kelas Dunia, Jelajahi Komodo Dragon, Pink Beach & Pemandangan Laut Impian
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1784817991618-d1.jpg)
 
-Terletak di Teluk Waecicu, Komodo, tempat ini punya dermaga pribadi dan pemandangan laut yang luas — pilihan akomodasi paling nyaman buat eksplorasi Taman Nasional Komodo. Siang hari jalan-jalan ke laut, sorenya balik ke hotel nikmatin sunset, menikmati hidup santai ala pulau yang paling murni.
+Kalau ada satu perjalanan yang bisa memuaskan 'keajaiban alam kelas dunia' dan 'liburan pulau mewah' sekaligus, maka liburan double AYANA ini wajib masuk bucket list kamu.
 
-## Promo Upgrade Kamar Terbatas
+Di satu sisi, ada Taman Nasional Komodo yang hanya bisa dikunjungi terbatas setiap harinya. Di sisi lain, ada AYANA Resort Bali yang terkenal di dunia. Dari komodo purba, Pink Beach yang fantastis, sampai infinity pool di tebing dan Rock Bar yang mendunia, semua destinasi paling ikonik di Indonesia bisa kamu kumpulkan dalam satu trip.
 
-Paket ini kasih promo upgrade ganda AYANA yang eksklusif.
+## Menginap di Dua Resor Kelas Dunia AYANA
 
-- AYANA Bali upgrade ke Jimbaran Bay View Room
-- AYANA Komodo upgrade ke Deluxe Ocean View Room
+Keunggulan utama paket ini adalah menginap di dua resor AYANA terkenal, masing-masing dua malam. Tidak perlu ganti hotel setiap hari, tidak perlu terburu-buru. Benar-benar mengembalikan ritme liburan ke tangan traveler.
 
-Ketersediaan kamar terbatas setiap harinya. Kalau pilih tipe kamar tertentu lainnya, kamu juga bisa dapet upgrade ke kelas berikutnya. Syarat upgrade pastiin tanya ke customer service ya.
+### AYANA Resort Bali
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852403551-pools-beach-ayana-river.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852403897-ocean-beach-pool--v10714936.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852404470-1mc4f12000h64npxh2304_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852404823-1mc4u12000h64mqyqa987_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852405168-1mc2112000h64lohde727_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852405546-1mc7312000b7fe28d795b_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852406052-22701036.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852406469-26608852.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852406946-_stevewilliamw-1024x768.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852407390-eu_o5bexkaiy6fe.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852408286-rimba-by-ayana-hotel-jimbaran-bali-pic-3.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852408725-463930754_18065301430729140_3283939738531727771_n.jpg)
+
+Terletak di tebing Jimbaran, AYANA Resort adalah salah satu resor bintang lima paling ikonik di Bali. Dengan pemandangan Samudra Hindia yang megah, infinity pool, pantai pribadi, dan Rock Bar yang mendunia, setiap sudutnya penuh dengan nuansa liburan.
+
+### AYANA Komodo Waecicu Beach
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851526113-0205a120008ytq057ea3f_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851526677-0206c120008ytpwyma453_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851526972-0206f120008ytunzo2425_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851527705-1mc0l12000hmt508qd8ad_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851528108-1mc3r12000hmt789pa0b4_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851528850-1mc4212000cb2bmqbd736_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851529335-1mc7412000hmt4m6nca68_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851529734-0200a120008xuuvrabe7a_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851530148-0202b120008ytqdfcd8a4_w_1280_853_r5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784851530554-0202y120008yts7z4cc2f_w_1280_853_r5.webp)
+
+Terletak di Teluk Waecicu, Komodo, hotel ini punya dermaga pribadi dan pemandangan laut yang luas — pilihan paling nyaman buat eksplorasi Taman Nasional Komodo. Siang hari bisa探险 ke laut, sorenya balik ke hotel nikmatin sunset, menikmati hidup santai ala pulau yang paling murni.
+
+## Upgrade Tipe Kamar Terbatas
+
+Promo ini kasih dua keuntungan upgrade eksklusif AYANA.
+
+- AYANA Bali upgrade ke kamar dengan pemandangan Teluk Jimbaran
+- AYANA Komodo upgrade ke kamar mewah dengan pemandangan laut
+
+Stok kamar terbatas setiap hari. Kalau pilih tipe kamar lain yang ditentukan, kamu juga bisa dapet upgrade ke level berikutnya. Syarat upgrade aktual konfirmasi ke customer service ya.
 
 ## Taman Nasional Komodo, Wajib Dikunjungi Setidaknya Sekali Seumur Hidup
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1784818112469-d2.jpg)
 
-Bicara soal Komodo, yang paling ditunggu-tunggu tentu aja Komodo Dragon — satu-satunya di dunia yang masih liar.
+Bicara soal Komodo, yang paling ditunggu-tunggu tentu aja Komodo dragon liar satu-satunya di dunia.
 
-Melihat langsung makhluk purba raksasa yang udah hidup jutaan tahun ini, berkeliaran bebas di taman nasional, sensasinya benar-benar beda banget sama di kebun binatang. Dengan pemandu profesional, kamu bisa belajar tentang ekologi dan kebiasaan mereka dengan aman.
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852852632-komodo-yang-ukurannya.jpg)
+
+Melihat langsung makhluk purba raksasa yang udah hidup jutaan tahun ini, berkeliaran bebas di taman nasional — sensasinya bikin merinding, beda banget sama di kebun binatang. Dengan pemandu profesional, kamu bisa belajar tentang ekologi dan kebiasaan mereka dengan aman.
 
 ## Foto-foto di Pink Beach Impian Kelas Dunia
 
-Pantai pasir merah muda alami yang benar-benar terbentuk secara alami di dunia itu sangat langka, dan Pink Beach di Komodo adalah salah satunya.
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852530083-cha_sohyeon_470268978_2599201363597197_3141589152870947112_n.jpg)
 
-Pasir merah muda lembut berpadu dengan air laut biru jernih, di bawah sinar matahari menciptakan gradasi yang memukau. Baik untuk foto atau jalan-jalan, rasanya seperti melangkah ke dalam pemandangan kartu pos — pantai yang wajib dikunjungi dalam hidup banyak orang.
+Pantai pasir pink alami yang benar-benar terbentuk secara alami di dunia itu langka banget, dan Pink Beach di Komodo adalah salah satunya.
 
-## Berenang Bareng Ikan Pari Raksasa
+Pasir merah muda lembut dipadu air laut biru jernih, di bawah sinar matahari menciptakan gradasi yang memukau. Baik untuk foto atau jalan-jalan, rasanya seperti melangkah ke dalam pemandangan kartu pos — pantai yang wajib dikunjungi sekali seumur hidup bagi banyak orang.
+
+## Berenang bareng Pari Raksasa
+
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852787912-263db4fdfa7702e1cb8cab55fd91e902.jpg)
 
 Perairan Komodo punya spot snorkeling kelas dunia.
 
-Air laut sebening kaca, ditambah ekosistem terumbu karang yang kaya, yang paling ditunggu-tunggu adalah bertemu dengan ikan pari raksasa (Manta Ray) yang anggun di Manta Point. Melihat mereka berenang dengan santai jadi salah satu kenangan traveling paling berkesan.
+Air laut sejernih kaca, ditambah ekosistem terumbu karang yang kaya, yang paling ditunggu adalah bertemu pari manta (Manta Ray) yang anggun dan raksasa di Manta Point. Melihat mereka berenang dengan santai adalah salah satu kenangan traveling paling berkesan.
 
-## Teluk Tiga Warna di Pulau Padar, Cantik Banget Sampai Bikin Nahan Napas
+## Teluk Tiga Warna di Pulau Padar, Cantik Banget Bikin Terpana
 
-Banyak orang kenal Komodo dari pemandangan ikonik Pulau Padar.
+![raw-image](https://images.gobaligo.id/images/2026-07/1784852741889-573872739_1243124247857585_1146304472999484845_n.jpg)
 
-Setelah naik ke titik pandang, kamu bisa lihat tiga teluk dengan warna berbeda sekaligus, dipadukan dengan formasi gunung berapi yang unik, menciptakan pemandangan kelas dunia yang jadi spot foto paling ikonik di Komodo.
+Banyak orang pertama kali kenal Komodo dari pemandangan ikonik Pulau Padar.
 
-## Tanpa Tur Kelompok, Nikmati Perjalanan yang Lebih Nyata
+Naik ke titik pandang, kamu bisa lihat tiga teluk dengan warna berbeda sekaligus, ditambah formasi gunung berapi yang unik — pemandangan kelas dunia dan jadi spot foto paling ikonik di Komodo.
 
-Berbeda dengan tur konvensional, paket ini dirancang sebagai tur pribadi murni — cukup dua orang sudah bisa jalan.
+## Traveling Beneran Tanpa Harus Ikut Rombongan
 
-Sepanjang perjalanan, kamu dapat mobil pribadi, sopir, dan pemandu wisata berbahasa Mandarin. Tidak perlu mengikuti ritme turis asing, perjalanan jadi lebih bebas dan fleksibel. Satu-satunya pengecualian adalah tur pulau Komodo yang pakai speedboat bersama; kalau mau lebih privat, bisa upgrade ke kapal sewa pribadi.
+Beda sama tur konvensional, trip ini pakai konsep private tour murni — cukup dua orang udah bisa jalan.
 
-## Slow down, nikmati liburan yang sesungguhnya
+Sepanjang perjalanan, kamu dapat mobil pribadi, sopir, dan guide Mandarin. Nggak perlu ngikutin ritme turis asing, lebih bebas dan fleksibel. Satu-satunya pengecualian adalah trip island hopping di Komodo pakai speedboat bersama. Kalau mau lebih privat, bisa upgrade ke private charter.
+
+## Slow Down, Nikmati Liburan yang Sesungguhnya
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1784818155232-d3.png)
 
 Selain menjelajahi keajaiban alam dunia, kami juga menyediakan waktu liburan yang utuh.
 
-Kamu bisa santai menikmati kolam renang, pantai pribadi, SPA, restoran, dan berbagai fasilitas di AYANA Resort, atau pergi ke Rock Bar untuk menyaksikan sunset paling terkenal di Bali sambil mendengar deburan ombak menghantam karang, merasakan ritme liburan tropis yang paling memikat.
+Kamu bisa bersantai menikmati kolam renang, pantai pribadi, SPA, restoran, dan berbagai fasilitas di AYANA Resort, atau pergi ke Rock Bar untuk menyaksikan sunset paling terkenal di Bali, sambil mendengar deburan ombak menghantam tebing dan merasakan ritme liburan pulau yang paling memikat.
 
-Liburan mewah sejati bukan soal memenuhi jadwal dengan tempat wisata, tapi menyisakan cukup waktu untuk menikmati setiap momen.
+Liburan mewah yang sesungguhnya bukanlah mengisi jadwal dengan banyak tempat wisata, melainkan menyisakan cukup waktu untuk menikmati setiap momen dengan baik.
 
 ## Informasi Paket
 
-#### **Paket Mewah 5 Hari Double AYANA**
+#### **Paket Mewah Double AYANA 5 Hari**
 
-- Harga spesial: mulai USD$769/orang
-- Tidak termasuk tiket pesawat internasional dan domestik (bisa beli sendiri, atau dibantu pesan gratis oleh customer service)
-- Termasuk 4 malam menginap di Double AYANA (sarapan setiap hari), tiket masuk semua objek wisata, dan layanan mobil pribadi selama perjalanan
+- Harga spesial: mulai dari USD$769/orang
+- Tidak termasuk tiket pesawat internasional dan domestik (bisa dibeli sendiri, atau dibantu pesan gratis oleh customer service)
+- Termasuk 4 malam menginap di Double AYANA (sarapan setiap hari), tiket masuk semua tempat wisata, dan layanan mobil pribadi全程
 - Pemesanan dibuka mulai sekarang hingga 30 November 2026
-- Tanggal keberangkatan berlaku hingga 30 November 2027, harga libur nasional dan musim ramai akan dihitung terpisah
+- Tanggal keberangkatan berlaku hingga 30 November 2027, liburan nasional dan musim ramai akan dihitung terpisah
 - Harga akomodasi tergantung tanggal check-in, mengikuti penawaran resmi dari customer service
 
-**Silakan isi formulir di bawah untuk konsultasi, kami akan menyesuaikan dengan tanggal keberangkatan, jumlah peserta, dan kebutuhanmu untuk memberikan paket eksklusif dan penawaran harga terbaru yang paling sesuai, membantu kamu merencanakan liburan pulau kembar yang benar-benar santai dan mewah.**
+**Silakan isi formulir di bawah untuk konsultasi, kami akan menyesuaikan dengan tanggal keberangkatan, jumlah orang, dan kebutuhanmu, memberikan penawaran paket eksklusif dan harga promo terbaru, membantu kamu merencanakan liburan double island yang benar-benar santai dan mewah.**
 
 # FAQ
 
@@ -135,41 +186,41 @@ A: Harga paket ini belum termasuk tiket pesawat internasional dari Indonesia ke 
 
 ### Q2: Apa harus ganti hotel tiap hari?
 
-A: Enggak kok. Selama perjalanan, kamu bakal nginep di dua resort AYANA kelas dunia — dua malam di AYANA Komodo, dua malam di AYANA Bali. Jadi nggak perlu repot bawa-bawa koper, bisa beneran santai menikmati liburan.
+A: Enggak kok. Selama perjalanan ini kamu bakal nginep di dua resort AYANA kelas dunia — AYANA Komodo dua malam berturut-turut, AYANA Bali juga dua malam berturut-turut. Jadi nggak perlu repot bongkar pasang koper, bisa beneran santai menikmati liburan.
 
 ***
 
-### Q3: Trip pulau Komodo pakai kapal privat?
+### Q3: Island hopping Komodo pakai kapal privat?
 
-A: Paket standar pakai speedboat bersama untuk trip satu hari. Kalau mau lebih privat dan fleksibel, bisa upgrade ke kapal privat dengan biaya tambahan.
+A: Untuk paket standar, island hopping sehari pakai speedboat bersama rombongan. Tapi kalau kamu mau lebih privasi dan fleksibel, bisa upgrade ke kapal privat dengan biaya tambahan.
 
 ***
 
 ### Q4: Bisa ikut berdua aja?
 
-A: Bisa banget. Paket ini private tour murni — cukup dua orang aja udah bisa jalan. Sepanjang perjalanan kamu dapat mobil pribadi, sopir, dan guide Mandarin sendiri, nggak perlu gabung sama turis lain.
+A: Bisa banget. Paket ini pure private tour — cukup dua orang aja udah bisa jalan. Sepanjang perjalanan kamu bakal dapat mobil pribadi, sopir, dan guide Mandarin sendiri. Nggak perlu gabung sama turis lain.
 
 ***
 
 ### Q5: Tempat wajib dikunjungi apa aja?
 
-A: Termasuk Taman Nasional Komodo, Komodo Dragon liar, Teluk Tiga Warna Pulau Padar, Pink Beach, snorkeling Manta Point sama ikan pari manta, plus nginep di AYANA Resort Bali, Rock Bar, SPA — pokoknya pengalaman resort kelas dunia banget.
+A: Termasuk Taman Nasional Komodo, Komodo dragon liar, Teluk Tiga Warna di Pulau Padar, Pink Beach, snorkeling Manta Point bareng ikan pari manta, plus nginep di AYANA Resort Bali, cobain Rock Bar, SPA, dan pengalaman resort kelas dunia lainnya.
 
 ***
 
-### Q6: Paket ini cocok buat turis kayak gimana?
+### Q6: Paket ini cocok buat siapa?
 
-A: Cocok banget buat honeymoon, liburan pasangan, anniversary, bareng teman atau keluarga, dan traveler yang pengen sekaligus nikmatin keajaiban alam dunia plus resort bintang lima.
+A: Cocok banget buat honeymoon, liburan pasangan, anniversary, bareng teman atau keluarga, juga buat kamu yang pengin sekaligus ngerasain keajaiban alam dunia dan resort bintang lima.
 
 ### Q7: Apa aja yang termasuk?
 
 #### 🐉 Keajaiban Alam Kelas Dunia
 
 - Jelajahi Situs Warisan Alam Dunia — Taman Nasional Komodo
-- Lihat langsung Komodo liar dari dekat
+- Lihat Komodo liar dari dekat
 - Naik ke Bukit Padar buat lihat teluk tiga warna
-- Jalan-jalan di Pink Beach yang terkenal se-dunia
-- Kunjungi Taka Makassar, gosong pasir putih berbentuk bulan sabit
+- Jalan-jalan di Pink Beach yang terkenal di dunia
+- Kunjungi Taka Makassar, gosong pasir putih bulan sabit
 - Snorkeling bareng Manta Ray raksasa di Manta Point
 - Nikmati laut kaca Komodo dan terumbu karang yang kaya
 
@@ -182,13 +233,14 @@ A: Cocok banget buat honeymoon, liburan pasangan, anniversary, bareng teman atau
 - 漫步私人海灘
 - 悠閒享受世界級度假氛圍
 
+Menginap di AYANA Resort Bali dengan pemandangan tebing laut
 - Nikmati sunset legendaris di Rock Bar
 - Coba Lulur Royal SPA khas Bali (2 jam)
 - Bebas pakai kolam renang dan fasilitas AYANA Resort
 - Jalan-jalan di pantai pribadi
 - Santai menikmati atmosfer resort kelas dunia
 
-### 🎁 Termasuk dalam Paket
+### 🎁 Yang Termasuk dalam Paket
 
 - Menginap 2 malam di AYANA Bali
 - Menginap 2 malam di AYANA Komodo
@@ -200,3 +252,7 @@ A: Cocok banget buat honeymoon, liburan pasangan, anniversary, bareng teman atau
 - Sopir pribadi
 
 ## Pesan Sekarang Liburan Mewah Dua Pulau Spesial Kamu
+
+{{block:ayana-x-ayana-form}}
+
+{{block:isbali2}}
