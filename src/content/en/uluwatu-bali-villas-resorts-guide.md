@@ -214,7 +214,7 @@ And this hotel is inspired by the 14th-century Majapahit Empire, with architectu
 
 Your honeymoon deserves a vacation with a story ✨ (Full review: [Jumeirah Bali: A Stunning Majapahit Water Palace & All-Villa Luxury Escape Guide](/en/blog/Jumeirah-Bali/))
 
-> Check rates & book: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aq2rktAGwAIB0gIkZmFkZTE3MzItNjk3MS00NDliLThkZmUtZDRiMzlkMWEwNGEx2AIB4AIB&sid=6eb6ec19b5b6ad6faf1663a2ef8412a8&age=9&all_sr_blocks=573309902_416213410_2_1_0&checkin=2026-05-13&checkout=2026-05-14&dest_id=5733099&dest_type=hotel&dist=0&group_adults=2&group_children=1&hapos=1&highlighted_blocks=573309902_416213410_2_1_0&hpos=1&matching_block_id=573309902_416213410_2_1_0&no_rooms=1&req_adults=2&req_age=9&req_children=1&room1=A%2CA%2C9&sb_price_type=total&sr_order=popularity&sr_pri_blocks=573309902_416213410_2_1_0__1638824000&srepoch=1778685387&srpvid=81fc6b63e1b307f7&type=total&ucfs=1&) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> Check rates & book: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ## Affordable Ocean-View Villa 1: Le Cliff Bali
 

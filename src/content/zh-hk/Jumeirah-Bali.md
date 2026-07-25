@@ -255,6 +255,6 @@ Jumeirah Bali 採用「全別墅（All-Villa）」設計，每間房型都至少
 - **優點：** 獲獎無數嘅建築美學、全 Villa 私人泳池、服務細膩到會隨時遞上冰毛巾。
 - **缺點：** 酒店園區太大，出入要靠 Buggy (電動接駁車) 可能要等一陣；酒店前面嘅海灘係公共區域，潔淨度受季節性洋流影響比較大。
 
-👉 睇房價 & 訂房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aq2rktAGwAIB0gIkZmFkZTE3MzItNjk3MS00NDliLThkZmUtZDRiMzlkMWEwNGEx2AIB4AIB&sid=6eb6ec19b5b6ad6faf1663a2ef8412a8&age=9&all_sr_blocks=573309902_416213410_2_1_0&checkin=2026-05-13&checkout=2026-05-14&dest_id=5733099&dest_type=hotel&dist=0&group_adults=2&group_children=1&hapos=1&highlighted_blocks=573309902_416213410_2_1_0&hpos=1&matching_block_id=573309902_416213410_2_1_0&no_rooms=1&req_adults=2&req_age=9&req_children=1&room1=A%2CA%2C9&sb_price_type=total&sr_order=popularity&sr_pri_blocks=573309902_416213410_2_1_0__1638824000&srepoch=1778685387&srpvid=81fc6b63e1b307f7&type=total&ucfs=1&) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+👉 睇房價 & 訂房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 {{block:uluwatu}}

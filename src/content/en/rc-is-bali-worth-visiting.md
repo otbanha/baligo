@@ -261,7 +261,7 @@ This time we stayed at a fantastic boutique hotel. Full review: [Dune Seseh: The
 
 Rating: Agoda guest rating 9.0 ⭐ | Trip.com 9.2 ⭐
 
-> 👉 Click here to check Dune Seseh's latest rates and availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=53768541) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-118505353/dune-seseh-garden-suite/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://www.booking.com/hotel/id/dune-seseh.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4ApiZx9AGwAIB0gIkZTI4YjEzZTMtYjg3Yi00MmEyLTg2NWQtNzM4MDVkMDM1ZWQ02AIB4AIB&sid=07c91e3ee3a77a8a08e8d2582d73bc10&all_sr_blocks=1181915301_390619501_2_2_0_387202&checkin=2026-11-28&checkout=2026-11-29&dest_id=11819153&dest_type=hotel&dist=0&group_adults=2&group_children=0&hapos=1&highlighted_blocks=1181915301_390619501_2_2_0_387202&hpos=1&matching_block_id=1181915301_390619501_2_2_0_387202&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&sr_pri_blocks=1181915301_390619501_2_2_0_387202_263250000&srepoch=1780068551&srpvid=56ae6ce19cf10ee2&type=total&ucfs=1&)
+> 👉 Click here to check Dune Seseh's latest rates and availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=53768541) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-118505353/dune-seseh-garden-suite/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://www.booking.com/hotel/id/dune-seseh.html)
 
 ***
 

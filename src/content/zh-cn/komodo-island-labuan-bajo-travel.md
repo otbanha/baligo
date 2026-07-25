@@ -266,7 +266,7 @@ https://youtu.be/amXkwRbzJTE
 - 🚤 很适合作为前往科莫多岛、帕达尔岛（Padar Island）、粉红沙滩（Pink Beach）等跳岛行程的住宿基地。
 - ⭐ 隶属万豪（Marriott）旗下 Luxury Collection 系列，2024 年才正式开业，是印尼最新的顶级度假村之一。
 
-> ▶订房链接 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1939816&hid=49394759) [Trip](https://hk.trip.com/hotels/labuan-bajo-hotel-detail-115818472/taaktana-a-luxury-collection-resort-spa-labuan-bajo/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18821385) [Booking](https://booking.tpm.li/5DZIUYuc)
+> ▶订房链接 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49394759) [Trip](https://hk.trip.com/hotels/labuan-bajo-hotel-detail-115818472/taaktana-a-luxury-collection-resort-spa-labuan-bajo/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18821385) [Booking](https://booking.tpm.li/5DZIUYuc)
 
 #### **Ayana Komodo Resort**
 

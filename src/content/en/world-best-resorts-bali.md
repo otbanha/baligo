@@ -114,7 +114,7 @@ If your itinerary includes **Bali + Komodo Island**, this is one of the most wor
 
 Check out: [【2026 Komodo Island Guide】Labuan Bajo Travel](https://gobaligo.id/en/blog/komodo-island-labuan-bajo-travel/)
 
-> ▶ Booking links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1939816&hid=49394759) [Trip](https://hk.trip.com/hotels/labuan-bajo-hotel-detail-115818472/taaktana-a-luxury-collection-resort-spa-labuan-bajo/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18821385) [Booking](https://booking.tpm.li/5DZIUYuc)
+> ▶ Booking links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49394759) [Trip](https://hk.trip.com/hotels/labuan-bajo-hotel-detail-115818472/taaktana-a-luxury-collection-resort-spa-labuan-bajo/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18821385) [Booking](https://booking.tpm.li/5DZIUYuc)
 
 ***
 
@@ -206,7 +206,7 @@ Your honeymoon deserves a story-filled escape ✨
 
 Full review: [Jumeirah Bali: A Stunning Majapahit Water Palace & All-Villa Luxury Escape](https://gobaligo.id/en/blog/Jumeirah-Bali/)
 
-> Check rates & book: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaGiIAQGYATO4AQfIAQzYAQPoAQH4AQGIAgGoAgG4Aq2rktAGwAIB0gIkZmFkZTE3MzItNjk3MS00NDliLThkZmUtZDRiMzlkMWEwNGEx2AIB4AIB&sid=6eb6ec19b5b6ad6faf1663a2ef8412a8&age=9&all_sr_blocks=573309902_416213410_2_1_0&checkin=2026-05-13&checkout=2026-05-14&dest_id=5733099&dest_type=hotel&dist=0&group_adults=2&group_children=1&hapos=1&highlighted_blocks=573309902_416213410_2_1_0&hpos=1&matching_block_id=573309902_416213410_2_1_0&no_rooms=1&req_adults=2&req_age=9&req_children=1&room1=A%2CA%2C9&sb_price_type=total&sr_order=popularity&sr_pri_blocks=573309902_416213410_2_1_0__1638824000&srepoch=1778685387&srpvid=81fc6b63e1b307f7&type=total&ucfs=1&) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> Check rates & book: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40316042) | [Booking](https://www.booking.com/hotel/id/jumeirah-bali-bali.html) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-65267918/jumeirah-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ***
 

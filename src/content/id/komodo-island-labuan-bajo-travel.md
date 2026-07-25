@@ -267,7 +267,7 @@ Hotel ini lagi hits banget beberapa tahun terakhir, keunggulannya antara lain:
 - 🚤 Cocok banget jadi base buat island hopping ke Pulau Komodo, Pulau Padar, Pink Beach, dan lainnya.
 - ⭐ Bagian dari koleksi Luxury Collection milik Marriott, baru resmi buka tahun 2024 — salah satu resor termewah terbaru di Indonesia.
 
-> ▶Link booking [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1939816&hid=49394759) [Trip](https://hk.trip.com/hotels/labuan-bajo-hotel-detail-115818472/taaktana-a-luxury-collection-resort-spa-labuan-bajo/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18821385) [Booking](https://booking.tpm.li/5DZIUYuc)
+> ▶Link booking [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49394759) [Trip](https://hk.trip.com/hotels/labuan-bajo-hotel-detail-115818472/taaktana-a-luxury-collection-resort-spa-labuan-bajo/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18821385) [Booking](https://booking.tpm.li/5DZIUYuc)
 
 #### **Ayana Komodo Resort**
 
