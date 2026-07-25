@@ -17,11 +17,11 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_d151d1fea806eec12fad19726e274
 originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: PENDING_RETRY_c49705351e2dbc4409a3132b387e62a8
+_srcHash: c49705351e2dbc4409a3132b387e62a8
 ---
 > 以下内容改编自团友 [刘惠慈](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/) 分享游记：
 
-**重点摘要**：孕期出游的关键是**行前准备做足、行程保持弹性**——找中文包车司机、电子签证、观光税、海关申报单都提前线上办好，出发当天备好健康证明与常备药品（肠胃药、感冒药）。这趟 5 天 4 夜路线是**沙努尔 → 蓝梦岛 → 乌布 → 坎古**，步调 Chill 不硬跑行程，孕期旅游一样能玩得尽兴。
+**重点摘要**：孕期出游的关键是**行前准备做足、行程保持弹性**——找中文包车司机、电子签证、观光税、海关申报单都提前线上办好，出发当天备妥健康证明与常备药品（肠胃药、感冒药）。这趟 5 天 4 夜路线是**沙努尔 → 蓝梦岛 → 乌布 → 坎古**，步调 Chill 不硬跑行程，孕期旅游一样能玩得尽兴。
 
 这次的巴厘岛自由行对我来说是充满期待的初体验！非常感谢在[脸书社团](https://www.facebook.com/groups/indonesia.travelguide)中热心分享的朋友们，让我能顺利找到一位超棒的中文包车司机，在文末的地方我有专门的介绍。
 
@@ -78,9 +78,9 @@ _srcHash: PENDING_RETRY_c49705351e2dbc4409a3132b387e62a8
 
 抵达巴厘岛的第一餐，我们选择了位于Sanur的Naughty Nuri's Warung，这里以招牌猪肋排闻名。果然名不虚传，肉质鲜嫩，配上秘制的酱汁，整个味蕾都被唤醒，实在太好吃了！来巴厘岛，这家店绝对是必吃清单之一。
 
-[> ▶[沙努尔Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
+> ▶[沙努尔Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
 
-**入住：Maison Aurelia Sanur, Bali by ​​Preference**
+**入住：Maison Aurelia Sanur, Bali by Preference**
 
 ![第一天行程：](https://images.gobaligo.id/images/2026-06/1780844012829-524375767.jpg)
 
@@ -96,24 +96,24 @@ _srcHash: PENDING_RETRY_c49705351e2dbc4409a3132b387e62a8
 
 ![第一天行程：](https://images.gobaligo.id/images/2026-06/1780844015782-524387959.jpg)
 
-> ➡️ Maison Aurelia Sanur 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6024011/maison-aurelia-sanur-bali-by-prfrence/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/XNwjIsZ7)
+> ➡️ Maison Aurelia Sanur 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6024011/maison-aurelia-sanur-bali-by-prfrence/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
-晚餐後，我們入住了Sanur的Maison Aurelia飯店。這家飯店的氛圍非常舒適，裝潢典雅，位置也相當便利，讓人一進房間就感受到放鬆的度假氛圍。晚上可以好好休息，為明天的行程養足精神。
+晚餐后，我们入住了沙努尔的Maison Aurelia酒店。这家酒店的氛围非常舒适，装潢典雅，位置也相当便利，让人一进房间就感受到放松的度假氛围。晚上可以好好休息，为明天的行程养足精神。
 
 ***
 
-## 第二天行程（藍夢島探險）：
+## 第二天行程（蓝梦岛探险）：
 
-**司機早上飯店接送**
-一大早，我們的包車司機準時來到我們的飯店接我們出發，今天的行程是前往美麗的藍夢島，期待滿滿！
+**司机早上酒店接送**
+一大早，我们的包车司机准时来到我们的酒店接我们出发，今天的行程是前往美丽的蓝梦岛，期待满满！
 
 https://youtube.com/shorts/D6ZFGWE74cE
 
-**至沙努爾搭船碼頭購買藍夢島行程**
-到達沙努爾的碼頭後，我們現場購買了前往藍夢島的一日遊行程。這裡有很多選擇，我們選擇了一個包含浮潛和景點遊覽的行程，性價比非常高。
+**至沙努尔搭船码头购买蓝梦岛行程**
+到达沙努尔的码头后，我们现场购买了前往蓝梦岛的一日游行程。这里有很多选择，我们选择了一个包含浮潜和景点游览的行程，性价比非常高。
 
-**貼心安排中文導遊陪伴**
-行程中最棒的一點是他們為我們安排了一位中文導遊，全程陪伴並解說，這讓我們的旅程更加輕鬆且充實，不用擔心語言障礙，也更深入了解當地的自然景觀與文化。
+**贴心安排中文导游陪伴**
+行程中最棒的一点是他们为我们安排了一位中文导游，全程陪伴并解说，这让我们的旅程更加轻松且充实，不用担心语言障碍，也更深入了解当地的自然景观与文化。
 
 **精彩活动：浮潜、恶魔眼泪、梦幻沙滩、红树林生态**
 我们在蓝梦岛的浮潜点享受了清澈透明的海水和丰富的海洋生态，五颜六色的热带鱼环绕着我们，真是令人惊叹！接着游览了著名的「恶魔眼泪」，这里的巨浪拍打着岩石，水花四溅，景色壮丽又震撼。之后来到梦幻沙滩，这片沙滩名副其实，细腻的白沙和湛蓝的海水让人完全放松。最后我们还探访了红树林生态区，近距离感受当地的自然奇观，整个行程丰富多彩。
@@ -122,8 +122,8 @@ https://youtube.com/shorts/D6ZFGWE74cE
 
 https://youtube.com/shorts/exdiGPLkVjw
 
-**包含中餐，悠闲享受海滩时光，喝Beer Bintang**
-行程中也贴心地安排了中餐，我们在蓝梦岛的海滩餐厅享用了当地风味餐。餐后，我们在沙滩上悠闲地散步、拍照，还开了一瓶冰凉的Bintang啤酒，彻底享受这难得的悠闲时光。
+**包含午餐，悠闲享受海滩时光，喝Bintang啤酒**
+行程中也贴心地安排了午餐，我们在蓝梦岛的海滩餐厅享用了当地风味餐。餐后，我们在沙滩上悠闲地散步、拍照，还开了一瓶冰凉的Bintang啤酒，彻底享受这难得的悠闲时光。
 
 ![藍夢島風光](https://images.gobaligo.id/vocus/vocus_03279e6ea3f8dae6eafa0db94094c97a.jpg)
 
@@ -157,7 +157,7 @@ https://youtu.be/laRb_l8BdLM
 
 ![第三天行程（烏布一日遊）：](https://images.gobaligo.id/vocus/vocus_57b0b41ac469b22436f739a53fe74f4f.jpg)
 
-漂流结束后，来到一家非常有名的网红咖啡店，这里的特色是巨大的荡秋千，让我们可以一边荡秋千、一边眺望壮丽的稻田景色。当地人真的非常会拍照，整个氛围让每一张照片都美得像明信片一样，真的是拍照打卡的好地方。
+泛舟结束后，来到一家非常有名的网红咖啡店，这里的特色是巨大的荡秋千，让我们可以一边荡秋千、一边眺望壮丽的稻田景色。当地人真的非常会拍照，整个氛围让每一张照片都美得像明信片一样，真的是拍照打卡的好地方。
 
 > [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
@@ -195,9 +195,9 @@ https://youtu.be/JtxZHtijEkE
 今天的行程从The Avocado Factory开始，这是一家主打健康饮食的早餐店。我们点了以牛油果为主的餐点，无论是牛油果吐司还是健康沙拉，味道都非常新鲜美味，让我们在这个阳光明媚的早晨充满能量。
 
 **Gigi Susu：网红咖啡面包店**
-接着我们来到网红咖啡店Gigi Susu，这里以特色的面包和咖啡闻名。店内装潢时尚，拍照打卡非常有氛围，咖啡香浓顺滑，搭配当地新鲜烘焙的面包，真是一大享受。
+接着我们来到网红咖啡店Gigi Susu，这里以特色的面包和咖啡闻名。店内装修时尚，拍照打卡非常有氛围，咖啡香浓顺滑，搭配当地新鲜烘焙的面包，真是一大享受。
 
-> 延伸阅读：超过50家网友推荐的Canggu美食餐厅，请看「[Canggu攻略地图](/map/canggu/)」
+> 延伸阅读：超过50家网友推荐的坎古美食餐厅，请看「[坎古攻略地图](/map/canggu/)」
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_e7a6051d70eb94791ccd07270bdcf2e8.png)
 
@@ -206,7 +206,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![第四天行程（長谷區Chill一日遊）：](https://images.gobaligo.id/vocus/vocus_c8901a744d0d658d299564b9ec2515af.jpg)
 
-[> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
+> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 **The Lawn Canggu Beach Club**
 今天的最后一站是坎古的知名沙滩俱乐部——The Lawn。这里聚集了阳光、沙滩、美食，还有比基尼美女和帅哥。我们在这里享受了一个悠闲的下午，泡在泳池里，喝着冰凉的鸡尾酒，并等待着巴厘岛著名的夕阳缓缓落下。夜幕降临后，海滩上灯火通明，氛围惬意又浪漫，让我们彻底放松，享受度假的每一刻。
@@ -217,10 +217,10 @@ https://youtu.be/JtxZHtijEkE
 
 ***
 
-## 第五天行程（准备回家啰！）：
+## 第五天行程（准备回家咯！）：
 
-**Canggu Love Anchor 逛街**
-今天的第一站，我们来到坎古非常受欢迎的Love Anchor市集。这里有各式各样的饰品和纪念品可供选购，无论是手工艺品、服饰还是小饰品，都充满了巴厘岛的风情。记得一定要砍价，这里的商品价格有很大的浮动空间，我们成功将不少商品价格砍下了一半，真的超划算！
+**坎古Love Anchor 逛街**
+今天的第一站，我们来到坎古非常受欢迎的Love Anchor集市。这里有各式各样的饰品和纪念品可供选购，无论是手工艺品、服饰还是小饰品，都充满了巴厘岛的风情。记得一定要砍价，这里的商品价格有很大的浮动空间，我们成功将不少商品价格砍下了一半，真的超划算！
 
 ![第五天行程（準備回家囉！）：](https://images.gobaligo.id/vocus/vocus_adaedf1ccf645b4c1f61c85aa8b81cb6.jpg)
 
@@ -241,7 +241,7 @@ https://youtu.be/JtxZHtijEkE
 2. **巴厘岛景点虽多，但交通拥堵，行程别安排太满！**
    巴厘岛的景点确实非常多元化，但车流量也很大，特别是在高峰期的时候。建议行程不要排得太满，避免因为交通而浪费太多时间。这里最棒的体验其实就是Chill，慢慢感受当地的生活节奏。
 3. **摆摊商品记得砍价！**
-   在市集买东西时，一定要记得砍价！例如我在Love Anchor买的零钱包，从原价320元砍到140元，另一家甚至能砍到100元，所以绝对有议价空间，别害羞，大胆开口吧！😅
+   在市集买东西时，一定要记得砍价！例如我在Love Anchor买的零钱包，从原价USD$10砍到USD$5，另一家甚至能砍到USD$3，所以绝对有议价空间，别害羞，大胆开口吧！😅
 4. **英文不好+怀孕三个月，还好有会中文的当地人帮忙**
    这次旅途中，虽然怀孕三个月又担心英文不够好，但还好有认识会中文的当地司机康哥（Wayan Suantara），他的贴心帮忙让我整个旅程非常安心，尤其在路线安排和景点选择上，都给了很多实用的建议。
 5. **伴手礼推荐：BALI BANANA 香蕉蛋糕**

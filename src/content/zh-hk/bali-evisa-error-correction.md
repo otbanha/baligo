@@ -1,9 +1,9 @@
 ---
 slug: bali-evisa-error-correction
-title: 印尼/峇里島電子簽證申請小插曲：點樣改e-VOA資料錯咗？
-description: 申請印尼/峇里島電子簽證（e-VOA）嗰陣填錯咗點樣改？睇呢篇就明
+title: 印尼/峇里島電子簽證申請小插曲：點樣修改e-VOA資料錯誤？
+description: 申請印尼/峇里島電子簽證（e-VOA）嗰陣填錯資料點算好？睇呢篇就明
 pubDate: '2024-05-18'
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-25T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6d33802d985ce46e9a5ad95e0ffa0724.png'
 tags:
   - 電子簽證錯誤
@@ -15,15 +15,15 @@ originalUrl: 'https://vocus.cc/article/66480ae5fd89780001fb7763'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 615cad819e88bbd345f4f2f73942f036
+_srcHash: 7434f7fe221473134d229d9b158c589d
 ---
 ![印尼/峇里島電子簽證申請小插曲：如何修改e-VOA資料錯誤？](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
 
-**先講結論（2024年7月更新）**：e-VOA資料填錯**已經冇得要求修改**——印尼移民署由2024年7月開始唔再受理更正申請。正確做法係：**俾錢之前一定要逐個字檢查**姓名、出生地、護照號碼，發現錯咗就唔好俾錢、直接重新申請；如果俾咗錢先發現錯，就只能重新辦一份新嘅e-VOA。呢篇前半段嘅寫信修改方法係舊制，已經冇效，留返做參考。
+**先講結論（2024年7月更新）**：e-VOA資料填錯**已經冇得要求修改**——印尼移民署由2024年7月開始唔再受理更正申請。正確做法係：**畀錢前一定要逐個字檢查**姓名、出生地、護照號碼，發現錯就唔好畀錢、直接重新申請；如果畀咗錢先發現錯，就只能夠重新申請一份新嘅e-VOA。呢篇文前半段嘅寫信修改方法係舊制，已經冇效，留返做參考。
 
-最近，有位叫Mike Chiu嘅團友申請印尼電子簽證（e-VOA）嗰陣遇到啲問題。佢喺我哋嘅Facebook群組問大家意見。Mike話，佢填申請表嗰陣，正確咁將出生地輸入做“TAIWAN”，仲已經再三確認過輸入冇錯。點知，當佢收到最後嘅電子簽證嗰陣，發現出生地顯示做“Talwan”，「i」變高咗變成「l」。Mike唔肯定咁樣得唔得，問係咪要重新編輯申請或者應該點樣處理。
+最近，有位叫Mike Chiu嘅團友申請印尼電子簽證（e-VOA）嗰陣遇到啲問題。佢喺我哋嘅Facebook群組問大家意見。Mike話，佢填申請表嗰陣，正確咁將出生地輸入做「TAIWAN」，仲已經再三確認過輸入冇錯。點知，當佢收到最後嘅電子簽證嗰陣，發現出生地顯示做「Talwan」，「i」變高咗做「l」。Mike唔肯定咁樣得唔得，問係咪要重新編輯申請或者應該點處理。
 
-對此，另一位旅客Wei Chih Wen建議Mike先記低電子簽證嘅編號，然後寫信俾相關部門，話要改出生地嘅錯誤，再耐心等回覆。Wei Chih Wen仲話，佢之前都遇過類似情況，而且成功收到修改嘅回覆。
+對此，另一位旅客Wei Chih Wen建議Mike先記低電子簽證嘅編號，然後寫信畀相關部門，講低要改出生地嘅錯誤，再耐心等回覆。Wei Chih Wen仲話，佢之前都遇過類似情況，而且成功收到修改嘅回覆。
 
 最後，Mike Chiu真係跟住建議做，好快就收到官方回覆，問題順利解決。呢次經歷提醒大家，申請簽證嗰陣如果遇到類似問題，可以透過聯絡官方嚟修改同確認，以免影響旅行計劃。
 
@@ -33,7 +33,7 @@ _srcHash: 615cad819e88bbd345f4f2f73942f036
 
 請印尼移民局幫手修改係唯一嘅解決方法。建議你喺辦公時間透過[印尼移民局網站](https://evisa.imigrasi.go.id/)嘅Contact Us（喺首頁右上角）攞協助。
 
-電郵來回最好一針見血，等人哋知你個問題喺邊。請跟以下格式喺email入面提供資訊，就可以最快速度搞掂電子簽證上嘅姓名、出生地等等常見錯誤：
+電郵來回最好一針見血，等人哋知道你嘅問題喺邊。請跟以下格式喺email入面提供資訊，就可以最快速度搞掂電子簽證上嘅姓名、出生地等等常見錯誤：
 
 ![具體該如何做？](https://images.gobaligo.id/vocus/vocus_80450c2b7c5ff9cfb7b1177c97a2ec51.png)
 
@@ -41,11 +41,11 @@ _srcHash: 615cad819e88bbd345f4f2f73942f036
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-➡️[更多峇里島超值優惠撳呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+➡️[更多峇里島超值優惠㩒我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 ## 【2024七月更新情報】
 
-可能要求更改嘅信件太多，7月開始印尼移民署已經唔接受填錯資料要求修改嘅申請，移民署嘅回信係咁樣：
+可能要求改信嘅信件太多，7月開始印尼移民署已經唔接受填錯資料要求修改嘅申請，移民署嘅回信係咁樣：
 
 ![在付款之前務必小心檢查！](https://images.gobaligo.id/vocus/vocus_4e4a3669462cf28376c2c8444b6cbcab.jpg)
 
@@ -61,6 +61,6 @@ _srcHash: 615cad819e88bbd345f4f2f73942f036
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
-喺睇我哋嘅「峇里島自由行究極旅行攻略」之前，我哋誠意邀請你先訂閱我哋更多視覺體驗分享嘅YouTube頻道「小傑 印尼」。[㩒呢度](https://bit.ly/youtube-jason)[，即刻訂閱](https://bit.ly/youtube-jason)
+喺睇我哋嘅「峇里島自由行究極旅行攻略」之前，我哋誠意邀請你先訂閱我哋更多視覺體驗分享嘅YouTube頻道「小傑 印尼」。[點擊呢度](https://bit.ly/youtube-jason)[，立即訂閱](https://bit.ly/youtube-jason)
 
-訂閱完成之後，你就可以繼續睇我哋詳盡嘅攻略，深入探索峇里島嘅每個精彩角落。㩒「峇里島自由行究極旅行攻略」，開始準備你嘅峇里島之旅！
+訂閱完成之後，你可以即刻繼續睇我哋詳盡嘅攻略，深入探索峇里島嘅每個精彩角落。點擊「峇里島自由行究極旅行攻略」，開始準備你嘅峇里島之旅啦！

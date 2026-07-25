@@ -1,12 +1,14 @@
 ---
 slug: indonesia-e-cd-guide
-title: Wajib Isi! Panduan e-CD (Electronic Customs Declaration) Masuk Indonesia
+title: >-
+  Panduan Wajib Isi e-CD (Electronic Customs Declaration) Sebelum Masuk
+  Indonesia
 description: >-
-  Indonesia Electronic Customs Declaration (e-CD) adalah formulir deklarasi bea
+  Electronic Customs Declaration (e-CD) Indonesia adalah formulir deklarasi bea
   cukai online yang wajib diisi oleh semua wisatawan yang masuk ke Indonesia.
-  Yuk simak panduan lengkapnya di sini!
+  Yuk simak panduan lengkapnya di sini
 pubDate: '2023-08-20'
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-25T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a96194b8dfd5f1abf1f403a768645e50.jpg'
 tags:
   - ecd
@@ -18,32 +20,32 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: id
-_srcHash: 45f6a86da6c85f8acd60d1414464fd42
+_srcHash: PENDING_RETRY_cd5f73a38db76dda66e1cfb7b5a70bf1
 ---
 ## Apa Itu e-CD?
 
-**Intinya begini**: e-CD (Electronic Customs Declaration) Indonesia sekarang sudah terintegrasi ke dalam sistem **satu atap online** bernama **"All Indonesia"**. Setelah diisi, kamu bakal dapat email berisi QR Code. **QR Code ini wajib kamu tunjukkan di pos pemeriksaan bea cukai sebelum keluar bandara** — jadi jangan lupa disiapkan ya! Saat mengisi, pastikan paspor kamu masih berlaku **minimal 6 bulan** terhitung dari tanggal masuk Indonesia.
+**Intinya** : e-CD (Electronic Customs Declaration) Indonesia sekarang sudah terintegrasi dalam sistem **satu atap online** bernama **All Indonesia**. Setelah diisi, kamu bakal dapat email berisi QR Code. **Saat keluar bandara, di pos terakhir bea cukai, kamu wajib tunjukkin QR Code itu (dari HP atau cetakan) buat discan**. Paspor kamu juga harus masih berlaku **minimal 6 bulan** dari tanggal masuk Indonesia.
 
-Indonesia Electronic Customs Declaration (e-CD) adalah formulir deklarasi bea cukai online yang wajib diisi oleh semua penumpang yang masuk ke Indonesia. Kamu bisa akses formulir digital ini lewat internet dan isi data yang diminta. Setelah selesai, kamu bakal terima email berisi formulir lengkap plus QR Code. Nah, di pos terakhir sebelum keluar bandara, yaitu **"Deklarasi Bea Cukai"**, kamu harus tunjukkan QR Code dari HP atau versi cetak untuk dipindai.
+Electronic Customs Declaration (e-CD) Indonesia adalah formulir deklarasi bea cukai online yang wajib diisi semua wisatawan yang masuk ke Indonesia. Kamu bisa akses formulir digital ini lewat internet dan isi data yang diminta. Setelah selesai, kamu bakal terima email berisi formulir lengkap dan QR Code. Jangan lupa, di pos terakhir sebelum keluar bandara (pos Bea Cukai), tunjukkin QR Code dari HP atau cetakan buat discan.
 
-Detail formulir e-CD: kamu harus kasih info terbaru tentang data diri, rencana perjalanan, dan data paspor. Paspor kamu harus **masih berlaku minimal 6 bulan** sejak tanggal masuk Indonesia. Kamu juga perlu deklarasi barang bawaan — ada beberapa barang yang **sama sekali nggak boleh** dibawa masuk ke Indonesia, lho!
+Detail formulir e-CD: kamu harus kasih info terbaru soal identitas diri, rencana perjalanan, dan data paspor. Paspor kamu wajib **masih berlaku minimal 6 bulan** dari tanggal masuk Indonesia. Kamu juga harus deklarasi barang bawaan — ada beberapa barang yang **sama sekali nggak boleh** dibawa masuk, lho!
 
-## e-CD sekarang jadi satu atap, cek [di sini](/id/blog/bali-evisa-customs-health-declaration/)
+## e-CD Sekarang Jadi Satu Atap, Cek [di sini](/id/blog/bali-evisa-customs-health-declaration/)
 
 ![e-CD已改為一站式申請，請看這裡](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
 ## Tips Isi Formulir e-CD:
 
-1. Buka <https://allindonesia.imigrasi.go.id/>
-2. Kamu bisa isi formulir e-CD dari jauh-jauh hari, atau pas udah sampai di bandara Indonesia/Bali juga bisa langsung isi online
-3. Isi formulir e-CD maksimal **3 hari** sebelum tanggal masuk
-4. Nanti kamu dapat QR Code — simpan di HP (mending di-screenshot), atau cetak aja biar aman
-5. Kalau kamu liburan sekeluarga, cukup isi satu formulir untuk semua anggota keluarga
+1. Masuk ke <https://allindonesia.imigrasi.go.id/>
+2. Kamu bisa isi formulir e-CD dari jauh-jauh hari, atau pas udah sampai di bandara Indonesia/Bali — tinggal online aja
+3. Isi formulir e-CD **maksimal 3 hari** sebelum tanggal masuk
+4. Kamu bakal dapet QR Code — simpan di HP (mending screenshot), atau cetak aja
+5. Kalau liburan sekeluarga, cukup isi satu formulir aja yang mencakup semua anggota keluarga
 6. Wajib isi e-CD, baik kamu WNI maupun WNA
-7. Negara nggak ada "Taiwan"? Tenang, pilih "Others" terus tulis "Taiwan"
+7. Negara nggak ada pilihan "Taiwan"? Pilih aja "Others" terus tulis "Taiwan"
 
 ---
 
-👈 **Kembali ke Panduan Ultimate Liburan ke Bali**
+👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap buat pemula? [Klik di sini buat baca 'Panduan Ultimate Liburan ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/) — langsung paham semua yang perlu disiapin sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

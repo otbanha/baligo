@@ -15,11 +15,11 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 18ed8b20f9fb184c1569603b321d506b
+_srcHash: 8bc640aeba14729a639af6e0abab1467
 ---
 ![峇里島同一個地方待四天能玩什麼？四天烏布之旅程紀錄](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
-**先讲结论**：乌布 4 天行程建议安排——素食餐厅 Wild Fire（招牌 Gado-Gado 沙拉）、圣猴森林（**注意随身物品，猴子会偷背包内财物**，建议提前买门票避开现场排队）、以及天空步道（Campuhan Ridge Walk）周边乡间漫游，步调轻松、不用天天换酒店也能玩满 4 天。
+**先讲结论**：乌布4天行程建议安排——素食餐厅Wild Fire（招牌Gado-Gado沙拉）、圣猴森林（**注意随身物品，猴子会偷背包内财物**，建议提前买门票避开现场排队）、以及天空步道（Campuhan Ridge Walk）周边乡间漫游，步调轻松、不用天天换酒店也能玩满4天。
 
 乌布是所有去到巴厘岛的旅客不能错过的地方，这名Youtube网红[[Jits into the Sunset](https://www.youtube.com/@JitsIntoTheSunset)]发布在网络上的视频，带大家认识这个文化荟萃之都。
 
@@ -31,17 +31,17 @@ _srcHash: 18ed8b20f9fb184c1569603b321d506b
 
 历险翌日一早，他们前往乌布最著名的景点 - 圣猴森林。这里有超过700只野生猴群栖息，他们有难得的机会近距离观察这些灵巧可爱的动物，看它们追逐嬉闹、互动亲昵的模样，活灵活现地展现着与人类祖先相去不远的本性。不过接下来发生了一件有趣的插曲，当他们专注观赏猴群时，一只调皮的小猴子竟然打开了他们的背包，偷走了装有现金和银行卡的钱包！幸好工作人员及时赶到，用食物将小猴子引开，并将钱包安全夺回。这件事给了他们惊奇难忘的旅游体验。
 
-[> [猴子森林优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dce3208bb81)
+> [猴子森林优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dce3208bb81)
 
-[> [乌布猴子森林 & 德格拉朗私人游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
+> [乌布猴子森林 & 德格拉朗私人游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
 
-[> [乌布猴子森林＆秘境瀑布之旅（含专业拍摄服务）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
+[> [乌布猴子森林＆秘境瀑布之旅（含专业拍摄服务）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)）
 
 ## 乡间漫游
 
 离开猴林后，他们沿着一条小径前往乌布周边乡间。途中景色宜人，一路上尽是绿意盎然的田园风光，处处散发出祥和悠闲的氛围。最终抵达一片宁静的稻田，仿佛置身世外桃源，这也让他们联想起之前游览哥斯达黎加的情景。
 
-这一条被称为天空步道的小径我们有专文介绍: [乌布中心步行可到的距离居然有这样的天堂？「乌布天空步道」Campuhan Ridge Walk介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
+这一条被称为天空步道的小径我们有专文介绍：[乌布中心步行可到的距离居然有这样的天堂？「乌布天空步道」Campuhan Ridge Walk介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
 
 ## 艺术市集
 
@@ -51,9 +51,9 @@ _srcHash: 18ed8b20f9fb184c1569603b321d506b
 
 最后一站，他们参观了巴厘岛最神圣的圣泉寺 Tirta Empul。正值满月之夜，庙内涌进大量当地教徒前来沐浴洁净，体现了独特的印度教信仰。在这个拥有千年历史的古迹中，他们被那份虔诚的氛围深深折服，更被庙方供应免费糖果水果的热情好客打动。
 
-[> [Tirta Empul Temple身心洗礼 & 乌布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
+> [Tirta Empul Temple身心洗礼 & 乌布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
 
-[> 人少很多的圣泉[乌布心灵之旅 & 净化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
+> 人少很多的圣泉[乌布心灵之旅 & 净化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
 ## 观看乌布四天旅程的视频
 
@@ -69,11 +69,11 @@ _srcHash: 18ed8b20f9fb184c1569603b321d506b
 
 > 【Ubud】[Cretya Ubud俱乐部 & 巴杜尔火山吉普车越野 & 巴厘岛瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df8e091b918)
 
-【乌布】[ATV四轮摩托车骑行（含午餐 & 自选活动）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99822-atv-quad-bike-jatiluwih-north-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D944329f3a2)
+> 【Ubud】[ATV四轮摩托车骑行（含午餐 & 自选活动）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99822-atv-quad-bike-jatiluwih-north-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D944329f3a2)
 
-【乌布】[巴厘岛精选Instagram景点一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df296c9cc4d)
+> 【Ubud】[巴厘岛精选Instagram景点一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df296c9cc4d)
 
-【乌布】[巴厘岛圣泉寺净身私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16083-eat-pray-love-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df2f12be40c)
+> 【Ubud】[巴厘岛圣泉寺净身私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16083-eat-pray-love-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df2f12be40c)
 
 ## 更多乌布景点介绍
 
@@ -89,7 +89,7 @@ _srcHash: 18ed8b20f9fb184c1569603b321d506b
 
 在我们的文章中，我们将深入介绍每一家住宿的特色和魅力，以及如何预订您的下一次乌布之旅。让我们一起探索这些令人惊叹的山林美景，并体验巴厘岛的独特魅力！
 
-- [【乌布蜜月住宿】七家乌布度蜜月推荐住宿](/zh-cn/blog/bali-honeymoon-resorts-guide/)
-- [【巴厘岛乌布住宿】乌布21家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+- [【乌布蜜月住宿】七家乌布蜜月推荐住宿](/zh-cn/blog/bali-honeymoon-resorts-guide/)
+- [【巴厘岛乌布住宿】乌布21家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-resorts-guide/)
 - [探索乌布8家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【乌布住宿推荐】泳池别墅私密天堂: 乌布12间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
+- [【乌布住宿推荐】泳池别墅私密天堂：乌布12间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)

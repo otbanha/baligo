@@ -4,7 +4,6 @@ slug: bali-nusa-penida-gili-itinerary
 description: >-
   第一次前往巴厘岛，实际走访佩尼达岛、吉利T岛与乌布，分享10天9夜自由行完整行程、水肺潜水、鬼蝠魟、巴杜尔火山日出、住宿、美食与交通心得，并整理最后一天行程安排建议，提供第一次到巴厘岛旅行的朋友参考。
 pubDate: 2026-08-15T00:00:00.000Z
-updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: 17
 category:
   - 遊記分享
@@ -38,9 +37,12 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-07-25T00:00:00.000Z
 lang: zh-cn
-_srcHash: 84f40d99b33a68e869138b34053431e3
+_srcHash: 1f5c2727354d79910e97aaf4fae5ee2a
 ---
+
+> 以下改编自 [杨钧翰 游记](https://www.facebook.com/share/p/1G6NfceCi7/)
 
 ## 出发前，比起期待，我其实更多的是犹豫
 
@@ -58,7 +60,7 @@ _srcHash: 84f40d99b33a68e869138b34053431e3
 
 整趟旅程中，最让我惊艳的地方，就是佩尼达岛。
 
-相比巴厘岛本岛，这里的生活步调更加悠闲，很适合安排几天慢慢放松。每天除了潜水，就是看看海、吹吹风，完全没有赶行程的压力。
+相比巴厘岛本岛，这里的生活节奏更加悠闲，很适合安排几天慢慢放松。每天除了潜水，就是看看海、吹吹风，完全没有赶行程的压力。
 
 如果你喜欢潜水，那这里真的值得多停留几天。
 
@@ -71,6 +73,8 @@ https://youtu.be/l5T_u1tnRHY
 天使浴池、破碎沙滩、恐龙湾以及钻石海滩，各自拥有不同的地形与景色，站在悬崖边俯瞰印度洋，真的像是一场视觉盛宴。
 
 到了晚上，再到海边餐厅一边享用晚餐、一边听现场乐团演唱，吹着海风，度假氛围直接拉满。
+
+{{block:penidaguide}}
 
 ***
 
@@ -110,6 +114,8 @@ https://youtube.com/shorts/lXemz_JODWo
 
 旅程最后，来到圣泉寺，替这趟旅行画下一个宁静而圆满的句点。
 
+{{block:ubud}}
+
 ***
 
 ## 10天9夜行程总览
@@ -121,41 +127,43 @@ https://youtube.com/shorts/lXemz_JODWo
 
 https://youtube.com/shorts/HjaEoqBsGp4
 
-从沙努尔搭船前往佩尼达岛，走访天使浴池（Angel's Billabong）、破碎沙滩（Broken Beach）与恐龙湾（Kelingking Beach），晚餐于 Penida Colada Beach Bar，入住 VNS Beachfront Guesthouse。
+从沙努尔搭船前往佩尼达岛，走访天使浴池（Angel's Billabong）、破碎沙滩（Broken Beach）与恐龙湾（Kelingking Beach），晚餐于 Penida Colada Beach Bar，入住 [VnS Beachfront Guesthouse](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28217752)。
 
 https://youtube.com/shorts/O1yqlXc6PLs
 
-**Day 3｜佩尼达岛潜水**
-参加 Pure Dive 水肺潜水行程，晚餐于 Cactus Beach Club & Restaurant。
+**第3天｜珀尼达岛潜水**
+参加Pure Dive水肺潜水行程，晚餐在Cactus Beach Club & Restaurant。
 
-**Day 4｜潜水＋钻石海滩**
-再次参加 Pure Dive 水肺潜水，下午前往钻石海滩（Diamond Beach），晚上到 Penida Colada Beach Bar 用餐。
+**第4天｜潜水＋钻石海滩**
+再次参加Pure Dive水肺潜水，下午前往钻石海滩（Diamond Beach），晚上到Penida Colada Beach Bar用餐。
 
-**Day 5｜水晶湾**
-参加 Pure Dive 水肺潜水，之后前往水晶湾（Crystal Bay），晚餐于 Amarta Penida。
+**第5天｜水晶湾**
+参加Pure Dive水肺潜水，之后前往水晶湾（Crystal Bay），晚餐在Amarta Penida。
 
-**Day 6｜前往吉利群岛**
-乘船前往吉利 T 岛（Gili Trawangan），造访北侧沙滩，傍晚到西岸骑马欣赏夕阳，入住 Quma Boutique Hotel。
+**第6天｜前往吉利群岛**
+乘船前往吉利T岛（Gili Trawangan），探访北侧沙滩，傍晚到西岸骑马欣赏夕阳，入住Quma Boutique Hotel。
 
 https://youtube.com/shorts/wXvhx58DIps
 
-**Day 7｜吉利 T 岛潜水**
-参加 Dive Central Gili 水肺潜水，晚上前往 Pink Sunset、Kiss 与 Margarita Resto 感受热闹夜生活。
+**第7天｜吉利T岛潜水**
+参加Dive Central Gili水肺潜水，晚上前往Pink Sunset、Kiss与Margarita Resto感受热闹夜生活。
 
-**Day 8｜悠闲度假**
-白天前往北侧沙滩放松，入住 Villa Koru，傍晚再次前往西岸欣赏夕阳。
+**第8天｜悠闲度假**
+白天前往北侧沙滩放松，入住Villa Koru，傍晚再次前往西岸欣赏夕阳。
 
-**Day 9｜返回巴厘岛**
-乘船至巴东拜（Padang Bai），包车前往德哥拉朗梯田、TIS Cafe、乌布皇宫及乌布市集，入住 Jepun Villa。
+**第9天｜返回巴厘岛**
+乘船至巴东拜（Padang Bai），包车前往德哥拉朗梯田、TIS Cafe、乌布皇宫及乌布集市，入住Jepun Villa。
 
-**Day 10｜巴杜尔火山日出**
-凌晨搭乘吉普车前往巴杜尔火山欣赏日出，之后至 Akasa 享用早餐并欣赏火山美景，接着造访圣泉寺，最后前往机场，搭乘返程班机，约 13:00 抵达机场办理登机手续，为这趟精彩的巴厘岛之旅画下完美句点。
+**第10天｜巴杜尔火山日出**
+凌晨搭乘吉普车前往巴杜尔火山欣赏日出，之后至Akasa享用早餐并欣赏火山美景，接着造访圣泉寺，最后前往机场，搭乘返程航班，约13:00抵达机场办理登机手续，为这趟精彩的巴厘岛之旅画下完美句点。
 
 https://youtube.com/shorts/XDOnfDyylsA
 
-**（编按）** 一般来说，不建议把巴杜尔火山、圣泉寺等距离机场较远的景点安排在返程当天。巴厘岛交通状况变数较大，旺季或高峰时段堵车相当常见，一旦遇到车流增加或突发状况，都可能影响赶飞机的时间。
+（编按）一般来说，不建议把巴杜尔火山、圣泉寺等距离机场较远的景点安排在返程当天。巴厘岛交通状况变数较大，旺季或高峰时段堵车相当常见，一旦遇到车流增加或突发状况，都可能影响赶飞机的时间。
 
 建议将最后一天安排在库塔、金巴兰、沙努尔等距离机场较近的区域，或预订下午、晚上的航班，旅程会更从容。
+
+{{block:penidaklook}}
 
 ***
 
@@ -189,3 +197,7 @@ justimade78
 至少对我来说，这10天9夜，不只是一次旅行，更是一段让自己放慢脚步、看见不同风景的美好回忆。
 
 希望这篇游记，也能成为下一位准备前往巴厘岛旅行的你，一点点实用的参考。
+
+{{block:遊記}}
+
+{{block:klook}}

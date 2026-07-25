@@ -15,15 +15,15 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: zh-cn
-_srcHash: 54fc1aeff4fd4a943afa4d504947035a
+_srcHash: d37e2824a053371931ddb3bdf2f5ba46
 ---
-**重点摘要**：这趟女生五天四夜游记行程是**巴杜尔火山日出徒步 → 乌布艺术市集 → 佩尼达岛浮潜 → 丛林瑜伽**。巴杜尔火山推荐报名吉普车越野或徒步日出行程，回程可搭 Gojek 摩托车衔接乌布市集美食与手工艺品采购，是动静皆宜的女生行程安排范本。
+**重点摘要**：这趟女生五天四夜游记行程是**巴杜尔火山日出徒步 → 乌布艺术市集 → 佩尼达岛浮潜 → 丛林瑜伽**。巴杜尔火山推荐报名吉普车越野或徒步日出行程，回程可搭Gojek摩托车衔接乌布市集美食与手工艺品采购，是动静皆宜的女生行程安排范本。
 
-在巴厘岛的这段五天四夜之旅中，Clairejenjen 和她的朋友们探索了巴厘岛独特而多样的魅力。她们的行程充满了多姿多彩的活动和精彩的体验，从观赏日出到浮潜，再到丛林瑜伽，每一个瞬间都弥漫着惊奇与美好。
+在巴厘岛的这段五天四夜之旅中，Clairejenjen和她的朋友们探索了巴厘岛独特而多样的魅力。他们的行程充满了多姿多彩的活动和精彩的体验，从观赏日出到浮潜，再到丛林瑜伽，每一个瞬间都弥漫着惊奇与美好。
 
 Clairejenjen视频截图
 
-第二天一大早，她们登上了巴杜尔火山，准备目睹巴厘岛独特的日出景色。攀登的路程并不轻松，但当她们抵达山腰休息站时，眼前的壮丽景色和清新空气让她们感到无比兴奋。穿过曲折的山路，她们终于来到了山顶，在朝霞中欣赏着太阳缓缓升起的美景，这一刻，她们的心情如同那初升的阳光一般明亮。
+第二天一大早，他们登上了巴杜尔火山，准备目睹巴厘岛独特的日出景色。攀登的路程并不轻松，但当他们抵达山腰休息站时，眼前的壮丽景色和清新空气让他们感到无比兴奋。穿过曲折的山路，他们终于来到了山顶，在朝霞中欣赏着太阳缓缓升起的美景，这一刻，他们的心情如同那初升的阳光一般明亮。
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_6e47af0c58c90e28616fa726ba79252f.jpg)
 
@@ -33,19 +33,19 @@ Clairejenjen视频截图
 
 > [巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
-> [巴杜尔火山日出健行](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F7797-mount-batur-sunrise-trekking-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6645ae8416)
+> [巴杜尔火山日出徒步](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F7797-mount-batur-sunrise-trekking-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6645ae8416)
 
-随后，她们搭乘Gojek摩托车返回度假别墅，享受了一顿丰盛的早餐，然后前往乌布的艺术市集，感受着当地文化的独特魅力。在市集里，她们品尝了各种巴厘岛特色美食，欣赏了当地手工艺品和艺术作品，仿佛置身于一个充满生活气息的异国小镇。
+随后，他们搭乘Gojek摩托车返回度假别墅，享用了一顿丰盛的早餐，然后前往乌布的艺术市集，感受当地文化的独特魅力。在市集里，他们品尝了各种巴厘岛特色美食，欣赏了当地手工艺品和艺术作品，仿佛置身于一个充满生活气息的异国小镇。
 
 > 延伸阅读：推荐[乌布22间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
 
-[> 【巴厘岛乌布住宿】乌布32家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+> [【巴厘岛乌布住宿】乌布32家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-resorts-guide/)
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_dcba359c585b69b719edfb486213c9cb.jpg)
 
 Clairejenjen视频截图
 
-接着，他们乘船到佩尼达岛体验浮潜的乐趣，穿上潜水装备，探索着大海中的神秘世界。初次尝试的紧张和兴奋交织在一起，当他们沉入海底，看到五颜六色的珊瑚和缤纷的鱼群时，心中的惊喜无以言表。即使有些恐惧，但他们勇敢地克服了，享受着海洋带来的无尽乐趣与奇妙体验。
+接着，他们搭船到佩尼达岛投入了浮潜的乐趣，穿上潜水装备，探索着大海中的神秘世界。初次尝试的紧张和兴奋交织在一起，当他们沉入海底，看到五颜六色的珊瑚和缤纷的鱼群时，心中的惊喜无以言表。即使有些恐惧，但他们勇敢地克服了，享受着海洋带来的无尽乐趣与奇妙体验。
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_f608f8be7f0f3f83eeb58f72b40eb5b5.jpg)
 
@@ -63,7 +63,7 @@ Clairejenjen视频截图
 
 > [乌布瑜伽中心瑜伽课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
 
-> [乌布丛林日出瑜伽＆冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
+[> [乌布丛林日出瑜伽＆冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
 
 > [The Yoga Barn 瑜伽体验＆美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
 
@@ -75,7 +75,7 @@ Clairejenjen视频截图
 
 而这次旅程也让他们的友情更加深厚。在挑战和惊喜之间，他们彼此扶持，相互鼓励，一同度过了难忘的时光，这样的经历将成为他们友谊中最珍贵的一部分，永远铭记在心。
 
-最后，当他们回到起点，面对即将告别的瞬间，心中充满了感激和不舍。这段旅程不仅让他们收获了美好的回忆和深刻的体验，更让他们重新找到了对生活的热爱和对未来的期待。巴厘岛，成为了他们生命中一道美丽的风景线，永远闪耀在他们的回忆之中。
+最后，当他们回到起点，面对着即将告别的瞬间，心中充满了感激和不舍。这段旅程不仅让他们收获了美好的回忆和深刻的体验，更让他们重新找到了对生活的热爱和对未来的期待。巴厘岛，成为了他们生命中一道美丽的风景线，永远闪耀在他们的回忆之中。
 
 ## 观看完整视频
 
@@ -83,7 +83,7 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 {{block:戶外}}
 
-您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 ![觀看完整視頻](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 

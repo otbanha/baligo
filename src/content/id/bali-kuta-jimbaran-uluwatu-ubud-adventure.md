@@ -1,16 +1,16 @@
 ---
 slug: bali-kuta-jimbaran-uluwatu-ubud-adventure
 title: >-
-  [Gambar+Tulisan+Video] Petualangan di Bali: Pengalaman Trip Bebas dari Kuta,
+  [Foto+Teks+Video] Petualangan di Bali: Pengalaman Trip Bebas dari Kuta,
   Jimbaran, sampai Uluwatu dan Ubud
 description: >-
   Trip bebas selama 11 hari ke Bali dan Lombok. Perjalanan ini sampai sekarang
-  masih membekas banget di ingatan. Waktu merencanakan trip ini, aku banyak baca
-  catatan perjalanan dan saran dari para senior, dan sadar banget kalau bikin
-  rencana perjalanan itu nggak gampang. Makanya, aku mau share beberapa
-  rekomendasi tempat wisata di Bali yang udah kita kunjungi, plus video pendek
-  dari tiap spot biar kalian bisa lebih ngerasain suasananya, dan bantu kalian
-  mutusin mau masukin spot-spot ini ke wishlist atau nggak.
+  masih nggak terlupakan. Waktu rencanain trip ini, gue banyak baca catatan
+  perjalanan dan saran dari para senior, dan sadar banget kalau bikin rencana
+  perjalanan itu nggak gampang. Makanya, gue mau bagi-bagi rekomendasi tempat
+  wisata di Bali yang udah kita kunjungi, plus video pendek tiap spot biar
+  kalian bisa lebih ngerasain suasananya, dan bantu kalian mutusin mau masukin
+  tempat-tempat ini ke wishlist atau nggak.
 pubDate: 2024-07-15T00:00:00.000Z
 category:
   - 遊記分享
@@ -23,14 +23,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3ab35a264fd828315cb7d2e460674afd.jpg'
 originalUrl: 'https://vocus.cc/article/668b6804fd89780001a19257'
 lang: id
-_srcHash: 2e8696c22e1f5377e6dacb83f1298afa
+_srcHash: PENDING_RETRY_80d8a5ce6981f4d5c2cb18dbd1a408cb
 ---
 
-> Konten di bawah ini disediakan oleh anggota grup [Ye Tingyu](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i)
+> 以下內容由團友 [葉庭瑜](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i) 提供
 
-Akhir April kemarin, kami memulai trip bebas selama 11 hari ke Bali dan Lombok. Perjalanan ini sampai sekarang masih membekas banget di ingatan. Waktu merencanakan trip ini, aku banyak baca catatan perjalanan dan saran dari para senior, dan sadar banget kalau bikin rencana perjalanan itu nggak gampang. Makanya, aku mau share beberapa rekomendasi tempat wisata yang udah kita kunjungi, plus video pendek dari tiap spot biar kalian bisa lebih ngerasain suasananya, dan bantu kalian mutusin mau masukin spot-spot ini ke itinerary atau nggak.
+Akhir April kemarin, kita jalan-jalan bebas selama 11 hari ke Bali dan Lombok. Perjalanan ini sampai sekarang masih nggak terlupakan. Waktu rencanain trip ini, gue banyak baca catatan perjalanan dan saran dari para senior, dan sadar banget kalau bikin rencana perjalanan itu nggak gampang. Makanya, gue mau bagi-bagi rekomendasi tempat wisata yang udah kita kunjungi, plus video pendek tiap spot biar kalian bisa lebih ngerasain suasananya, dan bantu kalian mutusin mau masukin tempat-tempat ini ke itinerary atau nggak.
 
-Sepanjang perjalanan ini, kami menjelajahi lima area utama: Jimbaran, Uluwatu, Ubud, Gili Islands, dan Kuta. Di artikel ini, aku bakal fokus bahas tiga area pertama—Jimbaran, Uluwatu, dan Ubud—beserta rekomendasi tempat wisata dan komentar pribadi (rekomendasi dan komentar ini murni opini pribadi, kalau ada pendapat beda, silakan diskusi ya).
+Sepanjang perjalanan ini, kita jelajahi lima area utama: Jimbaran, Uluwatu, Ubud, Gili Islands, dan Kuta. Di artikel ini, gue bakal fokus bahas tiga area pertama—rekomendasi tempat wisata di Jimbaran, Uluwatu, dan Ubud plus komentar pribadi (rekomendasi dan komentar ini murni opini pribadi, kalau ada pendapat beda, silakan diskusi ya).
 
 ## Rekomendasi Tempat Wisata di Bali
 
@@ -44,56 +44,56 @@ Seafood Jimbaran (disediakan oleh Ye Tingyu)
 
 **Durasi: 2,5 jam**
 
-Jimbaran Beach punya julukan sebagai salah satu dari '10 Pantai Matahari Terbenam Terbaik di Dunia', dan pemandangannya emang nggak ada obat — baik laut maupun sunset-nya, cantik banget bikin speechless. Tapi, harga restoran di sini bikin agak kaget. Ini makanan pertama kita setelah turun pesawat, bertiga aja bisa habis lebih dari USD$160, bikin geleng-geleng kepala sama mahalnya.
+Jimbaran Beach punya julukan sebagai salah satu dari '10 Pantai Sunset Terbaik di Dunia', dan pemandangannya emang nggak ada obat — baik lautnya maupun sunsetnya, cantiknya bikin speechless. Tapi sayang, harga restoran di sini lumayan bikin kantong menjerit. Ini makanan pertama kita begitu turun dari pesawat, bertiga aja bisa abis USD$160 lebih, bikin geleng-geleng kepala sendiri.
 
-Kalau kamu makan sambil duduk di pasir, malem-malem ada band yang main di sekitar meja dan minta tip — rasanya agak kayak emotional blackmail gitu. Jadi, kalau kamu mau makan di sini, saran sih cek dulu review restorannya sebelum mutusin masuk. Pemandangan Jimbaran Beach emang worth it buat dilihat, tapi milih tempat makannya harus lebih hati-hati.
+Kalau kamu makan sambil duduk di pasir, malam-malam bakal ada band yang main di sekitar meja dan minta tip — rasanya agak kayak emotional blackmail gitu. Jadi kalau kamu mau makan di sini, saran sih cek dulu review restorannya sebelum masuk. Pemandangan Jimbaran Beach emang wajib dinikmati, tapi milih tempat makannya harus lebih hati-hati.
 
 https://www.instagram.com/reel/C7hDmUmpeU4/?utm_source=ig_web_button_share_sheet
 
 https://www.instagram.com/reel/C6_hnL-J86g/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
+> Baca juga: [11 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Zonk](/id/blog/jimbaran-seafood-restaurants-list/)
 
-### GWK Garuda Wisnu Kencana Cultural Park, Jimbaran
+### GWK Cultural Park (Garuda Wisnu Kencana) Jimbaran
 
 ![神鷹廣場（葉庭瑜提供）](https://images.gobaligo.id/vocus/vocus_c27b44be953aec6137d489e2f5b0efa3.jpg)
 
-Garuda Wisnu Kencana Plaza (foto oleh Ye Tingyu)
+GWK Cultural Park (foto oleh Ye Tingyu)
 
 **Rating: 🌟🌟🌟🌟**
 
 **Durasi: 3 jam**
 
-GWK Garuda Wisnu Kencana Cultural Park adalah destinasi yang wajib banget dikunjungi. Dari bandara aja udah keliatan patung Wisnu yang megah — lebih tinggi 30 meter dari Patung Liberty, bikin kesan mendalam. Seluruh taman terasa luas dan khidmat, jalan-jalan di sini bikin hati tenang dan penuh rasa hormat. Sambil minum es kelapa, jalan-jalan di taman ini tuh super nyaman. Toko souvenir di dalamnya juga gede banget, barangnya lengkap, cocok buat kamu yang suka belanja. Selain itu, toilet di samping taman ada AC-nya — bikin adem di cuaca panas. GWK nggak cuma indah pemandangannya, tapi fasilitasnya juga oke, bener-bener destinasi wisata yang nggak boleh dilewatkan.
+GWK Cultural Park adalah destinasi yang super worth it buat dikunjungi. Dari bandara aja udah keliatan patung Wisnu yang megah banget — tingginya 30 meter lebih dari Patung Liberty, bikin langsung terkesima. Suasana taman ini luas dan khidmat, cocok banget buat jalan santai sambil ngerasain ketenangan. Sambil minum kelapa muda, jalan-jalan di sini tuh rasanya adem banget. Toko souvenir di dalamnya juga gede dan barangnya lengkap, cocok buat kamu yang suka belanja. Bonusnya, toilet di samping taman ini ber-AC — bikin seger di tengah cuaca panas. GWK Cultural Park nggak cuma pemandangannya yang keren, tapi fasilitasnya juga oke punya. Pokoknya destinasi yang nggak boleh kamu lewatin!
 
 https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Panduan 30 tempat wisata di [Jimbaran 2026](/id/blog/jimbaran-guide/)
+> Baca juga: Panduan 30 tempat wisata [Jimbaran Guide 2026](/id/blog/jimbaran-guide/)
 
-> Panduan GWK: [Garuda Wisnu Kencana Cultural Park Bali – Panduan Lengkap](/id/blog/gwk-cultural-park-bali/)
+> Panduan GWK: [Garuda Wisnu Kencana Cultural Park Bali - Panduan Lengkap](/id/blog/gwk-cultural-park-bali/)
 
 > Tiket diskon Klook: [Tiket Masuk GWK Cultural Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
 
-### Tari Kecak Api di Pura Uluwatu
+### Tari Kecak di Pura Uluwatu
 
 ![Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_96343c5b07b3ceae31d0c3e6b4fd9e97.jpg)
 
-Kecak Fire Dance
+Tari Kecak Api
 
 **Rating: 🌟🌟🌟**
 
 **Durasi: 1,5 jam**
 
-Pertunjukan Tari Kecak Api di Pura Uluwatu menceritakan kisah mitologi Bali. Pertunjukan ini menarik hampir 2.000 penonton, suasananya benar-benar spektakuler. Sambil nonton, kamu bisa menikmati tarian yang keren dan pemandangan sunset merah darah yang megah — kombinasi visual dan budaya yang bikin nagih banget.
+Pertunjukan Tari Kecak Api di Pura Uluwatu menceritakan kisah mitologi Bali. Pertunjukan ini menarik hampir 2000 penonton, suasananya benar-benar spektakuler. Sambil nonton, kamu bisa menikmati tarian yang keren dan pemandangan matahari terbenam merah darah yang megah — kombinasi visual dan budaya ini bikin pengalaman yang nggak terlupakan.
 
-Saran: sebelum nonton, cari tahu dulu sinopsis ceritanya biar lebih masuk ke suasana. Kalau nggak, bisa-bisa kamu bingung dan malah bosen. Yang perlu diingat, bagian api cuma muncul di klimaks akhir selama sekitar 5 menit aja, jadi jangan samain dengan atraksi api ala street performer di Taiwan ya.
+Saran: sebelum nonton, coba cari tahu dulu sinopsis ceritanya biar lebih masuk ke suasana. Kalau nggak, bisa-bisa kamu bingung dan malah bosen. Catatan penting: bagian api cuma muncul di klimaks akhir selama sekitar 5 menit aja, jangan disamain sama pertunjukan api ala street performer di Taiwan ya.
 
-Pertunjukan tari Kecak di Pura Uluwatu itu benar-benar pesta visual yang menggabungkan budaya dan keindahan alam. Meskipun bagian tari apinya nggak banyak, tapi suasana dan kualitas pertunjukannya secara keseluruhan worth it banget buat ditonton.
+Pertunjukan tari Kecak di Pura Uluwatu adalah perpaduan budaya dan keindahan alam yang memukau. Meskipun bagian tarian apinya tidak terlalu banyak, suasana keseluruhan dan kualitas pertunjukannya benar-benar worth it untuk ditonton.
 
 https://www.instagram.com/reel/C7oyY74JU3L/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Kecak Fire Dance – Pertunjukan Spektakuler yang Wajib Ditonton di Bali (Lengkap dengan Info Tiket)](/id/blog/kecak-fire-dance-bali/)
-> [6 Tempat Terbaik untuk Nonton Kecak Fire Dance di Bali: Perpaduan Visual dan Budaya yang Memukau](/id/blog/bali-kecak-fire-dance-locations/)
+> Baca juga: [Kecak Fire Dance – Pertunjukan Spektakuler yang Wajib Kamu Tonton di Bali (Lengkap dengan Info Tiket)](/id/blog/kecak-fire-dance-bali/)
+> [6 Tempat Terbaik untuk Nonton Kecak Fire Dance di Bali: Pesta Visual dan Budaya yang Nggak Boleh Dilewatkan](/id/blog/bali-kecak-fire-dance-locations/)
 
 ### Oneeighty Club – Cliff Bar di Uluwatu
 
@@ -105,19 +105,19 @@ Oneeighty Day Club (foto oleh Ye Tingyu)
 
 **Durasi: 3,5 jam**
 
-Oneeighty Club adalah tempat yang super keren banget, dibangun di atas tebing. Kolam renang khasnya jadi spot foto yang kece abis—bahkan kamu bisa habiskan 2 jam cuma buat foto-foto. Biaya masuknya juga bisa dipakai buat beli makanan/minuman, jadi terasa worth it. Makanan di sini termasuk salah satu yang paling enak di kawasan Uluwatu, wajib coba!
+Oneeighty Club adalah tempat kece yang dibangun di atas tebing. Kolam renang khasnya super Instagramable, kamu bisa habisin 2 jam cuma buat foto-foto. Biaya masuknya bisa dipakai untuk belanja di dalam, jadi lumayan worth it. Makanan di sini termasuk salah satu yang paling enak di kawasan Uluwatu, wajib coba banget.
 
-Tapi, setelah berenang jangan lupa cuci tangan dulu sebelum pegang makanan, kalau nggak gampang kena 'Bali Belly' (diare khas Bali). Ini pengalaman pribadiku di sini, pelajaran yang nggak bakal kulupa.
+Tapi, setelah berenang jangan lupa cuci tangan dulu sebelum makan, kalau nggak gampang kena 'Bali Belly' (diare khas Bali). Ini pengalaman pribadiku di sini, pelajaran yang nggak bakal kulupa.
 
-Oneeighty Club punya lokasi yang unik di atas tebing dan makanan yang enak, cocok buat santai sambil dapetin foto-foto keren. Tapi tetap jaga kebersihan ya, biar liburanmu nggak terganggu.
+Oneeighty Club punya lokasi yang unik di atas tebing dan makanan yang enak, cocok buat santai sambil dapetin foto keren. Tapi tetap jaga kebersihan biar liburanmu nggak terganggu.
 
 https://www.instagram.com/reel/C7MW0hVpkiz/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Eksplor Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Epic](/id/blog/oneeighty-dayclub-uluwatu-pool/)
+> Baca juga: [Menjelajahi Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Indah](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
-> Klook punya [Oneeighty Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
+> [Oneeighty Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8) dari Klook
 
-> Baca Juga: [Tips Kesehatan Travel di Bali: Panduan Air Minum dan Diare](/id/blog/bali-travel-health-tips/)
+> Baca juga: [Tips Kesehatan Travel ke Bali: Panduan Air Minum dan Diare di Bali](/id/blog/bali-travel-health-tips/)
 
 ### Monkey Forest Ubud
 
@@ -129,17 +129,17 @@ Monkey Forest (foto oleh Ye Tingyu)
 
 **Durasi: 2 jam**
 
-Monkey Forest adalah tempat yang penuh nuansa klasik. Di seluruh area ada berbagai patung seni, gua, dan totem yang bikin kamu serasa lagi petualangan. Jumlah monyet di sini bahkan lebih banyak dari turis — mereka super bebas bergerak. Kami sendiri lihat langsung monyet merokok, monyet minum cola, dan monyet yang kayak lagi mabuk — pemandangan unik banget!
+Monkey Forest adalah tempat yang penuh nuansa klasik, dengan berbagai patung seni, gua, dan totem di seluruh area — bikin kamu serasa lagi petualangan. Jumlah monyet di sini bahkan lebih banyak dari turis, dan mereka super bebas. Kami sendiri lihat langsung monyet yang merokok, monyet minum cola, dan monyet yang kayak lagi mabok — pemandangan unik banget.
 
-Pas ke Monkey Forest, wajib banget patuhin aturan di dalam kawasan biar aman dari serangan monyet. Selain itu, ada layanan seru: kamu bisa bayar 100 ribu rupiah (sekitar USD$3) biar monyet pegang HP kamu buat selfie — meski efeknya tipuan, hasil fotonya kelihatan nyata banget dan bikin perjalanan makin asyik.
+Pas jalan-jalan di Monkey Forest, wajib banget ikutin aturan di dalam area biar aman dari serangan monyet. Selain itu, ada layanan seru: kamu bisa bayar USD$3 biar monyet pegangin HP kamu buat selfie — meskipun efeknya tipuan, hasil fotonya kelihatan super realistis dan bikin perjalanan makin seru.
 
-Monkey Forest adalah tempat yang penuh budaya dan kejutan, cocok banget buat kamu yang suka binatang dan petualangan.
+Monkey Forest adalah tempat yang penuh budaya dan kejutan, cocok banget buat kamu yang suka hewan dan petualangan.
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Bingung jalan-jalan di Ubud? Cek panduan peta Ubud kami
+> Baca juga: Bingung mau jalan-jalan di Ubud? Cek panduan peta Ubud kita
 
-### Desa Penglipuran Ubud
+### Desa Penglipuran, Ubud
 
 ![彭里普蘭村莊（葉庭瑜提供）](https://images.gobaligo.id/vocus/vocus_3be9f1e248a2509af6c7a87483488ba1.jpg)
 
@@ -147,27 +147,27 @@ Desa Penglipuran (foto oleh Ye Tingyu)
 
 **Rating: 🌟🌟🌟🌟🌟**
 
-**Waktu yang disarankan: 2 jam**
+**Lama kunjungan: 2 jam**
 
-Desa Penglipuran dijuluki sebagai desa terbersih di dunia. Setiap rumah di sini terbuka untuk umum, jadi kamu bisa masuk dan melihat langsung keseharian serta kehidupan sederhana warga setempat. Arsitektur dan pemandangan jalan di desa ini super khas — setiap sudut layak diabadikan. Jangan lewatkan pintu khas (candi bentar) di desa ini, spot foto yang wajib banget!
+Desa Penglipuran dikenal sebagai desa terbersih di dunia. Setiap rumah di sini terbuka untuk umum, jadi kamu bisa masuk dan lihat langsung kehidupan sehari-hari penduduk setempat yang masih tradisional banget. Bangunan dan pemandangan jalan di desa ini super khas, setiap sudut worth it buat difoto — apalagi pintu khas (pintu surga) di desa, wajib banget dicek buat foto aesthetic.
 
-Karena kebanyakan pengunjungnya adalah warga lokal, suasananya nggak terlalu komersil, masih asli dan alami. Warga desa ramah dan bersahabat, bikin kamu merasakan keramahan yang tulus.
+Karena yang datang kebanyakan wisatawan lokal, suasananya nggak terlalu komersil, masih asli dan alami. Warga di sini ramah dan hangat banget, bikin kamu ngerasa diterima dengan baik.
 
-Desa Penglipuran benar-benar worth it untuk dikunjungi. Selain menikmati pemandangan alam yang indah, kamu juga bisa merasakan budaya lokal yang autentik. Pengalaman traveling yang seru dan nggak terlupakan!
+Desa Penglipuran benar-benar hidden gem yang wajib dikunjungi. Selain bisa menikmati pemandangan alam yang indah, kamu juga bisa merasakan budaya lokal yang otentik. Pokoknya pengalaman yang seru dan nggak terlupakan!
 
 https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Menembus waktu di Desa Penglipuran: Rasakan pesona kuno Bali](/id/blog/penglipuran-village-bali-experience/)
+> Baca juga: [Menjelajahi Desa Penglipuran yang Abadi: Merasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
 
-**Promo Spesial Klook**
+**Paket Spesial Klook**
 
-> [Tur Desa Penglipuran & Air Terjun Kanto Lampo di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
+> [Tur Sehari Desa Penglipuran & Air Terjun Kanto Lampo di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
 
-> [Tur Sehari Desa Penglipuran (termasuk kelas memasak gratis)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
+> [Tur Sehari Desa Penglipuran (Termasuk Kelas Memasak Gratis)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
 
 > [Tur Sehari Desa Penglipuran, Ubud, Alam & Pura di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
 
-### Sawah Terasering Tegalalang Ubud
+### Sawah Terasering Tegallalang di Ubud
 
 ![Tegallalang Rice Field（葉庭瑜提供）](https://images.gobaligo.id/vocus/vocus_273e9bca32d9e28d429843236d543aab.jpg)
 
@@ -175,97 +175,97 @@ Tegallalang Rice Field (foto oleh Ye Tingyu)
 
 **Rating: 🌟🌟🌟🌟**
 
-**Waktu yang disarankan: 2,5 jam**
+**Lama Kunjungan: 2,5 jam**
 
-Sawah terasering Tegalalang cuma 20 menit dari pusat Ubud, dan ini adalah spot keren yang udah masuk Warisan Dunia UNESCO. Selain bisa menikmati pemandangan sawah bertingkat yang cantik banget, kamu juga bisa coba ayunan yang seru abis. Meskipun ayunannya cuma 2 menitan dengan harga sekitar USD$13, tapi kalau pakai dress panjang, foto yang dihasilkan benar-benar worth it banget.
+Sawah Terasering Tegallalang cuma 20 menit dari pusat Ubud, dan ini adalah spot keren yang masuk Warisan Dunia UNESCO. Di sini kamu bisa menikmati pemandangan sawah bertingkat yang cantik banget, plus nyobain ayunan yang seru abis. Meskipun harga ayunan 2 menit sekitar USD$13, tapi kalau pakai dress panjang, foto-foto yang dihasilkan benar-benar worth it banget.
 
-Selain itu, ada banyak spot foto lainnya kayak sarang burung dan dekorasi hati yang pas banget buat foto-foto aesthetic. Tapi perlu diingat, karena kelembapan di sini cukup tinggi, jalan-jalan lama bisa bikin pusing, jadi saran aku, istirahat secukupnya dan jangan lupa minum air ya.
+Selain itu, ada juga banyak spot foto lainnya di sini, seperti sarang burung dan hiasan hati, yang sangat cocok untuk foto-foto. Tapi perlu diingat, karena kelembapan di sini cukup tinggi, jalan-jalan lama bisa bikin pusing. Jadi saran aku, istirahatlah secukupnya dan jangan lupa minum air.
 
-Terasering Tegalalang nggak cuma pemandangannya yang spektakuler, tapi juga punya banyak aktivitas seru. Pokoknya perpaduan sempurna antara alam dan petualangan — worth it banget buat dikunjungi.
+Terasering Tegalalang nggak cuma pemandangannya yang spektakuler, tapi juga menawarkan banyak aktivitas seru. Ini benar-benar perjalanan yang menggabungkan alam dan petualangan, worth it banget buat dikunjungi.
 
 https://www.instagram.com/reel/C79YeY6plqw/?utm_source=ig_web_button_share_sheet
 
 > Promo Klook: [Terasering Tegalalang Alas Harum](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6737d91950)
 
-### Kebun Kopi Ubud
+### Perkebunan Kopi Ubud
 
 **Rating: 🌟🌟🌟**
 
-**Lama Kunjungan: 1 jam**
+**Lama Kunjungan: 1 Jam**
 
-Di Ubud, banyak banget kebun kopi luwak. Kita mampir ke salah satu yang direkomendasiin sama supir. Di sini, kamu bisa nyicipin 16 jenis teh dan kopi yang beda-beda rasanya. Waktu itu sih pengalaman mencicipinya oke banget — bikin kamu bisa cobain banyak varian minuman dalam satu tempat.
+Di Ubud, ada banyak perkebunan kopi luwak. Kami memilih satu yang direkomendasikan sopir. Di sini, kami bisa mencicipi 16 jenis teh dan kopi yang berbeda. Waktu itu pengalaman mencicipinya lumayan enak, bikin kita bisa cobain berbagai macam minuman dalam satu waktu.
 
-Tapi pas udah pulang ke Indonesia, setelah cari-cari info, ternyata banyak review negatif soal kebun-kebun ini. Masalah utamanya: produk yang dijual nggak sesuai sama yang dicicipin. Makanya, saran gue sebelum ke kebun kopi macam gini, riset dulu ya — cek review biar nggak kecewa pas belanja.
+Tapi setelah pulang ke Indonesia, setelah cari-cari info, ternyata perkebunan-perkebunan ini banyak dapat review negatif. Masalah utamanya adalah produk yang dijual nggak sesuai dengan yang dicicipi. Jadi saran aku, sebelum pergi ke perkebunan kopi ini, pastikan kamu riset dulu, cek review-reviewnya, biar nggak dapat pengalaman belanja yang mengecewakan.
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Ada apa aja sih di Ubud? Cek [100 Cara Eksplor Ubud](/id/blog/ubud-guide/)
+> Baca juga: Seru-seruan di Ubud? Cek [100 Cara Eksplor Ubud](/id/blog/ubud-guide/)
 
-### Gym Hutan di Ubud
+### Gym Hutan di Hotel Ubud
 
 **Rating: 🌟🌟🌟🌟**
 
-**Durasi: 1,5 jam**
+**Durasi: 1,5 Jam**
 
-Gym hutan di Ubud Wapadi Hotel kasih pengalaman fitness yang super unik, dengan pemandangan alam Ubud 360 derajat. Tersembunyi di antara sawah dan hutan, kamu bisa olahraga sambil menikmati keindahan alam — menurutku sih pengalaman kayak gini jarang banget!
+Gym hutan di Hotel Wapadi Ubud kasih pengalaman olahraga yang super unik, dengan pemandangan alam Ubud 360 derajat. Tersembunyi di antara sawah dan hutan, kamu bisa olahraga sambil menikmati keindahan alam — menurutku sih pengalaman ini langka banget!
 
-Meskipun alat fitnesnya nggak banyak, karena pengunjungnya sepi, kamu hampir bisa private sendiri, menikmati ruang gym yang intim dan tenang. Suasana unik ini bikin seluruh sesi olahraga jadi lebih nyaman dan fokus.
+Walaupun alat fitnesnya nggak banyak, karena pengunjungnya sepi, kamu hampir bisa 'booking' tempat sendiri, menikmati ruang olahraga yang privat dan tenang. Suasana unik ini bikin seluruh sesi olahraga jadi lebih nyaman dan fokus.
 
-Gym hutan di Ubud Wapadi Hotel nggak cuma nyediain fasilitas fitness, tapi juga bikin kamu rileks di tengah alam. Tempat yang pas banget buat kabur dari keramaian dan cari ketenangan.
+Gym hutan di Hotel Wapadi Ubud nggak cuma kasih fasilitas olahraga, tapi juga bikin kamu rileks di tengah alam. Tempat yang pas buat kabur dari keramaian dan cari ketenangan.
 
 https://www.instagram.com/reel/C7rTe1ypa9_/?utm_source=ig_web_button_share_sheet
 
 ## Cerita Sampingan & Penutup
 
-Ngomong-ngomong, selama perjalanan kami juga mengalami beberapa hal tak terduga. Kami sudah bikin video pendek buat dibagikan ke kalian:
+Ngomong-ngomong, selama perjalanan kami juga nemu beberapa hal tak terduga. Kami udah bikin video pendek buat dibagi sama kalian:
 
-**1. Modus penipuan Grab yang licik:**
+**1. Trik Licik Grab yang Perlu Kamu Waspadai:**
 
 https://www.instagram.com/reel/C7UJZKbp4lZ/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Trik supir ojek online di Bali: Cara menghindari jebakan Grab/Gojek?](/id/blog/bali-grab-gojek-scam-tips/)
+> Baca juga: [Modus Sopir Ojol di Bali: Cara Hindari Tipuan Grab/Gojek?](/id/blog/bali-grab-gojek-scam-tips/)
 
-**2. Wajib bawa saat jalan-jalan sendiri di pegunungan Ubud, Bali:**
+**2. Wajib Bawa Ini Kalau Jalan Sendiri ke Ubud:**
 
 https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: Apakah hair dryer dari Taiwan bisa dipakai di Bali? Cek [Panduan Lengkap Tegangan & Colokan Listrik untuk Liburan ke Bali!](/id/blog/bali-voltage-adapter-tips/)
+> Penasaran hair dryer dari Taiwan bisa dipakai di Bali? Cek [Panduan Lengkap Voltase & Colokan Listrik buat Liburan ke Bali!](/id/blog/bali-voltage-adapter-tips/)
 
 ***
 
 ## Rangkuman Itinerary Bali
 
-### 15 April (15-17 April di Uluwatu)
+### 15 April (15-17 April: Uluwatu)
 
-**Tiba di Bandara DPS**
+**Sampai di Bandara DPS**
 
 Waktu: 09:10-14:40
 
 **Tukar Uang**
 
-Lokasi: money changer di dalam bandara
+Lokasi: Tempat penukaran mata uang di bandara
 
 > Baca juga: [Panduan Lengkap Tukar Uang di Indonesia/Bali](/id/blog/bali-currency-exchange-guide/)
 
 **Makan Malam Sunset di Pantai Jimbaran**
 
-Nikmati sunset romantis di pantai sambil makan seafood bakar yang enak banget.
+Nikmati sunset romantis di pantai sambil menyantap seafood bakar yang lezat.
 
 > Baca juga: [9 Restoran Seafood di Jimbaran, Bali: Rekomendasi Anti Gagal](/id/blog/jimbaran-seafood-restaurants-list/)
 
 **Rekomendasi Pijat**
 
-Lokasi: The Calma Spa. Di sini kamu bisa menikmati pijat relaksasi yang bikin badan segar lagi setelah perjalanan.
+Lokasi: The Calma Spa — nikmati pijat relaksasi di sini, hilangkan penat perjalanan.
 
-> Baca juga: [Kumpulan Rekomendasi SPA Terbaik di Bali (Lengkap per Area)](/id/blog/spa/)
+> Baca juga: [【Kumpulan Terbaik】Rekomendasi SPA Terbaik di Bali, Dibagi Berdasarkan Area Biar Lebih Gampang Cari](/id/blog/spa/)
 
 **Belanja di Supermarket**
 
-Lokasi: supermarket terdekat buat beli kebutuhan sehari-hari dan camilan.
+Lokasi: beli kebutuhan sehari-hari dan camilan di supermarket dekat sini.
 
-> Baca juga: [【Wisata Bali/Indonesia】Belanja di Supermarket/Minimarket?](https://youtu.be/UoGlRyAdyB8)
+> Baca juga: [【Tips Travel Bali/Indonesia】Belanja di Supermarket/Mini Market?](https://youtu.be/UoGlRyAdyB8)
 
-**Menginap di Hotel**
+**Check-in Hotel**
 
 Lokasi: Khaiyyara Jimbaran Bali Hotel
 
@@ -277,27 +277,27 @@ Lokasi: Khaiyyara Jimbaran Bali Hotel
 
 **Sarapan**
 
-Lokasi: Di dalam hotel
+Lokasi: di dalam hotel
 
-**Taman Budaya Patung Garuda Wisnu Kencana**
+**Taman Budaya Garuda Wisnu Kencana**
 
 Kunjungi Taman Budaya Garuda Wisnu Kencana yang terkenal, nikmati patung megah dan area taman yang indah.
 
 **Makan Siang**
 
-Lokasi: One Eighty Day Club — pemandangan tebingnya bikin kamu bisa nikmatin makanan sambil lihat panorama laut yang epik.
+Lokasi: One Eighty Day Club. Pemandangan tebing di sini bikin kamu bisa menikmati makanan sambil lihat pemandangan laut yang epik banget.
 
 > Baca juga: [Eksplor Oneeighty Day Club](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **Pura Uluwatu**
 
-Kunjungi pura tebing legendaris di Bali, rasakan vibes religi dan budaya lokal.
+Kunjungi pura tebing terkenal di Bali, rasakan budaya religius lokal yang kental.
 
-**Tari Kecak & Fire Dance Sunset**
+**Tari Kecak & Tari Api Saat Matahari Terbenam**
 
-Saksikan pertunjukan tari Kecak dan api tradisional di Pura Uluwatu.
+Nonton pertunjukan tradisional Tari Kecak dan Tari Api di Pura Uluwatu.
 
-> Baca juga: [Tari Kecak Fire Dance Bali — Pertunjukan Spektakuler Wajib Nonton (info tiket)](/id/blog/kecak-fire-dance-bali/)
+> Baca juga: [Tari Kecak Api – Pertunjukan Spektakuler Wajib Ditonton di Bali (lengkap info tiket)](/id/blog/kecak-fire-dance-bali/)
 
 **Makan Malam**
 
@@ -311,7 +311,7 @@ Lokasi: Khaiyyara Jimbaran Bali Hotel
 
 ***
 
-### 17 April
+### 4/17
 
 **Sarapan**
 
@@ -319,61 +319,61 @@ Lokasi: Di dalam hotel
 
 **Pantai Selancar**
 
-Lokasi: Blue Point Beach — tempat kece buat pemula maupun surfer pro.
+Lokasi: Blue Point Beach — tempat yang pas banget buat pemula maupun peselancar profesional.
 
-> Baca juga: [Hidden Gem di Uluwatu, Bali: Pantai Eksotis Uluwatu Blue Point](https://youtu.be/hQbBTktqEqY)
+> Baca juga: [Wisata Uluwatu Bali: Hidden Gem Pantai Blue Point Uluwatu](https://youtu.be/hQbBTktqEqY)
 
 **Pemandangan Pantai**
 
-Lokasi: Thomas Beach — pantai ini cocok banget buat santai dan foto-foto.
+Lokasi: Thomas Beach — Pantai di sini cocok banget buat santai dan foto-foto.
 
-> Baca juga: [6 Pantai Tersembunyi di Bali & Cara Cek Pasang Surut Air Laut](/id/blog/bali-hidden-beaches-guide/)
+> Baca juga: [6 Pantai Tersembunyi di Bali yang Wajib Kamu Kunjungi / Cara Cek Pasang Surut Air Laut](/id/blog/bali-hidden-beaches-guide/)
 
 **Makan Siang**
 
 Lokasi: Alchemy Uluwatu
 
-**Pemandangan Tebing yang Keren**
+**Pemandangan Tebing**
 
-Lokasi: Happy Sunset Batujaran — nikmati pemandangan laut dan sunset yang spektakuler.
+Lokasi: Happy Sunset Batujaran — Nikmati pemandangan laut dan sunset yang spektakuler.
 
 **Klub Pantai dengan Kereta Gantung**
 
 Lokasi: Sundays Beach Club
 
-> Baca juga: [Panduan Lengkap Uluwatu](/id/blog/uluwatu-guide/)
+> Baca juga: [Panduan Uluwatu](/id/blog/uluwatu-guide/)
 
 **Pantai Tersembunyi**
 
 Lokasi: Greenbowl Beach
 
-> [Wisata Hidden Gem Bali: Green Bowl Beach](https://youtu.be/8mzJm_UrjSg)
+> [Wisata Hidden Gem di Bali: Green Bowl Beach](https://youtu.be/8mzJm_UrjSg)
 
 **Makan Malam**
 
-Lokasi: fleksibel
+Lokasi: Fleksibel
 
 **Kembali ke Hotel**
 
 Lokasi: Khaiyyara Jimbaran Bali Hotel
 
-> [Pesan di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
+> [Pesan Kamar di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
 
 ***
 
-### 18 April (18-19 April di Ubud)
+### 4/18 (4/18-4/19 Ubud)
 
 **Sarapan**
 
-Lokasi: di dalam hotel
+Lokasi: Di dalam hotel
 
 **Tari Barong**
 
-Nonton pertunjukan Tari Barong, sambil mengenal budaya tradisional Bali.
+Nonton pertunjukan Tari Barong, seru banget buat kenal budaya tradisional Bali.
 
-**Kampung Batik**
+**Desa Batik**
 
-Lokasi: Bali Bidadari Batik. Kunjungi kampung batik dan rasakan langsung kerajinan tangan lokal.
+Lokasi: Bali Bidadari Batik. Kunjungi desa batik, cobain langsung kerajinan tangan lokal.
 
 **Makan Siang**
 
@@ -381,19 +381,19 @@ Lokasi: Bebek Joni Restaurant
 
 **Pasar Seni Ubud**
 
-Di sini kamu bisa belanja berbagai kerajinan tangan dan oleh-oleh.
+Di sini kamu bisa beli berbagai kerajinan tangan dan oleh-oleh.
 
 Baca juga: [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
 
 **Hutan Monyet Ubud**
 
-Jelajahi Hutan Monyet dan berinteraksi dengan monyet-monyet lokal.
+Kunjungi Monkey Forest, seru-seruan bareng monyet lokal.
 
 **Ubud Royal Palace**
 
 Lokasi: Peliatan Royal Palace
 
-> Baca juga: [【Destinasi Wajib di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
+> Baca juga: [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 **Makan Malam**
 
@@ -407,33 +407,33 @@ Lokasi: Kidem Ubud Villas
 
 ***
 
-### 4/19
+### 19 April
 
 **Sarapan**
 
-Lokasi: di dalam hotel
+Lokasi: Di hotel
 
 **Desa Tradisional Bali**
 
-Lokasi: Desa Penglipuran — kunjungi desa tradisional yang terawat dengan baik ini, dan lihat langsung gaya hidup lokal.
+Lokasi: Penglipuran Village — kunjungi desa tradisional yang masih terjaga banget ini, lihat langsung gaya hidup lokal.
 
-> Baca juga: [Penglipuran Village: Menjelajah Pesona Bali Kuno yang Abadi](/id/blog/penglipuran-village-bali-experience/)
+> Baca juga: [Penglipuran Village: Menembus Waktu, Rasakan Pesona Bali Kuno](/id/blog/penglipuran-village-bali-experience/)
 
-**Air Terjun Hidden Gem di Gua**
+**Air Terjun Misterius di Gua**
 
 Lokasi: Tukad Cepung Waterfall
 
-> Baca juga: [Air Terjun Kayangan di Bali Ini Worth It Gak Sih? Tukad Cepung Waterfall](https://youtu.be/Z7yPLNwrOrQ)
+> Baca juga: [Air Terjun Kayangan Bali Ini Worth It Gak Sih? Tukad Cepung Waterfall](https://youtu.be/Z7yPLNwrOrQ)
 
 **Makan Siang**
 
-Lokasi: fleksibel, bisa disesuaikan
+Lokasi: Fleksibel, bisa atur sendiri
 
-**Terasering Tegallalang**
+**Tegalalang Rice Terrace**
 
-Lokasi: Tegalalang Rice Terrace — nikmati pemandangan sawah terasering yang cantik, sambil foto-foto. Wajib banget buat feed Instagram kamu!
+Lokasi: Tegalalang Rice Terrace — nikmati pemandangan sawah terasering yang cantik banget, sambil foto-foto.
 
-**Foto di Ayunan Estetik**
+**Ayunan Cantik buat Foto**
 
 Lokasi: Tegalalang
 
@@ -441,7 +441,7 @@ Lokasi: Tegalalang
 
 Lokasi: Jaens Spa Santhi (Area Ubud)
 
-> Baca juga: [【Lengkap】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi per Area Biar Lebih Gampang Cari](/id/blog/spa/)
+> Baca juga: [【Edisi Lengkap】Kumpulan Rekomendasi SPA Terbaik di Bali, Dibagi per Area Biar Gampang Cari](/id/blog/spa/)
 
 **Makan Malam**
 
@@ -451,47 +451,47 @@ Lokasi: Losteria
 
 Lokasi: Wapa di Ume Ubud
 
-[Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
+> [Pesan via Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
 
 ***
 
 ### 4/24 (Padang Bai Kuta)
 
-**抵达港口**
+**Tiba di Pelabuhan**
 
-地点：Padang Bai (Ekajaya Fast Ferry) 时间：13:30
+Lokasi: Padang Bai (Ekajaya Fast Ferry) Waktu: 13:30
 
-**午餐**
+**Makan Siang**
 
-地点：灵活安排
+Lokasi: Fleksibel
 
-**印度寺庙**
+**Pura Hindu**
 
-地点：Goa Lawah Temple (蝙蝠洞穴)
+Lokasi: Pura Goa Lawah (Gua Kelelawar)
 
 **Big Garden Corner**
 
-参观这个大花园，欣赏各种雕像和美丽的花园景观。
+Kunjungi taman besar ini, nikmati berbagai patung dan pemandangan taman yang indah.
 
-> Baca juga: [50 Rekomendasi Wisata Kuliner & Aktivitas di Sanur](/id/blog/sanur-guide/)
+> Baca juga: [50 Rekomendasi Tempat Makan & Main di Sanur](/id/blog/sanur-guide/)
 
 **Makan Malam**
 
 Lokasi: Naughty Nuri's Warung, Sanur
 
-> [Pengalaman Kuliner Naughty Nuri's Warung di Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
+> [Pengalaman Kuliner Naughty Nuri's Warung Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
 
 **Upside Down World Bali**
 
-Kunjungi dunia terbalik yang seru ini, jangan lupa foto-foto ya.
+Kunjungi dunia terbalik yang seru ini, jangan lupa foto-foto.
 
-> Baca juga: [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/kuta-guide/)
+> Baca juga: [50 Destinasi Wajib di Kuta](/id/blog/kuta-guide/)
 
 **Check-in Hotel**
 
 Lokasi: Episode Kuta Bali
 
-> [Pesan Kamar di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
+[Pesan Hotel di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
 
 **Pusat Perbelanjaan**
 
@@ -499,7 +499,7 @@ Lokasi: Mal Bali Galeria
 
 ***
 
-### 4/25
+### 25 April
 
 **Sarapan**
 
@@ -511,9 +511,9 @@ Coba seru naik kuda di Pantai Kuta.
 
 **Pantai Kuta**
 
-Nikmati sinar matahari dan aktivitas pantai di Kuta.
+Nikmati sinar matahari dan aktivitas pantai di Pantai Kuta.
 
-> Baca juga: [Rekomendasi Surfing di Kuta Bali｜Pengalaman Pertama Belajar Surfing di Bali bareng Xiao Jie](https://youtu.be/gECdNvG16ww)
+> Baca juga: [Rekomendasi Surfing di Kuta, Bali｜Pengalaman Pertama Belajar Surfing di Bali bareng Xiao Jie](https://youtu.be/gECdNvG16ww)
 
 **Pusat Perbelanjaan**
 
@@ -523,19 +523,19 @@ Lokasi: Discovery Shopping Mall
 
 **Bandara DPS**
 
-Waktu: Penerbangan pulang pukul 15:40, menutup perjalanan seru di Bali.
+Waktu: Penerbangan kembali jam 15:40, mengakhiri perjalanan seru di Bali.
 
 ***
 
 ### Catatan Perjalanan
 
-**Catatan 17/4**
+**Catatan 17 April**
 
-Karena Bali Belly, cuma sempat ke Blue Point Beach pagi hari, sisanya istirahat di hotel.
+Karena kena Bali Belly, cuma sempat ke Blue Point Beach pagi aja, abis itu balik ke hotel istirahat.
 
-Kalau ada pertanyaan soal liburan mandiri ke Bali atau mau minta itinerary lengkap dari kami, langsung aja DM IG atau komen ya! Semoga membantu!
+Kalau ada pertanyaan soal liburan mandiri ke Bali atau mau minta itinerary lengkap dari kita, langsung aja DM IG atau komen ya! Semoga membantu semuanya!
 
-Menurut kamu itinerary Ye Tingyu seru banget? Yuk, rencanakan liburan mandiri ke Bali versi kamu sendiri! Jangan lupa kirim itinerary kamu ke grup ya!
+Menurut kamu, itinerary-nya Ye Tingyu dan tim seru banget nggak? Yuk, buruan atur rencana liburan seru ke Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu di grup ya!
 
 {{block:遊記}}
 

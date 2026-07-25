@@ -15,65 +15,65 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 18ed8b20f9fb184c1569603b321d506b
+_srcHash: 8bc640aeba14729a639af6e0abab1467
 ---
 ![峇里島同一個地方待四天能玩什麼？四天烏布之旅程紀錄](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
-**先講結論**：烏布4日行程建議安排——素食餐廳Wild Fire（招牌Gado-Gado沙律）、聖猴森林（**注意隨身物品，猴子會偷背包入面嘅財物**，建議提前買門票避開現場排隊）、同埋天空步道（Campuhan Ridge Walk）周邊鄉間漫遊，步調輕鬆，唔使日日換酒店都可以玩足4日。
+**先講結論**：烏布4日行程建議安排——素食餐廳Wild Fire（招牌Gado-Gado沙律）、聖猴森林（**注意隨身物品，猴子會偷背包入面嘅財物**，建議提早買門票避開現場排隊）、同埋天空步道（Campuhan Ridge Walk）周邊鄉間漫遊，步調輕鬆，唔使日日換酒店都可以玩足4日。
 
 烏布係所有去峇里島嘅旅客唔可以錯過嘅地方，呢位YouTube網紅[[Jits into the Sunset](https://www.youtube.com/@JitsIntoTheSunset)]發佈喺網上嘅影片，帶大家認識呢個文化薈萃之都。
 
-## 初抵烏布
+## 初到烏布
 
-抵達烏布之後，佢哋先喺一間評價極高嘅素食餐廳Wild Fire食飯。餐廳環境清幽，食物顏色奪目，尤其係招牌Gado-Gado沙律，配以花生醬汁淋上新鮮蔬菜同豆類，味道清爽開胃，令佢哋一試成主顧。
+到咗烏布之後，佢哋先去一間評價極高嘅素食餐廳Wild Fire食飯。餐廳環境清幽，食物顏色好搶眼，尤其係招牌Gado-Gado沙律，配上花生醬汁淋上新鮮蔬菜同豆類，味道清爽開胃，令佢哋一試成主顧。
 
 ## 聖猴森林
 
-歷險第二日一早，佢哋去咗烏布最出名嘅景點——聖猴森林。呢度有超過700隻野生猴群棲息，佢哋有難得嘅機會近距離觀察呢啲靈巧可愛嘅動物，睇佢哋追逐嬉鬧、互動親暱嘅模樣，活靈活現咁展現出同人類祖先相去不遠嘅本性。不過之後發生咗一件有趣嘅插曲，當佢哋專注觀賞猴群時，一隻頑皮嘅小猴子竟然打開咗佢哋嘅背包，偷走咗裝有現金同銀行卡嘅銀包！好彩工作人員及時趕到，用食物將小猴子引開，並將銀包安全奪回。呢件事俾咗佢哋驚奇難忘嘅旅遊體驗。
+歷險第二日朝早，佢哋去咗烏布最出名嘅景點——聖猴森林。呢度有超過700隻野生猴群棲息，佢哋有難得嘅機會近距離觀察呢啲靈巧可愛嘅動物，睇佢哋追逐嬉鬧、互動親暱嘅模樣，活靈活現咁展現出同人類祖先差唔多嘅本性。不過之後發生咗一件有趣嘅插曲，當佢哋專心睇猴群嘅時候，一隻調皮嘅小猴子竟然打開咗佢哋嘅背包，偷走咗裝有現金同銀行卡嘅銀包！好彩工作人員及時趕到，用食物引開小猴子，並安全攞返個銀包。呢件事令佢哋有咗驚奇難忘嘅旅遊體驗。
 
-[> [猴子森林優惠門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dce3208bb81)
+> [猴子森林優惠門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dce3208bb81)
 
-[> [烏布猴子森林 & 德格拉朗私人遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
+> [烏布猴子森林 & 德格拉朗私人遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
 
-[> [烏布猴子森林＆秘境瀑布之旅（含專業拍攝服務）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
+[> 【烏布猴子森林＆秘境瀑布之旅（連專業影相服務）】](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)）
 
-## 鄉間漫遊
+## 鄉下漫遊
 
-離開猴林之後，佢哋沿住一條小徑前往烏布周邊鄉間。途中景色宜人，一路都係綠意盎然嘅田園風光，處處散發出祥和悠閒嘅氛圍。最後去到一片寧靜嘅稻田，好似置身世外桃源咁，呢個亦令佢哋諗起之前遊覽哥斯達黎加嘅情景。
+離開猴林之後，佢哋沿住一條小路去烏布周邊嘅鄉下。沿途風景好靚，一路都係綠油油嘅田園風光，周圍都散發住祥和悠閒嘅氣氛。最後去到一片寧靜嘅稻田，好似置身世外桃源咁，呢個亦令佢哋諗起之前去哥斯大黎加玩嘅情景。
 
-呢條被稱為天空步道嘅小徑我哋有專文介紹：[烏布中心行路可到嘅距離竟然有咁嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹](/zh-hk/blog/ubud-campuhan-ridge-walk/)
+呢條叫做天空步道嘅小路我哋有專文介紹：【烏布中心行路就到嘅距離竟然有咁嘅天堂？「烏布天空步道」Campuhan Ridge Walk介紹】(/blog/ubud-campuhan-ridge-walk/)
 
 ## 藝術市集
 
-行勻烏布唔單止有靚靚大自然景，仲係峇里島藝術文化嘅重鎮。佢哋行勻晒人頭湧湧嘅藝術市集，睇勻各種木雕、絲綢、陶瓷等手工藝品，太太仲喺一間臨時按摩亭，體驗到人生到目前為止最放鬆嘅一次按摩服務，徹底放鬆晒身心。
+行烏布唔單止有大自然景致，仲係峇里島藝術文化嘅重鎮。佢哋行勻晒熱鬧嘅藝術市集，欣賞各種木雕、絲綢、陶瓷等手工藝品，太太仲喺一間臨時按摩亭，體驗到人生到目前為止最放鬆嘅一次按摩服務，徹底放鬆身心。
 
-## 聖泉寺淨身
+## 聖泉寺洗禮
 
-最後一站，佢哋參觀咗峇里島最神聖嘅聖泉寺 Tirta Empul。正正係滿月之夜，廟內湧入大量當地教徒嚟沖涼潔淨，體現咗獨特嘅印度教信仰。喺呢個有千年歷史嘅古蹟入面，佢哋俾嗰份虔誠嘅氛圍深深折服，仲俾廟方免費供應糖果水果嘅熱情好客打動。
+最後一站，佢哋參觀咗峇里島最神聖嘅聖泉寺 Tirta Empul。正係滿月之夜，廟內湧入大量當地教徒嚟沖涼潔淨，體現咗獨特嘅印度教信仰。喺呢個有千年歷史嘅古蹟入面，佢哋俾嗰份虔誠嘅氣氛深深折服，仲俾廟方免費供應糖果水果嘅熱情好客打動。
 
-[> Tirta Empul Temple身心洗禮 & 烏布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
+[> 【Tirta Empul Temple身心洗禮 & 烏布探索之旅】](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
 
-[> 人少好多嘅聖泉[烏布心靈之旅 & 淨化體驗]](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
+[> 人少好多嘅聖泉【烏布心靈之旅 & 淨化體驗】](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
-## 睇烏布四日旅程嘅視頻
+## 睇烏布四日旅程嘅影片
 
-喺呢條視頻入面，烏布俾咗佢哋絕佳嘅文化體驗，唔單止風景如畫迷人，仲有獨特嘅藝術氣息同包容友善嘅人情味，成為佢哋今次峇里島之行最難忘嘅一站，亦令佢哋兩個已經計劃將來要喺度長住體驗烏布嘅慢活生活。
+呢條片入面，烏布帶畀佢哋超正嘅文化體驗，唔單止風景靚到好似畫咁，仲有獨特嘅藝術氣息同埋包容友善嘅人情味，成為佢哋今次峇里島之行最難忘嘅一站，仲令佢哋兩個已經計劃將來要喺呢度長住，體驗烏布嘅慢活生活。
 
 ## **烏布參加一日遊**
 
-喺烏布最唔使諗咁多費心規劃就可以好精彩嘅，就係參加當地業者提供嘅精選一日旅遊，感受更深入嘅文化體驗。
+喺烏布最唔使諗太多計劃就可以好精彩嘅，就係參加當地業者提供嘅精選一日遊，感受更加深入嘅文化體驗。
 
 > 【Ubud】[烏布精選景點私人一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25325-best-ubud-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df3e28f2839)
 
-> 【Ubud】[烏布 D' Tukad 俱樂部＆瀑布鞦韆＆德格拉朗梯田私人一日遊（連午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17772-river-club-waterfall-swing-tegalalang-rice-terrace-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc722847b3d)
+> 【Ubud】[烏布 D' Tukad 俱樂部＆瀑布鞦韆＆德格拉朗梯田私人一日遊（包午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17772-river-club-waterfall-swing-tegalalang-rice-terrace-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc722847b3d)
 
 > 【Ubud】[Cretya Ubud俱樂部 & 巴杜爾火山吉普車越野 & 峇里島瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df8e091b918)
 
-【烏布】[ATV四輪摩托車騎行（包午餐 & 自選活動）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99822-atv-quad-bike-jatiluwih-north-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D944329f3a2)
+> 【Ubud】[ATV四輪摩托車騎行（包午餐 & 自選活動）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99822-atv-quad-bike-jatiluwih-north-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D944329f3a2)
 
-【烏布】[峇里島精選Instagram景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df296c9cc4d)
+> 【Ubud】[峇里島精選Instagram景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df296c9cc4d)
 
-【烏布】[峇里島聖泉寺淨身私人一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16083-eat-pray-love-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df2f12be40c)
+> 【Ubud】[峇里島聖泉寺淨身私人一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16083-eat-pray-love-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df2f12be40c)
 
 ## 更多烏布景點介紹
 
@@ -81,15 +81,15 @@ _srcHash: 18ed8b20f9fb184c1569603b321d506b
 
 ![烏布完整攻略請按我](https://images.gobaligo.id/vocus/vocus_6669af373794716c6a95b23100cb5c11.png)
 
-[烏布完整攻略請撳我](/zh-hk/blog/ubud-guide/)
+[撳我呢度睇烏布完整攻略](/zh-hk/blog/ubud-guide/)
 
 ## 烏布特色住宿
 
-烏布地區有28間最具獨特風格嘅住宿，每間都散發住峇里島獨特嘅魅力。由舒適嘅別墅到大型度假村，每個地方都令你感受到家嘅溫暖。無論你係想搵個寧靜嘅度假勝地，定係對峇里文化有興趣，呢啲住宿都可以滿足你嘅需求。
+烏布地區有28間最具獨特風格嘅住宿，每間都散發住峇里島獨有嘅魅力。由舒適嘅別墅到大型度假村，每個地方都令你感受到家嘅溫暖。無論你係想搵個寧靜嘅度假勝地，定係對峇里文化有興趣，呢啲住宿都可以滿足你嘅需要。
 
-喺我哋嘅文章入面，會深入介紹每間住宿嘅特色同魅力，仲有點樣預訂你嘅下一次烏布之旅。一齊探索呢啲令人驚嘆嘅山林美景，體驗峇里島嘅獨特魅力啦！
+喺我哋嘅文章入面，會深入介紹每間住宿嘅特色同魅力，仲有點樣預訂你下一次嘅烏布之旅。一齊探索呢啲令人驚嘆嘅山林美景，體驗峇里島嘅獨特魅力啦！
 
 - [【烏布蜜月住宿】七間烏布度蜜月推薦住宿](/zh-hk/blog/bali-honeymoon-resorts-guide/)
-- [【峇里島烏布住宿】烏布21間特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-villas-pool-guide/)
+- [【峇里島烏布住宿】烏布21間特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/zh-hk/blog/ubud-resorts-guide/)
 - [探索烏布8間令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/zh-hk/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【烏布住宿推薦】泳池別墅私密天堂: 烏布12間令人驚艷嘅峇里島villa](/zh-hk/blog/ubud-villa-pool-guide/)
+- [【烏布住宿推薦】泳池別墅私密天堂：烏布12間令人驚艷嘅峇里島villa](/zh-hk/blog/ubud-villa-pool-guide/)

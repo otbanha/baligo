@@ -4,7 +4,7 @@ title: 峇里島六日自由行Nusa Penida跳島攻略
 description: >-
   呢個係我哋社團網友「Sophie）」喺峇里島過嘅六日精彩自由行程！有好多參考咗「小傑印尼」嘅影片同我哋「峇里島旅遊攻略」嘅精彩攻略組合。一齊睇下佢自己安排嘅呢段充滿冒險同探索嘅旅程啦！
 pubDate: '2024-01-28'
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
@@ -17,9 +17,9 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: a2e87cbc5f6919c7df6c1870f9f022f1
+_srcHash: 6661caf85cbd81c3b6d17fdcff03ff4b
 ---
-**重點摘要**：六日行程路線係**烏布（頭兩日）→ 佩尼達島跳島（第三到第五日）→ 金巴蘭（第六日）告別峇里島**。實測提醒：Sanur 港口出發嘅渡輪**曾經誤點長達 2 個鐘**，跳島行程記住預留緩衝時間；佩尼達島東岸必睇 Diamond Beach 同 Atuh Beach。詳細每日行程同時間安排如下。
+**重點摘要**：六日行程路線係**烏布（頭兩日）→ 佩尼達島跳島（第三至五日）→ 金巴蘭（第六日）告別峇里島**。實測提醒：Sanur 港口出發嘅渡輪**曾經誤點達 2 個鐘**，跳島行程記得預留緩衝時間；佩尼達島東岸必睇 Diamond Beach 同 Atuh Beach。詳細每日行程同時間安排如下。
 
 呢個係我哋社團網友「[Sophie](https://www.facebook.com/soficia.chen)」喺峇里島過嘅六日精彩自由行程！有好多參考咗「[小傑印尼](https://www.youtube.com/@j_indonesia)」嘅影片同我哋「峇里島旅遊攻略」嘅精彩攻略組合。一齊睇下佢自己安排嘅呢段充滿冒險同探索嘅旅程啦！
 
@@ -31,8 +31,8 @@ Sophie嘅六日峇里島自由行遊記分享
 
 結束峇里島旅程，一定要大推嘅係喺社團做功課嘅時候，見到好幾個朋友推薦嘅[Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R)嘅❤️Awan❤️  
 佢嘅坐騎係超級騷包嘅🔥BlackPink🔥  
-我搵司機嘅過程中問過三位，佢係其中回覆最快同最細心嘅一位，俾我嘅初印象好好  
-實際上，後嚟嘅旅程中冇咗佢一切就唔完美😍
+我搵司機嘅過程中問過三位，佢係其中回覆最快同最細心嘅一位，畀我嘅初印象好好  
+實際上，之後嘅旅程中咗佢一切都很完美😍
 
 佢會：
 
@@ -46,7 +46,7 @@ Sophie嘅六日峇里島自由行遊記分享
 ## 1/18第一日：抵達峇里島，烏布探險
 
 - **15:20**：到咗峇里島機場，準備開始峇里島之旅。司機話雖然係雨季，但已經好耐冇落雨。
-- **16:00**：到咗機場，換啲當地貨幣。建議搵間可靠嘅找換店。
+- **16:00**：到咗機場，換啲當地錢。建議搵間可靠嘅找換店。
 
 > （延伸閱讀：[關於換錢你一定要知嘅全部懶人包](/zh-hk/blog/bali-currency-exchange-guide/)）
 
@@ -60,15 +60,15 @@ Bebek Tebasari Resto 圖：Sophie提供
 
 ## 1/19第二日：探索烏布
 
-由清晨5點到下午2點嘅間歇性暴雨，但呢啲都唔影響我哋嘅探險精神！
+由清晨5點到下晝2點嘅間歇性暴雨，但呢啲都唔影響我哋嘅探險精神！
 
 - **09:00**：參加泛舟活動，就算天氣唔好，呢次仍然係一個難忘嘅經歷。
 
-> [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[阿勇河泛舟（包接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
 快速參考：[峇里島泛舟攻略（泛舟常見問題FAQ）](/zh-hk/blog/bali-rafting-ayung-telaga-waja/)
 
-- **13:00**：食個靚午餐，順便睇吓Tis Cafe隔籬嘅梯田風景。
+- **13:00**：食個靚午餐，順便睇Tis Cafe隔籬嘅梯田風景。
 
 ![Tis Cafe  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_00aa6379a6606b966670ef96d7867ecd.jpg)
 
@@ -78,7 +78,7 @@ Tis Cafe 圖：Sophie提供
 
 - **14:00**：去聖猴森林探險，再參觀Pura Saraswati水皇宮。
 
-- **17:30**：食返杯Tukies Coconut Shop嘅椰子雪糕，喺烏布市區行吓街。
+- **17:30**：食返杯Tukies Coconut Shop嘅椰子雪糕，喺Ubud市區行街。
 
 烏布市區攻略：Tukies Coconut Shop喺邊？市區有咩好行？
 
@@ -86,7 +86,7 @@ Tis Cafe 圖：Sophie提供
 
 ## 1/20第三日：烏布探險同Nusa Penida島
 
-喺烏布過咗個毛毛雨嘅上午，然後去Penida島
+喺Ubud過咗毛毛雨嘅上午，然後去Penida島
 
 - **09:00** [Omma Dayclub](/zh-hk/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali瀑布+午餐
 
@@ -94,15 +94,15 @@ Tis Cafe 圖：Sophie提供
 
 Omma Dayclub 圖：Sophie提供
 
-- **12:30** Sanur port 14:15 ferry➡️Nusa Penida搭船。船班竟然遲到兩個鐘😡
+- **12:30** Sanur port 14:15 ferry➡️Nusa Penida搭船。船班竟然遲到2個鐘😡
 - **20:00**：入住[Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774)，準備喺Penida過一個愉快嘅夜晚。
-- **16:00**：抵達Crystal Bay，欣賞夕陽美景。
+- **16:00**：到達Crystal Bay，欣賞夕陽美景。
 
 ![Atuh Beach  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_5311c2679ed97b91ca5ddf3449ef5c6b.jpg)
 
 Atuh Beach 圖：Sophie提供
 
-- **15:00**：Penida島上享受陽光燦爛嘅下午同傍晚。
+- **15:00**：喺Penida島上享受陽光普照嘅下午同傍晚。
 
 > （延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/zh-hk/blog/nusa-penida-guide/)）
 
@@ -148,13 +148,13 @@ Diamond Beach 圖：Sophie提供
 
 Wahaha食過都話正！
 
-- **13:30**：去Prema Rasa買啲手信，準備出發去機場。
+- **13:30**：Prema Rasa買啲手信，準備去機場。
 
-識貨嘅人都知要去Prema Rasa買手信
+識貨嘅都知要去Prema Rasa買手信
 
-**快速參考：**[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
+**快速參考：**[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/zh-hk/blog/bali-souvenirs-gift-guide/)
 
-- **14:30** 出發去機場。旅程最後一日揀喺庫塔、金巴蘭呢一帶嘅好處係「完全唔使擔心會趕唔切飛機」㗎！
+- **14:30** 出發去機場。旅程最後一日安排喺庫塔、金巴蘭呢一帶嘅好處係「完全唔使擔心會趕唔切飛機」㗎！
 
 > （延伸閱讀：[庫塔旅遊攻略：50個必訪景點、美食、推薦SPA全收集](/zh-hk/blog/kuta-guide/)）  
 > （延伸閱讀：[金巴蘭自由行：推薦31個玩樂景點全攻略](/zh-hk/blog/jimbaran-guide/)）

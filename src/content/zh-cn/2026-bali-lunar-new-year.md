@@ -1,9 +1,9 @@
 ---
 slug: 2026-bali-lunar-new-year
 title: 2026巴厘岛庆祝农历新年的活动信息整理
-description: "2026 年是农历「火马年」，巴厘岛的农历新年（印尼称 Imlek）庆祝活动非常丰富，主要集中在 2 月 16 日（除夕）与 2 月 17 日（大年初一），部分庆典甚至持续到 3 月初的元宵节。以下为您整理的巴厘岛农历新年活动指南：\U0001F3EE 必看民俗表演：舞狮与舞龙（Barongsai）舞狮"
+description: "2026 年是农历「火马年」，巴厘岛的农历新年（印尼称 Imlek）庆祝活动非常丰富，主要集中在 2 月 16 日（除夕）与 2 月 17 日（大年初一），部分庆典甚至持续到 3 月初的元宵节。  以下为您整理的巴厘岛农历新年活动指南：  \U0001F3EE 必看民俗表演：舞狮与舞龙（Barongsai）  舞狮"
 pubDate: '2026-02-04'
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-25T00:00:00.000Z
 update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0bb33c4736f5468d4d0c2d55cbf90b43.jpg'
 tags:
@@ -16,8 +16,9 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: c559ef8663e957d9fb856e4e10b8255d
+_srcHash: f201bb0c989651e02b75c7a80aa3e31a
 ---
+
 2026 年是农历「火马年」，**巴厘岛**的农历新年（印尼称 Imlek）庆祝活动非常丰富，主要集中在 **2 月 16 日（除夕）**与 **2 月 17 日（大年初一）**，部分庆典甚至持续到 3 月初的元宵节。
 
 以下为您整理的**巴厘岛农历新年活动指南**：
@@ -34,7 +35,7 @@ _srcHash: c559ef8663e957d9fb856e4e10b8255d
 
 ### 💡 观赏表演小贴士：
 
-- **早鸟位子**：舞狮表演通常会吸引大量住客与外来游客观看，特别是大厅的表演，建议提前 **15-20 分钟**抵达大厅占位。
+- **早鸟占位**：舞狮表演通常会吸引大量住客与外来游客观看，特别是大厅的表演，建议提前 **15-20 分钟**抵达大厅占位。
 - **互动习俗**：在**巴厘岛**观看舞狮时，可以准备红包（Angpao）喂给狮子，这被视为给表演者的支持，也是为自己祈求好运的举动（建议面额为 IDR 50,000 或 100,000）。
 
 ## ⛩️ 庙会与文化体验
@@ -69,12 +70,12 @@ _srcHash: c559ef8663e957d9fb856e4e10b8255d
 
 **金巴兰**
 
-- [**AYANA Bali**](/zh-cn/blog/ayana-resort-bali-guide/)：节日活动持续至3月3日。2月16日至3月3日在Liu Li Palace提供火锅及套餐。2月10日至20日在Damar Terrace及UNIQUE Rooftop Bar提供下午茶（每人IDR 350,000++）。2月16日Kampoeng Bali有传统表演，Rock Bar有倒计时及烟火。2月17日有舞狮、鞭炮及儿童活动。二月另有限定水疗疗程。
+- [**AYANA Bali**](/zh-cn/blog/ayana-resort-bali-guide/)：节日活动持续至3月3日。2月16日至3月3日在Liu Li Palace提供火锅及套餐。2月10日至20日在Damar Terrace及UNIQUE Rooftop Bar提供下午茶（每人IDR 350,000++）。2月16日Kampoeng Bali有传统表演，Rock Bar有倒计时及烟花。2月17日有舞狮、鞭炮及儿童活动。二月另有限定水疗疗程。
 
 **乌鲁瓦图**
 
-- **Anantara Uluwatu Bali Resort**：二月在360 Rooftop Restaurant提供新春火锅（每人IDR 420,000++）及下午茶（每人IDR 295,000++）。2月16日至22日推出家庭套餐（IDR 680,000++）。2月17日傍晚有舞狮表演，下午有颂钵疗愈体验（住客免费）。**Book Now:**[**+62 811 399 5048**](https://wa.me/+628113995048)**(WhatsApp) |**[**anantara.com/en/uluwatu-bali/lunar-festivities**](https://www.anantara.com/en/uluwatu-bali/lunar-festivities)
-- **Renaissance Bali Uluwatu**：2月16日在Double Ikat餐厅举办除夕自助晚餐（每人IDR 688,000++）。2月17日在Clay Craft餐厅举办「Oriental Delights」晚宴（每人IDR 888,000++）。2月10日至17日在R Bar提供新春下午茶（每人IDR 288,000++）。**Book Now:**[**+62 361 2003588**](tel:+62 361 2003588)**|**[**dining.uluwatu@renaissancehotels.com**](mailto:dining.uluwatu@renaissancehotels.com)**|**[**@renhotelbali**](https://www.instagram.com/renhotelbali/)**|**[**event.marriott.com**](https://event.marriott.com/dpsuw-renaissance-bali-uluwatu-resort-spa/events)
+- **Anantara Uluwatu Bali Resort**：二月在360 Rooftop Restaurant提供新春火锅（每人IDR 420,000++）及下午茶（每人IDR 295,000++）。2月16日至22日推出家庭套餐（IDR 680,000++）。2月17日傍晚有舞狮表演，下午有颂钵疗愈体验（住客免费）。**立即预订：**[**+62 811 399 5048**](https://wa.me/+628113995048)**(WhatsApp) |**[**anantara.com/en/uluwatu-bali/lunar-festivities**](https://www.anantara.com/en/uluwatu-bali/lunar-festivities)
+- **Renaissance Bali Uluwatu**：2月16日在Double Ikat餐厅举办除夕自助晚餐（每人IDR 688,000++）。2月17日在Clay Craft餐厅举办「Oriental Delights」晚宴（每人IDR 888,000++）。2月10日至17日在R Bar提供新春下午茶（每人IDR 288,000++）。**立即预订：**[**+62 361 2003588**](tel:+62 361 2003588)**|**[**dining.uluwatu@renaissancehotels.com**](mailto:dining.uluwatu@renaissancehotels.com)**|**[**@renhotelbali**](https://www.instagram.com/renhotelbali/)**|**[**event.marriott.com**](https://event.marriott.com/dpsuw-renaissance-bali-uluwatu-resort-spa/events)
 
 **努沙杜瓦**
 
@@ -91,7 +92,7 @@ _srcHash: c559ef8663e957d9fb856e4e10b8255d
 **乌布**
 
 - [**Capella Ubud**](/zh-cn/blog/capella-ubud-luxury-resort/)：2月17日有传统的「捞鱼生」仪式与结合印尼特色的Peranakan（土生华人）料理。
-- [**Padma Resort Ubud**](/zh-cn/blog/ubud-resorts-guide/)：2月17日晚间推出「开运飨宴」，适合喜欢山林幽静氛围的游客。
+- [**Padma Resort Ubud**](/zh-cn/blog/ubud-resorts-guide/#%E5%B3%87%E9%87%8C%E5%B2%9B%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%8B%A5%E6%8A%B1%E5%AE%81%E9%9D%99%E4%B8%8E%E5%A5%A2%E5%8D%8E)：2月17日晚间推出「开运飨宴」，适合喜欢山林幽静氛围的游客。
 - [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-17502897/the-westin-ubud-resort-amp-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**：2月16日晚间6点至10点30分举办「Ubud Lunar Harmony」除夕自助晚餐（每人IDR 588,000++），含舞狮表演。
 
 ## 🗓️ 重要日期提醒

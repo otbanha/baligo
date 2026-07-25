@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: PENDING_RETRY_88e60aee304de4dae1311462a30600f8
+_srcHash: 88e60aee304de4dae1311462a30600f8
 ---
 
 如果你对巴厘岛的印象还停留在海滩、Villa 和咖啡厅，那么 **Living World Denpasar** 绝对值得排进行程。
@@ -46,6 +46,7 @@ _srcHash: PENDING_RETRY_88e60aee304de4dae1311462a30600f8
 Living World Denpasar 位于登巴萨西侧，交通位置相当方便。
 
 从各热门旅游区前往的大约车程：
+
 - 水明漾（Seminyak）：约 15–20 分钟
 - 坎古（Canggu）：约 25–35 分钟
 - 库塔（Kuta）：约 20 分钟
@@ -54,11 +55,9 @@ Living World Denpasar 位于登巴萨西侧，交通位置相当方便。
 
 如果是包车旅行，中午安排来这里吃午餐、购物，再继续下午行程，是不少自由行旅客会采用的方式。
 
-如果是包車旅行，中午安排來這裡吃午餐、購物，再繼續下午行程，是不少自由行旅客會採用的方式。
-
 ## 商场特色
 
-### 1. 巴厘岛最新世代的大型 Shopping Mall
+### 1. 巴厘岛最新一代的大型购物中心
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783486898345-qgzwrldcvvmykm7qzkcdozgehunqlojqq_rqqhuy2pxfhdn4x0e717fririfixwvbvgwwzpljea4lvedu4afeheo6rceq9fpdyh5t5sx-idyormkz7zhir8cpjs0mst_wkc78p9sah6refszoqw2v2ntwamdet611zbjpq4z3lw6ppcof0mu3gvadra6sd8l.jpeg)
 
@@ -70,11 +69,11 @@ Living World Denpasar 位于登巴萨西侧，交通位置相当方便。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783486900257-fecwbmepei_xzduz67eqj7b72i5dlplgg7m0jb33dtg-0zqachdrhi7axoxb5tlhnx8jzlxjz-anwajfhpfisjyz0fvqioe5kbwxfihwv5h9ddndflfemsklu9_sulc0eh7myofzkxv9pgg83gxoifmd3li28dlrbgtky4ne2bgykmdbsciabgfwngutdr-q.jpeg)
 
-Living World Denpasar 的设计采用现代化开放式空间，大面积采光搭配绿色植栽，逛起来比许多传统百货更加舒服。
+Living World Denpasar 的设计采用现代化开放式空间，大面积采光搭配绿色植物，逛起来比许多传统百货更舒适。
 
 整体动线宽敞，即使假日人潮不少，也不容易感到拥挤。
 
-许多旅客都认为，它的环境比部分较老牌的购物中心更新颖，也更符合现在年轻人喜欢拍照打卡的风格。
+许多游客都认为，它的环境比部分较老牌的购物中心更新颖，也更符合现在年轻人喜欢拍照打卡的风格。
 
 ***
 
@@ -92,7 +91,7 @@ Living World Denpasar 的设计采用现代化开放式空间，大面积采光�
 - Miniso
 - Watsons
 
-此外，也有许多印尼本土服饰品牌，非常适合想买些与台湾不同款式的旅客。
+此外，也有许多印尼本土服饰品牌，非常适合想买些与台湾不同款式的游客。
 
 如果刚好遇到印尼大型折扣季，常常能买到不错的价格。
 
@@ -135,7 +134,7 @@ Living World Denpasar 的设计采用现代化开放式空间，大面积采光�
 
 Living World Denpasar 内的大型超市可以一次买齐。
 
-如果入住 Villa，需要自己采购食材，也非常方便。
+如果入住 Villa，需要自己采买食材，也非常方便。
 
 ***
 
@@ -162,7 +161,7 @@ Living World Denpasar 内的大型超市可以一次买齐。
 - 吃饭＋购物：约 3–4 小时
 - 全家慢慢逛：约半天
 
-如果本身就喜欢逛街，很容易不知不觉待上半天。
+若本身就喜欢逛街，很容易不知不觉待上半天。
 
 ***
 
@@ -229,7 +228,7 @@ Living World Denpasar 内的大型超市可以一次买齐。
 - 娃娃机
 - 各式电子游戏
 
-玩累了还能直接去美食街用餐，非常适合安排一个悠闲的下午。
+玩累了还能直接到美食街用餐，非常适合安排一个悠闲的下午。
 
 > 👉[Klook 预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1331615&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F176943-funworld-living-world-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D381d9585d2)
 
@@ -248,7 +247,7 @@ Meiso 是印尼知名连锁按摩品牌，以平价、舒适且环境干净著�
 - 肩颈放松
 - 芳香精油按摩
 
-如果旅程安排得比较紧凑，不一定有时间特地前往 SPA，利用逛街空档享受一小时按摩，也是很不错的选择。
+如果旅程安排得比较紧凑，不一定有时间特地前往SPA，利用逛街空档享受一小时按摩，也是很不错的选择。
 
 > 👉[Klook 预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1331615&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F179198-meiso-reflexology-at-living-world-mall-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db4cab09375)
 
@@ -289,7 +288,7 @@ Meiso 是印尼知名连锁按摩品牌，以平价、舒适且环境干净著�
 
 ⬇️
 
-**15:30** 小朋友到 Kidzlandia 或 Funworld 游玩，大人可以喝咖啡或逛街
+**15:30** 小朋友到 Kidzlandia 或 Funworld 游玩，大人可喝咖啡或逛街
 
 ⬇️
 

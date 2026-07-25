@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/67eb3c73fd89780001d0ee02'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 03a5376c66b284da9e7e5c08098b0570
+_srcHash: d7e96c9e32b27e8d6fd3b91319e67c89
 ---
 ## 一生必去的15个国家：印尼巴厘岛为何成为全球第三？
 
@@ -61,7 +61,7 @@ _srcHash: 03a5376c66b284da9e7e5c08098b0570
 
 ![2. CP值超高的奢華體驗](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
-比起欧美、台湾的高物价，巴厘岛能用一半的预算享受**五星级Villa、悬崖SPA、私人海滩晚餐**。推荐[水明漾（Seminyak）的私人泳池villa](/zh-cn/blog/seminyak-private-villas-guide/)、[金巴兰Ayana岩石酒吧无敌日落](/zh-cn/blog/ayana-resort-bali-guide/)、[乌布（Ubud）的丛林美景酒店](/zh-cn/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）的五星度假村](/zh-cn/blog/nusa-dua-resorts-guide/)。
+比起欧美、台湾的高物价，巴厘岛能用一半的预算享受**五星级Villa、悬崖SPA、私人海滩晚餐**。推荐[水明漾（Seminyak）的私人泳池villa](/zh-cn/blog/seminyak-private-villas-guide/)、[金巴兰Ayana岩石酒吧无敌日落](/zh-cn/blog/ayana-resort-bali-guide/)、[乌布（Ubud）的丛林美景酒店](/zh-cn/blog/ubud-resorts-guide/)、[努沙杜瓦（Nusa Dua）的五星度假村](/zh-cn/blog/nusa-dua-resorts-guide/)。
 
 ### 3. **独一无二的在地生活**
 
@@ -96,7 +96,7 @@ _srcHash: 03a5376c66b284da9e7e5c08098b0570
 1. [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
 2. [库塔必访50个景点攻略](/zh-cn/blog/kuta-guide/)
 3. [坎古100个必游景点](/zh-cn/blog/canggu-guide/)
-4. [乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
+4. [乌布探索的100种方式](/zh-cn/blog/ubud-guide/)
 5. [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)
 6. [乌鲁瓦图攻略](/zh-cn/blog/uluwatu-guide/)
 7. [武吉半岛冒险指南](/zh-cn/blog/bukit-peninsula-guide/)
@@ -104,7 +104,7 @@ _srcHash: 03a5376c66b284da9e7e5c08098b0570
 9. [努沙杜瓦40个住宿美食活动攻略](/zh-cn/blog/nusa-dua-guide/)
 10. [佩尼达岛吃喝玩乐全攻略](/zh-cn/blog/nusa-penida-guide/)
 11. [蓝梦岛/金银岛景点全攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/)
-12. [Nuanu Creative City攻略](/zh-cn/blog/nuanu-creative-city-luna-guide/)
+12. [努阿努创意城市攻略](/zh-cn/blog/nuanu-creative-city-luna-guide/)
 13. [科莫多岛攻略](/zh-cn/blog/komodo-island-labuan-bajo-travel/)
 
 ---

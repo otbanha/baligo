@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: zh-cn
-_srcHash: d9114e75300dde4f5b03952b7a935fc3
+_srcHash: 35e948e1d1851294060ec289b2364c0a
 ---
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
 
@@ -60,7 +60,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚！
+- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚!
 
 视频由戴妤珊提供
 
@@ -79,17 +79,17 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 - 乌布市场
 - 乌布皇宫
 
-> 乌布闹区如何逛？请看[乌布市中心逛街攻略](/zh-cn/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> 乌布闹区如何逛？请看乌布市中心逛街攻略
 
 - 德哥拉朗梯田
 
 https://youtu.be/op78Dk8CjL4
 
-> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)  
+> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
 
 - 圣泉寺
 
-> 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)  
+> 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
 - Penglipuran Village（可以租借传统服饰拍照）
 
@@ -97,7 +97,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)  
+> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 - 午餐：Naughty Nuri's Ubud（猪肋排很有名）
 - 点心：Tukies cocount shop（椰子冰）
@@ -111,7 +111,7 @@ https://youtu.be/op78Dk8CjL4
 
 戴妤珊提供
 
-Klook优惠：
+[> Klook优惠：
 > 巴杜尔/[金塔马尼网红咖啡厅之旅（含四驱吉普车日出＆摄影体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
 
 - 百沙基母庙
@@ -146,9 +146,9 @@ Klook优惠：
 - 午餐：Babi Guling Men Lari（烤乳猪很好吃）
 - 晚餐：Waroeng Kampoeng（当地人常去的热炒店，非常地道）
 
-## 第五天（努沙佩尼达）：
+## 第五天（珀尼达岛）：
 
-- 努沙佩尼达跳岛一日游
+- 珀尼达岛跳岛一日游
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_d2796b29117cd8583b9175a53996bfd9.jpg)
 
@@ -195,7 +195,7 @@ Odon给人的感觉与前一位司机完全不同。他给人的感觉就像是�
 
 最后一天，Odon带我们去了乌鲁瓦图庙，一边陪我们逛一边介绍，还帮我们拍了许多美丽的照片，并推荐了一家不错的伴手礼店。他给我们的感觉就像是一位巴厘岛的好朋友一样！
 
-我很喜欢这两位司机，大家可以根据自己的需求选择合适的司机。
+我很喜欢这两位司机，而大家可以根据自己的需求选择合适的司机。
 
 Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
@@ -203,7 +203,7 @@ Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 这次妤珊他们六天五夜的行程共住了三家住宿，详细的图文+room tour视频，可以看看妤珊在我们[脸书社团上的介绍](https://www.facebook.com/groups/baligo/permalink/1531159957431244/)。
 
-您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿你的行程喔！
+您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 {{block:遊記}}
 

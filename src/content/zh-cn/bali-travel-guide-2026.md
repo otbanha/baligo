@@ -15,7 +15,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/UoGlRyAdyB8'
 lang: zh-cn
-_srcHash: a3c463d10c769e427b8885749891fc4a
+_srcHash: bc1d0fabbaf1b49787590c8e0cf5167f
 ---
 ![2026年峇里島自由行｜行前終極指南：出發前必看 7 大重點！簽證、換匯、住宿、電壓/轉接器...一次搞定](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
 
@@ -48,7 +48,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 入境相关：
 
-- [使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
+- [使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→取行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 - [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/zh-cn/blog/bali-evisa-customs-health-declaration/)
 
 ## 住宿基地/区域详解：
@@ -58,7 +58,7 @@ https://youtu.be/H5N5_UuK7TI
 - [库塔必访50个景点攻略](/zh-cn/blog/kuta-guide/)
 - [水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
 - [Canggu 100个必游景点](/zh-cn/blog/canggu-guide/)
-- [乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
+- [乌布探索的100种方式](/zh-cn/blog/ubud-guide/)
 
 ### 努沙杜瓦
 
@@ -159,7 +159,7 @@ https://youtu.be/H5N5_UuK7TI
 
 巴厘岛不仅拥有迷人的海滩和奢华的度假村，还隐藏着丰富多样的户外活动，等待着热爱冒险的旅人前来探索。无论您是寻求刺激的冒险家，还是渴望在大自然中放松身心的旅行者，巴厘岛都能满足您的需求。以下是六大分类，共50种热门户外活动，请点击[这里](/zh-cn/blog/bali-top-50-outdoor-activities/)。
 
-## 金钱、网络、生活小贴士
+## 金钱、网络、生活小叮咛
 
 - [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 - [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
@@ -192,7 +192,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 超市必买
 
-__VID1__
+{{video1}}
 
 [巴厘岛大型超市地图](/map/supermarket/)
 

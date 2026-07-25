@@ -3,7 +3,7 @@ title: "\U0001F491 没有小孩的巴厘岛旅行超爽！爸妈的六天五夜�
 slug: bali-romantic-getaway-plan
 description: "这趟旅程对我们来说，真的是久违的二人世界！\U0001F46B 在把孩子交给岳母大人照顾后，我和太太几乎是用「迫不及待」的速度打包好行李，准备搭上飞往巴厘岛的班机。对于久没出国放风的爸妈来说，这样的放松假期格外珍贵，期待值直接拉满"
 pubDate: 2025-07-21T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -17,7 +17,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55a17e32ff3426be5b5ca449098353ec.png'
 originalUrl: 'https://vocus.cc/article/6860bc8bfd897800019ce915'
 lang: zh-cn
-_srcHash: 89d485da477b5b7952ae793dd724da70
+_srcHash: 1e580ff89eec9240e1872def31a66f2c
 ---
 
 > 以下内容改编自团友 [Johnny Wei](https://www.facebook.com/share/p/16WTfUrpzo/) 分享游记：
@@ -47,7 +47,7 @@ _srcHash: 89d485da477b5b7952ae793dd724da70
 
 我们搭乘长荣航空早上 9:50 的直飞班机，预计下午 15:30 抵达巴厘岛。航程虽然长了一点，但在飞机上小睡一会儿，心情已经开始切换到度假模式。
 
-抵达登巴萨机场（Ngurah Rai International Airport）后，因为排人工签证，出关时天色已晚，搭上预约好的接送车，抵达位在金巴兰的 **AYANA Resort and Spa Bali** 时，已经是傍晚六点。
+抵达登巴萨机场（Ngurah Rai International Airport）后，因为排人工签证，出关时天色已晚，搭上预约好的接送车，抵达位于金巴兰的 **AYANA Resort and Spa Bali** 时，已经是傍晚六点。
 
 ### 🏨 **AYANA Resort 值得住上两晚！**
 
@@ -79,9 +79,9 @@ https://youtu.be/lbDfKut2J7M
 
 ### 🍽 **早餐吃好吃满，午餐直接省下来**
 
-早餐我们选择了 AYANA 大厅旁的自助餐厅，虽然价格略高，一人约 $29.6 美金（折合美金约 $30），但选项非常丰富，有印尼当地餐点、日式料理、欧式冷盘，甚至还有现煎蛋卷与面包甜点，诚意十足。吃饱喝足后，午餐根本吃不下，直接省下一餐的预算😂
+早餐我们选择了 AYANA 大厅旁的吃到饱餐厅，虽然价格略高，一人约 $29.6 美金（折合台币约 $960），但选项非常丰富，有印尼当地餐点、日式料理、欧式冷盘，甚至还有现煎蛋卷与面包甜点，诚意十足。吃饱喝足后，午餐根本吃不下，直接省下一餐的预算😂
 
-小插曲是，我们在打扫房务时留了 **2 美金小费**，结果下午回到房间时发现房务阿姨默默准备了一份小惊喜，贴心又温暖，完全感受到 AYANA 的服务精神。反观上次去清迈，朋友留了 $10 美金却什么都没换到，只能说运气也是一种实力😆
+小插曲是，我们在打扫客房时留了 **2 美金小费**，结果下午回到房间时发现客房阿姨默默准备了一份小惊喜，贴心又温暖，完全感受到 AYANA 的服务精神。反观上次去清迈，朋友留了 $10 美金却什么都没换到，只能说运气也是一种实力😆
 
 ![(Johnny Wei提供)](https://images.gobaligo.id/vocus/vocus_b78ac2050e44c7dcd8f3db2150e5a5a3.jpg)
 
@@ -89,7 +89,7 @@ https://youtu.be/lbDfKut2J7M
 
 ### 🌌 **The Cave 洞穴餐厅，一生必体验的梦幻晚餐**
 
-晚上我们预订了超夯的 **The Cave by Chef Ryan Clift**，这是一间位在真正天然石灰岩洞里的高级餐厅。原本差点因为交通塞车迟到，还好贴心的司机大哥帮我们提前联络餐厅，终于在 18:00 压线抵达！
+晚上我们预订了超火的 **The Cave by Chef Ryan Clift**，这是一间位于真正天然石灰岩洞里的高级餐厅。原本差点因为交通堵车迟到，还好贴心的司机大哥帮我们提前联系餐厅，终于在 18:00 压线抵达！
 
 ![(Johnny Wei提供)](https://images.gobaligo.id/vocus/vocus_9886ebac8317cf63d282d65305a5181d.jpg)
 
@@ -107,7 +107,7 @@ https://youtu.be/lbDfKut2J7M
 
 > [The Cave官网](https://www.thecavebali.com/)
 
-编按：The Cave这边还有一个悬崖泳池的日间俱乐部，也是这一带的必游景点喔！
+编者按：The Cave这边还有一个悬崖泳池的日间俱乐部，也是这一带的必游景点哦！
 
 ![The Cave 洞穴餐廳，一生必體驗的夢幻晚餐](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
@@ -119,7 +119,7 @@ https://youtu.be/lbDfKut2J7M
 
 ### 🚗 **长途车程，只为一杯咖啡与美景**
 
-这天的第一站是我表哥大力推荐的景观咖啡馆——**Montana Del Café**，位于巴厘岛北边高海拔的京打马尼（Kintamani）地区。从金巴兰的AYANA开车前往，单程竟然就花了**两个半小时**，真的是翻山越岭的节奏。
+这天的第一站是我表哥大力推荐的景观咖啡馆 —— **Montana Del Café**，位于巴厘岛北边高海拔的京打马尼（Kintamani）地区。从金巴兰的AYANA开车前往，单程竟然花了 **两个半小时**，真的是翻山越岭的节奏。
 
 ![(Johnny Wei提供)](https://images.gobaligo.id/vocus/vocus_5245fa7b61c80c4a4252d2e9876cc3e0.jpg)
 
@@ -133,7 +133,7 @@ https://youtu.be/lbDfKut2J7M
 
 ### 🌿 **入住：Abisena Wellness & Resort Ubud**
 
-结束高地行程后，我们拉车回到中部的**乌布（Ubud）**，当天入住的是一间隐身在丛林之中的**Abisena Wellness & Resort**。这间住宿是我们旅程中最惊喜的发现之一，完全符合我们想要「放松＋浪漫」的度假氛围！
+结束高地行程后，我们拉车回到中部的 **乌布（Ubud）**，当天入住的是一间隐身在丛林之中的 **Abisena Wellness & Resort**。这间住宿是我们在旅程中最惊喜的发现之一，完全符合我们想要「放松＋浪漫」的度假氛围！
 
 ![(Johnny Wei提供)](https://images.gobaligo.id/vocus/vocus_0bcb27348f2a4fd72f4e265beed93773.jpg)
 
@@ -151,11 +151,11 @@ https://youtu.be/63mZAiTt3aE
 
 离开静谧的乌布山林后，我们的行程转往热闹的海滨地区——**水明漾（Seminyak）**。这里是巴厘岛著名的时尚区，不只餐厅、酒吧林立，还有许多精品店与网红打卡咖啡厅，生活机能超级方便，非常适合想体验城市度假氛围的旅人。
 
-我们当晚入住的是位在水明漾市中心的 **The Claremont Luxury Villas**。这间 Villa 的 CP 值真的超高，一晚大约只要 **美金 $148 左右**，但空间宽敞、设施齐全，还带有私人泳池！步行几分钟内就有便利店、异国餐厅与按摩店，完全不需要叫车。
+我们当晚入住的是位于水明漾市中心的 **The Claremont Luxury Villas**。这间 Villa 的 CP 值真的超高，一晚大约只要 **USD$148 左右**，但空间宽敞、设施齐全，还带有私人泳池！步行几分钟内就有便利店、异国餐厅与按摩店，完全不需要叫车。
 
 [The Claremont Luxury Villas房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25410409) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-72891503/the-claremont-luxury-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/BZ1IN1BS)
 
-如果预算有限、但又想住到有质感又地点便利的 Villa，这间真的可以记下来✅。
+如果预算有限、但又想住到有质感又地点便利的 Villa，这间真的可以笔记起来✅。
 
 ▶The Claremont Luxury Villas 周边、设施、客房等详细介绍请看[这里](/zh-cn/blog/seminyak-private-villas-guide/)
 
@@ -163,15 +163,15 @@ https://youtu.be/63mZAiTt3aE
 
 ## 🎉 **第五天：朝圣 Finns Beach Club，当一天豪华冤大头也值得！**
 
-来巴厘岛这么多次，这天终于安排了期待已久的 **Finns Beach Club**！它是巴厘岛最具代表性的海滩俱乐部之一，位于坎古区（Canggu），整个场地面向海滩，有好几个泳池、日光躺椅、吧台、DJ 舞台与 VIP 包厢，气氛非常热闹、嗨到不行。
+来巴厘岛这么多次，这天终于安排了期待已久的 **Finns Beach Club**！它是巴厘岛最具代表性的海滩俱乐部之一，位于坎古区（Canggu），整个场地面向海滩，有好几个泳池、日光躺椅、吧台、DJ 舞台与VIP包厢，气氛非常热闹、嗨到不行。
 
 https://youtu.be/MpetWBEQ2Ts
 
 不过这里的评价在网上真的很两极，有些人觉得 **服务人员态度冷淡、价格偏高**；也有不少人认为 **气氛好、设施棒、值得一来**。
 
-我们自己的体验是——**如果你只点个最便宜的躺椅套餐，真的比较容易被忽略**；但我们这次咬牙升级成 VIP 沙发包厢套餐，一整天下来虽然花了不少钱，但换来的待遇完全不同！✨
+我们自己的体验是——**如果你只点个最便宜的躺椅套餐，真的比较容易被忽略**；但我们这次咬牙升级成VIP沙发包厢套餐，一整天下来虽然花了不少钱，但换来的待遇完全不同！✨
 
-💡被服务的关键真的就是「花钱花对地方」！当你选择高价位的包厢，保全、服务生甚至舞者都会主动来跟你打招呼、互动，气氛瞬间升级成像在参加私人派对一样。
+💡被服务的关键真的就是「花钱花对地方」！当你选择高价位的包厢，保全、服务生甚至舞者都会主动来跟你打招呼、互动，气氛瞬间升级成好像在参加私人派对一样。
 
 我们旁边那桌虽然也坐在包厢区，但可能没点什么或没特别互动，结果整场下来几乎被忽略，连舞者经过都没回头😅 所以说，**在 Finns 想玩得尽兴，就要当一天豪华冤大头**（开心的那种），才能真正感受到这里的魅力！
 
@@ -179,7 +179,7 @@ https://youtu.be/MpetWBEQ2Ts
 
 (Johnny Wei提供)
 
-整体来说，我们玩得非常开心，是一个充满阳光、比基尼、音乐与调酒的完美假日🌴🍹🎶
+总体来说，我们玩得非常开心，是一个充满阳光、比基尼、音乐与调酒的完美假日🌴🍹🎶
 
 {{block:canggu}}
 
@@ -207,7 +207,7 @@ https://youtu.be/MpetWBEQ2Ts
 
 尤其金巴兰、水明漾到乌布这几段路程常常会塞车，强烈建议每天安排 1~2 个重点行程即可，否则会一直在「错过」中度过旅程，玩得很辛苦。
 
-### 💵 **4. 小费文化可以给，但不要被情感绑架！**
+### 💵 **4. 小费文化可以给，但不要被道德绑架！**
 
 巴厘岛有超过 75% 的人口从事服务业，适度给小费是一种礼貌与支持。但也遇过一些人会用言语 PUA 或摆出理所当然的态度索取，这种情况下，**真的不需要勉强自己给小费**，保持界限与自我尊重更重要。
 
@@ -225,7 +225,7 @@ https://youtu.be/MpetWBEQ2Ts
 
 管你是蜜月、闺蜜出游、还是久违的二人世界，**巴厘岛都值得你放慢脚步、用心体验。**
 
-**🧜‍♀️追踪美人妻 IG:** [**ellaine0308**](https://www.instagram.com/ellaine0308?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+**🧜‍♀️关注美人妻 IG:** [**ellaine0308**](https://www.instagram.com/ellaine0308?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 您觉得 Johnny Wei 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
