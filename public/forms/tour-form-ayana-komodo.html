@@ -403,7 +403,7 @@ function setLang(lang) {
   document.getElementById('sec6').innerHTML = t.sec6 + ` <span class="badge-opt" style="font-size:9px;font-weight:500;letter-spacing:0.08em;color:var(--muted);background:transparent;border:1px solid var(--border);border-radius:2px;padding:1px 5px;">${t.opt}</span>`;
 
   // Field labels
-  const optIds = new Set(['lbl_email','lbl_itinerary','lbl_notes','lbl_flight_out','lbl_flight_ret']);
+  const optIds = new Set(['lbl_notes','lbl_flight_out','lbl_flight_ret','lbl_komodo_out','lbl_komodo_ret']);
   ['lbl_depart','lbl_intl_flight','lbl_flight_out','lbl_flight_ret','lbl_komodo_flight','lbl_komodo_out','lbl_komodo_ret','lbl_adults','lbl_children','lbl_childages','lbl_name','lbl_line','lbl_email','lbl_notes'].forEach(id => {
     const el = document.getElementById(id);
     if (!el) return;
