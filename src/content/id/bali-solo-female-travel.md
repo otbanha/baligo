@@ -105,7 +105,7 @@ https://youtu.be/hQbBTktqEqY
 
 https://youtu.be/JtxZHtijEkE
 
-> Baca juga: Cara jalan-jalan di pasar dan puri Ubud? [Lihat di sini](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Baca juga: Cara jalan-jalan di pasar dan puri Ubud? Lihat di sini
 
 **18:00** Makan malam di restoran Italia L'Osteria.
 
@@ -280,7 +280,7 @@ Secara keseluruhan, menurutku lingkungan di Bali cocok banget buat traveling sen
 
 Pemandangan alam Bali emang juara banget! Solo trip kali ini kasih pengalaman yang nggak terlupakan, dan bikin aku lihat sendiri keramahan penduduk lokal. Solo trip itu nggak serem kok, malah bikin aku bisa tenggelam sepenuhnya di alam dan nuansa eksotis. Kalau ada kesempatan lagi, pasti aku bakal balik lagi ke pulau impian ini! Semoga bisa berbagi cerita perjalanan lainnya bareng kalian.
 
-> [Tips Solo Trip ke Bali: Surga Sendirian, Tetap Seru Banget](/id/blog/2026-04-05-001845/)
+> Tips Solo Trip ke Bali: Surga Sendirian, Tetap Seru Banget
 
 ------------------Selesai---------------------
 

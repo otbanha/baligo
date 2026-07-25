@@ -67,7 +67,7 @@ As travel bloggers deeply rooted in Bali, we're here to break down the island's 
 
 ![2. CP值超高的奢華體驗](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
-Compared to the high costs in Europe, the US, and Taiwan, Bali lets you enjoy **five-star villas, cliffside spas, and private beach dinners** on half the budget. Check out [private pool villas in Seminyak](/en/blog/2024-04-04-660e6e92fd89780001e6047e/), [the unbeatable sunset at Ayana's Rock Bar in Jimbaran](/en/blog/ayana-resort-bali-guide/), [jungle-view hotels in Ubud](/en/blog/ubud-villas-pool-guide/), and [five-star resorts in Nusa Dua](/en/blog/nusa-dua-resorts-guide/).
+Compared to the high costs in Europe, the US, and Taiwan, Bali lets you enjoy **five-star villas, cliffside spas, and private beach dinners** on half the budget. Check out [private pool villas in Seminyak](/en/blog/seminyak-private-villas-guide/), [the unbeatable sunset at Ayana's Rock Bar in Jimbaran](/en/blog/ayana-resort-bali-guide/), [jungle-view hotels in Ubud](/en/blog/ubud-villas-pool-guide/), and [five-star resorts in Nusa Dua](/en/blog/nusa-dua-resorts-guide/).
 
 ### 3. Unique Local Experiences
 
@@ -100,7 +100,7 @@ From swimming with manta rays on **Nusa Penida** to white-water rafting and ATV 
 - **Ultimate Guides**:
 
 1. [Seminyak 100 Attractions Guide](/en/blog/seminyak-guide/)
-2. [Kuta 50 Must-Visit Attractions Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+2. [Kuta 50 Must-Visit Attractions Guide](/en/blog/kuta-guide/)
 3. [Canggu 100 Must-Visit Attractions](/en/blog/canggu-guide/)
 4. [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
 5. [Jimbaran Guide](/en/blog/jimbaran-guide/)

@@ -109,7 +109,7 @@ Mau nulis cerita perjalanan tapi bingung mulai dari mana? Cek dulu panduan 「[C
 ## Panduan Referensi:
 
 - [Panduan 60 Tempat Wisata di Seminyak Bali 2024](/id/blog/seminyak-guide/)
-- [Panduan 50 Tempat Wajib Kunjung di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan 50 Tempat Wajib Kunjung di Kuta](/id/blog/kuta-guide/)
 - [50 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
 - [50 Cara Eksplor Ubud](/id/blog/ubud-guide/)
 - [Panduan Jimbaran 2024](/id/blog/jimbaran-guide/)

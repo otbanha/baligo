@@ -157,7 +157,7 @@ Malam itu kami menginap di **The Claremont Luxury Villas** yang ada di pusat Sem
 
 Kalau budget terbatas tapi tetap pengin Villa yang berkualitas dan lokasinya strategis, yang ini wajib dicatat ✅.
 
-▶Lihat ulasan lengkap tentang The Claremont Luxury Villas — mulai dari lokasi, fasilitas, hingga kamar — di [sini](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+▶Lihat ulasan lengkap tentang The Claremont Luxury Villas — mulai dari lokasi, fasilitas, hingga kamar — di [sini](/id/blog/seminyak-private-villas-guide/)
 
 {{block:smk}}
 

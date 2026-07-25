@@ -50,7 +50,7 @@ Pariwisata di Ubud didukung oleh fasilitas akomodasi yang lengkap, mulai dari ho
 
 ![豐富的住宿選擇](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
-- [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+- [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 - [Jelajahi 9 Vila Pohon/Bambu yang Memukau di Ubud (tree house/bamboo villa)](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 - [【Rekomendasi Penginapan Ubud】Surga Privat Vila Berkolam Renang: 20 Villa Bali yang Menakjubkan di Ubud](/id/blog/ubud-villa-pool-guide/)
 - [Rekomendasi Penginapan Yoga di Ubud: 10 Pilihan Impian yang Menggabungkan Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)

@@ -525,7 +525,7 @@ https://youtube.com/shorts/arOR8IvtHbc
 
 如果您正在寻找一个狂欢一整夜的场所，巴厘岛的库塔和水明漾是你应该去的地方!
 
-- Kuta的两大夜店请看我们的[[库塔攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)]
+- Kuta的两大夜店请看我们的[[库塔攻略](/zh-cn/blog/kuta-guide/)]
 - 水明漾的5大夜店[请看这里](/zh-cn/blog/seminyak-nightclubs-guide/)
 
 ***

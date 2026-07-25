@@ -67,4 +67,4 @@ If you run into any issues while applying for an e-visa, we've compiled a compre
 
 Before diving into our 'Ultimate Bali Travel Guide,' we warmly invite you to subscribe to our YouTube channel 'Xiao Jie Indonesia' for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 
-Once subscribed, you can continue reading our in-depth guide and explore every fascinating corner of Bali. Click on '[Ultimate Bali Travel Guide](/en/blog/2023-08-22-64e37f2dfd89780001b1f776/)' to start planning your Bali adventure!
+Once subscribed, you can continue reading our in-depth guide and explore every fascinating corner of Bali. Click on 'Ultimate Bali Travel Guide' to start planning your Bali adventure!

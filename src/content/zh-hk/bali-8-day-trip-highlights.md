@@ -104,7 +104,7 @@ Yoga Barn嘅課程的確好多，但場地比較舊，可能係期望太高。�
 ## 參考攻略：
 
 - [2024峇里島水明漾60個景點攻略](/zh-hk/blog/seminyak-guide/)
-- [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 - [Canggu 50個必遊景點](/zh-hk/blog/canggu-guide/)
 - [烏布探索的50個方式](/zh-hk/blog/ubud-guide/)
 - [2024金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)

@@ -33,7 +33,7 @@ _srcHash: 73e94c4f3c4c07586d428c11c283a550
 
 ![出發前的準備](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-想知更多庫塔攻略？[請撳呢度](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+想知更多庫塔攻略？[請撳呢度](/zh-hk/blog/kuta-guide/)
 
 喺出發前一日，我哋收到咗攝影師兼導遊Udin透過WhatsApp發嚟嘅確認訊息，詳細講咗接送時間同地點。由於今次揀咗峇里島專業攝影師隨行一日遊，行程包括相機同航拍機拍攝服務，令我哋對即將嚟到嘅旅程充滿期待。
 

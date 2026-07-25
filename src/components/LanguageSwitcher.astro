@@ -4,17 +4,24 @@ interface Props {
   slug?: string;        // 文章 slug，用於跨語言連結
   basePath?: string;    // 獨立頁面路徑，如 'bali-budget-calculator'
   basePathMap?: Record<string, string>; // 各語言各自不同路徑時使用（如分類頁英文 slug），優先於 basePath
+  availableLangs?: string[];            // 該 slug 實際存在的語言（'zh-tw' | 'zh-hk' | 'zh-cn' | 'en' | 'id'）
 }
 
-const { currentLang = 'blog', slug = '', basePath, basePathMap } = Astro.props;
+const { currentLang = 'blog', slug = '', basePath, basePathMap, availableLangs } = Astro.props;
 
-const LANGS = [
-  { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
-  { code: 'zh-hk', label: '粵語', title: '廣東話（香港）' },
-  { code: 'zh-cn', label: '简中', title: '简体中文' },
-  { code: 'en',    label: 'EN',   title: 'English' },
-  { code: 'id',    label: 'ID',   title: 'Bahasa Indonesia' },
+const ALL_LANGS = [
+  { code: 'blog',  hreflangCode: 'zh-tw', label: '繁中', title: '繁體中文（台灣）' },
+  { code: 'zh-hk', hreflangCode: 'zh-hk', label: '粵語', title: '廣東話（香港）' },
+  { code: 'zh-cn', hreflangCode: 'zh-cn', label: '简中', title: '简体中文' },
+  { code: 'en',    hreflangCode: 'en',    label: 'EN',   title: 'English' },
+  { code: 'id',    hreflangCode: 'id',    label: 'ID',   title: 'Bahasa Indonesia' },
 ];
+
+// 文章頁只列出真的有翻譯的語言。以前一律列出 5 種，翻譯不存在時就連到 404
+// （hreflang 早就有做這個過濾，切換器漏了）。沒帶 availableLangs 的頁面維持全列。
+const LANGS = availableLangs
+  ? ALL_LANGS.filter(l => l.code === currentLang || availableLangs.includes(l.hreflangCode))
+  : ALL_LANGS;
 
 function buildUrl(langCode: string, slug: string, basePath?: string, basePathMap?: Record<string, string>) {
   const resolvedBasePath = basePathMap?.[langCode] ?? basePath;

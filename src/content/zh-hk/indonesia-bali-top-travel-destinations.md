@@ -61,7 +61,7 @@ _srcHash: 03a5376c66b284da9e7e5c08098b0570
 
 ![2. CP值超高的奢華體驗](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
-比起歐美、台灣嘅高物價，峇里島可以用一半嘅預算享受**五星級Villa、懸崖SPA、私人海灘晚餐**。推薦[水明漾（Seminyak）嘅私人泳池villa](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴蘭Ayana岩石酒吧無敵日落](/zh-hk/blog/ayana-resort-bali-guide/)、[烏布（Ubud）嘅叢林美景酒店](/zh-hk/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）嘅五星渡假村](/zh-hk/blog/nusa-dua-resorts-guide/)。
+比起歐美、台灣嘅高物價，峇里島可以用一半嘅預算享受**五星級Villa、懸崖SPA、私人海灘晚餐**。推薦[水明漾（Seminyak）嘅私人泳池villa](/zh-hk/blog/seminyak-private-villas-guide/)、[金巴蘭Ayana岩石酒吧無敵日落](/zh-hk/blog/ayana-resort-bali-guide/)、[烏布（Ubud）嘅叢林美景酒店](/zh-hk/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）嘅五星渡假村](/zh-hk/blog/nusa-dua-resorts-guide/)。
 
 ### 3. **獨一無二嘅在地生活**
 
@@ -94,7 +94,7 @@ _srcHash: 03a5376c66b284da9e7e5c08098b0570
 - **超強攻略**：
 
 1. [峇里島水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
-2. [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+2. [庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 3. [坎古100個必遊景點](/zh-hk/blog/canggu-guide/)
 4. [烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
 5. [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)

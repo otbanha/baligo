@@ -58,7 +58,7 @@ Foto: Uluwatu, oleh Serena
 
 Sorenya, sebelum balik ke hotel, kami sempat jalan-jalan ke toko-toko kecil di Kuta.
 
-> Cara jalan-jalan di Kuta? Cek [Panduan Wisata Kuta: 50 Tempat Wajib Dikunjungi, Nightlife Seru, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Cara jalan-jalan di Kuta? Cek [Panduan Wisata Kuta: 50 Tempat Wajib Dikunjungi, Nightlife Seru, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/kuta-guide/)
 
 ### 15/2 Nusa Dua/Bali Zoo
 
@@ -122,7 +122,7 @@ Sorenya kita habiskan untuk belanja dan jalan-jalan terakhir di Kuta dan Seminya
 
 Setelah belanja pagi terakhir, jam 14:00 kita siap-siap naik pesawat pulang ke Taiwan, menutup liburan Bali yang indah. Keuntungan menghabiskan hari terakhir di Kuta dan Jimbaran adalah 'kamu nggak perlu khawatir telat naik pesawat'!
 
-> (Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjung, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/))  
+> (Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjung, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/kuta-guide/))  
 > (Baca juga: [Liburan Mandiri Jimbaran: Rekomendasi 30 Tempat Wisata Lengkap](/id/blog/jimbaran-guide/))
 
 ## Catatan Akhir

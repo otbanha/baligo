@@ -45,7 +45,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 [坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-巴厘岛从库塔和雷吉安开始，发展成为整个巴厘岛最热闹的区域。我们之前做过一集「库塔攻略」，到巴厘岛旅游不要错过我的「[库塔攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)」喔！
+巴厘岛从库塔和雷吉安开始，发展成为整个巴厘岛最热闹的区域。我们之前做过一集「库塔攻略」，到巴厘岛旅游不要错过我的「[库塔攻略](/zh-cn/blog/kuta-guide/)」喔！
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 

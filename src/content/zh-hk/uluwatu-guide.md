@@ -353,6 +353,6 @@ SUNDAZE ULUWATU MARKET 位於峇里島南端嘅 Hatch Bali Uluwatu，逢星期�
 
 為咗令大家更了解以上介紹嘅呢啲景點位置，我哋特登準備咗一份「[烏魯瓦圖攻略地圖](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)」標示晒所有景點嘅相關位置。如果想去烏魯瓦圖旅遊或探險嘅朋友，唔好唔記得保存低呀！
 
-延伸閱讀：[峇里島攻略之認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
+延伸閱讀：[峇里島攻略之認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/bali-accommodation-area-guide/)
 
 {{block:攻略}}

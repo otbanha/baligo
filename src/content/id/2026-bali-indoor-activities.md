@@ -100,7 +100,7 @@ Karena Kuta paling banyak turis, tempat belanjanya juga paling banyak! Contoh ma
 - Mal Bali Galeria
 - Trans Studio
 
-Buat yang tertarik, bisa cek artikel ini: [Peta Panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/) — semua lokasi udah ditandain lengkap di peta, lho!
+Buat yang tertarik, bisa cek artikel ini: [Peta Panduan Kuta](/id/blog/kuta-guide/) — semua lokasi udah ditandain lengkap di peta, lho!
 
 ### Toko Oleh-Oleh
 

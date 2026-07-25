@@ -214,7 +214,7 @@ Kuta adalah kawasan wisata populer di Bali, banyak restoran murah dan suasana ma
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta adalah salah satu destinasi paling seru di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok buat pemula surfing. Di sini kamu bisa nemuin banyak toko, restoran, dan tempat hiburan — surga buat yang suka belanja dan cari sensasi. Mau party seru atau sekadar nikmatin sunset, Kuta bakal bikin liburanmu penuh kenangan! Mau info lebih lengkap soal Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta adalah salah satu destinasi paling seru di Bali, terkenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok buat pemula surfing. Di sini kamu bisa nemuin banyak toko, restoran, dan tempat hiburan — surga buat yang suka belanja dan cari sensasi. Mau party seru atau sekadar nikmatin sunset, Kuta bakal bikin liburanmu penuh kenangan! Mau info lebih lengkap soal Kuta? [Klik di sini](/id/blog/kuta-guide/).
 
 ***
 

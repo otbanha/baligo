@@ -83,7 +83,7 @@ _srcHash: fd312564e7efa9a43befadbd4de8ec8b
 
 建議先認識峇里島各個區域嘅住宿特色，揀啱適合蜜月情侶嘅住宿，同埋多啲用我哋提供嘅一日遊套餐，就可以輕鬆玩轉峇里島。
 
-> 延伸閱讀：[認識峇里島嘅五個熱門住宿區域](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 延伸閱讀：[認識峇里島嘅五個熱門住宿區域](/zh-hk/blog/bali-accommodation-area-guide/)
 
 > 延伸閱讀：[20間度蜜月度假村、浪漫villa推薦](/zh-hk/blog/bali-honeymoon-resorts-guide/)
 

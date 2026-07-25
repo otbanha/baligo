@@ -266,7 +266,7 @@ https://youtu.be/uFv_4Wr6YsI
  \*\*> ▶峇里島住宿推薦：\*\*[**水明漾嘅濱海精緻主題住宿指南**](/zh-hk/blog/seminyak-beach-resorts-guide/)
 想住好啲嘅濱海渡假村就睇呢篇
 
-**> ▶水明漾villa推薦：**[**水明漾21間令人驚艷嘅峇里島秘密花園**](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
+**> ▶水明漾villa推薦：**[**水明漾21間令人驚艷嘅峇里島秘密花園**](/zh-hk/blog/seminyak-private-villas-guide/)
 水明漾超靚嘅私人泳池別墅
 
 **> ▶水明漾輕奢平價villa推薦：**[**唔超過100美元嘅平價峇里島villa推薦**](/zh-hk/blog/seminyak-budget-villas-guide/)

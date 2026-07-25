@@ -163,7 +163,7 @@ At the resort's pool area, kids can splash around to their hearts' content while
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta is one of Bali's most vibrant hotspots, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surf beach. It's packed with shops, restaurants, and entertainment venues—a perfect destination for thrill-seekers and shopaholics. Whether you're diving into the party scene or soaking up sunset views, Kuta promises unforgettable holiday memories! Want more Kuta tips? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta is one of Bali's most vibrant hotspots, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surf beach. It's packed with shops, restaurants, and entertainment venues—a perfect destination for thrill-seekers and shopaholics. Whether you're diving into the party scene or soaking up sunset views, Kuta promises unforgettable holiday memories! Want more Kuta tips? [Click here](/en/blog/kuta-guide/)
 
 ## Family-Friendly Resort in Seminyak
 

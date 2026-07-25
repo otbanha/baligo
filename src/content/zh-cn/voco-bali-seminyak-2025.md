@@ -82,5 +82,5 @@ voco Bali Seminyak的开业为巴厘岛的旅游业注入新的活力，为旅�
 水明漾是巴厘岛上结合时尚与传统的迷人地区，拥有顶级餐厅、精品店与活力四射的夜生活，是度假者的天堂！想知道更多精彩美食介绍的信息？[请点击这里](/zh-cn/blog/seminyak-guide/)。
 
 - [巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南](/zh-cn/blog/seminyak-beach-resorts-guide/)
-- [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/seminyak-private-villas-guide/)
 - [【水明漾】不超过100美元的平价巴厘岛villa推荐](/zh-cn/blog/seminyak-budget-villas-guide/)

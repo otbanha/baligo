@@ -141,7 +141,7 @@ Bali punya puluhan ribu pilihan tempat nginep, dari resort mewah sampai homestay
 
 ### **5. Perlu visa nggak buat ke Bali?**
 
-Buat liburan singkat, traveler dari beberapa negara kayak Singapura, Malaysia, Hong Kong bisa bebas visa. Tapi buat warga Taiwan atau China, tetap harus urus visa dulu. Lengkapnya cek: [Aturan Masuk 2025: 4 Langkah Wajib Sebelum Liburan ke Bali](/id/blog/2025-01-11-67821654fd89780001f932b5/)
+Buat liburan singkat, traveler dari beberapa negara kayak Singapura, Malaysia, Hong Kong bisa bebas visa. Tapi buat warga Taiwan atau China, tetap harus urus visa dulu. Lengkapnya cek: Aturan Masuk 2025: 4 Langkah Wajib Sebelum Liburan ke Bali
 
 ## 📩 **Gabung Sekarang 'Panduan Liburan Bali', Jadi Ahli Liburan Bali!**
 

@@ -117,7 +117,7 @@ const schema = {
       <a
         href="https://www.trip.com/things-to-do/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener noreferrer sponsored nofollow"
         class="tickets-tripcom-banner"
       >
         <span class="tickets-tripcom-logo">Trip.com</span>
@@ -128,7 +128,7 @@ const schema = {
 
     <!-- Klook Widget -->
     <div class="tickets-klook-widget">
-      <ins class="klk-aff-widget" data-adid="1277535" data-lang="" data-currency="IDR" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-cid="-1" data-tid="3" data-amount="4" data-prod="dynamic_widget"><a href="https://www.klook.com/">Klook.com</a></ins>
+      <ins class="klk-aff-widget" data-adid="1277535" data-lang="" data-currency="IDR" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-cid="-1" data-tid="3" data-amount="4" data-prod="dynamic_widget"><a rel="sponsored nofollow noopener" href="https://www.klook.com/">Klook.com</a></ins>
       <script type="text/javascript" is:inline>
         (function (d, sc, u) {
           var s = d.createElement(sc),
@@ -206,14 +206,14 @@ function buildCard(item) {
     : '';
 
   const klookBtn = item.klook
-    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-klook">
+    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer sponsored nofollow" class="ticket-btn ticket-btn-klook">
         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
         Klook
        </a>`
     : '';
 
   const agodaBtn = item.agoda
-    ? `<a href="https://www.agoda.com/zh-hk/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-agoda">
+    ? `<a href="https://www.agoda.com/zh-hk/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer sponsored nofollow" class="ticket-btn ticket-btn-agoda">
         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
         Agoda
        </a>`

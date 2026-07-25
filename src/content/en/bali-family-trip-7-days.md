@@ -58,7 +58,7 @@ Photo: Uluwatu, courtesy of Serena
 
 In the evening, we browsed the street shops in Kuta before returning to the hotel.
 
-> How to explore Kuta? Check out: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended SPA](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+> How to explore Kuta? Check out: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended SPA](/en/blog/kuta-guide/)
 
 ### 2/15 Nusa Dua / Bali Zoo
 
@@ -122,7 +122,7 @@ In the afternoon, we did our final shopping and strolling in Kuta and Seminyak.
 
 After one last shopping spree in the morning, we headed to the airport at 2:00 PM to fly back to Taiwan, wrapping up a wonderful Bali trip. The advantage of spending the final day around Kuta and Jimbaran is that you won't have to worry about missing your flight!
 
-> (Further reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA](/en/blog/2023-12-13-657598bdfd8978000120fe20/))  
+> (Further reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA](/en/blog/kuta-guide/))  
 > (Further reading: [Jimbaran Travel Guide: 30 Must-Visit Spots](/en/blog/jimbaran-guide/))
 
 ## Afterword

@@ -53,7 +53,7 @@ Understanding your travel style is the foundation of planning your Bali itinerar
 
 **Quick Reference:**
 
-> Basic Knowledge: [Bali Accommodation Guide - Get to Know Kuta, Seminyak, Canggu, Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
+> Basic Knowledge: [Bali Accommodation Guide - Get to Know Kuta, Seminyak, Canggu, Ubud](/en/blog/bali-accommodation-area-guide/)
 
 > Family Travel: [Bali Family Travel Recommendations/Guide](/en/blog/bali-family-travel-guide-2/)
 
@@ -90,7 +90,7 @@ Bali offers a wealth of activities including beach relaxation, tropical rainfore
 - [Canggu Bali Perfect Adventure Map: 100 Must-Visit Spots](/en/blog/canggu-guide/)
 - [Jimbaran Bali Travel Guide: 30 Recommended Spots for Fun](/en/blog/jimbaran-guide/)
 - [Exploring Ubud Bali: 100 Ways to Deeply Understand Ubud](/en/blog/ubud-guide/)
-- [Kuta Bali Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Kuta Bali Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/kuta-guide/)
 - [Ubud Family-Friendly Activities Guide: 55 Easy Activities for Kids!](/en/blog/ubud-with-kids-guide/)
 
 ## **3.** Determine Your Accommodation Budget and Area

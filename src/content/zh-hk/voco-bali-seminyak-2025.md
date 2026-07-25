@@ -82,5 +82,5 @@ voco Bali Seminyak開業為峇里島旅遊業注入新活力，俾旅客一個�
 水明漾係峇里島上結合時尚同傳統嘅迷人地區，有頂級餐廳、精品店同活力四射嘅夜生活，係度假者嘅天堂！想知更多精彩美食介紹嘅資訊？[請撳呢度](/zh-hk/blog/seminyak-guide/)。
 
 - [峇里島住宿推薦：水明漾嘅濱海精緻主題住宿指南](/zh-hk/blog/seminyak-beach-resorts-guide/)
-- [【峇里島住宿推薦】VILLA泳池別墅私密天堂:水明漾21間令人驚艷嘅峇里島祕密花園](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【峇里島住宿推薦】VILLA泳池別墅私密天堂:水明漾21間令人驚艷嘅峇里島祕密花園](/zh-hk/blog/seminyak-private-villas-guide/)
 - [【水明漾】唔超過100美元嘅平價峇里島villa推薦](/zh-hk/blog/seminyak-budget-villas-guide/)

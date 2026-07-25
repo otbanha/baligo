@@ -68,7 +68,7 @@ Rata-rata pengeluaran harian: US$28.23
 
 ![庫塔必訪50個景點攻略 》請點我](https://images.gobaligo.id/vocus/vocus_f2bb96f43b2afe6befd4cd536d9724f4.jpg)
 
-[50 Tempat Wajib Kunjungi di Kuta 》Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+[50 Tempat Wajib Kunjungi di Kuta 》Klik di sini](/id/blog/kuta-guide/)
 
 - **Keunikan**: Pantai yang memesona, kehidupan malam, dan akomodasi murah, cocok buat traveler yang pengin santai.
 - **Wajib coba**: Belajar surfing atau ikut kelas yoga di pinggir pantai, rasain aktivitas lokal yang seru.

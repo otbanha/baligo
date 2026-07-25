@@ -130,7 +130,7 @@ You can take a taxi or hire a private car to reach the festival venue.
 
 ## Further Reading
 
-> [Bali Area Guide: Recommended Accommodations - Understanding Kuta, Seminyak, Canggu, Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [Bali Area Guide: Recommended Accommodations - Understanding Kuta, Seminyak, Canggu, Ubud](/en/blog/bali-accommodation-area-guide/)
 
 > [2024 Ubud Complete Guide: 50 Ways to Deeply Explore Ubud’s Charm](/en/blog/ubud-guide/)
 

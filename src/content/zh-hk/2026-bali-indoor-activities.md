@@ -92,7 +92,7 @@ Upside Down World Bali係峇里島上一個有趣嘅景點。呢個景點有7個
 - Mal Bali Galeria
 - Trans Studio
 
-有興趣嘅朋友可以參考呢篇「[庫塔攻略地圖](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)」已經全部幫大家標晒地理位置出嚟㗎！
+有興趣嘅朋友可以參考呢篇「[庫塔攻略地圖](/zh-hk/blog/kuta-guide/)」已經全部幫大家標晒地理位置出嚟㗎！
 
 ### 手信舖
 

@@ -51,7 +51,7 @@ For those trying surfing for the first time, Kuta Beach is the undisputed champi
 
 Nearby beaches like Legian and Seminyak also offer similar beginner-friendly conditions.
 
-> Kuta Guide: [What else can you do in Kuta?](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Kuta Guide: [What else can you do in Kuta?](/en/blog/kuta-guide/)
 
 > Seminyak Guide: [What else can you do in Seminyak?](/en/blog/seminyak-guide/)
 

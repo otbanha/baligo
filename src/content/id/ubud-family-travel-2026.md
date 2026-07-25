@@ -32,7 +32,7 @@ Bali emang destinasi favorit buat liburan keluarga, dan Ubud adalah area yang pe
 - [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
 - Episode 2: Ubud (artikel ini)
 - [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
+- Episode 4: Nusa Dua
 
 ***
 
@@ -287,7 +287,7 @@ Ubud adalah pusat seni dan budaya di Bali. Sawah terasering yang hijau, hutan ya
 - [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
 - [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
 - [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
+- Episode 4: Nusa Dua
 
 ***
 

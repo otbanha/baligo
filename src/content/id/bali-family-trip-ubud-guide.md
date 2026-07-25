@@ -244,7 +244,7 @@ Dekat area wisata ada kafe dengan rating Google 4.8 bintang, cocok banget buat n
 
 🕘**Jam Buka** : 09:00 - 18:00 (masuk terakhir jam 17:00)
 
-💰**Harga Tiket** : (Catatan: April 2026 [sudah naik](/id/blog/2026-04-09-152047/))
+💰**Harga Tiket** : (Catatan: April 2026 sudah naik)
 
 - Dewasa: 80,000 IDR (sekitar USD$5)
 - Anak-anak: 60,000 IDR (sekitar USD$4)
@@ -909,7 +909,7 @@ Kalau kamu lagi liburan di Bali, wajib coba pakai jasa driver pribadi Gede! Gede
 - WhatsApp : +62 8786 2004 094
 - Telepon : +62 81237 811 841
 
-Kalau kamu butuh sopir yang bisa diandalkan dan perhatian, Gede pilihan yang nggak salah! Info lebih detail tentang sopir ini ada di [sini](/id/blog/bali-private-driver-recommendation/).
+Kalau kamu butuh sopir yang bisa diandalkan dan perhatian, Gede pilihan yang nggak salah! Info lebih detail tentang sopir ini ada di [sini](/id/blog/Gede-Arimbawa/).
 
 PS Indonesia itu negara yang biasa ngasih tip. Tolong jangan pelit kasih tip lebih, karena Gede emang layak! (10% dari total biaya sewa mobil itu standar banget, 20%–30%? Aku atas nama Gede makasih banget!)
 

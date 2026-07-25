@@ -140,7 +140,7 @@ Kita referensi dari konten 'Xiao Jie Indonesia'. Buat yang penasaran, bisa cek v
 
 ![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-Mau tau lebih banyak tips Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+Mau tau lebih banyak tips Kuta? [Klik di sini](/id/blog/kuta-guide/)
 
 ## Rekomendasi Driver Sewa Mobil di Bali
 

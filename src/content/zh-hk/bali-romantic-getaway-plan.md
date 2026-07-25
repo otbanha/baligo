@@ -157,7 +157,7 @@ https://youtu.be/63mZAiTt3aE
 
 如果預算有限、但又想住到有質素又地點方便嘅 Villa，呢間真係可以記低佢✅。
 
-▶The Claremont Luxury Villas 周邊、設施、客房等詳細介紹請睇[呢度](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
+▶The Claremont Luxury Villas 周邊、設施、客房等詳細介紹請睇[呢度](/zh-hk/blog/seminyak-private-villas-guide/)
 
 {{block:smk}}
 

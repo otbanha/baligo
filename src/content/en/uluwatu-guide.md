@@ -354,6 +354,6 @@ The service delivers the float right to your hotel or villa entrance, with staff
 
 To help you better understand the locations of the attractions mentioned above, we've prepared an [Uluwatu Travel Map](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing) that marks the positions of all the spots. If you're planning a trip or adventure to Uluwatu, be sure to save it!
 
-Further Reading: [Bali Travel Guide: Understanding Bali's Regions - Accommodation Recommendations for Kuta, Seminyak, Canggu, and Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
+Further Reading: [Bali Travel Guide: Understanding Bali's Regions - Accommodation Recommendations for Kuta, Seminyak, Canggu, and Ubud](/en/blog/bali-accommodation-area-guide/)
 
 {{block:攻略}}

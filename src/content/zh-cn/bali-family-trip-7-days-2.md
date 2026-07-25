@@ -55,7 +55,7 @@ https://www.youtube.com/shorts/oz_QUWvCK_8
 
 > ▶[查看 The Dusun Villa 空房、房型、房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
-The Dusun Villa的介绍已收录在「[水明漾20+ 令人惊艳的巴厘岛villa](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)」
+The Dusun Villa的介绍已收录在「[水明漾20+ 令人惊艳的巴厘岛villa](/zh-cn/blog/seminyak-private-villas-guide/)」
 
 ### **乌布住宿**
 

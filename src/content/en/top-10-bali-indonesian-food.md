@@ -295,7 +295,7 @@ Next time your legs give out from wandering Ubud, skip the coffee—find a famil
 
 - [Top 10 Foods in Bali | 8 Essential Tips for Bali Travel](/en/blog/bali-travel-tips/)
 - [Seminyak Food Guide](/en/blog/seminyak-guide/)
-- [Kuta Food Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Kuta Food Guide](/en/blog/kuta-guide/)
 - [Canggu Food Guide](/en/blog/canggu-guide/)
 - [Ubud Food Guide](/en/blog/ubud-guide/)
 - [Jimbaran Guide](/en/blog/jimbaran-guide/)

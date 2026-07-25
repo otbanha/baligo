@@ -58,7 +58,7 @@ Kolam renangnya bersih dan luas banget, plus Villa ini menyediakan layanan mobil
 
 > ▶ [Cek ketersediaan kamar, tipe, dan harga The Dusun Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
-Info The Dusun Villa udah masuk di artikel「[20+ Villa Bali yang Wajib Dicoba di Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)」
+Info The Dusun Villa udah masuk di artikel「[20+ Villa Bali yang Wajib Dicoba di Seminyak](/id/blog/seminyak-private-villas-guide/)」
 
 ### **Akomodasi di Ubud**
 

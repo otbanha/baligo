@@ -117,7 +117,7 @@ Di Pura Tirta Empul, Ubud, ikut ritual pembersihan air tradisional nggak cuma bi
 
 ![「烏布提供花浴的住宿」點我](https://images.gobaligo.id/vocus/vocus_b8386fc6fe646729320b36ae859d600b.jpg)
 
-[「Penginapan dengan flower bath di Ubud」Klik di sini](/id/blog/ubud-villas-pool-guide/)
+[「Penginapan dengan flower bath di Ubud」Klik di sini](/id/blog/ubud-resorts-guide/)
 
 Ubud terkenal banget sama budaya yang kental dan pemandangan alam yang memukau. Nah, mandi bunga romantis di tengah hutan rahasia ini wajib banget dicoba pasangan. Di resort-resort mewah yang tersembunyi di tengah hutan hujan, banyak yang nawarin layanan mandi bunga spesial. Kalian bisa bersantai di bak mandi penuh kelopak bunga wangi, sambil nikmatin manisnya cinta. Bak mandinya biasanya outdoor dengan pemandangan hutan, ditemani suara gemericik sungai dan kicauan burung, suasananya super puitis.
 

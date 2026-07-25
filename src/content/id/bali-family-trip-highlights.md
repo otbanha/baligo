@@ -94,7 +94,7 @@ Kami nginep di Rijasa Agung, hotel di Ubud yang letaknya di tepi Sungai Ayung. S
 
 > ▶Cek harga & ketersediaan kamar Rijasa Agung Resort and Villas di [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1744536/rijasa-agung-resort-and-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/c79DvepT)
 
-Sudah masuk dalam daftar [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Keindahan Alam Pegunungan Bali!](/id/blog/ubud-villas-pool-guide/)
+Sudah masuk dalam daftar [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Keindahan Alam Pegunungan Bali!](/id/blog/ubud-resorts-guide/)
 
 ### **Jungle Cart 叢林卡丁車——峇里島的新奇體驗**
 

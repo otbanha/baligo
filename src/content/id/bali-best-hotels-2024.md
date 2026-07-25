@@ -97,7 +97,7 @@ Sejak dibuka tahun 2021, Adiwana Suweta dengan cepat menjadi **favorit para trav
 
 > ▶[**Harga Spesial Agoda**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-75220031/adiwana-suweta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/FPtmm4em)
 
-Lihat rekomendasi hotel Ubud lainnya: [Akomodasi Unik di Ubud, Rasakan Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+Lihat rekomendasi hotel Ubud lainnya: [Akomodasi Unik di Ubud, Rasakan Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 
 ## **Padma Resort Ubud——Surga Liburan Keluarga yang Super Seru**
 

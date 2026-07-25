@@ -74,7 +74,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 清明節同開齋節期間，峇里島好多出名景點都塞車塞到爆。建議大家**細區域移動**，咁就唔會浪費假期時間塞車啦。以下係一啲細區域嘅參考：
 
 - [峇里島水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
-- [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 - [坎古80個必遊景點](/zh-hk/blog/canggu-guide/)
 - [烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
 - [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)

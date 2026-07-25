@@ -146,7 +146,7 @@ Ini bukan sekadar bar biasa — ini bar beroda empat yang kita sebut **'Beer on 
 ## Juga Wajib Cek
 
 - [Panduan Kuliner Seminyak｜Romantis, Elegan, dan Autentik Bali](/id/blog/seminyak-restaurants-food-guide/)
-- [Rekomendasi Makanan Ubud｜Panduan Kuliner Terbaik di Bali](/id/blog/ubod-food-guide/)
+- [Rekomendasi Makanan Ubud｜Panduan Kuliner Terbaik di Bali](/id/blog/ubud-food-guide/)
 
 ***
 

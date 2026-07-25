@@ -37,7 +37,7 @@ _srcHash: 5956280000f0f8fec1014082eee1ab33
 
 ## 库塔/雷吉安 Kuta/Legian
 
-（延伸阅读：[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)）
+（延伸阅读：[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/kuta-guide/)）
 
 ### **Hard Rock Hotel Bali**
 

@@ -38,9 +38,9 @@ If you choose to stay in Kuta, you'll easily soak up Bali's lively atmosphere. I
 
 ![庫塔攻略](https://images.gobaligo.id/vocus/vocus_a57859324b7669581d6e1c16a2d33cc1.jpg)
 
-[Kuta Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Kuta Guide](/en/blog/kuta-guide/)
 
-> Further reading: [Bali Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Food, and Recommended SPA Collection](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Further reading: [Bali Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Food, and Recommended SPA Collection](/en/blog/kuta-guide/)
 
 However, Kuta's popularity also brings traffic jams and crowds. If your travel destinations are nearby, staying in Kuta is a solid choice—you can easily enjoy everything it offers. But if you plan to explore different attractions each day, Kuta might not be ideal. During peak hours, even a 10-minute walk can take a long time to cover by vehicle, seriously dampening your travel experience.
 
@@ -48,7 +48,7 @@ Bali's roads aren't wide, and once traffic picks up, congestion is inevitable. S
 
 ![峇里島住宿選擇指南](https://images.gobaligo.id/vocus/vocus_8a00355804c47ddbf399e742466c9bd1.png)
 
-Read more: [Bali Travel Guide: Understanding Bali’s Regions – Accommodation Recommendations Guide: Getting to Know Kuta, Seminyak, Canggu, and Ubud](/en/blog/2023-12-29-65839fbafd89780001e876b5/)
+Read more: [Bali Travel Guide: Understanding Bali’s Regions – Accommodation Recommendations Guide: Getting to Know Kuta, Seminyak, Canggu, and Ubud](/en/blog/bali-accommodation-area-guide/)
 
 Here are our carefully curated Bali accommodation recommendations, designed to keep you free from traffic hassles during your trip, so you can effortlessly soak in Bali’s stunning scenery and culture.
 

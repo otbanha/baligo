@@ -43,7 +43,7 @@ After arriving in Indonesia or Bali, follow these steps to quickly enjoy your va
    ▶️ VoA or eVoA? See [Indonesia/Bali eVisa Complete Guide](/en/blog/bali-evisa-application-guide/)
 3. **Complete Online Health Declaration Form**  
    To prevent the spread of infectious diseases like monkeypox and pneumonia, travelers must complete the "Health Declaration (SSHP)".  
-   ▶️ How to fill it out? See [SSHP Instructions](/en/blog/2024-08-30-66d109f9fd89780001f47806/)
+   ▶️ How to fill it out? See SSHP Instructions
 4. **Queue at Immigration - Visa/Passport Check**  
    At the immigration counter, you'll need to queue for passport and visa verification. Ensure your passport and visa documents are ready.
 5. **Electronic Immigration Service**  

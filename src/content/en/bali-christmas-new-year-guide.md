@@ -39,7 +39,7 @@ Many worry about the rainy season during this time. Don’t worry too much! Ther
 Want to be in the heart of the action? The southern areas like **Seminyak**, **Kuta**, and **Canggu** are excellent choices. Here you’ll find upscale villas, festive buffets, shopping malls, and kids’ activities, ensuring the whole family can soak up the Christmas cheer.
 
 - [100 Attractions in Seminyak, Bali](/en/blog/seminyak-guide/)
-- [50 Must-Visit Attractions in Kuta](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [50 Must-Visit Attractions in Kuta](/en/blog/kuta-guide/)
 - [100 Must-See Spots in Canggu](/en/blog/canggu-guide/)
 
 ### **A Region of Culture and Tranquility**

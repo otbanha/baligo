@@ -60,7 +60,7 @@ Meskipun luas wilayah Bali tidak terlalu besar, pulau ini memiliki pilihan tempa
 
 Ubud adalah pusat seni dan budaya Bali, dengan sawah terasering yang hijau, hutan yang tenang, dan tradisi yang kaya, menarik banyak pelancong. Tempat ini ideal untuk bersantai. Mau eksplorasi tradisi lokal, nikmati keindahan alam, atau coba berbagai aktivitas outdoor seru plus pengalaman unik kuliner dan pemandangan, Ubud pasti bikin kamu terkesan! Ingin tahu lebih banyak panduan Ubud? [Klik di sini](/id/blog/ubud-guide/)
 
-Kuta adalah pusat wisata paling hidup di Bali, menarik pelancong dari seluruh dunia dengan kehidupan malam yang ramai, jalan-jalan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini, kamu akan menemukan berbagai toko, restoran, dan tempat hiburan yang berlimpah—tempat yang sempurna untuk mencari sensasi dan berbelanja. Baik kamu ingin merasakan suasana pesta yang seru atau menikmati pemandangan matahari terbenam, Kuta pasti akan membuat liburanmu penuh kenangan seru! Ingin tahu lebih banyak tips tentang Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta adalah pusat wisata paling hidup di Bali, menarik pelancong dari seluruh dunia dengan kehidupan malam yang ramai, jalan-jalan yang sibuk, dan pantai yang cocok untuk pemula selancar. Di sini, kamu akan menemukan berbagai toko, restoran, dan tempat hiburan yang berlimpah—tempat yang sempurna untuk mencari sensasi dan berbelanja. Baik kamu ingin merasakan suasana pesta yang seru atau menikmati pemandangan matahari terbenam, Kuta pasti akan membuat liburanmu penuh kenangan seru! Ingin tahu lebih banyak tips tentang Kuta? [Klik di sini](/id/blog/kuta-guide/)
 
 ![Ubud](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 

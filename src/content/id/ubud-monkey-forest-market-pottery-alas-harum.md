@@ -63,7 +63,7 @@ Setelah menjauh dari keramaian Monkey Forest, mereka langsung jalan kaki ke Pasa
 
 Di pasar baru, mereka nemu beberapa kerajinan tangan yang unik dan fungsional, misalnya keranjang buah anyaman dengan motif cantik, ukiran kayu bertema surfing, ukiran kelapa, dan hiasan kain batik gantung yang super beragam dan eksotis. Harganya emang sedikit lebih mahal dari pasar lama, tapi menurut mereka kualitas kerajinannya lebih halus, jadi worth it buat dibeli.
 
-> Baca juga: [Bingung cara jalan-jalan di Ubud? Cek panduan peta Ubud kami](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Baca juga: Bingung cara jalan-jalan di Ubud? Cek panduan peta Ubud kami
 
 ## Serayu Pottery — Kelas Kerajinan Tembikar
 

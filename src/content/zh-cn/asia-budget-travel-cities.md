@@ -63,7 +63,7 @@ _srcHash: 295188ef05658a894fa0ed7a7f34b37c
 
 ![庫塔必訪50個景點攻略 》請點我](https://images.gobaligo.id/vocus/vocus_f2bb96f43b2afe6befd4cd536d9724f4.jpg)
 
-[库塔必访50个景点攻略 》请点我](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+[库塔必访50个景点攻略 》请点我](/zh-cn/blog/kuta-guide/)
 
 - **特色**：迷人的沙滩、夜生活与平价住宿，适合想放松的旅人。
 - **必做**：学冲浪或参加海边瑜伽课程，体验当地特色活动。

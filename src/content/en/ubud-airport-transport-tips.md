@@ -68,9 +68,9 @@ Around the Kuta area, you can selectively visit some attractions, shop for souve
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-[Click here for the Kuta guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Click here for the Kuta guide](/en/blog/kuta-guide/)
 
-Kuta is one of the most vibrant tourist hotspots in Bali, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. It's packed with a dazzling array of shops, restaurants, and entertainment venues, making it a fantastic destination for those seeking excitement and shopping. Whether you want to dive into the party atmosphere or enjoy a stunning sunset, Kuta promises a vacation full of unforgettable memories! Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta is one of the most vibrant tourist hotspots in Bali, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. It's packed with a dazzling array of shops, restaurants, and entertainment venues, making it a fantastic destination for those seeking excitement and shopping. Whether you want to dive into the party atmosphere or enjoy a stunning sunset, Kuta promises a vacation full of unforgettable memories! Want to learn more about Kuta? [Click here](/en/blog/kuta-guide/).
 
 ***
 

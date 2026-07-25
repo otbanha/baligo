@@ -165,7 +165,7 @@ Area Jimbaran punya beberapa resor top yang kasih pengalaman mewah tak tertandin
 
 Selain itu, Jimbaran juga punya keunggulan dekat dengan bandara. Di hari-hari terakhir liburan, mending nginep di sini aja, biar lebih gampang ke bandara, hemat waktu perjalanan, dan tetap bisa menikmati waktu liburan.
 
-Cari penginapan dengan pemandangan laut yang kece abis? Jangan sampai kelewatan pilihan kami yang udah diseleksi khusus: «[Rekomendasi Penginapan Jimbaran](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)»
+Cari penginapan dengan pemandangan laut yang kece abis? Jangan sampai kelewatan pilihan kami yang udah diseleksi khusus: «[Rekomendasi Penginapan Jimbaran](/id/blog/jimbaran-beachfront-hotels-guide/)»
 
 ![享受豪華的度假村 （地圖：金巴蘭住宿推薦）](https://images.gobaligo.id/vocus/vocus_8b544b02ff49fd0c221cb43b0dba1357.png)
 

@@ -81,7 +81,7 @@ Here are some specific suggestions for navigating Bali's traffic during this spe
 > During the Qingming Festival-Eid al-Fitr period, traffic congestion is common at many popular attractions in Bali. We recommend **moving within small areas** to avoid wasting your holiday time stuck in traffic. Refer to these small areas:
 
 - [100 Must-Visit Spots in Seminyak, Bali](/en/blog/seminyak-guide/)
-- [50 Must-See Attractions in Kuta](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [50 Must-See Attractions in Kuta](/en/blog/kuta-guide/)
 - [80 Must-Visit Places in Canggu](/en/blog/canggu-guide/)
 - [100 Ways to Explore Ubud](/en/blog/ubud-guide/)
 - [Jimbaran Guide](/en/blog/jimbaran-guide/)

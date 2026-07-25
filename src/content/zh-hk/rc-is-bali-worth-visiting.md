@@ -457,7 +457,7 @@ _srcHash: d7ccfa8b4f22049ad8e1206d75a61736
 
 整體行起嚟壓力唔大，算係比較舒服嘅旅遊氣氛。
 
-[> 推薦烏布五大藝術市集/藝術市場完整指南：買紀念品/手信，搵峇里島文化寶藏](/zh-hk/blog/ubot-art-markets-guide/)
+[> 推薦烏布五大藝術市集/藝術市場完整指南：買紀念品/手信，搵峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
 
 ***
 

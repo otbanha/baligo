@@ -529,7 +529,7 @@ Is Bali a good choice for a trip with elderly parents? The answer is definitely 
 
 If you're looking for a place to party all night long, Kuta and Seminyak in Bali are where you should go!
 
-- Check out our guide to Kuta's two biggest nightclubs in our [[Kuta Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)]
+- Check out our guide to Kuta's two biggest nightclubs in our [[Kuta Guide](/en/blog/kuta-guide/)]
 - For Seminyak's top 5 nightclubs, [see here](/en/blog/seminyak-nightclubs-guide/)
 
 ***

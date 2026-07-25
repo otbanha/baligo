@@ -83,7 +83,7 @@ _srcHash: fd312564e7efa9a43befadbd4de8ec8b
 
 建议先认识巴厘岛各个区域的住宿特色，选择适合蜜月情侣的住宿，并多加利用我们提供的一日游套餐，就可以轻松畅玩巴厘岛。
 
-> 延伸阅读：[认识巴厘岛的五个热门住宿区域](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 延伸阅读：[认识巴厘岛的五个热门住宿区域](/zh-cn/blog/bali-accommodation-area-guide/)
 
 > 延伸阅读：[20间度蜜月度假村、浪漫villa推荐](/zh-cn/blog/bali-honeymoon-resorts-guide/)
 

@@ -47,7 +47,7 @@ Jay’s video screenshot
 
 [What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-Bali started with Kuta and Legian, which have developed into the most bustling areas of the entire island. We previously did an episode on "Kuta Guide," so don't miss my "[Kuta Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)" when traveling to Bali!
+Bali started with Kuta and Legian, which have developed into the most bustling areas of the entire island. We previously did an episode on "Kuta Guide," so don't miss my "[Kuta Guide](/en/blog/kuta-guide/)" when traveling to Bali!
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 

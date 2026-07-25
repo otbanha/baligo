@@ -56,7 +56,7 @@ Ubud is the cultural and artistic heart of Bali, attracting countless travelers 
 
 ![Kuta](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. Here, you'll find a dazzling array of shops, restaurants, and entertainment venues, making it an excellent destination for thrill-seekers and shoppers alike. Whether you're experiencing the passionate party atmosphere or enjoying the sunset views, Kuta will fill your vacation with wonderful memories! Want to learn more about Kuta? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta is Bali's most vibrant tourist hotspot, attracting travelers worldwide with its lively nightlife, bustling streets, and beginner-friendly surfing beaches. Here, you'll find a dazzling array of shops, restaurants, and entertainment venues, making it an excellent destination for thrill-seekers and shoppers alike. Whether you're experiencing the passionate party atmosphere or enjoying the sunset views, Kuta will fill your vacation with wonderful memories! Want to learn more about Kuta? [Click here](/en/blog/kuta-guide/)
 
 1. **Makase at Hotel Indigo Bali Seminyak Beach**
 - Date: January 29, 2025

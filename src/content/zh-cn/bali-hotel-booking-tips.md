@@ -68,7 +68,7 @@ _srcHash: dad0080a600a8929ef2bf958e11b4d09
 
 考虑租用别墅或公寓，特别是如果你和家人或朋友一起旅行。这通常比住在酒店更经济实惠，而且也有更多的机会可以共享欢乐。请看我们的推荐:
 
-- [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾15间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾15间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/seminyak-private-villas-guide/)
 - [CP值超高, 不到美金$30入住11间巴厘岛精品酒店, 网红照拍不停!](/zh-cn/blog/bali-boutique-hotels-under-30/)
 - [巴厘岛villa推荐：高CP值villa 20间推荐（上集）](/zh-cn/blog/bali-best-villas-top20-part1/)
 - [巴厘岛Villa CP值最高 浪漫villa推荐 - 共20间 (下集)](/zh-cn/blog/bali-best-villas-top20-part2/)

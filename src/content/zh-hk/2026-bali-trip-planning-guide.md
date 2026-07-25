@@ -48,7 +48,7 @@ _srcHash: 749b8f88f861ee795b3981b73cd22c94
 
 **快速參考：**
 
-> 基本認識：[認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 基本認識：[認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/bali-accommodation-area-guide/)
 
 > 親子旅遊：[峇里島親子旅遊推薦/指南](/zh-hk/blog/bali-family-travel-guide-2/)
 
@@ -85,7 +85,7 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 - [峇里島坎古完美探險地圖：100個必遊景點](/zh-hk/blog/canggu-guide/)
 - [峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/zh-hk/blog/jimbaran-guide/)
 - [探索峇里島烏布：100種深入認識烏布嘅方式](/zh-hk/blog/ubud-guide/)
-- [峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [峇里島庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/zh-hk/blog/kuta-guide/)
 - [烏布家庭親子旅遊活動精選攻略：55項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 
 ## **3.** 確定住宿預算與地區

@@ -91,7 +91,7 @@ The Maya 就係嗰種「外表好低調、但入面會令你嘩一聲」嘅住�
 
 比較適合重視機能、唔想每日叫 Grab 出去買嘢嘅旅人，或者帶長輩去旅行、需要咩即刻搞掂嘅人。
 
-👉 [Seminyak Square Hotel & Villas 完整開箱](/zh-hk/blog/seminyak-square-hotel-and-villas/)
+👉 [Seminyak Square Hotel & Villas 完整開箱](/zh-hk/blog/seminyak-square-hotel-villas/)
 
 > 👉 㩒呢度睇最新房價同空房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=400375) ｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685497/seminyak-square-hotel/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 

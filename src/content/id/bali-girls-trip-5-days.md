@@ -42,7 +42,7 @@ Setelah itu, mereka naik Gojek motor balik ke villa, menikmati sarapan super nik
 
 > Baca juga: Rekomendasi [22 Villa Ubud yang Bikin Kamu Tercengang](/id/blog/ubud-villa-pool-guide/)
 
-[【Bali Ubud住宿】32 Rekomendasi Penginapan Unik di Ubud, Nikmati Petualangan Seru di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+[【Bali Ubud住宿】32 Rekomendasi Penginapan Unik di Ubud, Nikmati Petualangan Seru di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_dcba359c585b69b719edfb486213c9cb.jpg)
 

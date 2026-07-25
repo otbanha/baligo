@@ -65,7 +65,7 @@ Mohon semua penumpang menyelesaikan pelaporan online sebelum penerbangan, dan si
 
 👉 <https://allindonesia.imigrasi.go.id/>
 
-Ke depannya, masuk Indonesia bakal disederhanakan jadi satu tempat buat urus semua permohonan dan pelaporan; setelah [All Indonesia] diterapkan, nggak perlu lagi lapor terpisah di situs ECD/SSHP. Masuk Bali juga dari [yang awalnya empat langkah](/id/blog/2025-01-11-67821654fd89780001f932b5/) jadi cuma tiga.
+Ke depannya, masuk Indonesia bakal disederhanakan jadi satu tempat buat urus semua permohonan dan pelaporan; setelah [All Indonesia] diterapkan, nggak perlu lagi lapor terpisah di situs ECD/SSHP. Masuk Bali juga dari yang awalnya empat langkah jadi cuma tiga.
 
 ---
 

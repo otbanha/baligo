@@ -80,7 +80,7 @@ The Maya adalah tipe akomodasi yang 'dari luar keliatan biasa, tapi di dalam bik
 
 Kalau kamu ingin merasakan jiwa liburan tropis di Seminyak tapi nggak mau diganggu keramaian, The Maya adalah jawaban yang pas. Cocok banget buat pasangan atau keluarga kecil yang ingin nginep dengan feel tapi nggak terlalu mencolok.
 
-👉 [Unboxing Lengkap The Maya Seminyak Villas](/id/blog/the-maya-seminyak/)
+👉 [Unboxing Lengkap The Maya Seminyak Villas](/id/blog/the-maya-seminyak-villas/)
 
 > 👉 Cek harga terbaru & ketersediaan kamar di sini: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)｜ [Booking](https://booking.tpm.li/8cvJHalc) ｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685535/the-maya-seminyak-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
@@ -96,7 +96,7 @@ Yang unik: di satu tempat yang sama, ada kamar hotel tipe bisnis dan juga piliha
 
 Cocok banget buat traveler yang prioritasnya fungsi, nggak mau tiap hari panggil Grab buat belanja, atau yang bawa orang tua dan butuh semuanya serba dekat.
 
-👉 [Unboxing Lengkap Seminyak Square Hotel & Villas](/id/blog/seminyak-square-hotel-and-villas/)
+👉 [Unboxing Lengkap Seminyak Square Hotel & Villas](/id/blog/seminyak-square-hotel-villas/)
 
 > 👉 Cek harga terbaru & ketersediaan kamar di sini: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=400375) ｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685497/seminyak-square-hotel/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
@@ -112,7 +112,7 @@ Selain tampilannya yang kece, **kamar akses langsung ke kolam renang** jadi alas
 
 Kalau kamu mau nginep di Bali yang 'agak spesial, estetik buat foto, tapi gak sampe level kemahalan', IZE adalah pilihan yang pas banget. Cocok buat jalan bareng temen, trip bestie, atau traveler yang suka desain.
 
-👉 [IZE Seminyak Review Lengkap](/id/blog/ize-seminyak-review/)
+👉 [IZE Seminyak Review Lengkap](/id/blog/ize-seminyak-hotel-review/)
 
 > 👉 Cek harga & ketersediaan kamar terbaru di sini: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808) ｜ [Booking](https://booking.tpm.li/uGVpUopY) ｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-982037/ize-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 

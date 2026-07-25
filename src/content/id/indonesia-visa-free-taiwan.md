@@ -35,7 +35,7 @@ Sesuai aturan sekarang, pengunjung dari Taiwan atau Hong Kong bisa apply visa on
 
 Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang.
 
-Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajah setiap sudut seru Bali. Klik **[Panduan Liburan Mandiri Bali Ultimate](/id/blog/2025-06-15-64e37f2dfd89780001b1f776/)** buat mulai persiapan liburanmu ke Bali!
+Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajah setiap sudut seru Bali. Klik **Panduan Liburan Mandiri Bali Ultimate** buat mulai persiapan liburanmu ke Bali!
 
 ### Grup Kami
 

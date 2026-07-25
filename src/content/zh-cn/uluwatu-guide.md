@@ -353,6 +353,6 @@ SUNDAZE ULUWATU MARKET 位于巴厘岛南端的 Hatch Bali Uluwatu，每逢星�
 
 为了让大家更了解以上介绍的这些景点位置，我们特地准备了一份「[乌鲁瓦图攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)」标示了所有景点的相关位置。如果想去乌鲁瓦图旅游或探险的朋友，别忘了保存下来喔！
 
-延伸阅读：[巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
+延伸阅读：[巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/bali-accommodation-area-guide/)
 
 {{block:攻略}}

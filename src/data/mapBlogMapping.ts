@@ -312,7 +312,7 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
   },
 
   "ubud-villa": {
-    blogUrl: "https://gobaligo.id/blog/ubud-villas-pool-guide/",
+    blogUrl: "https://gobaligo.id/blog/ubud-resorts-guide/",
     blogTitle: "烏布私人泳池 Villa 推薦",
     teaser: "精選烏布 Villa，私人泳池與田園景觀完整介紹",
     anchors: {

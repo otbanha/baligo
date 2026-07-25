@@ -156,7 +156,7 @@ Jimbaran is home to some of the finest resorts, offering guests an unparalleled 
 
 On top of that, Jimbaran has the advantage of being close to the airport. Consider staying in this area for the last few days of your trip—it makes getting to the airport a breeze, saving you travel time while letting you soak up more vacation vibes.
 
-Looking for accommodation with unbeatable ocean views? Don't miss our carefully curated list of "[Best Hotels in Jimbaran](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)"
+Looking for accommodation with unbeatable ocean views? Don't miss our carefully curated list of "[Best Hotels in Jimbaran](/en/blog/jimbaran-beachfront-hotels-guide/)"
 
 ![享受豪華的度假村 （地圖：金巴蘭住宿推薦）](https://images.gobaligo.id/vocus/vocus_8b544b02ff49fd0c221cb43b0dba1357.png)
 

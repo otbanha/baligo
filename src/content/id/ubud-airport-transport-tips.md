@@ -74,9 +74,9 @@ Di sekitar Kuta, kamu bisa mampir ke beberapa tempat, beli oleh-oleh, atau cari 
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-[Klik di sini untuk panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Klik di sini untuk panduan Kuta](/id/blog/kuta-guide/)
 
-Kuta adalah salah satu titik wisata paling hidup di Bali, terkenal dengan kehidupan malam yang seru, jalanan yang ramai, dan pantai yang cocok buat pemula belajar surfing. Di sini kamu bakal nemuin banyak banget toko, restoran, dan tempat hiburan—surga buat yang suka belanja dan cari sensasi. Mau nikmatin pesta yang rame atau lihat sunset yang cantik, Kuta bakal bikin liburanmu penuh kenangan seru! Mau info lebih lengkap soal Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta adalah salah satu titik wisata paling hidup di Bali, terkenal dengan kehidupan malam yang seru, jalanan yang ramai, dan pantai yang cocok buat pemula belajar surfing. Di sini kamu bakal nemuin banyak banget toko, restoran, dan tempat hiburan—surga buat yang suka belanja dan cari sensasi. Mau nikmatin pesta yang rame atau lihat sunset yang cantik, Kuta bakal bikin liburanmu penuh kenangan seru! Mau info lebih lengkap soal Kuta? [Klik di sini](/id/blog/kuta-guide/).
 
 ***
 

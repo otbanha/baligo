@@ -127,7 +127,7 @@ Bali Spirit Festival官网：<https://www.balispiritfestival.com/>
 
 ## 延伸阅读
 
-> [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/bali-accommodation-area-guide/)
 
 > [2024巴厘岛乌布完整攻略：50种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 

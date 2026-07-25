@@ -294,7 +294,7 @@ _srcHash: e3f276719d2f6989a39a95483344bcbd
 
 - [巴厘岛十大美食｜巴厘岛旅游的八大注意事项](/zh-cn/blog/bali-travel-tips/)
 - [水明漾美食攻略](/zh-cn/blog/seminyak-guide/)
-- [库塔美食攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [库塔美食攻略](/zh-cn/blog/kuta-guide/)
 - [坎古美食攻略](/zh-cn/blog/canggu-guide/)
 - [乌布美食攻略](/zh-cn/blog/ubud-guide/)
 - [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)

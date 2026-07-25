@@ -87,7 +87,7 @@ Jimbaran is the perfect blend of luxury resort experiences, romantic dining, and
 
 > [Jimbaran, Bali Travel Guide: 30 Must-Visit Spots for 2025](/en/blog/jimbaran-guide/)
 
-> [Bali Accommodation Guide: Stunning Ocean View Stays in Jimbaran](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Bali Accommodation Guide: Stunning Ocean View Stays in Jimbaran](/en/blog/jimbaran-beachfront-hotels-guide/)
 
 ***
 

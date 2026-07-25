@@ -109,7 +109,7 @@ Want to write a travelogue but don't know where to start? Check out "[How to Wri
 ## Reference Guides:
 
 - [2024 Seminyak 60 Attractions Guide](/en/blog/seminyak-guide/)
-- [Kuta 50 Must-Visit Attractions Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Kuta 50 Must-Visit Attractions Guide](/en/blog/kuta-guide/)
 - [Canggu 50 Must-Visit Attractions Guide](/en/blog/canggu-guide/)
 - [50 Ways to Explore Ubud](/en/blog/ubud-guide/)
 - [2024 Jimbaran Guide](/en/blog/jimbaran-guide/)

@@ -266,7 +266,7 @@ https://youtu.be/uFv_4Wr6YsI
  **> ▶巴厘岛住宿推荐：**[**水明漾的滨海精致主题住宿指南**](/zh-cn/blog/seminyak-beach-resorts-guide/)
 想住好一点的滨海度假村就看这一篇
 
-**> ▶水明漾villa推荐：**[**水明漾21间令人惊艳的巴厘岛秘密花园**](/zh-cn/blog/2024-04-04-660e6e92fd89780001e6047e/)
+**> ▶水明漾villa推荐：**[**水明漾21间令人惊艳的巴厘岛秘密花园**](/zh-cn/blog/seminyak-private-villas-guide/)
 水明漾超美的私人泳池别墅
 
 **> ▶水明漾轻奢平价villa推荐：**[**不超过100美元的平价巴厘岛villa推荐**](/zh-cn/blog/seminyak-budget-villas-guide/)

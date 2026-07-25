@@ -91,7 +91,7 @@ Bali adalah pilihan liburan keluarga yang super oke, dan kami rekomendasikan ban
 - [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
 - [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
 - [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
+- Episode 4: Nusa Dua
 
 ## **Delapan Aktivitas Seru di Seminyak yang Cocok untuk Keluarga:**
 
@@ -235,7 +235,7 @@ Seminyak adalah kawasan di Bali yang memadukan gaya modern dan tradisi dengan se
 - [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
 - [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
 - [Episode 3: Sanur](/id/blog/sanur-family-travel-guide-2/)
-- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
+- Episode 4: Nusa Dua
 
 ***
 

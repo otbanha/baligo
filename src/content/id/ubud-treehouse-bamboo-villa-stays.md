@@ -207,5 +207,5 @@ Selain nginep, Ubud juga jadi basecamp kece buat ngerasain santainya Bali. Jauh 
 
 1. [Panduan Lengkap Ubud Bali 2026: 100 Cara Kenal Lebih Dalam Ubud | Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 2. [Panduan Aktivitas Keluarga di Bali: 55 Kegiatan Seru di Ubud Buat Anak-anak Paling Santai!](/id/blog/ubud-with-kids-guide/)
-3. [【Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+3. [【Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 4. [【Rekomendasi Penginapan Ubud】Surga Pribadi Villa Kolam Renang: 20 Villa Bali yang Bikin Tercengang di Ubud](/id/blog/ubud-villa-pool-guide/)

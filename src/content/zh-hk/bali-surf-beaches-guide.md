@@ -48,7 +48,7 @@ _srcHash: 29cace15241b8173599da9aa076124da
 
 附近嘅海灘好似雷吉安（Legian）同水明漾（Seminyak）都有類似適合新手嘅條件。
 
-> 庫塔攻略：[Kuta仲有咩好玩？](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 庫塔攻略：[Kuta仲有咩好玩？](/zh-hk/blog/kuta-guide/)
 
 > 水明漾攻略：[Seminyak仲有咩好玩？](/zh-hk/blog/seminyak-guide/)
 

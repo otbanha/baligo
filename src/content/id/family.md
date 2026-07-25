@@ -92,7 +92,7 @@ Kelebihan panduan ini adalah aktivitasnya sudah dikelompokkan berdasarkan tingka
 
 Nusa Dua adalah pilihan utama liburan keluarga paling santai di Bali. Ini adalah kawasan resor tertutup dengan jalan yang lebar dan rapi, lingkungan yang super aman dan tenang—cocok banget buat jalan-jalan sambil dorong stroller. Ombak di pantainya juga landai, jadi anak-anak bisa bermain pasir dan air dengan aman. Selain itu, hotel-hotel bintang lima di sini kebanyakan punya kids club dan fasilitas bermain air yang lengkap, jadi begitu masuk hotel, seluruh keluarga bisa langsung menikmati liburan tanpa harus keluar.
 
-> 👉 Rencana detailnya bisa kamu lihat di: [Panduan Liburan Keluarga ke Nusa Dua saat Liburan Sekolah: 9 Destinasi One Day Trip, Rekomendasi Ramah Anak](/id/blog/2026-04-02-112654/)
+> 👉 Rencana detailnya bisa kamu lihat di: Panduan Liburan Keluarga ke Nusa Dua saat Liburan Sekolah: 9 Destinasi One Day Trip, Rekomendasi Ramah Anak
 
 {{block:親子}}
 

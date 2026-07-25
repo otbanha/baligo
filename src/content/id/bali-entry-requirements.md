@@ -67,7 +67,7 @@ Formulir ini harus diisi **dalam 3 hari sebelum masuk Indonesia**, dan informasi
 
 Saran: simpan SSHP yang sudah diisi sebagai PDF atau screenshot, buat jaga-jaga.
 
-**Referensi cepat:** [Aturan Baru Masuk Indonesia/Bali: Wajib Isi SSHP Sebelum Naik Pesawat / Panduan Isi](/id/blog/2024-08-30-66d109f9fd89780001f47806/)
+**Referensi cepat:** Aturan Baru Masuk Indonesia/Bali: Wajib Isi SSHP Sebelum Naik Pesawat / Panduan Isi
 
 ---
 

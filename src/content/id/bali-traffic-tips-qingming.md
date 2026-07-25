@@ -80,7 +80,7 @@ Ini beberapa saran spesifik soal transportasi di Bali selama periode khusus ini:
 > Saat liburan Qingming-Lebaran, banyak tempat wisata terkenal di Bali macet parah. Saran **bergerak di area kecil** biar liburanmu nggak habis di jalan. Area-area kecil ini bisa kamu lihat:
 
 - [Panduan 100 Tempat Wisata di Seminyak, Bali](/id/blog/seminyak-guide/)
-- [Panduan 50 Tempat Wajib Kunjung di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan 50 Tempat Wajib Kunjung di Kuta](/id/blog/kuta-guide/)
 - [80 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
 - [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
 - [Panduan Jimbaran](/id/blog/jimbaran-guide/)

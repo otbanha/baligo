@@ -52,7 +52,7 @@ Di 'Asia Top 25 Hotels', hotel Indonesia masing-masing menduduki peringkat ketig
 
 ![Adiwana Suweta （3/25）](https://images.gobaligo.id/images/2026-03/1774446402418-536098818.jpg)
 
-Berlokasi di Jalana Suweta, Bentuyung Sakti, Ubud, Bali, hotel ini duduk di peringkat ketiga di daftar TripAdvisor, dengan lebih dari 2000 review. Cek [info lengkapnya di sini](/id/blog/ubud-villas-pool-guide/).
+Berlokasi di Jalana Suweta, Bentuyung Sakti, Ubud, Bali, hotel ini duduk di peringkat ketiga di daftar TripAdvisor, dengan lebih dari 2000 review. Cek [info lengkapnya di sini](/id/blog/ubud-resorts-guide/).
 
 > ▶[Cek Harga & Ketersediaan Kamar Adiwana Suweta](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-75220031/adiwana-suweta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/FPtmm4em)
 
@@ -68,7 +68,7 @@ Berlokasi di Jalana Suweta, Bentuyung Sakti, Ubud, Bali, hotel ini duduk di peri
 
 ![Padma Resort Ubud （6/25）](https://images.gobaligo.id/images/2026-03/1774446453647-premier-deluxe-room-slider1.jpeg)
 
-Berlokasi di Banjar Carik, Desa Puku, Payangan, Ubud bagian utara, Bali, resort ini duduk di peringkat keenam di daftar, dengan sekitar 3000 review. Cek [info lengkapnya di sini](/id/blog/ubud-villas-pool-guide/).
+Berlokasi di Banjar Carik, Desa Puku, Payangan, Ubud bagian utara, Bali, resort ini duduk di peringkat keenam di daftar, dengan sekitar 3000 review. Cek [info lengkapnya di sini](/id/blog/ubud-resorts-guide/).
 
 > ▶ Cari kamar/cek harga ▶ [Pesan di Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=921981) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-3767975/padma-resort-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/jXjvsGlV)
 
@@ -78,7 +78,7 @@ Hotel ini ada di Jalan Suryakencana No 179 – 181, dekat Jakarta. Peringkat ke-
 
 ## **Adiwana Resort Jembawan（17/25）**
 
-Resor ini terletak di Jalan Jembawan, Ubud, Bali. Peringkat ke-17 di daftar ini, dengan 2000 ulasan. Cek [info lengkapnya](/id/blog/ubud-villas-pool-guide/).
+Resor ini terletak di Jalan Jembawan, Ubud, Bali. Peringkat ke-17 di daftar ini, dengan 2000 ulasan. Cek [info lengkapnya](/id/blog/ubud-resorts-guide/).
 
 ![Adiwana Resort Jembawan（17/25）](https://images.gobaligo.id/vocus/vocus_6dcfce2dca3020e1e6d2db535e9f6b00.jpg)
 

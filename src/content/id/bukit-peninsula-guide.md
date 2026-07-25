@@ -86,7 +86,7 @@ Jimbaran adalah pilihan sempurna yang menggabungkan kemewahan resort, romantisme
 
 > 【[Panduan Liburan Jimbaran Bali: 30 Tempat Seru Wajib Dikunjungi｜Travel Guide 2025](/id/blog/jimbaran-guide/)】
 
-> 【[Rekomendasi Penginapan Bali: Jimbaran dengan Pemandangan Laut yang Nggak Ada Matinya](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)】
+> 【[Rekomendasi Penginapan Bali: Jimbaran dengan Pemandangan Laut yang Nggak Ada Matinya](/id/blog/jimbaran-beachfront-hotels-guide/)】
 
 ***
 

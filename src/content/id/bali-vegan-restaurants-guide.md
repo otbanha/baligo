@@ -53,8 +53,8 @@ Di area ini, vegetarian bukan cuma gaya hidup sehat, tapi juga simbol tren. Wisa
 
 Bacaan lanjutan:
 
-- [100 Tempat Makan, Minum, dan Main di Canggu](/id/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [100 Panduan Lengkap Makan, Minum, dan Main di Seminyak](/id/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Tempat Makan, Minum, dan Main di Canggu](/id/blog/canggu-guide/)
+- [100 Panduan Lengkap Makan, Minum, dan Main di Seminyak](/id/blog/seminyak-guide/)
 
 ## **Ubud: Perpaduan Budaya dan Makanan Sehat**
 
@@ -68,8 +68,8 @@ Restoran ramah vegetarian di Ubud nggak cuma soal makanan, tapi juga gaya hidup 
 
 Bacaan lanjutan:
 
-- [100 Panduan Makan, Minum, dan Main di Ubud](/id/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [55 Aktivitas Keluarga di Ubud](/id/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
+- [100 Panduan Makan, Minum, dan Main di Ubud](/id/blog/ubud-guide/)
+- [55 Aktivitas Keluarga di Ubud](/id/blog/ubud-with-kids-guide/)
 
 ## **Nusa Dua: Pilihan Vegetarian di Resor Mewah**
 
@@ -83,7 +83,7 @@ Restoran-restoran ini nggak cuma menyediakan menu ramah vegan, tapi juga sangat 
 
 Baca Juga:
 
-- [50 Rekomendasi Wisata & Kuliner di Nusa Dua](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
+- [50 Rekomendasi Wisata & Kuliner di Nusa Dua](/id/blog/nusa-dua-guide/)
 
 {{block:美食}}
 

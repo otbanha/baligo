@@ -36,7 +36,7 @@ To make your Bali trip smoother, we've prepared this travel guide. You can tailo
 Follow our tips to minimize traffic time—your Bali trip will be more fulfilling and packed with experiences!
 
 1. Choose your accommodation and activity zones based on our recommendations.
-2. If you're unfamiliar with the zones, check out [this explanation](/en/blog/2023-12-29-65839fbafd89780001e876b5/).
+2. If you're unfamiliar with the zones, check out [this explanation](/en/blog/bali-accommodation-area-guide/).
 3. For options labeled [Option 1] or [Option 2], pick one—or go with 'Why choose when you can have both?'
 4. Within your chosen zone, refer to our detailed guides with maps to find attractions that interest you.
 5. Book tickets for attractions mentioned in the guide.
@@ -81,7 +81,7 @@ Find accommodation:
 
 > [【Seminyak】Budget Bali Villas Under $100 USD](/en/blog/seminyak-budget-villas-guide/)
 
-[21 Stunning Seminyak Villas: Bali's Secret Gardens](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+[21 Stunning Seminyak Villas: Bali's Secret Gardens](/en/blog/seminyak-private-villas-guide/)
 
 ### Option 2: Canggu
 - Travel from the airport to Canggu takes 50–70 minutes. The notorious traffic bottlenecks at the two T-junctions on Jl. Pantai Berawa have been eased with the addition of the New Canggu Shortcut, offering some relief from congestion.
@@ -192,9 +192,9 @@ To tackle Bali's traffic challenges, we recommend spending the last one or two n
 
 ![庫塔全部有趣的景點我們都收集在這兒！](https://images.gobaligo.id/vocus/vocus_b2ca70ea8dcf02a0f9bbf8b334cca856.jpg)
 
-[We've gathered all the fun attractions in Kuta right here!](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+[We've gathered all the fun attractions in Kuta right here!](/en/blog/kuta-guide/)
 
-The ultimate guide to eating, drinking, and having fun in Kuta is right here: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+The ultimate guide to eating, drinking, and having fun in Kuta is right here: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/kuta-guide/)
 
 ### Option 2: Jimbaran
 - Jimbaran is famous for its beachfront seafood grills, where you can enjoy fresh seafood and other delicious dishes while watching the sunset—a romantic and relaxing dining experience.
@@ -213,7 +213,7 @@ Find accommodation:
 
 > [【Ayana Bali】Ayana Bali Accommodation Guide》](/en/blog/ayana-resort-bali-guide/)
 
-> [Bali Accommodation Guide: Jimbaran Stays with Stunning Ocean Views](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Bali Accommodation Guide: Jimbaran Stays with Stunning Ocean Views](/en/blog/jimbaran-beachfront-hotels-guide/)
 
 ## Don't Forget Souvenirs!
 

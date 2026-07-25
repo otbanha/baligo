@@ -118,7 +118,7 @@ Kami sempat mampir ke banyak tempat (dok. Fish Lee)
 
 Pantai Kuta emang ramai, tapi ternyata nggak separah yang aku bayangkan sih. Ombaknya berlapis-lapis, lumayan menenangkan.
 
-> Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kehidupan Malam yang Seru, Kuliner, dan Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjungi, Kehidupan Malam yang Seru, Kuliner, dan Rekomendasi SPA Lengkap](/id/blog/kuta-guide/)
 
 ## Seru-seruan Coba Kepang Rambut
 

@@ -38,7 +38,7 @@ Beberapa hari sebelumnya di Bali, kami nginep di **Sheraton Bali Kuta Resort**. 
 
 ![出發前的準備](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-Mau eksplor lebih banyak tips Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+Mau eksplor lebih banyak tips Kuta? [Klik di sini](/id/blog/kuta-guide/)
 
 Sehari sebelum berangkat, kami dapet konfirmasi dari Udin, fotografer sekaligus guide, lewat WhatsApp. Dia jelasin detail waktu jemput dan lokasi. Karena kami pilih paket One Day Tour Bali dengan Fotografer Profesional, termasuk layanan foto pakai kamera dan drone, jadi kami makin nggak sabar nunggu petualangan ini.
 

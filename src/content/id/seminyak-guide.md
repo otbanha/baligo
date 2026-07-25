@@ -271,7 +271,7 @@ Tips hemat traveling di Seminyak, baca ini aja
  \*\*> ▶Rekomendasi Penginapan di Bali: \*\*[**Panduan Penginapan Tema Mewah Tepi Pantai di Seminyak**](/id/blog/seminyak-beach-resorts-guide/)
 Mau nginep di resort tepi pantai yang lebih oke? Baca ini aja
 
-**> ▶Rekomendasi Villa di Seminyak:**[**21 Villa Tersembunyi yang Bikin Tercengang di Bali**](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+**> ▶Rekomendasi Villa di Seminyak:**[**21 Villa Tersembunyi yang Bikin Tercengang di Bali**](/id/blog/seminyak-private-villas-guide/)
 Villa dengan kolam renang pribadi super cantik di Seminyak
 
 **> ▶Rekomendasi Villa Budget Mewah di Seminyak:**[**Rekomendasi Villa Budget di Bali di Bawah USD$100**](/id/blog/seminyak-budget-villas-guide/)

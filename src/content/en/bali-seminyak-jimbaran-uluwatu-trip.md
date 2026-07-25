@@ -84,7 +84,7 @@ It's truly a perfect place where you never want to leave.
 
 > Book The Tukad Villa: [Agoda Best Price](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240473) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-688405/the-tukad-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/OhA4ytCi)
 
-Featured in "[Seminyak Villa Recommendations](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)"
+Featured in "[Seminyak Villa Recommendations](/en/blog/seminyak-private-villas-guide/)"
 
 ## Odysseys Surf School
 

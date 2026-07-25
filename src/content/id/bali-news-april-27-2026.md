@@ -38,7 +38,7 @@ _srcHash: 3f9c8a9044e9f62bfb3aeec61cc61906
 
 - **Rencana Water Taxi**: Kementerian Perhubungan hari ini mengumumkan skema baru, di mana perusahaan feri milik negara (ASDP) akan mengembangkan rute water taxi yang menghubungkan bandara ke Canggu. Proyek ini dijadwalkan mulai konstruksi pada Agustus 2026, bertujuan untuk mengatasi kemacetan darat yang biasanya memakan waktu 1-2 jam dengan alternatif jalur laut.
 
-> Apa itu water taxi? Lihat [di sini](/id/blog/2026-04-12-043821/)
+> Apa itu water taxi? Lihat di sini
 
 - **Pemeriksaan "Gerbang Kedua" Pajak Wisatawan**: Mulai hari ini, bandara (DPS) secara resmi mendirikan jalur pemeriksaan kedua untuk "**Levy Vouchers**" di antara area kedatangan dan zona penjemputan. Wisatawan yang belum membayar pajak wisatawan sebesar **150.000 Rupiah** akan diminta membayar langsung di tempat melalui pemindaian QRIS, tidak bisa dihindari. Disarankan wisatawan mempersiapkannya terlebih dahulu.
 

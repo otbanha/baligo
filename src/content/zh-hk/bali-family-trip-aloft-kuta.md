@@ -136,7 +136,7 @@ check-in > Beachwalk shopping 3F 睇夕陽 > 食小傑介紹嘅烤豬飯Warung B
 
 ![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-想知更多庫塔攻略？[請撳呢度](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+想知更多庫塔攻略？[請撳呢度](/zh-hk/blog/kuta-guide/)
 
 ## 峇里島包車司機推薦
 

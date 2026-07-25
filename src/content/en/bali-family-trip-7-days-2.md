@@ -57,7 +57,7 @@ The pool was both clean and spacious, and the villa offers a golf cart reservati
 
 > ▶[Check availability, room types, and rates for The Dusun Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
-The Dusun Villa is featured in "[20+ Stunning Bali Villas in Seminyak](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)"
+The Dusun Villa is featured in "[20+ Stunning Bali Villas in Seminyak](/en/blog/seminyak-private-villas-guide/)"
 
 ### **Ubud Accommodation**
 

@@ -36,7 +36,7 @@ Biar liburanmu di Bali makin asyik, kami siapin panduan ini. Kamu bisa tambah at
 Ikuti tips main kami, kurangi waktu macet, dan liburanmu di Bali bakal lebih seru dan padat dibanding orang lain!
 
 1. Pilih dulu zona nginep dan main sesuai saran kami
-2. Kalau belum paham tiap zona, cek [penjelasan di sini](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
+2. Kalau belum paham tiap zona, cek [penjelasan di sini](/id/blog/2026-02-24-65839fbafd89780001e876b5/)
 3. Kalau ada pilihan 【Opsi 1】 atau 【Opsi 2】, pilih salah satu; atau “anak kecil aja milih, gue ambil semua!”
 4. Di zona yang udah dipilih, ikuti panduan kami — ada peta detail buat bantu nemuin tempat seru
 5. Pesan tiket atraksi yang ada di panduan
@@ -81,7 +81,7 @@ Cari akomodasi:
 
 > [【水明漾】不超過100美元的平價峇里島villa推薦](/id/blog/seminyak-budget-villas-guide/)
 
-> [21 Villa Seminyak yang Memukau: Taman Rahasia Bali](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+> [21 Villa Seminyak yang Memukau: Taman Rahasia Bali](/id/blog/seminyak-private-villas-guide/)
 
 ### Opsi 2: Canggu
 
@@ -172,7 +172,7 @@ Terus, buat yang bawa anak kecil, jangan sampai kelewatan: [53 Aktivitas Seru di
 
 > Rekomendasi penginapan di Ubud bisa lihat di sini:
 
-- [【Penginapan Ubud Bali】30+ Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+- [【Penginapan Ubud Bali】30+ Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 - [Jelajahi 10+ Villa Tree House/Bamboo Villa yang Bikin Melongo di Ubud](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 - [20+ Villa Bali yang Bikin Tercengang di Ubud](/id/blog/ubud-villa-pool-guide/)
 
@@ -191,9 +191,9 @@ Biar gak pusing sama macetnya Bali, kita atur malam terakhir atau dua malam tera
 
 ![庫塔全部有趣的景點我們都收集在這兒！](https://images.gobaligo.id/vocus/vocus_b2ca70ea8dcf02a0f9bbf8b334cca856.jpg)
 
-[Semua tempat seru di Kuta udah kami kumpulin di sini!](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Semua tempat seru di Kuta udah kami kumpulin di sini!](/id/blog/kuta-guide/)
 
-Panduan lengkap makan-minum dan seru-seruan di Kuta ada di sini: [Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Kehidupan Malam yang Ramai, Kuliner, Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+Panduan lengkap makan-minum dan seru-seruan di Kuta ada di sini: [Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Kehidupan Malam yang Ramai, Kuliner, Rekomendasi SPA Lengkap](/id/blog/kuta-guide/)
 
 ### Opsi Kedua: Jimbaran
 
@@ -213,7 +213,7 @@ Cari penginapan:
 
 > [【Ayana Bali】Paket Lengkap Menginap di Ayana Resort Bali](/id/blog/ayana-resort-bali-guide/)
 
-> [Rekomendasi Akomodasi Bali: Pilihan Penginapan Jimbaran dengan Pemandangan Laut yang Wajib Coba](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Rekomendasi Akomodasi Bali: Pilihan Penginapan Jimbaran dengan Pemandangan Laut yang Wajib Coba](/id/blog/jimbaran-beachfront-hotels-guide/)
 
 ## Jangan Lupa Oleh-Oleh!
 

@@ -84,5 +84,5 @@ Pembukaan voco Bali Seminyak bikin industri pariwisata Bali makin hidup, kasih t
 Seminyak adalah kawasan kece di Bali yang gabungin gaya modern dan tradisi, punya restoran top, butik-butik, dan kehidupan malam yang seru banget—sungguh surga buat para pelancong! Mau tahu info lebih lanjut soal kuliner kece? [Klik di sini](/id/blog/seminyak-guide/).
 
 - [Rekomendasi Penginapan di Bali: Panduan Tema Penginapan Mewah di Tepi Pantai Seminyak](/id/blog/seminyak-beach-resorts-guide/)
-- [【Rekomendasi Penginapan di Bali】Surga Pribadi Villa dengan Kolam Renang: 21 Villa Memukau di Seminyak yang Jadi Taman Rahasia Bali](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【Rekomendasi Penginapan di Bali】Surga Pribadi Villa dengan Kolam Renang: 21 Villa Memukau di Seminyak yang Jadi Taman Rahasia Bali](/id/blog/seminyak-private-villas-guide/)
 - [【Seminyak】Rekomendasi Villa Bali Murah di Bawah USD$100](/id/blog/seminyak-budget-villas-guide/)

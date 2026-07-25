@@ -59,7 +59,7 @@ _srcHash: 985155bb95557cc56b64ea1f91140256
 - [峇里島住宿推薦：水明漾嘅濱海精緻主題住宿指南](/zh-hk/blog/seminyak-beach-resorts-guide/)
 - [金巴蘭住宿推薦【峇里島阿雅娜】Ayana Bali 》](/zh-hk/blog/ayana-resort-bali-guide/)
 - [烏魯瓦圖 Uluwatu住宿推薦：12間無敵海景嘅私密別墅渡假村](/zh-hk/blog/uluwatu-bali-villas-resorts-guide/)
-- [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/zh-hk/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/zh-hk/blog/jimbaran-beachfront-hotels-guide/)
 - [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/zh-hk/blog/bali-family-resorts-water-slides/)
 - [峇里島家庭親子自由行：沙努爾攻略地圖｜45項吃喝玩樂，仲有SPA同住宿推薦喔！](/zh-hk/blog/sanur-guide/)
 - [努沙杜瓦、南灣：峇里島豪華度假嘅首選之地40個住宿、美食、活動攻略地圖](/zh-hk/blog/nusa-dua-guide/)

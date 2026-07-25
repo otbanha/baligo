@@ -51,11 +51,11 @@ Pas mereka protes, supirnya mulai nurunin harga sendiri, dan akhirnya nawarin ha
 
 Pengalaman nyata turis ini semoga bisa jadi referensi buat kalian. Platform ojek online sendiri sebenernya praktis banget, dan kemungkinan ketemu supir nakal juga nggak terlalu tinggi, tapi tetap aja perlu waspada selama traveling.
 
-> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/2023-08-20-64e187dffd897800017304fe/)
+> Baca juga: [Aplikasi Wajib Pas Traveling di Indonesia/Bali: Panduan Lengkap Gojek](/id/blog/gojek-bali-guide/)
 
-> Baca juga: [Tips Travel Bali: Wajib Punya Aplikasi Ojek Online buat Perjalanan Singkat, Hemat Waktu!](/id/blog/2024-05-03-6634d110fd897800012a9d6b/)
+> Baca juga: [Tips Travel Bali: Wajib Punya Aplikasi Ojek Online buat Perjalanan Singkat, Hemat Waktu!](/id/blog/bali-travel-app-motorcycle-taxi/)
 
-> Baca juga: [Kapan Sewa Mobil di Bali? Kapan Panggil Ojek? Sewa Mobil vs. Ojek Online: Cara Pilih yang Paling Cocok buat Travel Kamu?](/id/blog/2024-05-05-6636f348fd897800013df126/)
+> Baca juga: [Kapan Sewa Mobil di Bali? Kapan Panggil Ojek? Sewa Mobil vs. Ojek Online: Cara Pilih yang Paling Cocok buat Travel Kamu?](/id/blog/bali-transportation-guide-car-rental/)
 
 [🚗 Mau cek estimasi tarif Gojek? Klik di sini](/id/map/gojek-fare/)
 

@@ -48,7 +48,7 @@ _srcHash: 29cace15241b8173599da9aa076124da
 
 邻近的海滩如雷吉安（Legian）和水明漾（Seminyak）也提供类似的适合初学者的条件。
 
-> 库塔攻略：[Kuta还能玩什么？](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 库塔攻略：[Kuta还能玩什么？](/zh-cn/blog/kuta-guide/)
 
 > 水明漾攻略：[Seminyak还能玩什么？](/zh-cn/blog/seminyak-guide/)
 

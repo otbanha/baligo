@@ -31,7 +31,7 @@ _srcHash: 2f9c8dde718e8eafe6e2947aa96dd407
 想待在热闹中心？南部地区如**水明漾（Seminyak）**、**库塔（Kuta）**与**坎古（Canggu）**是绝佳选择。这里有高级别墅、节庆自助餐、购物商场与儿童活动，让全家人都能感受圣诞的欢乐。
 
 - [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [库塔必访50个景点攻略](/zh-cn/blog/kuta-guide/)
 - [坎古100个必游景点](/zh-cn/blog/canggu-guide/)
 
 ### **文化与宁静兼具的地区**

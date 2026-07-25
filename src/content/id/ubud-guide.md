@@ -1050,9 +1050,9 @@ Selain itu, kami juga punya lima rekomendasi akomodasi bertema di Ubud yang bisa
 
 ![烏布最具特色的28家住宿推薦](https://images.gobaligo.id/vocus/vocus_8092290c2bac6096557c0e32556c5b0c.jpg)
 
-[28 Rekomendasi Penginapan Paling Khas di Ubud](/id/blog/ubud-villas-pool-guide/)
+[28 Rekomendasi Penginapan Paling Khas di Ubud](/id/blog/ubud-resorts-guide/)
 
-> [【Akomodasi Ubud Bali】30+ Penginapan Khas Ubud, Nikmati Petualangan Seru di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+> [【Akomodasi Ubud Bali】30+ Penginapan Khas Ubud, Nikmati Petualangan Seru di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 
 ### Bamboo Villa
 

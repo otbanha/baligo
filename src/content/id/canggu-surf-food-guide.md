@@ -49,7 +49,7 @@ Cuplikan video Xiao Jie
 
 [Masih penasaran sama Canggu? Cek sini yuk!](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-Bali mulai berkembang dari Kuta dan Legian, jadi kawasan paling rame di seluruh Bali. Dulu kita pernah bikin satu episode 'Panduan Kuta', jadi kalau liburan ke Bali jangan lupa cek '[Panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)' ya!
+Bali mulai berkembang dari Kuta dan Legian, jadi kawasan paling rame di seluruh Bali. Dulu kita pernah bikin satu episode 'Panduan Kuta', jadi kalau liburan ke Bali jangan lupa cek '[Panduan Kuta](/id/blog/kuta-guide/)' ya!
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 

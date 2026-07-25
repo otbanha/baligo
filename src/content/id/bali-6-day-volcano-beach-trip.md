@@ -84,7 +84,7 @@ Dai Yushan
 - Pasar Ubud
 - Puri Ubud
 
-> Cara jalan-jalan di pusat Ubud? Baca [Panduan Belanja di Pusat Kota Ubud](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Cara jalan-jalan di pusat Ubud? Baca Panduan Belanja di Pusat Kota Ubud
 
 - Terasering Tegalalang
 

@@ -100,7 +100,7 @@ Kuta has the most tourists, so it also has the most shopping spots! Here are som
 - Mal Bali Galeria
 - Trans Studio
 
-Interested? Check out this [Kuta Guide Map](/en/blog/2023-12-13-657598bdfd8978000120fe20/) — we’ve already marked all the locations for you!
+Interested? Check out this [Kuta Guide Map](/en/blog/kuta-guide/) — we’ve already marked all the locations for you!
 
 ### Souvenir Shops
 

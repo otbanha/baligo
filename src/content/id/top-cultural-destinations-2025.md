@@ -39,9 +39,9 @@ Bali dijuluki 'Pulau Dewata' dan jadi surga liburan favorit banyak orang. Budaya
 
 - [Tips Liburan ke Bali: 31 Hal Wajib Tahu Sebelum Pertama Kali ke Bali](/id/blog/bali-ultimate-guide-2026/)
 - [【Wajib Tahu soal Bali】99% Traveler Diam-diam Cari 41 Pertanyaan Super Canggung! Panduan Liburan Bebas ke Bali](/id/blog/bali-travel-faqs-guide/)
-- [Panduan Bali: Kenali Wilayah Bali - Rekomendasi Penginapan Bali, Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
+- [Panduan Bali: Kenali Wilayah Bali - Rekomendasi Penginapan Bali, Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2026-02-24-65839fbafd89780001e876b5/)
 - [Panduan 100 Tempat di Seminyak, Bali](/id/blog/seminyak-guide/)
-- [Panduan 50 Tempat Wajib Kunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan 50 Tempat Wajib Kunjungi di Kuta](/id/blog/kuta-guide/)
 - [80 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
 - [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
 - [Panduan Jimbaran](/id/blog/jimbaran-guide/)

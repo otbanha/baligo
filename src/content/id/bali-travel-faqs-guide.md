@@ -529,7 +529,7 @@ Bali cocok nggak sih buat diajak liburan sama orang tua? Jawabannya: tentu aja b
 
 Kalau kamu lagi cari tempat buat dugem semalaman, Kuta dan Seminyak di Bali adalah destinasi yang wajib kamu datangi!
 
-- Dua klub malam terbesar di Kuta bisa kamu lihat di [[panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)]
+- Dua klub malam terbesar di Kuta bisa kamu lihat di [[panduan Kuta](/id/blog/kuta-guide/)]
 - Lima klub malam top di Seminyak [cek di sini](/id/blog/seminyak-nightclubs-guide/)
 
 ***

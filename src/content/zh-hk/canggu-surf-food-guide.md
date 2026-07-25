@@ -44,7 +44,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-峇里島由庫塔同雷吉安開始，發展成成個峇里島最熱鬧嘅區域。我哋之前做過一集「庫塔攻略」，去峇里島旅行唔好錯過我嘅「[庫塔攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)」呀！
+峇里島由庫塔同雷吉安開始，發展成成個峇里島最熱鬧嘅區域。我哋之前做過一集「庫塔攻略」，去峇里島旅行唔好錯過我嘅「[庫塔攻略](/zh-hk/blog/kuta-guide/)」呀！
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 

@@ -104,7 +104,7 @@ Yoga Barn的课程确实很多，但场馆比较旧，可能是期待过高。�
 ## 参考攻略：
 
 - [2024巴厘岛水明漾60个景点攻略](/zh-cn/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [库塔必访50个景点攻略](/zh-cn/blog/kuta-guide/)
 - [坎古50个必游景点](/zh-cn/blog/canggu-guide/)
 - [乌布探索的50个方式](/zh-cn/blog/ubud-guide/)
 - [2024金巴兰攻略](/zh-cn/blog/jimbaran-guide/)

@@ -39,7 +39,7 @@ Banyak yang khawatir pas Natal lagi musim hujan. Tenang aja! Memang mungkin ada 
 Mau yang di pusat keramaian? Daerah selatan kayak **Seminyak**, **Kuta**, dan **Canggu** adalah pilihan terbaik. Ada vila mewah, prasmanan meriah, pusat perbelanjaan, dan aktivitas anak-anak, bikin seluruh keluarga bisa merasakan keceriaan Natal.
 
 - [Panduan 100 Tempat Wisata di Seminyak, Bali](/id/blog/seminyak-guide/)
-- [Panduan 50 Tempat Wajib Kunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan 50 Tempat Wajib Kunjungi di Kuta](/id/blog/kuta-guide/)
 - [100 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
 
 ### **Kawasan yang Tenang dan Penuh Budaya**

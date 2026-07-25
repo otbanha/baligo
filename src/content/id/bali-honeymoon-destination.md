@@ -62,7 +62,7 @@ Biar Bali jadi panggung petualangan cinta kalian, ciptain kenangan manis dan pen
 - [Rekomendasi akomodasi Bali: panduan akomodasi tematik tepi pantai di Seminyak](/id/blog/seminyak-beach-resorts-guide/)
 - [Rekomendasi akomodasi Jimbaran: Ayana Bali >>](/id/blog/ayana-resort-bali-guide/)
 - [Rekomendasi akomodasi Uluwatu: 12 villa resort privat dengan pemandangan laut tanpa batas](/id/blog/uluwatu-bali-villas-resorts-guide/)
-- [Rekomendasi akomodasi Bali: akomodasi Jimbaran dengan pemandangan laut spektakuler](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [Rekomendasi akomodasi Bali: akomodasi Jimbaran dengan pemandangan laut spektakuler](/id/blog/jimbaran-beachfront-hotels-guide/)
 - [Taman hiburan keluarga Bali: TOP 15 resort keluarga dengan seluncuran air](/id/blog/bali-family-resorts-water-slides/)
 - [Liburan keluarga mandiri di Bali: panduan peta Sanur | 45 tempat makan, main, SPA, dan rekomendasi akomodasi!](/id/blog/sanur-guide/)
 - [Nusa Dua, Tanjung Benoa: destinasi utama liburan mewah di Bali - 40 peta panduan akomodasi, kuliner, aktivitas](/id/blog/nusa-dua-guide/)

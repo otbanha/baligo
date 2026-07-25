@@ -14,7 +14,7 @@ Ubud adalah pusat seni dan budaya di Bali. Sawah terasering yang hijau, hutan ya
 
 ## Tema Akomodasi di Ubud
 
-- [【Akomodasi Ubud Bali】30+ Rekomendasi Akomodasi Khas Ubud, Nikmati Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+- [【Akomodasi Ubud Bali】30+ Rekomendasi Akomodasi Khas Ubud, Nikmati Petualangan Ajaib di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 - [【Rekomendasi Akomodasi Ubud】Villa Ubud dengan Kolam Renang: Surga Privat 20+ Villa Bali yang Memukau](/id/blog/ubud-villa-pool-guide/)
 - [Rekomendasi Akomodasi Yoga di Ubud Bali: 10 Pilihan Impian dengan Kelas Yoga dan Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)
 - [18 Resor Ramah Keluarga dengan Kids Club di Bali｜Pilihan Terbaik untuk Liburan Keluarga di Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, dan Ubud](/id/blog/bali-family-resorts-kids-club/)

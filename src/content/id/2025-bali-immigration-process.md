@@ -44,7 +44,7 @@ Setelah tiba di Indonesia atau Bali, ikuti urutan berikut untuk masuk, biar cepa
    ▶️ Visa on Arrival bagus? Visa elektronik bagus? Lihat [Panduan Lengkap Visa Elektronik eVoa Indonesia/Bali](/id/blog/bali-evisa-application-guide/)
 3. **Isi Formulir Deklarasi Kesehatan Online**  
    Untuk mencegah penyebaran berbagai penyakit menular seperti cacar monyet, pneumonia manusia, dan lainnya, penumpang perlu mengisi "Deklarasi Kesehatan (SSHP)".  
-   ▶️ Cara mengisi? Lihat [Panduan Pengisian SSHP](/id/blog/2024-08-30-66d109f9fd89780001f47806/)
+   ▶️ Cara mengisi? Lihat Panduan Pengisian SSHP
 4. **Antre di Imigrasi - Periksa Visa/Stempel Paspor**  
    Di konter imigrasi, kamu perlu antre menunggu pemeriksaan paspor dan dokumen visa. Pastikan paspor dan dokumen visamu lengkap.
 5. **Layanan Pintu Otomatis**  

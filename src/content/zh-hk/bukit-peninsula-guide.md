@@ -82,7 +82,7 @@ Ayana Resort 係峇里島知名嘅豪華度假村，擁有壯麗嘅懸崖景觀�
 
 > 【[峇里島金巴蘭自由行：推介30個玩樂景點全攻略｜2025旅遊指南](/zh-hk/blog/jimbaran-guide/)】
 
-> 【[峇里島住宿推介：無敵海景金巴蘭住宿篇](/zh-hk/blog/2023-11-09-654c6271fd8978000174ff5e/)】
+> 【[峇里島住宿推介：無敵海景金巴蘭住宿篇](/zh-hk/blog/jimbaran-beachfront-hotels-guide/)】
 
 ***
 

@@ -55,7 +55,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 庫塔/雷吉安/水明漾/坎古/烏布
 
-- [庫塔必去50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [庫塔必去50個景點攻略](/zh-hk/blog/kuta-guide/)
 - [水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
 - [坎古100個必遊景點](/zh-hk/blog/canggu-guide/)
 - [烏布探索嘅100種方式](/zh-hk/blog/ubud-guide/)

@@ -95,7 +95,7 @@ What makes it interesting is that the same property offers both business-style h
 
 It's best for travelers who value functionality and don't want to call a Grab every time they need to buy something, or for those traveling with elderly family who need everything within easy reach.
 
-👉 [Seminyak Square Hotel & Villas Full Review](/en/blog/seminyak-square-hotel-and-villas/)
+👉 [Seminyak Square Hotel & Villas Full Review](/en/blog/seminyak-square-hotel-villas/)
 
 > 👉 Check latest rates and availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=400375) ｜ [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685497/seminyak-square-hotel/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 

@@ -86,4 +86,4 @@ Visa kunjungan 30 hari di Indonesia memang praktis buat traveler, tapi tetap har
 
 Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang.
 
-Setelah subscribe, kamu bisa lanjut baca panduan lengkap kami dan eksplor setiap sudut seru Bali. Klik **"**[**Panduan Liburan Mandiri ke Bali**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** buat mulai persiapan liburanmu ke Bali!
+Setelah subscribe, kamu bisa lanjut baca panduan lengkap kami dan eksplor setiap sudut seru Bali. Klik **"****Panduan Liburan Mandiri ke Bali****"** buat mulai persiapan liburanmu ke Bali!

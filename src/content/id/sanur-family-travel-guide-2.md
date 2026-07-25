@@ -34,7 +34,7 @@ Panduan ini bakal jelasin detail hal-hal yang perlu diperhatikan pas liburan ke 
 > Episode 1: [Seminyak](/id/blog/seminyak-family-travel-2026/)
 > Episode 2: [Ubud](/id/blog/ubud-family-travel-2026/)
 > Episode 3: Sanur (ini dia)
-> [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
+> Episode 4: Nusa Dua
 
 ## Hal yang Perlu Diperhatikan Saat Liburan Keluarga
 
@@ -295,7 +295,7 @@ Sanur adalah kota pesisir yang tenang di Bali, terkenal dengan pantainya yang da
 - [Episode 1: Seminyak](/id/blog/seminyak-family-travel-2026/)
 - [Episode 2: Ubud](/id/blog/ubud-family-travel-2026/)
 - Episode 3: Sanur (ini dia)
-- [Episode 4: Nusa Dua](/id/blog/2026-04-02-112654/)
+- Episode 4: Nusa Dua
 
 ***
 

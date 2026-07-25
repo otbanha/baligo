@@ -39,7 +39,7 @@ Under current regulations, visitors from Taiwan or Hong Kong can apply for a Vis
 
 Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now!
 
-After subscribing, you can immediately continue reading our comprehensive guide, exploring every fascinating corner of Bali. Click **"**[**The Ultimate Bali Travel Guide**](/en/blog/2025-06-15-64e37f2dfd89780001b1f776/)**"** to start planning your Bali trip!
+After subscribing, you can immediately continue reading our comprehensive guide, exploring every fascinating corner of Bali. Click **"****The Ultimate Bali Travel Guide****"** to start planning your Bali trip!
 
 ### Our Community
 

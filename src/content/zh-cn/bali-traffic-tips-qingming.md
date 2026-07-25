@@ -75,7 +75,7 @@ _srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 > 清明节-开斋节期间，巴厘岛的许多知名景点交通拥堵。建议**小区域移动**以避免将假期浪费在堵车上。这些小区域请参考：
 
 - [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [库塔必访50个景点攻略](/zh-cn/blog/kuta-guide/)
 - [坎古80个必游景点](/zh-cn/blog/canggu-guide/)
 - [乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
 - [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)

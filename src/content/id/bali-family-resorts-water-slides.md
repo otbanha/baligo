@@ -40,7 +40,7 @@ Artikel ini bakal ngenalin 15 resor dengan seluncuran air paling oke buat libura
 
 ## Kuta/Legian
 
-（Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjung, Kehidupan Malam, Kuliner, & Rekomendasi SPA](/id/blog/2023-12-13-657598bdfd8978000120fe20/)）
+（Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjung, Kehidupan Malam, Kuliner, & Rekomendasi SPA](/id/blog/kuta-guide/)）
 
 ### **Hard Rock Hotel Bali**
 

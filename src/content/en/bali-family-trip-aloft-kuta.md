@@ -140,7 +140,7 @@ We followed the tips from "Xiao Jie Indonesia." If you're interested in visiting
 
 ![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-Want more Kuta travel tips? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+Want more Kuta travel tips? [Click here](/en/blog/kuta-guide/)
 
 ## Recommended Bali Private Driver
 

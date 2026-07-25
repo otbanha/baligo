@@ -32,9 +32,9 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 - [峇里島旅遊注意事項：第一次去峇里島必睇嘅31項旅遊攻略](/zh-hk/blog/bali-ultimate-guide-2026/)
 - [【峇里島必知】99%遊客都喺偷偷搜尋嘅超尷尬41個問題！峇里島旅遊自由行攻略](/zh-hk/blog/bali-travel-faqs-guide/)
-- [峇里島攻略之認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/2023-12-29-65839fbafd89780001e876b5/)
+- [峇里島攻略之認識峇里島區域: 峇里島住宿推薦指南 - 認識庫塔 水明漾 坎古 烏布](/zh-hk/blog/bali-accommodation-area-guide/)
 - [峇里島水明漾100個景點攻略](/zh-hk/blog/seminyak-guide/)
-- [庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 - [坎古 80個必遊景點](/zh-hk/blog/canggu-guide/)
 - [烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
 - [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)

@@ -118,7 +118,7 @@ We visited quite a few places (Photo by Fish Lee)
 
 Although Kuta Beach was crowded, it wasn't as bad as I imagined. The layers of waves were actually quite soothing.
 
-> Further reading: [Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Dining, and Recommended SPA Collection](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Further reading: [Kuta Travel Guide: 50 Must-Visit Spots, Vibrant Nightlife, Dining, and Recommended SPA Collection](/en/blog/kuta-guide/)
 
 ## Fun Hair Braiding Experience
 

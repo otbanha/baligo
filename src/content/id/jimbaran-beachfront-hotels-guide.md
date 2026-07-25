@@ -71,7 +71,7 @@ Ayana Villas adalah pilihan akomodasi paling mewah di Ayana Bali, terletak di ar
 
 Vila di Ayana Villas didekorasi dengan gaya tradisional Bali, luas dan nyaman. Vila dilengkapi dengan fasilitas modern seperti TV LCD, WiFi gratis, minibar, dapur, kolam renang pribadi, dan lainnya. Selain itu, vila juga menyediakan layanan butler pribadi untuk memberikan pelayanan menyeluruh bagi tamu.
 
-Ayana Villas adalah resort mewah kelas atas di Bali, cocok banget buat liburan santai, bulan madu, atau liburan keluarga. (Ayana Bali punya empat tingkat akomodasi, untuk info lengkap tentang Ayana Bali, [cek artikel khusus kami](/id/blog/2023-10-26-653914f6fd89780001fef733/))
+Ayana Villas adalah resort mewah kelas atas di Bali, cocok banget buat liburan santai, bulan madu, atau liburan keluarga. (Ayana Bali punya empat tingkat akomodasi, untuk info lengkap tentang Ayana Bali, [cek artikel khusus kami](/id/blog/ayana-resort-bali-guide/))
 
 > Cek ketersediaan kamar & harga: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
 

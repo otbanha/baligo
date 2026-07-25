@@ -157,7 +157,7 @@ Yang jago pasti tahu kalau beli oleh-oleh harus ke Prema Rasa.
 
 - **14:30** Berangkat ke bandara. Keuntungan nginep di area Kuta, Jimbaran di hari terakhir adalah 'gak perlu khawatir bakal ketinggalan pesawat'!
 
-> (Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjung, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/))
+> (Baca juga: [Panduan Wisata Kuta: 50 Tempat Wajib Kunjung, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/kuta-guide/))
 > (Baca juga: [Liburan Mandiri Jimbaran: 31 Tempat Wisata Seru yang Wajib Dicoba](/id/blog/jimbaran-guide/))
 
 - **16:30**: Pamitan sama Bali, take off tepat waktu.

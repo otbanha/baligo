@@ -63,7 +63,7 @@ Let Bali be the stage for your romantic adventure, creating beautiful memories a
 - [Bali Accommodation Recommendations: Coastal-Themed Stays in Seminyak](/en/blog/seminyak-beach-resorts-guide/)
 - [Jimbaran Accommodation Recommendation: Ayana Resort Bali](/en/blog/ayana-resort-bali-guide/)
 - [Uluwatu Accommodation Recommendations: 12 Private Villas with Stunning Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/)
-- [Bali Accommodation Recommendations: Unbeatable Ocean Views in Jimbaran](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [Bali Accommodation Recommendations: Unbeatable Ocean Views in Jimbaran](/en/blog/jimbaran-beachfront-hotels-guide/)
 - [Bali Family Paradise: Top 15 Resorts with Water Slides](/en/blog/bali-family-resorts-water-slides/)
 - [Bali Family Travel Guide: Sanur Map｜45 Things to Eat, Drink, and Do, Plus SPA and Accommodation Recommendations!](/en/blog/sanur-guide/)
 - [Nusa Dua & Tanjung Benoa: The Ultimate Luxury Destination in Bali - 40 Accommodations, Dining, and Activities Guide](/en/blog/nusa-dua-guide/)

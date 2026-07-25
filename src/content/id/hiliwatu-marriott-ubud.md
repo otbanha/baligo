@@ -133,7 +133,7 @@ Bagi traveler yang ingin mendalami budaya Bali, mencari keseimbangan jiwa dan ra
 
 Kamu pernah ke Ubud? Tertarik sama hotel yang baru buka ini?
 
-Termasuk dalam artikel「[【Rekomendasi Penginapan Khas Ubud, Bali】Nikmati Petualangan Indah di Tengah Hutan Pegunungan Bali!](/id/blog/ubud-villas-pool-guide/)」
+Termasuk dalam artikel「[【Rekomendasi Penginapan Khas Ubud, Bali】Nikmati Petualangan Indah di Tengah Hutan Pegunungan Bali!](/id/blog/ubud-resorts-guide/)」
 
 ***
 

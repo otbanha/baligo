@@ -92,7 +92,7 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 - Mal Bali Galeria
 - Trans Studio
 
-有兴趣的朋友可以参考这篇「[库塔攻略地图](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)」已经全部帮大家把地理位置标示出来了哦！
+有兴趣的朋友可以参考这篇「[库塔攻略地图](/zh-cn/blog/kuta-guide/)」已经全部帮大家把地理位置标示出来了哦！
 
 ### 伴手礼店
 

@@ -477,7 +477,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 參觀呢個有趣嘅上下顛倒世界，影相留念。
 
-> 延伸閱讀：[庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 延伸閱讀：[庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 
 **入住酒店**
 
@@ -511,7 +511,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 地點：Discovery Shopping Mall
 
-> 延伸閱讀：[庫塔必訪50個景點攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 延伸閱讀：[庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 
 **DPS機場**
 

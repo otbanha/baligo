@@ -152,7 +152,7 @@ If you've never tried surfing, Kuta is one of the world's most famous beaches fo
 
 Kuta is arguably the liveliest area in Bali, and watching the sunset from Kuta Beach is spectacular! However, in recent years, it has become a nightlife hotspot, giving it a bit of a mixed vibe. Despite that, it remains one of Bali's most popular tourist destinations. Check out our Kuta guide:
 
-[Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+[Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/kuta-guide/)
 
 ## Seminyak: A Hub of Style and Fun [100 Attractions]
 
@@ -174,7 +174,7 @@ It's not just for the young—it's also a great place for family vacations! Chec
 
 > [10 Highly Rated Budget Hotels in Seminyak's Prime Area](/en/blog/seminyak-budget-hotels-guide/)
 
-> [21 Stunning Bali Villas in Seminyak](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+> [21 Stunning Bali Villas in Seminyak](/en/blog/seminyak-private-villas-guide/)
 
 > [【Seminyak】Budget Bali Villas Under $100 USD](/en/blog/seminyak-budget-villas-guide/)
 
@@ -212,7 +212,7 @@ Beyond that, Jimbaran has plenty of other exciting attractions! Check out our 'J
 
 If you want to immerse yourself in stunning ocean views in Jimbaran or dive into the Ayana Resort's 14 swimming pools, check this out:
 
-> [Jimbaran Accommodation Guide with Breathtaking Sea Views](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Jimbaran Accommodation Guide with Breathtaking Sea Views](/en/blog/jimbaran-beachfront-hotels-guide/)
 
 ## Uluwatu: Bali's Coastal Paradise [45+ Attractions]
 

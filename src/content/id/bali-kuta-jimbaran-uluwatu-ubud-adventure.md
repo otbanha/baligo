@@ -137,7 +137,7 @@ Monkey Forest adalah tempat yang penuh budaya dan kejutan, cocok banget buat kam
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> Baca juga: [Bingung jalan-jalan di Ubud? Cek panduan peta Ubud kami](/id/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> Baca juga: Bingung jalan-jalan di Ubud? Cek panduan peta Ubud kami
 
 ### Desa Penglipuran Ubud
 
@@ -485,7 +485,7 @@ Lokasi: Naughty Nuri's Warung, Sanur
 
 Kunjungi dunia terbalik yang seru ini, jangan lupa foto-foto ya.
 
-> Baca juga: [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/kuta-guide/)
 
 **Check-in Hotel**
 
@@ -519,7 +519,7 @@ Nikmati sinar matahari dan aktivitas pantai di Kuta.
 
 Lokasi: Discovery Shopping Mall
 
-> Baca juga: [50 Tempat Wajib Kunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Baca juga: [50 Tempat Wajib Kunjungi di Kuta](/id/blog/kuta-guide/)
 
 **Bandara DPS**
 

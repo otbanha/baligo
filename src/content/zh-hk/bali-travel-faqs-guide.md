@@ -522,7 +522,7 @@ https://youtube.com/shorts/arOR8IvtHbc
 
 如果你係想搵個地方狂歡成晚，峇里島嘅庫塔同水明漾就係你嘅首選！
 
-- 庫塔嘅兩大夜店可以睇我哋嘅[[庫塔攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)]
+- 庫塔嘅兩大夜店可以睇我哋嘅[[庫塔攻略](/zh-hk/blog/kuta-guide/)]
 - 水明漾嘅5大夜店[睇呢度](/zh-hk/blog/seminyak-nightclubs-guide/)
 
 ***

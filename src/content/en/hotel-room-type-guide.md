@@ -50,7 +50,7 @@ A "Twin Bed Room" features two single beds, perfect for friends, colleagues, or 
 
 ![Ayana Villas 裡的 king size 床，收錄於「金巴蘭住宿推薦」](https://images.gobaligo.id/vocus/vocus_b05e8ba8add16887fd7b682631c5ca21.jpg)
 
-[The king-size bed at Ayana Villas, featured in 'Jimbaran Accommodation Recommendations'](/en/blog/2023-11-09-654c6271fd8978000174ff5e/)
+[The king-size bed at Ayana Villas, featured in 'Jimbaran Accommodation Recommendations'](/en/blog/jimbaran-beachfront-hotels-guide/)
 
 The terms 'Queen Room' and 'King Room' refer to room types named after bed sizes. A 'Queen Room' is equipped with a queen-size bed, slightly larger than a standard double, comfortably accommodating two guests. A 'King Room' features a spacious king-size bed, making it an ideal choice for couples. These room types are a definite highlight for travelers seeking high comfort.
 

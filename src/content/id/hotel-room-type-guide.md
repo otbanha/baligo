@@ -49,7 +49,7 @@ Pertama, "Double Bed Room" bukan "kamar dua tempat tidur". Tipe kamar ini biasan
 
 ![Ayana Villas 裡的 king size 床，收錄於「金巴蘭住宿推薦」](https://images.gobaligo.id/vocus/vocus_b05e8ba8add16887fd7b682631c5ca21.jpg)
 
-[Tempat tidur king size di Ayana Villas, masuk dalam «Rekomendasi Penginapan Jimbaran»](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)
+[Tempat tidur king size di Ayana Villas, masuk dalam «Rekomendasi Penginapan Jimbaran»](/id/blog/jimbaran-beachfront-hotels-guide/)
 
 «Queen Room» dan «King Room» adalah tipe kamar yang dinamai berdasarkan ukuran tempat tidur. «Queen Room» dilengkapi dengan satu tempat tidur ukuran queen (Queen Bed), sedikit lebih besar dari tempat tidur double standar, cocok untuk dua orang dengan kenyamanan maksimal. Sementara «King Room» memiliki tempat tidur ukuran king (King Bed) yang luas, pilihan ideal untuk pasangan atau suami-istri. Tipe kamar ini jelas jadi nilai plus buat traveler yang mengutamakan kenyamanan.
 
@@ -101,7 +101,7 @@ Tipe kamar "Studio" mirip apartemen terbuka, biasanya kamar tidur, ruang tamu, d
 
 ![The Udaya Resort and Spa 豪華房，收錄在「烏布26家特色住宿」](https://images.gobaligo.id/vocus/vocus_69d11bbbfbcce39e4b628e19da372766.jpg)
 
-[The Udaya Resort and Spa Deluxe Room, masuk dalam daftar 「26 Akomodasi Khas Ubud」](/id/blog/ubud-villas-pool-guide/)
+[The Udaya Resort and Spa Deluxe Room, masuk dalam daftar 「26 Akomodasi Khas Ubud」](/id/blog/ubud-resorts-guide/)
 
 Deluxe Room dan Superior Room biasanya lebih mewah dari segi dekorasi dan pemandangan. Deluxe Room umumnya lebih luas dan punya fasilitas tambahan seperti perlengkapan tidur yang lebih oke, jendela dengan pemandangan, atau balkon. Sementara Superior Room biasanya ada di lantai lebih tinggi, pemandangannya lebih ciamik, atau desainnya lebih unik — cocok buat kamu yang pengin pengalaman menginap yang lebih istimewa.
 

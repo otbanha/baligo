@@ -71,7 +71,7 @@ Kami nginep di **Kamala Resort** di Ubud. Meskipun beberapa detailnya agak kuran
 
 **Bacaan Lanjutan:**
 
-[【Rekomendasi Penginapan Ubud Bali】30+ Akomodasi Unik di Ubud, Rasakan Petualangan Indah di Tengah Hutan Bali!](/id/blog/ubud-villas-pool-guide/)
+[【Rekomendasi Penginapan Ubud Bali】30+ Akomodasi Unik di Ubud, Rasakan Petualangan Indah di Tengah Hutan Bali!](/id/blog/ubud-resorts-guide/)
 
 [【Rekomendasi Penginapan Ubud】Surga Pribadi Vila Kolam Renang Ubud: 20+ Rekomendasi Vila Bali yang Memukau](/id/blog/ubud-villa-pool-guide/)
 

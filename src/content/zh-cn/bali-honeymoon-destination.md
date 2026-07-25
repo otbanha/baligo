@@ -59,7 +59,7 @@ _srcHash: 985155bb95557cc56b64ea1f91140256
 - [巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南](/zh-cn/blog/seminyak-beach-resorts-guide/)
 - [金巴兰住宿推荐【巴厘岛阿雅娜】Ayana Bali 》](/zh-cn/blog/ayana-resort-bali-guide/)
 - [乌鲁瓦图 Uluwatu住宿推荐：12家无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)
-- [巴厘岛住宿推荐：无敌海景金巴兰住宿篇](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)
+- [巴厘岛住宿推荐：无敌海景金巴兰住宿篇](/zh-cn/blog/jimbaran-beachfront-hotels-guide/)
 - [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/zh-cn/blog/bali-family-resorts-water-slides/)
 - [巴厘岛家庭亲子自由行：沙努尔攻略地图｜45项吃喝玩乐，还有SPA和住宿推荐喔！](/zh-cn/blog/sanur-guide/)
 - [努沙杜瓦、南湾：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图](/zh-cn/blog/nusa-dua-guide/)

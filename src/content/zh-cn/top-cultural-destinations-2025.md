@@ -32,9 +32,9 @@ _srcHash: 3fa012366529c1a6d6dcf6623ed73ce7
 
 - [巴厘岛旅游注意事项：第一次去巴厘岛必看的31项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
 - [【巴厘岛必知】99%游客都在偷偷搜寻的超尴尬41个问题！巴厘岛旅游自由行攻略](/zh-cn/blog/bali-travel-faqs-guide/)
-- [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
+- [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/bali-accommodation-area-guide/)
 - [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [库塔必访50个景点攻略](/zh-cn/blog/kuta-guide/)
 - [坎古80个必游景点](/zh-cn/blog/canggu-guide/)
 - [乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
 - [金巴兰攻略](/zh-cn/blog/jimbaran-guide/)

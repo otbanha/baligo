@@ -48,7 +48,7 @@ _srcHash: 749b8f88f861ee795b3981b73cd22c94
 
 **快速参考：**
 
-> 基本认识：[认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/2023-12-29-65839fbafd89780001e876b5/)
+> 基本认识：[认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/bali-accommodation-area-guide/)
 
 > 亲子旅游：[巴厘岛亲子旅游推荐/指南](/zh-cn/blog/bali-family-travel-guide-2/)
 
@@ -85,7 +85,7 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 - [巴厘岛坎古完美探险地图：100个必游景点](/zh-cn/blog/canggu-guide/)
 - [巴厘岛金巴兰自由行：推荐30个玩乐景点全攻略](/zh-cn/blog/jimbaran-guide/)
 - [探索巴厘岛乌布：100种深入认识乌布的方式](/zh-cn/blog/ubud-guide/)
-- [巴厘岛库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [巴厘岛库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/kuta-guide/)
 - [乌布家庭亲子旅游活动精选攻略：55项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
 
 ## **3.** 确定住宿预算与地区

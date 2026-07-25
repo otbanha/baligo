@@ -503,7 +503,7 @@ Kami lanjut ke Pura Ulun Danu Bratan, salah satu pura penting di Bali yang wajib
 
 Di perjalanan, kami mampir makan durian lokal di pinggir jalan. Rasanya tipe yang nggak terlalu menyengat, cukup enak di mulut. Meskipun harganya lumayan (satu buah 3 kg sekitar USD$15), mencicipi kuliner lokal tetaplah seru.
 
-> [🥥Panduan Lengkap Musim Durian Bali｜Kapan Paling Wangi dan Termurah?](/id/blog/2026-04-07-065104/)
+> 🥥Panduan Lengkap Musim Durian Bali｜Kapan Paling Wangi dan Termurah?
 
 ### Pura Tanah Lot
 

@@ -48,7 +48,7 @@ Lebih dari 60% PDB Bali berasal dari sektor pariwisata, jadi ketergantungannya t
 
 Udah ada aksi nyata nih: KLM Royal Dutch Airlines ngumumin bakal cancel ratusan penerbangan mulai Mei 2026, termasuk rute ke Indonesia. Ini baru awal sih, yang paling dikhawatirin industri adalah kalau maskapai besar lain ikut-ikutan, sumber turis internasional bakal kena dampak parah.
 
-> Tiket Taiwan ke Bali naik berapa? Cek [di sini](/id/blog/2026-04-09-025558/)
+> Tiket Taiwan ke Bali naik berapa? Cek di sini
 
 ## Bukan cuma tiket internasional, tiket domestik juga ikut melonjak drastis
 

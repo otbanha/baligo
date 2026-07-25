@@ -82,7 +82,7 @@ Ayana Resort 是巴厘岛知名的豪华度假村，拥有壮丽的悬崖景观�
 
 > 【[巴厘岛金巴兰自由行：推荐30个玩乐景点全攻略｜2025旅游指南](/zh-cn/blog/jimbaran-guide/)】
 
-> 【[巴厘岛住宿推荐：无敌海景金巴兰住宿篇](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)】
+> 【[巴厘岛住宿推荐：无敌海景金巴兰住宿篇](/zh-cn/blog/jimbaran-beachfront-hotels-guide/)】
 
 ***
 

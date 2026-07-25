@@ -183,7 +183,7 @@ Di area kolam renang resort, anak-anak bisa puas bermain air sementara orang tua
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta adalah salah satu tempat wisata paling hidup di Bali. Dikenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok buat pemula belajar surfing, tempat ini menarik wisatawan dari seluruh dunia. Di sini kamu bakal nemuin banyak banget toko, restoran, dan tempat hiburan—surga buat yang suka cari sensasi dan belanja. Mau nikmatin suasana pesta yang seru atau lihat sunset yang cantik, Kuta pasti bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips soal Kuta? [Klik di sini](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+Kuta adalah salah satu tempat wisata paling hidup di Bali. Dikenal dengan kehidupan malam yang ramai, jalanan yang sibuk, dan pantai yang cocok buat pemula belajar surfing, tempat ini menarik wisatawan dari seluruh dunia. Di sini kamu bakal nemuin banyak banget toko, restoran, dan tempat hiburan—surga buat yang suka cari sensasi dan belanja. Mau nikmatin suasana pesta yang seru atau lihat sunset yang cantik, Kuta pasti bikin liburanmu penuh kenangan! Mau tahu lebih banyak tips soal Kuta? [Klik di sini](/id/blog/kuta-guide/)
 
 ## Resor Keluarga di Seminyak
 

@@ -6,6 +6,7 @@
  */
 
 import redirectMap from './redirect-map.json';
+import redirectHexMap from './redirect-hex-map.json';
 
 const LANG_COOKIE = 'gobaligo_lang';
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 年
@@ -22,6 +23,22 @@ const CATEGORY_OG = {
   '美食景點活動':   '/cat_pix/8.jpg',
   '旅行技巧':       '/cat_pix/9.jpg',
 };
+
+/**
+ * 舊網址尾端的 vocus 24 碼 hex → 目前的 slug。
+ *
+ * redirect-map.json 只涵蓋「檔名仍是舊格式」的文章；檔案一旦改名成語意 slug，
+ * 舊的 /blog/YYYY-MM-DD-<hex>/ 就查無對應而變成 404。這裡改用 hex 當鍵，
+ * 日期前綴是什麼都能對上。
+ */
+function lookupByVocusHex(pathname) {
+  const m = pathname.match(/^(\/(?:en\/|zh-cn\/|zh-hk\/|id\/)?blog\/).*?([a-f0-9]{24})\/?$/);
+  if (!m) return undefined;
+  const slug = redirectHexMap[m[1]]?.[m[2]];
+  if (!slug) return undefined;
+  const target = `${m[1]}${slug}/`;
+  return target === pathname ? undefined : target;   // 已經在正確網址就別再跳
+}
 
 /**
  * 從 Accept-Language 判斷語系
@@ -75,7 +92,9 @@ export async function onRequest({ request, next }) {
   // 2,000 條靜態規則上限，超過的會被 Cloudflare Pages 靜默丟棄）。
   // 必須放在 isBot 放行之前，搜尋引擎爬蟲也要吃到 301。
   const redirectTarget =
-    redirectMap[pathname] ?? (pathname.endsWith('/') ? undefined : redirectMap[pathname + '/']);
+    redirectMap[pathname] ??
+    (pathname.endsWith('/') ? undefined : redirectMap[pathname + '/']) ??
+    lookupByVocusHex(pathname);
   if (redirectTarget) {
     return new Response(null, {
       status: 301,

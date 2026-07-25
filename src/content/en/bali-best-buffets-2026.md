@@ -212,7 +212,7 @@ Kuta is a popular tourist area in Bali, known for its affordable restaurants and
 
 ![更多庫塔吃喝玩樂介紹](https://images.gobaligo.id/vocus/vocus_af5f967c8bd07bf5a8cd2a357fb4a2f9.jpg)
 
-Kuta is Bali's most vibrant tourist hotspot, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surfing beach. The area is packed with countless shops, restaurants, and entertainment venues, making it a perfect destination for thrill-seekers and shopaholics. Whether you're looking to dive into the party scene or soak up a stunning sunset, Kuta promises unforgettable holiday memories! Want more Kuta tips? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/).
+Kuta is Bali's most vibrant tourist hotspot, drawing travelers from around the world with its lively nightlife, bustling streets, and beginner-friendly surfing beach. The area is packed with countless shops, restaurants, and entertainment venues, making it a perfect destination for thrill-seekers and shopaholics. Whether you're looking to dive into the party scene or soak up a stunning sunset, Kuta promises unforgettable holiday memories! Want more Kuta tips? [Click here](/en/blog/kuta-guide/).
 
 ***
 

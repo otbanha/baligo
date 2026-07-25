@@ -45,7 +45,7 @@ Bali Nusa Dua, banyak traveler bilang ini salah satu tempat paling cocok buat li
 Tapi 'cocok' bukan berarti 'gak perlu persiapan sama sekali'. Sebelum berangkat, kuasai beberapa poin penting biar perjalanan ini beneran santai dan menyenangkan.
 
 > Rekomendasi Area Wisata Keluarga di Bali
-> [Seminyak](/id/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/id/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/id/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/id/blog/seminyak-family-travel-2026/) ｜ [Ubud](/id/blog/ubud-family-travel-2026/) ｜ [Sanur](/id/blog/sanur-family-travel-guide-2/)
 
 ***
 
@@ -89,7 +89,7 @@ Bali itu daerah yang sangat religius, di mana-mana ada sesajen dan pura. Kalau a
 
 Kalau di jalan lihat sesajen kecil (Canang Sari) di tanah, jangan diinjak, dan ingatkan anak-anak juga jangan sembarangan menyentuhnya. Semua itu bagian dari ritual sehari-hari umat Hindu, dan jadi bagian penting budaya Bali.
 
-> Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> Baca juga: [Tradisi Sembahyang di Bali: Canang Sari](/id/blog/bali-canang-sari-explained/)
 
 ***
 
@@ -135,7 +135,7 @@ Anak yang agak lebih besar (disarankan usia 8 tahun ke atas) bisa coba banana bo
 
 Waterboom Bali, yang jaraknya sekitar 30 menit berkendara dari Nusa Dua, adalah salah satu taman air dengan rating tertinggi se-Asia. Di sini ada seluncuran air yang cocok untuk segala usia, mulai dari area khusus balita sampai seluncuran super cepat yang bikin orang dewasa gemeteran, bisa main seharian dengan santai. Disarankan datang di hari kerja biar nggak terlalu ramai, jangan lupa siapkan tabir surya dan baju ganti.
 
-> [【Wajib Coba Bareng Anak di Bali】Panduan Lengkap Waterbom Bali Water Park: Nomor Satu di Asia, Tips Pembagian Seluncuran & Hemat Tiket](/id/blog/2025-07-28-68875c61fd8978000143d895/)
+> [【Wajib Coba Bareng Anak di Bali】Panduan Lengkap Waterbom Bali Water Park: Nomor Satu di Asia, Tips Pembagian Seluncuran & Hemat Tiket](/id/blog/waterbom-bali-water-park-guide/)
 
 ### 6. 🦜 Taman Budaya Garuda Wisnu Kencana (GWK)
 
@@ -143,7 +143,7 @@ Waterboom Bali, yang jaraknya sekitar 30 menit berkendara dari Nusa Dua, adalah 
 
 GWK Cultural Park terletak di dataran tinggi Uluwatu, dengan patung Dewa Wisnu raksasa yang megah banget — anak-anak pasti melongo melihatnya. Di dalam area taman ada pertunjukan tari tradisional dan musik Bali secara rutin, tempat yang pas buat mengenalkan budaya Hindu ke si kecil. Kalau datang sore, kamu bisa nikmatin sunset dengan latar patung emas raksasa itu — pemandangannya juara!
 
-> [【Ikon Bali】Panduan Lengkap GWK Cultural Park: Patung Tertinggi di Dunia, Pertunjukan Tari Tradisional & Spot Foto Estetik](/id/blog/2025-07-17-68785bf9fd89780001822053/)
+> [【Ikon Bali】Panduan Lengkap GWK Cultural Park: Patung Tertinggi di Dunia, Pertunjukan Tari Tradisional & Spot Foto Estetik](/id/blog/gwk-cultural-park-bali/)
 
 ### 7. 🎨 DIY Kerajinan Tradisional Bali
 
@@ -167,7 +167,7 @@ Belajar masak masakan Bali bareng koki lokal makin populer di kalangan wisatawan
 
 Pertunjukan panggung besar yang cuma diadakan tiga kali seminggu ini bakal ngajak kamu menjelajahi budaya lima pulau utama Indonesia lewat musik, tari, dan akrobat udara. Cocok buat semua umur, wajib banget ditonton!
 
-> Kami punya penjelasan lengkap, cek [di sini](/id/blog/2025-06-21-68557a29fd897800017f4272/)
+> Kami punya penjelasan lengkap, cek [di sini](/id/blog/devdan-show-nusa-dua/)
 
 ### 10. Bali Exotic Marine Park｜Lompat ke Birunya Laut, Dunia Air Impian Berdansa Bareng Lumba-lumba
 
@@ -393,7 +393,7 @@ Bawa anak liburan tuh paling takut dua hal: anak kurang puas main, orang tua ngg
 Inilah gambaran liburan keluarga di Bali yang paling ideal menurut para traveler.
 
 > Zona rekomendasi liburan keluarga di Bali
-> [Seminyak](/id/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/id/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/id/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/id/blog/seminyak-family-travel-2026/) ｜ [Ubud](/id/blog/ubud-family-travel-2026/) ｜ [Sanur](/id/blog/sanur-family-travel-guide-2/)
 
 {{block:親子}}
 

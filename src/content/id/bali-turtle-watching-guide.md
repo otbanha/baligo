@@ -31,7 +31,7 @@ Artikel ini udah aku rangkumin **spot terbaru 2025 buat lihat dan ikut kegiatan 
 
 ![1⃣ BSTS — Bali Sea Turtle Society（庫塔）](https://images.gobaligo.id/vocus/vocus_10d8cb87fd3795c13748ec3da6d89767.jpg)
 
-📍 **Lokasi**: Kuta Beach (di samping Pantai Kuta, cek [peta panduan Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/))
+📍 **Lokasi**: Kuta Beach (di samping Pantai Kuta, cek [peta panduan Kuta](/id/blog/kuta-guide/))
 
 🌐 **Situs Resmi**: <https://baliseaturtle.org/>
 

@@ -110,7 +110,7 @@ Ubud nggak bisa dijelasin cuma pakai beberapa kalimat doang. Kalau mau kenal leb
 
 Di Ubud juga banyak pilihan akomodasi, dari villa di tengah hutan, resort bintang lima, sampai hostel dan homestay yang ramah di kantong. Mau kamu suka yang di pusat kota atau yang nuansa pedesaan, pasti ada yang cocok. Yuk intip:
 
-- [【Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Petualangan di Tengah Hutan Bali!](/id/blog/ubud-villas-pool-guide/)
+- [【Akomodasi Ubud Bali】28 Penginapan Unik di Ubud, Rasakan Petualangan di Tengah Hutan Bali!](/id/blog/ubud-resorts-guide/)
 - [Jelajahi 10 Tree House / Bamboo Villa di Ubud yang Bikin Speechless](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 - [【Rekomendasi Penginapan Ubud】Surga Pribadi Villa dengan Kolam Renang: 18 Villa Bali yang Bikin Tercengang](/id/blog/ubud-villa-pool-guide/)
 - [Rekomendasi Penginapan Yoga di Ubud: 10 Pilihan Impian buat Relaksasi Jiwa](/id/blog/ubud-yoga-retreats-bali/)

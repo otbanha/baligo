@@ -295,7 +295,7 @@ _srcHash: e3f276719d2f6989a39a95483344bcbd
 
 - [峇里島十大美食｜巴里島旅遊嘅八大注意事項](/zh-hk/blog/bali-travel-tips/)
 - [水明漾美食攻略](/zh-hk/blog/seminyak-guide/)
-- [庫塔美食攻略](/zh-hk/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [庫塔美食攻略](/zh-hk/blog/kuta-guide/)
 - [坎古美食攻略](/zh-hk/blog/canggu-guide/)
 - [烏布美食攻略](/zh-hk/blog/ubud-guide/)
 - [金巴蘭攻略](/zh-hk/blog/jimbaran-guide/)

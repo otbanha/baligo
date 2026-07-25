@@ -52,7 +52,7 @@ Selama liburan di Bali, milih transportasi yang cocok itu kunci biar perjalanan 
 - Pengin ngobrol atau dapet penjelasan dasar ▶ sewa mobil + sopir
 - Mau kenalan sama teman lokal di Bali ▶ sewa mobil + sopir
 
-**Ada rekomendasi driver sewa mobil yang bagus?** [Cek di sini](/id/blog/2023-07-26-64db6b83fd897800013a9994/)
+**Ada rekomendasi driver sewa mobil yang bagus?** Cek di sini
 
 > Baca juga: [Panduan Lengkap Sewa Mobil Pribadi di Bali - Biaya, Cara Pesan, Kelebihan](/id/blog/bali-private-car-hire-guide/)
 

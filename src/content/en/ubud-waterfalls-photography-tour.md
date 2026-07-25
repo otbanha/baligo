@@ -39,7 +39,7 @@ In the first few days in Bali, we stayed at the Sheraton Bali Kuta Resort—the 
 
 ![出發前的準備](https://images.gobaligo.id/vocus/vocus_25c77ae3894da2cae177666ebed9781f.jpg)
 
-Want more Kuta travel tips? [Click here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+Want more Kuta travel tips? [Click here](/en/blog/kuta-guide/)
 
 The day before departure, we received a confirmation message from our photographer-guide, Udin, via WhatsApp, detailing the pickup time and location. Since we chose the Bali professional photographer day tour, which includes camera and drone photography services, we were filled with anticipation for the journey ahead.
 

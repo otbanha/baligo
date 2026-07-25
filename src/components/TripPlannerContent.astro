@@ -1155,7 +1155,8 @@ const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
   <div class="spot-pop-body">
     <span id="spot-pop-tag"></span>
     <div id="spot-pop-title"></div>
-    <a id="spot-pop-link" href="#" target="_blank" rel="noopener noreferrer"></a>
+    <!-- href 由 JS 從 ALL_SPOTS_DATA 帶入，目的地皆為 Klook 聯盟連結 → 需標註 sponsored -->
+    <a id="spot-pop-link" href="#" target="_blank" rel="noopener noreferrer sponsored nofollow"></a>
   </div>
 </div>
 
@@ -2710,7 +2711,7 @@ const ACCOM_DEFAULTS = {
       { title: 'Holiday Inn Resort Bali Canggu 峇里島長谷假日酒店', url: '/blog/holiday-inn-bali-canggu/', tag: '親子' },
     ],
     ubud: [
-      { title: '【烏布住宿推薦】30 間森林系渡假村：阿漾河谷懸崖到隱世梯田 Villa', url: '/blog/ubud-villas-pool-guide/', tag: '森林Villa' },
+      { title: '【烏布住宿推薦】30 間森林系渡假村：阿漾河谷懸崖到隱世梯田 Villa', url: '/blog/ubud-resorts-guide/', tag: '森林Villa' },
       { title: '【烏布住宿推薦】烏布 Villa 泳池別墅私密天堂 20 間推薦', url: '/blog/ubud-villa-pool-guide/', tag: 'Villa' },
       { title: 'Bidadari Private Villas & Retreat — 峇里島烏布的隱世天堂', url: '/blog/bidadari-private-villas-ubud/', tag: '隱世' },
       { title: '烏布新地標開幕：Hiliwatu 萬豪精選酒店打造峇里島奢華新體驗', url: '/blog/hiliwatu-marriott-ubud/', tag: '新開幕' },
@@ -2745,7 +2746,7 @@ const ACCOM_DEFAULTS = {
       { title: 'Holiday Inn Resort Bali Canggu: Best Family Hotel', url: '/blog/holiday-inn-bali-canggu/', tag: 'Family' },
     ],
     ubud: [
-      { title: '30 Forest Resorts in Ubud: From Cliff Villas to Rice Terrace Hideaways', url: '/blog/ubud-villas-pool-guide/', tag: 'Forest Villa' },
+      { title: '30 Forest Resorts in Ubud: From Cliff Villas to Rice Terrace Hideaways', url: '/blog/ubud-resorts-guide/', tag: 'Forest Villa' },
       { title: '20 Private Pool Villas in Ubud: Your Secret Paradise', url: '/blog/ubud-villa-pool-guide/', tag: 'Villa' },
       { title: 'Bidadari Private Villas & Retreat — Ubud\'s Hidden Heaven', url: '/blog/bidadari-private-villas-ubud/', tag: 'Hidden' },
       { title: 'Hiliwatu Ubud: Marriott Autograph Collection Opens in Bali', url: '/blog/hiliwatu-marriott-ubud/', tag: 'New' },
@@ -2780,7 +2781,7 @@ const ACCOM_DEFAULTS = {
       { title: 'Holiday Inn Resort Bali Canggu: Hotel Keluarga Terbaik', url: '/blog/holiday-inn-bali-canggu/', tag: 'Keluarga' },
     ],
     ubud: [
-      { title: '30 Resort Hutan di Ubud: Villa Tepi Tebing hingga Sawah Terasering', url: '/blog/ubud-villas-pool-guide/', tag: 'Villa Hutan' },
+      { title: '30 Resort Hutan di Ubud: Villa Tepi Tebing hingga Sawah Terasering', url: '/blog/ubud-resorts-guide/', tag: 'Villa Hutan' },
       { title: '20 Villa Kolam Renang Pribadi di Ubud: Surga Tersembunyi', url: '/blog/ubud-villa-pool-guide/', tag: 'Villa' },
       { title: 'Bidadari Private Villas & Retreat — Surga Tersembunyi di Ubud', url: '/blog/bidadari-private-villas-ubud/', tag: 'Tersembunyi' },
       { title: 'Hiliwatu Ubud: Marriott Autograph Collection Buka di Bali', url: '/blog/hiliwatu-marriott-ubud/', tag: 'Baru' },
@@ -2824,7 +2825,7 @@ const ACCOM_DEFAULTS = {
       { title: 'Holiday Inn Resort Bali Canggu 巴厘岛长谷假日酒店', url: '/blog/holiday-inn-bali-canggu/', tag: '亲子' },
     ],
     ubud: [
-      { title: '【乌布住宿推荐】30间森林系度假村：河谷悬崖到隐世梯田Villa', url: '/blog/ubud-villas-pool-guide/', tag: '森林Villa' },
+      { title: '【乌布住宿推荐】30间森林系度假村：河谷悬崖到隐世梯田Villa', url: '/blog/ubud-resorts-guide/', tag: '森林Villa' },
       { title: '【乌布住宿推荐】乌布Villa泳池别墅私密天堂20间推荐', url: '/blog/ubud-villa-pool-guide/', tag: 'Villa' },
       { title: 'Bidadari Private Villas & Retreat — 巴厘岛乌布的隐世天堂', url: '/blog/bidadari-private-villas-ubud/', tag: '隐世' },
       { title: '乌布新地标开幕：Hiliwatu万豪精选酒店打造巴厘岛奢华新体验', url: '/blog/hiliwatu-marriott-ubud/', tag: '新开幕' },

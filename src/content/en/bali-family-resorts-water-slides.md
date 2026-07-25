@@ -40,7 +40,7 @@ This article introduces the top 15 family resorts with water slides in Bali. The
 
 ## Kuta/Legian
 
-(Extended reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/2023-12-13-657598bdfd8978000120fe20/))
+(Extended reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Vibrant Nightlife, Food, and Recommended Spas](/en/blog/kuta-guide/))
 
 ### **Hard Rock Hotel Bali**
 

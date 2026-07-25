@@ -69,7 +69,7 @@ Sebagai blogger yang udah lama mendalami dunia travel Bali, kali ini gue bakal j
 
 ![2. CP值超高的奢華體驗](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
-Dibanding harga-harga mahal di Eropa, Amerika, atau Taiwan, di Bali kamu bisa dapetin **Villa bintang lima, SPA di tebing, dinner di pantai pribadi** cuma dengan setengah budget. Rekomendasi: [villa kolam renang pribadi di Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/), [sunset gila di Rock Bar Ayana Jimbaran](/id/blog/ayana-resort-bali-guide/), [hotel pemandangan hutan di Ubud](/id/blog/ubud-villas-pool-guide/), [resor bintang lima di Nusa Dua](/id/blog/nusa-dua-resorts-guide/).
+Dibanding harga-harga mahal di Eropa, Amerika, atau Taiwan, di Bali kamu bisa dapetin **Villa bintang lima, SPA di tebing, dinner di pantai pribadi** cuma dengan setengah budget. Rekomendasi: [villa kolam renang pribadi di Seminyak](/id/blog/seminyak-private-villas-guide/), [sunset gila di Rock Bar Ayana Jimbaran](/id/blog/ayana-resort-bali-guide/), [hotel pemandangan hutan di Ubud](/id/blog/ubud-resorts-guide/), [resor bintang lima di Nusa Dua](/id/blog/nusa-dua-resorts-guide/).
 
 ### 3. **Hidup Lokal yang Nggak Ada Duanya**
 
@@ -102,7 +102,7 @@ Dari **Nusa Penida** berenang bareng ikan pari manta, **Ubud** arung jeram/ATV, 
 - **Guide Super Lengkap**:
 
 1. [100 Spot Wisata di Seminyak, Bali](/id/blog/seminyak-guide/)
-2. [50 Spot Wajib Kunjung di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+2. [50 Spot Wajib Kunjung di Kuta](/id/blog/kuta-guide/)
 3. [100 Tempat Wisata Wajib di Canggu](/id/blog/canggu-guide/)
 4. [100 Cara Eksplorasi Ubud](/id/blog/ubud-guide/)
 5. [Guide Jimbaran](/id/blog/jimbaran-guide/)

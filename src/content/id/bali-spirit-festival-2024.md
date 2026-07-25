@@ -94,7 +94,7 @@ Tiket Bali Spirit Festival udah dijual nih, [buruan beli](https://www.balispirit
 
 Pas festival, akomodasi di Ubud bisa penuh banget, jadi siapin tempat nginep dari jauh-jauh hari.
 
-> [【Akomodasi Ubud Bali】21 Penginapan Unik di Ubud, Nikmati Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-villas-pool-guide/)
+> [【Akomodasi Ubud Bali】21 Penginapan Unik di Ubud, Nikmati Petualangan di Tengah Pemandangan Alam Bali!](/id/blog/ubud-resorts-guide/)
 
 > [Jelajahi 8 Vila Pohon/Bambu yang Bikin Terpana di Ubud (tree house/bamboo villa)](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
@@ -132,7 +132,7 @@ Kamu bisa naik taksi atau pakai jasa antar-jemput buat sampai ke lokasi festival
 
 ## Baca Juga
 
-> [Panduan Mengenal Wilayah Bali: Rekomendasi Hotel di Bali - Kenalan Sama Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
+> [Panduan Mengenal Wilayah Bali: Rekomendasi Hotel di Bali - Kenalan Sama Kuta, Seminyak, Canggu, Ubud](/id/blog/2026-02-24-65839fbafd89780001e876b5/)
 
 > [Panduan Lengkap Ubud 2024: 50 Cara Kenal Lebih Dalam Sama Ubud｜Eksplor Pesona Ubud](/id/blog/ubud-guide/)
 

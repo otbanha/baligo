@@ -155,7 +155,7 @@ Those in the know always go to Prema Rasa for souvenirs.
 
 - **14:30**: Depart for the airport. The beauty of spending your last day around Kuta and Jimbaran is that you won't have to worry about missing your flight!
 
-> (Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA Collection](/en/blog/2023-12-13-657598bdfd8978000120fe20/))  
+> (Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA Collection](/en/blog/kuta-guide/))  
 > (Further Reading: [Jimbaran Independent Travel: 31 Fun Attractions Guide](/en/blog/jimbaran-guide/))
 
 - **16:30**: Say goodbye to Bali and take off on time.

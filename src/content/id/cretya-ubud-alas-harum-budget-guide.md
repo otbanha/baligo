@@ -96,7 +96,7 @@ Industri pariwisata Ubud didukung oleh akomodasi yang lengkap, dari hostel murah
 
 ![烏布的住宿選擇](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
-- [【Bali Ubud住宿】Ubud 28家特色住宿，體驗Bali山林美景中的奇幻之旅！](/id/blog/ubud-villas-pool-guide/)
+- [【Bali Ubud住宿】Ubud 28家特色住宿，體驗Bali山林美景中的奇幻之旅！](/id/blog/ubud-resorts-guide/)
 - [探索Ubud 9家令人嘆為觀止的樹屋/竹屋別墅 tree house/bamboo villa](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 - [【Ubud住宿推薦】泳池別墅私密天堂: Ubud 20間令人驚艷的Bali villa](/id/blog/ubud-villa-pool-guide/)
 - [Ubud瑜伽住宿推薦：10間結合瑜珈課程與心靈放鬆的夢幻選擇](/id/blog/ubud-yoga-retreats-bali/)

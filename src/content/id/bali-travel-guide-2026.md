@@ -58,7 +58,7 @@ Berikut link-link berguna yang disebut di video:
 
 ### Kuta/Legian/Seminyak/Canggu/Ubud
 
-- [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [50 Tempat Wajib Dikunjungi di Kuta](/id/blog/kuta-guide/)
 - [100 Tempat Hits di Seminyak](/id/blog/seminyak-guide/)
 - [100 Tempat Wajib Dikunjungi di Canggu](/id/blog/canggu-guide/)
 - [100 Cara Eksplor Ubud](/id/blog/ubud-guide/)

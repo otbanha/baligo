@@ -38,13 +38,13 @@ Bali itu destinasi wisata yang indah banget, kaya budaya, dan punya daya tarik u
 
 ![{小傑印尼} 最愛的司機，每次來必指定！](https://images.gobaligo.id/vocus/vocus_00dce92754e6b20545eeeb0c3d087e34.jpg)
 
-[{Xiao Jie Indonesia} Supir favorit, tiap ke Bali pasti pilih dia!](/id/blog/bali-private-driver-recommendation/)
+[{Xiao Jie Indonesia} Supir favorit, tiap ke Bali pasti pilih dia!](/id/blog/Gede-Arimbawa/)
 
 ## Moda Transportasi Terbaik buat Liburan di Bali
 
 ### **Kelebihan Sewa Mobil**
 
-Kalau cuma perjalanan pendek di kota, kayak yang udah kita bahas di artikel '[Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Kehidupan Malam, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/2023-12-13-657598bdfd8978000120fe20/)', '[Peta Tempat Wajib di Seminyak Bali: 100 Panduan Lengkap Makan, Minum, & Seru-seruan 2026](/id/blog/seminyak-guide/)', '[Peta Petualangan Seru di Canggu Bali: 100 Tempat Wajib Kunjung 2026](/id/blog/canggu-guide/)', mending pake ojek online aja (baca juga: '[Cara Pakai Ojek Online di Bali?](/id/blog/gojek-bali-guide/)'). Tapi kalau sehari mau keliling 2-3 tempat wisata, sewa mobil adalah paling ideal. Ini dia kelebihan uniknya:
+Kalau cuma perjalanan pendek di kota, kayak yang udah kita bahas di artikel '[Panduan Wisata Kuta Bali: 50 Tempat Wajib Kunjung, Kehidupan Malam, Kuliner, & Rekomendasi SPA Lengkap](/id/blog/kuta-guide/)', '[Peta Tempat Wajib di Seminyak Bali: 100 Panduan Lengkap Makan, Minum, & Seru-seruan 2026](/id/blog/seminyak-guide/)', '[Peta Petualangan Seru di Canggu Bali: 100 Tempat Wajib Kunjung 2026](/id/blog/canggu-guide/)', mending pake ojek online aja (baca juga: '[Cara Pakai Ojek Online di Bali?](/id/blog/gojek-bali-guide/)'). Tapi kalau sehari mau keliling 2-3 tempat wisata, sewa mobil adalah paling ideal. Ini dia kelebihan uniknya:
 
 1. **Tenang Urus Tukar Uang & Beli SIM Card** Di negara asing, urusan tukar uang dan beli SIM card bisa bikin pusing. Supir sewa mobil gak cuma tahu daerah setempat, tapi juga bisa kasih saran biar kamu dapet harga terbaik dan gak kena tipu.
 2. **Supir Profesional & Aman** Supir sewa mobil biasanya hafal jalan dan kondisi lalu lintas Bali, jadi perjalanan lebih aman dan lancar. Mereka juga bisa kasih rekomendasi tempat wisata, kuliner, dan lain-lain.
@@ -59,7 +59,7 @@ Intinya, sewa mobil di Bali bukan cuma alat transportasi, tapi juga teman setia 
 
 ![峇里島司機 Gede Arimbawa 提供](https://images.gobaligo.id/vocus/vocus_59d9e88e1887ee543b65195c87773829.jpg)
 
-[Disediakan oleh Sopir Bali Gede Arimbawa](/id/blog/bali-private-driver-recommendation/)
+[Disediakan oleh Sopir Bali Gede Arimbawa](/id/blog/Gede-Arimbawa/)
 
 ### Gimana Cara Pesan Layanan Sewa Mobil di Bali?
 

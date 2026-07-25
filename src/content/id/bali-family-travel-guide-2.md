@@ -69,7 +69,7 @@ Selain itu, Bali juga punya layanan sewa perlengkapan bayi (bisa dipesan lewat K
 
 > [【Rekomendasi Akomodasi Bali】Liburan Keluarga Tanpa Berdesakan! 13 Resor Ramah Keluarga dengan Kamar Quad — Analisis Lengkap Berdasarkan Zona](/id/blog/bali-family-room-resorts/)
 
-> [Panduan Liburan Keluarga dengan Anak dan Lansia: Rekomendasi 4 Zona Utama, Cuaca Musim Kemarau, dan Akomodasi](/id/blog/2026-03-30-113245/)
+> Panduan Liburan Keluarga dengan Anak dan Lansia: Rekomendasi 4 Zona Utama, Cuaca Musim Kemarau, dan Akomodasi
 
 {{block:親子}}
 

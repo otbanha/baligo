@@ -91,15 +91,15 @@ update: 2026/05/22
 
 這次頒獎典禮就在 The Meru Sanur 旁邊的峇里海灘會議中心舉辦，涵蓋整個亞洲的飯店、餐廳和酒吧評選。
 
-在印尼飯店二十強名單裡，峇里島拿下了 11 個席次，包括 [Mandapa（麗思卡爾頓Reserve系列）](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)、[Capella Ubud](/blog/capella-ubud-luxury-resort/)、[Apurva Kempinski ](/blog/apurva-kempinski-bali-nusa-dua/)等常年霸榜的名字。The Meru Sanur 能在這些老牌強敵中以「新飯店」身份脫穎而出，不只是靠硬體，更是因為它把印尼待客文化做得很到位。
+在印尼飯店二十強名單裡，峇里島拿下了 11 個席次，包括 [Mandapa（麗思卡爾頓Reserve系列）](/blog/ubud-resorts-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)、[Capella Ubud](/blog/capella-ubud-luxury-resort/)、[Apurva Kempinski ](/blog/apurva-kempinski-bali-nusa-dua/)等常年霸榜的名字。The Meru Sanur 能在這些老牌強敵中以「新飯店」身份脫穎而出，不只是靠硬體，更是因為它把印尼待客文化做得很到位。
 
 ### 詳細名單
 
 在印尼飯店二十強名單裡，峇里島拿下了 11 個席次。以下是這次上榜的峇里島飯店完整清單：
 
-1. **Mandapa, a Ritz-Carlton Reserve**（烏布） 懸崖上的叢林秘境，俯瞰 Ayung 河谷，麗思卡爾頓儲備系列中最受推崇的亞洲物件之一。→ [查看詳細介紹](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
+1. **Mandapa, a Ritz-Carlton Reserve**（烏布） 懸崖上的叢林秘境，俯瞰 Ayung 河谷，麗思卡爾頓儲備系列中最受推崇的亞洲物件之一。→ [查看詳細介紹](/blog/ubud-resorts-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
 2. **Alila Villas Uluwatu**（烏魯瓦圖） 峭壁邊緣的極簡風格莊園，無邊際泳池直面印度洋，是烏魯瓦圖最具代表性的頂級住宿。→ [查看詳細介紹](/blog/alila-villas-uluwatu-bali/)
-3. **Padma Resort Ubud**（烏布） 隱身在烏布山谷的大型渡假村，以超長無邊際泳池和壯闊的梯田景觀聞名。→ [查看詳細介紹](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
+3. **Padma Resort Ubud**（烏布） 隱身在烏布山谷的大型渡假村，以超長無邊際泳池和壯闊的梯田景觀聞名。→ [查看詳細介紹](/blog/ubud-resorts-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
 4. **Bvlgari Resort Bali**（烏魯瓦圖） 精品奢華天花板，全棟僅數十間獨立別墅，今年更榮獲「年度最佳飯店」大獎。→ [查看詳細介紹](/blog/bvlgari-resort-bali-uluwatu/)
 5. **Capella Ubud**（烏布） 峇里島唯一頂級「豪華露營」體驗，帳篷式別墅高懸叢林，附私人鹽水泳池和營火。→ [查看詳細介紹](/blog/capella-ubud-luxury-resort/)
 6. **The Apurva Kempinski Bali**（努沙杜瓦） 外型像一座巨型印尼神廟從海崖傾瀉而下，建築本身就是看點，海景無敵。→ [查看詳細介紹](/blog/apurva-kempinski-bali-nusa-dua/)

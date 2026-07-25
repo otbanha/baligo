@@ -44,4 +44,4 @@ Jadi, akhirnya dia apply visa lagi di tempat dan bayar lagi. Cerita ini menginga
 
 Sebelum membaca **"Panduan Liburan Mandiri ke Bali Paling Lengkap"** kami, kami dengan tulus mengundang kamu untuk subscribe dulu channel YouTube kami **"Xiao Jie Indonesia"** yang lebih fokus berbagi pengalaman visual. [Klik di sini](http://bit.ly/youtube-jason) untuk subscribe sekarang
 
-Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **"**[**Panduan Liburan Mandiri ke Bali Paling Lengkap**](/id/blog/2023-08-22-64e37f2dfd89780001b1f776/)**"** untuk mulai persiapkan perjalananmu ke Bali!
+Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **"****Panduan Liburan Mandiri ke Bali Paling Lengkap****"** untuk mulai persiapkan perjalananmu ke Bali!

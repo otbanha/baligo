@@ -485,7 +485,7 @@ Location: Naughty Nuri's Warung, Sanur
 
 Visit this fun upside-down world and take memorable photos.
 
-> Read more: [Kuta 50 Must-Visit Attractions Guide](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Read more: [Kuta 50 Must-Visit Attractions Guide](/en/blog/kuta-guide/)
 
 **Hotel Stay**
 
@@ -519,7 +519,7 @@ Enjoy the sunshine and beach activities at Kuta Beach.
 
 Location: Discovery Shopping Mall
 
-> Further Reading: [50 Must-Visit Spots in Kuta](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Further Reading: [50 Must-Visit Spots in Kuta](/en/blog/kuta-guide/)
 
 **DPS Airport**
 

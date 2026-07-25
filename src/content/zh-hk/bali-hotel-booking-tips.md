@@ -64,7 +64,7 @@ _srcHash: dad0080a600a8929ef2bf958e11b4d09
 
 考慮租別墅或者公寓，特別係如果你同屋企人或者朋友一齊去旅行。咁樣通常比住酒店更經濟實惠，而且仲有更多機會可以一齊開心。睇吓我哋嘅推薦：
 
-- [【峇里島住宿推薦】VILLA泳池別墅私密天堂：水明漾15間令人驚艷嘅峇里島秘密花園](/zh-hk/blog/2024-04-04-660e6e92fd89780001e6047e/)
+- [【峇里島住宿推薦】VILLA泳池別墅私密天堂：水明漾15間令人驚艷嘅峇里島秘密花園](/zh-hk/blog/seminyak-private-villas-guide/)
 - [CP值超高，唔使美金$30入住11間峇里島精品酒店，網美相影唔停！](/zh-hk/blog/bali-boutique-hotels-under-30/)
 - [峇里島villa推薦：高CP值villa 20間推薦（上集）](/zh-hk/blog/bali-best-villas-top20-part1/)
 - [峇里島Villa CP值最高 浪漫villa推薦 - 共20間 (下集)](/zh-hk/blog/bali-best-villas-top20-part2/)

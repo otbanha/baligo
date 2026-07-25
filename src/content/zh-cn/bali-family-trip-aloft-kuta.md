@@ -136,7 +136,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ![雜記&心得](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-想了解更多库塔攻略？[请点击这里](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)
+想了解更多库塔攻略？[请点击这里](/zh-cn/blog/kuta-guide/)
 
 ## 巴厘岛包车司机推荐
 

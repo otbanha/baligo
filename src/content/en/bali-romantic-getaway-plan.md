@@ -157,7 +157,7 @@ That night, we stayed at **The Claremont Luxury Villas**, right in the heart of 
 
 If you're on a budget but still want a stylish, well-located villa, definitely jot this one down ✅.
 
-▶For a detailed introduction to The Claremont Luxury Villas' surroundings, facilities, and rooms, please see [here](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+▶For a detailed introduction to The Claremont Luxury Villas' surroundings, facilities, and rooms, please see [here](/en/blog/seminyak-private-villas-guide/)
 
 {{block:smk}}
 

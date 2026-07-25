@@ -135,7 +135,7 @@ Selain itu, di Ubud dan sekitarnya masih banyak tempat keren lain yang patut dik
 
 Ke Bali bingung mau nginep di mana? Coba deh pertimbangkan pusat kota Ubud, kota ini salah satu tempat terbaik buat nginep di Bali, dan banyak pilihan akomodasi dengan pemandangan alam pegunungan yang keren. Cek rekomendasi penginapan di Ubud berikut:
 
-[> 烏布28家特色住宿，體驗峇里島山林美景中的奇幻之旅！](/id/blog/ubud-villas-pool-guide/)
+[> 烏布28家特色住宿，體驗峇里島山林美景中的奇幻之旅！](/id/blog/ubud-resorts-guide/)
 
 [> 【烏布住宿推薦】烏布泳池別墅私密天堂: 22間令人驚艷的峇里島villa推薦](/id/blog/ubud-villa-pool-guide/)
 
@@ -147,7 +147,7 @@ Kalau kamu belum pernah nyobain surfing, Kuta adalah pantai yang terkenal banget
 
 Kuta bisa dibilang tempat paling rame di Bali, sunset di Pantai Kuta itu keren banget! Tapi belakangan ini, Kuta udah jadi hotspot kehidupan malam di Bali, jadi agak campur aduk gitu. Meskipun begitu, Kuta tetap jadi salah satu tempat favorit turis di Bali. Cek panduan Kuta kita:
 
-[> 庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+[> 庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/id/blog/kuta-guide/)
 
 ## Seminyak 水明漾：時尚與歡樂的聚集地【100個景點介紹】
 
@@ -169,7 +169,7 @@ Tempat ini nggak cuma cocok buat anak muda, tapi juga pas buat liburan keluarga!
 
 > [10 Rekomendasi Penginapan Murah di Area Pusat Seminyak!](/id/blog/seminyak-budget-hotels-guide/)
 
-> [21 Villa Bali yang Bikin Tercengang di Seminyak](/id/blog/2024-04-04-660e6e92fd89780001e6047e/)
+> [21 Villa Bali yang Bikin Tercengang di Seminyak](/id/blog/seminyak-private-villas-guide/)
 
 > [【水明漾】不超過100美元的平價峇里島villa推薦](/id/blog/seminyak-budget-villas-guide/)
 
@@ -207,7 +207,7 @@ Selain itu, Jimbaran punya banyak spot seru lainnya! Cek panduan lengkap Jimbara
 
 Kalau kamu mau tenggelam dalam pemandangan laut yang epic di Jimbaran, atau nyebur ke resort Ayana yang punya 14 kolam renang, cek ini:
 
-> [Pemandangan Laut Super Keren — Rekomendasi Penginapan di Jimbaran](/id/blog/2023-11-09-654c6271fd8978000174ff5e/)
+> [Pemandangan Laut Super Keren — Rekomendasi Penginapan di Jimbaran](/id/blog/jimbaran-beachfront-hotels-guide/)
 
 ## Uluwatu: Surga di Ujung Selatan Bali 【45+ Spot Wisata】
 

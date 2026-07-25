@@ -27,6 +27,7 @@ const WRITE_MODE = process.argv.includes('--write');
 
 const REDIRECTS_FILE = join(ROOT, 'public/_redirects');
 const MAP_FILE = join(ROOT, 'functions/redirect-map.json');
+const HEX_MAP_FILE = join(ROOT, 'functions/redirect-hex-map.json');
 const MARKER_START = '# === auto-generated slug redirects (start) ===';
 const MARKER_END   = '# === auto-generated slug redirects (end) ===';
 
@@ -69,6 +70,7 @@ const LANGS = [
   { dir: join(ROOT, 'src/content/en'),    prefix: '/en/blog',      label: '英文 (en)'    },
   { dir: join(ROOT, 'src/content/zh-cn'), prefix: '/zh-cn/blog',   label: '簡中 (zh-cn)' },
   { dir: join(ROOT, 'src/content/zh-hk'), prefix: '/zh-hk/blog',   label: '港版 (zh-hk)' },
+  { dir: join(ROOT, 'src/content/id'),    prefix: '/id/blog',      label: '印尼 (id)'    },
 ];
 
 // ─── 主邏輯 ─────────────────────────────────────────────────
@@ -136,6 +138,38 @@ for (const { dir, prefix, label } of LANGS.slice(1)) {
   }
 }
 
+// ─── hex 對照表 ─────────────────────────────────────────────
+// redirectLines 只涵蓋「檔名仍是舊格式」的文章。檔案一旦被改名成語意 slug，
+// 舊的 /blog/YYYY-MM-DD-<hex>/ 網址就沒有任何規則可循 → 404（Google 索引與
+// 站外連結都吃得到）。這裡改以 vocus 的 24 碼 hex 為鍵，middleware 只要在
+// 路徑尾端看到 hex 就能查回目前的 slug，日期前綴是什麼都無所謂。
+const hexMap = {};
+for (const { dir, prefix } of LANGS) {
+  const table = {};
+  for (const { stem, file } of listArticles(dir)) {
+    let slug = null;
+    let originalUrl = '';
+    try {
+      const { data } = matter(readFileSync(file, 'utf8'));
+      slug = data.slug?.trim() || null;
+      originalUrl = data.originalUrl ?? '';
+    } catch {
+      // 讀不到就只靠檔名的 hex
+    }
+    const route = slug || stem;
+    const hexes = new Set();
+    const fromStem = stem.match(/([a-f0-9]{24})/);
+    if (fromStem) hexes.add(fromStem[1]);
+    const fromOriginal = String(originalUrl).match(/([a-f0-9]{24})/);
+    if (fromOriginal) hexes.add(fromOriginal[1]);
+    for (const h of hexes) {
+      // 檔名帶的 hex 優先於 originalUrl，避免翻譯脫鉤時被覆蓋
+      if (!table[h] || fromStem?.[1] === h) table[h] = route;
+    }
+  }
+  hexMap[prefix + '/'] = table;
+}
+
 // ─── 輸出 ────────────────────────────────────────────────────
 
 console.log('\n╔══════════════════════════════════════════════════════════╗');
@@ -173,6 +207,10 @@ if (WRITE_MODE) {
   }
   writeFileSync(MAP_FILE, JSON.stringify(redirectMap, null, 0) + '\n', 'utf8');
   console.log(`✅  已寫入 functions/redirect-map.json（${Object.keys(redirectMap).length} 條規則）`);
+
+  writeFileSync(HEX_MAP_FILE, JSON.stringify(hexMap, null, 0) + '\n', 'utf8');
+  const hexCount = Object.values(hexMap).reduce((n, t) => n + Object.keys(t).length, 0);
+  console.log(`✅  已寫入 functions/redirect-hex-map.json（${hexCount} 筆 hex 對照）`);
 
   // 移除 _redirects 裡的舊 marker 區塊（一次性遷移，之後為 no-op）
   const existing = readFileSync(REDIRECTS_FILE, 'utf8');

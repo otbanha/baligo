@@ -53,9 +53,9 @@ Mau tahu cara main di Nusa Dua? Cek panduan kami:
 
 ![努沙杜瓦攻略](https://images.gobaligo.id/vocus/vocus_8eb766b4f7c36e1bd9bb27687762de0f.png)
 
-[Panduan Nusa Dua](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Panduan Nusa Dua](/id/blog/nusa-dua-guide/)
 
-[Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Utama Bali 40 Pilihan Kuliner, Aktivitas, Peta Panduan Nusa Dua/Tanjung Benoa](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Nusa Dua, Tanjung Benoa: Destinasi Liburan Mewah Utama Bali 40 Pilihan Kuliner, Aktivitas, Peta Panduan Nusa Dua/Tanjung Benoa](/id/blog/nusa-dua-guide/)
 
 Dari sekian banyak resor di Nusa Dua, ada 16 yang diakui sebagai yang terbaik. Yuk lihat ulasan kami di bawah:
 
@@ -626,6 +626,6 @@ Kenalan Sama Nusa Dua dalam Dua Menit
 
 https://youtu.be/zxDZJ93EqA4?si=6NzwPHfSdfJgCRGY
 
-Nusa Dua & Tanjung Benoa: Destinasi Liburan Mewah Terbaik di Bali — 40 Rekomendasi Akomodasi, Kuliner, & Aktivitas Lengkap dengan Peta. Klik [di sini](/id/blog/2024-01-25-65afb7bbfd897800017023b4/)
+Nusa Dua & Tanjung Benoa: Destinasi Liburan Mewah Terbaik di Bali — 40 Rekomendasi Akomodasi, Kuliner, & Aktivitas Lengkap dengan Peta. Klik [di sini](/id/blog/nusa-dua-guide/)
 
 {{block:住宿}}

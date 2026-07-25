@@ -37,4 +37,4 @@ Sama seperti kebanyakan buah, harga manggis lebih murah saat musim panen. Kalau 
 
 Kalau mau beli manggis segar dan murah di Indonesia, khususnya Bali, biasanya pas musimnya antara Januari sampai April.
 
-> Baca juga: [🥥 Panduan Lengkap Musim Durian di Bali｜Kapan Paling Wangi dan Murah?](/id/blog/2026-04-07-065104/)
+> Baca juga: 🥥 Panduan Lengkap Musim Durian di Bali｜Kapan Paling Wangi dan Murah?

@@ -63,7 +63,7 @@ Daily average cost: US$28.23
 
 ![庫塔必訪50個景點攻略 》請點我](https://images.gobaligo.id/vocus/vocus_f2bb96f43b2afe6befd4cd536d9724f4.jpg)
 
-[50 Must-Visit Spots in Kuta Guide 》Click Here](/en/blog/2023-12-13-657598bdfd8978000120fe20/)
+[50 Must-Visit Spots in Kuta Guide 》Click Here](/en/blog/kuta-guide/)
 
 - **Highlights**: Stunning beaches, vibrant nightlife, and affordable accommodations—perfect for travelers looking to unwind.
 - **Must-do**: Learn to surf or join a beachside yoga class to experience local activities.

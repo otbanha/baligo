@@ -53,7 +53,7 @@ Kenali gaya traveling kamu adalah dasar buat atur itinerary Bali.
 
 **Referensi Cepat:**
 
-> Panduan dasar: [Mengenal Wilayah Bali: Panduan Rekomendasi Akomodasi Bali - Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2023-12-29-65839fbafd89780001e876b5/)
+> Panduan dasar: [Mengenal Wilayah Bali: Panduan Rekomendasi Akomodasi Bali - Kenali Kuta, Seminyak, Canggu, Ubud](/id/blog/2026-02-24-65839fbafd89780001e876b5/)
 
 > Liburan keluarga: [Rekomendasi/Panduan Liburan Keluarga di Bali](/id/blog/bali-family-travel-guide-2/)
 
@@ -90,7 +90,7 @@ Bali punya segalanya: dari santai di pantai, eksplorasi hutan tropis, sampai pen
 - [Peta Petualangan Sempurna di Canggu Bali: 100 Tempat yang Harus Dikunjungi](/id/blog/canggu-guide/)
 - [Panduan Liburan ke Jimbaran Bali: 30 Tempat Wisata Rekomendasi Lengkap](/id/blog/jimbaran-guide/)
 - [Jelajahi Ubud Bali: 100 Cara Mendalami Ubud](/id/blog/ubud-guide/)
-- [Panduan Wisata Kuta Bali: 50 Tempat Hits, Nightlife Seru, Kuliner, & SPA Rekomendasi](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [Panduan Wisata Kuta Bali: 50 Tempat Hits, Nightlife Seru, Kuliner, & SPA Rekomendasi](/id/blog/kuta-guide/)
 - [Panduan Aktivitas Keluarga di Ubud: 55 Kegiatan Seru buat Anak-anak Paling Santai!](/id/blog/ubud-with-kids-guide/)
 
 ## **3.** Tentukan Budget dan Area Menginap

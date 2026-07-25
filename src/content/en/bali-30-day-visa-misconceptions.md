@@ -88,4 +88,4 @@ Indonesia's 30-day visa on arrival offers convenience for travelers, but it's im
 
 Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now!
 
-After subscribing, you can continue reading our detailed guide and explore every fascinating corner of Bali. Click on the **[Ultimate Bali Travel Guide](/en/blog/2023-08-22-64e37f2dfd89780001b1f776/)** to start planning your Bali trip!
+After subscribing, you can continue reading our detailed guide and explore every fascinating corner of Bali. Click on the **Ultimate Bali Travel Guide** to start planning your Bali trip!

@@ -29,7 +29,7 @@ _srcHash: f9ae63684c1dc7abeb684970a951a04b
 
 ![1⃣ BSTS — Bali Sea Turtle Society（庫塔）](https://images.gobaligo.id/vocus/vocus_10d8cb87fd3795c13748ec3da6d89767.jpg)
 
-📍 **地点**：Kuta Beach（库塔海滩旁, 位置请参考[库塔攻略地图](/zh-cn/blog/2023-12-13-657598bdfd8978000120fe20/)）
+📍 **地点**：Kuta Beach（库塔海滩旁, 位置请参考[库塔攻略地图](/zh-cn/blog/kuta-guide/)）
 
 🌐 **官方网站**：<https://baliseaturtle.org/>
 

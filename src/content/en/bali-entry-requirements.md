@@ -68,7 +68,7 @@ This form must be completed **within 3 days before arrival**, with truthful info
 
 Save your completed SSHP as a PDF or screenshot for safekeeping, just in case.
 
-**Quick reference:** [New Indonesia/Bali Entry Rules: Mandatory SSHP Health Declaration Before Flying / Filling Guide](/en/blog/2024-08-30-66d109f9fd89780001f47806/)
+**Quick reference:** New Indonesia/Bali Entry Rules: Mandatory SSHP Health Declaration Before Flying / Filling Guide
 
 ---
 

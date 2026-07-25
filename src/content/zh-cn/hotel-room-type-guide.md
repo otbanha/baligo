@@ -45,7 +45,7 @@ _srcHash: 3ee3ad6bf23dcc12463617a07144605c
 
 ![Ayana Villas 裡的 king size 床，收錄於「金巴蘭住宿推薦」](https://images.gobaligo.id/vocus/vocus_b05e8ba8add16887fd7b682631c5ca21.jpg)
 
-[Ayana Villas 里的 king size 床，收录于「金巴兰住宿推荐」](/zh-cn/blog/2023-11-09-654c6271fd8978000174ff5e/)
+[Ayana Villas 里的 king size 床，收录于「金巴兰住宿推荐」](/zh-cn/blog/jimbaran-beachfront-hotels-guide/)
 
 「Queen Room」和「King Room」是根据床的尺寸来命名的房型。「Queen Room」配置一张女王尺寸的床（Queen Bed），略大于标准双人床，适合两人舒适入住。而「King Room」则拥有国王尺寸的床（King Bed），床铺宽敞，是情侣或夫妻的理想选择。这些房型对于追求高舒适度的旅客来说无疑是一大亮点。
 

@@ -51,7 +51,7 @@ Buat yang baru pertama kali nyoba surfing, Pantai Kuta juara banget. Hamparan pa
 
 Pantai-pantai di dekatnya kayak Legian dan Seminyak juga punya kondisi yang mirip dan ramah buat pemula.
 
-> Panduan Kuta: [Kuta bisa ngapain aja?](/id/blog/2023-12-13-657598bdfd8978000120fe20/)
+> Panduan Kuta: [Kuta bisa ngapain aja?](/id/blog/kuta-guide/)
 
 > Panduan Seminyak: [Seminyak bisa ngapain aja?](/id/blog/seminyak-guide/)
 

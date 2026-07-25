@@ -271,7 +271,7 @@ Your go-to guide for savvy Seminyak travel savings
 **> ▶ Bali Accommodation Guide: **[**Seminyak's Coastal Boutique Stays**](/en/blog/seminyak-beach-resorts-guide/)
 Looking for a top-notch beachfront resort? This is your read
 
-**> ▶ Seminyak Villa Guide: **[**21 Stunning Secret Gardens of Bali in Seminyak**](/en/blog/2024-04-04-660e6e92fd89780001e6047e/)
+**> ▶ Seminyak Villa Guide: **[**21 Stunning Secret Gardens of Bali in Seminyak**](/en/blog/seminyak-private-villas-guide/)
 Stunning private pool villas in Seminyak
 
 **> ▶ Seminyak Affordable Luxury Villa Guide: **[**Bali Villas Under $100**](/en/blog/seminyak-budget-villas-guide/)

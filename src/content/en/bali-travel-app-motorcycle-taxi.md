@@ -53,7 +53,7 @@ Choosing the right transportation during your Bali trip is key to a smooth and e
 - Want to chat or need basic explanations ▶ Private driver
 - Want to make local friends in Bali ▶ Private driver
 
-**Any recommendations for a good private driver?** [Check here](/en/blog/2023-07-26-64db6b83fd897800013a9994/)
+**Any recommendations for a good private driver?** Check here
 
 > Read more: [Bali Private Car Hire Guide – Costs, Booking, and Benefits](/en/blog/bali-private-car-hire-guide/)
 

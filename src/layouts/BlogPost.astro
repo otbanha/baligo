@@ -479,7 +479,7 @@ const spaFaqSchema = isSpaGuide ? {
 </head>
 
 <body>
-  <Header lang={lang ?? 'blog'} slug={slug} />
+  <Header lang={lang ?? 'blog'} slug={slug} availableLangs={[...availLangs]} />
   <TopStrip lang={lang ?? 'zh-tw'} />
   <div class="layout">
 
