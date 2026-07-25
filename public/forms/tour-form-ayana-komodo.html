@@ -194,6 +194,7 @@
       <div class="field">
         <label class="field-label" id="lbl_email"></label>
         <input type="email" name="email" id="emailInput" placeholder="your@email.com">
+        <span class="field-error" id="err_email"></span>
       </div>
     </div>
 
@@ -221,7 +222,7 @@ const T = {
     lbl_intl_flight:'國際線班機', lbl_flight_out:'去程航班（例如：CI771）', lbl_flight_ret:'回程航班（例如：CI772）',
     lbl_komodo_flight:'峇里島－科摩多機票', lbl_komodo_out:'峇里島→科摩多（例如：IN261）', lbl_komodo_ret:'科摩多→峇里島（例如：IN262）',
     lbl_adults:'大人', lbl_children:'小孩（12 歲以下）', lbl_childages:'各小孩年齡',
-    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（選填）',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'想增加或刪除的景點／活動',
     lbl_notes:'其他需求',
     ph_name:'稱呼', ph_line:'帳號或電話',
@@ -250,7 +251,7 @@ const T = {
     lbl_intl_flight:'国际线航班', lbl_flight_out:'去程航班（例如：CI771）', lbl_flight_ret:'回程航班（例如：CI772）',
     lbl_komodo_flight:'巴厘岛－科莫多机票', lbl_komodo_out:'巴厘岛→科莫多（例如：IN261）', lbl_komodo_ret:'科莫多→巴厘岛（例如：IN262）',
     lbl_adults:'成人', lbl_children:'儿童（12 岁以下）', lbl_childages:'各儿童年龄',
-    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（选填）',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'想增加或删除的景点／活动',
     lbl_notes:'其他需求',
     ph_name:'称呼', ph_line:'账号或电话',
@@ -279,7 +280,7 @@ const T = {
     lbl_intl_flight:'國際線航班', lbl_flight_out:'去程航班（例如：CX654）', lbl_flight_ret:'回程航班（例如：CX655）',
     lbl_komodo_flight:'峇里島－科摩多機票', lbl_komodo_out:'峇里島→科摩多（例如：IN261）', lbl_komodo_ret:'科摩多→峇里島（例如：IN262）',
     lbl_adults:'成人', lbl_children:'小朋友（12 歲以下）', lbl_childages:'各小朋友年齡',
-    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（可不填）',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'想增加或刪除嘅景點／活動',
     lbl_notes:'其他需求',
     ph_name:'稱呼', ph_line:'帳號或電話',
@@ -308,7 +309,7 @@ const T = {
     lbl_intl_flight:'International flights', lbl_flight_out:'Outbound (e.g. CI771)', lbl_flight_ret:'Return (e.g. CI772)',
     lbl_komodo_flight:'Bali–Komodo flights', lbl_komodo_out:'Bali→Komodo (e.g. IN261)', lbl_komodo_ret:'Komodo→Bali (e.g. IN262)',
     lbl_adults:'Adults', lbl_children:'Children (under 12)', lbl_childages:"Children's ages",
-    lbl_name:'Name', lbl_line:'LINE / WhatsApp', lbl_email:'Email (optional)',
+    lbl_name:'Name', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'Attractions / activities to add or remove',
     lbl_notes:'Other requests',
     ph_name:'Your name', ph_line:'Account or phone number',
@@ -538,6 +539,9 @@ function validateForm() {
     if (errDiet) errDiet.style.display = 'none';
   }
 
+  // Email
+  if (!document.getElementById('emailInput').value.trim()) { showErr('email', t.errRequired); valid = false; } else showErr('email', '');
+
   // Name
   if (!document.getElementById('nameInput').value.trim()) { showErr('name', t.errRequired); valid = false; } else showErr('name', '');
 
@@ -553,7 +557,8 @@ function isFormReady() {
   const dietSel = document.querySelectorAll('#dietPills .pill.sel');
   const name = document.getElementById('nameInput').value.trim();
   const line = document.getElementById('lineInput').value.trim();
-  return depart && flightSel && dietSel.length > 0 && name && line;
+  const email = document.getElementById('emailInput').value.trim();
+  return depart && flightSel && dietSel.length > 0 && name && line && email;
 }
 
 function updateSubmitBtn() {
@@ -561,7 +566,7 @@ function updateSubmitBtn() {
 }
 
 // Live listeners
-['depart','nameInput','lineInput'].forEach(id => {
+['depart','nameInput','lineInput','emailInput'].forEach(id => {
   const el = document.getElementById(id);
   if (el) el.addEventListener('input', updateSubmitBtn);
 });
