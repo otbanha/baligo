@@ -185,7 +185,7 @@ Ubud is Bali's cultural heart, located inland on the island. The pool experience
 
 **Hotel Introduction:** Kamandalu Ubud is a luxury resort nestled in the heart of Ubud, renowned for its infinity pool overlooking the lush Ubud forest. This is a true five-star resort, with its entire design concept centered around 'luxury in the forest.' Awana Pool & Lounge is the hotel's flagship facility, combining a pool, lounge, bar, and dining.
 
-🔗 **Booking Link:** [Klook](https://www.klook.com/en-US/activity/24655-awana-pool-lounge-day-pass-kamandalu-bali/?spm=SearchResult.SearchResult_LIST&clickId=4dc2a16f75)
+🔗 **Booking Link:** [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F24655-awana-pool-lounge-day-pass-kamandalu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4dc2a16f75)
 
 **Ticket Price:** USD$36-37 (3-5 hours)
 

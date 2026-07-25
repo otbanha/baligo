@@ -47,7 +47,7 @@ Di episode pertama seri Canggu ini, kita bahas dulu sejarah perkembangan Canggu 
 
 Cuplikan video Xiao Jie
 
-[Masih penasaran sama Canggu? Cek sini yuk!](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Masih penasaran sama Canggu? Cek sini yuk!](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Bali mulai berkembang dari Kuta dan Legian, jadi kawasan paling rame di seluruh Bali. Dulu kita pernah bikin satu episode 'Panduan Kuta', jadi kalau liburan ke Bali jangan lupa cek '[Panduan Kuta](/id/blog/kuta-guide/)' ya!
 
@@ -65,7 +65,7 @@ Kalau lanjut ke utara, sekitar 15 menit dari Seminyak, sampailah kita di Canggu.
 
 Screenshot video Jie
 
-[Masih penasaran sama Canggu? Cek sini yuk!](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Masih penasaran sama Canggu? Cek sini yuk!](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Canggu adalah tempat hits yang baru muncul beberapa tahun terakhir. Lokasinya dekat dengan objek wisata terkenal di pesisir barat Bali, Pura Tanah Lot — cuma sekitar 10-15 menit berkendara. Pura Tanah Lot adalah tempat unik yang cuma bisa dimasuki saat air laut surut. Konon katanya, di gua abrasi bawah pura ada ular laut raksasa belang hitam putih yang menjaga pura ini.
 
@@ -77,7 +77,7 @@ Canggu menarik banyak orang asing untuk tinggal di sini, selain karena villa-vil
 
 ![Seperti apa sih Canggu itu?](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
-[Apa lagi yang bisa dilakukan di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Apa lagi yang bisa dilakukan di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Canggu punya pesona yang unik banget. Ada sedikit nuansa Bohemia, sedikit Hippie, perpaduan gaya Bohemia dan Hippie era 70-an yang dalam bahasa Inggris disebut 'Boho Chic'. Boho Chic melambangkan gaya hidup时尚, bebas, dan tanpa aturan. Mulai dari kafe pinggir jalan, villa sewaan, apartemen, sampai orang asing yang lalu lalang — semuanya memancarkan vibe Boho Chic ini.
 
@@ -95,7 +95,7 @@ Kalau badan gak fit, surfing jadi kurang keren.
 
 ![Surfing di Canggu](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
-[Apa lagi yang bisa dilakukan di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Apa lagi yang bisa dilakukan di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Tentu saja aktivitas surfing yang kamu lihat di awal video adalah skill wajib bagi para cowok dan cewek keren di Canggu!
 

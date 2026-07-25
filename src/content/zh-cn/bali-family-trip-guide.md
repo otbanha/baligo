@@ -212,7 +212,7 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 
 > **快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
-> 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+> 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 - **Krisna Oleh Oleh Bali 纪念品店：** 这是一家大型的纪念品专卖店，从衣服、饰品、手工艺到食品应有尽有。价格固定，虽少了砍价乐趣，但对于想一次性买齐所有纪念品、又不想比价的游客来说非常方便。
 - **入住 Amnaya Kuta Resort 与库塔海滩：** 下午入住库塔的 **Amnaya Kuta Resort**。酒店风格现代舒适，与乌布的Villa是两种风情。安顿后，我们步行至**库塔海滩**散步。看着冲浪者、享受日落的人群，感受着巴厘岛热闹活力的一面。

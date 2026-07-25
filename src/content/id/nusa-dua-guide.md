@@ -302,7 +302,7 @@ Datang ke Bali, selain pantai yang cantik dan pesona budayanya, Bali National Go
 
 Bali National Golf Club Nusa Dua menggabungkan nuansa mewah resort dengan tantangan golf, bikin pengalaman bermain yang beda. Lapangannya didesain dengan cermat, menguji teknik dan strategi kamu. Angin laut yang berhembus, rumput hijau mulus, dan latar Samudra Hindia biru di kejauhan — semua menciptakan surga golf yang bikin betah.
 
-> [Main 18 Hole di Bali National Golf Club Nusa Dua](https://www.klook.com/activity/83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club/?spm=Activity.TopNavigation.SelectLanguage&clickId=6a3d991fe8)
+> [Main 18 Hole di Bali National Golf Club Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a3d991fe8)
 
 ### Kelas Masak Dapur Bali (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 

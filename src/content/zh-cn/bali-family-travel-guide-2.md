@@ -140,13 +140,13 @@ _srcHash: 60b717fbbea9cfb6f79e7ab16a2432d9
 建议可以先在Klook上预订好这些活动：
 
 - [海滩骑马、ATV、荡秋千、瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)活动任意搭配
-- 巴厘岛野生动物园[Bali Safari门票](https://www.klook.com/zh-TW/activity/170-bali-safari-and-marine-park-bali/?spm=SearchResult.SearchResult_LIST&clickId=d9619cd66c)
+- 巴厘岛野生动物园[Bali Safari门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
 - 巴厘岛水上乐园 [Waterbom 门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D162766c89a)
 - 阿勇河漂流 & 骑行[组合体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F43235-ayung-river-rafting-cycling-combo-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0d515c3c13)
 - 乌布[宝宝漂流河 + ATV + 荡秋千](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770312&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D810006ba4b%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D30411%26utm_term%3D%26utm_content%3D)
 - 巴厘岛[海盗晚餐邮轮体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770915&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F46208-pirate-dinner-cruise-sea-safari-cruise-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D57a84f8bde)
 - [Trans Studio优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
-- [AeroXSpace门票](https://www.klook.com/zh-TW/activity/129545-aeroxspace-adventure-pass-in-denpasar-bali/?spm=SearchResult.SearchResult_LIST&clickId=51ad2ee4bc)
+- [AeroXSpace门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
 
 这些活动建议提前在 Klook 上预订，有时有票价优惠，也省得到现场排队。
 

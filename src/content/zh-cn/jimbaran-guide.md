@@ -134,7 +134,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 > [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
 > [Ayutaya 花浴 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
 > [到府服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
-> [莱佛士SPA](https://www.klook.com/zh-TW/activity/167025-balinese-healing-massage-at-raffles-spa-jimbaran/)
+> [莱佛士SPA](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167025-balinese-healing-massage-at-raffles-spa-jimbaran%2F)
 
 ## 五星下午茶/用餐
 

@@ -149,13 +149,13 @@ Bali offers plenty of activities suitable for toddlers, but be careful not to ov
 It's recommended to book these activities in advance on Klook:
 
 - [Beach Horseback Riding, ATV, Swing, and Waterfall Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830) mix and match activities
-- Bali Safari Park [Bali Safari Tickets](https://www.klook.com/zh-TW/activity/170-bali-safari-and-marine-park-bali/?spm=SearchResult.SearchResult_LIST&clickId=d9619cd66c)
+- Bali Safari Park [Bali Safari Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
 - Bali Waterpark [Waterbom Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D162766c89a)
 - Ayung River Rafting & Cycling [Combo Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F43235-ayung-river-rafting-cycling-combo-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0d515c3c13)
 - Ubud [Baby Tubing + ATV + Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770312&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D810006ba4b%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D30411%26utm_term%3D%26utm_content%3D)
 - Bali [Pirate Dinner Cruise Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770915&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F46208-pirate-dinner-cruise-sea-safari-cruise-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D57a84f8bde)
 - [Trans Studio Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
-- [AeroXSpace Tickets](https://www.klook.com/zh-TW/activity/129545-aeroxspace-adventure-pass-in-denpasar-bali/?spm=SearchResult.SearchResult_LIST&clickId=51ad2ee4bc)
+- [AeroXSpace Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
 
 It's a good idea to book these activities in advance on Klook—sometimes there are ticket discounts, and it saves you from queuing on-site.
 

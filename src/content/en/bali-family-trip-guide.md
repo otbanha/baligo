@@ -220,7 +220,7 @@ We checked into the Kuta hotel Amnaya Resort, winner of the 2025 Agoda Travelers
 
 > **Quick Reference:** [Must-Visit Bali Attractions: A Detailed Guide to Tanah Lot Temple, Tides, and Nearby Sights](/en/blog/bali-tanah-lot-guide/)
 
-> 🛕🌊🌅 Tanah Lot Temple, Bali's must-visit sunset sanctuary, offering stunning ocean views and a spiritual atmosphere ▶[Klook Deals](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+> 🛕🌊🌅 Tanah Lot Temple, Bali's must-visit sunset sanctuary, offering stunning ocean views and a spiritual atmosphere ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 - **Krisna Oleh Oleh Bali Souvenir Shop:** This is a large souvenir store offering everything from clothing, accessories, and handicrafts to food. Prices are fixed, so while you miss out on the fun of haggling, it's super convenient for travelers who want to buy all their souvenirs in one go without comparing prices.
 - **Check-in at Amnaya Kuta Resort and Kuta Beach:** In the afternoon, we checked into the **Amnaya Kuta Resort** in Kuta. The hotel has a modern, comfortable style, a different vibe from the Ubud villa. After settling in, we walked to **Kuta Beach** for a stroll. Watching the surfers and the sunset crowds, we soaked in Bali's lively, energetic side.

@@ -57,7 +57,7 @@ Yang menarik adalah pantai umum di depan Finns Beach Club. Apa spesialnya? Biasa
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
-[Mau tahu apa lagi yang seru di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Mau tahu apa lagi yang seru di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Gimana caranya? Ternyata Finns Beach Club punya lampu sorot yang terang banget ke arah pantai. Jadi pas sunset, tinggal berdiri aja di pantai ini, langsung dapet foto dengan pencahayaan profesional kayak studio mahal.
 
@@ -65,7 +65,7 @@ Dekat Finns Beach Club ada Panama Kitchen & Pool — tempat yang oke banget buat
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
-[Mau tahu apa lagi yang seru di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Mau tahu apa lagi yang seru di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Di sini ada kolam renang taman, nuansa Karibia Amerika Selatan, makanannya juga lumayan enak. Kita main beberapa jam di sini sambil foto-foto.
 
@@ -77,7 +77,7 @@ Di jalan ini ada 'Love Anchor', pasar semi-terbuka yang jual kerajinan tangan ca
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
-[Ada yang lain di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Ada yang lain di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Canggu juga punya beberapa pasar unik lainnya. Buat kamu yang suka hunting barang, coba search aja 'Canggu Markets Guide' di internet, terus datengin satu-satu buat cari harta karun.
 
@@ -85,7 +85,7 @@ Lanjut ke arah pantai, Jl. Pantai Batu Bolong ini ujungnya nyambung ke Old Man's
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
-[Ada yang lain di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Ada yang lain di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Pantai ini juga yang terbaik buat surfing di Canggu. Di sini sering banget lihat cowok-cewek keren bawa papan selancar atau pamer gaya di atas ombak. Kamu bisa dengan mudah nyewa papan selancar, atau cari instruktur buat nemenin kamu surfing.
 
@@ -116,7 +116,7 @@ Baca juga:
 
 ![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
-[Apa lagi yang bisa dilakukan di Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Apa lagi yang bisa dilakukan di Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Tempat ini juga spot foto yang kece, sebelum matahari terbenam, jepret aja pasti dapet foto cantik!
 

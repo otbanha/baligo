@@ -204,7 +204,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 朝早，我哋提早出發避開塞車，順利去到海神廟。呢座建築喺海中心嘅岩石上面，漲潮嗰陣成間廟俾海水包圍，景觀好壯觀，獨一無二，係峇里島唔可以錯過嘅地標景點。我哋影咗好多相，感受到自然同宗教結合嘅美。
 
-🛕🌊🌅海神廟，峇里島必去嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅海神廟，峇里島必去嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
   **快速參考：**
 
 [海神廟票價、退潮時間、周邊景點介紹](/zh-hk/blog/bali-tanah-lot-guide/)

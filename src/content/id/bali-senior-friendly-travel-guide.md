@@ -151,7 +151,7 @@ Pura Tanah Lot terkenal banget karena lokasinya yang unik dan pemandangan pantai
 
 Kalau tempat nginep kamu deket dari Tanah Lot, sih, worth it banget buat masukin spot ini. Tapi kalau jauh, kamu harus pertimbangin kesabaran dan tenaga orang tua, apalagi kalau macet bikin bete. Kalau khawatir soal macet, mending datang lebih awal — selain hindari jam sibuk, kamu juga bisa nikmatin pemandangan yang lebih sepi, bikin trip makin nyaman.
 
-🛕🌊🌅 Pura Tanah Lot, destinasi sunset wajib di Bali, nikmati pemandangan laut yang epik dan nuansa religius ▶[Promo Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅 Pura Tanah Lot, destinasi sunset wajib di Bali, nikmati pemandangan laut yang epik dan nuansa religius ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 ### Taman Air Tirta Gangga
 

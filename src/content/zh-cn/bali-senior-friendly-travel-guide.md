@@ -144,7 +144,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 如果您的住宿地点离海神庙较近，那么安排这个景点是非常值得的选择。但如果距离较远，就需要考虑到长辈的耐心和体力，尤其是在面对塞车时可能出现的不耐烦情绪。如果担心交通问题，不妨选择较早的时段前往，既能避开高峰期，又能享受清静的景色，让旅程更加愉快。
 
-🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 ### 恒河圣泉花园（Tirta Gangga Water Palace）
 

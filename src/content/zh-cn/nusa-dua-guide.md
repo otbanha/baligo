@@ -295,7 +295,7 @@ https://youtu.be/QDIhGaAuwlU
 
 Bali National Golf Club Nusa Dua融合了豪华度假村的优雅氛围和高尔夫球的挑战性，给予球手一个独特的游戏体验。球场被精心设计，考验着球手的技巧和战术选择。激起的海风、绿茵如绢的草地，以及远处蔚蓝的印度洋，共同营造出一片令人心旷神怡的高尔夫天堂。
 
-> [Bali National Golf Club Nusa Dua 打18洞](https://www.klook.com/activity/83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club/?spm=Activity.TopNavigation.SelectLanguage&clickId=6a3d991fe8)
+> [Bali National Golf Club Nusa Dua 打18洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a3d991fe8)
 
 ### Dapur Bali 烹饪课程（📌 [位置地图](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 

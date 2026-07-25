@@ -149,13 +149,13 @@ Bali punya banyak aktivitas seru buat balita, tapi jangan sampai jadwal terlalu 
 Saran sih, booking dulu aktivitas ini lewat Klook:
 
 - [Naik Kuda di Pantai, ATV, Ayunan, & Tur Air Terjun](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830) — bisa dikombinasikan sesukamu
-- Tiket [Bali Safari](https://www.klook.com/zh-TW/activity/170-bali-safari-and-marine-park-bali/?spm=SearchResult.SearchResult_LIST&clickId=d9619cd66c) di Bali Safari & Marine Park
+- Tiket [Bali Safari](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e) di Bali Safari & Marine Park
 - Tiket [Waterbom Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D162766c89a) — waterpark seru di Bali
 - [Paket Kombo](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F43235-ayung-river-rafting-cycling-combo-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0d515c3c13) Arung Jeram Sungai Ayung + Bersepeda
 - [Cave Tubing + ATV + Ayunan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770312&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D810006ba4b%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D30411%26utm_term%3D%26utm_content%3D) di Ubud
 - [Pirate Dinner Cruise](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770915&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F46208-pirate-dinner-cruise-sea-safari-cruise-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D57a84f8bde) — dinner cruise bertema bajak laut
 - [Tiket Diskon Trans Studio](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
-- [Tiket AeroXSpace](https://www.klook.com/zh-TW/activity/129545-aeroxspace-adventure-pass-in-denpasar-bali/?spm=SearchResult.SearchResult_LIST&clickId=51ad2ee4bc)
+- [Tiket AeroXSpace](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
 
 Saran sih, mending booking aktivitas-aktivitas ini di Klook dari jauh-jauh hari. Kadang ada diskon tiket, dan kamu juga nggak perlu antre di lokasi.
 

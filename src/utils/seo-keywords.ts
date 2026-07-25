@@ -125,11 +125,105 @@ export function applyHkSubs(text: string): string {
   return out;
 }
 
+// ─── SERP 長度控制 ──────────────────────────────────────────────────────────
+//
+// 只作用於 meta title / meta description，不影響 <h1> 與 JSON-LD——BlogPost
+// 把原始 frontmatter 直接餵給那兩處，這裡的輸出只進 <BaseHead>。
+//
+// 為什麼只處理 en / id：這兩個語系的標題與描述是從繁中直譯過來的，沒有考慮
+// 拉丁字母比中文佔更多字元，導致 title 中位數 102 字元、description 中位數
+// 320 字元，在 SERP 幾乎必被截斷。繁中／簡中／港版本來就在合理範圍，不動。
+
+const SERP_TITLE_MAX = 60;
+const SERP_DESC_MAX = 160;
+const BRAND_SUFFIX = ' | Go Bali Go';
+const LATIN_LANGS = new Set(['en', 'id']);
+
+/** 句尾殘留的連接詞／冠詞（英文＋印尼文），截斷後要一併清掉 */
+const DANGLING_WORD =
+  /\s+(?:and|or|but|the|an?|to|of|in|on|at|for|with|by|from|dan|atau|yang|di|ke|dari|untuk|dengan|pada|serta|&)$/i;
+
+function stripBrand(s: string): string {
+  return s.replace(/\s*[|｜\-–—]\s*Go\s*Bali\s*Go\s*$/i, '').trim();
+}
+
+/** 【X】Y → 「X: Y」；【X】 → 「X」。中日韓的方頭括號在英文/印尼文 SERP 讀起來突兀，且白吃 2 個字元 */
+function unbracket(s: string): string {
+  const m = s.match(/^【([^】]+)】\s*(.*)$/);
+  if (!m) return s;
+  return m[2] ? `${m[1]}: ${m[2]}` : m[1];
+}
+
+function trimClean(s: string): string {
+  let out = s.trim().replace(/[\s,;:、，。·|｜–—-]+$/u, '');
+  while (DANGLING_WORD.test(out)) out = out.replace(DANGLING_WORD, '');
+  return out.trim();
+}
+
+/** 在 max 內找最好的斷點：優先結構分隔符，其次字詞邊界，絕不切在字中間 */
+function fitTitle(s: string, max: number): string {
+  if (s.length <= max) return s;
+  const win = s.slice(0, max + 1);
+  const sep = Math.max(
+    win.lastIndexOf(' — '), win.lastIndexOf(' – '), win.lastIndexOf(' - '),
+    win.lastIndexOf(', '), win.lastIndexOf('; '), win.lastIndexOf(' | '), win.lastIndexOf('｜'),
+  );
+  // 分隔符太靠前的話寧可用字詞邊界，避免砍掉大半標題
+  if (sep >= Math.floor(max * 0.55)) return trimClean(win.slice(0, sep));
+  const sp = win.lastIndexOf(' ');
+  return trimClean(sp > 0 ? win.slice(0, sp) : win.slice(0, max));
+}
+
 /**
- * Enhance title with Cantonese substitutions (zh-HK only)
+ * Enhance title with Cantonese substitutions (zh-HK) and SERP length fitting (en/id).
+ *
+ * en/id 回傳的是「最終」標題：放得下就自己接品牌後綴，放不下就不接。
+ * 因此 BlogPost 對這兩個語系會傳 noSuffix 給 BaseHead，避免再被追加一次。
  */
 export function enhancedTitle(title: string, cats: string[], lang: string): string {
-  return lang === 'zh-hk' ? applyHkSubs(title) : title;
+  if (lang === 'zh-hk') return applyHkSubs(title);
+  if (!LATIN_LANGS.has(lang)) return title;
+
+  const base = trimClean(unbracket(stripBrand(title)));
+  return base.length + BRAND_SUFFIX.length <= SERP_TITLE_MAX
+    ? base + BRAND_SUFFIX
+    : fitTitle(base, SERP_TITLE_MAX);
+}
+
+/** description 有時混進 markdown 語法（**粗體**、[文字](網址)），meta 標籤裡要清掉 */
+function stripMarkdown(s: string): string {
+  return s
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[*_`~]{1,3}/g, '')
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/^>\s?/gm, '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/** description 空白或短到沒有資訊量時，從內文取開頭當備援 */
+function excerptFromBody(body: string): string {
+  const plain = stripMarkdown(
+    body
+      .replace(/^\s*\{\{[^}]*\}\}\s*$/gm, '')   // {{block:xxx}} 佔位
+      .replace(/^\s*\|.*\|\s*$/gm, '')          // 表格
+      .replace(/^\s*[-*+]\s+/gm, ''),
+  );
+  return plain.slice(0, 400).trim();
+}
+
+function fitDesc(s: string, max: number): string {
+  if (s.length <= max) return s;
+  // 視窗剛好 max，斷點索引才不會超出預算（句尾符號落在最後一格時仍算合法）
+  const win = s.slice(0, max);
+  const sentences = [...win.matchAll(/[.!?。！？](?=\s|$)/g)];
+  const lastEnd = sentences.length ? (sentences[sentences.length - 1].index ?? -1) + 1 : -1;
+  // 句號落點夠靠後就切在句尾，讀起來是完整句子
+  if (lastEnd >= Math.floor(max * 0.6)) return win.slice(0, lastEnd).trim();
+  const sp = win.lastIndexOf(' ');
+  return trimClean(sp > 0 ? win.slice(0, sp) : win.slice(0, max - 1)) + '…';
 }
 
 /**
@@ -137,9 +231,24 @@ export function enhancedTitle(title: string, cats: string[], lang: string): stri
  * 1. Cantonese substitutions (zh-HK)
  * 2. Slug-level long-tail keyword suffix (if available), else category keyword suffix
  *    (only when description is short enough to still have room)
+ * 3. Body fallback when the description is empty or too short to say anything
+ * 4. SERP length fitting (en/id only)
  */
-export function enhancedDescription(desc: string, cats: string[], lang: string, slug?: string): string {
+export function enhancedDescription(
+  desc: string,
+  cats: string[],
+  lang: string,
+  slug?: string,
+  body?: string,
+): string {
   let out = lang === 'zh-hk' ? applyHkSubs(desc) : desc;
+
+  // description 缺漏或短到沒有資訊量時改用內文開頭。全語系適用：原本會輸出
+  // 空的 meta，或只剩關鍵字後綴的「 · Bali private car hire · transport」。
+  if (stripMarkdown(out).length < 20 && body) {
+    const fallback = excerptFromBody(body);
+    if (fallback.length >= 20) out = lang === 'zh-hk' ? applyHkSubs(fallback) : fallback;
+  }
 
   const langKey = ['en', 'zh-cn', 'zh-hk'].includes(lang) ? lang : 'zh-tw';
 
@@ -166,7 +275,12 @@ export function enhancedDescription(desc: string, cats: string[], lang: string, 
     }
   }
 
-  return out;
+  // 換行正規化對所有語系生效：frontmatter 的 YAML 多行區塊（description: |-）
+  // 會把實體換行原封不動寫進 <meta content="...">，產生跨行的標籤。
+  out = out.replace(/\s+/g, ' ').trim();
+
+  if (!LATIN_LANGS.has(lang)) return out;
+  return fitDesc(stripMarkdown(out), SERP_DESC_MAX);
 }
 
 /**

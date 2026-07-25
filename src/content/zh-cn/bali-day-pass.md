@@ -180,7 +180,7 @@ https://youtu.be/Czw4ALduV14
 
 **酒店介绍：** Kamandalu Ubud（卡曼达鲁乌布度假村）是一间豪华度假村，坐落在乌布的心脏地带，以其俯瞰翠绿乌布森林的无边泳池著称。这是一间真正的五星度假村，整个设计理念都围绕「森林中的奢华」。Awana Pool & Lounge是酒店的王牌设施，结合了泳池、休息室、酒吧和餐饮。
 
-🔗 **预订链接：**[Klook](https://www.klook.com/en-US/activity/24655-awana-pool-lounge-day-pass-kamandalu-bali/?spm=SearchResult.SearchResult_LIST&clickId=4dc2a16f75)
+🔗 **预订链接：**[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F24655-awana-pool-lounge-day-pass-kamandalu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4dc2a16f75)
 
 **票价：** USD$36-37（3-5小时）
 

@@ -55,7 +55,7 @@ _srcHash: 2bd3291113c027179dd991a107f765dc
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 那到底是怎么做到的呢？其实是因为 Finns Beach Club 有强光打向海滩，因此只要日落时分在这个沙滩上随便一站就能拍出这样专业级百万打光的照片。
 
@@ -63,7 +63,7 @@ _srcHash: 2bd3291113c027179dd991a107f765dc
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 这里有花园泳池，南美洲加勒比海的风格，食物也还不错。我们在这里玩了几个小时拍了一些照片。
 
@@ -75,7 +75,7 @@ _srcHash: 2bd3291113c027179dd991a107f765dc
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 坎古还有其他几个很有特色的市场，喜欢挖宝的朋友们可以上网搜索一下「Canggu Markets Guide」，一个一个前往挖宝。
 
@@ -83,7 +83,7 @@ _srcHash: 2bd3291113c027179dd991a107f765dc
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 这个海滩也是坎古冲浪最佳海滩，海滩上常常可以看到帅哥辣妹拿着冲浪板或者是在海浪上展现冲浪英姿。你可以在这里很容易找到出租冲浪板的地方，或者你也可以找教练陪你冲浪。
 
@@ -114,7 +114,7 @@ _srcHash: 2bd3291113c027179dd991a107f765dc
 
 ![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 这里也是一个很棒的拍照地点，在日落之前随便拍都是美照！
 

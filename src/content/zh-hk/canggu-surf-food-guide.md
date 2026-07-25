@@ -42,7 +42,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 小傑嘅影片截圖
 
-[坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩好玩?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 峇里島由庫塔同雷吉安開始，發展成成個峇里島最熱鬧嘅區域。我哋之前做過一集「庫塔攻略」，去峇里島旅行唔好錯過我嘅「[庫塔攻略](/zh-hk/blog/kuta-guide/)」呀！
 
@@ -60,7 +60,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 小傑嘅影片截圖
 
-[坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩好玩?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 坎古係最近呢幾年先出現嘅熱門地點，呢個地方離峇里島西岸著名景點「海神廟 Tanah Lot」唔遠，約 10 幾分鐘車程就可以去到呢個印度教祭拜海神嘅廟宇。海神廟係一個退潮嘅時候先可以進入嘅神奇地方，當地人話喺神廟底座嘅海蝕洞裡會出現顏色黑白相間嘅巨大海蛇守護呢個廟宇。
 
@@ -72,7 +72,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ![坎古究竟係咩樣㗎呢？](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
-[坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩好玩?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 坎古有一種迷人嘅特質，呢度有啲波西米亞風、有啲嬉皮，融合咗波希米亞（Bohemia）同 70 年代嘅嬉皮（Hippie）嘅風格，英文叫做「Boho Chic」。Boho Chic 代表嘅係一種時尚、無拘無束嘅生活風格，由路邊嘅餐飲咖啡廳、出租嘅 villa、公寓，甚至係街上嘅外國人，坎古到處都散發出呢種 Boho Chic 嘅風格。
 
@@ -90,7 +90,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ![坎古衝浪](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
-[坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩好玩?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 當然你喺片頭見到嘅衝浪活動，更加係身為坎古型男索女嘅必備技能！
 

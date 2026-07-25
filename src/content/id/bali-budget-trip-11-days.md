@@ -206,7 +206,7 @@ Setelah dari terasering, kami lanjut ke Pantai Jimbaran buat makan malam. Dengan
 
 Pagi-pagi kami berangkat lebih awal biar nggak kena macet, dan akhirnya sampai di Pura Tanah Lot dengan lancar. Bangunan ini berdiri di atas batu karang di tengah laut—pas air pasang, seluruh pura dikelilingi air laut, pemandangannya super megah dan nggak ada duanya. Ini benar-benar landmark wajib kunjung di Bali. Kami foto-foto banyak banget, dan merasakan keindahan perpaduan alam dengan spiritualitas.
 
-🛕🌊🌅 Pura Tanah Lot, destinasi sunset wajib di Bali, nikmati pemandangan laut yang spektakuler dan nuansa religius ▶[Promo Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅 Pura Tanah Lot, destinasi sunset wajib di Bali, nikmati pemandangan laut yang spektakuler dan nuansa religius ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
   **Referensi Cepat:**
 
 [Harga tiket Pura Tanah Lot, waktu surut, dan rekomendasi tempat di sekitarnya](/id/blog/bali-tanah-lot-guide/)

@@ -144,7 +144,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 如果你住嘅地方離海神廟比較近，咁安排呢個景點就好值得。但如果距離遠，就要考慮吓長輩嘅耐性同體力，尤其係塞車嗰陣可能會唔耐煩。如果擔心交通問題，不妨揀早啲嘅時段去，既可以避開高峰期，又可以享受清靜嘅景色，令旅程更加愉快。
 
-🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 ### 恆河聖泉花園（Tirta Gangga Water Palace）
 

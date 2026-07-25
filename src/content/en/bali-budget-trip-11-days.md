@@ -205,7 +205,7 @@ After the rice terraces, we headed to Jimbaran Beach for dinner. Against the bac
 
 In the morning, we set off early to avoid traffic and arrived smoothly at Tanah Lot Temple. Perched on a rocky outcrop in the sea, the temple is completely surrounded by water at high tide, creating a spectacular and unique sight—an unmissable landmark in Bali. We took plenty of photos and felt the beautiful blend of nature and spirituality.
 
-🛕🌊🌅 Tanah Lot Temple, a must-visit sunset sanctuary in Bali, offering stunning sea views and a spiritual atmosphere ▶[Klook Deal](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅 Tanah Lot Temple, a must-visit sunset sanctuary in Bali, offering stunning sea views and a spiritual atmosphere ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
   **Quick Reference:**
 
 [Tanah Lot Temple ticket prices, low tide times, and nearby attractions guide](/en/blog/bali-tanah-lot-guide/)

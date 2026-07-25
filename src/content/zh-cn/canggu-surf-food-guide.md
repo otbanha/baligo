@@ -43,7 +43,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 小杰的视频截图
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 巴厘岛从库塔和雷吉安开始，发展成为整个巴厘岛最热闹的区域。我们之前做过一集「库塔攻略」，到巴厘岛旅游不要错过我的「[库塔攻略](/zh-cn/blog/kuta-guide/)」喔！
 
@@ -61,7 +61,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 小杰的视频截图
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 坎古是最近这几年才出现的热门地点，这个地方离巴厘岛西岸著名景点「海神庙 Tanah Lot」不远，约 10 几分钟车程就可以到达这个印度教祭拜海神的寺庙。海神庙是一个退潮的时候才能进入的神奇地方，当地人说在神庙底座的海蚀洞里会出现颜色黑白相间的巨大海蛇守护此寺庙。
 
@@ -73,7 +73,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ![坎古到底是什么样子的呢？](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 坎古有一种迷人的特质，这里有一点波西米亚风、有一点嬉皮，融合波希米亚（Bohemia）与 70 年代的嬉皮（Hippie）的风格，英文叫做「Boho Chic」。Boho Chic 代表的是一种时尚、无拘无束的生活风格，从路旁的餐饮咖啡馆、出租的 villa、公寓甚至是出现在街上的外国人，坎古到处都散发出这种 Boho Chic 的风格。
 
@@ -91,7 +91,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ![坎古冲浪](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 当然你在片头看到的冲浪活动，更是身为坎古帅哥美女的必备技能！
 

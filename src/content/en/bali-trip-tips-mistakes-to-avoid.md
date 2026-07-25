@@ -56,7 +56,7 @@ Li Wallis
 
 Tanah Lot Temple is a stunning and must-visit attraction. The temple sits on a rock by the sea, surrounded by water at high tide, creating a unique landscape. The sunset here is especially spectacular, so it's best to come in the late afternoon to enjoy the breathtaking ocean sunset. Quick reference: [Bali Travel Must-Visit: Tanah Lot Temple Detailed Guide with Tides and Nearby Attractions](/en/blog/bali-tanah-lot-guide/)
 
-🛕🌊🌅 Tanah Lot, Bali's must-visit sunset sanctuary, offering stunning sea views and a spiritual atmosphere ▶[Klook Deals](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅 Tanah Lot, Bali's must-visit sunset sanctuary, offering stunning sea views and a spiritual atmosphere ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 {{block:canggu}}
 

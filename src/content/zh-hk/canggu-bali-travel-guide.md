@@ -55,7 +55,7 @@ Canggu 主要由一條交通繁忙嘅 Jl. Raya Canngu 橫越貫穿，呢條中�
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
-[Canggu仲有咩玩？](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Canggu仲有咩玩？](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 點解做到呢？其實係因為Finns Beach Club有強光照向海灘，所以只要日落時分喺呢個沙灘隨便企，就可以影到咁專業級百萬打光嘅相。
 
@@ -63,7 +63,7 @@ Canggu 主要由一條交通繁忙嘅 Jl. Raya Canngu 橫越貫穿，呢條中�
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
-[Canggu仲有咩玩？](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Canggu仲有咩玩？](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 呢度有花園泳池，南美洲加勒比海風格，食物都唔錯。我哋喺度玩咗幾個鐘，影咗啲相。
 
@@ -75,7 +75,7 @@ Canggu 主要由一條交通繁忙嘅 Jl. Raya Canngu 橫越貫穿，呢條中�
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
-[坎古仲有咩玩？](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩玩？](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 坎古仲有幾個好有特色嘅市場，鍾意挖寶嘅朋友可以上網搜尋「Canggu Markets Guide」，一個一個去挖寶。
 
@@ -83,7 +83,7 @@ Canggu 主要由一條交通繁忙嘅 Jl. Raya Canngu 橫越貫穿，呢條中�
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
-[坎古仲有咩玩？](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩玩？](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 呢個海灘亦係坎古衝浪最佳海灘，海灘上成日可以見到靚仔靚女拎住衝浪板或者喺海浪上展現衝浪英姿。你可以喺呢度好容易搵到出租衝浪板嘅地方，或者你可以搵教練陪你衝浪。
 
@@ -114,7 +114,7 @@ Canggu 主要由一條交通繁忙嘅 Jl. Raya Canngu 橫越貫穿，呢條中�
 
 ![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
-[Canggu仲有咩玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Canggu仲有咩玩?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 呢度都係一個好正嘅影相地點，日落之前隨便影都係靚相！
 

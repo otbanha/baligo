@@ -185,7 +185,7 @@ Ubud adalah pusat budaya Bali yang terletak di pedalaman pulau. Pengalaman beren
 
 **Hotel Overview:** Kamandalu Ubud adalah resort mewah yang terletak di jantung Ubud, terkenal dengan infinity pool-nya yang menghadap ke hutan Ubud yang hijau. Ini benar-benar resort bintang lima, dengan konsep desain yang berpusat pada 'kemewahan di tengah hutan'. Awana Pool & Lounge adalah fasilitas andalan hotel, menggabungkan kolam renang, lounge, bar, dan restoran.
 
-🔗 **Link Pemesanan:** [Klook](https://www.klook.com/en-US/activity/24655-awana-pool-lounge-day-pass-kamandalu-bali/?spm=SearchResult.SearchResult_LIST&clickId=4dc2a16f75)
+🔗 **Link Pemesanan:** [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F24655-awana-pool-lounge-day-pass-kamandalu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4dc2a16f75)
 
 **Harga tiket:** USD$36-37 (3-5 jam)
 

@@ -52,7 +52,7 @@ Li Wallis 提供
 
 海神廟（Tanah Lot）係一個好靚同值得去嘅景點。廟宇起喺海邊嘅岩石上，漲潮嗰陣會被海水包圍，形成獨特嘅景觀。呢度嘅日落尤其壯觀，建議黃昏前嚟，可以睇到壯麗嘅海上日落景色。快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/zh-hk/blog/bali-tanah-lot-guide/)
 
-🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 {{block:canggu}}
 

@@ -149,7 +149,7 @@ Tanah Lot Temple is famous for its unique location and stunning coastal scenery,
 
 If your accommodation is close to Tanah Lot, it's well worth including this attraction. But if you're staying farther away, you'll need to consider the patience and stamina of elderly travelers, especially when dealing with potential traffic frustration. If traffic is a concern, consider visiting earlier in the day to avoid peak hours and enjoy a quieter, more pleasant experience.
 
-🛕🌊🌅 Tanah Lot, Bali's must-visit sunset sanctuary, offering stunning sea views and a spiritual atmosphere ▶[Klook Deals](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅 Tanah Lot, Bali's must-visit sunset sanctuary, offering stunning sea views and a spiritual atmosphere ▶[Klook Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 ### Tirta Gangga Water Palace
 

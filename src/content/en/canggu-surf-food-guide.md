@@ -45,7 +45,7 @@ In the first episode of this Canggu series, we’ll start by discussing the deve
 
 Jay’s video screenshot
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Bali started with Kuta and Legian, which have developed into the most bustling areas of the entire island. We previously did an episode on "Kuta Guide," so don't miss my "[Kuta Guide](/en/blog/kuta-guide/)" when traveling to Bali!
 
@@ -63,7 +63,7 @@ Continuing north, about a 15-minute drive from Seminyak, we arrive at Canggu. Wh
 
 Screenshot of Xiao Jie's video
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Canggu has become a popular spot in recent years. It's located close to Tanah Lot, a famous temple on Bali's west coast, just a 10-minute drive away. Tanah Lot is a magical place accessible only during low tide, and locals say that giant black-and-white sea snakes guard the temple in the sea caves beneath its base.
 
@@ -75,7 +75,7 @@ Canggu attracts foreigners to settle in the area, thanks to the proliferation of
 
 ![What is Canggu really like?](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Canggu possesses a captivating charm, blending a touch of bohemian and hippie styles. This fusion of Bohemia and 70s Hippie culture is known as 'Boho Chic.' Boho Chic represents a fashionable, free-spirited lifestyle, evident in the roadside cafes, rental villas, apartments, and even the expats roaming the streets. Canggu exudes this Boho Chic vibe everywhere.
 
@@ -93,7 +93,7 @@ This physique won’t look cool while surfing
 
 ![Surfing in Canggu](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Of course, surfing, as seen in the intro, is a must-have skill for the stylish men and women of Canggu!
 

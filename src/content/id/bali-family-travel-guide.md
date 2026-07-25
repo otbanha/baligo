@@ -80,7 +80,7 @@ Bali itu salah satu destinasi wisata paling populer se-Asia, dan ternyata juga r
 ## Cara Nikmatin Aktivitas Ini
 
 - [Kombinasi Naik Kuda di Pantai, ATV, Ayunan, & Air Terjun](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830) bebas pilih aktivitas
-- Tiket [Bali Safari](https://www.klook.com/zh-TW/activity/170-bali-safari-and-marine-park-bali/?spm=SearchResult.SearchResult_LIST&clickId=d9619cd66c)
+- Tiket [Bali Safari](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
 - Tiket [Marine Safari](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 - [Tiket Bali Bird Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=797474&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D981bbcb9e2)
 - Tiket [Waterbom](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D162766c89a)

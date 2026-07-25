@@ -74,7 +74,7 @@ _srcHash: 0041524e669f9a9f6567190979796bde
 ## 點樣體驗呢啲活動？
 
 - [海灘騎馬、ATV、盪鞦韆、瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)活動任意搭配
-- 峇里島野生動物園[Bali Safari門票](https://www.klook.com/zh-TW/activity/170-bali-safari-and-marine-park-bali/?spm=SearchResult.SearchResult_LIST&clickId=d9619cd66c)
+- 峇里島野生動物園[Bali Safari門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
 - 峇里島海洋動物園[Marine Safari門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 - [Bali Bird Park門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=797474&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D981bbcb9e2)
 - 峇里島水上樂園[Waterbom門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=770021&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D162766c89a)

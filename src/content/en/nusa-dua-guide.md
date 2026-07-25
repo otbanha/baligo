@@ -301,7 +301,7 @@ In Bali, beyond the beautiful beaches and cultural charm, Bali National Golf Clu
 
 Bali National Golf Club Nusa Dua blends the elegant ambiance of a luxury resort with the challenges of golf, giving players a distinctive game experience. The course is meticulously designed to test your skills and strategic choices. The invigorating sea breeze, lush green fairways, and the distant blue Indian Ocean together create a golfing paradise that soothes the soul.
 
-> [Play 18 Holes at Bali National Golf Club Nusa Dua](https://www.klook.com/activity/83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club/?spm=Activity.TopNavigation.SelectLanguage&clickId=6a3d991fe8)
+> [Play 18 Holes at Bali National Golf Club Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a3d991fe8)
 
 ### Dapur Bali Cooking Class (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 

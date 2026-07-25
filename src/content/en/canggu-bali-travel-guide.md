@@ -57,7 +57,7 @@ What's special about the public beach outside Finns Beach Club? Usually, when ta
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 How is that possible? It's because Finns Beach Club shines powerful lights onto the sand, so simply standing there at sunset gives you that professional, million-dollar lighting effect.
 
@@ -65,7 +65,7 @@ Not far from Finns Beach Club, Panama Kitchen & Pool is a great spot for photos.
 
 ![Jl. Pantai Berawa（伯拉瓦海灘路）](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 It features a garden pool with a Caribbean-inspired vibe, and the food is pretty good too. We spent a few hours there snapping photos.
 
@@ -77,7 +77,7 @@ Along this street, you'll find 'Love Anchor,' a semi-open-air market selling exq
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 Canggu also has several other distinctive markets. If you love treasure hunting, search online for 'Canggu Markets Guide' and explore them one by one.
 
@@ -85,7 +85,7 @@ Continuing toward the beach, Jl. Pantai Batu Bolong leads to the popular Old Man
 
 ![Jl. Pantai Batu Bolong（巴圖伯隆海灘路）](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 This beach is also Canggu's best spot for surfing. You'll often see surfers—both guys and girls—carrying boards or showing off their skills on the waves. It's easy to find surfboard rentals here, or you can hire an instructor to guide you.
 
@@ -116,7 +116,7 @@ Further reading:
 
 ![Jl. Padang Lingjong（巴當林瓊路）](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
-[What else can you do in Canggu?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[What else can you do in Canggu?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
 It's also a fantastic spot for photos—snap stunning shots anytime before sunset!
 

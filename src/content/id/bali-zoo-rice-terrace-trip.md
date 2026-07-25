@@ -73,7 +73,7 @@ Buat para orang tua yang udah 70 tahun ke atas, **Pura Ulun Danu Beratan** adala
 
 **Referensi Cepat:** [Panduan Lengkap Pura Tanah Lot: Info Pasang Surut & Tempat Wisata Sekitar](/id/blog/bali-tanah-lot-guide/)
 
-🛕🌊🌅 Pura Tanah Lot, tempat sunset wajib dikunjungi di Bali, nikmati pemandangan laut yang megah dan suasana religius ▶[Diskon Klook](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
+🛕🌊🌅 Pura Tanah Lot, tempat sunset wajib dikunjungi di Bali, nikmati pemandangan laut yang megah dan suasana religius ▶[Diskon Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
 
 ---
 

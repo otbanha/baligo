@@ -147,7 +147,7 @@ Di sini, kamu bisa milih SPA outdoor di pinggir pantai, atau fasilitas SPA di te
 > [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
 > [Ayutaya Flower Bath Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
 > [Home Service Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
-> [Raffles Spa](https://www.klook.com/zh-TW/activity/167025-balinese-healing-massage-at-raffles-spa-jimbaran/)
+> [Raffles Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167025-balinese-healing-massage-at-raffles-spa-jimbaran%2F)
 
 ## Afternoon Tea / Makan Mewah Bintang Lima
 
