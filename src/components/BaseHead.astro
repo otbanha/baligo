@@ -158,3 +158,61 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
       document.head.appendChild(script);
   })();
 </script>
+
+<!-- Outbound affiliate click tracking → /api/click (see functions/api/click.js) -->
+<script is:inline>
+  (function () {
+    var BRANDS = [
+      [/klook\.com/i, 'klook'],
+      [/agoda\.com/i, 'agoda'],
+      [/booking\.com|booking\.tpm\.li/i, 'booking'],
+      [/trip\.com|trip\.tpm\.li/i, 'trip'],
+      [/airalo/i, 'airalo'],
+      [/saily/i, 'saily'],
+    ];
+
+    // Drive wraps the real destination in ?u=<encoded>, so classify on that.
+    function programOf(href) {
+      var target = href;
+      var m = href.match(/[?&]u=([^&]+)/);
+      if (m) {
+        try { target = decodeURIComponent(m[1]); } catch (e) {}
+      }
+      for (var i = 0; i < BRANDS.length; i++) {
+        if (BRANDS[i][0].test(target)) return BRANDS[i][1];
+      }
+      return href.indexOf('mn-tz.com') !== -1 ? 'other' : null;
+    }
+
+    function report(e) {
+      var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+      if (!a || a.host === location.host) return;
+
+      // Read href now, not at page load — Drive rewrites links after we bind.
+      var href = a.href || '';
+      var program = programOf(href);
+      if (!program) return;
+
+      // 1 = Drive rewrote it, 2 = already a TP short link, 0 = raw brand link
+      // that Drive never touched (earns nothing through TP — the signal to watch).
+      var rewritten = href.indexOf('mn-tz.com') !== -1 ? 1 : (/\.tpm\.li/i.test(href) ? 2 : 0);
+
+      var marker = href.match(/[?&](?:sh)?marker=(\d+)/);
+      var payload = JSON.stringify({
+        program: program,
+        rewritten: rewritten,
+        marker: marker ? marker[1] : '',
+        path: location.pathname,
+      });
+
+      try {
+        // text/plain keeps this a simple request, so no preflight can drop it
+        // in a Facebook/LINE in-app webview.
+        navigator.sendBeacon('/api/click', new Blob([payload], { type: 'text/plain' }));
+      } catch (err) {}
+    }
+
+    document.addEventListener('click', report, true);
+    document.addEventListener('auxclick', report, true);
+  })();
+</script>
