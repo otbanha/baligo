@@ -44,7 +44,7 @@ _srcHash: 0041524e669f9a9f6567190979796bde
 - [【峇里島室內景點】Trans Studio Bali完全攻略：必玩五大設施](/zh-hk/blog/trans-studio-bali/)
 - [適合小學以上學童嘅四輪ATV叢林探險](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [安全、無難度嘅BB版泛舟（漂流河）](/zh-hk/blog/nukuwera-river-tubing-adventure/)
-- [烏布單車遊超深入峇里島奇特體驗](https://bit.ly/3pOCueS)
+- [烏布單車遊超深入峇里島奇特體驗](https://youtube.com/shorts/zlhzXPIxv7A)
 - [新手浮潛：艾眉嘅繽紛水底世界](https://www.youtube.com/watchttps://www.youtube.com/watch?v=qdS8Td7QPYY&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
 - [烏布家庭親子旅遊活動精選攻略：55項親子活動帶小朋友最輕鬆！](/zh-hk/blog/ubud-with-kids-guide/)
 - [動手玩藝術！Pondok Pekak圖書館嘅峇里島親子體驗](/zh-hk/blog/pondok-pekak-library-bali/)

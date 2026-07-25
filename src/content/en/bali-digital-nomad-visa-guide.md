@@ -88,7 +88,7 @@ Here are some highly recommended options:
 
 > [Livit Hub](https://liv.it/livit-hub-bali/): Situated in Sanur, this coworking space provides a comfortable and creative environment with fast internet, ergonomic furniture, Skype rooms, meeting rooms, and private offices. It also has a small kitchen where you can cook your own meals or order from nearby restaurants. You can enjoy perks like gym membership discounts, visa assistance, and health insurance plans.
 
-What makes Sanur so special? Check out the [Sanur Guide](https://s.id/sanur_guide)
+What makes Sanur so special? Check out the [Sanur Guide](/en/blog/sanur-guide/)
 
 ## **Check Your Internet Connection**
 

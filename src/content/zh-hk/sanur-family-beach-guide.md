@@ -111,7 +111,7 @@ _srcHash: ca835493a86c139c2290b63d20d354f4
 
 ![7.大型室內遊樂場](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
-沙努爾仲有好多超大型嘅冷氣室內遊樂場㗎！如果天氣太熱或者落雨，匿入呢度就實冇錯！請參考我哋嘅[沙努爾攻略](https://s.id/sanurguide)
+沙努爾仲有好多超大型嘅冷氣室內遊樂場㗎！如果天氣太熱或者落雨，匿入呢度就實冇錯！請參考我哋嘅[沙努爾攻略](/zh-hk/blog/sanur-guide/)
 
 ***
 

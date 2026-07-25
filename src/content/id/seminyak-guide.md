@@ -259,10 +259,10 @@ https://youtu.be/uFv_4Wr6YsI
 
 Pasti kamu juga penasaran sama rekomendasi penginapan pilihan kami di Seminyak:
 
-**> ▶Super lengkap**[**Rekomendasi Penginapan Romantis/Bulan Madu di Seminyak**](https://bit.ly/bali_sweet_honeymoon)
+**> ▶Super lengkap**[**Rekomendasi Penginapan Romantis/Bulan Madu di Seminyak**](/id/blog/bali-honeymoon-resorts-guide/)
 Liburan romantis di Bali: rekomendasi penginapan bulan madu di Seminyak, nikmati momen cinta yang berkilau!
 
-**> ▶Paling komplet**[**Rekomendasi Penginapan Ramah Keluarga di Seminyak**](https://bit.ly/bali_with_kids)
+**> ▶Paling komplet**[**Rekomendasi Penginapan Ramah Keluarga di Seminyak**](/id/blog/bali-family-travel-guide/)
 Penginapan ramah keluarga di Seminyak, ciptakan kenangan tak terlupakan bersama si kecil!
 
 **> ▶10**[**Rekomendasi Penginapan Budget di Seminyak**](/id/blog/seminyak-budget-hotels-guide/)

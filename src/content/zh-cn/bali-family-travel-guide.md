@@ -44,7 +44,7 @@ _srcHash: 0041524e669f9a9f6567190979796bde
 - [【巴厘岛室内景点】Trans Studio Bali完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
 - [适合小学以上学童的四轮ATV丛林探险](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [安全、无难度的宝宝版泛舟（漂流河](/zh-cn/blog/nukuwera-river-tubing-adventure/)）
-- [乌布自行车游 超深入巴厘岛奇特体验](https://bit.ly/3pOCueS)
+- [乌布自行车游 超深入巴厘岛奇特体验](https://youtube.com/shorts/zlhzXPIxv7A)
 - [新手浮潜：艾眉的缤纷水底世界](https://www.youtube.com/watchttps://www.youtube.com/watch?v=qdS8Td7QPYY&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
 - [乌布家庭亲子旅游活动精选攻略：55项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
 - [动手玩艺术！Pondok Pekak图书馆的巴厘岛亲子体验](/zh-cn/blog/pondok-pekak-library-bali/)

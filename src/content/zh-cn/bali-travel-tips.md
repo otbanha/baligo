@@ -75,7 +75,7 @@ Terima kasih! [谢谢]的意思
 - 巴厘岛最可怕的动物，不是狮子老虎，[竟然是「它」](/zh-cn/blog/bali-monkey-safety-tips/)
 - 巴厘岛旅游要给小费吗？小费怎么给？[巴厘岛各种场合的小费要给多少？](https://youtu.be/B_oT905RkQw)
 - [印尼/巴厘岛三大必备AP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
-- 如何选择住宿区域？[巴厘岛住宿指南懒人包](https://s.id/baliguide1)
+- 如何选择住宿区域？[巴厘岛住宿指南懒人包](/zh-cn/blog/bali-accommodation-area-guide/)
 - 最齐全的巴厘岛分区玩乐攻略
 - 超过300间的优质住宿推荐，[请看这里](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 

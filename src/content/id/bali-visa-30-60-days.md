@@ -42,6 +42,6 @@ Jadi, akhirnya dia apply visa lagi di tempat dan bayar lagi. Cerita ini menginga
 
 ![峇里島簽證申請必讀：30天 vs. 60天，一次搞懂！](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
 
-Sebelum membaca **"Panduan Liburan Mandiri ke Bali Paling Lengkap"** kami, kami dengan tulus mengundang kamu untuk subscribe dulu channel YouTube kami **"Xiao Jie Indonesia"** yang lebih fokus berbagi pengalaman visual. [Klik di sini](http://bit.ly/youtube-jason) untuk subscribe sekarang
+Sebelum membaca **"Panduan Liburan Mandiri ke Bali Paling Lengkap"** kami, kami dengan tulus mengundang kamu untuk subscribe dulu channel YouTube kami **"Xiao Jie Indonesia"** yang lebih fokus berbagi pengalaman visual. [Klik di sini](https://bit.ly/youtube-jason) untuk subscribe sekarang
 
 Setelah subscribe, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajahi setiap sudut seru Bali. Klik **"****Panduan Liburan Mandiri ke Bali Paling Lengkap****"** untuk mulai persiapkan perjalananmu ke Bali!

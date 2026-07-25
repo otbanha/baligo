@@ -83,7 +83,7 @@ _srcHash: b1c496e902ced0e8d64b186ee68b9817
 
 > [Livit Hub](https://liv.it/livit-hub-bali/)：喺沙努爾，呢個共享辦公空間提供舒適同創意嘅環境，有快速網絡、人體工學傢俬、Skype房、會議室同私人辦公室。仲有個小廚房，你可以自己煮嘢食或者喺附近餐廳叫外賣。你仲可以攞到各種福利，例如健身會員折扣、簽證協助同醫療保險計劃。
 
-> Sanur有咩咁吸引？睇呢度 [Sanur攻略](https://s.id/sanur_guide)
+> Sanur有咩咁吸引？睇呢度 [Sanur攻略](/zh-hk/blog/sanur-guide/)
 
 ## **確認網絡連接**
 

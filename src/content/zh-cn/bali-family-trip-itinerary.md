@@ -84,7 +84,7 @@ Natys Restaurant Ubud 用餐
 
 我们在Nukuwera玩River Tubing
 
-今天是乌布包车一日游，我们的第一站是[小杰](http://bit.ly/youtube-jason)介绍过的 **Nukuwera & Pandawa 漂漂河**。这里有附赠午餐，整个漂漂河的体验非常适合家庭，有孩子的我们也玩得很开心，小朋友们非常享受在水中的时光。
+今天是乌布包车一日游，我们的第一站是[小杰](https://bit.ly/youtube-jason)介绍过的 **Nukuwera & Pandawa 漂漂河**。这里有附赠午餐，整个漂漂河的体验非常适合家庭，有孩子的我们也玩得很开心，小朋友们非常享受在水中的时光。
 
 https://youtube.com/shorts/Z_vDb7AbMKg
 

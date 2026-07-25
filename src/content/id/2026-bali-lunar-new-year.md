@@ -84,7 +84,7 @@ Kalau kamu ingin merasakan suasana religius yang lebih tradisional, bisa mampir 
 **NUSA DUA**
 
 - [**Mulia Resort (Table8)**](/id/blog/mulia-resort-bali-luxury/)：Menyajikan menu Imlek khas Kanton yang klasik.
-- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts)：16 Februari malam ada buffet Asia yang lengkap, termasuk Yee Sang dan sesi ramalan.
+- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](/id/blog/nusa-dua-resorts-guide/)：16 Februari malam ada buffet Asia yang lengkap, termasuk Yee Sang dan sesi ramalan.
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)：16 Februari di Senses restaurant ada buffet dinner malam tahun baru (per orang IDR 1,000,000++). 15-20 Februari juga ada afternoon tea Imlek (dua orang IDR 1,100,000++).
 - [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：16-17 Februari ada paket Imlek (mulai IDR 1,688,000++ per pasangan), dan 9-22 Februari ada menu à la carte spesial. Makan malam tahun baru disertai petasan tradisional, dan lobby ada pop-up store Imlek.
 - [**Mr. Lobster**](/id/blog/mr-lobster-seafood-bali/)：16-21 Februari, setiap makan bisa ikut undian angpao, baik dewasa maupun anak-anak dapat hadiah. Angpao terbesar IDR 100,000. Lebih baik reservasi dari sekarang.
@@ -96,7 +96,7 @@ Kalau kamu ingin merasakan suasana religius yang lebih tradisional, bisa mampir 
 **Ubud**
 
 - [**Capella Ubud**](/id/blog/capella-ubud-luxury-resort/)：17 Februari ada tradisi "Lo Hei" (menyendok ikan untuk keberuntungan) dan masakan Peranakan khas Indonesia.
-- [**Padma Resort Ubud**](https://s.id/UbudResorts)：17 Februari malam ada "Perjamuan Keberuntungan", cocok buat kamu yang suka suasana pegunungan yang tenang.
+- [**Padma Resort Ubud**](/id/blog/ubud-resorts-guide/)：17 Februari malam ada "Perjamuan Keberuntungan", cocok buat kamu yang suka suasana pegunungan yang tenang.
 - [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-17502897/the-westin-ubud-resort-amp-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**：16 Februari jam 18.00-22.30 ada "Ubud Lunar Harmony" prasmanan malam tahun baru (IDR 588.000++/orang), lengkap dengan pertunjukan barongsai.
 
 ## 🗓️ Pengingat Tanggal Penting

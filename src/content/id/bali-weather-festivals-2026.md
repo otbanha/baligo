@@ -71,7 +71,7 @@ Empat bulan ini tepat berada di masa transisi dari musim hujan ke musim kemarau:
 **Daftar Tempat Wisata Rekomendasi Bulan Maret**
 
 - **Denpasar:** Sore hari tanggal 18 Maret, pergilah ke area Lapangan Puputan untuk menyaksikan **Pawai Ogoh-ogoh** yang paling megah dan autentik. (Lihat: [【Panduan Nyepi】Nyepi Day Bali 2026｜Yang Perlu Kamu Tahu tentang Pawai Ogoh-ogoh](/id/blog/nyepi-day-bali-guide-2026/))
-- **Resort Tebing Uluwatu:** Selama **Nyepi** (19-20 Maret), menginap di resort dengan pemandangan laut yang spektakuler. Di sini polusi cahaya sangat minim, jadi tempat terbaik di pulau untuk melihat 'Bima Sakti saat Nyepi'. (Lihat: [Rekomendasi 13 Resort Villa Pribadi dengan Pemandangan Laut di Uluwatu](https://s.id/uluwatu_Stay))
+- **Resort Tebing Uluwatu:** Selama **Nyepi** (19-20 Maret), menginap di resort dengan pemandangan laut yang spektakuler. Di sini polusi cahaya sangat minim, jadi tempat terbaik di pulau untuk melihat 'Bima Sakti saat Nyepi'. (Lihat: [Rekomendasi 13 Resort Villa Pribadi dengan Pemandangan Laut di Uluwatu](/id/blog/uluwatu-bali-villas-resorts-guide/))
 
 ![3 月：在極致熱鬧與絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
 
@@ -113,9 +113,9 @@ Empat bulan ini tepat berada di masa transisi dari musim hujan ke musim kemarau:
 
 **Daftar Tempat Wisata Rekomendasi Bulan Mei**
 
-- **Pusat Ubud (Ubud Center):** Demi **Ubud Food Festival**, wajib nginep di dekat pusat biar gampang bolak-balik ke acara lunch panjang dan workshop chef. (Cek juga [Rekomendasi Penginapan di Ubud](https://s.id/UbudResorts))
+- **Pusat Ubud (Ubud Center):** Demi **Ubud Food Festival**, wajib nginep di dekat pusat biar gampang bolak-balik ke acara lunch panjang dan workshop chef. (Cek juga [Rekomendasi Penginapan di Ubud](/id/blog/ubud-resorts-guide/))
 - **Aktivitas Air:** Di bulan ini belum banyak turis tapi cuacanya udah paling oke! (Cek juga [Panduan Lengkap Aktivitas Air di Bali: Nggak Cuma Snorkeling! 15 Cara Seru Main Air](/id/blog/2026-bali-water-activities/))
-- **Eksplorasi Pulau/Snorkeling:** Kondisi laut di bulan Mei mulai stabil, ini waktu terbaik buat ke **Nusa Lembongan** atau **Nusa Penida** buat snorkeling lihat ikan pari manta. (Cek juga [Panduan Nusa Lembongan](/id/blog/nusa-lembongan-ceningan-guide/) / [Panduan Nusa Penida](https://s.id/penida_guide))
+- **Eksplorasi Pulau/Snorkeling:** Kondisi laut di bulan Mei mulai stabil, ini waktu terbaik buat ke **Nusa Lembongan** atau **Nusa Penida** buat snorkeling lihat ikan pari manta. (Cek juga [Panduan Nusa Lembongan](/id/blog/nusa-lembongan-ceningan-guide/) / [Panduan Nusa Penida](/id/blog/nusa-penida-guide/))
 - **Tulamben:** Musim kemarau datang, visibilitas bawah laut super jernih, cocok buat diving lihat bangkai kapal. (Cek juga [Panduan Lengkap Destinasi Tersembunyi di Timur Laut Bali: Amed dan Tulamben](/id/blog/amed-tulamben-diving-guide/))
 
 ![5 月：吃貨與戶外控的黃金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)

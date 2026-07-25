@@ -39,7 +39,7 @@ eVisa (electronic visa on arrival, disingkat eVoA/eVisa) adalah visa yang diajuk
 4. Isi info perjalanan, upload paspor (halaman foto) dan foto (bisa pakai foto HP, yang jelas kelihatan wajah, background polos lebih oke)
 5. Siapkan kartu kredit (pembayaran online pakai Visa, Mastercard, atau JCB. Maksimal 5 orang bisa pakai 1 kartu. Amex nggak bisa! Ada biaya tambahan, total akhir Rp.519.500)
 
-eVisa bisa diajukan maksimal 3 hari sebelum berangkat. Setelah diajukan, berlaku 90 hari. Kalau ada pertanyaan soal visa, cek [FAQ eVisa/All Indonesia](https://s.id/AllInsonesia)
+eVisa bisa diajukan maksimal 3 hari sebelum berangkat. Setelah diajukan, berlaku 90 hari. Kalau ada pertanyaan soal visa, cek [FAQ eVisa/All Indonesia](/id/blog/bali-evisa-customs-health-declaration/)
 
 ## Apa Kelebihan eVisa?
 

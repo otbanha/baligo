@@ -67,9 +67,9 @@ _srcHash: 21ec4159113e8a63c1603d3dd3f5a631
 
 - 去烏魯瓦圖 (Uluwatu) 嘅景點，順便參加海灘節。
 
-烏魯瓦圖攻略： [50個景點介紹](https://s.id/uluwatu_guide)
+烏魯瓦圖攻略： [50個景點介紹](/zh-hk/blog/uluwatu-guide/)
 
-- 佳隆節喺烏布嘅主要街道會豎起好高嘅Penjor裝飾，真係好壯觀，難得一見！呢個時候亦係探索[烏布100個景點](https://s.id/ubud100)嘅好時機！
+- 佳隆節喺烏布嘅主要街道會豎起好高嘅Penjor裝飾，真係好壯觀，難得一見！呢個時候亦係探索[烏布100個景點](/zh-hk/blog/ubud-guide/)嘅好時機！
 
 ![推薦行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
@@ -82,10 +82,10 @@ _srcHash: 21ec4159113e8a63c1603d3dd3f5a631
 ### 💡 小資旅行碎碎念
 
 - **簽證提醒**：出發前記得先喺網上辦好 **峇里島** 電子落地簽 (e-VoA) 同 15 萬印尼盾嘅觀光稅。（快速參考：[【2026版】印尼峇里島入境1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/zh-hk/blog/bali-all-indonesia-arrival-guide/)）
-- **包車司機唔好亂搵：**睇[網友推薦嘅名單](https://s.id/bali_best_drivers)就冇錯！
+- **包車司機唔好亂搵：**睇[網友推薦嘅名單](/zh-hk/blog/bali-private-car-drivers-guide/)就冇錯！
 - **短程交通建議**：連假期間熱門景點（例如烏布、水明漾）容易塞車，短距離移動建議多用 Gojek/Grab 叫電單車，可以慳返唔少交通時間。
 
-《[峇里島 Gojek/Grab 實戰圖文指南](https://s.id/grab-gojek-bali)》
+《[峇里島 Gojek/Grab 實戰圖文指南](/zh-hk/blog/bali-grab-gojek-scam-tips/)》
 
 - **尊重習俗**：6 月佳隆節期間，好多當地人會返鄉過節，部分私人小店可能會休息，建議出發前確認行程。
   **呢三個連假，你決定好將邊一個交俾峇里島未？** 無論你想要 4 月嘅寧靜、5 月嘅悠閒，定係 6 月嘅瘋狂，而家就開始預訂你嘅機票啦！

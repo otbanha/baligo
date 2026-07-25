@@ -61,6 +61,6 @@ _srcHash: 615cad819e88bbd345f4f2f73942f036
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
-在阅读我们的「巴厘岛自由行究极旅行攻略」之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道「小杰 印尼」。[点击这里](http://bit.ly/youtube-jason)[，立即订阅](http://bit.ly/youtube-jason)
+在阅读我们的「巴厘岛自由行究极旅行攻略」之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道「小杰 印尼」。[点击这里](https://bit.ly/youtube-jason)[，立即订阅](https://bit.ly/youtube-jason)
 
 订阅完成后，您可以立即继续阅读我们详尽的攻略，深入探索巴厘岛的每个精彩角落。点击「巴厘岛自由行究极旅行攻略」，开始准备您的巴厘岛之旅！

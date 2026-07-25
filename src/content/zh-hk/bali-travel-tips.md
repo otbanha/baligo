@@ -75,7 +75,7 @@ Terima kasih！[多謝嘅意思]
 - 峇里島最恐怖嘅動物，唔係獅子老虎，[竟然係「佢」](/zh-hk/blog/bali-monkey-safety-tips/)
 - 峇里島旅遊要俾小費嗎？小費點俾？[巴里島各種場合嘅小費要俾幾多？](https://youtu.be/B_oT905RkQw)
 - [印尼/峇里島三大必備AP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
-- 點樣選擇住宿區域？[峇里島住宿指南懶人包](https://s.id/baliguide1)
+- 點樣選擇住宿區域？[峇里島住宿指南懶人包](/zh-hk/blog/bali-accommodation-area-guide/)
 - 最齊全嘅峇里島分區玩樂攻略
 - 超過300間嘅優質住宿推薦，[請睇呢度](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 

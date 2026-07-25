@@ -30,7 +30,7 @@ _srcHash: 2e7581c94063f725ebf5568902755cc2
 
 ## **Liburan ke Bali masa iya gak pakai eSIM?**
 
-Dengan perkembangan teknologi, traveling ke luar negeri sekarang gak perlu lagi repot gonta-ganti SIM card atau antre panjang di bandara. Sekarang, lewat [Klook beli Telkomsel eSIM](https://s.id/6IMQV), tinggal beberapa langkah aja urusan internet beres!
+Dengan perkembangan teknologi, traveling ke luar negeri sekarang gak perlu lagi repot gonta-ganti SIM card atau antre panjang di bandara. Sekarang, lewat [Klook beli Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F), tinggal beberapa langkah aja urusan internet beres!
 
 Baik pas mendarat di Bali langsung buka peta cari jalan, kirim chat, share foto, atau bahkan streaming video, semuanya gak perlu khawatir soal kualitas koneksi. Telkomsel adalah salah satu provider terbesar di Indonesia, jangkauan jaringannya luas banget, bahkan di daerah terpencil pun koneksinya stabil.
 
@@ -69,7 +69,7 @@ Apalagi pas ke Ubud dan Uluwatu yang agak pelosok, kecepatan internetnya tetap s
 
 ## **Pengingat: HP yang Support eSIM & Cara Setting**
 
-Sebelum beli, pastikan HP kamu support eSIM (misal iPhone XS ke atas, beberapa model Samsung & Pixel, dll). Cara aktivasi lengkap dan daftar HP yang kompatibel bisa cek [di sini](https://s.id/6IMQV).
+Sebelum beli, pastikan HP kamu support eSIM (misal iPhone XS ke atas, beberapa model Samsung & Pixel, dll). Cara aktivasi lengkap dan daftar HP yang kompatibel bisa cek [di sini](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F).
 
 ---
 
@@ -77,7 +77,7 @@ Sebelum beli, pastikan HP kamu support eSIM (misal iPhone XS ke atas, beberapa m
 
 Kalau kamu lagi persiapan ke Bali, jangan sampai kelewatan paket eSIM yang rated tinggi, stabil, dan super praktis ini. Klook kerja sama dengan Telkomsel, bikin kamu bisa langsung online begitu turun dari pesawat — nikmatin setiap momen liburan tanpa hambatan!
 
-▶ Pre-order [Telkomsel eSIM](https://s.id/6IMQV)
+▶ Pre-order [Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)
 
 ---
 
@@ -87,7 +87,7 @@ Kalau kamu lagi persiapan ke Bali, jangan sampai kelewatan paket eSIM yang rated
 
 ### **Q1. HP apa aja yang support Telkomsel eSIM dari Klook?**
 
-HP yang support eSIM antara lain iPhone XS ke atas, Samsung Galaxy S20 ke atas, Google Pixel 3 ke atas. Cek [daftar lengkap di Klook](https://s.id/6IMQV).
+HP yang support eSIM antara lain iPhone XS ke atas, Samsung Galaxy S20 ke atas, Google Pixel 3 ke atas. Cek [daftar lengkap di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F).
 
 ### **Q2. Cara install eSIM gimana?**
 
@@ -105,4 +105,4 @@ Pakai Klook App bisa isi ulang kuota atau perpanjang masa aktif sekali klik, bia
 
 Telkomsel punya jangkauan jaringan paling luas di Indonesia, bahkan di daerah non-perkotaan pun koneksinya tetap stabil.
 
-▶Pre-order [Telkomsel eSIM](https://s.id/6IMQV)
+▶Pre-order [Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)

@@ -69,9 +69,9 @@ Masih penasaran sama libur Imlek bulan Februari? Tenang, panduan cuti semester a
 
 - Kunjungi tempat-tempat di Uluwatu, sekalian ikut festival pantai.
 
-Panduan Uluwatu: [50 tempat wisata](https://s.id/uluwatu_guide)
+Panduan Uluwatu: [50 tempat wisata](/id/blog/uluwatu-guide/)
 
-- Di jalan utama Ubud, festival Galungan memasang hiasan Penjor yang menjulang tinggi — pemandangannya spektakuler dan jarang banget bisa lihat! Ini juga waktu yang pas buat eksplor [100 spot di Ubud](https://s.id/ubud100)!
+- Di jalan utama Ubud, festival Galungan memasang hiasan Penjor yang menjulang tinggi — pemandangannya spektakuler dan jarang banget bisa lihat! Ini juga waktu yang pas buat eksplor [100 spot di Ubud](/id/blog/ubud-guide/)!
 
 ![推薦行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
@@ -84,10 +84,10 @@ Panduan Uluwatu: [50 tempat wisata](https://s.id/uluwatu_guide)
 ### 💡 Catatan Perjalanan Budget-Friendly
 
 - **Pengingat Visa**: Sebelum berangkat, jangan lupa urus **e-VoA** (Electronic Visa on Arrival) untuk **Bali** dan pajak turis sebesar 150.000 IDR secara online. (Cek cepat: [【2026版】Panduan Masuk Bali Indonesia: Dari Turun Pesawat → Imigrasi → Ambil Bagasi, Lengkap!](/id/blog/bali-all-indonesia-arrival-guide/))
-- **Jangan asal cari driver sewaan**: Lihat [daftar rekomendasi dari netizen](https://s.id/bali_best_drivers) pasti aman!
+- **Jangan asal cari driver sewaan**: Lihat [daftar rekomendasi dari netizen](/id/blog/bali-private-car-drivers-guide/) pasti aman!
 - **Tips transportasi jarak pendek**: Saat liburan panjang, tempat populer (seperti Ubud, Seminyak) macet parah. Kalau jarak dekat, mending pakai Gojek/Grab motor — bisa hemat banyak waktu.
 
-《[Panduan Praktis Gojek/Grab di Bali](https://s.id/grab-gojek-bali)》
+《[Panduan Praktis Gojek/Grab di Bali](/id/blog/bali-grab-gojek-scam-tips/)》
 
 - **Hormati tradisi**: Selama festival Galungan di bulan Juni, banyak penduduk lokal pulang kampung, beberapa toko kecil mungkin tutup. Sebaiknya cek jadwal dulu sebelum berangkat.
   **Tiga liburan panjang ini, kamu udah mutusin yang mana buat dikasih ke Bali?** Mau yang tenang di April, santai di Mei, atau heboh di Juni — sekarang juga booking tiket pesawatmu!

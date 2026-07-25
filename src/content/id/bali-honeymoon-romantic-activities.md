@@ -95,13 +95,13 @@ Pura misterius ini jadi rumah buat ratusan monyet nakal. Seru banget jalan-jalan
 
 ## Nikmatin SPA
 
-Cari suasana romantis buat bulan madu yang rileks? SPA mewah ala Bali jawabannya! Nikmatin pijat tradisional Bali di lingkungan yang super elegan, bikin badan dan pikiran rileks total. Cobain mandi bunga bareng pasangan, lengkap dengan pijat dan perawatan kecantikan yang bikin hubungan makin mesra. Petualangan SPA yang menyenangkan ini bakal nambahin sentuhan mewah dan intim di bulan madu kalian, ciptain kenangan yang nggak terlupakan. Rekomendasi SPA mewah di Bali 【[cek di sini](https://s.id/spa_guide)】
+Cari suasana romantis buat bulan madu yang rileks? SPA mewah ala Bali jawabannya! Nikmatin pijat tradisional Bali di lingkungan yang super elegan, bikin badan dan pikiran rileks total. Cobain mandi bunga bareng pasangan, lengkap dengan pijat dan perawatan kecantikan yang bikin hubungan makin mesra. Petualangan SPA yang menyenangkan ini bakal nambahin sentuhan mewah dan intim di bulan madu kalian, ciptain kenangan yang nggak terlupakan. Rekomendasi SPA mewah di Bali 【[cek di sini](/id/blog/spa/)】
 
 ![享受SPA](https://images.gobaligo.id/vocus/vocus_f7f5191a96ea7d54fb5136f6c0ae3e50.jpg)
 
 ## Eksplorasi Air Terjun
 
-Jalan-jalan bareng pasangan di hutan hijau yang asri, nikmatin keajaiban alam. Pelukan di bawah guyuran air sejuk, berbagi momen langka dekat dengan alam. Suara air terjun bercampur cinta, bikin bulan madu kalian makin misterius dan romantis. Di air terjun Ubud, cinta bakal terhanyut dalam keindahan alam, ciptain perjalanan yang nggak terlupakan. Ada banyak air terjun super cantik di Bali yang bisa dikunjungi, lho! Kalau nggak mau jalan jauh, [cek di sini](https://s.id/waterfalls) ada rekomendasi air terjun dekat Ubud dari Jie
+Jalan-jalan bareng pasangan di hutan hijau yang asri, nikmatin keajaiban alam. Pelukan di bawah guyuran air sejuk, berbagi momen langka dekat dengan alam. Suara air terjun bercampur cinta, bikin bulan madu kalian makin misterius dan romantis. Di air terjun Ubud, cinta bakal terhanyut dalam keindahan alam, ciptain perjalanan yang nggak terlupakan. Ada banyak air terjun super cantik di Bali yang bisa dikunjungi, lho! Kalau nggak mau jalan jauh, [cek di sini](/id/blog/ubud-waterfalls-guide/) ada rekomendasi air terjun dekat Ubud dari Jie
 
 ![瀑布探秘](https://images.gobaligo.id/vocus/vocus_938b0c358a8c951335a2d0090ffa695d.jpg)
 

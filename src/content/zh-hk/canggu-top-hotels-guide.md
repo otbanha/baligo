@@ -45,7 +45,7 @@ _srcHash: a8452b02387c27d1b0e18fee230dcbf7
 * 坎古[沙灘騎馬](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
 * 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
 * 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
-* 坎古 [按摩SPA唔踩雷推薦](https://s.id/spa_guide)
+* 坎古 [按摩SPA唔踩雷推薦](/zh-hk/blog/spa/)
 * 坎古 [到會按摩服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
 等我哋開始探索坎古嘅頂級住宿啦，為你嘅旅程增添更多精彩回憶！最底仲有呢16間住宿推薦嘅地理位置圖。
@@ -374,7 +374,7 @@ Agoda 住客評分 9.0、Trip.com 9.2，呢個分數對一間啱啱開冇耐嘅�
 * 坎古[沙灘騎馬](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
 * 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
 * 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
-* 坎古 [按摩SPA唔中伏推薦](https://s.id/spa_guide)
+* 坎古 [按摩SPA唔中伏推薦](/zh-hk/blog/spa/)
 * 坎古 [到府按摩服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 * 坎古 [美食優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
 

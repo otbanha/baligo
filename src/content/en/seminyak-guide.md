@@ -259,10 +259,10 @@ https://youtu.be/uFv_4Wr6YsI
 
 You'll definitely want to check out our curated Seminyak accommodation picks:
 
-**> ▶ The ultimate **[**Seminyak Honeymoon & Romantic Stays Guide**](https://bit.ly/bali_sweet_honeymoon)
+**> ▶ The ultimate **[**Seminyak Honeymoon & Romantic Stays Guide**](/en/blog/bali-honeymoon-resorts-guide/)
 Romantic Bali getaway: Seminyak honeymoon stays for unforgettable moments of love!
 
-**> ▶ The most comprehensive **[**Seminyak Family-Friendly Accommodation Guide**](https://bit.ly/bali_with_kids)
+**> ▶ The most comprehensive **[**Seminyak Family-Friendly Accommodation Guide**](/en/blog/bali-family-travel-guide/)
 Seminyak family-friendly stays for creating lasting memories together!
 
 **> ▶ 10 **[**Budget-Friendly Seminyak Hotels**](/en/blog/seminyak-budget-hotels-guide/)

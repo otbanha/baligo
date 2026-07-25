@@ -67,9 +67,9 @@ _srcHash: 21ec4159113e8a63c1603d3dd3f5a631
 
 - 造访乌鲁瓦图 (Uluwatu) 的景点，顺便参加海滩节。
 
-乌鲁瓦图攻略： [50个景点介绍](https://s.id/uluwatu_guide)
+乌鲁瓦图攻略： [50个景点介绍](/zh-cn/blog/uluwatu-guide/)
 
-- 佳隆节在乌布的主要街道会立起高耸的Penjor装饰，非常壮观并且难得一见！此时也是探索[乌布100个景点](https://s.id/ubud100)的好时机！
+- 佳隆节在乌布的主要街道会立起高耸的Penjor装饰，非常壮观并且难得一见！此时也是探索[乌布100个景点](/zh-cn/blog/ubud-guide/)的好时机！
 
 ![推薦行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
@@ -82,10 +82,10 @@ _srcHash: 21ec4159113e8a63c1603d3dd3f5a631
 ### 💡 小资旅行碎碎念
 
 - **签证提醒**：出发前记得先线上办好 **巴厘岛** 电子落地签 (e-VoA) 与 15 万印尼盾的观光税。（快速参考：[【2026版】印尼巴厘岛入境1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/zh-cn/blog/bali-all-indonesia-arrival-guide/)）
-- **包车司机别乱找：**看[网友推荐的名单](https://s.id/bali_best_drivers)不会错！
+- **包车司机别乱找：**看[网友推荐的名单](/zh-cn/blog/bali-private-car-drivers-guide/)不会错！
 - **短程交通建议**：连假期间热门景点（如乌布、水明漾）易塞车，小距离移动建议多利用 Gojek/Grab 叫机车能省下不少交通时间。
 
-《[巴厘岛 Gojek/Grab 实战图文指南](https://s.id/grab-gojek-bali)》
+《[巴厘岛 Gojek/Grab 实战图文指南](/zh-cn/blog/bali-grab-gojek-scam-tips/)》
 
 - **尊重习俗**：6 月佳隆节期间，许多当地人回乡过节，部分私人小店可能会休息，建议出发前确认行程。
   **这三个连假，你决定好要把哪一个交给巴厘岛了吗？** 不管是想要 4 月的宁静、5 月的悠闲，还是 6 月的疯狂，现在就开始预订你的机票吧！

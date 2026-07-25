@@ -428,7 +428,7 @@ Di Ubud, bahkan main ayunan aja bisa jadi pengalaman yang eksotis banget. Di beb
 
 > [Paket One Day Tour Ubud dengan Jungle Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1ac6af4cc9)
 
-Referensi cepat: [「Panduan Swing Ubud/Sewa Gaun」](https://s.id/ubud_swing)
+Referensi cepat: [「Panduan Swing Ubud/Sewa Gaun」](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DUbud%2520swing%26search_scope%3Dmain_search)
 
 ### Pengalaman Balon Udara
 

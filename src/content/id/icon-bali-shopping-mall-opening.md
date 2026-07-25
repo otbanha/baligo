@@ -71,6 +71,6 @@ Pembukaan ICON Bali bakal kasih pengalaman belanja dan hiburan baru di Bali, sek
 
 ![Kesimpulan](https://images.gobaligo.id/vocus/vocus_bd9efca76177b6f53e3e5da6ddf624f9.png)
 
-Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang!
+Sebelum baca **「Panduan Liburan Mandiri Bali Paling Lengkap」**, kami ajak kamu subscribe dulu channel YouTube **「Xiao Jie Indonesia」** yang penuh konten visual seru. [Klik di sini](https://bit.ly/youtube-jason) buat subscribe sekarang!
 
 Setelah subscribe, langsung lanjut baca panduan lengkap kami dan eksplor setiap sudut keren Bali. Klik **「****Panduan Liburan Mandiri Bali Paling Lengkap****」** buat mulai rencanain liburanmu ke Bali!

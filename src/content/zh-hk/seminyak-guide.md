@@ -254,10 +254,10 @@ https://youtu.be/uFv_4Wr6YsI
 
 你一定仲想睇我哋準備嘅水明漾精選住宿：
 
-**> ▶超齊全嘅**[**水明漾蜜月/浪漫住宿推薦**](https://bit.ly/bali_sweet_honeymoon)
+**> ▶超齊全嘅**[**水明漾蜜月/浪漫住宿推薦**](/zh-hk/blog/bali-honeymoon-resorts-guide/)
 浪漫峇里島之旅：水明漾蜜月住宿推薦，專享愛嘅璀璨時光！
 
-**> ▶最完整嘅**[**水明漾親子友善住宿推薦**](https://bit.ly/bali_with_kids)
+**> ▶最完整嘅**[**水明漾親子友善住宿推薦**](/zh-hk/blog/bali-family-travel-guide/)
 水明漾親子友善住宿，共創難忘親子回憶！
 
 **> ▶10間**[**水明漾平價住宿推薦**](/zh-hk/blog/seminyak-budget-hotels-guide/)

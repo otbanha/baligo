@@ -29,7 +29,7 @@ Kalau kamu mau ngerasain budaya tradisional Bali secara mendalam, pertunjukan di
 
 ### Pengalaman Budaya Mendalam ala Jie Kecil
 
-[Jie Kecil Indonesia](http://bit.ly/youtube-jason) sekolahnya pada tanggal 17 September, terbang dari Jakarta ke Bali, memulai perjalanan budaya belajar di luar kelas selama empat hari tiga malam. Kegiatan ini sengaja mengatur kunjungan budaya yang mendalam, biar para siswa bisa menjelajahi seni dan tradisi Bali. Pagi-pagi tanggal 18 September, mereka langsung sampai di Balerung Stage Ubud, buat belajar musik Gamelan dan tari Legong. Ini kesempatan langka banget, pengalaman budaya berharga yang susah didapat turis biasa! Musik dan tarian ini penuh dengan sejarah dan kekayaan budaya, ngasih inspirasi sensorik dan spiritual yang beda dari belajar di kelas. Kamu bisa lihat proses belajar mereka di bawah, buat tahu lebih banyak tentang pengalaman berharga ini.
+[Jie Kecil Indonesia](https://bit.ly/youtube-jason) sekolahnya pada tanggal 17 September, terbang dari Jakarta ke Bali, memulai perjalanan budaya belajar di luar kelas selama empat hari tiga malam. Kegiatan ini sengaja mengatur kunjungan budaya yang mendalam, biar para siswa bisa menjelajahi seni dan tradisi Bali. Pagi-pagi tanggal 18 September, mereka langsung sampai di Balerung Stage Ubud, buat belajar musik Gamelan dan tari Legong. Ini kesempatan langka banget, pengalaman budaya berharga yang susah didapat turis biasa! Musik dan tarian ini penuh dengan sejarah dan kekayaan budaya, ngasih inspirasi sensorik dan spiritual yang beda dari belajar di kelas. Kamu bisa lihat proses belajar mereka di bawah, buat tahu lebih banyak tentang pengalaman berharga ini.
 
 ### Pesta Visual dan Auditori
 

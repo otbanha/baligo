@@ -97,7 +97,7 @@ _srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
 **建议**：
 
 - 至少提前 30 分钟入场
-- 建议当天白天安排到附近的 [Nusa Dua 景点](https://s.id/nusadua_guide)放松，再前往剧院观赏夜间表演
+- 建议当天白天安排到附近的 [Nusa Dua 景点](/zh-cn/blog/nusa-dua-guide/)放松，再前往剧院观赏夜间表演
 
 ***
 

@@ -69,9 +69,9 @@ Still savoring the February Chinese New Year break? No worries—we've already m
 
 - Visit attractions in Uluwatu and join the beach festival.
 
-Uluwatu guide: [50 attractions introduction](https://s.id/uluwatu_guide)
+Uluwatu guide: [50 attractions introduction](/en/blog/uluwatu-guide/)
 
-- During the Galungan festival, towering Penjor decorations line the main streets of Ubud, creating a spectacular and rare sight! This is also a great time to explore the [100 Ubud Attractions](https://s.id/ubud100)!
+- During the Galungan festival, towering Penjor decorations line the main streets of Ubud, creating a spectacular and rare sight! This is also a great time to explore the [100 Ubud Attractions](/en/blog/ubud-guide/)!
 
 ![推薦行程](https://images.gobaligo.id/vocus/vocus_4b32bc60b0a1fe9787825097f68cb2e8.jpg)
 
@@ -84,10 +84,10 @@ Uluwatu guide: [50 attractions introduction](https://s.id/uluwatu_guide)
 ### 💡 Budget Travel Tips
 
 - **Visa Reminder**: Before departure, make sure to apply online for the **Bali** e-Visa on Arrival (e-VoA) and pay the IDR 150,000 tourism tax. (Quick reference: [【2026 Edition】Indonesia Bali Entry in 1 Minute: Latest Process from Landing to Customs to Baggage Claim](/en/blog/bali-all-indonesia-arrival-guide/))
-- **Don't Hire a Random Driver**: Check out [this list of recommended drivers](https://s.id/bali_best_drivers) to avoid trouble!
+- **Don't Hire a Random Driver**: Check out [this list of recommended drivers](/en/blog/bali-private-car-drivers-guide/) to avoid trouble!
 - **Short-Distance Transport Tip**: During holidays, popular spots (like Ubud and Seminyak) can get congested. For short trips, using Gojek/Grab to book a scooter can save you a lot of time.
 
-[Bali Gojek/Grab Practical Guide with Photos](https://s.id/grab-gojek-bali)
+[Bali Gojek/Grab Practical Guide with Photos](/en/blog/bali-grab-gojek-scam-tips/)
 
 - **Respect Local Customs**: During the Galungan festival in June, many locals return to their hometowns to celebrate, so some small private shops may be closed. It's a good idea to confirm your itinerary before heading out.
   **Which of these three long weekends will you dedicate to Bali?** Whether you're after the tranquility of April, the relaxation of May, or the excitement of June, start booking your flights now!

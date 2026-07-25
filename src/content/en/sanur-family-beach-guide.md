@@ -114,7 +114,7 @@ This is a gentle moment to share a peaceful time with your children, and a rare 
 
 ![7.大型室內遊樂場](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
-In Sanur, there are also several huge air-conditioned indoor playgrounds! If the weather gets too hot or it starts raining, this is the perfect place to take shelter. Check out our [Sanur Guide](https://s.id/sanurguide) for more details.
+In Sanur, there are also several huge air-conditioned indoor playgrounds! If the weather gets too hot or it starts raining, this is the perfect place to take shelter. Check out our [Sanur Guide](/en/blog/sanur-guide/) for more details.
 
 ***
 

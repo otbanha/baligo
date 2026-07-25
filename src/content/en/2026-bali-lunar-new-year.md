@@ -79,7 +79,7 @@ For a more traditional religious atmosphere, head to one of the island's Chinese
 **NUSA DUA**
 
 - [**Mulia Resort (Table8)**](/en/blog/mulia-resort-bali-luxury/): Offers a classic Cantonese festive menu.
-- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts): On February 16, a lavish Asian buffet featuring Yee Sang and fortune-telling activities.
+- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](/en/blog/nusa-dua-resorts-guide/): On February 16, a lavish Asian buffet featuring Yee Sang and fortune-telling activities.
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765): New Year's Eve buffet dinner on February 16 at Senses restaurant (IDR 1,000,000++ per person). Lunar New Year afternoon tea from February 15 to 20 (IDR 1,100,000++ for two).
 - [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**: Lunar New Year set menus from February 16 to 17 (from IDR 1,688,000++ per couple), with a special à la carte menu from the 9th to the 22nd. The New Year's Eve dinner includes traditional firecracker celebrations, and a festive pop-up shop in the lobby during the period.
 - [**Mr. Lobster**](/en/blog/mr-lobster-seafood-bali/): From February 16 to 21, dine to win red envelopes with prizes for all ages—the biggest prize is IDR 100,000. Reservations recommended.
@@ -91,7 +91,7 @@ For a more traditional religious atmosphere, head to one of the island's Chinese
 **Ubud**
 
 - [**Capella Ubud**](/en/blog/capella-ubud-luxury-resort/): On February 17, enjoy a traditional "lo hei" (prosperity toss) ceremony and Peranakan cuisine with Indonesian flair.
-- [**Padma Resort Ubud**](https://s.id/UbudResorts): On February 17, a "Fortune Feast" dinner is offered, perfect for travelers seeking a serene mountain retreat.
+- [**Padma Resort Ubud**](/en/blog/ubud-resorts-guide/): On February 17, a "Fortune Feast" dinner is offered, perfect for travelers seeking a serene mountain retreat.
 - [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-17502897/the-westin-ubud-resort-amp-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**: On February 16, from 6 PM to 10:30 PM, enjoy the "Ubud Lunar Harmony" New Year's Eve buffet dinner (IDR 588,000++ per person), featuring a lion dance performance.
 
 ## 🗓️ Key Dates to Note

@@ -94,7 +94,7 @@ When the chest opens, the cultural spirit of the five islands bursts forth, and 
 - Music combines traditional melodies with contemporary rhythms
 
 - Enter at least 30 minutes before the show starts
-- We recommend spending the daytime relaxing at nearby [Nusa Dua attractions](https://s.id/nusadua_guide) before heading to the theater for the evening performance
+- We recommend spending the daytime relaxing at nearby [Nusa Dua attractions](/en/blog/nusa-dua-guide/) before heading to the theater for the evening performance
 
 ***
 

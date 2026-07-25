@@ -65,6 +65,6 @@ If you run into any issues while applying for an e-visa, we've compiled a compre
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
-Before diving into our 'Ultimate Bali Travel Guide,' we warmly invite you to subscribe to our YouTube channel 'Xiao Jie Indonesia' for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now.
+Before diving into our 'Ultimate Bali Travel Guide,' we warmly invite you to subscribe to our YouTube channel 'Xiao Jie Indonesia' for more visual experiences. [Click here](https://bit.ly/youtube-jason) to subscribe now.
 
 Once subscribed, you can continue reading our in-depth guide and explore every fascinating corner of Bali. Click on 'Ultimate Bali Travel Guide' to start planning your Bali adventure!

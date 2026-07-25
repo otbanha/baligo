@@ -113,7 +113,7 @@ https://youtube.com/shorts/-qvy0RZq1j8
 
 但是印尼盾动辄至少几百万带在身上（台币：印尼盾约为1:500），如果不想带那么多现金，也可以考虑上一则提到的 Gojek app 里面的电子钱包。
 
-> 延伸阅读：[看懂价格中的「K」如何帮助您控制预算](https://s.id/whatsk)
+> 延伸阅读：[看懂价格中的「K」如何帮助您控制预算](/zh-cn/blog/bali-budget-tips-k-explained/)
 
 {{block:klook}}
 

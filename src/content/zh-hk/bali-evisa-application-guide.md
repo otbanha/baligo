@@ -34,7 +34,7 @@ _srcHash: b06b79668817f465b0dac77693cd2d4f
 4. 填寫旅遊資訊，並上傳護照（相片頁）同相片（可以用手機相，要清楚睇到本人/最好係單色背景牆嘅相）
 5. 準備好付款信用卡(網上刷卡要用Visa、Mastercard或JCB信用卡。最多五個人可以同時申請/用一張信用卡。Amex信用卡唔用得㗎！刷卡有加成，最後金額係Rp.519,500)
 
-電子簽證只要喺出發前3日內完成申請就得。單次申請後90日內有效。如果對簽證申請有疑問，呢度有【[入境印尼/峇里島必填eVisa/All Indonesia 常見問題 FAQ](https://s.id/AllInsonesia)】
+電子簽證只要喺出發前3日內完成申請就得。單次申請後90日內有效。如果對簽證申請有疑問，呢度有【[入境印尼/峇里島必填eVisa/All Indonesia 常見問題 FAQ](/zh-hk/blog/bali-evisa-customs-health-declaration/)】
 
 ## 電子簽證有咩優點？
 

@@ -23,7 +23,7 @@ _srcHash: 2e7581c94063f725ebf5568902755cc2
 
 ## **巴厘岛旅游怎能少了 eSIM？**
 
-随着科技发展，出国旅游早已不需再插拔 SIM 卡、在机场排长队购买上网卡。现在，通过 [Klook 购买 Telkomsel eSIM](https://s.id/6IMQV)，只需几步就能轻松搞定上网问题！
+随着科技发展，出国旅游早已不需再插拔 SIM 卡、在机场排长队购买上网卡。现在，通过 [Klook 购买 Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)，只需几步就能轻松搞定上网问题！
 
 无论是落地巴厘岛后立即打开地图找路，还是传消息、分享照片，甚至使用串流影音，都完全无需担心连线品质。Telkomsel 是印尼最大电信商之一，网络覆盖率极广，连在偏远地区都能稳定连线。
 
@@ -62,7 +62,7 @@ Klook 提供多种弹性选项，满足不同旅客的需求：
 
 ## **eSIM 适用手机与设定方式提醒**
 
-在购买前请务必确认您的手机支持 eSIM 功能（如 iPhone XS 以上、部分 Samsung 与 Pixel 机型等）。详细开通方式与兼容机型，可至[这里](https://s.id/6IMQV)查询完整教程。
+在购买前请务必确认您的手机支持 eSIM 功能（如 iPhone XS 以上、部分 Samsung 与 Pixel 机型等）。详细开通方式与兼容机型，可至[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)查询完整教程。
 
 ---
 
@@ -70,7 +70,7 @@ Klook 提供多种弹性选项，满足不同旅客的需求：
 
 若您正准备前往巴厘岛，千万不要错过这款高评价、稳定又便利的 eSIM 方案。Klook 搭配 Telkomsel，让您从下飞机开始就能无缝连接，尽情享受旅程的每一刻！
 
-▶预购 [Telkomsel eSIM](https://s.id/6IMQV)
+▶预购 [Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)
 
 ---
 
@@ -80,7 +80,7 @@ Klook 提供多种弹性选项，满足不同旅客的需求：
 
 ### **Q1. 哪些手机支持 Klook 的 Telkomsel eSIM？**
 
-目前支持 eSIM 的手机包含 iPhone XS 以上、Samsung Galaxy S20 以上、Google Pixel 3 以上等。请至 [Klook 查阅完整清单](https://s.id/6IMQV)。
+目前支持 eSIM 的手机包含 iPhone XS 以上、Samsung Galaxy S20 以上、Google Pixel 3 以上等。请至 [Klook 查阅完整清单](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)。
 
 ### **Q2. eSIM 要如何安装？**
 
@@ -98,4 +98,4 @@ Klook 提供多种弹性选项，满足不同旅客的需求：
 
 Telkomsel 在印尼拥有最广泛的网络覆盖，即使在非城市区域也能保持稳定连接。
 
-▶预购 [Telkomsel eSIM](https://s.id/6IMQV)
+▶预购 [Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)

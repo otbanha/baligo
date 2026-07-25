@@ -39,6 +39,6 @@ Sekolah Surfing Xiao Jie https://www.nanabananasurfguide.com/ Instrukturnya kasi
 
 Kupon diskon surfing bisa dilihat di deskripsi video:
 
-Subscribe channel J Indonesia 小傑 印尼: http://bit.ly/youtube-jason
+Subscribe channel J Indonesia 小傑 印尼: https://bit.ly/youtube-jason
 
 Gabung grup FB 'Indonesia Travel Guide' buat info wisata & kuliner Indonesia: https://www.facebook.com/groups/indonesia.travelguide/

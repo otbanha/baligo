@@ -109,7 +109,7 @@ https://youtube.com/shorts/-qvy0RZq1j8
 
 但係印尼盾閒閒地都至少幾百萬帶喺身（台幣：印尼盾約為1:500），如果唔想帶咁多現金，都可以考慮上一則提到嘅Gojek app入面嘅電子錢包。
 
-> 延伸閱讀：[睇明價格中嘅「K」點樣幫你控制預算](https://s.id/whatsk)
+> 延伸閱讀：[睇明價格中嘅「K」點樣幫你控制預算](/zh-hk/blog/bali-budget-tips-k-explained/)
 
 {{block:klook}}
 

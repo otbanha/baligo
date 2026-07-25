@@ -72,7 +72,7 @@ _srcHash: 08e9bf4f53b5caa03b120368636ef587
 **3月推薦旅遊地點清單**
 
 - **登巴薩 (Denpasar)：** 3/18傍晚去Puputan廣場一帶，睇最壯觀、最原汁原味嘅 **Ogoh-ogoh 妖怪大遊行**。（請參考：[【寧靜日攻略】2026峇里島靜居日/寧靜日（Nyepi Day）｜妖怪大遊行須知](/zh-hk/blog/nyepi-day-bali-guide-2026/)）
-- **烏魯瓦圖 (Uluwatu) 斷崖度假村：** 3/19-20 **靜居日 (Nyepi)** 期間，留喺有壯麗海景嘅度假村入面。呢度光害極少，係全島睇「靜居日銀河」嘅最佳地點。（請參考：[烏魯瓦圖 Uluwatu住宿推薦：13間無敵海景嘅私密別墅渡假村](https://s.id/uluwatu_Stay)）
+- **烏魯瓦圖 (Uluwatu) 斷崖度假村：** 3/19-20 **靜居日 (Nyepi)** 期間，留喺有壯麗海景嘅度假村入面。呢度光害極少，係全島睇「靜居日銀河」嘅最佳地點。（請參考：[烏魯瓦圖 Uluwatu住宿推薦：13間無敵海景嘅私密別墅渡假村](/zh-hk/blog/uluwatu-bali-villas-resorts-guide/)）
 
 ![3 月：在極致熱鬧與絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
 
@@ -114,9 +114,9 @@ _srcHash: 08e9bf4f53b5caa03b120368636ef587
 
 **5月推薦旅遊地點清單**
 
-- **烏布中心區 (Ubud Center)：** 為咗 **烏布美食節**，一定要住喺中心區附近，方便穿梭喺各個長枱午餐同廚師講座之間。（可以參考[烏布住宿推薦](https://s.id/UbudResorts)）
+- **烏布中心區 (Ubud Center)：** 為咗 **烏布美食節**，一定要住喺中心區附近，方便穿梭喺各個長枱午餐同廚師講座之間。（可以參考[烏布住宿推薦](/zh-hk/blog/ubud-resorts-guide/)）
 - **水上活動：** 呢個時候冇旺季嘅人潮，但就有最好嘅天氣！（可以參考[峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/zh-hk/blog/2026-bali-water-activities/)）
-- **離島探險/浮潛：** 5月海況開始穩定，係去 **藍夢島** 或者去 **佩尼達島** 浮潛睇魔鬼魚嘅最佳時機。（可以參考[藍夢島攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/) / [佩尼達島攻略](https://s.id/penida_guide)）
+- **離島探險/浮潛：** 5月海況開始穩定，係去 **藍夢島** 或者去 **佩尼達島** 浮潛睇魔鬼魚嘅最佳時機。（可以參考[藍夢島攻略](/zh-hk/blog/nusa-lembongan-ceningan-guide/) / [佩尼達島攻略](/zh-hk/blog/nusa-penida-guide/)）
 - **土蘭奔 (Tulamben)：** 乾季報到，水底能見度極佳，適合探索沉船潛水。（可以參考[峇里島東北角秘境：艾眉 Amed 同土蘭奔 Tulamben 完整攻略](/zh-hk/blog/amed-tulamben-diving-guide/)）
 
 ![5 月：吃貨與戶外控的黃金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)

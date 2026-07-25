@@ -37,7 +37,7 @@ Under current regulations, visitors from Taiwan or Hong Kong can apply for a Vis
 
 ![旅遊便利升級！印尼或擬開放免簽，台灣遊客福利大增](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
-Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now!
+Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](https://bit.ly/youtube-jason) to subscribe now!
 
 After subscribing, you can immediately continue reading our comprehensive guide, exploring every fascinating corner of Bali. Click **"****The Ultimate Bali Travel Guide****"** to start planning your Bali trip!
 

@@ -79,7 +79,7 @@ _srcHash: c559ef8663e957d9fb856e4e10b8255d
 **努沙杜瓦**
 
 - [**穆麗雅酒店 (Table8)**](/zh-hk/blog/mulia-resort-bali-luxury/)：提供經典嘅粵式節慶菜單。
-- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts)：2月16號夜晚有豐富嘅亞洲自助餐，包括魚生（Yee Sang）同命理諮詢活動。
+- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](/zh-hk/blog/nusa-dua-resorts-guide/)：2月16號夜晚有豐富嘅亞洲自助餐，包括魚生（Yee Sang）同命理諮詢活動。
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)：2月16號喺Senses餐廳搞除夕自助晚餐（每人IDR 1,000,000++）。2月15號至20號另有新春下午茶（兩人IDR 1,100,000++）。
 - [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：2月16號至17號推出新春套餐（每對IDR 1,688,000++起），9號至22號有特色單點菜單。除夕晚餐包傳統炮仗慶祝，期間大堂有節慶快閃店。
 - [**龍蝦先生**](/zh-hk/blog/mr-lobster-seafood-bali/)：2月16號至2月21號，食飯抽利是，大人細路個個有獎，最大獎100,000印尼盾，記得提早預約。
@@ -91,7 +91,7 @@ _srcHash: c559ef8663e957d9fb856e4e10b8255d
 **烏布**
 
 - [**Capella Ubud**](/zh-hk/blog/capella-ubud-luxury-resort/)：2月17號有傳統嘅「撈魚生」儀式，仲有結合印尼特色嘅Peranakan（土生華人）料理。
-- [**Padma Resort Ubud**](https://s.id/UbudResorts)：2月17號夜晚推出「開運饗宴」，啱晒鍾意山林寧靜氣氛嘅遊客。
+- [**Padma Resort Ubud**](/zh-hk/blog/ubud-resorts-guide/)：2月17號夜晚推出「開運饗宴」，啱晒鍾意山林寧靜氣氛嘅遊客。
 - [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-17502897/the-westin-ubud-resort-amp-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**：2月16號夜晚6點至10點半舉辦「Ubud Lunar Harmony」除夕自助晚餐（每人IDR 588,000++），有舞獅表演。
 
 ## 🗓️ 重要日期提醒

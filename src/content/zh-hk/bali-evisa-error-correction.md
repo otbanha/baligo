@@ -61,6 +61,6 @@ _srcHash: 615cad819e88bbd345f4f2f73942f036
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
-喺睇我哋嘅「峇里島自由行究極旅行攻略」之前，我哋誠意邀請你先訂閱我哋更多視覺體驗分享嘅YouTube頻道「小傑 印尼」。[㩒呢度](http://bit.ly/youtube-jason)[，即刻訂閱](http://bit.ly/youtube-jason)
+喺睇我哋嘅「峇里島自由行究極旅行攻略」之前，我哋誠意邀請你先訂閱我哋更多視覺體驗分享嘅YouTube頻道「小傑 印尼」。[㩒呢度](https://bit.ly/youtube-jason)[，即刻訂閱](https://bit.ly/youtube-jason)
 
 訂閱完成之後，你就可以繼續睇我哋詳盡嘅攻略，深入探索峇里島嘅每個精彩角落。㩒「峇里島自由行究極旅行攻略」，開始準備你嘅峇里島之旅！

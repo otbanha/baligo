@@ -116,7 +116,7 @@ Jadi, hati-hati ya kalau pakai kartu kredit di luar negeri.
 
 Tapi masalahnya, Rupiah itu nominalnya gede banget — minimal ratusan ribu sampai jutaan. Kalau nggak mau bawa segitu banyak uang tunai, bisa pakai dompet digital di aplikasi Gojek yang udah dibahas sebelumnya.
 
-> Baca juga: [Memahami arti 'K' di harga bisa bantu kamu atur budget](https://s.id/whatsk)
+> Baca juga: [Memahami arti 'K' di harga bisa bantu kamu atur budget](/id/blog/bali-budget-tips-k-explained/)
 
 {{block:klook}}
 

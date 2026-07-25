@@ -42,6 +42,6 @@ As a result, she ended up applying for a visa again on the spot and paying once 
 
 ![峇里島簽證申請必讀：30天 vs. 60天，一次搞懂！](https://images.gobaligo.id/vocus/vocus_efc81c47d5b097135559dfd30b494018.png)
 
-Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now!
+Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](https://bit.ly/youtube-jason) to subscribe now!
 
 After subscribing, you can continue reading our detailed guide and explore every fascinating corner of Bali. Click on the **Ultimate Bali Travel Guide** to start planning your Bali trip!

@@ -95,7 +95,7 @@ Saat peti terbuka, aura budaya dari lima pulau besar langsung menyembur, dan pen
 - Musik menggabungkan melodi tradisional dengan irama modern
 
 - Minimal masuk 30 menit sebelum pertunjukan
-- Saran: siang harinya mampir dulu ke [tempat wisata Nusa Dua](https://s.id/nusadua_guide) buat santai, baru malamnya nonton pertunjukan di teater
+- Saran: siang harinya mampir dulu ke [tempat wisata Nusa Dua](/id/blog/nusa-dua-guide/) buat santai, baru malamnya nonton pertunjukan di teater
 
 ***
 

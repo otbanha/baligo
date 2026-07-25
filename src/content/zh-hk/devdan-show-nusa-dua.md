@@ -97,7 +97,7 @@ _srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
 **建議**：
 
 - 最少要提前 30 分鐘入場
-- 建議嗰日白天安排去附近嘅 [Nusa Dua 景點](https://s.id/nusadua_guide) 放鬆吓，再過去劇院睇夜間表演
+- 建議嗰日白天安排去附近嘅 [Nusa Dua 景點](/zh-hk/blog/nusa-dua-guide/) 放鬆吓，再過去劇院睇夜間表演
 
 ***
 

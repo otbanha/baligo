@@ -188,7 +188,7 @@ The **Devdan Show** is Bali's most renowned cultural performance and, aside from
 - **Showtime**: Every Monday, Wednesday, and Saturday, from 19:30 to 20:45. It's recommended to arrive at least 30 minutes early.
 - **Venue**: Inside the Nusa Dua ITDC tourism complex in Bali. Best reached by taxi or private car, about 30 minutes from the airport.
 - **Booking Links**: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) | [kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
-- **Bonus Experience**: During the day, consider relaxing at nearby Nusa Dua attractions—check out the '[Nusa Dua Guide](https://s.id/nusadua_guide)'
+- **Bonus Experience**: During the day, consider relaxing at nearby Nusa Dua attractions—check out the '[Nusa Dua Guide](/en/blog/nusa-dua-guide/)'
 
 ***
 

@@ -80,7 +80,7 @@ Mau menikmati Bali lebih maksimal? Mulai dari panduan wisata ini, kamu bakal ken
 - Hewan paling serem di Bali bukan singa atau harimau, tapi [ternyata 'dia'](/id/blog/bali-monkey-safety-tips/)
 - Traveling di Bali perlu kasih tip nggak sih? Cara kasih tipnya gimana? [Berapa tip yang pas di berbagai situasi?](https://youtu.be/B_oT905RkQw)
 - [3 Aplikasi Wajib di Indonesia/Bali](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
-- Cara milih daerah menginap? [Panduan Lengkap Akomodasi Bali](https://s.id/baliguide1)
+- Cara milih daerah menginap? [Panduan Lengkap Akomodasi Bali](/id/blog/bali-accommodation-area-guide/)
 - Panduan main per zona di Bali paling lengkap
 - Rekomendasi lebih dari 300 akomodasi keren, [cek di sini](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 

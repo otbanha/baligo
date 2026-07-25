@@ -423,7 +423,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 > [包含丛林秋千的乌布自选一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1ac6af4cc9)
 
-快速参考：[「乌布秋千/租礼服攻略」](https://s.id/ubud_swing)
+快速参考：[「乌布秋千/租礼服攻略」](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DUbud%2520swing%26search_scope%3Dmain_search)
 
 ### 热气球体验
 

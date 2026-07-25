@@ -30,7 +30,7 @@ If you want to deeply experience Bali's traditional culture, then the performanc
 
 ### Jason's Cultural Immersion Experience
 
-[Jason Indonesia](http://bit.ly/youtube-jason)'s school flew from Jakarta to Bali on September 17th, embarking on a four-day, three-night cultural field trip. This activity was specially arranged for in-depth cultural observation, allowing students to explore Bali's art and traditions. Early on September 18th, they arrived at Balerung Stage in Ubud for a session on Gamelan music and Legong dance. This was a rare opportunity, a precious cultural experience that ordinary tourists seldom get to enjoy! The music and dances are steeped in rich history and cultural depth, offering the students sensory and spiritual inspiration beyond classroom learning. You can watch their observation process below to learn more about this valuable experience.
+[Jason Indonesia](https://bit.ly/youtube-jason)'s school flew from Jakarta to Bali on September 17th, embarking on a four-day, three-night cultural field trip. This activity was specially arranged for in-depth cultural observation, allowing students to explore Bali's art and traditions. Early on September 18th, they arrived at Balerung Stage in Ubud for a session on Gamelan music and Legong dance. This was a rare opportunity, a precious cultural experience that ordinary tourists seldom get to enjoy! The music and dances are steeped in rich history and cultural depth, offering the students sensory and spiritual inspiration beyond classroom learning. You can watch their observation process below to learn more about this valuable experience.
 
 ### A Feast for the Eyes and Ears
 

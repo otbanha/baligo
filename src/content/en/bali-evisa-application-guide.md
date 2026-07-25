@@ -36,7 +36,7 @@ An electronic visa on arrival (eVoA/eVisa) is a visa that travelers apply for on
 4. Fill in travel details and upload your passport (photo page) and a photo (a phone photo is fine, as long as it clearly shows your face; a plain background is best)
 5. Have a credit card ready for payment (online payment requires Visa, Mastercard, or JCB. Up to five people can apply and pay with one card. Amex is not accepted! With the surcharge, the final amount is IDR 519,500)
 
-The electronic visa only needs to be completed within 3 days before departure. It is valid for 90 days from the date of issue. If you have questions about the visa application, here is the [FAQ for entering Indonesia/Bali: eVisa/All Indonesia Common Questions](https://s.id/AllInsonesia).
+The electronic visa only needs to be completed within 3 days before departure. It is valid for 90 days from the date of issue. If you have questions about the visa application, here is the [FAQ for entering Indonesia/Bali: eVisa/All Indonesia Common Questions](/en/blog/bali-evisa-customs-health-declaration/).
 
 ## What Are the Advantages of an Electronic Visa?
 

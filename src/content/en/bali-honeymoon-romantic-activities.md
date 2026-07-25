@@ -95,13 +95,13 @@ This mystical temple shelters hundreds of mischievous monkeys, offering a deligh
 
 ## Indulge in a Spa
 
-Looking for a romantic honeymoon escape? Bali's luxurious spas are the perfect choice! Enjoy traditional Balinese treatments in opulent settings to soothe your body and mind. Share a flower petal bath with your loved one, and indulge in massages and beauty therapies that deepen your bond. This blissful spa journey adds a touch of luxury and intimacy to your honeymoon, creating unforgettable memories. For recommended luxury spas in Bali, [click here](https://s.id/spa_guide).
+Looking for a romantic honeymoon escape? Bali's luxurious spas are the perfect choice! Enjoy traditional Balinese treatments in opulent settings to soothe your body and mind. Share a flower petal bath with your loved one, and indulge in massages and beauty therapies that deepen your bond. This blissful spa journey adds a touch of luxury and intimacy to your honeymoon, creating unforgettable memories. For recommended luxury spas in Bali, [click here](/en/blog/spa/).
 
 ![享受SPA](https://images.gobaligo.id/vocus/vocus_f7f5191a96ea7d54fb5136f6c0ae3e50.jpg)
 
 ## Waterfall Exploration
 
-Stroll hand in hand through lush jungles and marvel at natural wonders. Embrace under cool cascades and share moments of closeness with nature. The flowing waters blend with your love, adding mystery and romance to your honeymoon. Amid Ubud's waterfalls, your love will be entwined with the beauty of nature, crafting an unforgettable journey. Bali is home to many stunning waterfalls worth visiting! If you'd rather not travel far, [check here](https://s.id/waterfalls) for a guide by Xiao Jie on waterfalls near Ubud.
+Stroll hand in hand through lush jungles and marvel at natural wonders. Embrace under cool cascades and share moments of closeness with nature. The flowing waters blend with your love, adding mystery and romance to your honeymoon. Amid Ubud's waterfalls, your love will be entwined with the beauty of nature, crafting an unforgettable journey. Bali is home to many stunning waterfalls worth visiting! If you'd rather not travel far, [check here](/en/blog/ubud-waterfalls-guide/) for a guide by Xiao Jie on waterfalls near Ubud.
 
 ![瀑布探秘](https://images.gobaligo.id/vocus/vocus_938b0c358a8c951335a2d0090ffa695d.jpg)
 

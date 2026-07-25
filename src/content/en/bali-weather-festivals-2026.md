@@ -73,7 +73,7 @@ These four months mark the critical shift from the rainy season to the dry seaso
 **Recommended Places to Visit in March**
 
 - **Denpasar:** On the evening of March 18, head to Puputan Square to witness the most spectacular and authentic **Ogoh-ogoh Monster Parade**. (See: [Nyepi Day Guide: 2026 Bali Day of Silence & Monster Parade Tips](/en/blog/nyepi-day-bali-guide-2026/))
-- **Uluwatu Cliff Resorts:** During **Nyepi (Day of Silence)** on March 19-20, stay at a resort with stunning ocean views. With minimal light pollution, this is the best spot on the island to see the "Nyepi Milky Way." (See: [Uluwatu Accommodation Guide: 13 Private Villa Resorts with Breathtaking Ocean Views](https://s.id/uluwatu_Stay))
+- **Uluwatu Cliff Resorts:** During **Nyepi (Day of Silence)** on March 19-20, stay at a resort with stunning ocean views. With minimal light pollution, this is the best spot on the island to see the "Nyepi Milky Way." (See: [Uluwatu Accommodation Guide: 13 Private Villa Resorts with Breathtaking Ocean Views](/en/blog/uluwatu-bali-villas-resorts-guide/))
 
 ![3 月：在極致熱鬧與絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
 
@@ -115,9 +115,9 @@ These four months mark the critical shift from the rainy season to the dry seaso
 
 **Top May Travel Destinations**
 
-- **Ubud Center:** For the **Ubud Food Festival**, stay near the center to easily hop between long-table lunches and chef talks. (See: [Ubud Accommodation Recommendations](https://s.id/UbudResorts))
+- **Ubud Center:** For the **Ubud Food Festival**, stay near the center to easily hop between long-table lunches and chef talks. (See: [Ubud Accommodation Recommendations](/en/blog/ubud-resorts-guide/))
 - **Water Activities:** Enjoy the best weather without the peak-season crowds! (See: [Complete Guide to Bali Water Activities: Beyond Snorkeling – 15 Unexpected Water Adventures](/en/blog/2026-bali-water-activities/))
-- **Island Hopping & Snorkeling:** May brings stable sea conditions, making it the perfect time to visit **Nusa Lembongan** or **Nusa Penida** for snorkeling with manta rays. (See: [Nusa Lembongan Guide](/en/blog/nusa-lembongan-ceningan-guide/) / [Nusa Penida Guide](https://s.id/penida_guide))
+- **Island Hopping & Snorkeling:** May brings stable sea conditions, making it the perfect time to visit **Nusa Lembongan** or **Nusa Penida** for snorkeling with manta rays. (See: [Nusa Lembongan Guide](/en/blog/nusa-lembongan-ceningan-guide/) / [Nusa Penida Guide](/en/blog/nusa-penida-guide/))
 - **Tulamben:** With the dry season, underwater visibility is excellent, ideal for wreck diving. (See: [Bali's Northeast Hidden Gems: Complete Guide to Amed and Tulamben](/en/blog/amed-tulamben-diving-guide/))
 
 ![5 月：吃貨與戶外控的黃金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)

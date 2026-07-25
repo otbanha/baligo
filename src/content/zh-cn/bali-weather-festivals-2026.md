@@ -72,7 +72,7 @@ _srcHash: 08e9bf4f53b5caa03b120368636ef587
 **3月推荐旅游地点清单**
 
 - **登巴萨 (Denpasar)：** 3/18 傍晚前往 Puputan 广场一带，观赏最壮观、最原汁原味的 **Ogoh-ogoh 妖怪大游行**。（请参考：[【宁静日攻略】2026巴厘岛静居日/宁静日（Nyepi Day）｜妖怪大游行须知](/zh-cn/blog/nyepi-day-bali-guide-2026/)）
-- **乌鲁瓦图 (Uluwatu) 断崖度假村：** 3/19-20 **静居日 (Nyepi)** 期间，留在拥有壮丽海景的度假村内。这里光害极少，是全岛观赏「静居日银河」的最佳地点。（请参考：[乌鲁瓦图 Uluwatu住宿推荐：13间无敌海景的私密别墅度假村](https://s.id/uluwatu_Stay)）
+- **乌鲁瓦图 (Uluwatu) 断崖度假村：** 3/19-20 **静居日 (Nyepi)** 期间，留在拥有壮丽海景的度假村内。这里光害极少，是全岛观赏「静居日银河」的最佳地点。（请参考：[乌鲁瓦图 Uluwatu住宿推荐：13间无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)）
 
 ![3 月：在極致熱鬧與絕對靜止之間](https://images.gobaligo.id/vocus/vocus_808475a368c14385c6ee2c414ee6f88b.png)
 
@@ -114,9 +114,9 @@ _srcHash: 08e9bf4f53b5caa03b120368636ef587
 
 **5月推荐旅游地点清单**
 
-- **乌布中心区 (Ubud Center)：** 为了 **乌布美食节**，一定要住在中心区附近，方便穿梭在各个长桌午餐与厨师讲座之间。（请参考[乌布住宿推荐](https://s.id/UbudResorts)）
+- **乌布中心区 (Ubud Center)：** 为了 **乌布美食节**，一定要住在中心区附近，方便穿梭在各个长桌午餐与厨师讲座之间。（请参考[乌布住宿推荐](/zh-cn/blog/ubud-resorts-guide/)）
 - **水上活动：**这时候没有旺季的人潮却有最好的天气！（请参考[巴厘岛水上活动完整指南｜巴厘岛不只浮潜！15种意想不到的水上玩法](/zh-cn/blog/2026-bali-water-activities/)）
-- **离岛探险/浮潜：** 5月海况趋于稳定，是前往 **蓝梦岛** 或到 **佩尼达岛** 浮潜看魔鬼鱼的最佳时机。（请参考[蓝梦岛攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/) / [佩尼达岛攻略](https://s.id/penida_guide)）
+- **离岛探险/浮潜：** 5月海况趋于稳定，是前往 **蓝梦岛** 或到 **佩尼达岛** 浮潜看魔鬼鱼的最佳时机。（请参考[蓝梦岛攻略](/zh-cn/blog/nusa-lembongan-ceningan-guide/) / [佩尼达岛攻略](/zh-cn/blog/nusa-penida-guide/)）
 - **土兰奔 (Tulamben)：** 干季报到，水下能见度极佳，适合探索沉船潜水。(请参考[巴厘岛东北角秘境：艾眉 Amed 与土兰奔 Tulamben 完整攻略](/zh-cn/blog/amed-tulamben-diving-guide/))
 
 ![5 月：吃貨與戶外控的黃金月](https://images.gobaligo.id/vocus/vocus_e417ec268a8acaeff77d38f72eb5db82.png)

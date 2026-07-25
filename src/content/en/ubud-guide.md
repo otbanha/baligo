@@ -428,7 +428,7 @@ In Ubud, even swinging on a swing becomes an exotic experience. At specialized s
 
 > [Ubud Customizable Day Tour with Jungle Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1ac6af4cc9)
 
-Quick Reference: ["Ubud Swing / Dress Rental Guide"](https://s.id/ubud_swing)
+Quick Reference: ["Ubud Swing / Dress Rental Guide"](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DUbud%2520swing%26search_scope%3Dmain_search)
 
 ### Hot Air Balloon Experience
 

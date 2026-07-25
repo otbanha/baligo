@@ -111,7 +111,7 @@ _srcHash: ca835493a86c139c2290b63d20d354f4
 
 ![7.大型室內遊樂場](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
-在沙努尔还有好几个超大的空调室内游乐场哦！如果天气太热或是下雨，躲到这里准没错！请参考我们的[沙努尔攻略](https://s.id/sanurguide)
+在沙努尔还有好几个超大的空调室内游乐场哦！如果天气太热或是下雨，躲到这里准没错！请参考我们的[沙努尔攻略](/zh-cn/blog/sanur-guide/)
 
 ***
 

@@ -190,7 +190,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 - **Jam tayang**: Setiap Senin, Rabu, Sabtu, jam 19:30 - 20:45. Disarankan masuk minimal 30 menit sebelumnya
 - **Lokasi**: Di kawasan wisata Nusa Dua ITDC, Bali. Naik taksi atau sewa mobil aja, dari bandara sekitar 30 menit.
 - **Link pembelian tiket**: [Link Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) ｜ [Link kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
-- **Pengalaman tambahan**: Saran, di siang hari bisa santai dulu di tempat wisata Nusa Dua — cek aja '[Panduan Nusa Dua](https://s.id/nusadua_guide)'
+- **Pengalaman tambahan**: Saran, di siang hari bisa santai dulu di tempat wisata Nusa Dua — cek aja '[Panduan Nusa Dua](/id/blog/nusa-dua-guide/)'
 
 ***
 

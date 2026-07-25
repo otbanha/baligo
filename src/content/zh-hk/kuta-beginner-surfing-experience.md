@@ -35,6 +35,6 @@ _srcHash: fff57e20fa13e7c3a0015d060335b8b8
 
 衝浪折扣優惠券請睇影片描述：
 
-訂閱我嘅頻道/Subscribe J Indonesia 小傑 印尼：http://bit.ly/youtube-jason
+訂閱我嘅頻道/Subscribe J Indonesia 小傑 印尼：https://bit.ly/youtube-jason
 
 加入印尼吃喝玩樂FB社團 'Indonesia Travel Guide': https://www.facebook.com/groups/indonesia.travelguide/

@@ -50,7 +50,7 @@ Bali itu salah satu destinasi wisata paling populer se-Asia, dan ternyata juga r
 - [【Tempat Indoor Bali】Panduan Lengkap Trans Studio Bali: 5 Wahana Wajib Coba](/id/blog/trans-studio-bali/)
 - [ATV Jelajah Hutan buat Anak SD ke Atas](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [Tubing Versi Bayi yang Aman & Gampang (Sungai Arus Tenang)](/id/blog/nukuwera-river-tubing-adventure/)
-- [Sepedaan di Ubud, Pengalaman Unik Banget di Bali](https://bit.ly/3pOCueS)
+- [Sepedaan di Ubud, Pengalaman Unik Banget di Bali](https://youtube.com/shorts/zlhzXPIxv7A)
 - [Snorkeling Pemula: Dunia Bawah Laut Amed yang Warna-warni](https://www.youtube.com/watchttps://www.youtube.com/watch?v=qdS8Td7QPYY&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
 - [Panduan Aktivitas Keluarga di Ubud: 55 Kegiatan Paling Santai buat Bawa Anak!](/id/blog/ubud-with-kids-guide/)
 - [Bikin Karya Seni! Workshop Keluarga di Perpustakaan Pondok Pekak](/id/blog/pondok-pekak-library-bali/)

@@ -88,7 +88,7 @@ Berikut beberapa pilihan dengan rating tinggi:
 
 > [Livit Hub](https://liv.it/livit-hub-bali/)：Di Sanur, coworking space ini menawarkan lingkungan nyaman dan kreatif dengan internet cepat, furnitur ergonomis, Skype room, ruang rapat, dan kantor pribadi. Ada juga pantry kecil buat masak sendiri atau pesan dari restoran sekitar. Kamu juga dapat berbagai benefit seperti diskon membership gym, bantuan visa, dan paket asuransi kesehatan.
 
-Apa sih serunya Sanur? Cek [panduan Sanur](https://s.id/sanur_guide) dulu yuk!
+Apa sih serunya Sanur? Cek [panduan Sanur](/id/blog/sanur-guide/) dulu yuk!
 
 ## **Pastikan Koneksi Internet**
 

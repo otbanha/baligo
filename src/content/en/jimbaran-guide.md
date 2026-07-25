@@ -22,7 +22,7 @@ Bali Travel Guide Part 6: Jimbaran Guide
 
 **Bottom Line First**: Jimbaran is located south of Bali's airport, about a 15–20 minute drive away. It's best for travelers who want to "watch the sunset, eat seafood, and stay in 4- or 5-star resorts." Three must-dos: **watch the sunset at Jimbaran Beach**, **enjoy grilled fish and lobster at beachfront seafood restaurants** (see our [10 seafood restaurants without the tourist traps](/en/blog/jimbaran-seafood-restaurants-list/)), and **shop and dine at Samasta Lifestyle Village**. This article rounds up 30 attractions and activities, complete with a savable Google Maps guide.
 
-Jimbaran, a slice of paradise in Bali, is world-famous for its stunning sunset beaches and seafood cuisine. But what else is worth exploring here? Follow in the footsteps of "[Xiao Jie Indonesia](http://bit.ly/youtube-jason)" as we take you on a journey through Jimbaran in this blog, uncovering the activities you can enjoy and discovering this Balinese paradise.
+Jimbaran, a slice of paradise in Bali, is world-famous for its stunning sunset beaches and seafood cuisine. But what else is worth exploring here? Follow in the footsteps of "[Xiao Jie Indonesia](https://bit.ly/youtube-jason)" as we take you on a journey through Jimbaran in this blog, uncovering the activities you can enjoy and discovering this Balinese paradise.
 
 Get to Know Jimbaran in 3 Minutes
 

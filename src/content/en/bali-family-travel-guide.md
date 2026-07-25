@@ -50,7 +50,7 @@ Bali is one of Asia's most popular travel destinations and is also incredibly fa
 - [【Bali Indoor Attractions】Trans Studio Bali Complete Guide: 5 Must-Try Rides](/en/blog/trans-studio-bali/)
 - [4-Wheel ATV Jungle Adventure for School-Age Kids](https://www.youtube.com/watch?v=9w6dllhn3h8&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW)
 - [Safe, Easy Baby-Friendly River Tubing](/en/blog/nukuwera-river-tubing-adventure/)
-- [Ubud Cycling Tour: An Immersive Bali Experience](https://bit.ly/3pOCueS)
+- [Ubud Cycling Tour: An Immersive Bali Experience](https://youtube.com/shorts/zlhzXPIxv7A)
 - [Beginner Snorkeling: Amed's Colorful Underwater World](https://www.youtube.com/watchttps://www.youtube.com/watch?v=qdS8Td7QPYY&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
 - [Ubud Family Travel Guide: 55 Kid-Friendly Activities Made Easy!](/en/blog/ubud-with-kids-guide/)
 - [Get Hands-On with Art! Bali Family Experience at Pondok Pekak Library](/en/blog/pondok-pekak-library-bali/)

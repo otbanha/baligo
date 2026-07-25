@@ -27,7 +27,7 @@ Indonesia Electronic Customs Declaration (e-CD)是一种在线填写的海关申
 
 e-CD表格的详细信息如下：你必须提供关于你自己的身份资料、你的旅行计划和你的护照数据的最新信息。你的护照必须在进入印尼之日起**至少有6个月的有效期**。你还需要声明你带入印尼的物品，有些物品在任何情况下都不能带入印尼的喔
 
-## e-CD已改为一站式申请，请看[这里](https://s.id/AllInsonesia)
+## e-CD已改为一站式申请，请看[这里](/zh-cn/blog/bali-evisa-customs-health-declaration/)
 
 ![e-CD已改為一站式申請，請看這裡](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 

@@ -87,7 +87,7 @@ Hari pertama berjalan lancar banget. Meski baru sampai agak capek, tapi tempat n
 
 Kita main River Tubing di Nukuwera
 
-Hari ini kita one day tour pake mobil di Ubud, tujuan pertama adalah **Nukuwera & Pandawa River Tubing** yang direkomendasiin sama [Xiao Jie](http://bit.ly/youtube-jason). Di sini udah termasuk makan siang, seru banget buat keluarga, kita yang bawa anak-anak juga happy banget, mereka menikmati banget waktu di air.
+Hari ini kita one day tour pake mobil di Ubud, tujuan pertama adalah **Nukuwera & Pandawa River Tubing** yang direkomendasiin sama [Xiao Jie](https://bit.ly/youtube-jason). Di sini udah termasuk makan siang, seru banget buat keluarga, kita yang bawa anak-anak juga happy banget, mereka menikmati banget waktu di air.
 
 https://youtube.com/shorts/Z_vDb7AbMKg
 

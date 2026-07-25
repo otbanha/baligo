@@ -22,7 +22,7 @@ Panduan Liburan ke Bali Bagian 6: Panduan Jimbaran
 
 **Kesimpulan Awal**: Jimbaran terletak sekitar 15-20 menit berkendara dari selatan Bandara Bali. Paling cocok buat kamu yang 'pengen lihat sunset, makan seafood, dan nginep di resort bintang 4-5'. Tiga hal wajib dilakukan: **Lihat sunset di Pantai Jimbaran**, **Makan ikan bakar & lobster di restoran pinggir pantai** (cek daftar 10 restoran seafood anti-kecewa di [sini](/id/blog/jimbaran-seafood-restaurants-list/)), dan jalan-jalan di **Samasta Lifestyle Village** buat belanja & makan. Artikel ini merangkum 30 tempat dan aktivitas, lengkap dengan peta Google Maps yang bisa kamu simpan.
 
-Jimbaran, surganya Bali — selain sunset pantai yang mendunia dan seafood legendaris, apa lagi sih yang bisa dieksplor? Yuk ikuti langkah 'Jason Indonesia' ([YouTube](http://bit.ly/youtube-jason)) di blog ini. Kita bakal ajak kamu kenalan sama Jimbaran, lihat aktivitas seru yang bisa dilakukan, dan temukan pesona surga Bali yang satu ini.
+Jimbaran, surganya Bali — selain sunset pantai yang mendunia dan seafood legendaris, apa lagi sih yang bisa dieksplor? Yuk ikuti langkah 'Jason Indonesia' ([YouTube](https://bit.ly/youtube-jason)) di blog ini. Kita bakal ajak kamu kenalan sama Jimbaran, lihat aktivitas seru yang bisa dilakukan, dan temukan pesona surga Bali yang satu ini.
 
 Kenalan Sama Jimbaran dalam 3 Menit
 

@@ -83,7 +83,7 @@ _srcHash: b1c496e902ced0e8d64b186ee68b9817
 
 > [Livit Hub](https://liv.it/livit-hub-bali/)：位于沙努尔，这个共享办公空间提供舒适和创意的环境，拥有快速互联网、人体工学家具、Skype间、会议室和私人办公室。它还有一个小厨房，您可以自己做饭或从附近的餐厅订购。您还可以获得各种福利，如健身会员折扣、签证帮助和健康保险计划。
 
-> Sanur的魅力在哪里？请看 [Sanur攻略](https://s.id/sanur_guide)
+> Sanur的魅力在哪里？请看 [Sanur攻略](/zh-cn/blog/sanur-guide/)
 
 ## **确认网络连接**
 

@@ -37,6 +37,6 @@ Xiao Jie's Surf School https://www.nanabananasurfguide.com/ The instructor offer
 
 For the surfing discount coupon, please see the video description:
 
-Subscribe to my channel / Subscribe J Indonesia 小傑 印尼: http://bit.ly/youtube-jason
+Subscribe to my channel / Subscribe J Indonesia 小傑 印尼: https://bit.ly/youtube-jason
 
 Join the Indonesia Travel Guide FB group 'Indonesia Travel Guide': https://www.facebook.com/groups/indonesia.travelguide/

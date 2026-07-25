@@ -183,7 +183,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 - **演出時間**：逢星期一、三、六，晚上 19:30 至 20:45。建議至少提早 30 分鐘入場
 - **地點：**峇里島 Nusa Dua ITDC 旅遊園區入面。建議搭的士或者包車，距離機場大約 30 分鐘車程。
 - **購票網址：**[Klook購票連結](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) ｜ [kkday購票連結](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
-- **附加體驗**：建議嗰日白天可以安排去附近嘅 Nusa Dua 景點放鬆吓，請睇「[Nusa Dua攻略](https://s.id/nusadua_guide)」
+- **附加體驗**：建議嗰日白天可以安排去附近嘅 Nusa Dua 景點放鬆吓，請睇「[Nusa Dua攻略](/zh-hk/blog/nusa-dua-guide/)」
 
 ***
 

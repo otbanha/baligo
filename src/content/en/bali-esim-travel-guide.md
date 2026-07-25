@@ -29,7 +29,7 @@ _srcHash: 2e7581c94063f725ebf5568902755cc2
 
 ## **How could a Bali trip be complete without an eSIM?**
 
-With advancing technology, you no longer need to swap SIM cards or queue at the airport to buy a data card when traveling abroad. Now, by [purchasing a Telkomsel eSIM through Klook](https://s.id/6IMQV), you can get online in just a few simple steps!
+With advancing technology, you no longer need to swap SIM cards or queue at the airport to buy a data card when traveling abroad. Now, by [purchasing a Telkomsel eSIM through Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F), you can get online in just a few simple steps!
 
 Whether you need to open maps for directions right after landing in Bali, send messages, share photos, or even stream videos, you won't have to worry about connection quality at all. Telkomsel is one of Indonesia's largest telecom providers, with extensive network coverage that ensures stable connections even in remote areas.
 
@@ -68,7 +68,7 @@ Even when heading to more remote areas like Ubud and Uluwatu, the internet speed
 
 ## **eSIM Compatibility and Setup Reminder**
 
-Before purchasing, make sure your phone supports eSIM (e.g., iPhone XS and later, select Samsung and Pixel models). For detailed activation guides and compatible devices, check out the full tutorial [here](https://s.id/6IMQV).
+Before purchasing, make sure your phone supports eSIM (e.g., iPhone XS and later, select Samsung and Pixel models). For detailed activation guides and compatible devices, check out the full tutorial [here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F).
 
 ---
 
@@ -76,7 +76,7 @@ Before purchasing, make sure your phone supports eSIM (e.g., iPhone XS and later
 
 If you're planning a trip to Bali, don't miss out on this highly-rated, stable, and convenient eSIM plan. Klook, in partnership with Telkomsel, ensures seamless connectivity from the moment you land, letting you savor every moment of your journey!
 
-▶ Pre-order [Telkomsel eSIM](https://s.id/6IMQV)
+▶ Pre-order [Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)
 
 ---
 
@@ -86,7 +86,7 @@ If you're planning a trip to Bali, don't miss out on this highly-rated, stable, 
 
 ### **Q1. Which phones support Klook's Telkomsel eSIM?**
 
-Currently, eSIM-compatible phones include iPhone XS and above, Samsung Galaxy S20 and above, Google Pixel 3 and above, and more. Check the full list on [Klook](https://s.id/6IMQV).
+Currently, eSIM-compatible phones include iPhone XS and above, Samsung Galaxy S20 and above, Google Pixel 3 and above, and more. Check the full list on [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F).
 
 ### **Q2. How do I install the eSIM?**
 
@@ -104,4 +104,4 @@ You can top up data or extend your plan with one tap in the Klook app to avoid i
 
 Telkomsel has the most extensive network coverage in Indonesia, ensuring a stable connection even in non-urban areas.
 
-▶ Pre-order [Telkomsel eSIM](https://s.id/6IMQV)
+▶ Pre-order [Telkomsel eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F109371-indonesia-esim-high-speed-internet-qr-code-voucher%2F)

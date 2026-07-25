@@ -61,6 +61,6 @@ Kalau kamu nemu masalah pas apply eVisa, kami udah kumpulin semua tanya jawab so
 
 ![其他申請電子簽證的問題](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 
-Sebelum baca panduan lengkap liburan ke Bali versi kami, kami ajak kamu subscribe dulu channel YouTube "Xiao Jie Indonesia" yang isinya lebih banyak visual seru. [Klik di sini](http://bit.ly/youtube-jason)[, langsung subscribe](http://bit.ly/youtube-jason)
+Sebelum baca panduan lengkap liburan ke Bali versi kami, kami ajak kamu subscribe dulu channel YouTube "Xiao Jie Indonesia" yang isinya lebih banyak visual seru. [Klik di sini](https://bit.ly/youtube-jason)[, langsung subscribe](https://bit.ly/youtube-jason)
 
 Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kita, menjelajah setiap sudut seru di Bali. Klik 「Panduan Liburan Mandiri Bali Ultimate」, mulai persiapkan petualanganmu di Bali!

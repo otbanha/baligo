@@ -116,7 +116,7 @@ So, be cautious when using credit cards abroad.
 
 However, Indonesian rupiah often means carrying at least a few million in cash (the exchange rate is roughly 1 TWD to 500 IDR). If you’d rather not carry that much cash, consider using the e-wallet in the Gojek app mentioned in the previous tip.
 
-> Further reading: [How Understanding the 'K' in Prices Helps You Control Your Budget](https://s.id/whatsk)
+> Further reading: [How Understanding the 'K' in Prices Helps You Control Your Budget](/en/blog/bali-budget-tips-k-explained/)
 
 {{block:klook}}
 

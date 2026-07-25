@@ -116,7 +116,7 @@ Ini adalah momen tenang yang bisa kamu nikmati bareng anak-anak, juga pengalaman
 
 ![7.大型室內遊樂場](https://images.gobaligo.id/vocus/vocus_993f8e3198ccd7c0661ccff47a5f03f0.jpg)
 
-Di Sanur juga ada beberapa playground indoor ber-AC yang super gede, lho! Kalau cuaca lagi panas banget atau hujan, mampir ke sini solusinya! Cek [panduan Sanur](https://s.id/sanurguide) kita ya.
+Di Sanur juga ada beberapa playground indoor ber-AC yang super gede, lho! Kalau cuaca lagi panas banget atau hujan, mampir ke sini solusinya! Cek [panduan Sanur](/id/blog/sanur-guide/) kita ya.
 
 ***
 

@@ -39,6 +39,6 @@ More importantly, to prevent accidental ingestion, those with peanut allergies s
 
 ![花生過敏！？去峇里島可以這樣做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
-Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now!
+Before diving into our **Ultimate Bali Travel Guide**, we sincerely invite you to subscribe to our YouTube channel **"Xiao Jie Indonesia"** for more visual experiences. [Click here](https://bit.ly/youtube-jason) to subscribe now!
 
 After subscribing, you can continue reading our detailed guide and explore every fascinating corner of Bali. Click on the **Ultimate Bali Travel Guide** to start planning your Bali trip!

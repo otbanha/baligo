@@ -69,6 +69,6 @@ The opening of ICON Bali will bring new shopping and entertainment experiences t
 
 ![Conclusion](https://images.gobaligo.id/vocus/vocus_bd9efca76177b6f53e3e5da6ddf624f9.png)
 
-Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](http://bit.ly/youtube-jason) to subscribe now.
+Before reading our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual experience sharing. [Click here](https://bit.ly/youtube-jason) to subscribe now.
 
 After subscribing, you can immediately continue reading our detailed guide to deeply explore every exciting corner of Bali. Click **"****Ultimate Bali Travel Guide****"** to start preparing for your Bali trip!

@@ -90,7 +90,7 @@ Our first day went smoothly. Though we were a bit tired upon arrival, the great 
 
 We went river tubing at Nukuwera
 
-Today was a full-day private tour in Ubud. Our first stop was the **Nukuwera & Pandawa River Tubing**, recommended by [Xiao Jie](http://bit.ly/youtube-jason). Lunch was included, and the whole tubing experience was perfect for families. Even with kids, we had a blast, and the little ones absolutely loved their time in the water.
+Today was a full-day private tour in Ubud. Our first stop was the **Nukuwera & Pandawa River Tubing**, recommended by [Xiao Jie](https://bit.ly/youtube-jason). Lunch was included, and the whole tubing experience was perfect for families. Even with kids, we had a blast, and the little ones absolutely loved their time in the water.
 
 https://youtube.com/shorts/Z_vDb7AbMKg
 

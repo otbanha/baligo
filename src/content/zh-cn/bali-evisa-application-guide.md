@@ -34,7 +34,7 @@ _srcHash: b06b79668817f465b0dac77693cd2d4f
 4. 填写旅游信息，并上传护照（照片页）和照片（可以用手机照片，可清楚辨识本人/最好是单色背景墙的照片）
 5. 准备好付款信用卡(线上刷卡需使用Visa、Mastercard 或 JCB 信用卡。最多五人可以同时申请/使用一张信用卡。Amex信用卡不能刷喔！刷卡加成，最后金额是Rp.519,500)
 
-电子签证只要在出发前3天内完成申请即可。单次申请后90天内有效。若对签证申请有疑问，这里有【[入境印尼/巴厘岛必填eVisa/All Indonesia 常见问题 FAQ](https://s.id/AllInsonesia)】
+电子签证只要在出发前3天内完成申请即可。单次申请后90天内有效。若对签证申请有疑问，这里有【[入境印尼/巴厘岛必填eVisa/All Indonesia 常见问题 FAQ](/zh-cn/blog/bali-evisa-customs-health-declaration/)】
 
 ## 电子签证有什么优点？
 

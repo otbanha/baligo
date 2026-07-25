@@ -36,6 +36,6 @@ Yang lebih penting lagi, biar nggak salah makan, jangan lupa bawa perlengkapan d
 
 ![花生過敏！？去峇里島可以這樣做](https://images.gobaligo.id/vocus/vocus_aa7648471037473f80418f211f4b41ad.png)
 
-Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang.
+Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](https://bit.ly/youtube-jason) buat subscribe sekarang.
 
 Setelah subscribe, kamu bisa lanjut baca panduan lengkap kami dan eksplor setiap sudut seru Bali. Klik **"****Panduan Liburan Mandiri ke Bali****"** buat mulai persiapan liburanmu ke Bali!

@@ -33,7 +33,7 @@ Sesuai aturan sekarang, pengunjung dari Taiwan atau Hong Kong bisa apply visa on
 
 ![旅遊便利升級！印尼或擬開放免簽，台灣遊客福利大增](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
-Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](http://bit.ly/youtube-jason) buat subscribe sekarang.
+Sebelum baca **"Panduan Liburan Mandiri ke Bali"** kami, kami ajak kamu subscribe dulu channel YouTube **"Xiao Jie Indonesia"** yang penuh konten visual seru. [Klik di sini](https://bit.ly/youtube-jason) buat subscribe sekarang.
 
 Setelah berlangganan, kamu bisa langsung lanjut baca panduan lengkap kami, menjelajah setiap sudut seru Bali. Klik **Panduan Liburan Mandiri Bali Ultimate** buat mulai persiapan liburanmu ke Bali!
 

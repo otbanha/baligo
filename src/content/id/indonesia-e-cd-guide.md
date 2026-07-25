@@ -28,7 +28,7 @@ Indonesia Electronic Customs Declaration (e-CD) adalah formulir deklarasi bea cu
 
 Detail formulir e-CD: kamu harus kasih info terbaru tentang data diri, rencana perjalanan, dan data paspor. Paspor kamu harus **masih berlaku minimal 6 bulan** sejak tanggal masuk Indonesia. Kamu juga perlu deklarasi barang bawaan — ada beberapa barang yang **sama sekali nggak boleh** dibawa masuk ke Indonesia, lho!
 
-## e-CD sekarang jadi satu atap, cek [di sini](https://s.id/AllInsonesia)
+## e-CD sekarang jadi satu atap, cek [di sini](/id/blog/bali-evisa-customs-health-declaration/)
 
 ![e-CD已改為一站式申請，請看這裡](https://images.gobaligo.id/vocus/vocus_aec365f19ae3d56f56b52024fc0a209d.jpg)
 
