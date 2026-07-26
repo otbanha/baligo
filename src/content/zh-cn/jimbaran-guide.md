@@ -9,9 +9,9 @@ category:
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fb0a8f3064e3e63596e9f82fc73432be.jpg'
 originalUrl: 'https://vocus.cc/article/654b8438fd897800016bf4cc'
-updatedDate: 2026-07-13T00:00:00.000Z
+updatedDate: 2026-07-25T00:00:00.000Z
 lang: zh-cn
-_srcHash: f45d9199de97274060dc309fda9564ac
+_srcHash: a454ec4c55ee8b149514c9c70b83e47c
 ---
 
 巴厘岛自由行攻略之六：金巴兰攻略
@@ -80,7 +80,7 @@ https://youtu.be/hQbBTktqEqY
 
 金巴兰一带的海滩俱乐部提供一系列水上和陆上娱乐活动。这些俱乐部提供游泳池、水疗中心、沙滩活动、以及各种适合全家人的活动。您可以在这里放松、享受阳光，也可以参加水上运动，如帆船、独木舟和划独木舟。这一带的海滩俱乐部是完美的度假场所，让您尽情放松和娱乐。
 
-> Klook优惠券：[金巴兰Azure Beach餐厅用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F95842-azure-beach-restaurant-dining-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D898878ddeb)）
+[> Klook优惠券：[金巴兰Azure Beach餐厅用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F95842-azure-beach-restaurant-dining-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D898878ddeb)](#)
 
 ## Locca Sea House（👉🏼地图：[金巴兰必访景点](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)）
 
@@ -116,7 +116,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 巴厘岛的宗教遗产和文化活动在乌鲁瓦图庙（Uluwatu Temple）和卡恰火舞（Kecak Dance）之旅中达到高潮。乌鲁瓦图庙是巴厘岛上最壮观的寺庙之一，坐落在悬崖上，俯瞰着壮观的印度洋。这个寺庙是一个重要的宗教场所，也是一个绝佳的观赏夕阳的地点。当太阳西下，乌鲁瓦图庙的轮廓映衬在火红的夕阳下，营造出一幅壮观的景色。
 
-在乌鲁瓦图庙之后，您可以前往观看卡恰火舞表演，这是一种巴厘岛传统的文化表演。卡恰火舞表演结合了舞蹈、音乐和戏剧，以叙述古老的巴厘岛故事。表演通常在露天剧场进行，观众坐在半圆形的露天剧场，享受表演和夜晚的星光。表演中的特别之处是，演员们不使用音乐乐器，而是利用他们的声音合唱出卡恰的独特音乐，营造出一种震撼人心的氛围。
+在乌鲁瓦图庙之后，您可以前往观看卡恰火舞表演，这是一种巴厘岛传统的文化表演。卡恰火舞表演结合了舞蹈、音乐和戏剧，以叙述古老的巴厘岛故事。表演通常在露天剧场进行，观众坐在半圆形的露天剧场上，享受表演和夜晚的星光。表演中的特别之处是，演员们不使用音乐乐器，而是利用他们的声音合唱出卡恰的独特音乐，营造出一种震撼人心的氛围。
 
 > 卡恰火舞的表演内容是什么？如何事先订票？[请看这里](/zh-cn/blog/kecak-fire-dance-bali/)
 
@@ -133,7 +133,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 > Klook优惠券：[金巴兰Hua Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022)
 > [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
 > [Ayutaya 花浴 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
-> [到府服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
+> [上门服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
 > [莱佛士SPA](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167025-balinese-healing-massage-at-raffles-spa-jimbaran%2F)
 
 ## 五星下午茶/用餐
@@ -160,7 +160,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_95e272186db9a8a64102950e3b8fdd0d.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如Jimbaran、Kuta、Legian、Seminyak、Canggu、Uluwatu、Nusa Dua和Sanur，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多种造型的大型浮床所带来的乐趣。
 
 这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 

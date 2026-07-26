@@ -4,7 +4,7 @@ title: 巴厘岛六日自由行Nusa Penida跳岛攻略
 description: >-
   这是我们社团网友「Sophie）」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
 pubDate: '2024-01-28'
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: a2e87cbc5f6919c7df6c1870f9f022f1
+_srcHash: 6661caf85cbd81c3b6d17fdcff03ff4b
 ---
 **重点摘要**：六天行程路线是**乌布（前两天）→ 佩尼达岛跳岛（第三到五天）→ 金巴兰（第六天）告别巴厘岛**。实测提醒：Sanur 港口出发的渡轮**曾误点达 2 小时**，跳岛行程请预留缓冲时间；佩尼达岛东岸必看 Diamond Beach 与 Atuh Beach。详细每日行程与时间安排如下。
 
@@ -86,9 +86,9 @@ Tis Cafe 图：Sophie提供
 
 ## 1/20第三天：乌布探险和Nusa Penida岛
 
-在乌布度过毛毛雨的上午，然后前往Penida岛
+在乌布度过毛毛雨的上午，然后前往佩尼达岛
 
-- **09:00** [Omma Dayclub](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali瀑布+午餐
+- **09:00** [Omma Dayclub](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/) 巴厘岛瀑布+午餐
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
@@ -116,7 +116,7 @@ Atuh Beach 图：Sophie提供
 
 - **09:00**：参观Kelingking Beach，探索精灵海岸。
 - **13:00**：探访Broken Beach和Angel's Billabong，欣赏壮观的自然景观。
-- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天空之门喔！
+- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天空之门哦！
 
 ![不用排隊的天空之門  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_1fae087d3589421ea2550badb57cfabd.jpg)
 

@@ -3,7 +3,7 @@ title: 水上活动被"宰客"！巴厘岛自由行花费大公开！11天10夜�
 slug: bali-budget-trip-11-days
 description: 巴厘岛11天10夜自由行深度游记
 pubDate: 2025-02-25T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -17,7 +17,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fc4cd7d779889b43776f8be643f11
 originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 update: 2026/05/23
 lang: zh-cn
-_srcHash: d6d1cfe189b6d0d37359c1775841b40d
+_srcHash: 932c07ef896747a45b4862cb52b1e1ba
 ---
 > 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：
 
@@ -102,7 +102,7 @@ ATV / 漂流泛舟不会翻船
 
 https://youtu.be/JtxZHtijEkE
 
-车费约 4 美元，游览 20 分钟，感受巴厘岛传统建筑的艺术之美。
+车费约 USD$4，游览 20 分钟，感受巴厘岛传统建筑的艺术之美。
 
 ### **乌布市集**
 
@@ -114,7 +114,7 @@ https://youtu.be/JtxZHtijEkE
 
 ### **圣猴森林公园**
 
-门票 16 美元，游览约 1 小时。猴子们非常调皮，记得保管好物品。
+门票 USD$16，游览约 1 小时。猴子们非常调皮，记得保管好物品。
 
 这一天我们深入感受了乌布的文化氛围，拍摄了大量精美照片，收获满满。
 
@@ -151,8 +151,8 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ### **布拉坦湖水神庙**
 
-**门票费用**：150,000 印尼盾
-**行车时间**：从乌布酒店开车约 1 小时 30 分钟
+  **门票费用**：150,000 印尼盾
+  **行车时间**：从乌布酒店开车约 1 小时 30 分钟
 
 ![水神廟 / 超軟超可愛的麝香貓](https://images.gobaligo.id/vocus/vocus_677e8fafd966063cdb53b173ed3256d0.jpg)
 
@@ -164,15 +164,15 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ### **圣泉寺**
 
-**门票费用**：100,000 印尼盾
+  **门票费用**：100,000 印尼盾
 
-圣泉寺是巴厘岛著名的宗教圣地，许多当地人前来进行沐浴祈福的仪式。虽然我们没有参与洗圣水，但光是观赏当地人的仪式，就能感受到浓厚的宗教氛围。如果对宗教文化特别感兴趣，这里值得一去；若时间有限，这个景点可视情况安排。
+圣泉寺是巴厘岛著名的宗教圣地，许多当地人會前来进行沐浴祈福的仪式。虽然我们没有参与洗圣水，但光是观赏当地人的仪式，就能感受到浓厚的宗教氛围。如果对宗教文化特别感兴趣，这里值得一去；若时间有限，这个景点可视情况安排。
 
 🛕💦🙏圣泉寺沐浴祈福、感受自然与文化的融合 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D65b018ea8e)
 
 ### **德哥拉朗梯田**
 
-**门票费用**：USD$7
+  **门票费用**：USD$7
 
 ![德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_633e3a95afc0cd64f57f4c94319ffe5b.jpg)
 
@@ -211,13 +211,13 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ### **午餐：烤猪饭（Babi Guling）**
 
-  **花费**：10美元
+  **花费**：USD$10
 
 中午，司机带我们去了一家当地人推荐的烤猪饭餐厅，猪肉烤得外酥内嫩，搭配巴厘岛特制辣酱，味道非常惊艳！这样的隐藏版美食，只有当地人才知道，强烈推荐给大家。
 
 ### **Rock Bar 岩石酒吧**
 
-  **低消费用**：每人约45美元（可抵餐饮）
+  **低消**：每人约 USD$45（可抵餐饮）
 
 ![Rock Bar 岩石酒吧](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
 
@@ -228,21 +228,23 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
   **快速参考：**
 
-[巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)
+[> [巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)
+>   ---
 
 ## **第八天（1 月 8 日，三）— 南湾水上活动大冒险**
 
 ### **南湾水上活动**
 
-**费用**：2,700,000 印尼盾
+  **费用**：2,700,000 印尼盾
 
-这天我们前往南湾参加水上活动，包括浮潜、划船和香蕉船等项目。需要特别提醒的是，我们没有提前在 Klook 预订票券，导致现场购买价格高出许多，这点成了旅程中的一个小遗憾。我们选了 **飞鱼（Flying Fish）** 和 **拖曳伞（Parasailing），**我们两人共花了2,700,000 印尼盾（约174美元/两人）...
+这天我们前往南湾参加水上活动，包括浮潜、划船和香蕉船等项目。需要特别提醒的是，我们没有提前在 Klook 预订票券，导致现场购买价格高出许多，这点成了旅程中的一个小遗憾。我们选了 **飞鱼（Flying Fish）** 和 **拖曳伞（Parasailing），**我们两人共花了2,700,000 印尼盾（约174美金/两人）...
 
 如果有计划参加南湾的水上活动，不要像我沒有事先研究好，结果多付了好几倍的钱！**务必提前在网上订票**，不只能省下大笔费用，也能避免到现场被当「冤大头」的情况。
 
 ## 延伸阅读：[巴厘岛南湾水上活动介绍](/zh-cn/blog/tanjung-benoa-water-activities/)
 
 🏖️🌊🚤南湾水上活动，拖曳伞、浮潜、海底漫步、香蕉船体验 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)  ▶[Trip优惠](https://tw.trip.com/travel-guide/attraction/bali/tanjung-benoa-watersports-33461755?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
+  ---
 
 ## **第九天（1 月 9 日，四）— 蓝色断崖与乌鲁瓦图庙火舞表演**
 
@@ -294,7 +296,7 @@ https://youtu.be/hdIKOX5wghU
 
 - **按摩体验**：热石按摩与精油按摩，司机推荐，品质保证且价格优惠。我们在旅程中安排了两次按摩，第一次是热石按摩，第二次是精油按摩，两次体验都非常棒，让我们彻底放松身心。
 
-💆‍♀️🌿🕯️在巴厘岛享受一次超放松的 SPA ，搭配芳香疗法与热石按摩 😌，让身心彻底舒缓！▶[各区域的好评SPA推荐](/zh-cn/blog/spa/)
+💆‍♀️🌿🕯️在巴厘岛享受一次超放松的SPA，搭配芳香疗法与热石按摩😌，让身心彻底舒缓！▶[各区域的好评SPA推荐](/zh-cn/blog/spa/)
 
 - **包车服务**：推荐使用包车司机，可根据个人喜好规划行程，司机会提供最佳路线建议。我们的司机Ok Bali非常专业，中文流利，还会讲解巴厘岛的历史和文化，让我们对这个地方有了更深的了解。
 
@@ -302,9 +304,9 @@ https://youtu.be/hdIKOX5wghU
 
 {{block:戶外}}
 
-右手边是我们这几天的司机，他的名字就叫「Ok」. 体贴.细心.不飙车.不抽烟.守时的Ok司机-其实超多优点
+右手边是我们这几天的司机，他的名字就叫「Ok」。体贴、细心、不飙车、不抽烟、守时的Ok司机——其实超多优点
 
-🚗👨‍✈️🌴在巴厘岛旅游，包车司机是你的最佳旅伴！他们熟悉当地路线，热情又专业，带你畅游巴厘岛 ▶[包车司机推荐名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
+🚗👨‍✈️🌴在巴厘岛旅游，包车司机是你的最佳旅伴！他们熟悉当地路线，热情又专业，带你畅游巴厘岛▶[包车司机推荐名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## 结语
 

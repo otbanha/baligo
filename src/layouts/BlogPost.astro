@@ -151,11 +151,13 @@ const getCatLabel = (cat: string) => {
 };
 
 // 文章分類 → 討論版（community.gobaligo.id phpBB 版面 id）。
-// 「新聞存檔」沒有對應版面，不顯示討論區元件。
-// 「新手指南」f=5：已與站方確認，TopStrip.astro 導覽列的「換匯SIM卡」
-// 只是舊/取錯的標籤名稱，f=5 版面內容確實是新手指南討論。
+// f=5 線上版名是「換錢・SIM卡・實用資訊」，版面說明為「出發前必看的實用資訊」，
+// 所以「新手指南」與「旅行技巧」都歸這一版。
+// 沒有對應分類（例如「新聞存檔」）不會使 forumId 為 undefined 而隱藏討論區——
+// 元件會 fallback 到論壇首頁 + 全站 feed，見 ForumLatestTopics.astro。
 const CATEGORY_FORUM_ID: Record<string, number> = {
   '新手指南': 5,
+  '旅行技巧': 5,
   '住宿推薦': 7, '住宿推荐': 7,
   '峇里島分區攻略': 8, '峇里岛分区攻略': 8,
   '簽證通關': 3, '签证通关': 3,
@@ -167,8 +169,10 @@ const CATEGORY_FORUM_ID: Record<string, number> = {
 const SCAM_FORUM_ID = 6;
 const SCAM_KEYWORDS = /scam|詐騙|诈骗/i;
 
+// 只比對標題：先前掃整篇 body，導致住宿/景點文只要內文提過一次「詐騙」
+// 就被改導到只有 2 篇的踩雷版（全站 38 篇命中），離題且傷轉換。
 const primaryCategory = cats[0];
-const forumId = SCAM_KEYWORDS.test(`${title} ${body}`)
+const forumId = SCAM_KEYWORDS.test(title)
   ? SCAM_FORUM_ID
   : (primaryCategory ? CATEGORY_FORUM_ID[primaryCategory] : undefined);
 
@@ -692,17 +696,16 @@ const spaFaqSchema = isSpaGuide ? {
           </div>
         </div>
 
-        <!-- 討論區（取代自建留言區） -->
-        {forumId && (
-          <div class="comments-section" data-pagefind-ignore>
-            <ForumLatestTopics
-              lang={lang ?? 'zh-tw'}
-              forumId={forumId}
-              title={i18n.discussionTitle}
-              cta={i18n.discussionCta}
-            />
-          </div>
-        )}
+        <!-- 討論區（取代自建留言區）。無條件顯示：forumId 為 undefined 時
+             元件會退回論壇首頁 + 全站 feed，不再整塊消失。 -->
+        <div class="comments-section" data-pagefind-ignore>
+          <ForumLatestTopics
+            lang={lang ?? 'zh-tw'}
+            forumId={forumId}
+            title={i18n.discussionTitle}
+            cta={i18n.discussionCta}
+          />
+        </div>
 
         <!-- 文章底部推薦 -->
         {randomPosts.length > 0 && (

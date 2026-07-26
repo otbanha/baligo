@@ -1,13 +1,12 @@
 ---
 slug: 2025-bali-immigration-process
 title: >-
-  2025 Bali Perubahan Masuk Dipahami dalam 1 Menit: Prosedur Masuk
-  Indonesia/Bali - Turun Pesawat/Lewat Imigrasi/Sampai Ambil Bagasi
+  2025 Bali Aturan Masuk Berubah? Pahami dalam 1 Menit: Prosedur Masuk
+  Indonesia/Bali - Turun Pesawat/Melewati Imigrasi/Ambil Bagasi
 description: >-
-  Setelah tiba di Bali, ikuti urutan berikut untuk masuk, biar kamu bisa cepat
-  menikmati liburan! Panduan lengkap eVoA elektronik, Pajak Wisatawan/Tourist
-  Levy, eCD deklarasi bea cukai elektronik, SSHP deklarasi kesehatan... dan
-  lainnya
+  Setelah mendarat di Bali, ikuti langkah-langkah berikut untuk masuk, biar
+  liburanmu cepat dimulai! Panduan lengkap eVoA, Tourist Levy/Pajak Turis, eCD,
+  SSHP... semuanya ada di sini
 pubDate: '2023-12-07'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ff72032f128e7de039b616bf883b656c.png'
 tags:
@@ -20,60 +19,60 @@ originalUrl: 'https://vocus.cc/article/65717449fd89780001fda950'
 category:
   - 簽證通關
 lang: id
-_srcHash: fa9192084d2d2fad05df2ae983c2e9c1
+_srcHash: a85a546909c2bdb57b2c8f64756155cc
 ---
 
 ![一分鐘搞懂下飛機到出境的流程](https://images.gobaligo.id/vocus/vocus_1019ef9c6f5df198a383b2b7cd81d01c.png)
 
-Pahami dalam 1 Menit Prosedur dari Turun Pesawat sampai Keluar
+Pahami dalam 1 Menit: Prosedur dari Turun Pesawat sampai Keluar Bandara
 
-➡️[Klik di sini untuk lebih banyak promo Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[Klik di sini buat lebih banyak diskon seru di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-➡️[ Cari Akomodasi di Bali Klik di Sini ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
+➡️[Cari Penginapan di Bali? Klik di Sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-## Ini adalah penjelasan versi lama, untuk penjelasan versi baru Agustus 2025 lihat [di sini](/id/blog/bali-all-indonesia-arrival-guide/)
+## Ini panduan versi lama, untuk versi baru Agustus 2025 cek [di sini](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ---
 
-Setelah tiba di Indonesia atau Bali, ikuti urutan berikut untuk masuk, biar cepat menikmati liburan:
+Setelah mendarat di Indonesia atau Bali, ikuti langkah-langkah berikut untuk masuk, biar liburanmu cepat dimulai:
 
 1. **Turun Pesawat**  
-   Saat kamu sampai di bandara Bali, ikuti petunjuk untuk turun pesawat.
+   Saat tiba di bandara Bali, ikuti petunjuk untuk turun dari pesawat.
 2. **Urus/Bayar Visa on Arrival**  
-   Jika kamu belum mengajukan visa elektronik sebelumnya, langkah pertama kamu perlu antre di konter Visa on Arrival (disingkat VoA) di bandara untuk mengurus visa on arrival  
-   ▶️ Visa on Arrival bagus? Visa elektronik bagus? Lihat [Panduan Lengkap Visa Elektronik eVoa Indonesia/Bali](/id/blog/bali-evisa-application-guide/)
-3. **Isi Formulir Deklarasi Kesehatan Online**  
-   Untuk mencegah penyebaran berbagai penyakit menular seperti cacar monyet, pneumonia manusia, dan lainnya, penumpang perlu mengisi "Deklarasi Kesehatan (SSHP)".  
-   ▶️ Cara mengisi? Lihat Panduan Pengisian SSHP
-4. **Antre di Imigrasi - Periksa Visa/Stempel Paspor**  
-   Di konter imigrasi, kamu perlu antre menunggu pemeriksaan paspor dan dokumen visa. Pastikan paspor dan dokumen visamu lengkap.
-5. **Layanan Pintu Otomatis**  
-   Jika kamu punya visa elektronik, lewati langkah 4 dan langsung menuju "Gerbang Pintu Otomatis", berlaku di Bandara Internasional Jakarta dan Bandara Internasional Bali.  
-   ▶️ Cara lewat pintu otomatis? Lihat [Panduan Pintu Otomatis Bali](/id/blog/2025-bali-automatic-customs/)
+   Kalau belum punya e-visa, langkah pertama antre di konter Visa on Arrival (VoA) di bandara untuk mengurus visa kunjungan  
+   ▶️ Pilih VoA atau e-visa? Cek [Panduan Lengkap eVisa Indonesia/Bali](/id/blog/bali-evisa-application-guide/)
+3. **Isi Formulir Kesehatan Online**  
+   Untuk mencegah penyebaran penyakit seperti cacar monyet, virus HMPV, dll., wisatawan wajib isi 'Surat Keterangan Sehat (SSHP)'.  
+   ▶️ Cara isi? Cek panduan SSHP
+4. **Antre di Imigrasi - Cek Visa/Stempel Paspor**  
+   Di konter imigrasi, antre untuk pemeriksaan paspor dan visa. Pastikan semua dokumen lengkap.
+5. **Layanan Autogate**  
+   Kalau punya e-visa, lewati langkah 4 dan langsung ke 'Pintu Autogate', tersedia di Bandara Internasional Soekarno-Hatta Jakarta dan Bandara Internasional Bali.  
+   ▶️ Cara pakai autogate? Cek [Panduan Autogate Bali](/id/blog/2025-bali-automatic-customs/)
 6. **Ambil Bagasi**  
-   Setelah selesai pemeriksaan imigrasi/pintu otomatis, kamu bisa menuju area pengambilan bagasi untuk mengambil bagasi.
-7. **Pemeriksaan Bagasi Bea Cukai**  
-   Langkah terakhir, kamu perlu melewati pemeriksaan bea cukai. Harap isi deklarasi bea cukai elektronik (e-CD) terlebih dahulu dan tunjukkan kepada petugas bea cukai. Patuhi aturan, jangan membawa barang terlarang seperti buah, tanaman, atau mata uang asing berlebih.  
-   ▶️ Aturan detail dan panduan pengisian deklarasi: [Panduan Pengisian Deklarasi Bea Cukai Elektronik](/id/blog/bali-e-customs-declaration/)
-8. **Pajak Wisatawan**  
-   Mulai 14 Februari 2024, wisatawan internasional yang masuk Bali perlu membayar terlebih dahulu  
-   ▶️ Cara membayar? Lihat penjelasan [Pajak Wisatawan](/id/blog/2026-bali-tourism-tax-guide/)
+   Setelah selesai pemeriksaan imigrasi/autogate, kamu bisa ambil bagasi di area pengambilan bagasi.
+7. **Pemeriksaan Bea Cukai**  
+   Langkah terakhir, kamu harus melewati pemeriksaan bea cukai. Isi dulu e-Customs Declaration (e-CD) dan tunjukkan ke petugas. Patuhi aturan, jangan bawa barang terlarang seperti buah, tanaman, atau uang asing berlebih.  
+   ▶️ Aturan lengkap dan cara isi e-CD: [Panduan e-Customs Declaration](/id/blog/bali-e-customs-declaration/)
+8. **Pajak Turis**  
+   Mulai 14 Februari 2024, wisatawan internasional yang masuk Bali wajib bayar pajak ini  
+   ▶️ Cara bayar? Cek [Panduan Pajak Turis](/id/blog/2026-bali-tourism-tax-guide/)
 
-> Bacaan Lanjutan: [Dokumen Apa yang Perlu Disiapkan untuk Masuk Bali?](/id/blog/indonesia-bali-visa-evoa-faq/)
+> Baca Juga: [Dokumen Apa Saja yang Perlu Disiapkan untuk Masuk Bali?](/id/blog/indonesia-bali-visa-evoa-faq/)
 
 **Mulai Nikmati Liburanmu!**  
-Setelah melewati bea cukai, selamat kamu sudah menyelesaikan proses masuk! Sekarang bisa menuju aula penjemputan, bertemu dengan sopir yang sudah dipesan atau keluarga/teman, dan memulai perjalanan indah!
+Setelah melewati bea cukai, selamat! Proses masuk selesai. Sekarang kamu bisa ke area kedatangan, bertemu sopir atau keluarga/teman yang sudah dijanjikan, dan mulai petualangan seru!
 
-➡️[Klik di sini untuk lebih banyak promo Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[Klik di sini buat lebih banyak diskon seru di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-➡️[ Cari Akomodasi di Bali Klik di Sini ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
+➡️[Cari Penginapan di Bali? Klik di Sini](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
 ![峇里島的陽光沙灘等著你！ 圖源：Tensor Arts AI繪圖](https://images.gobaligo.id/vocus/vocus_8e5d99ddf52d4877c607ac47b334cf4b.png)
 
-[Pesona pantai dan sinar matahari Bali udah nungguin kamu! Sumber: Tensor Arts AI Art](https://tensor.art/images/668572433688786211?post_id=668572433684591909&source_id=nzqzr17qkEWzoPoubHnz9xMi)
+[Pesona pantai dan sinar matahari Bali udah nungguin kamu! Sumber gambar: Tensor Arts AI](https://tensor.art/images/668572433688786211?post_id=668572433684591909&source_id=nzqzr17qkEWzoPoubHnz9xMi)
 
 ---
 
-👈 **Kembali ke Panduan Lengkap Trip ke Bali**
+👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau baca panduan lengkap untuk pemula? [Klik di sini buat baca 'Panduan Lengkap Trip ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), biar semua persiapan sebelum berangkat beres dalam satu baca.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca 「Panduan Utama Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

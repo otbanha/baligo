@@ -1,11 +1,11 @@
 ---
 slug: nusa-penida-guide
 title: >-
-  【Bali - Complete Guide to Nusa Penida】Maps, Ferries, Accommodation,
-  Transportation, Private Drivers, Activities, Photography, and Attractions
+  [Bali - Nusa Penida Complete Guide] Map, Ferry, Accommodation, Transportation,
+  Private Driver, Activities, Photography, Attractions
 description: >-
-  When vacationing in Bali, Nusa Penida is an absolute must-visit. Known for its
-  stunning landscapes and captivating culture, this island offers travelers a
+  When vacationing in Bali, Nusa Penida is an absolute must-visit. Renowned for
+  its stunning landscapes and captivating culture, the island offers travelers a
   wealth of experiences. However, due to its relative remoteness, getting to
   Nusa Penida requires thorough research and planning. This article provides a
   comprehensive travel guide from Bali to Nusa Penida, packed with the latest
@@ -21,25 +21,25 @@ originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
 category:
   - 峇里島分區攻略
 lang: en
-_srcHash: 88d2981f99887a8133a2ffe2cfbcfee7
+_srcHash: 818f49577d9805016108274d73da1dfa
 ---
 
-When vacationing in Bali, Nusa Penida is an absolute must-visit. Known for its stunning landscapes and captivating culture, this island offers travelers a wealth of experiences. However, due to its relative remoteness, getting to Nusa Penida requires thorough research and planning. This article provides a comprehensive travel guide from Bali to Nusa Penida, packed with the latest information to help you plan your trip.
+When vacationing in Bali, Nusa Penida is an absolute must-visit. Renowned for its stunning landscapes and captivating culture, the island offers travelers a wealth of experiences. However, due to its relative remoteness, getting to Nusa Penida requires thorough research and planning. This article provides a comprehensive travel guide from Bali to Nusa Penida, packed with the latest information to help you plan your trip.
 
-## Introduction to Nusa Penida
+## About Nusa Penida
 
-Nusa Penida is a small offshore island of Bali, reachable by a 45-minute ferry ride from the mainland. It's famous for its raw, undeveloped natural beauty, featuring dramatic cliffs, sea caves, beaches, and other incredible terrain that, paired with the azure waters, creates a paradise-like scene! The word 'Nusa' means 'island' in Indonesian, so Nusa Penida is also translated as 'Penida Island' or simply referred to by its Indonesian name.
+Nusa Penida is a small offshore island of Bali, reachable by a roughly 45-minute boat ride from the main island. It's famous for its raw, undeveloped natural beauty, featuring dramatic cliffs, sea caves, beaches, and other fascinating terrain that, together with the azure waters, creates a paradise-like scene! The word 'Nusa' means 'island' in Indonesian, so Nusa Penida is also translated as 'Penida Island' or simply referred to by its Indonesian name.
 
-## Nusa Penida Travel Guide
+## Nusa Penida Guide
 
 We have a total of four episodes covering Nusa Penida. Here are the links to the other three:
 
 We have a total of five episodes covering Nusa Penida, diving deeper into this island paradise! Here are the links to the other four:
 
-1. [Top 9 Food and Blue Skies on Nusa Penida: Best Restaurants](/en/blog/nusa-penida-best-restaurants/)
+1. [Top 9 Best Restaurants and Blue Skies on Nusa Penida](/en/blog/nusa-penida-best-restaurants/)
 2. [Snorkeling Spots on Nusa Penida: How to Join a Snorkeling Trip?](/en/blog/nusa-penida-snorkeling-guide/)
-3. [Transportation Guide: Taxis, Gojek/Grab, Private Drivers, and Scooters on Nusa Penida](/en/blog/nusa-penida-transport-guide/)
-4. [Accommodation Recommendations: 13 Top-Rated Hotels on Nusa Penida, from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
+3. [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Drivers, and Scooters](/en/blog/nusa-penida-transport-guide/)
+4. [Best Accommodation on Nusa Penida: 13 Highly-Rated Hotels from Luxury to Budget](/en/blog/nusa-penida-hotels-guide/)
 
 ## Top Attractions on Nusa Penida
 
@@ -51,31 +51,31 @@ Nusa Penida Travel Guide Map
 
 ▼ Must-Visit Spots on Nusa Penida: T-Rex Cliff (Kelingking Beach)
 
-![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
+![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
 
-Getting down to the beach below isn’t easy! A glass elevator is currently under construction, expected to be completed by 2025.
+Getting down to the beach below isn't easy! A glass elevator is currently under construction, expected to be completed by 2025
 
-▼ Must-Visit Spots on Nusa Penida: Broken Beach
+▼ Must-Visit Spot on Nusa Penida: Broken Beach
 
-![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
+![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_1531b3a5efc742043f3f9dad6e1bf6db.jpg)
 
-▼ Must-Visit Spots on Nusa Penida: Tree House
+▼ Must-Visit Spot on Nusa Penida: Tree House
 
-![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
+![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_963e9c6140fb895c330510fb89836af6.jpg)
 
-▼ Must-Visit Spots on Nusa Penida: Diamond Beach
+▼ Must-Visit Spot on Nusa Penida: Diamond Beach
 
-![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
+![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_ca4724a8eeb3ab1c2e10fa29582c9546.jpg)
 
-▼ Must-Visit Spots on Nusa Penida: Angel's Billabong
+▼ Must-Visit Spot on Nusa Penida: Angel's Billabong
 
-![Top Attractions on Nusa Penida](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
+![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_fd130df8e4d73710b447668b5bb55c43.jpg)
 
 ## How to Explore Nusa Penida
 
-### East & West Nusa Penida Highlights Day Trip from Bali
+### Best of East and West Nusa Penida Day Trip from Bali
 
-Ready to explore the top attractions of Nusa Penida? From the dramatic cliffs of Kelingking Beach and the pristine white sands of Diamond Beach to the natural wonder of Angel's Billabong, you can enjoy the refreshing sea breeze while capturing stunning, Instagram-worthy shots with every click. This tour has everything you need—including speedboat transfers, a local driver, lunch, and more—so you can set off hassle-free. Whether you're an adventure enthusiast, traveling with a group, or a photography lover who loves to check in, this journey will become an unforgettable memory!
+Ready to explore the top attractions of Nusa Penida? From the dramatic cliffs of Kelingking Beach and the pristine white sands of Diamond Beach to the natural wonder of Angel's Billabong, you can enjoy the refreshing sea breeze while capturing stunning, Instagram-worthy shots with every click. This tour has everything you need—including speedboat transfers, a local driver, lunch, and more—so you can set off hassle-free. Whether you're an adventure seeker, traveling with a group, or a photography enthusiast who loves to check in at hotspots, this journey will become an unforgettable memory!
 
 - [Nusa Penida Day Trip from Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D7f2ac4053e)
 - [Nusa Penida West or East Coast Day Trip from Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F159418-nusa-penida-west-east-trip-sanur-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3De011eaaadc)
@@ -84,19 +84,19 @@ Ready to explore the top attractions of Nusa Penida? From the dramatic cliffs of
 - [Nusa Penida Private Car Charter Day Trip from Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F)
 - [Nusa Penida Instagram-Worthy Day Trip with Snorkeling](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D218c1c962c)
 
-### Nusa Penida Snorkeling / Diving / Water Activities
+### Nusa Penida Snorkeling / Diving Tours / Water Activities
 
-![Nusa Penida Snorkeling / Diving / Water Activities](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
+![佩尼達島浮潛/潛水之旅/水上活動](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
 
 - [Manta Point Snorkeling & East Coast Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145570-nusa-penida-manta-point-snorkeling-east-coast-tour%2F)
 - [Nusa Lembongan & Manta Bay Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 - [Nusa Penida Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
 - [PADI Discover Scuba Diving Tour (2 Dives)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F116754-padi-discover-scuba-diving-with-2-dives-nusa-penida-in-bali-with-padi-5-star-idc-resort%2F)
-- [Nusa Penida Water Sports: Banana Boat, Donut, Jet Ski, Sea Walking & More](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79407-nusa-penida-watersport-experience-trip-bali%2F)
+- [Banana Boat, Donut, Jet Ski, Sea Walker & More Water Sports in Nusa Penida](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79407-nusa-penida-watersport-experience-trip-bali%2F)
 
 ## How to Get to Nusa Penida
 
-There are two ways to get to Nusa Penida from Bali. Let's first look at the independent travel option. Taking a ferry from Sanur Harbor on Bali's east coast is the most common way to reach Nusa Penida. Sanur Harbor is about 30 minutes from Kuta and about 1 hour from Canggu. You can book your ferry ticket in advance and head to Sanur Harbor. From there, you can take a ferry to Nusa Penida. While this is a budget-friendly option, it also requires time and effort to plan.
+There are two ways to get to Nusa Penida from Bali. First, let's look at the independent travel option. Taking a ferry from Sanur Harbor on Bali's east coast is the most common way to reach Nusa Penida. Sanur Harbor is about 30 minutes from Kuta and about 1 hour from Canggu. You can book your ferry ticket in advance and head to Sanur Harbor. From there, you can take a ferry to Nusa Penida. While this is a budget-friendly option, it also requires time and effort to plan.
 
 - [Nusa Penida Speedboat Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
 - [Private Boat Charter for Groups of 8+](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
@@ -107,59 +107,59 @@ There are two ways to get to Nusa Penida from Bali. Let's first look at the inde
 
 ### **How to Take a Ferry from Bali to Nusa Penida (Canggu, Kuta, Seminyak)?**
 
-For those looking to travel from Bali to Nusa Penida, you need to know that the speedboats to the island depart from one location: Sanur—on Bali's southeast coast, about 40 minutes from Kuta and about 80 minutes from Canggu. The new harbor is called Pemelisan Harbor.
+For those wanting to travel from Bali to Nusa Penida, you need to know that the speedboats to the island depart from one location: Sanur—on Bali's southeast coast, about 40 minutes from Kuta and about 80 minutes from Canggu. The new harbor is called Pemelisan Harbor.
 
 Here is the ferry schedule:
 
-![How to Take a Ferry from Bali to Nusa Penida (Canggu, Kuta, ](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
+![如何從峇里島乘坐渡輪前往Nusa Penida（Canggu, Kuta, Seminyak）？](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
 
-For reference only.
+For reference only
 
-If the weather is too severe, the boats will not operate. It's a bit unpredictable.
+If the weather is too severe, boats will not operate. It's a bit unpredictable.
 
 ### **How to Get from Ubud to Nusa Penida?**
 
-Traveling from Ubud to Nusa Penida is more complicated because it's farther away. Currently, there are no speedboat tickets available for booking directly from Ubud.
+Getting from Ubud to Nusa Penida is more complicated because it's farther. There are currently no speedboat tickets available for booking.
 
-However, you can arrange transportation from Ubud to the harbor in Sanur. The drive/ride takes about an hour, but frequent traffic jams can make it longer.
+However, you can arrange transportation in Ubud to the port in Sanur. The drive/ride takes about an hour, but frequent traffic jams can make it longer.
 
-### **What's It Like Taking a Boat from Sanur Harbor to Nusa Penida?**
+### **What's It Like Taking a Boat from Sanur Port to Nusa Penida?**
 
-When taking a speedboat from Sanur to Nusa Penida, you must book your tickets in advance. If you don't have a pre-booked ticket, you'll be swarmed by 'enthusiastic' touts at the harbor offering wildly absurd prices.
+Taking a speedboat from Sanur to Nusa Penida requires booking tickets in advance. If you don't have a pre-booked ticket, you'll be swarmed by 'enthusiastic' salespeople at the port offering some absurd prices.
 
-Once you board and set off, the journey from Sanur Harbor to Nusa Penida takes about 45 minutes. The old 'slow boats' are no longer used for tourist trips, as they were somewhat dangerous and even capsized in the past. Depending on the weather and sea conditions, it can be a calm, short ride or a wild ocean roller coaster!
+Once you board and set off, the trip from Sanur Port to Nusa Penida takes about 45 minutes. The old 'slow boats' are no longer used for tourist travel, as they were somewhat dangerous and even capsized in the past. Depending on the weather and sea conditions, it can be a calm, short ride or a wild ocean roller-coaster experience!
 
 ### **Luggage Restrictions**
 
-Speedboats from Bali to Nusa Penida usually have luggage restrictions: a maximum of two suitcases with a total weight of 30 kilograms. However, they don't actually weigh your luggage. They'll stow it on the deck and cover it with a large waterproof tarp to keep it from getting splashed.
+Speedboats from Bali to Nusa Penida usually have luggage restrictions, allowing a maximum of two suitcases with a total weight of 30 kilograms. However, they don't actually weigh your luggage. They'll place it on the deck and cover it with a large tarp to protect it from splashes.
 
-If you need to store large luggage on the main island of Bali, check out: [【Departing for Bali's Outlying Islands】Sanur Luggage Storage Guide](/en/blog/sanur-luggage-storage-guide/)
+If you need to store large luggage on the main island of Bali, check out: [Sanur Luggage Storage Guide for Departing to Bali's Offshore Islands](/en/blog/sanur-luggage-storage-guide/)
 
 ## **Accommodation Recommendations**
 
-For those planning their own itinerary, there are several accommodation options to choose from once you arrive on Nusa Penida. Below are three recommended choices, covering budget, mid-range, and luxury stays.
+If you're planning your own trip, you'll find several accommodation options once you arrive on Nusa Penida. Here are three top picks: budget, mid-range, and luxury stays.
 
 **Luxury Stay:** [**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
+![住宿推薦](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 
-This isn't the most expensive luxury resort on Nusa Penida, but it's definitely one of the best! Perched on the waterfront, it features spacious luxury suites and a hearty breakfast.
+It's not the priciest luxury resort on Nusa Penida, but it's definitely one of the best! Perched right on the waterfront, this resort boasts spacious luxury suites and a hearty breakfast.
 
-**Luxury Private Villa:** [**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1) 4.5-star private pool oceanfront villa
+**Luxury Private Villa:** [**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1) A 4.5-star private pool beachfront villa
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
+![住宿推薦](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
 
-**Mid-Range:** [Jukung Cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=25688678)
+Mid-Range: [Jukung Cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=25688678)
 
-This beachfront resort-style cottage guesthouse offers excellent value for money. It features a restaurant, outdoor swimming pool, bar, and shared lounge.
+This beachfront resort-style cottage guesthouse offers incredible value for money. It features a restaurant, outdoor pool, bar, and shared lounge.
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
+![住宿推薦](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
 
-**Budget Stay:** [Hostel Bukit Sangcure](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=10306621)
+Budget Stay: [Hostel Bukit Sangcure](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=10306621)
 
-A popular choice for backpackers on Nusa Penida. This affordable hostel is close to the port and offers breakfast and bicycle rentals.
+A go-to spot for backpackers on Nusa Penida. This affordable hostel is close to the port and offers breakfast and bike rentals.
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
+![住宿推薦](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
 
 Finally, here are a few important reminders for travelers heading to Nusa Penida:
 
@@ -171,18 +171,18 @@ Finally, here are a few important reminders for travelers heading to Nusa Penida
 
 4. For luggage storage services, [check here](/en/blog/sanur-luggage-storage-guide/).
 
-5. Klook ticket holders should arrive at the harbor at least 30 minutes before departure.
+5. If you booked via Klook, arrive at the harbor at least 30 minutes before departure.
 
-6. Klook ticket holders are advised to book at least one day in advance.
+6. Klook ticket holders should book at least one day in advance.
 
 **Klook Deals:**
 
 - [Nusa Penida Day Trip (from Bali)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7847cab48f)
-- [Nusa Penida Instagrammable Spots & Diving Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D370017bd78)
+- [Nusa Penida Instagram Hotspots & Diving Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D370017bd78)
 - [Nusa Penida Speedboat Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)
 - [Private Boat Charter for Groups of 8+](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
 - [Nusa Penida Private Car Charter](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
-- [Exploration Tour - from Bali (meet at Sanur Harbor)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
+- [Exploration Tour - from Bali (Meet at Sanur Harbor)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
 - [Nusa Penida Multi-Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
 - [Nusa Lembongan & Manta Bay Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 - [Nusa Penida Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
@@ -190,16 +190,16 @@ Finally, here are a few important reminders for travelers heading to Nusa Penida
 - [Nusa Penida & Lembongan Private Boat Charter](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - [KKday Options](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
+![住宿推薦](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
-[Click here](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing) to enlarge and save.
+[Click here](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing) to enlarge and save
 
 We also introduced nine Nusa Penida restaurants with infinity pools, golden sandy beaches, and sunset views.
 
-**▶ Nusa Penida Guide Part 2:** [Savor the Blue Skies and Cuisine of Nusa Penida: Top 9 Picks](/en/blog/nusa-penida-best-restaurants/)
+**▶Nusa Penida Guide Part 2:** [Savor the Blue Skies and Cuisine of Nusa Penida: Top 9 Picks](/en/blog/nusa-penida-best-restaurants/)
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
+![我們還介紹了九家擁有無邊際泳池、金黃沙灘、夕陽美景的Nusa Penida美食餐廳](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
-**▶ Nusa Penida Guide Part 3:** [Top 4 Snorkeling Spots in Nusa Penida / How to Join a Snorkeling Tour?](/en/blog/nusa-penida-snorkeling-guide/)
+**▶Nusa Penida Guide Part 3:** [Four Top Snorkeling Spots in Nusa Penida / How to Join a Snorkeling Tour?](/en/blog/nusa-penida-snorkeling-guide/)
 
-![Accommodation Recommendations](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)
+![我們還介紹了九家擁有無邊際泳池、金黃沙灘、夕陽美景的Nusa Penida美食餐廳](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

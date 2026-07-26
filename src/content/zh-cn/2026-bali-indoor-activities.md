@@ -1,9 +1,9 @@
 ---
-title: 【2026 巴厘岛下雨/躲太阳行程备选】下雨躲太阳必看！60 个超强室内行程：从新开业购物中心、五星级下午茶到顶级手作体验
+title: 【2026 巴厘岛下雨/躲太阳行程备选】下雨躲太阳必看！60个超强室内行程：从新开业购物中心、五星级下午茶到顶级手作体验
 slug: 2026-bali-indoor-activities
 description: >-
-  计划去巴厘岛却遇上雨季？或者想找地方躲避烈日酷暑？深度整理60个全岛最强室内行程备选：包括2026全新开业的Icon
-  Bali购物中心、适合家庭的室内游乐场、各区顶级SPA与五星级酒店下午茶推荐。本篇涵盖乌布、坎古、沙努尔和努沙杜瓦，教您如何不让天气影响度假心情，把室内行程玩得比户外更精彩！
+  计划去巴厘岛却遇上雨季？或是想找地方躲避烈日酷暑？深度整理60个全岛最强室内行程备选：包含2026全新开业的Icon
+  Bali购物中心、适合家庭的室内游乐场、各区顶级SPA与五星级酒店下午茶推荐。本篇涵盖乌布、坎古、沙努尔与努沙杜瓦，教您如何不让天气影响度假心情，把室内行程玩得比户外更精彩！
 pubDate: 2024-01-06T00:00:00.000Z
 pubHour: null
 category:
@@ -24,9 +24,9 @@ heroImage: ''
 originalUrl: 'https://vocus.cc/article/6598c6fffd89780001047d76'
 updatedDate: 2026-07-10T00:00:00.000Z
 lang: zh-cn
-_srcHash: 289eb2193d157ef433e3b5902e8eddc2
+_srcHash: cb8f195494f4d73ce55a60dcd98a8164
 ---
-**先说结论**：下雨或想躲太阳时，库塔区首选 **Trans Studio Bali**（大型购物中心顶楼室内主题乐园，7大主题区、23个游乐设施，玩一整天都玩不完）；其他区域则有新开业的Icon Bali购物中心、五星酒店下午茶、乌布手作课程等备选。本文按乌布、坎古、沙努尔、努沙杜瓦分区整理60个室内行程。
+**先说结论**：下雨或想躲太阳时，库塔区首选 **Trans Studio Bali**（大型购物中心顶楼室内主题乐园，7大主题区、23个游乐设施，玩一整天都玩不完）；其他区域则有新开业的Icon Bali购物中心、五星酒店下午茶、乌布手作课程等备选。本文依乌布、坎古、沙努尔、努沙杜瓦分区整理60个室内行程。
 
 在**巴厘岛**度假，最怕遇到突如其来的午后雷阵雨，或是正午时分让人难以招架的烈日烈阳。不过，千万别让天气打乱您的度假兴致！这座岛屿除了绝美海景，其实隐藏着无数极具质感的室内空间。无论想在空调房里悠闲逛街、带着孩子在五星级室内游乐场放电，还是在烟雨蒙蒙的乌布山林间体验一场静谧的手作银饰课程，这60个精心挑选的室内备选，将带您发现**巴厘岛**另一种精致且舒适的玩法。
 
@@ -46,11 +46,11 @@ https://youtube.com/shorts/POSTtRPKK5c
 
 Trans Studio Bali本身就是一个大型购物中心，而位于顶楼的超大室内游乐场有七大主题区，拥有23个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划无法进行，请不要担心！Trans Studio Bali室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
 
-详细介绍：[【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
+详细介绍：[【巴厘岛室内景点】Trans Studio Bali完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
 
 > [Trans Studio优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 
-> [Trip 优惠门票](https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&lasttraceid=0f396bf3-b601-5196-228f-177882f59811&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389)
+> [Trip优惠门票](https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&lasttraceid=0f396bf3-b601-5196-228f-177882f59811&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389)
 
 ### Upside Down World Bali
 
@@ -58,25 +58,25 @@ Trans Studio Bali本身就是一个大型购物中心，而位于顶楼的超大
 
 在巴厘岛颠倒屋拍出令人惊异的照片
 
-Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个特别设计的房间，装修和家具都是颠倒的。你可以和家人朋友一起来这里度过愉快的一天，拍摄许多有趣的照片。翻转照片后，你会发现本来很挫地被工作人员指导姿势，拍出来的照片却在做着不可思议的事！
+Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个特别设计的房间，装修和家具都是颠倒的。您可以和家人朋友一起来这里度过愉快的一天，拍摄许多有趣的照片。翻转照片后，您会发现本来很挫地被工作人员指导姿势，拍出来的照片却在做着不可思议的事！
 
 ### 冰刀溜冰场
 
 ![冰刀溜冰場](https://images.gobaligo.id/vocus/vocus_ed02bd7b74729a4efdb65c31a67a5cbf.png)
 
-想在巴厘岛炎热的天气或是下雨的日子中寻找不一样的消暑方式吗？来到库塔的MAL BALI GALERIA，西翼3楼 **Bali Ice Skating Arena**，享受溜冰的乐趣吧！这里的冰场让你感觉自己像是溜冰高手，展示你的滑行技巧，自由地在冰面上漂移。
+想在巴厘岛炎热的天气或是下雨的日子中寻找不一样的消暑方式吗？来到库塔的MAL BALI GALERIA，西翼3楼 **Bali Ice Skating Arena**，享受溜冰的乐趣吧！这里的冰场让您感觉自己像是溜冰高手，展示您的滑行技巧，自由地在冰面上漂移。
 
-冰场每场次限额45位滑冰者，每张门票可享受1.5小时的滑冰体验。无论是与朋友还是家人一起，你都可以在冰冷的冰面上度过一次令人兴奋的溜冰时光！Bali Ice Skating Arena是雨天或炎热天气里消暑、娱乐的好去处。
+冰场每场次限额45位滑冰者，每张门票可享受1.5小时的滑冰体验。无论是与朋友还是家人一起，您都可以在冰冷的冰面上度过一次令人兴奋的溜冰时光！Bali Ice Skating Arena是雨天或炎热天气里消暑、娱乐的好去处。
 
-- [Bali Ice Skating Arena门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F54334-bali-ice-skating-arena-ticket-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D9cbe7555cd)（需提前购买，有人数限制）
+- [Bali Ice Skating Arena门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F54334-bali-ice-skating-arena-ticket-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D9cbe7555cd)（须先预购，有人数限制）
 
 ### 🎮 ZONE OUT Bali：库塔最酷的室内VR冒险基地！
 
 ![ZONE OUT Bali：庫塔最酷的室內VR冒險基地！](https://images.gobaligo.id/vocus/vocus_2f635515f259943ac474f59a6751779c.jpg)
 
-想在巴厘岛找个不怕晒、不怕下雨，又超好玩的活動吗？位于库塔雷吉安的 ZONE OUT Bali 绝对是你的不二选择！这家高科技室内乐园主打 VR虚拟现实体验，让你化身赛车手、太空探险家、甚至丧尸猎人，在超逼真的场景中尽情冒险。
+想在巴厘岛找个不怕晒、不怕下雨，又超好玩的活動吗？位于库塔雷吉安的 ZONE OUT Bali 绝对是你的不二选择！这家高科技室内乐园主打 VR虚拟实境体验，让你化身赛车手、太空探险家、甚至丧尸猎人，在超逼真的场景中尽情冒险。
 
-这里有各种刺激游戏可选：赛车、射击、恐怖、冒险、过山车等，设备新颖、画面沉浸感十足，无论大人小孩都能玩得开心。地点位于库塔闹区，交通方便，是雨天或午后休闲的理想选择。
+这里有各式刺激游戏可选：赛车、射击、恐怖、冒险、云霄飞车等，设备新颖、画面沉浸感十足，无论大人小孩都能玩得开心。地点位于库塔闹区，交通方便，是雨天或午后休闲的理想选择。
 
 详细介绍在[这里](/zh-cn/blog/zone-out-bali-vr-adventure/)
 
@@ -84,7 +84,7 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 
 ### 去购物
 
-库塔因为游客最多，所以购物的地方也最多！比较有规模的商场举例如下：
+库塔因为最多观光客，因此购物的地方也最多！比较有规模的商场举例如下：
 
 - Beachwalk Shopping Center，请看下面小杰的视频介绍：
 - Discovery Mall
@@ -92,7 +92,7 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 - Mal Bali Galeria
 - Trans Studio
 
-有兴趣的朋友可以参考这篇「[库塔攻略地图](/zh-cn/blog/kuta-guide/)」已经全部帮大家把地理位置标示出来了哦！
+有兴趣的朋友可以参考这篇「[库塔攻略地图](/zh-cn/blog/kuta-guide/)」已经全部帮大家把地理位置标示出来了喔！
 
 ### 伴手礼店
 
@@ -116,7 +116,7 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 
 画廊的经理Ari Purpa(右)还是个美女哦
 
-Purpa Fine Art Gallery 提供独特的当代艺术收藏，展示了来自成熟艺术家和新兴艺术家的作品。我们不仅代表了多数的印尼艺术家，还包括那些居住在巴厘岛或在此逗留的各国艺术家。其中一些艺术家已在全球范围内获得认可，如 Walter Spies、Antonio Blanco、Hans Snell、I Gusti Nyoman Lempad、Miguel Covarrubias、Arie Smit、Krijono 等等。
+Purpa Fine Art Gallery 提供独特的当代艺术收藏，展示了来自成熟艺术家和新锐艺术家的作品。我们不仅代表了大多数的印尼艺术家，还包括那些居住在巴厘岛或在此逗留的各国艺术家。其中一些艺术家已在全球范围内获得认可，如 Walter Spies、Antonio Blanco、Hans Snell、I Gusti Nyoman Lempad、Miguel Covarrubias、Arie Smit、Krijono 等等。
 
 除了这个画廊，当地还有其他几个有名的画廊：
 
@@ -139,7 +139,7 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 
 ![購物](https://images.gobaligo.id/vocus/vocus_21b20c72ddb3adc1f8b85870c9b75792.jpg)
 
-如果遇到下雨天，可以来到 Seminyak Village，一座充满现代感的玻璃与光影结合的建筑，这里是巴厘岛时尚的购物和美食天堂。位于水明漾的中心地带，这座生活商场为亚洲各大海滩度假村常见的购物场景增添了新的维度。不仅如此，旁边就是 Seminyak Square，让您在雨天也能享受舒适的购物与餐饮体验。
+如果遇到下雨天，可以来到 Seminyak Village，一座充满现代感的玻璃与光影结合的建筑，这里是巴厘岛时尚的购物和美食天堂。位于Seminyak的中心地带，这座生活商场为亚洲各大海滩度假村常见的购物场景增添了新的维度。不仅如此，旁边就是 Seminyak Square，让您在雨天也能享受舒适的购物与餐饮体验。
 
 ### 参加手作坊
 
@@ -152,7 +152,7 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 - [星巴克Reserve Dewata咖啡大师课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127649-starbucks-reserve-dewata-coffee-experience-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd6c14650a8)
 - [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
 
-在水明漾的 Umah，你能亲手调制专属香氛，从蜡烛、居家喷雾到个人香水都能打造。工艺师会介绍香气基础，提供多达 80 种取材自巴厘岛植物的香氛素材，带你踏上一段探索自我风格的气味旅程。完成后还能带走独一无二的香氛作品，是雨天或疗愈系行程的理想选择。
+在水明漾的 Umah，你可以亲手调制专属香氛，从蜡烛、居家喷雾到个人香水都能打造。工艺师会介绍香气基础，提供多达 80 种取材自巴厘岛植物的香氛素材，带你踏上一段探索自我风格的气味旅程。完成后还能带走独一无二的香氛作品，是雨天或疗愈系行程的理想选择。
 
 - [Umah Living Bali蜡烛和室内喷雾制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1185774&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169161-candle-and-room-spray-making-class-at-umah-living-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deeec642300)
 
@@ -160,7 +160,7 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 
 ## 坎古
 
-在坎古(Canggu)的下雨天, 来这里打发时间吧:
+在坎古(Canggu)的下雨天，来这里打发时间吧：
 
 ### Bounce Bali
 
@@ -174,7 +174,7 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 
 ![運動健身](https://images.gobaligo.id/vocus/vocus_321421d5b6c376f44537b4ea57e6f539.jpg)
 
-如果在Canggu的雨天不知道去哪里，Canggu这个地方是健身爱好者的天堂，拥有20到30家健身房。你可以在这里利用下雨的时间锻炼强健的体魄，让自己保持活力。比较有名的健身房有**CrossFit Wanderlust、Body Factory Bali**以及**Avenue Fitness**等，不论你是想进行力量训练、还是有氧运动，都能找到适合你的运动方式，雨天也能过得充实而健康！
+如果在坎古的雨天不知道去哪里，坎古这个地方是健身爱好者的天堂，拥有20到30家健身房。你可以在这里利用下雨的时间锻炼强健的体魄，让自己保持活力。比较有名的健身房有**CrossFit Wanderlust、Body Factory Bali**以及**Avenue Fitness**等，不论你是想进行力量训练、还是有氧运动，都能找到适合你的运动方式，雨天也能过得充实而健康！
 
 ### 攀岩乐趣
 
@@ -188,7 +188,7 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 
 来到**Strike Bowling Bali**，在下雨天也可以享受一个充满欢笑的保龄球时光！无论是家庭出游，还是和朋友、同事聚会，保龄球都是一个既有趣又能增进感情的好方式。Strike 提供巴厘岛最现代化的十瓶保龄球体验，拥有6条自动球道，并配有电脑计分系统。为了照顾小朋友（或其他任何人！），他们还设有防护栏，防止球滚进边沟。
 
-Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在比赛前、比赛中或比赛后都能满足你的饥饿与口渴。
+Strike 内设空调的餐厅和酒吧区，供应美食与饮品，让你在比赛前、比赛中或比赛后都能满足你的饥饿与口渴。
 
 不论你是3岁还是80岁，**Strike Bowling** **Bali**都是一个让你在享受乐趣的同时保持活力的绝佳选择。让美好的时光滚动起来吧！
 
@@ -210,7 +210,7 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 ![瑜珈](https://images.gobaligo.id/vocus/vocus_00c37155e45e8f136987588e13821a2c.jpg)
 
-如果在下雨天想放松身心，坎古的瑜伽中心绝对是不错的选择。这里有许多知名的瑜伽场馆，让你在静谧的环境中舒展身心。比较有名的包括 **Guan Yin Yoga Shala**、**Canggu Yoga Centre**、**The Practice**、**Samasti Yoga**、和 **Samadi Bali Yoga Health Hub**。无论你是瑜伽新手还是有经验的习练者，这些地方都提供各种不同的课程，从静心冥想到高强度的瑜伽体式训练。雨天来这里，让自己在缓慢的呼吸中找到内心的平静，让身心重新充满能量。
+如果在下雨天想放松身心，坎古的瑜伽中心绝对是不错的选择。这里有许多知名的瑜伽场馆，让你在静谧的环境中舒展身心。比较有名的包括 **Guan Yin Yoga Shala**、**Canggu Yoga Centre**、**The Practice**、**Samasti Yoga** 和 **Samadi Bali Yoga Health Hub**。无论你是瑜伽新手还是有经验的练习者，这些地方都提供各种不同的课程，从静心冥想到高强度的瑜伽体式训练。雨天来这里，让自己在缓慢的呼吸中找到内心的平静，让身心重新充满能量。
 
 在线预订:
 
@@ -267,7 +267,7 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 ![瑜珈課程](https://images.gobaligo.id/vocus/vocus_281074552386a45c6fc694f724dccfbe.jpg)
 
-在乌布的宁静环境中，参加一堂瑜伽课程是放松身心的极佳方式。在翠绿的稻田间，或者位于度假村的露天瑜伽空间，你可以跟随瑜伽导师的引导，感受身体的拉伸和呼吸的平静。这不仅是对身体的养生，更是对心灵的沉潜与平衡。
+在乌布的宁静环境中，参加一堂瑜伽课程是放松身心的极佳方式。在翠绿的稻田间，或者是位于度假村的露天瑜伽空间，你可以跟随瑜伽导师的引导，感受身体的拉伸和呼吸的平静。这不仅是对身体的养生，更是对心灵的沉潜与平衡。
 
 > [乌布瑜伽中心瑜伽课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
 
@@ -311,9 +311,9 @@ Sukawati Art Market以其传统的艺术品和手工制品闻名，这里充满�
 
 ![Bali Purma Art & Workshop](https://images.gobaligo.id/vocus/vocus_32e3e2ff190ef21bf1d040baa79002e7.jpg)
 
-Bali Purma Art & Workshop 提供多种互动式体验，从蜡染绘制、纯银饰品手作，到学习制作巴厘岛人每日必备的 *canang sari* 供品，让旅人能真正接触到当地的生活美学。如果你对更细致的工艺有兴趣，这里也有木雕与石雕的进阶课程，能更贴近巴厘岛艺术的灵魂。
+Bali Purma Art & Workshop 提供多种互动式体验，从蜡染绘制、纯银饰品手作，到学习制作巴厘岛人每日必备的 \*canang sari\* 供品，让旅人能真正接触到当地的生活美学。如果你对更细致的工艺有兴趣，这里也有木雕与石雕的进阶课程，能更贴近巴厘岛艺术的灵魂。
 
-其中最受小朋友喜爱的活动，就是传承多代的传统风筝制作课。由风筝匠人亲自指导，从打造竹架、使用 *kertas minyak（油纸）* 制作风筝外层，到最后的装饰与穿上牵线，每一步都让人觉得既新鲜又疗愈。完成后，你会发现这不只是一个手作体验，更像是一场文化连结。下次在巴厘岛遇到雨天，不妨走进 Bali Purma，让这些工艺成为你旅程中最难忘的亮点之一。
+其中最受小朋友喜爱的活动，就是传承多代的传统风筝制作课。由风筝匠人亲自指导，从打造竹架、使用\*kertas minyak（油纸）制作风筝外层，到最后的装饰与穿上牵线，每一步都让人觉得既新鲜又治愈。完成后，你会发现这不只是一个手作体验，更像是一场文化连接。下次在巴厘岛遇到雨天，不妨走进 Bali Purma，让这些工艺成为你旅程中最难忘的亮点之一。
 
 Bali Purma Art & Workshop [官网](https://linktr.ee/balipurmaartworkshop?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
@@ -335,7 +335,7 @@ Bali Purma Art & Workshop [官网](https://linktr.ee/balipurmaartworkshop?utm_so
 
 ![AeroXSpace Adventure室內遊樂場](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
 
-2024年8月底开幕的「占地1000多坪超大室内游乐场 AeroXSpace Adventure」，可以让大人、小朋友都享有无尽的乐趣喔！详细的介绍和购票链接[在这里](/zh-cn/blog/aeroxspace-sanur-indoor-playground/)。
+2024年8月底开幕的「占地1000多平米超大室内游乐场 AeroXSpace Adventure」，可以让大人、小朋友都享有无尽的乐趣喔！详细的介绍和购票链接[在这里](/zh-cn/blog/aeroxspace-sanur-indoor-playground/)。
 
 ### Kids Soho Playground室内游乐场
 
@@ -377,13 +377,13 @@ Clip 'n Climb Bali结合运动与娱乐，是巴厘岛新兴的室内冒险景�
 
 ## 享受SPA
 
-在下雨天的时候，来做一节放松身心的SPA吧！
+在下雨天的时候，来做一节放松身心灵的SPA吧！
 
 可以参考我们准备的，以区域为划分的「[巴厘岛好评SPA推荐大集合](/zh-cn/blog/spa/)」，除了每个主要旅游区域都有之外，还可以享受优质SPA不踩雷喔！
 
 ## 享受美食/下午茶
 
-雨季容易下雨的时段是下午，在这段时间不妨安排个美食或下午茶体验吧！
+雨季容易下雨的时段是下午，在这段期间不妨安排来个美食或下午茶体验吧！
 
 请参考底下的链接：
 

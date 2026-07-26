@@ -2,8 +2,7 @@
 slug: canggu-surf-food-guide
 title: 【巴厘岛必访】坎古攻略：冲浪、美食和潮流的完美结合！
 description: >-
-  坎古这个地区现在是巴厘岛最受外国人喜爱的区域之一！究竟坎古有什么样的魅力呢？要怎么样游玩坎古呢？最后还有 30
-  个坎古一定要去的景点、咖啡馆。请看小杰的介绍并记得看到最后哦！
+  坎古这个地区现在是巴厘岛最受外国人喜爱的区域之一！究竟坎古有什么样的魅力呢？要怎么样游玩坎古呢？最后还有30个坎古一定要去的景点、咖啡厅。请看小杰的介绍并记得看到最后喔！
 pubDate: 2024-04-16T00:00:00.000Z
 category:
   - 峇里島分區攻略
@@ -18,16 +17,16 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/4tVq4SFfjMw'
 lang: zh-cn
-_srcHash: 4e651050603a5ce6c277a12e90532e71
+_srcHash: 7543067e2b5f7bfdb6c58387b2671c60
 ---
 
-坎古这个地区现在是巴厘岛最受外国人喜爱的区域之一！究竟坎古有什么样的魅力呢？要怎么样游玩坎古呢？最后还有 50 个坎古一定要去的景点、咖啡馆。请看小杰的介绍并记得看到最后哦！
+坎古这个地区现在是巴厘岛最受外国人喜爱的区域之一！究竟坎古有什么样的魅力呢？要怎么样游玩坎古呢？最后还有50个坎古一定要去的景点、咖啡厅。请看小杰的介绍并记得看到最后喔！
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_8119d932eda8529222d684a79869ec9f.jpg)
 
 小杰的视频截图
 
-要介绍坎古这个题目有点大，毕竟对大多数人来说对坎古这个区域的了解还是很陌生。因此我们将拆分为两集来介绍。记得要订阅追踪小杰印尼，我带你们更认识巴厘岛哦！
+要介绍坎古这个题目有点大，毕竟对大多数人来说对坎古这个区域的了解还是很陌生。因此我们将拆分为两集来介绍。记得要订阅追踪小杰印尼，我带你们更认识巴厘岛喔！
 
 ## 坎古攻略视频
 
@@ -35,7 +34,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 {{video1}}
 
-在这个坎古系列的第一集，我们先来说说坎古和巴厘岛闹区的发展历史。以下的内容比较难用视频的方式呈现，坎古到底是什么样子，有什么迷人的特质。先把视频看完，这里还有更进一步的精彩介绍哦！
+在这个坎古系列的第一集，我们先来说说坎古和巴厘岛闹区的发展历史。以下的内容比较难用视频的方式呈现，坎古到底是什么样子，有什么迷人的特质。先把视频看完，这里还有更进一步的精彩介绍喔！
 
 ## 巴厘岛西岸发展史
 
@@ -45,17 +44,17 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 [坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
-巴厘岛从库塔和雷吉安开始，发展成为整个巴厘岛最热闹的区域。我们之前做过一集「库塔攻略」，到巴厘岛旅游不要错过我的「[库塔攻略](/zh-cn/blog/kuta-guide/)」喔！
+巴厘岛从 Kuta 和 Legian（库塔/雷吉安）开始，发展成为整个巴厘岛最热闹的区域。我们之前做过一集「库塔攻略」，到巴厘岛旅游不要错过我的「[库塔攻略](/zh-cn/blog/kuta-guide/)」哦！
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_ef926785ed04367981ee15ffdbb273f1.jpg)
 
 小杰的视频截图
 
-库塔和雷吉安在经过几年的演变之后，热闹的区域沿着海岸逐渐向北延伸。位于库塔/雷吉安北部的这个水明漾，中文有人把它叫做「水明漾」或「塞米亚克」，原本是独立于库塔区的一个小村。由于当时地价便宜、离库塔不远、又有美丽的沙滩，开始受到常住巴厘岛的外籍人士欢迎，盖起了一栋又一栋的豪华 villa，吸引了很多精美的餐饮、精品店、SPA、各种名牌服饰也都来到这个地方。现在的水明漾可以说是巴厘岛时尚与流行的代表，从库塔、雷吉安一直到水明漾，连成了一条巴厘岛逛街购物的最精华地段。
+Kuta 和 Legian 在经过几年的演变之后，热闹的区域沿着海岸逐渐向北延伸。位于 Kuta/Legian 北部的这个 Seminyak，中文有人把它叫做「水明漾」或「塞米亚克」，原本是独立于库塔区的一个小村。由于当时地价便宜、离库塔不远、又有美丽的沙滩，开始受到常住巴厘岛的外籍人士欢迎，盖起了一栋又一栋的豪华 villa，吸引了很多精美的餐饮、精品店、SPA、各种名牌服饰也都来到这个地方。现在的 Seminyak 可以说是巴厘岛时尚与流行的代表，从 Kuta、Legian 一直到 Seminyak，连成了一条巴厘岛逛街购物的最精华地段。
 
 > 延伸阅读: [水明漾景点Seminyak巴厘岛必去地点地图：60个吃喝玩乐全面介绍](/zh-cn/blog/seminyak-guide/)
 
-继续往北走，距离水明漾大约 15 分钟的车程，我们来到了坎古。由于这个地方用印尼文发音很像「长谷」，但是实际上这个地名跟「很长的山谷」可是没有半点关系喔！
+继续往北走，距离 Seminyak 大约 15 分钟的车程，我们来到了 Canggu。由于这个地方用印尼文发音很像「长谷」，但实际上这个地名跟「很长的山谷」可是没有半点关系哦！
 
 ![小傑的視頻截圖](https://images.gobaligo.id/vocus/vocus_56d2626a471ca68d32718be55d062f0b.jpg)
 
@@ -63,23 +62,23 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 [坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
-坎古是最近这几年才出现的热门地点，这个地方离巴厘岛西岸著名景点「海神庙 Tanah Lot」不远，约 10 几分钟车程就可以到达这个印度教祭拜海神的寺庙。海神庙是一个退潮的时候才能进入的神奇地方，当地人说在神庙底座的海蚀洞里会出现颜色黑白相间的巨大海蛇守护此寺庙。
+坎古是最近这几年才出现的热门地点，这个地方离巴厘岛西岸著名景点「海神庙 Tanah Lot」不远，约 10 几分钟车程就可以到达这个印度教祭拜海神的庙宇。海神庙是一个退潮的时候才能进入的神奇地方，当地人说在神庙底座的海蚀洞里会出现颜色黑白相间的巨大海蛇守护此庙宇。
 
 ## 坎古到底是什么样子的呢？
 
-坎古是一个沿海村落，当地人称这个地方是「Kampung Bule」，kampung 是「村」 bule 指的是「来自西方外国人」，kampung bule 就是「外国人村」的意思。顾名思义就是这里有很多的外国人。
+坎古是一个沿海村落，当地人把这个地方称为「Kampung Bule」，kampung 是「村」，bule 指的是「来自西方外国人」，kampung bule 就是「外国人村」的意思。顾名思义就是这里有很多的外国人。
 
-坎古吸引外国人前往这个地区定居，除了如雨后春笋冒出的精致 villa 之外，还有稳定又高速的网络，这两个条件吸引了许多靠网络就能工作的 Digital nomad（数字游牧），就在此地定居工作。在坎古有很多适合上网工作的 coworking space，这些 coworking space 提供了高速网络、桌子，适合工作的环境氛围，此外还有很多餐厅咖啡馆也可以上网工作。
+坎古吸引外国人前往这个地区定居，除了如雨后春笋冒出的精致 villa 之外，还有稳定又高速的网络，这两个条件吸引了很多靠网络就能工作的 Digital nomad（数字游民），就在这里定居工作。在坎古有很多适合上网工作的 coworking space，这些 coworking space 提供了高速网络、桌子，适合工作的环境氛围，此外还有很多餐厅咖啡厅也可以上网工作。
 
-![坎古到底是什么样子的呢？](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
+![Canggu 到底是什麼樣子的呢？](https://images.gobaligo.id/vocus/vocus_6e1a64061183f9d6f68721a785eeb899.jpg)
 
 [坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
-坎古有一种迷人的特质，这里有一点波西米亚风、有一点嬉皮，融合波希米亚（Bohemia）与 70 年代的嬉皮（Hippie）的风格，英文叫做「Boho Chic」。Boho Chic 代表的是一种时尚、无拘无束的生活风格，从路旁的餐饮咖啡馆、出租的 villa、公寓甚至是出现在街上的外国人，坎古到处都散发出这种 Boho Chic 的风格。
+坎古有一种迷人的特质，这里有一点波西米亚风、有一点嬉皮，融合波希米亚（Bohemia）与 70 年代的嬉皮（Hippie）的风格，英文叫做「Boho Chic」。Boho Chic 代表的是一种时尚、无拘无束的生活风格，从路旁的餐饮咖啡厅、出租的 villa、公寓甚至是出现在街上的外国人，坎古到处都散发出这种 Boho Chic 的风格。
 
-![坎古到底是什么样子的呢？](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
+![Canggu 到底是什麼樣子的呢？](https://images.gobaligo.id/vocus/vocus_ffb02ea677f9abc576938a811cd06254.jpg)
 
-定居在坎古的数字游牧，他们可不是每天只会上网的书呆子哦！坎古也是一个热爱运动人士的天堂，在这里你可以在大片的稻田小路中晨跑，享受大自然，每天早晨所有的道路上都可以看到正在慢跑的人们。
+定居在坎古的数字游民，他们可不是每天只会上网的书呆子喔！坎古也是一个热爱运动人士的天堂，在这里你可以在大片的稻田小路中晨跑，享受大自然，每天早晨所有的道路上都可以看到正在慢跑的人们。
 
 你也可以选择在健身房锻炼出吸引帅哥美女的肌肉，光是在小小的坎古就有将近 20 家的健身房，健身活动的火热程度可见一斑！
 
@@ -89,7 +88,7 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ## 坎古冲浪
 
-![坎古冲浪](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
+![Canggu衝浪](https://images.gobaligo.id/vocus/vocus_1292b0d5576cbd014063f58cf1ee47e4.jpg)
 
 [坎古还能玩什么?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dcanggu%26spm%3DCity.TopNavigation.SearchInput%26clickId%3Dcdfbb0560e)
 
@@ -103,18 +102,18 @@ _srcHash: 4e651050603a5ce6c277a12e90532e71
 
 ## 坎古的 50 个推荐景点/咖啡厅
 
-为了帮助您在坎古的探险中不迷路，我们特别制作了一份坎古攻略地图，内容丰富多彩。这份地图涵盖了巴厘岛坎古区的超过50多家餐厅、咖啡厅，购物点、旅馆推荐，以及其他您不容错过的旅游必访景点。
+为了帮助您在坎古的探险中不迷路，我们特别制作了一份坎古攻略地图，内容丰富多采。这份地图涵盖了巴厘岛坎古区的超过50多家餐厅、咖啡厅，购物点、旅馆推荐，以及其他您不容错过的旅游必访景点。
 
 准备好展开一场坎古的冒险之旅了吗？下面链接有巴厘岛坎古的精彩地图，不要忘了收藏起来，让您在巴厘岛的旅程更加充实丰盛！
 
-![坎古的 50 个推荐景点/咖啡厅](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
+![Canggu 的 50 個推薦景點/咖啡廳](https://images.gobaligo.id/vocus/vocus_bf5fcaa065da06946a4591707d1e05be.jpg)
 
 ## 延伸阅读
 
 [巴厘岛坎古完美探险地图：100个坎古必游景点｜2026指南](/zh-cn/blog/canggu-guide/)
 
-[巴厘岛住宿推荐：坎古 Top 13 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)
+[巴厘岛住宿推荐：坎古Top 13 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)
 
-[坎古区16间私人泳池别墅推荐 坎古 Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)
+[坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)
 
 {{block:攻略}}

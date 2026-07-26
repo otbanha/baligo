@@ -3,6 +3,8 @@
  * Returns top 10 most-viewed items from the past 7 days.
  * Result is cached in the same KV namespace for 1 hour.
  */
+import { listAllKeys } from '../lib/kv.js';
+
 const CACHE_KEY = 'meta:top-viewed-cache';
 const CACHE_TTL_S = 3600;
 
@@ -31,9 +33,10 @@ export async function onRequestGet(context) {
     }
   }
 
-  // Recompute from all recent: keys
+  // Recompute from all recent: keys (paged — a truncated listing would silently
+  // drop the newest items from the ranking entirely)
   try {
-    const { keys } = await env.UNFURL_RECENT.list({ prefix: 'recent:' });
+    const keys = await listAllKeys(env.UNFURL_RECENT, 'recent:');
 
     const items = (
       await Promise.all(keys.map(k => env.UNFURL_RECENT.get(k.name, 'json').catch(() => null)))

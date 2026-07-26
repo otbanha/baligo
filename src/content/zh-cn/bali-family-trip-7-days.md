@@ -3,7 +3,7 @@ slug: bali-family-trip-7-days
 title: 【5大2小家庭亲子游】七天六夜巴厘岛旅游计划分享
 description: 这是一个五大二小家庭亲子游巴厘岛的精彩游记，这趟旅程不仅拥有美食美景，更是一段充满温馨和欢笑的家庭时光。
 pubDate: '2024-02-28'
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f33a68fe346796af3ae1eba57944a396.jpg'
 tags:
@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 1037345d511f26c3245d8b17fecb2169
+_srcHash: cdd97a19c1428397aa1a69113110d811
 ---
 这篇游记是由团友[Serena](https://www.facebook.com/100004740466944/)提供，记录了一个带着两个小朋友，五大二小家庭的亲子游巴厘岛之旅。在这次旅程中，他们与导游兼司机小钟Pacung Bali共度了七天的美好时光。通过详细的行程安排和景点推荐，他们探索了巴厘岛的各个角落，品尝了当地的美食，体验了丰富的水上活动，并留下了许多珍贵的回忆和美丽的照片。
 
@@ -53,7 +53,7 @@ Beachwalk Residence
 
 > 参考：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演](/zh-cn/blog/kecak-fire-dance-bali/)
 
-傍晚，我们在回到饭店之前逛了库塔的街头小店。
+傍晚，我们在回到酒店之前逛了库塔的街头小店。
 
 > 库塔怎么逛？请看【[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/zh-cn/blog/kuta-guide/)】
 
@@ -75,7 +75,7 @@ Hilton bali resort
 
 图：乌布，Serena提供
 
-> 乌布皇宫、市集、秋千、瀑布的介绍，请参考：[巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
+> 乌布皇宫、市集、秋千、瀑布的介绍，请参考：[巴厘岛乌布完整攻略：100种深入了解乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 ### 2/17 水明漾/金巴兰
 
@@ -87,7 +87,7 @@ Amarin Seminyak
 
 ▶[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-11152669/amarin-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ioA64iQT) 订房链接
 
-早上，我们驾车沿着蓝色公路欣赏两旁高耸岩壁的壮丽景色，下午则参观了神鹰广场，并在饭店附近逛街购物。
+早上，我们驾车沿着蓝色公路欣赏两旁高耸岩壁的壮丽景色，下午则参观了神鹰广场，并在酒店附近逛街购物。
 
 ![圖：神鷹廣場/藍色公路，Serena提供](https://images.gobaligo.id/vocus/vocus_48f30b409636c83a4c8d0dfa404070cd.jpg)
 
@@ -136,13 +136,13 @@ Amarin Seminyak
 5. **乌布秋千**：这里有各种娱乐设施，包括溜索和天空自行车等。另外，附近还有一家超好吃的猪肋排炒面餐厅，但地点稍微隐秘，建议请我的包车司机带路。
 6. **La Brisa**：如果要进到最里面的酒吧消费，记得不要带水下車，餐厅会要求水要全部倒掉。
 7. **Beachwalk Residence**：如果家庭出游，建议考虑住宿在[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-78158227/hai-tan-man-bu-gong-yu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Smp4FEqy)。这里提供家庭式整层公寓房型，步行即可抵达购物商场，距离海滩也相当近，整体性价比非常高。
-8. **春节期间比较堵车**，车程都比司机原先用Google地图计算的预计时间多30分钟至1个半小时。尤其是到乌布距离比较远，抵达的时间更是跟预计的时间差更多！另外皇宫附近路比较小条，因此堵车情况非常严重。
+8. **春节期间蛮塞车的**，车程都比司机原先用Google地图计算的预计时间多30分钟至1个半小时。尤其是到乌布距离比较远，抵达的时间更是跟预计的时间差更多！另外皇宫附近路比较小条，因此塞车情况非常严重。
 9. **雨季的应变**：因为每年农历春节期间都还算巴厘岛雨季的高峰，怕会碰到下雨的朋友这一篇收藏起来：[巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/zh-cn/blog/2026-bali-indoor-activities/)
 
 > 编按：建议农历新年要去巴厘岛的朋友参阅：
 
 - [农历新年巴厘岛家庭旅游攻略：机票、签证、交通、景点全攻略](/zh-cn/blog/2026-bali-lunar-new-year-guide/)
-- [【不堵车的巴厘岛自由行攻略】如何避开巴厘岛的混乱交通，享有悠闲的假期？](/zh-cn/blog/bali-traffic-free-travel-tips/)
+- [【不塞车的巴厘岛自由行攻略】如何避开巴厘岛的混乱交通，享有悠闲的假期？](/zh-cn/blog/bali-traffic-free-travel-tips/)
 
 ## 包车司机
 

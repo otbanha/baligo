@@ -9,7 +9,9 @@
 // well inside the free tier (100k writes/day). Deliberately does NOT touch KV:
 // per-click KV writes are what blew the quota before.
 
-const PROGRAMS = ['klook', 'agoda', 'booking', 'trip', 'airalo', 'saily', 'other'];
+// 'forum' is not an affiliate program — it tracks the article → phpBB funnel.
+// Read it separately from the brands: its rewritten is always 0 by nature.
+const PROGRAMS = ['klook', 'agoda', 'booking', 'trip', 'airalo', 'saily', 'forum', 'other'];
 
 // CREATE TABLE runs once per isolate, not once per click.
 let tableReady = false;

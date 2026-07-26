@@ -1,12 +1,12 @@
 ---
 title: >-
-  【Bali Travelog】Enam Hari Lima Malam: Eksplorasi Gunung Berapi, Pantai, dan
+  【Bali Travel Diary】Enam Hari Lima Malam: Eksplorasi Gunung Berapi, Pantai, dan
   Island Hopping
 slug: bali-6-day-volcano-beach-trip
 description: >-
-  Perjalanan ke Bali penuh kenangan indah. Kami nggak cuma merasakan pesona unik
-  tanah ini, tapi juga bertemu dua driver mobil yang luar biasa. Mereka bikin
-  perjalanan kami makin...
+  Perjalanan kami di Bali penuh kenangan indah. Selain merasakan pesona unik
+  pulau ini, kami juga bertemu dua driver mobil pribadi yang luar biasa—mereka
+  bikin perjalanan makin berkesan...
 pubDate: 2024-05-07T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
@@ -21,27 +21,27 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: id
-_srcHash: d9114e75300dde4f5b03952b7a935fc3
+_srcHash: PENDING_RETRY_35e948e1d1851294060ec289b2364c0a
 ---
-Anggota grup Facebook kami [Dai Yushan](https://www.facebook.com/100002382562993/) dan teman-temannya berbagi catatan perjalanan enam hari lima malam, khusus buat kami edit dan bagikan:
+Anggota grup Facebook kami [Dai Yushan](https://www.facebook.com/100002382562993/) dan teman-temannya berbagi catatan perjalanan enam hari lima malam, khusus untuk kami edit dan bagikan:
 
-**Kesimpulan Awal**: Untuk itinerary enam hari lima malam yang mencakup gunung berapi, pantai, dan island hopping, saran banget **manfaatin driver mobil andalan dari grup** — mereka paham rute lokal dan info penukaran uang, bisa bantu urus kebutuhan mendadak (misal hubungi toko, ingetin soal etika di pura). Ini kunci biar perjalanan lancar. Artikel ini berbagi pengalaman interaksi langsung dengan dua driver keren yang udah terbukti oke.
+**Kesimpulan Awal**: Untuk trip enam hari lima malam yang mencakup gunung berapi, pantai, dan island hopping, saran banget pakai **driver mobil pribadi rekomendasi grup**—mereka paham rute lokal dan info penukaran uang, bisa bantu urus kebutuhan mendadak (misal hubungi toko, ingatkan etika di pura). Ini kunci biar perjalanan lancar. Artikel ini berbagi pengalaman interaksi dengan dua driver keren.
 
-【Itinerary Bali】
+【Rencana Perjalanan Bali】
 
-Pertama-tama, karena dapet banyak info Bali dari grup, aku balikin ilmunya dengan bagi-bagi catatan perjalanan di sini.
+Pertama, karena saya dapet banyak info Bali dari grup, jadi di sini saya balikin dengan catatan perjalanan saya.
 
-Perjalanan ke Bali kali ini penuh kenangan indah. Kami nggak cuma ngerasain pesona unik tanah ini, tapi juga ketemu dua driver mobil yang super. Mereka nambahin warna dan kehangatan di perjalanan kami.
+Trip Bali kali ini penuh kenangan indah. Kami nggak cuma ngerasain pesona unik pulau ini, tapi juga ketemu dua driver mobil pribadi yang super—mereka bikin perjalanan makin warna-warni dan hangat.
 
-Yang pertama, driver kami untuk tiga hari pertama: Komang Sucika. Dia nggak cuma punya kepribadian yang hangat dan tenang, tapi juga hafal setiap sudut Bali. Dari komunikasi, kami ngerasa responnya cepet banget dan sarannya melimpah. Hari pertama, setelah jemput kami di bandara, dia bawa kami ke tempat penukaran uang dengan kurs terbaik. Ini bikin kepercayaan kami naik drastis. Bahasa Inggrisnya lancar, nggak cuma bisa cerita soal Bali, tapi juga bagi-bagi fakta seru. Selain itu, nyetirnya halus, bikin aku bisa tidur nyenyak dalam waktu kurang dari lima menit di mobil. Di akhir hari ketiga, dia ngasih kami dua kantong besar buah manggis. Perhatian kecil ini bikin kami tersentuh banget.
+Yang pertama, driver tiga hari pertama kami, Komang Sucika. Dia nggak cuma punya kepribadian yang hangat dan tenang, tapi juga hafal setiap sudut Bali. Dari komunikasi, kami ngerasa responnya cepat dan sarannya melimpah. Hari pertama, setelah jemput di bandara, dia bawa kami ke tempat penukaran uang dengan kurs terbaik—bikin kepercayaan kami langsung naik drastis. Bahasa Inggrisnya lancar, bisa cerita soal kisah Bali dan bagi-bagi fakta seru. Selain itu, nyetirnya stabil banget, bikin saya bisa tidur nyenyak dalam waktu kurang dari lima menit. Di akhir hari ketiga, dia bahkan kasih kami dua kantong besar manggis—perhatian kecil ini bikin kami tersentuh banget.
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_e88eb06481d0d9983651d72fa822075e.jpg)
 
-Dokumentasi: Dai Yushan
+Disediakan oleh Dai Yushan
 
-> Kapan musim terbaik manggis? Cek di sini: [Ratu Buah Tropis - Musim Manggis di Indonesia/Bali](/id/blog/bali-mangosteen-season/)
+> Kapan musim terbaik manggis? Cek: [Ratu Buah Tropis - Musim Manggis di Indonesia/Bali](/id/blog/bali-mangosteen-season/)
 
-Setiap pagi, dia selalu menjemput kami di villa tepat waktu, dan selalu cepat tanggap terhadap kebutuhan kami. Waktu kami mau cari toko buku, dia langsung telepon tokonya dan tanya sama staffnya pakai bahasa Indonesia. Bahkan di Pura Besakih, dia selalu ingetin kami sebelum turun. Kami benar-benar beruntung bisa dapet driver kayak Komang Sucika! Pelayanannya jauh melebihi harga yang dia minta, kami kasih tip besar karena menurut kami dia sangat worth it.
+Setiap pagi, dia selalu tepat waktu menjemput kami di villa dan selalu cepat tanggap terhadap kebutuhan kami. Waktu kami mau cari toko buku, dia langsung telepon tokonya dan tanya sama staffnya pakai bahasa Indonesia. Bahkan di Pura Besakih, dia selalu ingetin kami sebelum turun mobil. Kami benar-benar beruntung bisa punya driver kayak Komang Sucika! Pelayanannya jauh melebihi harga yang dia minta, kami kasih tip yang lumayan besar karena menurut kami dia sangat worth it.
 
 **Kontak Komang Sucika:**
 
@@ -49,27 +49,27 @@ Line: crunchiebalitour / IG: crunchie_bali_tour
 
 > Di Bali perlu kasih tip nggak sih? Gimana cara kasih tipnya? Berapa tip yang pas di berbagai situasi? [Cek di sini](https://youtu.be/B_oT905RkQw)
 
-Tiga hari berikutnya, kami ganti driver lain, nanti bakal diperkenalkan di bawah. Kedua driver punya karakter yang beda—satu dewasa dan hangat, satu lagi semangat dan ceria. Berkat bantuan mereka, perjalanan enam hari kami jadi sangat menyenangkan!
+Tiga hari berikutnya, kami ganti driver lain, nanti bakal diperkenalkan di bawah. Kedua driver ini punya kepribadian yang beda banget — satu dewasa dan hangat, satu lagi semangat dan ceria. Berkat bantuan mereka, perjalanan enam hari kami jadi sangat menyenangkan!
 
-Perjalanan ke Bali kali ini bikin kami jatuh cinta banget. Kami nggak cuma suka sama pemandangannya yang indah, tapi juga tersentuh sama kebaikan dan keramahan penduduk lokal. Kalau ada kesempatan buat balik lagi ke Bali, aku yakin itu karena rasa kangen dan emosi kami sama tempat ini. Aku sangat merekomendasikan dua driver ini, mereka pasti bakal nambahin banyak kenangan indah buat liburanmu di Bali!
+Perjalanan ke Bali kali ini bikin kami jatuh cinta banget. Kami nggak cuma terpesona sama keindahan alamnya, tapi juga tersentuh banget sama kebaikan dan keramahan penduduk lokal. Kalau ada kesempatan buat ke Bali lagi, aku yakin itu karena rasa kangen dan emosi kami terhadap tempat ini. Aku sangat merekomendasikan dua driver ini — mereka pasti bakal bikin liburanmu di Bali makin berkesan!
 
-Nah, sekarang yuk kita flashback itinerary aku:
+Nah, sekarang kita review itinerary aku ya:
 
 ## Hari Pertama (Kuta/Canggu):
 
 - Kami transit di Singapura, sampai di Bali jam 13:25
 - Tukar uang
-- Makan siang: iiga warung di Sunset Road Kuta (iga babi dan sate-nya jadi yang paling enak sepanjang perjalanan)
+- Makan siang: iiga warung di Sunset Road Kuta (iga babi dan sate-nya jadi yang terenak sepanjang perjalanan)
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_c1c96d9c70510d341749f1b13e1290c4.jpg)
 
 Disediakan oleh Dai Yushan
 
-- Makan malam: La Brisa Bali, pemandangannya keren banget! Wajib banget kamu datang ke sini buat ngabisin sore yang santai!
+- Makan malam: La Brisa Bali pemandangannya keren banget! Wajib banget kamu ke sini buat ngabisin sore yang santai!
 
 Video oleh Dai Yushan
 
-> Mau tahu detail La Brisa / cara reservasi? Baca: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Tempat Makan?](/id/blog/canggu-la-brisa-restaurant-guide/)
+> Penjelasan lengkap La Brisa / cara reservasi? Lihat di sini: [Dijuluki 'Restoran Terindah di Bali': Gimana La Brisa Bisa Bersaing di Antara Ribuan Restoran?](/id/blog/canggu-la-brisa-restaurant-guide/)
 
 ![第一天（Kuta/Canggu）：](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
@@ -84,47 +84,49 @@ Dai Yushan
 - Pasar Ubud
 - Puri Ubud
 
-> Cara jalan-jalan di pusat Ubud? Baca Panduan Belanja di Pusat Kota Ubud
+> Cara jalan-jalan di pusat Ubud? Lihat panduan belanja di pusat kota Ubud
 
-- Terasering Tegalalang
+- Terasering Tegallalang
 
 https://youtu.be/op78Dk8CjL4
 
-> 🌾🏞️🍃Terasering Tegallalang adalah destinasi wajib di Bali, hamparan hijau berundak dan pemandangan matahari terbenam yang bikin betah banget! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
+> 🌾🏞️🍃Terasering Tegallalang adalah destinasi wajib di Bali, hamparan hijau berundak dan pemandangan matahari terbenam yang bikin betah berlama-lama! ▶[Promo Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)”,“- Pura Tirta Empul”, “> 🔱💧 Pura Tirta Empul di Ubud adalah pura air suci terkenal di Bali, terkenal dengan ritual pembersihan 🙏 dan air suci 💧 yang dipercaya membawa berkah dan keberuntungan ✨ bagi peziarah dan wisatawan! ▶[Promo tur Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)”,“- Desa Penglipuran (bisa sewa baju tradisional buat foto-foto)”,“Disediakan oleh Dai Yushan”, “> Penjelasan detail tentang tempat ini bisa dilihat di: [Menjelajahi Desa Penglipuran yang Abadi: Merasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)”,“- Makan siang: Naughty Nuri's Ubud (iga babi terkenal banget)
+- Camilan: Tukies Coconut Shop (es kelapa)
+- Makan malam: Nomad Restaurant (masakan tradisional Indonesia)”,“## Hari Ketiga (Kintamani):”,“- Paperhills (melihat Gunung Batur/Kintamani)”,“Disediakan oleh Dai Yushan”]} 德哥拉朗梯田是峇里島必訪景點，層層綠意與日落美景，令人流連忘返！▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
 
-- Pura Tirta Empul
+- 聖泉寺
 
-> 🔱💧 Pura Tirta Empul di Ubud adalah pura suci terkenal di Bali, terkenal dengan ritual pemurnian 🙏 dan air suci 💧 yang dipercaya membawa berkah dan keberuntungan ✨ bagi peziarah dan wisatawan! ▶[Promo tur Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
+> 🔱💦 烏布聖泉寺（Tirta Empul）峇里島著名聖水寺廟，以淨化儀式🙏 和神聖泉水💧聞名，能為信徒與遊客帶來祝福與好運✨！▶[Klook優惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
-- Penglipuran Village (bisa sewa baju tradisional buat foto)
+- Penglipuran Village（可以租借傳統服飾拍照）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_1c6d81057d0a3ab1b62526027ca64d3b.jpg)
 
-Dokumentasi Dai Yushan
+戴妤珊提供
 
-> Penjelasan detail tentang tempat ini bisa cek: [Menjelajahi Desa Penglipuran: Merasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
+> 這個景點的詳細介紹請看：[穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](/id/blog/penglipuran-village-bali-experience/)
 
-- Makan siang: Naughty Nuri's Ubud (iga babi terkenal banget)
-- Camilan: Tukies Coconut Shop (es kelapa)
-- Makan malam: Nomad Restaurant (masakan tradisional Indonesia)
+- 午餐：Naughty Nuri's Ubud（豬肋排很有名）
+- 點心：Tukies cocount shop（椰子冰）
+- 晚餐：Nomad Restaurant（印尼傳統料理）
 
-## Hari Ketiga (Kintamani):
+## 第三天(Kintamani)：
 
-- Paperhills (menikmati pemandangan Gunung Batur/Kintamani)
+- Paperhills（觀賞巴杜爾/金塔瑪尼火山）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_52ad261fa00188ab35254b50c76214d7.jpg)
 
-Dokumentasi Dai Yushan
+戴妤珊提供
 
 > Klook Promo:
-> Tur Jeep Sunrise & Ngopi di Kintamani (Batur/[Kintamani Paperhills Cafe) dengan Jeep 4WD](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
+> [Tur Batur/Kintamani ke Kafe Estetik (dengan Jeep 4x4 & Pengalaman Matahari Terbit + Foto)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
 
 - Pura Besakih
-- Pura Lempuyang (Pintu Surga yang legendaris. Gak recommended sih, tempatnya gak sesuai ekspektasi)
+- Pura Lempuyang (yang terkenal dengan Gerbang Surga. Kurang rekomen sih, tempatnya nggak sesuai ekspektasi)
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_8767b734062caf5be564105cd1f63416.jpg)
 
-Dokumentasi Dai Yushan
+Dokumentasi: Dai Yushan
 
 - Makan malam: Sun Sun Warung (enak banget!)
 
@@ -138,18 +140,18 @@ Dokumentasi Dai Yushan
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_a3f4feb525caaaadb0ab771aa994c1e5.png)
 
-Dokumentasi Dai Yushan
+Dokumentasi: Dai Yushan
 
-- Kuta Beach
-- Kuta Art Market
+- Pantai Kuta
+- Pasar Seni Kuta
 - Rock Bar
 
 Video oleh Dai Yushan
 
-- Pijat: The Calma Spa Bali - Jimbaran Beach (harganya agak mahal tapi worth it, salah satu spa terbaik di trip kita)
-- Pijat: MOKSHA SPA (area Kuta, pijat kaki dan scrubnya nyaman dan terjangkau)
+- Pijat: The Calma Spa Bali - Jimbaran Beach (harganya agak mahal tapi worth it, salah satu spa terbaik selama trip kami)
+- Pijat: MOKSHA SPA (area Kuta, pijat kaki dan scrubnya nyaman banget dan terjangkau)
 - Makan siang: Babi Guling Men Lari (babi gulingnya enak banget)
-- Makan malam: Waroeng Kampoeng (warung tenda favorit lokal, autentik banget)
+- Makan malam: Waroeng Kampoeng (warung tenda favorit warga lokal, autentik banget)
 
 ## Hari Kelima (Nusa Penida):
 
@@ -173,42 +175,43 @@ Dokumentasi: Dai Yushan
 
 - Pantai Suluban (pantainya cantik banget!)
 
-Cek video Jie untuk lihat langsung
+Lihat video review dari Xiao Jie
 
 https://youtu.be/hQbBTktqEqY
+
 
 {{block:uluwatu}}
 
 - Pijat: The Calma Spa Bali
 - Belanja: Bali Banana (beli oleh-oleh)
 
-Perjalanan kali ini bikin kami puas banget. Kalau kamu lagi merencanakan liburan ke Bali, boleh banget contek itinerary aku ini!
+Perjalanan kali ini bikin kami puas banget. Kalau kamu lagi merencanakan liburan ke Bali, boleh banget contek itinerary aku ya!
 
-> [【Rekomendasi Netizen】Panduan Oleh-Oleh Bali: 6 Kategori, Lebih dari 20 Pilihan untuk Kenangan Tak Terlupakan](/id/blog/bali-souvenirs-gift-guide/)
+> [【Rekomendasi Netizen】6 Kategori, 20+ Panduan Oleh-Oleh Bali: Pilihan Terbaik buat Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ## 【Rekomendasi Driver Sewa Mobil di Bali Part 2】
 
-Selama trip Bali kali ini, kami ketemu driver kedua, namanya Odon. Di grup, banyak banget yang merekomendasikan dia. Alasan aku pilih dia karena di hari keempat aku rencananya mau ke Rock Bar, dan katanya dia bisa bantu reservasi. Itu yang bikin aku tertarik, akhirnya tiga hari terakhir kami pakai jasa sewa mobilnya.
+Selama trip Bali kali ini, kami ketemu driver kedua yang namanya Odon. Di grup travel, banyak banget yang merekomendasikan dia. Alasan aku pilih dia karena di hari keempat aku berencana ke Rock Bar, dan katanya dia bisa bantu reservasi. Hal itu yang bikin aku tertarik, akhirnya tiga hari terakhir kami pakai jasa sewa mobilnya.
 
-Odon keren banget di Rock Bar! Dia bisa bantu kita lewat jalur karyawan, dan punya wewenang milih tempat duduk (ini penting banget, lho!), tanpa minimum pembelian, bahkan bisa pilih kursi yang udah dipesan orang. Aku saranin banget kalau mau ke Rock Bar, wajib pilih jasa sewa mobilnya. Soalnya turis biasa harus antre panjang buat masuk, cuma tamu hotel tempat Rock Bar berada yang bisa reservasi.
+Odon perform-nya keren banget di Rock Bar! Dia bisa bantu kita lewat jalur khusus karyawan, dan punya wewenang milih tempat duduk (ini penting banget, lho!), tanpa minimal pemesanan, bahkan bisa milih kursi yang udah di-book. Gue sangat-sangat recommend buat yang mau ke Rock Bar untuk pakai jasa sewa mobilnya, karena turis biasa harus antre panjang buat masuk, cuma tamu hotel tempat Rock Bar berada yang bisa reservasi.
 
-Kesan Odon beda banget sama driver sebelumnya. Dia kayak teman baik, super ramah dan asyik, plus humoris banget. Bahasa Inggrisnya simpel dan gampang dimengerti, dan dia suka banget rekomendasiin restoran serta tempat pijat.
+Odon kasih kesan yang beda banget sama driver sebelumnya. Dia terasa kayak teman dekat, super ramah dan asyik, plus humoris banget. Bahasa Inggrisnya simpel dan gampang dimengerti, dan dia suka banget rekomendasiin restoran dan tempat pijat.
 
-Dia bawa kami ke restoran seafood favorit warga lokal, murah meriah dan enak banget, sampai kami dua hari berturut-turut makan di situ. Di mobil, Odon terus ngobrol sama kami, sambil kasih info tempat wisata dan interaktif. Waktu kami ada masalah soal island hopping, dia juga cepet bantu selesaiin.
+Dia bawa kita ke restoran seafood favorit warga lokal, murah meriah dan enak banget, sampai-sampai kita makan di situ dua hari berturut-turut. Di mobil, Odon terus ngobrol sama kita, sambil ngenalin tempat wisata dan interaktif. Pas kita nemu masalah soal island hopping, dia juga cepet bantu selesaiin.
 
-Dia juga bisa bantu urus tiket kapal untuk island hopping dan atur driver di pulau. Pulau Nusa Penida emang cantik banget! Kami pilih itinerary padat, ke pantai timur dan barat, waktunya mepet banget. Saran aku, kalau mau santai, mending nginep di sana aja.
+Terus, dia juga bisa bantu urus tiket kapal untuk island hopping dan atur driver di pulau. Pulau Nusa Penida emang tempat yang cantik banget! Kita pilih itinerary yang padat, ke pantai timur dan barat, waktunya mepet banget. Gue saranin buat yang mau santai, bisa pertimbangin nginep di sana.
 
-Hari terakhir, Odon antar kami ke Pura Uluwatu, sambil jalan-jalan dia kasih penjelasan, bantu foto-foto cantik, dan rekomendasiin toko oleh-oleh yang oke. Kesan dia kayak teman baik dari Bali banget!
+Hari terakhir, Odon ajak kita ke Pura Uluwatu, sambil jalan-jalan dia jelasin, bantu foto-foto cantik, dan rekomendasiin toko oleh-oleh yang oke. Kesan dia kayak teman baik dari Bali banget!
 
-Aku suka banget sama dua driver ini, dan kalian bisa pilih driver yang cocok sesuai kebutuhan masing-masing.
+Aku suka banget sama dua driver ini, dan kalian bisa pilih sesuai kebutuhan masing-masing.
 
 Kontak Odon: WHATSAPP: 085738149995 / ID LINE: drmwn8
 
 ## Info Penginapan
 
-Kali ini Yu Shan dan tim selama 6 hari 5 malam nginep di 3 tempat. Detail foto + video room tour bisa cek postingan Yu Shan di [grup Facebook kita](https://www.facebook.com/groups/baligo/permalink/1531159957431244/).
+Kali ini, Yushan dan rombongan menginap di tiga tempat selama enam hari lima malam. Untuk detail lengkap plus foto dan video room tour, bisa cek postingan Yushan di [grup Facebook kita](https://www.facebook.com/groups/baligo/permalink/1531159957431244/).
 
-Menurut kalian itinerary Yu Shan seru banget nggak? Yuk, langsung rencanain liburan seru ke Bali versi kamu! Jangan lupa juga kirim itinerary kalian di grup ya!
+Menurut kamu, itinerary Yushan seru banget, kan? Yuk, segera rencanakan liburan seru kamu ke Bali! Jangan lupa juga kirim itinerary kamu di grup ya!
 
 {{block:遊記}}
 

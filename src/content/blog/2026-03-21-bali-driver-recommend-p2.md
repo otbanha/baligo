@@ -13,7 +13,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-07-21
+updatedDate: 2026-07-26
 ---
 
 **本頁是什麼**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄臉書社團網友真實推薦的中文溝通司機。每位司機名下的「網友推薦」連結都是可點閱查證的原始社團貼文，推薦數越多代表口碑累積越久。包車行情約 **Rp 600,000–800,000／天（含油資，約 10 小時）**，聯繫時請說明日期、人數與想去的區域。
@@ -86,7 +86,7 @@ updatedDate: 2026-07-21
 
 ![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1VXqNsk4dP/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/15s61pbqgP/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/12FP8bmqqKV/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1BrE9Bwfc3/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/18uBBsVQ54/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Acxiogodn/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1ErBNVZgiL/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/19u4bKB5qN/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/17aye3oM8x/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1C6r8pfDsG/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1DXoxBorWJ/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1FgemyygNF/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1JqpWvJjBy/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1E4mrmKxYV/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18cZXfUcjA/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1VXqNsk4dP/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/15s61pbqgP/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/12FP8bmqqKV/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1BrE9Bwfc3/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/18uBBsVQ54/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Acxiogodn/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1ErBNVZgiL/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/19u4bKB5qN/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/17aye3oM8x/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1C6r8pfDsG/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1DXoxBorWJ/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1FgemyygNF/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1JqpWvJjBy/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1E4mrmKxYV/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18cZXfUcjA/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1GzLCXzvpw/)
 
 ## Vina
 

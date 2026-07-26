@@ -169,6 +169,9 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
       [/trip\.com|trip\.tpm\.li/i, 'trip'],
       [/airalo/i, 'airalo'],
       [/saily/i, 'saily'],
+      // Not an affiliate program — measures the forum funnel (article → phpBB).
+      // These rows always carry rewritten=0; that is expected, not a leak.
+      [/community\.gobaligo\.id/i, 'forum'],
     ];
 
     // Drive wraps the real destination in ?u=<encoded>, so classify on that.

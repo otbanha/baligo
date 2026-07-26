@@ -4,7 +4,7 @@ slug: bali-hidden-gems-guide
 description: >-
   疫情过后，我也飞往了不少国家，但这七天六夜的巴厘岛之旅，却成为了我最想马上再去的一个地方。无论是从水明漾、乌布，还是坎古，每个区域都有自己的独特魅力，为旅客带来不同的感受与回忆。
 pubDate: 2024-10-11T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -18,7 +18,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_2bc38b9c8115abcf2a210e3e2cd30
 originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 3d43fcaa1d6cd30a191705beab6baffd
+_srcHash: 773a4e34841cde72981b68a7f7ac5fd3
 ---
 > 以下内容由团友 [施念忻](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 提供给我们重新编排：
 
@@ -54,7 +54,7 @@ _srcHash: 3d43fcaa1d6cd30a191705beab6baffd
 
 ## 乌布的文化体验
 
-接下来，我前往了巴厘岛的文化心脏——乌布。这里有浓厚的艺术氛围与田园风光，与水明漾的繁华形成鲜明对比。首先造访了乌布皇宫附近的传统市集，这里的摊贩琳琅满目，从手工艺品到当地特产，处处都充满着发现的惊喜。建议大家预留足够的时间来「挖宝」，因为每一个摊位都可能藏着你梦寐以求的独特纪念品。
+接下来，我前往了巴厘岛的文化心脏——乌布。这里有浓厚的艺术氛围与田园风光，与水明漾的繁华形成鲜明对比。首先造访了乌布皇宫附近的传统市集，这里的摊贩琳琅满目，从手工艺品到当地特产，处处都充满着发现的惊喜。建议大家预留足够的时间来“挖宝”，因为每一个摊位都可能藏着你梦寐以求的独特纪念品。
 
 https://youtu.be/s16gdTOjonU
 
@@ -68,7 +68,7 @@ Kebun Bistro（施念忻提供）
 
 **延伸阅读：**
 
-[【巴厘岛乌布住宿】乌布30+特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+[【巴厘岛乌布住宿】乌布30+特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-resorts-guide/)
 
 [【乌布住宿推荐】乌布泳池别墅私密天堂: 20+令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)
 
@@ -80,7 +80,7 @@ Kebun Bistro（施念忻提供）
 
 ![我們還去了Montana Del cafe。這間咖啡廳景在烏布很美很值得去。點我看「烏布攻略」](https://images.gobaligo.id/vocus/vocus_d3a11499461fd7f17140d3839b6f8672.jpg)
 
-[我们还去了Montana Del cafe。这家咖啡厅在乌布很美很值得去。点我看「乌布攻略」](/zh-cn/blog/ubud-guide/)
+[我们还去了Montana Del cafe。这间咖啡厅在乌布很美很值得去。点我看「乌布攻略」](/zh-cn/blog/ubud-guide/)
 
 {{block:ubud}}
 
@@ -117,7 +117,7 @@ https://youtu.be/uFv_4Wr6YsI
 
 这次的巴厘岛之旅虽然结束了，但无论是美景、美食，还是途中结识的人，都让我对这座岛屿充满了无限的留恋与期待。期待下一次的相遇～
 
-您觉得施念忻他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得施念忻他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

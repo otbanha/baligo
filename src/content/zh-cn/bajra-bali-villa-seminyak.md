@@ -5,7 +5,7 @@ description: >-
   如果您正在寻找巴厘岛水明漾一处完美结合隐私、奢华与放松的度假别墅，那么 Bajra Bali Villa
   是您的不二之选。这里的泳池别墅不仅设计优雅，还充满现代化的设施，是情侣或家庭悠闲享受专属假期的理想之地。
 pubDate: 2025-01-19T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 category:
   - 住宿推薦
 tags:
@@ -23,7 +23,7 @@ agoda_star_rating: 5
 latitude: -8.675017356872559
 longitude: 115.16510009765625
 lang: zh-cn
-_srcHash: cecca695290a450203c7333ac5762865
+_srcHash: fdd7cf2a982fbd3005045bd3ccc5acf8
 ---
 
 ### 水明漾隐藏珍宝：
@@ -96,7 +96,7 @@ Bajra Bali Villa 的私人泳池简直就是梦幻中的场景，让人可以随
 - [巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南](/zh-cn/blog/seminyak-beach-resorts-guide/)
 - [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾22间令人惊艳的巴厘岛秘密花园](/zh-cn/blog/seminyak-private-villas-guide/)
 - [【水明漾】不超过100美元的平价巴厘岛villa推荐](/zh-cn/blog/seminyak-budget-villas-guide/)
-- [【水明漾住宿推荐】USD$161入住滨海五星级英迪格度假村](/zh-cn/blog/hotel-indigo-seminyak-review/)
+- [【水明漾住宿推荐】美金161入住滨海五星级英迪格度假村](/zh-cn/blog/hotel-indigo-seminyak-review/)
 
 {{block:smk}}
 {{block:住宿}}

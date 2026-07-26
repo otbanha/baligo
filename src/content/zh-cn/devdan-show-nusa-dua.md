@@ -5,7 +5,7 @@ description: >-
   探索巴厘岛最震撼的舞台剧！Devdan Show
   天谭秀结合传统舞蹈、现代杂技与水火特效。本篇详解如何预订最划算门票、挑选黄金视角座位，并带您预览从巴厘岛到苏门答腊的文化奇幻旅程。是您在努沙杜瓦绝对不能错过的晚间艺术盛宴。
 pubDate: 2025-06-21T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-25T00:00:00.000Z
 category:
   - 家庭親子
   - 美食景點活動
@@ -23,11 +23,11 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg'
 originalUrl: 'https://vocus.cc/article/68557a29fd897800017f4272'
 lang: zh-cn
-_srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
+_srcHash: 1e17d4fa1128b76becce0c009ab1102d
 ---
 ## **什么是 Devdan 天坛秀？一场穿越印尼文化的旅程**
 
-**先说结论**：Devdan Show 是努沙杜瓦必看的**90 分钟**大型文化秀，规模仅次于阿贡秀，融合印尼传统舞蹈、高空杂技与声光特效，带你穿越**爪哇、苏门答腊、加里曼丹、巴布亚**四岛文化。适合亲子共赏，建议提前线上购票挑选黄金视角座位。
+**先说结论**：Devdan Show 是努沙杜瓦必看的**90 分钟**大型文化秀，规模仅次于阿贡秀，融合印尼传统舞蹈、高空杂技与声光特效，带你穿越**爪哇、苏门答腊、加里曼丹、巴布亚**四岛文化。适合亲子共赏，建议提前在线购票挑选黄金视角座位。
 
 **Devdan Show** 是巴厘岛最富盛名的文化演出，是巴厘岛目前除了阿贡秀（Agung Show）以外，规模最大的文化舞台演出。这场长达 **90 分钟** 的精彩秀融合了印尼传统舞蹈与现代编排，搭配高空杂技、高科技声光效果与梦幻舞台场景。
 
@@ -84,8 +84,8 @@ _srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
 
 ![座位選擇與票價解析｜找到最適合的觀賞位置](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
 
-> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [kkday购票链接](https://www.kkday.com/zh-cn/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
+> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
+> [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 **Devdan Show 时间表与建议安排**
 
@@ -119,8 +119,8 @@ _srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
 
 在短短 90 分钟内，你将穿越印尼五大岛屿，享受一场结合音乐、舞蹈、杂技与艺术的文化冒险。
 
-> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [kkday购票链接](https://www.kkday.com/zh-cn/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
+> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
+> [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 ***
 
@@ -128,7 +128,7 @@ _srcHash: 1c3aac6105a7efd0be6ddd0d45fed936
 
 ![如何前往 Devdan Show 劇院？地點交通指南](https://images.gobaligo.id/vocus/vocus_5e8c2295a644d7b8e5139ae58c2f5820.jpg)
 
-**地点**：巴厘岛 Nusa Dua ITDC 旅游园区内
+**地点**：巴厘岛努沙杜瓦 ITDC 旅游园区内
 
 **交通方式**：建议搭乘出租车或包车，距离机场约 30 分钟车程
 

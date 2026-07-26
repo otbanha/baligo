@@ -5,7 +5,7 @@ description: >-
   Indonesia Electronic Customs Declaration
   (e-CD)是一种在线填写的海关申报表，所有前往印尼的旅客都必须填写。请看我们的教学说明
 pubDate: '2023-08-20'
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-07-25T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a96194b8dfd5f1abf1f403a768645e50.jpg'
 tags:
   - ecd
@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 45f6a86da6c85f8acd60d1414464fd42
+_srcHash: cd5f73a38db76dda66e1cfb7b5a70bf1
 ---
 ## 什么是e-CD？
 

@@ -5,7 +5,7 @@ const RATE_LIMIT_TTL = 60; // 每 IP 每分鐘 5 次
 const INPUT_MAX_CHARS = 200;
 const MAX_TOKENS = 800;
 const CACHE_TTL = 86400; // 24h response cache（只快取無對話歷史的單輪問答）
-const CACHE_VERSION = 'rag-v1'; // RAG 架構重寫，版本號變更會讓舊快取全部失效
+const CACHE_VERSION = 'rag-v2'; // RAG 架構重寫 + 指定主題導流，版本號變更會讓舊快取全部失效
 const DAILY_GLOBAL_MAX = 500; // 每日（UTC）AI 回答呼叫上限（不含 embedding）
 
 const EMBED_MODEL = '@cf/baai/bge-m3';
@@ -88,6 +88,81 @@ function localizeUrl(url, lang) {
   return url;
 }
 
+// ── 指定主題導流 ─────────────────────────────────────────────────────────────
+// 這兩類問題有人工指定的權威頁面，一律要導到該頁：
+//   1) 入境印尼要準備什麼 / 入境流程 → 入境卡攻略文
+//   2) 行程怎麼安排（含貼上自己的行程）→ 行程規劃工具
+// RAG 不保證每次都檢索到正確文章，所以除了在 system prompt 指定來源，
+// 串流結束後還會檢查回覆有沒有帶到指定連結，沒有就補上（找不到 chunk 的路徑也會補）。
+const ARRIVAL_INTENT_RE = /入境|入關|入关|通關|通关|海關申報|海关申报|電子海關|电子海关|all\s*indonesia|aiac|arrival card|customs declaration|entry (?:card|form|requirement)|immigration form|enter(?:ing)? (?:indonesia|bali)|arriv(?:e|ing) in (?:indonesia|bali)/i;
+// 「可不可以帶XX入境」是海關違禁品問題，不是入境流程，交給既有的海關規則處理
+const ARRIVAL_CARRY_IN_RE = /(?:帶|带|攜帶|携带|托運|托运|carry|bring)[^。？?]{0,12}入境|入境[^。？?]{0,8}(?:違禁|违禁|禁止)/i;
+const TRIP_PLAN_INTENT_RE = new RegExp([
+  '(?:行程|行程表)[^。？?]{0,12}(?:安排|怎麼排|怎么排|怎麼走|怎么走|怎麼規劃|怎么规划|規劃|规划|建議|建议|順不順|顺不顺|可以嗎|可以吗|幫我看|帮我看|OK嗎|ok吗)',
+  '(?:安排|規劃|规划|排|幫我看|帮我看)[^。？?]{0,8}行程',
+  '(?:幾天|几天|\\d+\\s*[天日])[^。？?]{0,10}(?:怎麼|怎么|如何|要去|夠不夠|够不够|安排|規劃|规划|玩)',
+  '第[一二三四五六七八九十]天|day\\s*\\d',
+  'itinerary',
+  'plan (?:my|a|our) trip',
+  'how (?:should|do) i (?:plan|arrange)',
+].join('|'), 'i');
+
+const ARRIVAL_GUIDE_PATH = '/blog/bali-all-indonesia-arrival-guide/';
+
+const ARRIVAL_PIN_LINE = {
+  'zh-TW': '📖 入境流程完整版都整理在這篇了：【2026版】印尼峇里島入境使用「All Indonesia」入境卡 → {url}',
+  'zh-CN': '📖 入境流程完整版都整理在这篇了：【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡 → {url}',
+  'zh-HK': '📖 入境流程完整版都喺呢篇：【2026版】印尼峇里島入境用「All Indonesia」入境卡 → {url}',
+  'en': '📖 Full arrival walkthrough: All Indonesia Arrival Card 2026 Step-by-Step Guide → {url}',
+};
+
+const ARRIVAL_PIN_PROMPT = {
+  'zh-TW': '【本題指定來源】使用者問的是印尼／峇里島入境要準備什麼、入境流程或入境卡，請以〈印尼峇里島入境使用「All Indonesia」入境卡〉這篇為主要依據回答，延伸閱讀的第一條一定要列出：{url}',
+  'zh-CN': '【本题指定来源】用户问的是印尼／巴厘岛入境要准备什么、入境流程或入境卡，请以〈印尼巴厘岛入境使用「All Indonesia」入境卡〉这篇为主要依据回答，延伸阅读的第一条一定要列出：{url}',
+  'zh-HK': '【本題指定來源】用家問嘅係印尼／峇里島入境要準備乜、入境流程或者入境卡，請以〈印尼峇里島入境用「All Indonesia」入境卡〉呢篇為主要依據回答，延伸閱讀第一條一定要列出：{url}',
+  'en': '[Pinned source] The user is asking what to prepare for entering Indonesia/Bali, the arrival process, or the arrival card. Base your answer on the "All Indonesia Arrival Card" guide and list {url} as the first source.',
+};
+
+const TRIP_PIN_LINE = {
+  'zh-TW': '🗺️ 想把整趟行程一次排好，可以用本站的峇里島行程規劃工具：輸入天數、興趣和預算，就會幫你排出可以直接用的行程 → {url}',
+  'zh-CN': '🗺️ 想把整趟行程一次排好，可以用本站的巴厘岛行程规划工具：输入天数、兴趣和预算，就会帮你排出可以直接用的行程 → {url}',
+  'zh-HK': '🗺️ 想一次過排好成個行程，可以用本站嘅峇里島行程規劃工具：入日數、興趣同預算，就會幫你排出可以直接用嘅行程 → {url}',
+  'en': '🗺️ Want the whole trip mapped out at once? Use our Bali trip planner — enter your dates, interests and budget and it builds a ready-to-use itinerary → {url}',
+};
+
+const TRIP_PIN_PROMPT = {
+  'zh-TW': '【本題指定導流】使用者在問行程怎麼安排（或貼上自己的行程），請先簡短給重點建議，最後一定要建議他用本站的行程規劃工具 {url}（輸入天數與喜好就會自動排出行程）。',
+  'zh-CN': '【本题指定导流】用户在问行程怎么安排（或贴上自己的行程），请先简短给重点建议，最后一定要建议他用本站的行程规划工具 {url}（输入天数与喜好就会自动排出行程）。',
+  'zh-HK': '【本題指定導流】用家問緊行程點安排（或者貼咗自己嘅行程），請先簡短畀重點建議，最後一定要建議佢用本站嘅行程規劃工具 {url}（入日數同喜好就會自動排出行程）。',
+  'en': '[Pinned CTA] The user is asking how to plan an itinerary (or pasted their own). Give brief pointers first, then always recommend our trip planner at {url}, which builds an itinerary from their dates and preferences.',
+};
+
+function pick(table, lang) {
+  return table[lang] || table['zh-TW'];
+}
+
+/** 依問題內容決定要釘住哪些指定頁面（probe 用來判斷回覆裡是否已經帶到該連結） */
+export function getTopicPins(message, lang) {
+  const pins = [];
+  if (ARRIVAL_INTENT_RE.test(message) && !ARRIVAL_CARRY_IN_RE.test(message)) {
+    const url = localizeUrl(ARRIVAL_GUIDE_PATH, lang);
+    pins.push({
+      probe: 'bali-all-indonesia-arrival-guide',
+      line: pick(ARRIVAL_PIN_LINE, lang).replace('{url}', url),
+      prompt: pick(ARRIVAL_PIN_PROMPT, lang).replace('{url}', url),
+    });
+  }
+  if (TRIP_PLAN_INTENT_RE.test(message)) {
+    const url = `${getLangUrlPrefix(lang)}/trip-planner/`;
+    pins.push({
+      probe: '/trip-planner/',
+      line: pick(TRIP_PIN_LINE, lang).replace('{url}', url),
+      prompt: pick(TRIP_PIN_PROMPT, lang).replace('{url}', url),
+    });
+  }
+  return pins;
+}
+
 // ── RAG retrieval ────────────────────────────────────────────────────────────
 export async function embedQuery(env, text) {
   const res = await env.AI.run(EMBED_MODEL, { text: [text] });
@@ -158,7 +233,7 @@ const NOT_FOUND_REPLY = {
 // ── System prompt（角色：小傑印尼的網站助理）────────────────────────────────
 // 這些「特定知識」是先前被 AI 答錯後人工修正、驗證過的事實，RAG 上線後依然保留：
 // 它們是比對過官方資料的硬規則，不依賴檢索結果是否命中，用來避免模型用訓練資料覆蓋掉已知正確答案。
-export function buildSystemPrompt(lang, ragContext, hasContext) {
+export function buildSystemPrompt(lang, ragContext, hasContext, pins = []) {
   const groundingRules = {
     'en': `You are the site assistant for "Jay in Indonesia" (小傑印尼) at gobaligo.id — talk like a knowledgeable local friend: practical, direct, a bit opinionated, not corporate.
 Ground your answer ONLY in the article excerpts provided below. If you're not sure, say so plainly — never invent prices, opening hours, or visa rules.
@@ -231,7 +306,14 @@ ${ragContext}`,
 ${ragContext}`,
   };
 
-  const prompt = groundingRules[lang] || groundingRules['zh-TW'];
+  let prompt = groundingRules[lang] || groundingRules['zh-TW'];
+
+  // 指定主題導流的規則放在文章片段前面（越靠近結尾模型越容易遵守）
+  if (pins.length) {
+    const block = pins.map(p => p.prompt).join('\n');
+    prompt = prompt.replace(/(\n文章片段：|\nArticle excerpts:)/, `\n${block}\n$1`);
+  }
+
   if (hasContext) return prompt;
 
   // 理論上不會走到這裡（無命中 chunk 時走 NOT_FOUND_REPLY 快速路徑，不呼叫 LLM），保留作為防呆。
@@ -300,6 +382,7 @@ export async function onRequestPost(context) {
   }
 
   const lang = detectLanguage(message, pageLang);
+  const pins = getTopicPins(message, lang);
 
   // ── Response cache（只快取沒有對話歷史的單輪問答，checked before rate limit）──
   const hasHistory = history.length > 0;
@@ -329,8 +412,13 @@ export async function onRequestPost(context) {
   }
 
   // ── 沒有任何 chunk 過門檻 → 不呼叫 LLM，直接走「找不到」回覆路徑 ──────────────
+  // 有指定導流的主題（入境流程 / 行程規劃）就算沒檢索到 chunk 也要給出指定連結，
+  // 這時直接回指定導流文字，不講「本站沒有對應文章」以免自相矛盾。
   if (matches.length === 0) {
-    const reply = (NOT_FOUND_REPLY[lang] || NOT_FOUND_REPLY['zh-TW']) + (COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW']);
+    const body = pins.length
+      ? pins.map(p => p.line).join('\n\n')
+      : (NOT_FOUND_REPLY[lang] || NOT_FOUND_REPLY['zh-TW']);
+    const reply = body + (COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW']);
     context.waitUntil(logChat(env, message, reply, pageLang, 0, null));
     return Response.json({ reply }, { headers: corsHeaders });
   }
@@ -343,7 +431,7 @@ export async function onRequestPost(context) {
   }
 
   const ragContext = buildRagContext(matches, lang);
-  const systemPrompt = buildSystemPrompt(lang, ragContext, true);
+  const systemPrompt = buildSystemPrompt(lang, ragContext, true, pins);
   const topScore = matches[0].score;
 
   // ── DeepInfra / DeepSeek API — streaming ────────────────────────────────────
@@ -401,11 +489,14 @@ export async function onRequestPost(context) {
         }
       }
       // 附加固定的社群導流文字，用同樣的 SSE delta 格式送出，前端解析邏輯不用改
+      // 指定導流的連結若模型沒照指示帶到，這裡補上（已經帶到就不重複）
       if (fullReply) {
-        const footer = COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW'];
-        const footerChunk = `data: ${JSON.stringify({ choices: [{ delta: { content: footer } }] })}\n\n`;
-        await writer.write(enc.encode(footerChunk));
-        fullReply += footer;
+        const missingPins = pins.filter(p => !fullReply.includes(p.probe));
+        const tail = missingPins.map(p => `\n\n${p.line}`).join('')
+          + (COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW']);
+        const tailChunk = `data: ${JSON.stringify({ choices: [{ delta: { content: tail } }] })}\n\n`;
+        await writer.write(enc.encode(tailChunk));
+        fullReply += tail;
       }
     } finally {
       await writer.close();

@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3ab35a264fd828315cb7d2e460674afd.jpg'
 originalUrl: 'https://vocus.cc/article/668b6804fd89780001a19257'
 lang: zh-cn
-_srcHash: 2e8696c22e1f5377e6dacb83f1298afa
+_srcHash: 80d8a5ce6981f4d5c2cb18dbd1a408cb
 ---
 
 > 以下内容由团友 [叶庭瑜](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i) 提供
@@ -36,7 +36,7 @@ _srcHash: 2e8696c22e1f5377e6dacb83f1298afa
 
 **停留时间：2.5小时**
 
-金巴兰海滩拥有“世界十大夕阳海滩”之一的美誉，这里的美景确实无可挑剔，无论是海景还是夕阳，都美得令人惊叹。然而，这里的餐厅价位却让人有些难以接受。这是我们下飞机后的第一餐，三个人竟然吃到了5000多台币，让人不禁感叹价格之高。
+金巴兰海滩拥有“世界十大夕阳海滩”之一的美誉，这里的美景确实无可挑剔，无论是海景还是夕阳，都美得令人惊叹。然而，这里的餐厅价位却让人有些难以接受。这是我们下飞机后的第一餐，三个人竟然吃到了5000多台币（约合USD$161），让人不禁感叹价格之高。
 
 坐在沙滩上用餐时，晚上会有乐队在座位周围演奏并要求打赏，这让人感觉有些情感勒索的意味。因此，如果你打算来这里用餐，建议事先查好餐厅的评价再决定是否进入。金巴兰海滩的美景值得一看，但在选择餐厅时需要更加谨慎。
 
@@ -66,7 +66,7 @@ https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
 > Klook特价票：[神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
 
-### 乌鲁瓦图寺庙卡恰火舞
+### 乌鲁瓦图庙卡恰火舞
 
 ![Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_96343c5b07b3ceae31d0c3e6b4fd9e97.jpg)
 
@@ -76,11 +76,11 @@ Kecak Fire Dance
 
 **停留时间：1.5小时**
 
-乌鲁瓦图寺庙的卡恰火舞表演讲述了巴厘岛的神话故事，这场表演吸引了近2000名观众，场面相当壮观。观赏这场表演时，你可以一边欣赏精彩的舞蹈，一边观看壮丽的血色夕阳，这种视觉与文化的双重享受让人难以忘怀。
+乌鲁瓦图庙的卡恰火舞表演讲述了巴厘岛的神话故事，这场表演吸引了近2000名观众，场面相当壮观。观赏这场表演时，你可以一边欣赏精彩的舞蹈，一边观看壮丽的血色夕阳，这种视觉与文化的双重享受让人难以忘怀。
 
-建议在观看前先了解一下故事的大纲，这样会更容易进入情境，否则可能会因为看不懂而感到无聊。值得注意的是，火舞的部分只有在最后的高潮处持续约5分钟，不要将其与中国街头艺人的火舞表演混为一谈。
+建议在观看前先了解一下故事的大纲，这样会更容易进入情境，否则可能会因为看不懂而感到无聊。值得注意的是，火舞的部分只有在最后的高潮处持续约5分钟，不要将其与台湾街头艺人的火舞表演混为一谈。
 
-乌鲁瓦图寺庙的卡恰火舞表演是一场结合文化和自然美景的视觉盛宴，虽然火舞部分不多，但整体氛围和演出品质都值得一看。
+乌鲁瓦图庙的卡恰火舞表演是一场结合文化和自然美景的视觉盛宴，虽然火舞部分不多，但整体氛围和演出品质都值得一看。
 
 https://www.instagram.com/reel/C7oyY74JU3L/?utm_source=ig_web_button_share_sheet
 
@@ -97,7 +97,7 @@ Oneeighty Day Club（叶庭瑜提供）
 
 **停留时间：3.5小时**
 
-Oneeighty Club悬崖酒吧是一个建在悬崖上的浮夸场所，其特色泳池非常适合拍照，光是拍照就可以花上2小时。这里的入场费还可以折抵消费，让人感觉物有所值。酒吧的食物在乌鲁瓦图区算是相当美味的，非常值得一试。
+Oneeighty Club悬崖酒吧是一个建在悬崖上的浮夸场所，其特色泳池非常适合拍照，光是拍照就可以花上2小时。这里的入场费还可以抵扣消费，让人感觉物有所值。酒吧的食物在乌鲁瓦图区算是相当美味的，非常值得一试。
 
 然而，在下水后记得要洗手再拿食物吃，不然很容易感染到“Bali Belly”（巴厘岛腹泻），这是我在这里的亲身经历，教训深刻。
 
@@ -123,13 +123,13 @@ Monkey Forest（叶庭瑜提供）
 
 圣猴森林是一个充满古色古香的景点，整个园区内有各种艺术雕像、山洞和图腾，让人感觉像是在进行一次探险。这里的猴子数量甚至比观光客还多，它们行为自由奔放，我们还亲眼目睹了抽烟猴、可乐猴和嗑药猴的奇特景象。
 
-参观圣猴森林时，一定要遵守园区内的猴林守则，这样才能避免被猴子攻击。此外，这里还提供了一个有趣的服务，你可以付USD$3让猴子拿着手机帮你自拍，虽然是错位效果，但照片看起来非常逼真，给旅途增添了不少乐趣。
+参观圣猴森林时，一定要遵守园区内的猴林守则，这样才能避免被猴子攻击。此外，这里还提供了一个有趣的服务，你可以付3美元让猴子拿着手机帮你自拍，虽然是错位效果，但照片看起来非常逼真，给旅途增添了不少乐趣。
 
 圣猴森林是一个既有文化气息又充满惊奇的地方，非常适合喜爱动物和探险的游客前来参观。
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：[乌布不知道怎么逛吗？来看我们的乌布攻略地图](/zh-cn/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> 延伸阅读：乌布不知道怎么逛吗？来看我们的乌布攻略地图
 
 ### 乌布彭里普兰村庄
 
@@ -169,7 +169,7 @@ Tegallalang Rice Field（叶庭瑜提供）
 
 **停留时间：2.5小时**
 
-德哥拉朗梯田距离乌布市区仅20分钟车程，是被列为世界文化遗产的壮丽景点。这里除了可以欣赏到层层叠叠的美丽梯田，还能体验到刺激的秋千活动。虽然只有2分钟的秋千体验要价近USD$13，但穿着长裙在这里拍出的瑰丽美照，确实让人觉得物有所值。
+德哥拉朗梯田距离乌布市区仅20分钟车程，是被列为世界文化遗产的壮丽景点。这里除了可以欣赏到层层叠叠的美丽梯田，还能体验到刺激的秋千活动。虽然只有2分钟的秋千体验要价近13美元，但穿着长裙在这里拍出的瑰丽美照，确实让人觉得物有所值。
 
 此外，这里还有许多其他的拍照点，如鸟巢和爱心装饰，都非常适合打卡拍照。不过需要注意的是，由于这里的湿气较重，逛久了可能会感到头痛，因此建议大家适时休息，保持水分。
 
@@ -191,7 +191,7 @@ https://www.instagram.com/reel/C79YeY6plqw/?utm_source=ig_web_button_share_sheet
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：乌布有哪些好玩的？请看[乌布探索的100个方式](/zh-cn/blog/ubud-guide/)
+> 延伸阅读：乌布有哪些好玩的？请看[乌布探索的100种方式](/zh-cn/blog/ubud-guide/)
 
 ### 乌布酒店丛林健身房
 
@@ -199,7 +199,7 @@ https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
 **停留时间：1.5小时**
 
-乌布瓦帕迪酒店内的丛林健身房提供了一个极为独特的健身体验，享有360度全景的乌布自然景观。这里隐身在稻田和丛林之间，让你能够在自然美景中运动，这样的体验个人认为非常难得！
+乌布瓦帕迪酒店内的丛林健身房提供了一个极为独特的健身体验，享有360度全景的乌布自然景观。这里隐身于稻田和丛林之间，让你能够在自然美景中运动，这样的体验个人认为非常难得！
 
 虽然健身器材不多，但由于人流不多，你几乎可以包场，享受一个私密且宁静的健身空间。这种独特的氛围感让整个健身过程更加舒适和专注。
 
@@ -227,7 +227,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ## 巴厘岛行程总整理
 
-### 4/15 （4/15-4/17 乌鲁瓦图)
+### 4/15 （4/15-4/17 Uluwatu)
 
 **DPS机场到达**
 
@@ -251,9 +251,9 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 > 延伸阅读：[【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
-**超市采买**
+**超市采购**
 
-地点：附近的超市购买一些日常用品和零食。
+地点：在附近的超市购买一些日常用品和零食。
 
 > 延伸阅读：[【印尼/巴厘岛旅游】超市/便利店买什么？](https://youtu.be/UoGlRyAdyB8)
 
@@ -277,7 +277,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **午餐**
 
-地点：One eighty Day Club 这里的悬崖景观让你享受美食的同时，还能欣赏到壮丽的海景。
+地点：One Eighty Day Club这里的悬崖景观让你享受美食的同时，还能欣赏到壮丽的海景。
 
 > 延伸阅读：[探索Oneeighty Day Club](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
@@ -353,7 +353,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4/18 （4/18-4/19 乌布)
+### 4/18 （4/18-4/19 Ubud)
 
 **早餐**
 
@@ -361,7 +361,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **巴龙舞**
 
-观赏巴龙舞表演，了解巴厘岛的传统文化。
+观赏巴龙舞表演，了解巴厘岛的传统文华。
 
 **蜡染村**
 
@@ -407,7 +407,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **巴厘岛传统村落**
 
-地点：Penglipuran Village 参观这个保存完好的传统村落，了解当地的生活方式。
+地点：Penglipuran Village参观这个保存完好的传统村落，了解当地的生活方式。
 
 > 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
@@ -415,7 +415,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 地点：Tukad Cepung Waterfall
 
-> 延伸阅读：[巴厘岛的这一个仙境瀑布值得去吗？Tukad Cepung Waterfall](https://youtu.be/Z7yPLNwrOrQ)
+> 延伸阅读：[巴厘岛的这个仙境瀑布值得去吗？Tukad Cepung Waterfall](https://youtu.be/Z7yPLNwrOrQ)
 
 **午餐**
 
@@ -423,15 +423,15 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **德哥拉朗梯田**
 
-地点：德格拉朗梯田欣赏美丽的梯田景观，并拍照留念。
+地点：Tegalalang Rice Terrace欣赏美丽的梯田景观，并拍照留念。
 
 **网红秋千拍照**
 
-地点：德格拉朗
+地点：德哥拉朗
 
 **乌布按摩**
 
-地点：Jaens Spa Santhi (乌布地区)
+地点：Jaens Spa Santhi (Ubud Area)
 
 > 延伸阅读：[【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
@@ -447,15 +447,15 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4/24 (巴东白 库塔)
+### 4/24 (Padang Bai Kuta)
 
 **抵达港口**
 
-地点：巴东白 (Ekajaya 快艇) 时间：13:30
+地点：Padang Bai (Ekajaya Fast Ferry)时间：13:30
 
 **午餐**
 
-地点：灵活安排
+地点：弹性安排
 
 **印度寺庙**
 
@@ -525,7 +525,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 因为Bali Belly，只去了早上的Blue Point Beach，之后就回酒店休息了。
 
-关于巴厘岛自由行有任何问题或是想跟我们拿完整行程的朋友， 都欢迎私讯我们的IG或留言唷! 希望有帮到大家！
+关于巴厘岛自由行有任何问题或是想跟我们拿完整行程的朋友，都欢迎私讯我们的IG或留言唷！希望有帮到大家！
 
 您觉得叶庭瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

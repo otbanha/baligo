@@ -1,7 +1,7 @@
 ---
 slug: asia-budget-travel-cities
 title: "2025亚洲最便宜旅游城市完整指南\U0001F30F"
-description: "《Backpacker Index 2025》列出了亚洲31个城市的日均旅游开销排名，涵盖住宿、餐饮、交通、景点和娱乐费用。今天我们将完整介绍这些城市，并特别分析 雅加达、库塔、台北、香港 和 新加坡 等地的特色。     亚洲最便宜的10个城市：  万象，老挝 \U0001F1F1\U0001F1E6 – US$18.28  琅"
+description: "《Backpacker Index 2025》列出了亚洲31个城市的日均旅游开销排名，涵盖住宿、餐饮、交通、景点和娱乐费用。今天我们将完整介绍这些城市，并特别分析 雅加达、库塔、台北、香港 和 新加坡 等地的特色。     亚洲最便宜的10个城市：  万象，老挝 \U0001F1F1\U0001F1E6 – US$18.28 琅"
 pubDate: '2025-03-10'
 updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fec480bc8f767c1c267682325dbc3aa7.jpg'
@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/678466f6fd897800015271bb'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 295188ef05658a894fa0ed7a7f34b37c
+_srcHash: 9dff616114e0ded6232193ee384cc299
 ---
 **先说结论**：《Backpacker Index 2025》亚洲最便宜城市第一名是**老挝万象（US$18.28/日）**，印尼雅加达排名第 11（US$24.38/日），本文完整收录 31 个亚洲城市的住宿、餐饮、交通日均开销排名，适合规划东南亚长途背包旅行的预算参考。
 
