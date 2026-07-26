@@ -5,6 +5,8 @@
 // GET  /api/pageview                          → returns [{ slug, views }] sorted by views desc (total)
 // GET  /api/pageview?range=7d                 → returns top slugs aggregated over last 7 days
 
+import { listAllKeys } from '../lib/kv.js';
+
 const PREFIX = 'pv:';
 const DAY_PREFIX = 'pvd:';
 const DAY_TTL = 9 * 24 * 60 * 60; // keep daily buckets 9 days so 7d window is always complete
@@ -86,18 +88,12 @@ export async function onRequestGet(context) {
   }
 
   // ── 總瀏覽量模式（預設）────────────────────────────────────────────────────
-  // KV list() 單次上限 1000 把 key，且以字典序回傳。pv: key 數已超過 1000，
-  // 若不分頁，字典序排在截斷點之後的 slug 會整批消失（在索引頁顯示 0 次）。
+  // 必須分頁：pv: key 數已超過 1000，單頁 list() 會把字典序排在截斷點之後的
+  // slug 整批吃掉（在索引頁顯示 0 次）。
   const entries = [];
-  let cursor;
-  for (let page = 0; page < 20; page++) {
-    const list = await env.PAGEVIEW_KV.list({ prefix: PREFIX, limit: 1000, cursor });
-    for (const { name, metadata } of list.keys) {
-      const views = (metadata && metadata.views) || 0;
-      if (views > 0) entries.push({ slug: name.slice(PREFIX.length), views });
-    }
-    if (list.list_complete || !list.cursor) break;
-    cursor = list.cursor;
+  for (const { name, metadata } of await listAllKeys(env.PAGEVIEW_KV, PREFIX)) {
+    const views = (metadata && metadata.views) || 0;
+    if (views > 0) entries.push({ slug: name.slice(PREFIX.length), views });
   }
 
   const results = entries.sort((a, b) => b.views - a.views);

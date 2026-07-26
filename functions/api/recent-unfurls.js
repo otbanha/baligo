@@ -1,3 +1,5 @@
+import { listAllKeys } from '../lib/kv.js';
+
 const CORS = {
   'Access-Control-Allow-Origin': '*',
   'Access-Control-Allow-Methods': 'GET, OPTIONS',
@@ -53,9 +55,11 @@ export async function onRequest(context) {
       items = kvCached.items;
     } else {
       // KV list sorts keys lexicographically; our key prefix `recent:YYYYMMDDhhmmss-...`
-      // naturally sorts oldest-first, so we reverse to get newest first.
-      const { keys } = await env.UNFURL_RECENT.list({ prefix: 'recent:', limit: 1000 });
-      const sorted = keys.slice().reverse().slice(0, MAX_ITEMS);
+      // naturally sorts oldest-first, so the newest keys sit at the very end of the
+      // full listing — we must page to the end before reversing, otherwise a single
+      // truncated page would hand back the *oldest* 1000 keys.
+      const keys = await listAllKeys(env.UNFURL_RECENT, 'recent:');
+      const sorted = keys.slice(-MAX_ITEMS).reverse();
       items = (
         await Promise.all(sorted.map((k) => env.UNFURL_RECENT.get(k.name, 'json').catch(() => null)))
       ).filter(Boolean);
