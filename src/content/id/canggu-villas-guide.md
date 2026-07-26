@@ -1,16 +1,16 @@
 ---
 title: >-
   【2026 Rekomendasi Penginapan Canggu】10+ Villa Canggu dengan Kolam Renang
-  Pribadi: Gaya Wabi-Sabi Kekinian, Tips Hindari Macet Parah & Panduan Legalitas
-  - Go Bali Go
+  Pribadi: Gaya Wabi-Sabi Kekinian, Tips Hindari Macet Parah & Panduan Aman
+  Legal - Go Bali Go
 slug: canggu-villas-guide
 description: >-
-  Mau merasakan liburan kekinian di Canggu, kawasan paling hits di Bali? Artikel
-  ini bakal kasih kamu rekomendasi 10+ Villa dengan kolam renang pribadi di
-  Canggu yang paling viral di tahun 2026! Mulai dari penginapan estetik yang
-  tinggal jalan kaki ke kafe hits dan pantai, vila minimalis micro-cement yang
-  direkomendasi desainer Eropa, sampai apartemen mewah di tepi pantai pasir
-  hitam yang tenang. Semua rentang harga ada, dijamin anti zonk.
+  Mau merasakan liburan ala anak kekinian di Canggu, Bali? Artikel ini bakal
+  kasih kamu rekomendasi 10+ Villa dengan kolam renang pribadi di Canggu yang
+  paling hits tahun 2026! Mulai dari penginapan estetik yang tinggal jalan kaki
+  ke kafe hits dan pantai, villa minimalis micro-cement yang direkomendasikan
+  desainer Eropa, sampai apartemen mewah di tepi pantai pasir hitam yang lebih
+  tenang. Semua rentang harga ada, dijamin kamu nggak bakal salah pilih.
 pubDate: 2024-08-07T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
@@ -52,17 +52,17 @@ _srcHash: PENDING_RETRY_a38910cecd9f1bb5dca052f5726acde3
 ---
 update: 06/06/2026
 
-**Kesimpulan Awal**: Pilihan **10+ Villa dengan kolam renang** di Canggu tahun 2026, mencakup berbagai gaya seperti penginapan estetik yang dekat dengan kafe hits dan pantai, vila desain minimalis micro-cement, hingga apartemen di pantai pasir hitam yang tenang. Cocok untuk peselancar, digital nomad, dan traveler yang cari liburan mewah — tinggal pilih sesuai budget dan selera. Sebelum booking, pastikan pemilik punya izin resmi biar aman dari akomodasi ilegal.
+**Kesimpulan Awal**: Pilihan **10+ Villa dengan kolam renang** di Canggu tahun 2026 ini mencakup berbagai gaya, dari penginapan estetik yang dekat dengan kafe hits dan pantai, villa desain micro-cement minimalis, hingga apartemen mewah di pantai pasir hitam yang tenang. Cocok untuk peselancar, digital nomad, dan turis yang mencari liburan mewah, tinggal disesuaikan sama budget dan selera kamu. Sebelum booking, pastikan dulu pemilik punya izin resmi biar nggak salah nginep di tempat ilegal.
 
-Canggu (dibaca: Chang-gu), kota kecil yang memesona di pesisir barat daya Bali, udah jadi destinasi favorit traveler global. Dengan suasana santai, budaya yang kaya, dan pemandangan alam yang spektakuler, Canggu menarik berbagai tipe wisatawan — dari peselancar, digital nomad, sampai yang cari liburan mewah. Di sini ada pantai pasir hitam yang luas, sawah hijau nan asri, dan kafe-kafe kekinian yang nggak ada habisnya. Semua bikin pengalaman liburan kamu unik dan nggak terlupakan.
+Canggu (dibaca: Chang-gu), kota kecil yang kece di pesisir barat daya Bali, udah jadi destinasi favorit para traveler global. Suasananya santai, budayanya kaya, dan pemandangannya keren abis. Canggu menarik berbagai macam wisatawan, mulai dari peselancar, digital nomad, sampai yang cari liburan mewah. Pantai pasir hitamnya yang luas, sawah yang hijau, dan kafe-kafe kekinian yang nggak ada habisnya bikin setiap pengunjung dapet pengalaman unik dan nggak terlupakan.
 
-Penasaran apa aja sih yang bikin Canggu seru? Jangan lewatkan panduan lengkap kami: [Peta Petualangan Canggu Bali: 100 Tempat Wajib Dikunjungi di Canggu｜Panduan 2026](/id/blog/canggu-guide/)
+Penasaran apa aja sih yang bikin Canggu seru? Jangan lewatkan panduan lengkap kami: [Peta Petualangan Canggu Bali: 100 Tempat Wajib Dikunjungi di Canggu | Panduan 2026](/id/blog/canggu-guide/)
 
 ![長谷攻略裡有景點、餐廳、住宿、SPA推薦](https://images.gobaligo.id/vocus/vocus_55f2f31688753fb3500e30ac5c809196.jpg)
 
 Panduan Canggu ini berisi rekomendasi tempat wisata, restoran, penginapan, dan SPA.
 
-Entah kamu mau bersantai di pantai sambil berjemur, coba surfing kelas dunia, atau eksplor pasar lokal dan desa seni, Canggu punya semuanya. Dan rekomendasi 10+ villa pilihan kami ini bakal bikin liburan Canggumu makin kece! Villa-villa ini nggak cuma kasih pengalaman menginap mewah, tapi juga gabungin fasilitas modern dengan sentuhan tradisional Bali. Jadi kamu bisa nyaman sambil merasakan budaya lokal yang khas. Mau liburan bareng pasangan, keluarga, atau teman-teman, villa-villa ini siap jadi tempat singgah ideal yang bikin momen di Canggu jadi kenangan indah.
+Entah kamu mau bersantai di pantai sambil berjemur, coba surfing kelas dunia, atau jalan-jalan ke pasar dan desa seni lokal, Canggu pasti bisa memenuhi semua keinginanmu. Dan rekomendasi 10+ villa pilihan kami ini bakal bikin liburanmu di Canggu makin berkesan! Villa-villa ini nggak cuma kasih pengalaman menginap yang mewah, tapi juga menggabungkan fasilitas modern dengan sentuhan tradisional Bali. Jadi kamu bisa nyaman sambil merasakan budaya Bali yang khas. Cocok buat pasangan, keluarga, atau rombongan teman, villa-villa ini siap jadi tempat singgah ideal buat liburanmu di Canggu.
 
 <!-- shuffle-start -->
 
@@ -86,15 +86,15 @@ Entah kamu mau bersantai di pantai sambil berjemur, coba surfing kelas dunia, at
 
 ![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451202341-520973143.jpg)
 
-ZIN Resort & Villas, akomodasi bintang empat yang terletak di pusat Canggu, punya lokasi super strategis — cuma satu menit jalan kaki dari pantai. Jarak sedekat ini bikin kamu bisa santai jalan-jalan di pasir sambil menikmati suasana, dan dengan mudah mampir ke beach club terkenal kayak The Lawn, Echo Beach Club, atau La Brisa.
+ZIN Resort & Villas, penginapan bintang empat yang terletak di pusat Canggu, punya lokasi yang juara banget. Jaraknya cuma satu menit jalan kaki ke pantai. Dekat banget, jadi kamu bisa santai jalan-jalan di pasir pantai dan dengan mudah mampir ke klub pantai terkenal kayak The Lawn, Echo Beach Club, sama La Brisa.
 
-**Lokasi** | ZIN Canggu Resort & Villas cuma 1 menit jalan kaki dari Canggu Beach / 200 meter dari Nelayan Beach, dekat sama beberapa beach club dan tempat makan terkenal. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | ZIN Canggu Resort & Villas cuma 1 menit jalan kaki dari Canggu Beach / 200 meter dari Nelayan Beach, dekat sama beberapa beach club dan tempat makan hits. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | ZIN Coffee ada di pintu masuk, area resepsionis villa tersembunyi di belakang kafe. Villa ini punya empat villa pribadi dengan kolam renang dari kayu jati yang elegan, dua bamboo house dengan kolam pribadi, 24 kamar mewah, dan enam suite kecil. Setiap unit didekorasi dengan apik, kas pilihan queen atau twin, ada area duduk atau sofa yang nyaman, AC penuh, kipas angin gantung, smart TV, Wi-Fi gratis, dan kulkas. Tamu bisa pakai co-working space ZIN@work dan nyobain kopi terbaik Bali yang di-roasting langsung di tempat. Restorannya menyajikan hidangan fusion internasional dan lokal. Mau makan rooftop dengan menu Mediterania atau santai di pool bar tepi sungai, dijamin pengalamanmu bakal seru.
+**Fasilitas** | ZIN Coffee ada di pintu masuk, area resepsionis villa tersembunyi di belakang kafe. Villa ini punya 4 villa pribadi mewah dengan kolam renang dari kayu jati, 2 bamboo house dengan kolam pribadi, 24 kamar mewah, dan 6 suite kecil. Setiap unit didekorasi dengan apik, pilihan tempat tidur king atau twin, ada area lounge atau sofa yang nyaman, AC full, kipas angin gantung, smart TV, Wi-Fi gratis, dan kulkas. Tamu bisa pakai co-working space ZIN@work, dan cobain kopi terbaik Bali yang di-roasting langsung di tempat. Restorannya menyajikan hidangan fusion internasional dan lokal. Mau makan rooftop dengan menu Mediterania atau santai di pool bar tepi sungai, dijamin pengalamanmu bakal seru.
 
-**Kamar** | Fasilitas kamar lengkap banget, bikin nginep makin nyaman, plus ada banyak pilihan aktivitas kayak kelas fitness, bela diri, dance, dan tinju. Kalau butuh relaksasi, spa tepi sungai siap kasih pengalaman spa yang mewah.
+**Kamar** | Fasilitas kamar lengkap banget, bikin nginep makin nyaman. Ada banyak pilihan aktivitas kayak kelas fitness, bela diri, dance, dan tinju. Kalau butuh relaksasi, spa tepi sungai siap kasih pengalaman mewah.
 
-> ▶Cek ketersediaan kamar & harga ZIN Canggu Resort & Villas [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34850151) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-23962763/zin-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/v8XYuX6B)
+> ▶Cek ketersediaan & harga kamar ZIN Canggu Resort & Villas [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34850151) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-23962763/zin-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/v8XYuX6B)
 
 ## Kharista Villas & Retreat – Villa Canggu dengan Pengalaman Menginap Tradisional Mewah
 
@@ -118,19 +118,19 @@ ZIN Resort & Villas, akomodasi bintang empat yang terletak di pusat Canggu, puny
 
 ![Kharista Villas & Retreat – 豪華傳統住宿體驗的Canggu別墅](https://images.gobaligo.id/images/2026-03/1774451262153-e150aa52ef2b6c137560595e95728f0a.jpeg)
 
-Villa mewah bintang lima ini punya lantai kayu, atap alang-alang tinggi, dan furnitur kayu, kasih pengalaman menginap ala Bali yang autentik dengan harga yang ramah banget di kantong.
+Villa mewah bintang lima ini punya lantai kayu, atap alang-alang tinggi, dan furnitur kayu, bikin kamu merasakan pengalaman menginap ala Bali yang autentik dengan harga yang ramah banget di kantong.
 
-**Lokasi** | Kharista Villas berjarak 2 km dari Batu Bolong Beach. Bahkan, dalam radius 3 km ada empat pantai. Dalam 150 meter dari villa ada tiga restoran. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | Kharista Villas berjarak 2 km dari Batu Bolong Beach. Bahkan, dalam radius 3 km ada empat pantai. Dalam jarak 150 meter dari villa, ada tiga restoran. (🗺️[Petunjuk Peta](/map/canggu/)
 
 **Fasilitas** | Kharista Villas menyediakan layanan antar-jemput bandara berbayar dan resepsionis 24 jam. Harga villa sudah termasuk sarapan ala carte.
 
-Villa satu dan dua kamar punya area duduk indoor dan outdoor, kamar mandi besar dengan bathtub terpisah, dan shower outdoor ala hujan. Dilengkapi dengan ketel, mesin kopi, kulkas, dan brankas. Kolam renang outdoor berbentuk persegi panjang ukurannya pas, lengkap dengan sun deck dan atap alang-alang.
+Villa satu dan dua kamar tidur punya area duduk indoor dan outdoor, kamar mandi besar dengan bathtub terpisah, dan shower outdoor ala hujan. Dilengkapi dengan ketel, mesin kopi, kulkas, dan brankas. Kolam renang outdoor berbentuk persegi panjang ukurannya pas, lengkap dengan sun deck dan atap alang-alang.
 
-**Kamar** | Kamar tidur utama punya tempat tidur king four-poster besar, sofa, dan pintu kaca yang langsung ke teras atau balkon. Dekorasinya elegan dan stylish, penuh nuansa Bali.
+**Kamar** | Kamar tidur utama punya tempat tidur king four-poster besar, sofa, dan pintu kaca yang mengarah ke teras atau balkon. Dekorasinya elegan, stylish, dan kental nuansa Bali.
 
-> ▶Cek Ketersediaan & Harga Kamar Kharista Villas & Retreat [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33813216) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-96220808/kharista-villas-retreat-by-ekosistem/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> ▶Kharista Villas & Retreat  Cek Ketersediaan & Harga [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33813216) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-96220808/kharista-villas-retreat-by-ekosistem/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
-## La Paradis Villa – Villa Modern, Cocok untuk Pasangan atau Keluarga
+## La Paradis Villa – Vila Modern, Cocok untuk Pasangan atau Keluarga
 
 ![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451311030-190387873.jpg)
 
@@ -152,19 +152,19 @@ Villa satu dan dua kamar punya area duduk indoor dan outdoor, kamar mandi besar 
 
 ![La Paradis Villa – 現代化別墅，適合情侶或家庭](https://images.gobaligo.id/images/2026-03/1774451315033-186332140.jpg)
 
-Villa modern ini menawarkan ruang dan privasi, dengan harga yang sangat worth it untuk fasilitas yang disediakan!
+Vila modern ini menawarkan ruang dan privasi, dengan harga yang sangat worth it untuk fasilitas yang diberikan!
 
-**Lokasi** | Villa bintang empat ini berjarak satu kilometer dari Pantai Pererenan dan Pantai Echo. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | Vila bintang empat ini berjarak satu kilometer dari Pantai Pererenan dan Pantai Echo. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Le Paradis Villas menyediakan layanan sewa sepeda dan mobil, serta antar-jemput bandara berbayar. Sarapan ala Amerika sudah termasuk dalam harga villa. Spa di dalam hotel menawarkan pijat dan bak air panas.
+**Fasilitas** | Le Paradis Villas menyediakan layanan sewa sepeda dan mobil, serta antar-jemput bandara berbayar. Sarapan ala Amerika sudah termasuk dalam harga vila. Spa di dalam hotel menawarkan pijat dan bak air panas.
 
-Villa satu, dua, dan tiga kamar tidur masing-masing memiliki pintu masuk bergaya Bali, menyediakan area ruang tamu, dapur kecil (dengan kulkas dan mesin pencuci piring), serta kamar mandi dengan shower dan bak mandi terpisah. Di luar terdapat kolam renang kecil, area makan, dan teras berjemur dengan kursi santai.
+Vila satu, dua, dan tiga kamar tidur masing-masing memiliki pintu masuk bergaya Bali, menyediakan area ruang tamu, dapur kecil (dengan kulkas dan mesin pencuci piring), serta kamar mandi dengan shower dan bathtub terpisah. Di luar terdapat kolam renang kecil, area makan, dan teras berjemur dengan kursi santai.
 
-**Kamar** | Kamar tidur dengan lantai keramik besar dilengkapi tempat tidur super double atau single, kursi santai, dan TV.
+**Kamar** | Kamar tidur dengan lantai keramik besar dilengkapi tempat tidur super king atau single, kursi santai, dan TV.
 
-> ▶La Paradis Villa 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8934316) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-44427390/la-paradis-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> ▶La Paradis Villa  Cek Ketersediaan & Harga [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8934316) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-44427390/la-paradis-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
-## The River Studio – Villa Privat untuk Pasangan Pencinta Pantai
+## The River Studio – Vila Pribadi untuk Pasangan Pencinta Pantai
 
 ![The River Studio – 適合愛好海灘情侶的私人別墅](https://images.gobaligo.id/images/2026-03/1774451359250-237198464.jpg)
 
@@ -186,17 +186,17 @@ Villa satu, dua, dan tiga kamar tidur masing-masing memiliki pintu masuk bergaya
 
 ![The River Studio – 適合愛好海灘情侶的私人別墅](https://images.gobaligo.id/images/2026-03/1774451362457-325374076.jpg)
 
-Villa bintang empat khusus dewasa ini memiliki desain modern yang mencolok, dengan atap tinggi miring, tangga terbuka, serta furnitur dan dekorasi modern yang keren.
+Vila bintang empat khusus dewasa ini memiliki desain modern yang mencolok, dengan langit-langit tinggi miring, tangga terbuka, serta furnitur dan dekorasi modern yang trendi.
 
-**Lokasi** | River Studio berjarak 700 meter dari Pantai Pererenan, jalan kaki 13 menit ke Pantai Seseh. Dalam radius 200 meter ada beberapa kafe dan restoran. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | River Studio cuma 700 meter dari Pererenan Beach, jalan kaki 13 menit udah sampai Seseh Beach. Dalam radius 200 meter ada beberapa kafe dan restoran. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Vila ini punya satu kamar tidur, ruang tamu besar, kamar mandi dengan shower hujan, dan dapur kecil lengkap dengan oven, pemanggang roti, dan kulkas. Pintu lipatnya terbuka ke kolam renang kecil dan teras teduh yang rimbun, lengkap dengan kursi santai. Ada juga layanan sewa mobil di lokasi.
+**Fasilitas** | Vila ini punya satu kamar tidur, ruang tamu besar, kamar mandi dengan shower hujan, dan dapur kecil lengkap dengan oven, pemanggang roti, dan kulkas. Pintu lipatnya langsung mengarah ke kolam renang kecil dan teras teduh yang dikelilingi pepohonan, lengkap dengan kursi santai. Ada juga layanan sewa mobil di tempat.
 
 **Kamar** | Kamar tidur mezzanine berlantai kayu punya tempat tidur super king-size, lemari, dan meja samping tempat tidur.
 
-> ▶Cek ketersediaan & harga The River Studio [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9456945) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-47203083/the-river-studio/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> ▶Cek Ketersediaan & Harga The River Studio [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9456945) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-47203083/the-river-studio/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
-## THE WĀVE BALI – Pusat Canggu Paling Cocok untuk Menginap Bergaya
+## THE WĀVE BALI – Pusat Canggu Paling Kekinian buat Staycation
 
 ![THE WĀVE BALI – 最適合時尚住宿的Canggu中心](https://images.gobaligo.id/images/2026-03/1774451425115-509980811.jpg)
 
@@ -216,19 +216,19 @@ Villa bintang empat khusus dewasa ini memiliki desain modern yang mencolok, deng
 
 ![THE WĀVE BALI – 最適合時尚住宿的Canggu中心](https://images.gobaligo.id/images/2026-03/1774451428170-509980799.jpg)
 
-Vila dengan desain unik ini adalah tempat liburan sempurna untuk pasangan atau keluarga kecil di pusat Canggu yang super hidup.
+Vila dengan desain unik ini cocok banget buat pasangan atau keluarga kecil yang pengin liburan seru di pusat Canggu yang super hidup.
 
-**Lokasi** | THE WĀVE BALI terletak di lingkungan yang tenang, tapi tetap dekat dengan kafe, restoran, dan spa paling keren di Canggu, plus Pantai Echo — semua bisa dijangkau dengan jalan kaki singkat. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | THE WĀVE BALI ada di lingkungan yang tenang, tapi tetap dekat dengan kafe, restoran, dan spa paling hits di Canggu, plus tinggal jalan kaki sebentar ke Echo Beach. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Vila THE WĀVE BALI punya dua kamar tidur dan dua kolam renang pribadi: kolam besar di lantai dasar dan kolam hydromassage di atap dengan pemandangan sawah yang kece abis. Ada ekstra berbayar seperti dekorasi mandi kelopak bunga, sarapan terapung, pijat di vila, sopir pribadi, layanan belanja, layanan koki, atau pelatih fitness & surfing pribadi.
+**Fasilitas** | Vila THE WĀVE BALI punya dua kamar tidur dan dua kolam renang pribadi: kolam besar di lantai dasar dan kolam renang hydromassage di atap dengan pemandangan sawah yang ciamik. Ada ekstra berbayar seperti dekorasi mandi bunga, sarapan terapung, pijat di vila, sopir pribadi, layanan belanja, jasa koki, dan pelatih fitness atau surfing pribadi.
 
-**Kamar** | Vila ini punya ruang tamu tertutup, dapur desainer modern lengkap dengan mesin kopi Nespresso, kopi & teh gratis plus air minum, TV pintar, speaker Marshall, meja kerja, shower & bathtub ala hutan, tempat tidur pijat, kasur besar, dan pencahayaan artistik di seluruh vila. Kamu bisa nikmatin sunset Bali yang spektakuler dari balkon atau teras atap yang mindblowing.
+**Kamar** | Vila ini punya ruang tamu tertutup, dapur desainer modern lengkap dengan mesin kopi Nespresso, kopi dan teh gratis plus air minum, TV pintar, speaker Marshall, meja kerja, shower dan bathtub ala hutan, tempat tidur pijat, kasur besar, dan pencahayaan artistik di seluruh vila. Kamu bisa nikmatin sunset Bali yang spektakuler dari balkon atau teras atap yang keren abis.
 
-Interior vila ini perpaduan sempurna antara gaya modern dan kontemporer, dengan sentuhan kayu jati dan elemen alami yang bikin suasana hangat dan mengundang. Vila ini cocok banget untuk dua orang dewasa, atau ditambah satu-dua anak kecil.
+Interior vila ini perpaduan sempurna antara gaya modern dan kontemporer, dengan sentuhan kayu jati dan elemen alami yang bikin suasananya hangat dan mengundang. Vila ini cocok untuk dua orang dewasa, atau ditambah satu atau dua anak kecil.
 
-> ▶THE WĀVE BALI Cek ketersediaan kamar & harga [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31610229)  
+> ▶Cek Ketersediaan & Harga Kamar THE WĀVE BALI [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31610229)
 
-## Ametis Villa – Cocok Banget buat Pasangan & Keluarga  
+## Ametis Villa – Cocok Banget buat Pasangan dan Keluarga
 
 ![Ametis Villa – 完美適合情侶和家庭](https://images.gobaligo.id/images/2026-03/1774451866994-11071921.jpg)
 
@@ -250,17 +250,17 @@ Interior vila ini perpaduan sempurna antara gaya modern dan kontemporer, dengan 
 
 ![Ametis Villa – 完美適合情侶和家庭](https://images.gobaligo.id/images/2026-03/1774451870428-582625556.jpg)
 
-Villa bintang lima ini penuh pesona dan kemewahan. Kalau kamu lagi cari private pool villa di Canggu yang kece, Ametis wajib masuk daftar incaranmu.  
+Villa bintang lima ini punya pesona dan kemewahan yang kental. Kalau kamu lagi cari private pool villa di Canggu yang oke punya, Ametis wajib masuk daftar incaran.
 
-**Lokasi** | Villa ini cuma 300 meter dari Pantai Batu Bolong, dan 3 menit naik mobil ke Echo Beach. (🗺️[Petunjuk peta](/map/canggu/)  
+**Lokasi** | Villa ini cuma 300 meter dari Pantai Batu Bolong, dan 3 menit naik mobil ke Echo Beach. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Kompleks villa ini kasih layanan jemput bandara gratis plus antar-jemput gratis di area Canggu. Ada spa, restoran dengan hidangan fine dining, dan lobby pusat yang dilengkapi perpustakaan. Setiap villa punya area ruang tamu semi terbuka atau tertutup, kamar tidur dan kamar mandi yang lebih besar dari rata-rata dengan shower hujan dan bathtub. Ada juga sun deck dengan kursi santai. Villa yang lebih besar dilengkapi dapur kecil dengan kulkas dan mesin kopi, plus area makan. Semua villa punya layanan butler 24 jam. Private infinity pool-nya gede dan privasi banget.  
+**Fasilitas** | Kompleks villa ini kasih layanan jemput bandara gratis plus antar-jemput gratis di area Canggu. Ada spa, restoran dengan hidangan kelas atas, dan lobby utama yang dilengkapi perpustakaan. Setiap villa punya area duduk semi terbuka atau tertutup, kamar tidur dan kamar mandi yang lebih luas dari rata-rata, dengan shower hujan dan bathtub. Ada juga sun deck lengkap dengan kursi. Villa yang lebih besar punya dapur kecil dengan kulkas dan mesin kopi, plus area makan. Semua villa dilayani butler 24 jam. Kolam renang pribadi tanpa batasnya besar dan privasinya terjaga.
 
-**Kamar** | Kamar tidur punya super king bed atau twin bed, meja kerja, area duduk dengan sofa, dan minibar. Beberapa kamar punya pintu geser yang langsung ke balkon dengan kursi. Ada connecting one-bedroom pool villa yang bisa muat sampai 4 orang, dan three-bedroom villa untuk 6 orang.  
+**Kamar** | Kamar tidur punya tempat tidur super king atau twin, meja kerja, area duduk dengan sofa, dan minibar. Beberapa kamar punya pintu geser yang langsung ke balkon dengan kursi. Ada juga connecting one-bedroom pool villa yang bisa muat sampai 4 orang, dan three-bedroom villa untuk 6 orang.
 
-> ▶Ametis Villa Cek ketersediaan kamar & harga [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=241416) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685815/ametis-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/iznY7XZh)  
+> ▶ Cek Ketersediaan & Harga Kamar Ametis Villa [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=241416) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685815/ametis-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/iznY7XZh)
 
-## Theanna Villa and Spa – Desain Interior Terbaik  
+## Theanna Villa and Spa – Desain Interior Terbaik
 
 ![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451910444-81019254.jpg)
 
@@ -284,17 +284,17 @@ Villa bintang lima ini penuh pesona dan kemewahan. Kalau kamu lagi cari private 
 
 ![Theanna Villa and Spa – 最佳室內設計](https://images.gobaligo.id/images/2026-03/1774451914667-79498238.jpg)
 
-Boutique villa di Canggu dari Theanna Villa and Spa ini menawarkan desain interior kelas atas dan pelayanan pelanggan yang juara.  
+Butik villa di Canggu milik Theanna Villa and Spa menawarkan desain interior kelas atas dan pelayanan pelanggan yang juara.
 
-**Lokasi** | Hotel ini terletak di gang sepi di Canggu, sekitar 2 km dari Pantai Batu Bolong, dan 6 menit naik mobil ke Echo Beach. Dalam radius 100 meter ada tiga restoran. (🗺️[Petunjuk peta](/map/canggu/)  
+**Lokasi** | Hotel ini ada di gang sepi di Canggu, sekitar 2 kilometer dari Pantai Batu Bolong, dan 6 menit naik mobil ke Echo Beach. Dalam radius 100 meter ada tiga restoran. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Theanna Villa and Spa punya resepsionis 24 jam, restoran, bar, minimarket kecil, dan ATM. Ada juga layanan laundry dengan biaya tambahan. Spa di dalam hotel menyediakan pijat, plus mereka kasih sepeda gratis dan antar-jemput lokal gratis. 17 villa dengan 1 dan 2 kamar tidur punya area duduk, ruang makan outdoor, dan kamar mandi dengan bathtub serta shower terpisah. Kolam renangnya tipe plunge pool, kecuali Villa Kirana yang punya kolam besar. **Kamar** | Dekorasi kamar tidur memadukan warna dan desain Bali, Jepang, dan Skandinavia. Setiap kamar punya tempat tidur double atau single, kursi empuk, dan minibar.
+**Fasilitas** | Theanna Villa and Spa punya resepsionis 24 jam, restoran, bar, minimarket kecil, dan ATM. Kamu bisa pakai laundry dengan biaya tambahan. Ada spa dengan layanan pijat, plus sepeda gratis dan antar-jemput lokal gratis. 17 vila dengan 1-2 kamar tidur punya ruang tamu, area makan outdoor, dan kamar mandi dengan bathtub serta shower terpisah. Kolam renangnya tipe plunge pool, kecuali Vila Kirana yang punya kolam besar. **Kamar** | Dekorasi kamar tidur perpaduan warna dan desain Bali, Jepang, dan Skandinavia. Setiap kamar punya tempat tidur double atau single, kursi empuk, dan minibar. > ▶Cek ketersediaan & harga Theanna Villa and Spa [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1203712) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-7596238/theanna-eco-villa-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/gaREzIJE) ## The Clifton Canggu Villas – Vila Butik Terbaik untuk Pasangan Clifton Canggu Villas menawarkan vila nyaman dan mewah di lokasi super strategis. **Lokasi** | Vila ini cuma 200 meter dari Pantai Nelayan dan 600 meter dari Pantai Batu Bolong. Banyak pilihan tempat makan dalam jarak jalan kaki. (🗺️[Petunjuk peta](/map/canggu/) **Fasilitas** | Setiap vila pribadi punya satu kamar tidur, kamar mandi dengan shower hujan, dan area duduk. Sarapan à la carte tersedia setiap hari (biaya tambahan). Kolam renang pribadi ukurannya pas buat pasangan, dengan dinding tinggi di sekitar kolam dan teras untuk privasi. Vila juga menyediakan antar-jemput bandara berbayar dan resepsionis 24 jam. **Kamar** | Kamar tidur berlantai keramik dengan AC punya tempat tidur super king dan lemari pakaian. > ▶Cek ketersediaan & harga The Clifton Canggu Villas [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37303020) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105247231/the-clifton-villas-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/lWYytTVt) ## The Cali Villas - Oase Palm Springs di Bali
 
-> ▶Cek ketersediaan & harga Theanna Villa and Spa [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1203712) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-7596238/theanna-eco-villa-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/gaREzIJE)
+**客房** | 臥室的裝潢混合了峇里島、日式和Scandinavian的顏色和設計。每間客房提供雙人床或單人床、軟椅和迷你吧。
 
-## The Clifton Canggu Villas – Villa Butik Terbaik untuk Pasangan
+> ▶Theanna Villa and Spa 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1203712) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-7596238/theanna-eco-villa-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/gaREzIJE)
 
-Clifton Canggu Villas menawarkan villa nyaman dan mewah di lokasi pusat yang super strategis.
+## The Clifton Canggu Villas – 最適合情侶的精品別墅
 
 ![The Clifton Canggu Villas – 最適合情侶的精品別墅](https://images.gobaligo.id/images/2026-03/1774451980350-572060941.jpg)
 
@@ -316,15 +316,15 @@ Clifton Canggu Villas menawarkan villa nyaman dan mewah di lokasi pusat yang sup
 
 ![The Clifton Canggu Villas – 最適合情侶的精品別墅](https://images.gobaligo.id/images/2026-03/1774451984106-572060935.jpg)
 
-**Lokasi** | Villa ini cuma 200 meter dari Pantai Nelayan dan 600 meter dari Pantai Batu Bolong. Banyak pilihan tempat makan dalam jarak jalan kaki. (🗺️[Petunjuk peta](/map/canggu/)
+Clifton Canggu Villas提供舒適且豪華的別墅，地處絕佳中心位置。
 
-**Fasilitas** | Setiap villa pribadi punya satu kamar tidur, kamar mandi dengan shower hujan, dan area duduk. Sarapan à la carte tersedia setiap hari (biaya tambahan). Kolam renang pribadi ukurannya pas buat pasangan, dengan dinding tinggi di sekitar kolam dan teras yang jamin privasi. Villa juga menyediakan antar-jemput bandara berbayar dan resepsionis 24 jam.
+**位置** | 別墅距離Nelayan海灘200公尺，距離Batu Bolong海灘600公尺。步行距離內有許多用餐選擇。（🗺️[地圖指引](/map/canggu/)
 
-**Kamar** | Kamar tidur berlantai keramik dengan AC punya tempat tidur super king dan lemari pakaian.
+**設施** | 每間獨棟別墅擁有一間臥室、一間帶雨淋式淋浴的浴室和一個休息區。每日提供點菜早餐（需額外付費）。私人泳池尺寸適合情侶，泳池和露台周圍的高牆提供隱私。別墅還提供付費機場接送服務和24小時前台。
 
-> ▶Cek ketersediaan & harga The Clifton Canggu Villas [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37303020) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105247231/the-clifton-villas-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/lWYytTVt)
+**客房** | 空調瓷磚地板臥室設有超大雙人床和衣櫃。
 
-## The Cali Villas - Oasis Palm Springs di Bali
+> ▶The Clifton Canggu Villas 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37303020) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105247231/the-clifton-villas-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/lWYytTVt)
 
 ## The Cali Villas - 峇里島的綠洲棕櫚泉
 
@@ -348,11 +348,11 @@ Clifton Canggu Villas menawarkan villa nyaman dan mewah di lokasi pusat yang sup
 
 ![The Cali Villas - 峇里島的綠洲棕櫚泉](https://images.gobaligo.id/images/2026-03/1774452024624-334597843.jpg)
 
-Selain terkenal sebagai surganya kafe Instagramable, Canggu sekarang juga punya banyak villa dan hotel yang estetik banget.
+Selain terkenal sebagai surganya kafe ala Instagram, Canggu sekarang juga punya banyak villa dan hotel yang estetik banget.
 
-**Lokasi** | The Cali Villas cuma 10 menit jalan kaki dari Pantai Canggu. Tempat ini oase yang memadukan pesona Palm Springs dengan keindahan alam pulau Bali. (🗺️[Petunjuk arah](/map/canggu/)
+**Lokasi** | The Cali Villas cuma 10 menit jalan kaki dari Pantai Canggu. Tempat ini oase yang memadukan pesona Palm Springs dengan keindahan alam pulau Bali. (🗺️[Petunjuk peta](/map/canggu/)
 
-**Fasilitas** | Interior setiap villa putih bersih kayak awan. Kaktus berdiri seperti penjaga, bikin suasana jadi lebih unik ala gurun. Kasurnya empuk banget, cocok buat bersantai dan mimpi indah. Ada kolam renang pribadi yang berkilau setiap hari, jadi tempat berteduh sempurna di musim panas abadi Bali. Villa tersedia pilihan 2 sampai 3 kamar, semua dilengkapi fasilitas modern kayak AC, sound system Bose, dapur lengkap, dan minibar yang isinya banyak. Plus, ada keamanan 24 jam buat jamin kenyamanan tamu.
+**Fasilitas** | Interior setiap villa putih bersih kayak awan. Kaktus berdiri seperti penjaga, bikin suasana jadi unik ala gurun. Ada tempat tidur empuk yang ngajak kamu relaks dan mimpi, plus kolam renang pribadi yang berkilau setiap hari — tempat berteduh sempurna di musim panas abadi Bali. Villa tersedia pilihan 2 sampai 3 kamar, semua dilengkapi fasilitas modern kayak AC, sound system Bose, dapur lengkap, dan minibar yang isinya banyak. Selain itu, ada keamanan 24 jam buat jamin kenyamanan tamu.
 
 Kamar | Interior villa elegan, setiap kamar tidur punya kasur nyaman dan fasilitas modern.
 
@@ -382,15 +382,15 @@ Kamar | Interior villa elegan, setiap kamar tidur punya kasur nyaman dan fasilit
 
 Melihat sawah bergoyang ditiup angin, ditemani kicauan burung, bisikan angin, dan hangatnya matahari — sensasi tenang di kolam renang pribadi itu nggak ada duanya.
 
-**Lokasi** | Shore Amora Canggu dekat dari Pantai Pererenan, dikelilingi kafe-kafe kekinian. Cocok buat pasangan yang pengin keluar makan kapan aja sambil bergandengan tangan. (🗺️[Petunjuk arah](/map/canggu/)
+**Lokasi** | Shore Amora Canggu dekat dari Pantai Pererenan, dikelilingi banyak kafe kekinian. Cocok buat pasangan yang pengin keluar makan kapan aja sambil bergandengan. (🗺️[Petunjuk peta](/map/canggu/)
 
-**Fasilitas** | Di Shore Amora, pasangan bisa ikut banyak aktivitas santai dan seni, kayak workshop keramik atau wewangian, kelas 'Sip and Paint', yoga, surfing, atau tinju. Villa punya kolam renang pribadi dan kursi hammock buat quality time berdua.
+**Fasilitas** | Di Shore Amora, pasangan bisa ikut banyak aktivitas santai dan seni, kayak workshop keramik atau parfum, kelas 'Sip and Paint', yoga, surfing, atau tinju. Villa punya kolam renang pribadi dan kursi hammock buat quality time berdua.
 
-**Kamar** | Kamar didekorasi romantis, ada kasur nyaman dan fasilitas modern. Pasangan bakal dapet suasana liburan yang cozy banget.
+**Kamar** | Kamar didekorasi romantis, ada kasur nyaman dan fasilitas modern — bikin suasana liburan pasangan makin cozy.
 
-> ▶Shore Amora 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7223142) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-40708610/shore-amora-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Dso8adAE)
+> ▶ Shore Amora 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7223142) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-40708610/shore-amora-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Dso8adAE)
 
-## La Rose Villas and Suites Camp – Villa Canggu yang Bikin Speechless
+## La Rose Villas and Suites Camp – Villa Canggu yang Bikin Tercengang
 
 ![La Rose Villas and Suites Camp – 令人驚豔的Canggu別墅](https://images.gobaligo.id/images/2026-03/1774452155304-521551111.jpg)
 
@@ -412,17 +412,17 @@ Melihat sawah bergoyang ditiup angin, ditemani kicauan burung, bisikan angin, da
 
 ![La Rose Villas and Suites Camp – 令人驚豔的Canggu別墅](https://images.gobaligo.id/images/2026-03/1774452158712-521551109.jpg)
 
-Di La Rose Villas and Suites Camp, kamu bakal tenggelam dalam surga tropis banget.
+Di La Rose Villas and Suites Camp, kamu bakal tenggelam dalam surga tropis.
 
-Desainnya yang unik, pemandangannya, dan perhatian terhadap detail bikin properti dengan nuansa tradisional Bali ini terasa unforgettable dan standout.
+Desainnya yang unik, pemandangannya, dan perhatian terhadap detail bikin properti dengan banyak sentuhan tradisional Bali ini jadi berkesan dan beda dari yang lain.
 
 **Lokasi** | Hotel ini berjarak 750 meter dari Pantai Batu Bolong. Dalam radius 100 meter ada beberapa restoran. (🗺️[Petunjuk peta](/map/canggu/)
 
-**Fasilitas** | Hotel punya resepsionis 24 jam, spa, dan layanan antar-jemput bandara berbayar. Vila dengan kolam renang pribadi bisa muat sampai enam orang, dengan tiga kamar tidur dan satu kamar mandi yang dilengkapi shower hujan dan bathtub terpisah. Vila juga punya dapur kecil dengan microwave, kompor, dan kulkas, plus meja makan. Di sampingnya ada area makan outdoor tambahan dan ruang tamu luas yang langsung menghadap kolam renang cantik.
+**Fasilitas** | Hotel punya resepsionis 24 jam, spa, dan layanan antar-jemput bandara berbayar. Vila dengan kolam renang pribadi bisa muat sampai enam orang, punya tiga kamar tidur dan satu kamar mandi dengan shower hujan dan bathtub terpisah. Vila juga dilengkapi dapur kecil dengan microwave, kompor, dan kulkas, plus meja makan. Di sampingnya ada area makan outdoor tambahan dan ruang tamu luas yang langsung menghadap kolam renang yang cantik.
 
-**Kamar** | Kamar tidur berlantai kayu penuh nuansa romantis, salah satunya punya tempat tidur four-poster super besar dan lemari. Kamar lainnya terbuka ke teras tinggi dengan tempat duduk.
+**Kamar** | Kamar tidur berlantai kayu penuh nuansa romantis, salah satunya punya tempat tidur four-poster super besar dan lemari. Kamar tidur lainnya mengarah ke teras tinggi dengan tempat duduk.
 
-> ▶La Rose Villas and Suites Camp 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13860634) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105645871/larose-villas-and-boutique-camp-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ZnseU0Li)
+> ▶ La Rose Villas and Suites Camp 空房 & 房價查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13860634) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105645871/larose-villas-and-boutique-camp-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ZnseU0Li)
 
 ## Villa Canggu by Plataran – Menginap Mewah di Tengah Sawah Hijau
 
@@ -448,15 +448,15 @@ Desainnya yang unik, pemandangannya, dan perhatian terhadap detail bikin propert
 
 Villa Canggu by Plataran terletak di tengah sawah hijau Bali, dan berada di samping taman tropis serta sungai.
 
-**Lokasi** | Hotel ini memang di pusat kota, tapi rasanya cukup terpencil. Tamu menginap di vila premium, mulai dari satu kamar sampai dua kamar, kebanyakan punya kolam renang pribadi. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | Meskipun hotel ini berada di pusat kota, rasanya cukup terpencil. Tamu menginap di vila-vila premium, mulai dari satu kamar tidur hingga dua kamar tidur, kebanyakan punya kolam renang pribadi. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Hotel punya Padma Spa yang mewah banget, menawarkan berbagai terapi dan perawatan kecantikan buat menyeimbangkan tubuh dan pikiran, bikin semangat kembali menyala. Pilihan makan di vila termasuk Plataran At Canggu yang populer banget—restoran bintang lima di bangunan Joglo yang menyajikan masakan Indonesia lezat.
+**Fasilitas** | Hotel ini punya Padma Spa yang mewah banget, menawarkan berbagai terapi dan perawatan kecantikan yang dirancang untuk menyeimbangkan tubuh dan pikiran, serta membangkitkan kembali cahaya batin. Pilihan makan di vila termasuk Plataran At Canggu yang populer banget, restoran bintang lima di bangunan Joglo yang menyajikan masakan Indonesia lezat.
 
-**Kamar** | Kamar didekorasi dengan selera tinggi, ada kasur nyaman dan fasilitas modern, bikin pengalaman menginap terasa mewah.
+**Kamar** | Kamar-kamarnya didekorasi dengan elegan, punya tempat tidur nyaman dan fasilitas modern, bikin pengalaman menginap terasa mewah.
 
 > ▶Cek Ketersediaan & Harga Villa Canggu by Plataran [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255344) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685797/plataran-canggu-bali-resort-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/eprXA2zC)
 
-## Morning Glory Villa – Vila Pribadi dengan Kolam Renang Penuh Gaya
+## Morning Glory Villa – Vila Pribadi dengan Kolam Renang dan Desain Keren
 
 ![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452495310-452956926.jpg)
 
@@ -478,13 +478,13 @@ Villa Canggu by Plataran terletak di tengah sawah hijau Bali, dan berada di samp
 
 ![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452498663-452956917.jpg)
 
-Kalau kamu lagi cari vila mewah terbaik di Canggu, Bali, wajib cek Morning Glory Villa yang baru dibangun. Vila ini didesain, dibangun, dan didekorasi dengan standar tinggi, bikin pengalaman menginap terasa super mewah.
+Kalau kamu lagi cari vila mewah terbaik di Canggu, Bali, wajib cek Morning Glory Villa yang baru dibangun. Vila ini dirancang, dibangun, dan didekorasi dengan standar tinggi, bikin pengalaman menginap terasa super mewah.
 
-**Lokasi** | Vila ini jaraknya sedikit lebih dari dua kilometer dari Pantai Pererenan. Dalam radius satu kilometer dari vila ada tiga restoran, tapi toko kelontong terdekat butuh jalan kaki 20 menit. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | Vila ini jaraknya sedikit lebih dari dua kilometer dari Pantai Pererenan. Dalam radius satu kilometer dari vila, ada tiga restoran, dan toko kelontong terdekat butuh jalan kaki 20 menit. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Vila dua kamar ini punya kamar mandi dengan shower dan bathtub terpisah, dapur lengkap dengan kompor, kulkas, dan mesin pencuci piring. Ada meja makan untuk enam orang dan ruang tamu terbuka dengan sofa sudut. Balkon melengkung punya kursi teduh dan kipas gantung, menghadap kolam renang besar dan taman yang dilengkapi kursi dan shower terbuka. Hotel menyediakan antar-jemput bandara berbayar.
+**Fasilitas** | Vila dua kamar tidur ini punya kamar mandi dengan shower dan bathtub terpisah, dapur lengkap dengan kompor, kulkas, dan mesin pencuci piring. Ada meja makan untuk enam orang dan ruang tamu terbuka dengan sofa sudut. Balkon melengkung punya kursi teduh dan kipas gantung, menghadap ke kolam renang besar dan taman yang dilengkapi kursi dan shower terbuka. Hotel juga menyediakan layanan antar-jemput bandara berbayar.
 
-**Kamar** | Vila dua kamar tidur, masing-masing kamar ber-AC luas dengan tempat tidur super king, meja samping, dan lemari. Salah satu kamar langsung terhubung ke taman dan kolam renang. Desain vila bertema hitam-putih ini keren banget, dengan aksesori premium, seni dinding, tanaman, dan dekorasi lembut. Jendela dan pintu melengkung menambah sentuhan unik. Vila ini benar-benar spesial, cek aja, dijamin kamu nggak bakal kecewa.
+**Kamar** | Vila dua kamar tidur, masing-masing kamar ber-AC luas dengan tempat tidur super king size, meja samping, dan lemari. Salah satu kamar langsung terhubung ke taman dan kolam renang. Desain vila bertema hitam-putih ini keren banget, dengan aksesori premium, seni dinding, tanaman, dan dekorasi lembut. Jendela dan pintu melengkung menambah sentuhan unik. Vila ini benar-benar spesial, lihat saja, dijamin kamu nggak bakal kecewa.
 
 > ▶Cek Ketersediaan & Harga Morning Glory Villa [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=56830063) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-102963630/morning-glory-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
@@ -510,15 +510,15 @@ Kalau kamu lagi cari vila mewah terbaik di Canggu, Bali, wajib cek Morning Glory
 
 ![Villa Yasa – 最適合群體的Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452547099-374888367.jpg)
 
-Kalau kamu suka arsitektur keren dan ruangan yang terang benderang, Villa Yasa yang unik banget ini pilihan sempurna.
+Kalau kamu suka arsitektur keren dan ruangan yang penuh cahaya, Villa Yasa yang unik banget ini pilihan sempurna.
 
 **Lokasi** | Villa ini cuma 700 meter dari Pantai Batu Bolong. Kalau nggak mau masak sendiri, ada tiga restoran dalam radius 200 meter. Toko kelontong terdekat jalan kaki 20 menit. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Hotel nyediain sewa sepeda dan mobil. Villa tiga kamar tidur ini muat nyaman buat enam orang. Punya ruang tamu terbuka dua lantai yang gede banget dengan sofa dan TV, dapur lengkap dengan kompor, kulkas, dan mesin kopi, plus area makan. Kolam renang outdoor ukurannya pas, dikelilingi tanaman hijau dan teras.
+**Fasilitas** | Hotel nyediain sewa sepeda dan mobil. Villa tiga kamar tidur ini muat nyaman buat enam orang. Punya ruang tamu terbuka dua lantai yang luas dengan sofa dan TV, dapur lengkap dengan kompor, kulkas, dan mesin kopi, plus area makan. Kolam renang outdoor ukurannya pas, dikelilingi tanaman hijau dan teras.
 
-**Kamar** | Setiap kamar tidur ber-AC dengan lantai keramik luas punya dua sisi; satu kamar di lantai atas berbentuk kotak kaca yang bisa lihat pemandangan sekitar 360 derajat. Tiap kamar punya kamar mandi luas dengan shower dan bathtub. Dekorasinya modern tapi hangat, dengan sentuhan meja lampu, patung, dan mural. Villa ini wajib dilihat langsung, jelas salah satu villa terbaik di Canggu.
+**Kamar** | Setiap kamar tidur ber-AC dengan lantai keramik luas punya dua sisi; satu kamar di lantai atas berbentuk kotak kaca yang bisa lihat pemandangan sekitar 360 derajat. Tiap kamar punya kamar mandi luas dengan shower dan bathtub. Dekorasinya modern tapi hangat, dengan sentuhan nyaman seperti lampu meja, patung, dan mural. Villa ini wajib dilihat langsung, jelas salah satu villa terbaik di Canggu.
 
-> ▶Cek Ketersediaan & Harga Villa Yasa [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105629617/villa-yasa-canggu-by-exotic-bali-properties/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> ▶ Cek Ketersediaan & Harga Villa Yasa [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105629617/villa-yasa-canggu-by-exotic-bali-properties/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ## Villa Umami – Cocok untuk Perjalanan Kelompok
 
@@ -542,13 +542,13 @@ Kalau kamu suka arsitektur keren dan ruangan yang terang benderang, Villa Yasa y
 
 ![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452592484-384481861.jpg)
 
-Villa bintang empat modern ini punya ruang yang lega dan fasilitas mandiri yang oke banget.
+Villa bintang empat modern ini punya ruang yang lega dan fasilitas mandiri yang oke.
 
 **Lokasi** | Villa Umami agak lebih dari satu kilometer dari Pantai Batu Bolong, dan dua kilometer dari Pantai Pererenan. Ada tiga restoran dalam radius 250 meter, toko kelontong terdekat jalan kaki 15 menit. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas** | Villa ini bisa muat sampai enam orang dengan tiga kamar tidur. Ada ruang tamu terbuka besar dengan sofa, dapur kecil lengkap kulkas, kompor, dan oven, plus area makan. Pintu dari ruang tamu mengarah ke teras berjemur yang panjang dengan kursi dan kolam renang ukuran pas. Villa Umami juga menyediakan layanan antar-jemput bandara berbayar.
+**Fasilitas** | Villa ini bisa muat sampai enam orang dengan tiga kamar tidur. Ada ruang tamu terbuka besar dengan sofa, dapur kecil lengkap dengan kulkas, kompor, dan oven, plus area makan. Pintu dari ruang tamu mengarah ke teras sempit yang cerah dengan kursi dan kolam renang ukuran pas. Villa Umami juga menyediakan layanan antar-jemput bandara berbayar.
 
-**Kamar** | Tiga kamar tidur ber-AC semuanya luas, dilengkapi tempat tidur double, lemari pakaian, dan meja samping tempat tidur. Dekorasi properti ini modern dan minimalis, dengan skema warna hitam-putih yang elegan.
+**Kamar** | Tiga kamar tidur ber-AC semuanya luas, dilengkapi tempat tidur double, lemari, dan meja samping tempat tidur. Dekorasi properti ini modern dan minimalis, dengan skema warna hitam-putih yang elegan.
 
 > ▶Villa Umami Cek Ketersediaan & Harga [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28833708)
 
@@ -574,16 +574,16 @@ Villa bintang empat modern ini punya ruang yang lega dan fasilitas mandiri yang 
 
 ![OXO Townhouses - 讓你想要當作你家](https://images.gobaligo.id/images/2026-03/1774452651449-366128767.jpg)
 
-OXO Townhouses menetapkan standar baru untuk kehidupan modern di Canggu, menawarkan deretan vila pribadi mulai dari satu kamar hingga dua kamar tidur, menjadi surga utama bagi pasangan dan grup pertemanan.
+OXO Townhouses bikin standar baru hidup modern di Canggu, punya deretan vila pribadi dari satu kamar sampai dua kamar, jadi tempat singgah paling oke buat pasangan atau grup temen.
 
-**Lokasi** | OXO Townhouses dekat dengan Canggu Shortcut, aksesnya mudah, dan jalan kaki sudah bisa sampai ke kafe, restoran, fasilitas rekreasi, dan pantai terbaik di Canggu. (🗺️[Petunjuk Peta](/map/canggu/)
-**Fasilitas** | Setiap unit studio punya desain terbuka dengan ruang yang luas, area kerja khusus, serta taman pribadi dan kolam renang. Ruang tamu dengan pintu geser menyatu mulus dengan area outdoor, cocok banget buat menjamu tamu atau mencari ketenangan pribadi. Dapur terbuka punya estetika stylish dan fungsional, dilengkapi perabot top dan peralatan premium.
+**Lokasi** | OXO Townhouses deket Canggu Shorcut, aksesnya gampang, jalan kaki bisa ke kafe, restoran, tempat santai, dan pantai terbaik di Canggu. (🗺️[Petunjuk Peta](/map/canggu/)
+**Fasilitas** | Setiap unit studio punya desain terbuka, ruang luas, area kerja khusus, taman pribadi, dan kolam rendam. Ruang tamu dengan pintu geser nyatu sama area outdoor, cocok buat招待 tamu atau cari ketenangan pribadi. Dapur terbuka punya estetika stylish dan fungsional, lengkap dengan dekorasi top dan peralatan premium.
 
-**Kamar** | Kamar-kamarnya luas dan nyaman, bergaya industrial ringan tapi tetap hangat, dilengkapi fasilitas modern untuk pengalaman menginap yang nyaman.
+**Kamar** | Kamar luas dan nyaman, bergaya industrial ringan tapi tetap hangat, dilengkapi fasilitas modern buat pengalaman menginap yang nyaman.
 
 > ▶OXO Townhouses Cek Ketersediaan & Harga [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31174514) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-91598304/oxo-townhouses-berawa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Gs9Nk1zo)
 
-## Domisili Villa Canggu - Vila Pribadi Butik Baru yang Baru Selesai Dibangun
+## Domisili Villa Canggu - Vila Pribadi Butik Baru
 
 ![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716765027-469990321.jpg)
 
@@ -605,24 +605,24 @@ OXO Townhouses menetapkan standar baru untuk kehidupan modern di Canggu, menawar
 
 ![Domisili Villa Canggu - 新落成精品私人度假別墅](https://images.gobaligo.id/images/2026-06/1780716770777-469990314.jpg)
 
-Domisili Villa Canggu Bali By Fays Hospitality terkenal dengan fasilitas luas, furnitur baru, dan perawatan yang teliti, punya kolam renang cantik dan area santai. Keunikannya ada di desain vila kamar tidur terpisah yang memberikan lebih banyak privasi. Ini adalah kompleks vila butik baru dengan desain modern minimalis yang dipadukan gaya tropis. ([**Rekomendasi Rosie**](https://www.facebook.com/share/p/1E4Y3wDVig/))
+Domisili Villa Canggu Bali By Fays Hospitality terkenal dengan fasilitas luas, furnitur baru, dan perawatan yang rapi, punya kolam renang cantik dan area santai. Keunikannya ada di desain vila kamar tidur terpisah yang kasih privasi lebih. Ini kompleks vila butik baru dengan desain modern minimalis dipadu gaya tropis. ([**Rekomendasi Rosie**](https://www.facebook.com/share/p/1E4Y3wDVig/))
 
-**Lokasi** | Vila ini berada di Canggu, dikelilingi sawah yang menciptakan suasana tenang dan santai, sekitar 15 menit berkendara ke Pantai Canggu, jalan kaki 5 menit ke restoran dan laundry, akses mudah dan dekat jalan utama. (🗺️[Petunjuk Peta](/map/canggu/)
+**Lokasi** | Vila di Canggu, dikelilingi sawah yang bikin suasana tenang dan santai, sekitar 15 menit naik motor ke Pantai Canggu, jalan kaki 5 menit ke restoran dan laundry, akses gampang dan deket jalan utama. (🗺️[Petunjuk Peta](/map/canggu/)
 
-**Fasilitas**｜Setiap kamar punya kolam renang pribadi dan dapur. Seluruh resort dilengkapi 10 kolam renang indoor, WiFi gratis, dan parkir. Ruang tamu outdoor bersama didesain cantik dan nyaman, tempat sempurna buat santai bareng teman atau pasangan. Juga ada keamanan 24 jam dan Amolas Cafe.
+**Fasilitas**｜Setiap kamar punya kolam renang pribadi dan dapur, seluruh resort dilengkapi 10 kolam renang indoor, WiFi gratis dan parkir. Ruang tamu outdoor bersama didesain cantik dan nyaman, tempat sempurna buat santai bareng teman atau pasangan, plus ada keamanan 24 jam dan Amolas Cafe.
 
-**Tipe Kamar**｜Pilihannya fleksibel. Villa kolam pribadi 1 kamar tidur seluas 108 m², cocok buat pasangan atau keluarga kecil; Villa kolam pribadi 2 kamar tidur seluas 120 m², bisa muat 3-4 orang; Villa 3 kamar tidur seluas 176 m², pas buat rombongan keluarga besar. Semua tipe dilengkapi seprai katun Mesir, sprei premium, minibar, brankas kamar, dapur dengan kulkas, microwave, kompor, dan mesin pencuci piring. Langit-langit tinggi dan jendela besar bikin ruangan terang, setiap kamar punya kolam pribadi luas di antara kamar tidur dan dapur.
+**Tipe Kamar**｜Pilihannya fleksibel. Villa kolam pribadi satu kamar tidur 108 m², cocok buat pasangan atau keluarga kecil; Villa kolam pribadi dua kamar tidur 120 m², muat 3-4 orang; Villa tiga kamar tidur 176 m², pas buat rombongan keluarga besar. Semua tipe kamar dilengkapi sprei katun Mesir, perlengkapan tidur premium, minibar, brankas kamar, dapur dengan kulkas, microwave, kompor, dan mesin pencuci piring. Langit-langit tinggi dan jendela besar bikin ruangan terang, setiap kamar punya kolam renang pribadi luas di antara kamar tidur dan area dapur.
 
-**Ulasan Tamu**｜Tamu suka banget sama bangunan baru dan desainnya yang cantik, kolam pribadi super besar, kamar mandi bersih, dan sofa nyaman. Mereka bilang villa ini desainnya oke, fasilitas lengkap, dan worth it banget.
+**Ulasan Tamu**｜Tamu suka banget sama bangunan baru dan desainnya yang cantik, kolam renang pribadi super besar, kamar mandi bersih, dan sofa nyaman. Mereka bilang villa ini desainnya oke, fasilitas lengkap, dan value for money banget.
 
-> ▶ Cek ketersediaan & harga Domisili Villa Canggu Bali [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41352276) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-111881228/domisili-villa-canggu-bali-by-fays-hospitality/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/vwtZZSj7)
+> ▶ Cek ketersediaan kamar & harga Domisili Villa Canggu Bali [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41352276) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-111881228/domisili-villa-canggu-bali-by-fays-hospitality/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/vwtZZSj7)
 
 <!-- no-shuffle -->
 
 # Pilihan Akomodasi Lain di Canggu
 
-- Tipe Resort: [Rekomendasi Akomodasi Bali: Top 10 Akomodasi di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
-- Liburan Keluarga: [Rekomendasi 13 Resort Keluarga di Bali｜Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, Cocok untuk Liburan Keluarga dan Relaksasi](/id/blog/bali-family-resorts-kids-club/)
+- Resor: [Rekomendasi Akomodasi Bali: Top 10 Penginapan Wajib di Canggu](/id/blog/canggu-top-hotels-guide/)
+- Liburan Keluarga: [Rekomendasi 13 Resor Keluarga & Anak di Bali｜Kuta, Seminyak, Canggu, Jimbaran, Uluwatu – Pilihan Terbaik buat Liburan Keluarga dan Relaksasi](/id/blog/bali-family-resorts-kids-club/)
 - Akomodasi Keluarga: Villa keluarga di Canggu, cek [Rekomendasi Villa Keluarga 3/4/5+ Kamar Tidur](/id/blog/bali-group-villa-stay/)
 
 {{block:canggu}}

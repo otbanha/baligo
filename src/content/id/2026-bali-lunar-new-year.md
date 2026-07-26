@@ -1,12 +1,7 @@
 ---
 slug: 2026-bali-lunar-new-year
 title: Informasi Lengkap Perayaan Imlek 2026 di Bali
-description: >-
-  Tahun 2026 adalah Tahun Kuda Api dalam kalender Imlek. Perayaan Tahun Baru
-  Imlek di Bali (disebut Imlek di Indonesia) sangat meriah, terutama berpusat
-  pada **16 Februari (Malam Tahun Baru)** dan **17 Februari (Tahun Baru
-  Imlek)**. Beberapa perayaan bahkan berlangsung hingga Festival Lampion di awal
-  Maret.
+description: "Tahun 2026 adalah Tahun Kuda Api dalam kalender lunar. Perayaan Imlek (Tahun Baru Imlek) di Bali sangat meriah, terutama pada 16 Februari (malam tahun baru) dan 17 Februari (hari pertama tahun baru). Beberapa perayaan bahkan berlangsung hingga Festival Lampion di awal Maret. Berikut panduan lengkap perayaan Imlek di Bali: \U0001F3EE Pertunjukan Wajib Ditonton: Barongsai dan Naga (Barongsai)"
 pubDate: '2026-02-04'
 updatedDate: 2026-07-25T00:00:00.000Z
 update: 2026/05/23
@@ -21,52 +16,52 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: id
-_srcHash: PENDING_RETRY_f201bb0c989651e02b75c7a80aa3e31a
+_srcHash: f201bb0c989651e02b75c7a80aa3e31a
 ---
-Berikut panduan lengkap perayaan Imlek di Bali untuk kamu:
+Tahun 2026 adalah Tahun Kuda Api, perayaan Imlek di **Bali** sangat meriah, terutama pada **16 Februari (malam tahun baru)** dan **17 Februari (hari pertama tahun baru)**. Beberapa perayaan bahkan berlangsung hingga Festival Lampion di awal Maret.
+
+Berikut panduan lengkap **perayaan Imlek di Bali**:
 
 ## 🏮 Pertunjukan Wajib Ditonton: Barongsai dan Naga (Barongsai)
 
-Pertunjukan Barongsai adalah acara utama Imlek di **Bali**. Hampir semua mal besar dan resor mengadakannya:
-
-### 🏮 Jadwal Pertunjukan Imlek 2026 di Hotel-Hotel Bali
+Pertunjukan barongsai adalah acara utama Imlek di **Bali**. Hampir semua mal besar dan resor mengadakannya:
 
 ![必看民俗表演：舞獅與舞龍（Barongsai）](https://images.gobaligo.id/vocus/vocus_2e647a22175ae6ca92b4d7ecae82447d.jpg)
 
-### 💡 Tips Menonton Pertunjukan:
+### 🏮 Jadwal Pertunjukan Imlek di Hotel-Hotel Bali 2026
 
 ![2026 峇里島飯店春節表演時間表](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
 
-- **Datang Lebih Awal**: Pertunjukan Barongsai biasanya menarik banyak tamu hotel dan wisatawan, terutama yang diadakan di lobi. Sebaiknya datang **15-20 menit** lebih awal untuk dapat tempat duduk.
-- **Tradisi Interaksi**: Saat menonton Barongsai di **Bali**, kamu bisa menyiapkan angpao untuk diberikan kepada singa. Ini dianggap sebagai dukungan untuk para pemain dan juga doa untuk keberuntungan (disarankan nominal IDR 50.000 atau 100.000).
+### 💡 Tips Menonton Pertunjukan:
+
+- **Datang Lebih Awal**: Pertunjukan barongsai biasanya menarik banyak tamu hotel dan wisatawan, terutama yang diadakan di lobi. Disarankan datang **15-20 menit** lebih awal untuk dapat tempat duduk.
+- **Interaksi Tradisi**: Saat menonton barongsai di **Bali**, kamu bisa menyiapkan angpao untuk diberikan kepada singa. Ini dianggap sebagai dukungan untuk pemain dan juga doa untuk keberuntungan (disarankan nominal IDR 50.000 atau 100.000).
 
 ## ⛩️ Pasar Malam dan Pengalaman Budaya
 
-## ⛩️ 廟會與文化體驗
-
 Kalau kamu ingin merasakan suasana religius yang lebih tradisional, bisa mampir ke klenteng (Vihara) di Bali:
 
-- **Vihara Dharmayana (Kuta)**：Salah satu vihara Buddha tertua di Bali. Saat Imlek, tempat ini ramai dikunjungi, dihiasi lampion merah, dan sering ada ritual doa serta pertunjukan budaya.
-- **Vihara Satya Dharma Temple (Bao'an Gong / Sagya Fa Si)｜Kawasan Pelabuhan Benoa**：Pusat keagamaan penting bagi komunitas Tionghoa setempat untuk merayakan hari besar seperti Imlek, Cap Go Meh, dan hari lahir Dewi Kwan Im.
+- **Vihara Dharmayana (Kuta)**: Salah satu vihara Buddha tertua di Bali. Saat Imlek, tempat ini ramai pengunjung, dihiasi lampion merah, dan sering ada upacara doa serta pertunjukan budaya.
+- **Vihara Satya Dharma Temple (Bao'an Gong / Sagya Fa Si) | Kawasan Pelabuhan Benoa**: Pusat keagamaan penting bagi komunitas Tionghoa setempat untuk merayakan hari besar seperti Imlek, Cap Go Meh, dan hari lahir Dewi Kwan Im.
 
-**Pengenalan Enam Klenteng Utama (Klik di sini)**
+**Pengenalan Enam Kelenteng Utama (Klik di sini)**
 
-**(Pengenalan Enam Klenteng Utama**[**Klik di sini**](/id/blog/bali-chinese-temples-guide/)**)**
+**（Pengenalan Enam Kelenteng Utama**[**Klik di sini**](/id/blog/bali-chinese-temples-guide/)**）**
 
-- [**The Mulia**](/id/blog/mulia-resort-bali-luxury/)：Menyediakan pengalaman foto pakai hanfu dan pertunjukan kaligrafi, biar kamu bisa berfoto dengan pakaian tradisional di area resort yang penuh nuansa budaya.
+- [**The Mulia**](/id/blog/mulia-resort-bali-luxury/) : Menawarkan pengalaman foto pakai hanfu dan pertunjukan kaligrafi, biar kamu bisa berfoto dengan pakaian tradisional di area resort yang penuh nuansa budaya.
 
-## 🍴 Pilihan Jamuan Imlek Spesial (Hidangan Pembawa Keberuntungan)
+## 🍴 Pilihan Jamuan Imlek Spesial (Hidangan Pembuka Keberuntungan)
 
 ![精選新春饗宴 (開運年菜)](https://images.gobaligo.id/vocus/vocus_049126344feb3f43d3f4e43323b1203c.jpg)
 
 **KUTA & LEGIAN**
 
-- [**Padma Resort Legian**](http://padmaresortlegian.com/)：Pada 16 Februari, mengadakan dinner prasmanan malam tahun baru di Plumeria Grand Ballroom (IDR 599.000++/orang), menyajikan yusheng, kue keranjang, dimsum fresh, bebek panggang, dan ada pertunjukan barongsai malam hari.
-- **Holiday Inn Resort Baruna Bali (Palms Restaurant)**：17 Februari mulai jam 6 sore, ada jamuan malam tahun baru dengan pilihan paket untuk 1 orang (IDR 199.000 nett) sampai 5 orang (IDR 699.000 nett), termasuk yusheng, barongsai, dan atraksi wushu. **Pesan Sekarang: +62 819 3603 9811 (WA) |**[**prima.lestari@ihg.com**](mailto:prima.lestari@ihg.com)
+- [**Padma Resort Legian**](http://padmaresortlegian.com/) : Pada 16 Februari, mengadakan buffet malam Tahun Baru Imlek di Plumeria Grand Ballroom (IDR 599.000++/orang), menyajikan yusheng, kue keranjang, dimsum fresh, bebek panggang, dan di malam hari ada pertunjukan barongsai.
+- **Holiday Inn Resort Baruna Bali (Palms Restaurant)** : Pada 17 Februari mulai pukul 18.00, mengadakan jamuan malam Tahun Baru dengan pilihan paket untuk 1 orang (IDR 199.000 nett) hingga 5 orang (IDR 699.000 nett), termasuk yusheng, barongsai, dan pertunjukan wushu. **Pesan Sekarang: +62 819 3603 9811 (WA) |**[**prima.lestari@ihg.com**](mailto:prima.lestari@ihg.com)
 
 **SEMINYAK**
 
-- [**Hotel Indigo Bali Seminyak Beach**](/id/blog/hotel-indigo-seminyak-review/) **(Makase)**：16 Februari jam 6-10 malam, ada dinner prasmanan 'Oriental Feast' malam tahun baru (IDR 888.000++/orang), menyajikan seafood panggang langsung, Mongolian BBQ, dimsum, dan dessert khas Imlek, plus pertunjukan barongsai.
+- [**Hotel Indigo Bali Seminyak Beach**](/id/blog/hotel-indigo-seminyak-review/) **(Makase)** : Pada 16 Februari pukul 18.00-22.00, mengadakan buffet malam Imlek 'Oriental Feast' (IDR 888.000++/orang), menyajikan seafood panggang langsung, Mongolian BBQ, dimsum, dan kue manis khas Imlek, plus pertunjukan barongsai.
 
 **CANGGU**
 
@@ -78,16 +73,16 @@ Kalau kamu ingin merasakan suasana religius yang lebih tradisional, bisa mampir 
 
 **ULUWATU**
 
-- **Anantara Uluwatu Bali Resort**：Februari di 360 Rooftop Restaurant ada hotpot Imlek (per orang IDR 420,000++) dan afternoon tea (per orang IDR 295,000++). 16-22 Februari ada paket keluarga (IDR 680,000++). 17 Februari sore ada pertunjukan barongsai, siangnya ada terapi suara (gratis untuk tamu). **Book Now:**[**+62 811 399 5048**](https://wa.me/+628113995048)**(WhatsApp) |**[**anantara.com/en/uluwatu-bali/lunar-festivities**](https://www.anantara.com/en/uluwatu-bali/lunar-festivities)
+- **Anantara Uluwatu Bali Resort**：Februari di 360 Rooftop Restaurant ada hotpot Imlek (per orang IDR 420,000++) dan afternoon tea (per orang IDR 295,000++). 16-22 Februari ada paket keluarga (IDR 680,000++). 17 Februari sore ada pertunjukan barongsai, siangnya ada terapi suara mangkuk (gratis untuk tamu). **Book Now:**[**+62 811 399 5048**](https://wa.me/+628113995048)**(WhatsApp) |**[**anantara.com/en/uluwatu-bali/lunar-festivities**](https://www.anantara.com/en/uluwatu-bali/lunar-festivities)
 - **Renaissance Bali Uluwatu**：16 Februari di Double Ikat restaurant ada buffet dinner malam tahun baru (per orang IDR 688,000++). 17 Februari di Clay Craft restaurant ada dinner 'Oriental Delights' (per orang IDR 888,000++). 10-17 Februari di R Bar ada afternoon tea Imlek (per orang IDR 288,000++). **Book Now:**[**+62 361 2003588**](tel:+62 361 2003588)**|**[**dining.uluwatu@renaissancehotels.com**](mailto:dining.uluwatu@renaissancehotels.com)**|**[**@renhotelbali**](https://www.instagram.com/renhotelbali/)**|**[**event.marriott.com**](https://event.marriott.com/dpsuw-renaissance-bali-uluwatu-resort-spa/events)
 
 **NUSA DUA**
 
-- [**Mulia Resort (Table8)**](/id/blog/mulia-resort-bali-luxury/)：Ada menu Imlek klasik ala Kanton.
-- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](/id/blog/nusa-dua-resorts-guide/)：16 Februari malam ada buffet Asia yang lengkap, termasuk Yee Sang dan konsultasi ramalan.
+- [**Mulia Resort (Table8)**](/id/blog/mulia-resort-bali-luxury/)：Menyajikan menu Imlek klasik ala Kanton.
+- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](/id/blog/nusa-dua-resorts-guide/)：16 Februari malam ada buffet Asia yang lengkap, termasuk Yee Sang dan sesi ramalan.
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)：16 Februari di Senses restaurant ada buffet dinner malam tahun baru (per orang IDR 1,000,000++). 15-20 Februari juga ada afternoon tea Imlek (dua orang IDR 1,100,000++).
-- [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：16-17 Februari ada paket Imlek (mulai IDR 1,688,000++ per pasangan), 9-22 Februari ada menu à la carte spesial. Makan malam tahun baru termasuk petasan tradisional, dan lobby ada pop-up store Imlek.
-- [**Mr. Lobster**](/id/blog/mr-lobster-seafood-bali/)：16-21 Februari, makan dapat undian angpao, dewasa dan anak-anak dapat hadiah, angpao terbesar IDR 100,000. Reservasi wajib ya!
+- [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：16-17 Februari ada paket Imlek (mulai IDR 1,688,000++ per pasangan), 9-22 Februari ada menu à la carte spesial. Makan malam tahun baru disertai petasan tradisional, dan lobby ada pop-up shop Imlek.
+- [**Mr. Lobster**](/id/blog/mr-lobster-seafood-bali/)：16-21 Februari, makan bisa ikut undian angpao, dewasa dan anak-anak semua dapat hadiah, angpao terbesar IDR 100,000. Reservasi lebih awal ya!
 
 **SANUR**
 
@@ -95,14 +90,14 @@ Kalau kamu ingin merasakan suasana religius yang lebih tradisional, bisa mampir 
 
 **Ubud**
 
-- [**Capella Ubud**](/id/blog/capella-ubud-luxury-resort/): Tanggal 17 Februari ada tradisi "Lo Yu Sheng" (menyendok ikan untuk keberuntungan) dan masakan Peranakan (Tionghoa peranakan) khas Indonesia.
-- [**Padma Resort Ubud**](/id/blog/ubud-resorts-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF): Malam 17 Februari ada "Perjamuan Pembuka Keberuntungan", cocok buat kamu yang suka suasana pegunungan yang tenang.
-- [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-17502897/the-westin-ubud-resort-amp-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**: Tanggal 16 Februari, jam 18.00-22.30, ada "Ubud Lunar Harmony" prasmanan malam Tahun Baru (IDR 588.000++/orang), lengkap dengan pertunjukan barongsai.
+- [**Capella Ubud**](/id/blog/capella-ubud-luxury-resort/): Tanggal 17 Februari ada tradisi "Lo Hei" (menangkap ikan untuk keberuntungan) dan masakan Peranakan khas Indonesia.
+- [**Padma Resort Ubud**](/id/blog/ubud-resorts-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF): Malam 17 Februari ada "Perjamuan Keberuntungan", cocok buat kamu yang suka suasana pegunungan yang tenang.
+- [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-17502897/the-westin-ubud-resort-amp-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**: Tanggal 16 Februari, jam 18.00-22.30 ada "Ubud Lunar Harmony" Makan Malam Malam Tahun Baru prasmanan (IDR 588.000++/orang), lengkap dengan pertunjukan barongsai.
 
 ## 🗓️ Pengingat Tanggal Penting
 
 - **16 Februari (Senin)**: Malam Tahun Baru Imlek, pemerintah Indonesia menetapkannya sebagai hari libur bersama (Cuti Bersama), banyak hotel mengadakan makan malam keluarga.
 - **17 Februari (Selasa)**: Hari pertama Tahun Baru Imlek, hari libur nasional, acara di mal paling padat.
-- **3 Maret**: Cap Go Meh (Festival Lampion), beberapa daerah akan ada acara lampion.
+- **3 Maret**: Cap Go Meh (Festival Lampion), beberapa daerah akan mengadakan acara lampion.
 
-**💡 Tips: ** Saat Tahun Baru Imlek, lalu lintas di kawasan wisata utama **Bali** (seperti Kuta, Canggu) mungkin lebih macet dari biasanya. Makan malam Tahun Baru di restoran populer wajib reservasi jauh-jauh hari.
+**💡 Pengingat:** Selama Tahun Baru Imlek, lalu lintas di kawasan wisata utama **Bali** (seperti Kuta, Canggu) mungkin lebih macet dari biasanya. Pastikan reservasi makan malam Tahun Baru di restoran populer jauh-jauh hari.

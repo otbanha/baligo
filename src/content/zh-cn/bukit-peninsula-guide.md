@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_05a9ca325c235fc34066e54b056498c7.png'
 originalUrl: 'https://vocus.cc/article/67061b07fd897800012f87b5'
 lang: zh-cn
-_srcHash: PENDING_RETRY_cff1402a302bc82684df64e9ff8f2ade
+_srcHash: cff1402a302bc82684df64e9ff8f2ade
 ---
 
 巴厘岛的「武吉半岛（Bukit Peninsula）」可能很多人没有听过，最简单的区分法就是只要是巴厘岛国际机场以南的这一块，都叫做武吉半岛。
@@ -32,7 +32,7 @@ _srcHash: PENDING_RETRY_cff1402a302bc82684df64e9ff8f2ade
 
 机场以南的这个区域就是武吉半岛
 
-武吉半岛有着无数值得探索的角落，游客甚至可以在这里度过整个假期。如果你对巴厘岛地图下方这颗小珍珠充满好奇，那么现在正是你了解这片区域所有热门景点好时机。无论你是计划一场超值度假，还是想进行一次经济实惠的短期旅行，武吉半岛绝对是目前最受欢迎的旅游地点之一，等着你去发掘。
+武吉半岛有着无数值得探索的角落，游客甚至可以在这里度过整个假期。如果你对巴厘岛地图下方这颗小珍珠充满好奇，那么现在正是你了解这片区域所有热门景点的好时机。无论你是计划一场超值度假，还是想进行一次经济实惠的短期旅行，武吉半岛绝对是目前最受欢迎的旅游地点之一，等着你去发掘。
 
 对于巴厘岛人民来说，武吉半岛一直具有重要的精神和文化意义。这里是岛上著名的乌鲁瓦图寺 (Pura Luhur Uluwatu) 的所在地，这座建于悬崖上的寺庙俯瞰着印度洋，风景壮丽。据说该寺庙建于11世纪，是巴厘岛六大方向性寺庙之一，对岛上的信仰生活具有深远影响。
 
@@ -92,7 +92,7 @@ Ayana Resort 是巴厘岛知名的豪华度假村，拥有壮丽的悬崖景观�
 
 https://youtu.be/JX6B-63zQn0
 
-其中，Padang Padang Beach是乌鲁瓦图最著名的海滩之一，今年旺季迎来了史上最多游客。这片海滩不仅以壮观的悬崖景致闻名，海浪也吸引着众多冲浪爱好者。除了Padang Padang Beach外，Thomas Beach、Uluwatu Beach、Bingin Beach、和Suluban Beach等，还有南端的Pandawa Beach、Green Bowl Beach也都是人们来到Uluwatu必访的景点。
+其中，Padang Padang Beach是乌鲁瓦图最著名的海滩之一，今年旺季迎来了史上最多游客。这片海滩不仅以壮观的悬崖景致闻名，海浪也吸引着众多冲浪爱好者。除了Padang Padang Beach外，Thomas Beach、Uluwatu Beach、Bingin Beach和Suluban Beach等，还有南端的Pandawa Beach、Green Bowl Beach也都是人们来到乌鲁瓦图必访的景点。
 
 Padang Padang Beach管理经理I Wayan Wijana表示，自2024年初以来，平均每日接待约1000至1200名游客，而旺季期间可达1500至2000人。大多数游客来自澳洲以及亚洲各地，印尼国内游客则约占总人数的30%。
 
@@ -108,7 +108,7 @@ Padang Padang Beach管理经理I Wayan Wijana表示，自2024年初以来，平�
 
 >[【乌鲁瓦图攻略】乌鲁瓦图景点 吃喝玩乐推荐】](/zh-cn/blog/uluwatu-guide/)
 
->【[乌鲁瓦图 Uluwatu住宿推荐：12间无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)】
+【[乌鲁瓦图 Uluwatu住宿推荐：12间无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)】
 
 ***
 
@@ -164,7 +164,7 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 
 午餐时间，建议您到海滩附近的咖啡馆或海景餐厅享用新鲜的当地海鲜，放松一下身心，为接下来的行程补充能量。
 
-上面视频的Suluban Beach我们有详细的攻略，请看[这里](/zh-cn/blog/suluban-beach-hidden-gem/)
+上面视频的Suluban Beach我们有详细的攻略,请看[这里](/zh-cn/blog/suluban-beach-hidden-gem/)
 
 ### **下午：SPA与海滩俱乐部的美好时光**
 
@@ -227,16 +227,17 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 金巴兰地区提供各种豪华SPA度假村和水疗中心，为游客提供一个绝佳的休闲和疗愈之旅。
 
 > Klook优惠券：
+
 > [金巴兰Hua Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022)
 > [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
 > [Ayutaya 花浴 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
-> [到府服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
+> [上门服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
 
 还有时间的话，可以前往现在乌鲁瓦图旅游的大热点「Batu Barak」，号称蓝色公路的热门打卡点参观参观。
 
-> [Batu Barak 蓝色公路最新介绍](/zh-cn/blog/pandawa-beach-traffic-policy/)
-
 ![下午：SPA放鬆](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
+
+> [Batu Barak 蓝色公路最新介绍](/zh-cn/blog/pandawa-beach-traffic-policy/)
 
 ### **傍晚：在金巴兰沙滩享用海鲜午餐**
 
@@ -244,15 +245,13 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 
 想要享受美食、美景、又要不踩雷、不被敲竹杠，可以看看我们的「[巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)」
 
-## **结语：武吉半岛等你来探索**
-
 {{block:klook}}
 
 ***
 
-武吉半岛以其壮丽的悬崖美景、悠闲的冲浪小镇氛围和神秘的寺庙文化为旅客带来了难忘的体验。无论是从乌鲁瓦图寺俯瞰印度洋的无边海景，还是在沙滩上迎接迷人的夕阳，这片半岛都充满了巴厘岛最独特的自然与文化风情。
+## **结语：武吉半岛等你来探索**
 
-武吉半島以其壯麗的懸崖美景、悠閒的衝浪小鎮氛圍和神秘的寺廟文化為旅客帶來了難忘的體驗。無論是從烏魯瓦圖寺俯瞰印度洋的無邊海景，還是在沙灘上迎接迷人的夕陽，這片半島都充滿了峇里島最獨特的自然與文化風情。
+武吉半岛以其壮丽的悬崖美景、悠闲的冲浪小镇氛围和神秘的寺庙文化为旅客带来了难忘的体验。无论是从乌鲁瓦图寺俯瞰印度洋的无边海景，还是在沙滩上迎接迷人的夕阳，这片半岛都充满了巴厘岛最独特的自然与文化风情。
 
 如果你热爱探索大自然，追求悠闲的度假方式，或是享受结合冒险与放松的旅程，武吉半岛会是完美的选择。武吉半岛的魅力在于其多元性，每一处风景、每一片海滩都蕴藏着独一无二的故事，等待每一位旅人去亲身体验并留下美好的回忆。
 

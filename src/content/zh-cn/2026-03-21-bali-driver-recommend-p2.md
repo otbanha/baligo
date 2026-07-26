@@ -13,12 +13,12 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-07-21T00:00:00.000Z
+updatedDate: 2026-07-26T00:00:00.000Z
 lang: zh-cn
-_srcHash: 6f49c81614a9ca53304511d4d93d0fc2
+_srcHash: ea379097fa8a7e2f306b7e6fbeeff21a
 ---
 
-**本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油资，约 10 小时）**，联系时请说明日期、人数与想去的区域。
+**本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油费，约 10 小时）**，联系时请说明日期、人数与想去的区域。
 
 第一页，获得我们优先推荐的司机在[这里](/zh-cn/blog/bali-private-car-drivers-guide/)
 
@@ -88,7 +88,7 @@ _srcHash: 6f49c81614a9ca53304511d4d93d0fc2
 
 ![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1VXqNsk4dP/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/15s61pbqgP/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/12FP8bmqqKV/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1BrE9Bwfc3/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/18uBBsVQ54/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1Acxiogodn/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1ErBNVZgiL/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/19u4bKB5qN/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/17aye3oM8x/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1C6r8pfDsG/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1DXoxBorWJ/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1FgemyygNF/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1JqpWvJjBy/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1E4mrmKxYV/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18cZXfUcjA/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1VXqNsk4dP/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/15s61pbqgP/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/12FP8bmqqKV/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1BrE9Bwfc3/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/18uBBsVQ54/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1Acxiogodn/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1ErBNVZgiL/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/19u4bKB5qN/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/17aye3oM8x/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1C6r8pfDsG/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1DXoxBorWJ/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1FgemyygNF/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1JqpWvJjBy/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1E4mrmKxYV/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18cZXfUcjA/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1GzLCXzvpw/)
 
 ## Vina
 

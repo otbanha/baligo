@@ -19,7 +19,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_665788e465bdd16779eede7aab3fe
 originalUrl: 'https://vocus.cc/article/66c02325fd8978000145e0e1'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: PENDING_RETRY_aaec344685645ce433f67846db9b52f3
+_srcHash: aaec344685645ce433f67846db9b52f3
 ---
 
 > 以下内容由团友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供给我们重新编排：
@@ -42,27 +42,27 @@ _srcHash: PENDING_RETRY_aaec344685645ce433f67846db9b52f3
 
 🦅☀️🌴GWK神鹰广场，巨大的维什努神像和神鹰令人惊叹 😍，还能欣赏传统表演，文化与自然的完美结合 ▶[Klook 订票网址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
-### **泛舟之旅——興奮與溫馨的結合**
+### **泛舟之旅——兴奋与温馨的结合**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_8c8ba976bbe23885e66181d1a450fc67.jpg)
 
 林小昭提供
 
-我們在Klook訂購的「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程超乎預期的精彩。教練們不僅專業，而且非常體貼。特別是我們的大兒子在途中有點不舒服，教練始終關心他的狀況，讓我們感到非常安心。其他船上的教練也同樣友善，大家互相潑水、比賽超船，讓2小時的泛舟活動充滿了歡笑。我們還遇到了來自沙烏地阿拉伯和韓國的遊客，大家聊得非常愉快，這段經歷也讓我們練習了英語和韓語，實在是太有趣了。
+我们在Klook订购的「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程超乎预期的精彩。教练们不仅专业，而且非常体贴。特别是我们的大儿子在途中有点不舒服，教练始终关心他的状况，让我们感到非常安心。其他船上的教练也同样友善，大家互相泼水、比赛超船，让2小时的泛舟活动充满了欢笑。我们还遇到了来自沙特阿拉伯和韩国的游客，大家聊得非常愉快，这段经历也让我们练习了英语和韩语，实在是太有趣了。
 
-> 「泛舟須知與常見問題」請看[這裡](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
+> 「泛舟须知与常见问题」请看[这里](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
-### **特家司機的貼心服務——滿足所有願望**
+### **特家司机的贴心服务——满足所有愿望**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_11800fb47f0eb2976c131381d56593a9.jpg)
 
 林小昭提供
 
-我們的包車司機特家，不僅讓我們的梯田和盪鞦韆願望一次滿足，還帶我們去了許多隱藏的美景。特別是在梯田盪鞦韆處，這裡的風景美得令人屏息，而且還提供出租長尾禮服，讓我一下子就變身成為仙女，實在是太夢幻了！
+我们的包车司机特家，不仅让我们的梯田和荡秋千愿望一次满足，还带我们去了许多隐藏的美景。特别是在梯田荡秋千处，这里的风景美得令人屏息，而且还提供出租长尾礼服，让我一下子就变身成为仙女，实在是太梦幻了！
 
-> [烏布玩秋千：峇里島最美的8個鞦韆拍照勝地｜烏布鞦韆/租禮服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
+> [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
-🛕🐒🌿烏布一日遊，探索IG熱門景點、欣賞鬼斧神工自然美景，享受當地美食與麝香貓咖啡 ☕📸，文化與自然的完美結合 ▶[Klook 50+旅程任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
+🛕🐒🌿乌布一日游，探索IG热门景点、欣赏鬼斧神工自然美景，享受当地美食与麝香猫咖啡 ☕📸，文化与自然的完美结合 ▶[Klook 50+旅程任选](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
 ### **Paperhills 咖啡厅——人品大爆发的绝佳景色**
 
@@ -72,7 +72,7 @@ _srcHash: PENDING_RETRY_aaec344685645ce433f67846db9b52f3
 
 在Paperhills咖啡厅，我们幸运地看到了壮观的巴杜尔火山，这座活火山全貌清晰可见，实在是让人惊叹。这家咖啡厅共有四层，每一层都能拍出美美的照片，穿着自己准备的衣服，在这里随便拍都是网红照。包车的好处就在于，我们可以大包小包带着各种装备，随时随地都能捕捉到美好的瞬间。
 
-> 延伸阅读：[巴厘岛金塔玛尼12大景观咖啡厅推荐](/zh-cn/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+> 延伸阅读：[巴厘岛金塔马尼12大景观咖啡厅推荐](/zh-cn/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 ### **Rijasa Agung 乌布阿贡里加萨酒店——宁静与舒适的完美结合**
 
@@ -117,7 +117,7 @@ https://youtube.com/shorts/v7NAvCARzKY
 
 {{block:親子}}
 
-您觉得林小昭他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+你觉得林小昭他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿你的行程哦！
 
 {{block:遊記}}
 
