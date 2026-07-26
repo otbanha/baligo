@@ -391,4 +391,4 @@ We recommend booking at least 2 to 3 months in advance to secure your ideal vill
 
 No worries! We've put together 60 indoor activities for rainy days in Bali. Check them out [here](/en/blog/2026-bali-indoor-activities/).
   ---
- BLOCK0 
+{{block:親子}}

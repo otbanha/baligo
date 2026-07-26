@@ -127,5 +127,5 @@ The location is also very convenient. You need to go to a pickup point and then 
 
 Dreaming of a magical getaway? 🌴 Ubud pool villas offer ultimate luxury and relaxation! Private pools, stunning views, top-notch amenities—all designed for your perfect vacation. Click [here](/en/blog/ubud-villa-pool-guide/) to explore more of our recommended Ubud pool villas and start your exclusive retreat! ✨
 
- BLOCK0 
- BLOCK1 
+{{block:ubud}}
+{{block:住宿}}

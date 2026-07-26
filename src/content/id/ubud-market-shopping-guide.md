@@ -135,4 +135,4 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 Pasar Ubud bukan cuma surga belanja, tapi juga jendela untuk mengenal budaya Bali. Dari kain sarung hingga ukiran kayu, dari perak hingga lukisan — setiap barang menyimpan cerita para pengrajin dan jiwa pulau ini. Kalau lain kali ke Bali, jangan lupa sisihkan setengah hari buat eksplorasi Pasar Ubud, dan rasakan serunya 'belanja sambil jalan-jalan'! 🌺
 
-# BLOCK0 
+#{{block:ubud}}

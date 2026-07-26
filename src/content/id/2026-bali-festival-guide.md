@@ -585,5 +585,5 @@ Hormati budaya lokal itu penting banget. Saran, cari tahu dulu pantangan terkait
 
 Acara festival biasanya jadi hajatan desa atau komunitas, warga bareng-bareng nyiapin dan ikut serta, bikin hubungan makin erat dan komunitas makin kompak. Ikut acara ini bukan cuma pengalaman budaya, tapi juga bikin kamu ngerasain keramahan dan kebaikan penduduk lokal.
 
- BLOCK0 
- BLOCK1 
+{{block:klook}}
+{{block:攻略}}

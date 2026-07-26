@@ -125,4 +125,4 @@ isBali巴厘岛旅行社以其专业、灵活的服务；台湾客服、巴厘�
 #### 或加Facebook Messenger:
 
 [https://www.facebook.com/isbali.fb](https://www.facebook.com/isbali.fb). 
- BLOCK0 
+{{block:isbali2}}

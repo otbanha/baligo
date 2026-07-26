@@ -135,4 +135,4 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 Ubud Market is not just a shopping paradise; it's a window into Balinese culture. From sarongs to wood carvings, silver jewelry to paintings, each item carries the artisan's heart and the island's soul. Next time you're in Bali, be sure to set aside half a day for Ubud Market and truly savor the joy of 'shopping as a travel experience'! 🌺
 
-# BLOCK0 
+#{{block:ubud}}

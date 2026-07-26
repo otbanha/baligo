@@ -133,4 +133,4 @@ _srcHash: 7a284e58f536f475ff10dc2e5bcfe913
 
 👉 **想探索更多努沙杜瓦的顶级住宿？**[**请点击这里**](/zh-cn/blog/nusa-dua-resorts-guide/)**！**
 
-** BLOCK0 **
+**{{block:dua}}**

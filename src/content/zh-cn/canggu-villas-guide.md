@@ -619,5 +619,5 @@ Domisili Villa Canggu Bali By Fays Hospitality 以宽敞的设施、全新家具
 - 亲子度假：[推荐巴厘岛13家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
 - 家庭住宿：坎古的家庭villa请参考[三房/四房/五房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

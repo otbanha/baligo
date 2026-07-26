@@ -806,5 +806,5 @@ Whether you're seeking a unique honeymoon escape or hoping to unwind away from t
 
 > Read more: Looking for family stays in Seminyak? Check out our [recommendations for 3-bedroom, 4-bedroom, and 5+ bedroom family villas](/en/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:smk}}
+{{block:住宿}}

@@ -128,5 +128,5 @@ What touched us most was that the hotel hostess noticed my birthday had just pas
 
 The room design is cozy and beautiful—lying in bed, you can hear the sound of the waves, which is truly an amazing experience. Overall, Oshom offers a unique and unforgettable stay, and we highly recommend it!
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

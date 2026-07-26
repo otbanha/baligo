@@ -136,4 +136,4 @@ The service here was impeccable, with every staff member showing warmth and prof
 
 👉 **Want to explore more top-tier accommodations in Nusa Dua?** [**Click here**](/en/blog/nusa-dua-resorts-guide/)**!**
 
-** BLOCK0 **
+**{{block:dua}}**

@@ -113,5 +113,5 @@ TUI BLUE Berawa Hotel and Villas 真是太棒了！酒店位置优越，几乎�
 - [Canggu Top 12 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)
 - [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

@@ -383,4 +383,4 @@ Kuta 海滩旁的 Beachwalk 购物中心每年圣诞节都会布置巨型圣诞�
 
 别担心！我们提供了60个巴厘岛下雨天的活动备选。请看[这里](/zh-cn/blog/2026-bali-indoor-activities/)。
   ---
- BLOCK0 
+{{block:親子}}

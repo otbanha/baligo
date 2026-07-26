@@ -807,5 +807,5 @@ Entah kamu ingin merasakan bulan madu yang beda dari biasanya, atau sekadar kabu
 
 > Baca juga: Cari penginapan keluarga di Seminyak? Cek [rekomendasi villa 3, 4, 5 kamar atau lebih untuk keluarga](/id/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:smk}}
+{{block:住宿}}

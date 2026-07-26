@@ -800,5 +800,5 @@ Astera Villa Seminyak 由 Ini Vie Hospitality 经营，位于水明漾与雷吉�
 
 > 延伸阅读：家庭住宿水明漾？请参考[三房/四房/五房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:smk}}
+{{block:住宿}}

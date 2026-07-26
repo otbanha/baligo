@@ -208,5 +208,5 @@ Hotel Indigo 全館總共有289間客房同別墅，每間都帶有陽台或者�
 >** ▶**[**Hotel Indigo Bali Seminyak Beach 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed) **▶**[**Trip.com查詢**](https://hk.trip.com/hotels/bali-hotel-detail-7599479/hotel-indigo-bali-seminyak-beach-by-ihg/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 
- BLOCK1 
- BLOCK2 
+{{block:smkbeachstay}}
+{{block:住宿}}

@@ -120,5 +120,5 @@ favehotel Sunset Seminyak, hotel ekonomis yang kece abis. Cuma 5 menit naik mobi
 
 Entah kamu suka pantai dan matahari atau jalan-jalan dan belanja, panduan rekomendasi akomodasi ini bakal kasih banyak pilihan biar liburanmu ke Bali makin unforgettable. Jangan lupa klik link di atas buat lihat detail harga murahnya, dan siap-siap buat petualangan seru di Bali!
 
- BLOCK0 
- BLOCK1 
+{{block:smk}}
+{{block:住宿}}

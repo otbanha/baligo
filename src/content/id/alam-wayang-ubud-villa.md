@@ -127,5 +127,5 @@ Lokasi hotelnya juga strategis banget, meskipun harus ke titik jemput dulu baru 
 
 Pengen liburan yang kayak mimpi? 🌴 Villa kolam renang di Ubud bakal kasih kamu kemewahan dan relaksasi maksimal! Kolam renang pribadi, pemandangan cakep, fasilitas top, semuanya biar kamu nikmatin liburan paling sempurna. Klik [di sini](/id/blog/ubud-villa-pool-guide/) sekarang, eksplor lebih banyak villa kolam renang Ubud rekomendasi kami yang unik, dan mulai petualangan liburan spesial kamu! ✨
 
- BLOCK0 
- BLOCK1 
+{{block:ubud}}
+{{block:住宿}}

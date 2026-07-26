@@ -113,5 +113,5 @@ If you'd like to stay in the charming area of Canggu, check out our carefully cu
 - [Canggu Top 12: Unmissable Accommodation Recommendations](/en/blog/canggu-top-hotels-guide/)
 - [16 Private Pool Villas in Canggu: Must-See Bali Villas](/en/blog/canggu-villas-guide/)
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

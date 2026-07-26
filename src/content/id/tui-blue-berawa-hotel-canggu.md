@@ -113,5 +113,5 @@ Kalau kamu tertarik nginep di Canggu yang penuh pesona, cek aja rekomendasi peng
 - [Top 12 Rekomendasi Penginapan di Canggu yang Wajib Kamu Coba](/id/blog/canggu-top-hotels-guide/)
 - [16 Rekomendasi Villa dengan Kolam Renang Pribadi di Canggu — Villa Canggu yang Sayang Dilewatkan di Bali](/id/blog/canggu-villas-guide/)
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

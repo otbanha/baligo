@@ -390,4 +390,4 @@ Saran sih minimal 2-3 bulan sebelumnya, biar bisa dapet villa atau hotel yang se
 
 Tenang aja! Kami punya 60 ide aktivitas indoor di Bali pas hujan. Cek di [sini](/id/blog/2026-bali-indoor-activities/).
   ---
- BLOCK0 
+{{block:親子}}

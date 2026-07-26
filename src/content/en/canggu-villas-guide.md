@@ -625,5 +625,5 @@ Domisili Villa Canggu Bali By Fays Hospitality is renowned for its spacious faci
 - Family Getaway: [Recommended 13 Family Resorts in Bali: The Best Choices for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/en/blog/bali-family-resorts-kids-club/)
 - Family Stays: For family villas in Canggu, check out [Recommended Family Villa Accommodations with 3, 4, or 5+ Bedrooms](/en/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

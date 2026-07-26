@@ -212,5 +212,5 @@ Indigo ini bukan cuma nyaman buat nginep, tapi juga seru buat dijelajahi. Resort
 >**▶**[**Cek Harga & Ketersediaan Kamar Hotel Indigo Bali Seminyak Beach**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed) **▶**[**Cek di Trip.com**](https://hk.trip.com/hotels/bali-hotel-detail-7599479/hotel-indigo-bali-seminyak-beach-by-ihg/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 
- BLOCK1 
- BLOCK2 
+{{block:smkbeachstay}}
+{{block:住宿}}

@@ -800,5 +800,5 @@ Astera Villa Seminyak 由 Ini Vie Hospitality 經營，位於 Seminyak 同 Legia
 
 > 延伸閱讀：家庭住宿水明漾？請參考[三房/四房/五房以上嘅家庭別墅住宿推薦](/zh-hk/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:smk}}
+{{block:住宿}}

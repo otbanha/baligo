@@ -188,6 +188,8 @@ function contentHash(text) {
  * 將 markdown body 分割成「可翻譯段落」和「保留段落」。
  * 返回 segment 陣列：{ type: 'text'|'code'|'image'|'block'|'empty', content: string }
  */
+const PLACEHOLDER_RE = /\x00(?:CODE|BLOCK)\d+\x00/g;
+
 function segmentBody(body) {
   const segments = [];
   // 先把 code block 整個換成佔位符
@@ -222,10 +224,16 @@ function segmentBody(body) {
       continue;
     }
 
-    // 佔位符（code block / block tag）
-    if (/^\x00(CODE|BLOCK)\d+\x00$/.test(trimmed)) {
-      const original = preserved.get(trimmed) ?? para;
-      segments.push({ type: 'code', content: original });
+    // 佔位符（code block / block tag）。
+    // 一個段落可能含多個佔位符：{{block:a}} 與 {{block:b}} 寫在相鄰兩行時，
+    // 中間沒有空行就會被 split(/\n\n/) 歸成同一段。舊版這裡用 ^…$ 錨定單一
+    // 佔位符，這種段落比對失敗就被當成一般文字送去翻譯，佔位符再也沒機會
+    // 還原，最後原封不動印在頁面上（曾造成 80 個頁面出現 BLOCK1、BLOCK2 字樣）。
+    if (/^(?:\s*\x00(?:CODE|BLOCK)\d+\x00\s*)+$/.test(trimmed)) {
+      segments.push({
+        type: 'code',
+        content: para.replace(PLACEHOLDER_RE, (k) => preserved.get(k) ?? k),
+      });
       continue;
     }
 
@@ -245,7 +253,7 @@ function segmentBody(body) {
     segments.push({ type: 'text', content: para });
   }
 
-  return segments;
+  return { segments, preserved };
 }
 
 /**
@@ -502,7 +510,7 @@ async function translateFile(filename, lang) {
   if (fm.description && !titleLocked) { fmTranslatables.push(fm.description); fmKeys.push('description'); }
 
   // Body 分割
-  const segments = segmentBody(body);
+  const { segments, preserved } = segmentBody(body);
   const textSegments = []; // { segIdx, content }
   segments.forEach((seg, i) => {
     if (seg.type === 'text' && seg.content.trim()) textSegments.push({ segIdx: i, content: seg.content });
@@ -573,7 +581,14 @@ async function translateFile(filename, lang) {
     return seg.content;
   }).join('\n\n');
 
-  const newContent = matter.stringify(localizeInternalLinks(newBody, lang), newFm);
+  // 最後保險：任何殘留的佔位符一律還原。翻譯 API 有時會把佔位符連同周圍
+  // 文字一起吐回譯文，那條路徑不經過上面的 segment 還原。
+  const restoredBody = newBody.replace(PLACEHOLDER_RE, (k) => preserved.get(k) ?? k);
+  if (restoredBody.includes('\x00')) {
+    console.warn(`⚠️  ${destPath}：仍有無法還原的佔位符，請檢查（翻譯 API 可能改動了佔位符內容）`);
+  }
+
+  const newContent = matter.stringify(localizeInternalLinks(restoredBody, lang), newFm);
 
   if (!isDryRun) {
     writeFileSync(destPath, newContent, 'utf-8');

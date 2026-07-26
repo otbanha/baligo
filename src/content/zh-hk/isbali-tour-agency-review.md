@@ -125,4 +125,4 @@ isBali 峇里島旅行社以專業、靈活嘅服務；台灣客服、峇里島�
 #### 或者加Facebook Messenger：
 
 [https://www.facebook.com/isbali.fb](https://www.facebook.com/isbali.fb). 
- BLOCK0 
+{{block:isbali2}}

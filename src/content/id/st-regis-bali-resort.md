@@ -136,4 +136,4 @@ Pelayanannya nggak ada cacatnya, setiap staf ramah dan profesional. Kami sangat 
 
 👉 **Mau eksplor lebih banyak akomodasi top di Nusa Dua?**[**Klik di sini**](/id/blog/nusa-dua-resorts-guide/)**!**
 
-** BLOCK0 **
+**{{block:dua}}**

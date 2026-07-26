@@ -132,4 +132,4 @@ isBali Bali Travel Agency offers professional, flexible service with a Taiwan-ba
 #### Or add us on Facebook Messenger:
 
 [https://www.facebook.com/isbali.fb](https://www.facebook.com/isbali.fb). 
- BLOCK0 
+{{block:isbali2}}

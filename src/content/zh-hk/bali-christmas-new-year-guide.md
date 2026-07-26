@@ -381,4 +381,4 @@ Kuta 海灘旁邊嘅 Beachwalk 購物中心每年聖誕都會整巨型聖誕樹�
 
 唔使擔心！我哋提供咗60個峇里島落雨天嘅活動備案。請睇[呢度](/zh-hk/blog/2026-bali-indoor-activities/)。
   ---
- BLOCK0 
+{{block:親子}}

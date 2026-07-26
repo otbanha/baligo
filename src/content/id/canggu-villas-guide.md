@@ -625,5 +625,5 @@ Domisili Villa Canggu Bali By Fays Hospitality terkenal dengan fasilitas luas, f
 - Liburan Keluarga: [Rekomendasi 13 Resort Keluarga di Bali｜Kuta, Seminyak, Canggu, Jimbaran, Uluwatu Pilihan Terbaik untuk Liburan Keluarga dan Santai](/id/blog/bali-family-resorts-kids-club/)
 - Akomodasi Keluarga: Untuk villa keluarga di Canggu, cek [Rekomendasi Villa Keluarga 3/4/5 Kamar Tidur atau Lebih](/id/blog/bali-group-villa-stay/)
 
- BLOCK0 
- BLOCK1 
+{{block:canggu}}
+{{block:住宿}}

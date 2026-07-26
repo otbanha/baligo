@@ -212,5 +212,5 @@ This Indigo isn't just comfortable to stay in—it's fun to stay in. It's the ki
 **▶**[**Hotel Indigo Bali Seminyak Beach Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed) **▶**[**Check on Trip.com**](https://hk.trip.com/hotels/bali-hotel-detail-7599479/hotel-indigo-bali-seminyak-beach-by-ihg/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 
- BLOCK1 
- BLOCK2 
+{{block:smkbeachstay}}
+{{block:住宿}}

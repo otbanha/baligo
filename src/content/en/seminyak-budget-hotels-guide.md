@@ -121,5 +121,5 @@ favehotel Sunset Seminyak—this stylish budget hotel is just a 5-minute drive f
 
 Whether you love sun, sand, or shopping and entertainment, this accommodation guide offers plenty of choices to make your Bali trip unforgettable. Don’t forget to click the links above to explore details on these budget-friendly stays and get fully prepared for your Bali adventure!
 
- BLOCK0 
- BLOCK1 
+{{block:smk}}
+{{block:住宿}}
