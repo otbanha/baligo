@@ -86,14 +86,21 @@ export async function onRequestGet(context) {
   }
 
   // ── 總瀏覽量模式（預設）────────────────────────────────────────────────────
-  const list = await env.PAGEVIEW_KV.list({ prefix: PREFIX, limit: 1000 });
-  const results = list.keys
-    .map(({ name, metadata }) => ({
-      slug: name.slice(PREFIX.length),
-      views: (metadata && metadata.views) || 0,
-    }))
-    .filter(r => r.views > 0)
-    .sort((a, b) => b.views - a.views);
+  // KV list() 單次上限 1000 把 key，且以字典序回傳。pv: key 數已超過 1000，
+  // 若不分頁，字典序排在截斷點之後的 slug 會整批消失（在索引頁顯示 0 次）。
+  const entries = [];
+  let cursor;
+  for (let page = 0; page < 20; page++) {
+    const list = await env.PAGEVIEW_KV.list({ prefix: PREFIX, limit: 1000, cursor });
+    for (const { name, metadata } of list.keys) {
+      const views = (metadata && metadata.views) || 0;
+      if (views > 0) entries.push({ slug: name.slice(PREFIX.length), views });
+    }
+    if (list.list_complete || !list.cursor) break;
+    cursor = list.cursor;
+  }
+
+  const results = entries.sort((a, b) => b.views - a.views);
 
   return Response.json(results, {
     headers: { 'Cache-Control': 'no-store' },
