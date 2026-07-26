@@ -270,12 +270,15 @@ const categories = Array.from(allCats).sort();
         if (!res.ok) throw new Error('API error');
         const data = await res.json(); // [{ slug, views }]
 
-        // Set date range badge
-        const today = new Date();
-        const weekAgo = new Date(today);
-        weekAgo.setDate(weekAgo.getDate() - 6);
-        const fmt = d => `${d.getMonth() + 1}/${d.getDate()}`;
-        rankDateRange.textContent = `${fmt(weekAgo)} – ${fmt(today)}`;
+        // Set date range badge — 換日基準要跟 /api/pageview 一致（UTC+7），
+        // 否則用瀏覽器本地時間算會跟實際統計區間差一天
+        const TZ_OFFSET_MS = 7 * 60 * 60 * 1000;
+        const now = Date.now();
+        const fmt = ms => {
+          const d = new Date(ms + TZ_OFFSET_MS);
+          return `${d.getUTCMonth() + 1}/${d.getUTCDate()}`;
+        };
+        rankDateRange.textContent = `${fmt(now - 6 * 86400000)} – ${fmt(now)}`;
 
         const top10 = data.slice(0, 10);
         if (!top10.length) {
