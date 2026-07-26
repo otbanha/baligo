@@ -10,6 +10,11 @@ const DAY = `strftime('%Y-%m-%d', created_at/1000, 'unixepoch')`;
 const EXPECTED_MARKER = '654252';
 const RETENTION_DAYS = 90;
 
+// The same table also stores forum-funnel clicks, which earn nothing and are
+// never rewritten by Drive. Keep them out of every affiliate aggregate — above
+// all out of not_rewritten, where they would bury the real attribution leak.
+const AFFILIATE = `program != 'forum'`;
+
 function json(data, status = 200) {
   return new Response(JSON.stringify(data, null, 2), {
     status,
@@ -30,22 +35,22 @@ export async function onRequestGet(context) {
   const days = Math.min(Math.max(parseInt(url.searchParams.get('days') ?? '14', 10) || 14, 1), 90);
   const since = Date.now() - days * 86400_000;
 
-  let daily, byProgram, byClient, badMarker, notRewritten, topPaths;
+  let daily, byProgram, byClient, badMarker, notRewritten, topPaths, forumDaily, forumPaths;
   try {
-    [daily, byProgram, byClient, badMarker, notRewritten, topPaths] = await Promise.all([
+    [daily, byProgram, byClient, badMarker, notRewritten, topPaths, forumDaily, forumPaths] = await Promise.all([
       env.DB.prepare(
         `SELECT ${DAY} AS day, COUNT(*) AS clicks
-           FROM affiliate_clicks WHERE created_at > ?
+           FROM affiliate_clicks WHERE created_at > ? AND ${AFFILIATE}
           GROUP BY day ORDER BY day`
       ).bind(since).all(),
       env.DB.prepare(
         `SELECT ${DAY} AS day, program, COUNT(*) AS clicks
-           FROM affiliate_clicks WHERE created_at > ?
+           FROM affiliate_clicks WHERE created_at > ? AND ${AFFILIATE}
           GROUP BY day, program ORDER BY day, program`
       ).bind(since).all(),
       env.DB.prepare(
         `SELECT client, COUNT(*) AS clicks
-           FROM affiliate_clicks WHERE created_at > ?
+           FROM affiliate_clicks WHERE created_at > ? AND ${AFFILIATE}
           GROUP BY client ORDER BY clicks DESC`
       ).bind(since).all(),
       // Drive rewrote the link but stamped a marker that is not ours.
@@ -60,13 +65,25 @@ export async function onRequestGet(context) {
       // Drive misses one intermittently, so watch this as a rate, not a binary.
       env.DB.prepare(
         `SELECT program, COUNT(*) AS clicks
-           FROM affiliate_clicks WHERE created_at > ? AND rewritten = 0
+           FROM affiliate_clicks WHERE created_at > ? AND rewritten = 0 AND ${AFFILIATE}
           GROUP BY program ORDER BY clicks DESC`
       ).bind(since).all(),
       env.DB.prepare(
         `SELECT path, COUNT(*) AS clicks
-           FROM affiliate_clicks WHERE created_at > ?
+           FROM affiliate_clicks WHERE created_at > ? AND ${AFFILIATE}
           GROUP BY path ORDER BY clicks DESC LIMIT 20`
+      ).bind(since).all(),
+      // Forum funnel (article → phpBB), reported apart from the affiliate
+      // numbers so it cannot inflate the totals compared against Travelpayouts.
+      env.DB.prepare(
+        `SELECT ${DAY} AS day, COUNT(*) AS clicks
+           FROM affiliate_clicks WHERE created_at > ? AND program = 'forum'
+          GROUP BY day ORDER BY day`
+      ).bind(since).all(),
+      env.DB.prepare(
+        `SELECT path, COUNT(*) AS clicks
+           FROM affiliate_clicks WHERE created_at > ? AND program = 'forum'
+          GROUP BY path ORDER BY clicks DESC LIMIT 10`
       ).bind(since).all(),
     ]);
   } catch (err) {
@@ -92,6 +109,11 @@ export async function onRequestGet(context) {
     wrong_marker: badMarker.results ?? [],
     not_rewritten: notRewritten.results ?? [],
     top_paths: topPaths.results ?? [],
+    forum: {
+      total_clicks: (forumDaily.results ?? []).reduce((n, r) => n + r.clicks, 0),
+      daily: forumDaily.results ?? [],
+      top_paths: forumPaths.results ?? [],
+    },
   };
 
   if (url.searchParams.get('format') !== 'text') return json(report);
@@ -127,6 +149,15 @@ export async function onRequestGet(context) {
         ? report.wrong_marker.map((r) => `${r.marker}=${r.clicks}`).join('  ')
         : `none (all ${EXPECTED_MARKER})`)
   );
+
+  // Forum funnel, kept visually apart from the affiliate table above.
+  lines.push('', `forum clicks (article → phpBB): ${report.forum.total_clicks}`);
+  if (report.forum.top_paths.length) {
+    lines.push('top forum-referring pages:');
+    for (const r of report.forum.top_paths) {
+      lines.push(`  ${pad(r.clicks, 6)}  ${r.path}`);
+    }
+  }
 
   return new Response(lines.join('\n'), {
     status: 200,

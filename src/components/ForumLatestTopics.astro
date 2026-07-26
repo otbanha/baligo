@@ -1,14 +1,18 @@
 ---
 // forumId: scope the widget to a single phpBB board (e.g. per blog-category
 // discussion board) instead of the site-wide "latest posts" feed.
+//
+// The widget has two jobs: show that the forum is alive (topic list), and give
+// the reader somewhere to go with a question (ask button). The ask button lands
+// on phpBB's login/register wall for guests — that wall IS the signup funnel.
 const { lang = 'zh-tw', forumId, title, cta } = Astro.props;
 
-const i18n: Record<string, { title: string; more: string; loading: string }> = {
-  'zh-tw': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯' },
-  'zh-hk': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯' },
-  'zh-cn': { title: '峇里岛讨论区', more: '前往讨论区 →', loading: '载入中⋯' },
-  'en':    { title: 'Community Forum', more: 'Visit forum →', loading: 'Loading⋯' },
-  'id':    { title: 'Forum Komunitas', more: 'Kunjungi forum →', loading: 'Memuat⋯' },
+const i18n: Record<string, { title: string; more: string; loading: string; ask: string; empty: string }> = {
+  'zh-tw': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯', ask: '✍️ 我要發問', empty: '這個版還沒有討論，來當第一個發問的人' },
+  'zh-hk': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯', ask: '✍️ 我要發問', empty: '這個版還沒有討論，來當第一個發問的人' },
+  'zh-cn': { title: '峇里岛讨论区', more: '前往讨论区 →', loading: '载入中⋯', ask: '✍️ 我要发问', empty: '这个版还没有讨论，来当第一个发问的人' },
+  'en':    { title: 'Community Forum', more: 'Visit forum →', loading: 'Loading⋯', ask: '✍️ Ask a question', empty: 'No discussions yet — be the first to ask.' },
+  'id':    { title: 'Forum Komunitas', more: 'Kunjungi forum →', loading: 'Memuat⋯', ask: '✍️ Ajukan pertanyaan', empty: 'Belum ada diskusi — jadilah yang pertama bertanya.' },
 };
 const t = i18n[lang] ?? i18n['zh-tw'];
 const widgetTitle = title || t.title;
@@ -17,6 +21,16 @@ const forumUrl = forumId
   ? `https://community.gobaligo.id/viewforum.php?f=${forumId}`
   : 'https://community.gobaligo.id/';
 const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
+
+// Without a board id phpBB's posting.php has nowhere to post, so fall back to
+// the forum index and let the reader pick a board.
+const askUrl = forumId
+  ? `https://community.gobaligo.id/posting.php?mode=post&f=${forumId}`
+  : 'https://community.gobaligo.id/';
+
+// phpBB runs a single Traditional Chinese instance. Sending en/id readers into
+// a Chinese registration flow wastes the click, so they get the list only.
+const showAsk = lang !== 'en' && lang !== 'id';
 ---
 
 <div class="flt-widget">
@@ -27,6 +41,10 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
   <ul id="flt-list" class="flt-list">
     <li class="flt-loading">{t.loading}</li>
   </ul>
+  <p id="flt-empty" class="flt-empty" hidden>{t.empty}</p>
+  {showAsk && (
+    <a href={askUrl} class="flt-ask" target="_blank" rel="noopener">{t.ask}</a>
+  )}
 </div>
 
 <script define:vars={{ apiUrl }}>
@@ -34,12 +52,18 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
   const list = document.getElementById('flt-list');
   if (!list) return;
 
+  const showEmpty = () => {
+    list.innerHTML = '';
+    const empty = document.getElementById('flt-empty');
+    if (empty) empty.hidden = false;
+  };
+
   try {
     const res = await fetch(apiUrl);
     const data = await res.json();
     const topics = data.topics || [];
 
-    if (topics.length === 0) { list.innerHTML = ''; return; }
+    if (topics.length === 0) { showEmpty(); return; }
 
     function sanitize(str) {
       const d = document.createElement('div');
@@ -56,15 +80,15 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
       </li>`).join('');
 
   } catch {
-    list.innerHTML = '';
+    showEmpty();
   }
 })();
 </script>
 
 <style is:global>
 .flt-widget {
-  background: #f5f8fc;
-  border: 1px solid #c9d6e8;
+  background: #FAF6F1;
+  border: 1px solid #E3D5C3;
   border-radius: 12px;
   padding: .9rem 1.1rem;
   margin-bottom: 1.2rem;
@@ -79,7 +103,7 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
 .flt-title {
   font-size: .85rem;
   font-weight: 700;
-  color: #1A365D;
+  color: var(--ocean, #3E2723);
   letter-spacing: .01em;
   white-space: nowrap;
   overflow: hidden;
@@ -89,7 +113,7 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
 }
 .flt-more {
   font-size: .75rem;
-  color: #9c7a3f;
+  color: var(--ocean-light, #9A6447);
   text-decoration: none;
   white-space: nowrap;
   flex-shrink: 0;
@@ -103,12 +127,20 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
 }
 .flt-loading {
   font-size: .82rem;
-  color: #5b7194;
+  color: var(--text-light, #7B5038);
   padding: .3rem 0;
 }
 
+.flt-empty {
+  font-size: .82rem;
+  color: var(--text-light, #7B5038);
+  margin: 0;
+  padding: .3rem 0;
+  line-height: 1.5;
+}
+
 .flt-item {
-  border-bottom: 1px solid #c9d6e8;
+  border-bottom: 1px solid #E3D5C3;
 }
 .flt-item:last-child { border-bottom: none; }
 
@@ -120,7 +152,7 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
   text-decoration: none;
   color: inherit;
 }
-.flt-link:hover .flt-post-title { color: #1A365D; text-decoration: underline; }
+.flt-link:hover .flt-post-title { color: var(--ocean, #3E2723); text-decoration: underline; }
 
 .flt-icon {
   width: 14px;
@@ -132,7 +164,7 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
 .flt-post-title {
   font-size: .82rem;
   font-weight: 500;
-  color: #2c4a6e;
+  color: var(--ocean-mid, #7B5038);
   line-height: 1.4;
   white-space: normal;
   overflow-wrap: break-word;
@@ -144,4 +176,22 @@ const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
   min-width: 0;
 }
 
+.flt-ask {
+  display: block;
+  margin-top: .8rem;
+  background: var(--gold, #C5A059);
+  color: var(--ocean, #3E2723);
+  font-weight: 800;
+  font-size: .85rem;
+  text-align: center;
+  padding: .6em 1.2em;
+  border-radius: 99px;
+  text-decoration: none;
+  transition: background .15s, transform .1s;
+}
+.flt-ask:hover {
+  background: var(--gold-light, #d4b47a);
+  color: var(--ocean, #3E2723);
+  transform: translateY(-1px);
+}
 </style>
