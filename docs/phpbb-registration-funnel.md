@@ -56,6 +56,40 @@ ACP → 一般 → 客戶端通訊 → **電子郵件設定**
 ⚠️ 寄件位址**必須是 `@gobaligo.id`**。用 `@community.gobaligo.id` 會失去 DKIM 對齊，
 因為 Resend 驗證的是 `gobaligo.id`。
 
+#### ⚠️⚠️ 只改上面這一頁不夠：From 是另一個設定
+
+**這一項是實測踩到的坑。** phpBB 的 `From` 標頭與信封寄件人來自**兩個不同的設定值**
+（`includes/functions_messenger.php`）：
+
+```php
+$headers[] = 'From: ' . $this->from;                          // ← board_contact
+$headers[] = 'Return-Path: <' . $config['board_email'] . '>'; // ← board_email
+$headers[] = 'Sender: <' . $config['board_email'] . '>';      // ← board_email
+```
+
+上面那張表設的是 `board_email`，只會改到 `Return-Path` / `Sender`。
+`From` 吃的是 **ACP → 一般 → 板面設定 → 聯絡人電子郵件位址**（`board_contact`）。
+
+只要 `board_contact` 還是 `@gmail.com`，Resend 會在 DATA 結束後直接拒收：
+
+```
+550 This API key is not authorized to send emails from gmail.com
+```
+
+前面的連線、STARTTLS、AUTH、MAIL FROM、RCPT TO 全都會顯示成功，**只有最後一步失敗**，
+所以很容易誤判成「SMTP 沒設好」。
+
+**修法**：ACP → 一般 → 板面設定 → 聯絡人電子郵件位址，改成 `@gobaligo.id` 的位址。
+
+> 但注意 `board_contact` 同時也是「聯絡管理員」表單的收件位址，而 `gobaligo.id` 根網域
+> **目前沒有 MX 記錄，收不到信**。若直接填 `noreply@gobaligo.id`，寄信會通，
+> 但使用者回信或透過聯絡表單寄來的信會石沉大海。
+>
+> 完整解法是開 **Cloudflare Email Routing**，建一個 `hello@gobaligo.id` 轉發到你的 Gmail，
+> 再把 `board_contact` 設成它。這樣寄得出去、也收得回來。
+> （Email Routing 會在根網域加 MX，不影響 Resend —— Resend 的退信走的是 `send.gobaligo.id`
+> 自己的 MX，兩者獨立。）
+
 #### 要另外建一把新的 API key
 
 Resend 的 API key **建立後就再也看不到值**（官方設計，不是遺失），所以現有那把取不回來。
@@ -78,6 +112,23 @@ Resend 後台 → API Keys → Create API Key
 日後若要輪替，順序是：先建新的 → 換掉使用端 → 確認正常 → 才撤銷舊的。
 
 改完在 ACP 用「寄送測試信」或直接跑一次忘記密碼流程，確認信有進收件匣（不是垃圾桶）。
+
+### ①-b 撈回已經卡住的未啟用帳號
+
+修好寄信後**先做這件事再往下走**。
+
+實測忘記密碼時，重設連結是 `?u=74` —— 代表 phpBB 的 user_id 已經發到 74 號，
+但討論區首頁顯示「總共有 10 位會員」。扣掉 Anonymous 與 phpBB 預設的十來個 bot 帳號，
+中間仍有**數十筆帳號被建立但沒有成為會員**。這與「驗證信寄不到」的診斷完全吻合：
+這些是真的想加入、卻收不到啟用信的人。
+
+**ACP → 使用者與群組 → 管理使用者 → 篩選「未啟用」**
+
+- 先用肉眼掃一遍使用者名稱與 email，明顯是機器人的（亂碼帳號、可疑網域）跳過
+- 其餘手動啟用。phpBB 在管理員啟用帳號時會寄出「您的帳號已啟用」通知，
+  **而這封信現在寄得出去了** —— 等於把過去流失的人重新叫回來一次
+
+⚠️ 順序很重要：**一定要先修好 From 設定再啟用**，否則通知信一樣寄不到，這批人就白白用掉了。
 
 ### ② 帳號啟用改為「不需啟用」
 
