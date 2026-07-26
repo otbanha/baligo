@@ -49,12 +49,33 @@ ACP → 一般 → 客戶端通訊 → **電子郵件設定**
 | SMTP 連接埠 | `587` |
 | 認證方式 | PLAIN（或 LOGIN） |
 | SMTP 使用者名稱 | `resend` ← 字面上就是這五個字，不是你的帳號 |
-| SMTP 密碼 | 你的 Resend API key（`re_` 開頭），與 `RESEND_API_KEY` 同一把 |
+| SMTP 密碼 | **新建一把** Resend API key（見下方） |
 | 寄件者信箱位址 | `noreply@gobaligo.id` |
 | 寄件者名稱 | 峇里島討論區 |
 
 ⚠️ 寄件位址**必須是 `@gobaligo.id`**。用 `@community.gobaligo.id` 會失去 DKIM 對齊，
 因為 Resend 驗證的是 `gobaligo.id`。
+
+#### 要另外建一把新的 API key
+
+Resend 的 API key **建立後就再也看不到值**（官方設計，不是遺失），所以現有那把取不回來。
+**但絕對不要撤銷或重設它** —— Cloudflare Pages 正式環境的 `RESEND_API_KEY` 還在用它寄週報
+（`functions/api/weekly-report.js`），撤掉週報就停了。
+
+正確做法是**新增一把專給 phpBB 用的**：
+
+Resend 後台 → API Keys → Create API Key
+
+| 欄位 | 建議值 |
+|---|---|
+| Name | `phpbb-smtp` |
+| Permission | **Sending access**（只給寄信權限，不要 Full access） |
+| Domain | `gobaligo.id`（限定網域，之後外洩也只能寄這個網域） |
+
+建好後畫面會顯示一次完整的 `re_...` 字串，**當下就複製**，直接貼進上表的 SMTP 密碼欄。
+兩把 key 可以並存互不影響，Cloudflare 那邊完全不用動。
+
+日後若要輪替，順序是：先建新的 → 換掉使用端 → 確認正常 → 才撤銷舊的。
 
 改完在 ACP 用「寄送測試信」或直接跑一次忘記密碼流程，確認信有進收件匣（不是垃圾桶）。
 
