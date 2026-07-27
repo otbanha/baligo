@@ -17,3 +17,5 @@ randomCount: 10
 - [🦒【峇里島豪華親子團】與動物共眠：入住野生動物園飯店，6D5N NT23,833](/blog/2026-03-29-023447/)
 - 👩‍❤️‍👨[【入住Ayana：專屬兩人的海島私奔】峇里島 × 佩妮達島浪漫輕奢6日遊](/blog/bali-romance-tour/)
 - 💥[ Ayana超殺優惠 NT$5,833 起](/blog/Ayana-promo-2026/)
+- ✈️[【機加酒超划算】星宇航空直飛峇里島 × 阿雅娜渡假村，三天二夜 NT$23,833 起](https://gobaligo.id/blog/starlux-ayana-bali-package-2026/)
+- 🏖️ [峇里島Ayana + 科摩多Ayana四晚奢華之旅](https://gobaligo.id/blog/komodo-bali-double-ayana-luxury-tour/)
