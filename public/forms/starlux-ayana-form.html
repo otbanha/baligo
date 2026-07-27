@@ -222,6 +222,10 @@
            style="font-size:10px;font-weight:500;letter-spacing:0.1em;color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(201,168,76,0.4);padding-bottom:1px;text-transform:uppercase;margin-left:2px;"></a>
       </div>
       <div class="room-grid" id="roomGrid"></div>
+      <div class="field" style="margin-top:10px;">
+        <label class="field-label" id="lbl_custom_room" style="display:flex;align-items:center;gap:6px;"></label>
+        <input type="text" name="custom_room" id="customRoomInput">
+      </div>
     </div>
 
     <!-- 6. 其他需求 -->
@@ -283,7 +287,7 @@ const T = {
     sec1:'去返航班日期', sec2:'入住日期', sec3:'入住人數', sec4:'需求床型',
     sec5:'指定房型', sec6:'其他需求', sec7:'聯絡方式', sec8:'入住日加購',
     agodaLink:'查看房型照片 ↗',
-    flightNote:'⚠ 星宇航空每週二、四、五、日飛峇里島，不開放週三及週六',
+    flightNote:'⚠ 星宇航空每週一、二、四、五、日飛峇里島，不開放週三及週六',
     lbl_flight_depart:'去程日期', lbl_flight_return:'回程日期',
     lbl_checkin:'入住', lbl_checkout:'退房',
     lbl_adults:'大人', lbl_children:'小孩（12 歲以下）', lbl_childages:'各小孩年齡',
@@ -303,17 +307,10 @@ const T = {
     childrenOpts: ['無','1 位','2 位','3 位','4 位'],
     childLabel: ['第一位小孩','第二位小孩','第三位小孩','第四位小孩'],
     ages: ['未滿 1 歲','1 歲','2 歲','3 歲','4 歲','5 歲','6 歲','7 歲','8 歲','9 歲','10 歲','11 歲','12 歲'],
-    beds: ['一大床','兩張床','一大床＋一張床','兩張床＋一張床'],
+    beds: ['一大床','兩張單人床','一大床＋一張單人床'],
     roomBadge:'推薦', roomBest:'幫我選最優惠房型',
-    rooms:[
-      ['Wana 景觀房','Wana Resort View Room'],
-      ['Wana 園景房','Wana Garden View Room'],
-      ['金巴蘭灣景房','Jimbaran Bay Room'],
-      ['Wana 海景房','Wana Ocean View Room'],
-      ['直通泳池房','Pool Access Room'],
-      ['度假村景觀套房','Resort View Suite'],
-      ['Wana 直通泳池房','Wana Pool Access Room'],
-    ],
+    rooms:[],
+    lbl_custom_room:'填入指定房型', ph_custom_room:'房型名稱（選填）',
     addons: [
       {
         day: 'Day 1', price: '+NT$1,100',
@@ -347,7 +344,7 @@ const T = {
     sec1:'去返航班日期', sec2:'入住日期', sec3:'入住人数', sec4:'床型需求',
     sec5:'指定房型', sec6:'其他需求', sec7:'联系方式', sec8:'入住日加购',
     agodaLink:'查看房型照片 ↗',
-    flightNote:'⚠ 星宇航空每周二、四、五、日飞巴厘岛，不开放周三及周六',
+    flightNote:'⚠ 星宇航空每周一、二、四、五、日飞巴厘岛，不开放周三及周六',
     lbl_flight_depart:'去程日期', lbl_flight_return:'回程日期',
     lbl_checkin:'入住', lbl_checkout:'退房',
     lbl_adults:'成人', lbl_children:'儿童（12 岁以下）', lbl_childages:'各儿童年龄',
@@ -367,17 +364,10 @@ const T = {
     childrenOpts: ['无','1 位','2 位','3 位','4 位'],
     childLabel: ['第一位儿童','第二位儿童','第三位儿童','第四位儿童'],
     ages: ['不足 1 岁','1 岁','2 岁','3 岁','4 岁','5 岁','6 岁','7 岁','8 岁','9 岁','10 岁','11 岁','12 岁'],
-    beds: ['一张大床','两张单床','一张大床＋一张单床','两张单床＋一张单床'],
+    beds: ['一張大床','兩張單人床','一張大床＋一張單人床'],
     roomBadge:'推荐', roomBest:'帮我选最优惠房型',
-    rooms:[
-      ['Wana 景观房','Wana Resort View Room'],
-      ['Wana 园景房','Wana Garden View Room'],
-      ['金巴兰湾景房','Jimbaran Bay Room'],
-      ['Wana 海景房','Wana Ocean View Room'],
-      ['直通泳池房','Pool Access Room'],
-      ['度假村景观套房','Resort View Suite'],
-      ['Wana 直通泳池房','Wana Pool Access Room'],
-    ],
+    rooms:[],
+    lbl_custom_room:'填入指定房型', ph_custom_room:'房型名称（选填）',
     addons: [
       {
         day: 'Day 1', price: '+NT$1,100',
@@ -412,7 +402,7 @@ const T = {
     sec1:'去返航班日期', sec2:'入住日期', sec3:'入住人數', sec4:'床型需求',
     sec5:'指定房型', sec6:'其他需求', sec7:'聯絡方式', sec8:'入住日加購',
     agodaLink:'睇房型相片 ↗',
-    flightNote:'⚠ 星宇航空每週二、四、五、日飛峇里島，不開放週三及週六',
+    flightNote:'⚠ 星宇航空每週一、二、四、五、日飛峇里島，不開放週三及週六',
     lbl_flight_depart:'去程日期', lbl_flight_return:'回程日期',
     lbl_checkin:'入住', lbl_checkout:'退房',
     lbl_adults:'成人', lbl_children:'小朋友（12 歲以下）', lbl_childages:'各小朋友年齡',
@@ -432,17 +422,10 @@ const T = {
     childrenOpts: ['冇','1 位','2 位','3 位','4 位'],
     childLabel: ['第一位小朋友','第二位小朋友','第三位小朋友','第四位小朋友'],
     ages: ['未足 1 歲','1 歲','2 歲','3 歲','4 歲','5 歲','6 歲','7 歲','8 歲','9 歲','10 歲','11 歲','12 歲'],
-    beds: ['一張大床','兩張單人床','一張大床＋一張單人床','兩張單人床＋一張單人床'],
+    beds: ['一張大床','兩張單人床','一張大床＋一張單人床'],
     roomBadge:'推薦', roomBest:'幫我揀最優惠房型',
-    rooms:[
-      ['Wana 景觀房','Wana Resort View Room'],
-      ['Wana 園景房','Wana Garden View Room'],
-      ['金巴蘭灣景房','Jimbaran Bay Room'],
-      ['Wana 海景房','Wana Ocean View Room'],
-      ['直通泳池房','Pool Access Room'],
-      ['度假村景觀套房','Resort View Suite'],
-      ['Wana 直通泳池房','Wana Pool Access Room'],
-    ],
+    rooms:[],
+    lbl_custom_room:'填入指定房型', ph_custom_room:'房型名稱（選填）',
     addons: [
       {
         day: 'Day 1', price: '+NT$1,100',
@@ -477,7 +460,7 @@ const T = {
     sec1:'Flight Dates', sec2:'Stay Dates', sec3:'Guests', sec4:'Bed Preference',
     sec5:'Room Type', sec6:'Special Requests', sec7:'Contact Details', sec8:'Day Add-ons',
     agodaLink:'View room photos ↗',
-    flightNote:'⚠ Starlux Airlines flies to Bali on Tue, Thu, Fri & Sun. No flights on Wednesday or Saturday.',
+    flightNote:'⚠ Starlux Airlines flies to Bali on Mon, Tue, Thu, Fri & Sun. No flights on Wednesday or Saturday.',
     lbl_flight_depart:'Departure date', lbl_flight_return:'Return date',
     lbl_checkin:'Check-in', lbl_checkout:'Check-out',
     lbl_adults:'Adults', lbl_children:'Children (under 12)', lbl_childages:"Children's ages",
@@ -497,17 +480,10 @@ const T = {
     childrenOpts: ['None','1 child','2 children','3 children','4 children'],
     childLabel: ['1st child','2nd child','3rd child','4th child'],
     ages: ['Under 1','1 yr','2 yrs','3 yrs','4 yrs','5 yrs','6 yrs','7 yrs','8 yrs','9 yrs','10 yrs','11 yrs','12 yrs'],
-    beds: ['One king bed','Two twin beds','King + extra bed','Two twins + extra bed'],
+    beds: ['One king bed','Two twin beds','King bed + single bed'],
     roomBadge:'Best rate', roomBest:'Find me the best available rate',
-    rooms:[
-      ['Wana Resort View Room','Wana Resort View Room'],
-      ['Wana Garden View Room','Wana Garden View Room'],
-      ['Jimbaran Bay Room','Jimbaran Bay Room'],
-      ['Wana Ocean View Room','Wana Ocean View Room'],
-      ['Pool Access Room','Pool Access Room'],
-      ['Resort View Suite','Resort View Suite'],
-      ['Wana Pool Access Room','Wana Pool Access Room'],
-    ],
+    rooms:[],
+    lbl_custom_room:'Enter preferred room type', ph_custom_room:'Room type name (optional)',
     addons: [
       {
         day: 'Day 1', price: '+NT$1,100',
@@ -728,6 +704,9 @@ function setLang(lang) {
   document.getElementById('notesInput').placeholder = t.ph_notes;
   document.getElementById('nameInput').placeholder = t.ph_name;
   document.getElementById('lineInput').placeholder = t.ph_line;
+  document.getElementById('customRoomInput').placeholder = t.ph_custom_room;
+  const lbl_cr = document.getElementById('lbl_custom_room');
+  if (lbl_cr) lbl_cr.innerHTML = `<span>${t.lbl_custom_room}</span><span class="badge-opt">${t.opt}</span>`;
   document.getElementById('submitBtn').textContent = t.submitBtn;
   document.getElementById('submitNote').textContent = t.submitNote;
   document.getElementById('successTitle').textContent = t.successTitle;
@@ -971,7 +950,7 @@ function buildSummary(data, t) {
     `[${k.child_ages}] ${get('child_ages')}`,
     '',
     `[${k.bed}] ${get('bed')}`,
-    `[${k.room}] ${get('room')}`,
+    `[${k.room}] ${get('room')}${get('custom_room') ? ' — ' + get('custom_room') : ''}`,
     '',
     `[${k.addons}] ${get('addons')}`,
     `[${k.notes}] ${get('notes')}`,
