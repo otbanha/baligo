@@ -1,0 +1,49 @@
+# robots.txt for community.gobaligo.id (phpBB 3.3)
+#
+# 部署位置：phpBB 根目錄，也就是 https://community.gobaligo.id/robots.txt
+# 這個 repo 沒有論壇的部署流程，需手動 FTP 上傳（與 forum-theme 相同）。
+#
+# 目的：擋掉 phpBB 會無限產生的 URL 組合（session id、搜尋、排序參數），
+# 這些是爬蟲負載的主要來源。討論串本身仍然開放收錄 —— 論壇內容是 SEO 資產，
+# 不要整站封鎖。
+
+User-agent: *
+
+# 後台與系統檔案
+Disallow: /adm/
+Disallow: /cache/
+Disallow: /cron.php
+Disallow: /includes/
+Disallow: /install/
+Disallow: /store/
+Disallow: /vendor/
+Disallow: /style.php
+Disallow: /download/
+
+# 需登入或無收錄價值的動態頁
+Disallow: /ucp.php
+Disallow: /mcp.php
+Disallow: /posting.php
+Disallow: /report.php
+Disallow: /search.php
+Disallow: /memberlist.php
+Disallow: /viewonline.php
+Disallow: /app.php/user/
+
+# 爬蟲陷阱：session id 與排序/檢視參數會讓同一頁產生無限變體
+Disallow: /*sid=
+Disallow: /*&start=
+Disallow: /*?st=
+Disallow: /*&st=
+Disallow: /*?sk=
+Disallow: /*&sk=
+Disallow: /*?sd=
+Disallow: /*&sd=
+Disallow: /*?hilit=
+Disallow: /*&hilit=
+
+# 討論串與版面維持開放
+Allow: /viewtopic.php
+Allow: /viewforum.php
+
+Sitemap: https://community.gobaligo.id/app.php/feed
