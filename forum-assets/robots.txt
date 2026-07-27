@@ -3,11 +3,15 @@
 # 部署位置：phpBB 根目錄，也就是 https://community.gobaligo.id/robots.txt
 # 這個 repo 沒有論壇的部署流程，需手動 FTP 上傳（與 forum-theme 相同）。
 #
-# 目的：擋掉 phpBB 會無限產生的 URL 組合（session id、搜尋、排序參數），
-# 這些是爬蟲負載的主要來源。討論串本身仍然開放收錄 —— 論壇內容是 SEO 資產，
-# 不要整站封鎖。
+# 目的：擋掉 phpBB 會無限產生的重複 URL（session id、排序參數），
+# 以及需登入或無收錄價值的動態頁。討論串與版面維持開放 —— 論壇內容是 SEO 資產。
+#
+# 注意：robots.txt 只約束遵守規則的爬蟲，對真人訪客完全沒有影響。
 
 User-agent: *
+
+# 共享主機，降低併發抓取速度（Bing / Yandex 等會遵守；Google 忽略此指令）
+Crawl-delay: 10
 
 # 後台與系統檔案
 Disallow: /adm/
@@ -30,15 +34,16 @@ Disallow: /memberlist.php
 Disallow: /viewonline.php
 Disallow: /app.php/user/
 
-# 爬蟲陷阱：session id 與排序/檢視參數會讓同一頁產生無限變體
+# 爬蟲陷阱：session id 與排序參數會讓同一頁產生無限個重複變體。
+# 刻意不擋 start=（分頁）—— 這個站沒有 sitemap，收錄完全靠爬連結，
+# 擋掉分頁會讓未來第二頁以後的主題永遠不被發現。
 Disallow: /*sid=
-Disallow: /*&start=
-Disallow: /*?st=
-Disallow: /*&st=
 Disallow: /*?sk=
 Disallow: /*&sk=
 Disallow: /*?sd=
 Disallow: /*&sd=
+Disallow: /*?st=
+Disallow: /*&st=
 Disallow: /*?hilit=
 Disallow: /*&hilit=
 
@@ -46,4 +51,6 @@ Disallow: /*&hilit=
 Allow: /viewtopic.php
 Allow: /viewforum.php
 
-Sitemap: https://community.gobaligo.id/app.php/feed
+# 沒有 Sitemap 指令：這個 phpBB 未安裝 sitemap 擴充套件，
+# /sitemap.xml、/sitemap_index.xml、/app.php/sitemap.xml 實測皆為 404。
+# 之後若裝了 sitemap 擴充，記得回來補上 Sitemap: 那一行。
