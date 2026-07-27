@@ -3,10 +3,10 @@ title: 【2026 峇里島交通公告】7月1日起包車價格調整通知：司
 slug: bali-car-charter-rates-2026
 description: >-
   Pengumuman resmi dari tim driver lokal Bali. Mulai 1 Juli 2026, harga layanan
-  sewa mobil di seluruh pulau akan mengalami penyesuaian kecil. Artikel ini
+  sewa mobil keliling pulau akan mengalami penyesuaian kecil. Artikel ini
   mengungkap secara lengkap daftar harga terbaru untuk berbagai tipe kendaraan
-  (5-seater hemat, ruang lega nyaman, bus grup), biaya overtime, dan detail
-  biaya tambahan antar zona.
+  (5-seater super worth it, ruang lega nyaman, bus grup), biaya overtime, serta
+  detail biaya tambahan lintas zona.
 pubDate: 2026-06-13T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 18
@@ -31,32 +31,34 @@ embeds: []
 lang: id
 _srcHash: PENDING_RETRY_cc97113547da646067c5977d5fdf6181
 ---
-**Kesimpulan dulu ya**: Mulai 1 Juli 2026 (berlaku untuk perjalanan setelah tanggal itu), harga sewa mobil di Bali **tetap sama seperti sebelumnya**, cuma ditambah biaya 'subsidi bensin' tetap per trip — **setengah hari IDR 50.000, seharian IDR 100.000**. Tujuannya biar penumpang jarak pendek atau antar-jemput bandara nggak kena dampak kenaikan harga, dan kalau harga bensin turun nanti subsidi ini bisa fleksibel diturunkan.
+**Kesimpulan dulu ya**：Mulai 1 Juli 2026 (berlaku untuk perjalanan setelah tanggal tersebut), harga sewa mobil di Bali **tetap sama seperti harga asli**, cuma ditambah biaya "subsidi BBM" tetap per perjalanan — **setengah hari IDR 50.000, sehari penuh IDR 100.000**. Tujuannya biar penumpang jarak pendek/layanan antar-jemput bandara nggak kena dampak kenaikan harga, dan kalau harga BBM turun nanti subsidi ini bisa fleksibel diturunkan.
 
-### 📢 Pengumuman dari Tim Driver Bali: Penyesuaian Harga Sewa Mobil dengan Sopir (Berlaku Mulai 1 Juli 2026)
+### 📢 Pengumuman dari Tim Driver Bali: Penyesuaian Harga Layanan Sewa Mobil (Berlaku Mulai 1 Juli 2026)
 
-> Kami putuskan: tarif kendaraan tetap, setiap perjalanan dikenakan biaya tambahan bahan bakar – tetap melayani kalian semua
+> Kami putuskan: tarif kendaraan tetap sama, setiap perjalanan dikenakan biaya tambahan bahan bakar – tetap melayani kalian semua
 
-Halo, para traveler!
+Halo, teman-teman traveler!
 
-Kami adalah sekumpulan driver yang menyediakan layanan sewa mobil di Bali. Beberapa tahun ini, **Rupiah terus melemah**, ditambah **harga minyak global yang naik terus**, bensin harian, perawatan mobil, bahkan biaya hidup kami jadi semakin berat. Setelah diskusi dan musyawarah bersama, kami memutuskan mulai **1 Juli 2026**, menerapkan sistem **
+Kami adalah sekumpulan driver yang menyediakan layanan sewa mobil di Bali. Beberapa tahun ini, **nilai tukar Rupiah terus melemah**, ditambah **harga minyak global yang naik terus**, bensin, perawatan mobil, bahkan biaya hidup sehari-hari jadi berat banget buat kami. Setelah diskusi dan musyawarah bareng, kami memutuskan mulai **1 Juli 2026**, akan pakai sistem **
 
-Kami nggak mau langsung naikin harga asli sewa mobil, karena itu nggak adil buat tamu yang pakai jarak pendek atau jemput bandara. Lagian kalau nanti harga bensin turun, repot lagi kalau harus nurunin harga. Jadi, ini cara paling pas buat jaga **beban semua orang** dan **penghidupan kami**.
+Kami nggak mau langsung naikin harga asli sewa mobil, karena itu nggak adil buat tamu yang pakai jarak pendek atau jemput bandara. Lagian, kalau nanti harga bensin turun, bakal repot kalau harus nurunin lagi. Jadi, ini cara paling pas buat **jaga beban kalian** dan **keberlangsungan usaha kami**.
 
 ***
 
-## 🔁 Cara Baru Soal Tarif (Hasil Sepakat Para Driver)
+## 🔁 Sistem Tarif Baru (Keputusan Bersama Para Driver)
 
-- **Harga sewa mobil original**: Tetap sama (sama seperti daftar harga yang diumumkan sebelumnya)
+- **Harga sewa mobil original**: Tetap sama (sesuai daftar harga yang diumumkan sebelumnya)
+- **Tambahan 'Biaya Bensin' per perjalanan**: Dikenakan biaya tetap berdasarkan durasi sewa mobil
+- **Total biaya** = Harga sewa mobil original + Biaya bensin
 
-> Dengan cara ini, kamu tetap bisa lihat tarif asli kendaraan, dan kami juga bisa menutupi biaya bensin yang benar-benar naik. 
+> Dengan cara ini, kamu tetap bisa lihat tarif asli perjalanan, dan kami juga bisa menutupi kenaikan biaya bensin yang sebenarnya. 
 
 ![新的收費方式（由司機們共同決定）](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
 ## 📅 Tanggal Berlaku & Siapa yang Terkena
 
-- **Tanggal berlaku**: Mulai 1 Juli 2026
-- **Siapa yang terkena**: Semua pemesanan dengan **tanggal keberangkatan pada atau setelah 1 Juli 2026**
+- **Tanggal Berlaku**: Mulai 1 Juli 2026
+- **Siapa yang Terkena**: Semua pemesanan dengan **tanggal keberangkatan pada atau setelah 1 Juli 2026**
 
 ***
 
@@ -64,23 +66,23 @@ Kami nggak mau langsung naikin harga asli sewa mobil, karena itu nggak adil buat
 
 Karena:
 
-- Kalau langsung naikin tarif dasar, semua trip kena dampaknya (termasuk yang cuma jarak pendek, cuma ke bandara), nggak adil buat mereka.
-- Harga bensin bisa turun lagi nanti, pakai sistem subsidi lebih fleksibel — kalau harga bensin turun, kami bisa turunkan atau hapus subsidi ini.
-- **Ini kesepakatan mayoritas driver kami** – transparan, simpel, dan semua setuju.
-- Subsidi bensin untuk sewa mobil setengah hari: 50,000 IDR; sewa mobil sehari penuh: 100,000 IDR
+- Kalau langsung naikin tarif dasar, semua perjalanan kena imbasnya (termasuk yang jarak pendek atau cuma ke bandara), itu nggak adil buat mereka.
+- Harga bensin bisa aja turun nanti, jadi pakai sistem subsidi lebih fleksibel. Kalau harga bensin turun, kami juga bisa turunin atau hapus subsidi ini.
+- **Ini hasil kesepakatan mayoritas supir kami** – transparan, simpel, dan semua setuju.
+- Subsidi bensin untuk sewa mobil setengah hari: Rp 50,000; sewa mobil sehari penuh: Rp 100,000
 
 ***
 
-## 📌 Panduan Sewa Mobil & Rekomendasi Driver
+## 📌 Panduan Sewa Mobil & Rekomendasi Supir
 
-- Untuk info lengkap soal sewa mobil (termasuk apa aja, tips, hitungan lembur, dll), cek 👉[**di sini**](/id/blog/bali-private-car-hire-guide/)]
-- Daftar driver rekomendasi paling sering disebut anggota grup & kontaknya, cek 👉[**di sini**](/id/blog/bali-private-car-drivers-guide/)]
+- Untuk info detail soal sewa mobil (termasuk apa aja, tips, hitungan lembur, dll), cek 👉[**di sini**](/id/blog/bali-private-car-hire-guide/)]
+- Daftar supir rekomendasi paling populer dari anggota grup & kontaknya, cek 👉[**di sini**](/id/blog/bali-private-car-drivers-guide/)]
 
 ***
 
 ## 🙏 Makasih Banget Atas Pengertiannya
 
-Kami sadar biaya tambahan ini bikin pengeluaran kamu lebih besar, tapi nilai tukar IDR benar-benar anjlok dan harga bensin naik berkali-kali. Kami tetap ingin menemani perjalanan kamu di Bali dengan **mobil bersih, sopir aman, dan pelayanan ramah**.
+Kami sadar biaya tambahan ini bikin pengeluaran kamu naik, tapi nilai tukar Rupiah memang anjlok banget dan harga bensin udah naik berkali-kali. Kami tetap ingin menemani liburan kamu di Bali dengan **mobil bersih, supir aman, dan pelayanan ramah**.
 
 Kalau ada pertanyaan, langsung aja chat driver yang kamu kenal, kami dengan senang hati bantu jawab.
 
