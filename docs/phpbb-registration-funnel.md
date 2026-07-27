@@ -113,6 +113,28 @@ Resend 後台 → API Keys → Create API Key
 
 改完在 ACP 用「寄送測試信」或直接跑一次忘記密碼流程，確認信有進收件匣（不是垃圾桶）。
 
+### ⚠️ 用「忘記密碼」測試寄信的陷阱
+
+phpBB 3.3 的 `phpbb/ucp/controller/reset_password.php`：
+
+```php
+if (!empty($user_row['reset_token']) && (int) $user_row['reset_token_expiration'] >= time())
+{
+    return $this->helper->message($message);
+}
+```
+
+**同一個帳號只要還有未過期的 reset token，再次請求就直接跳過寄信**，
+但畫面仍然顯示「密碼重設連結已寄出」——完全看不出被擋掉。
+
+token 效期是 `\phpbb\user::get_token_expiration()` 寫死的 **1 天**（`strtotime('+1 day')`，不可設定）。
+
+所以：**同一個帳號 24 小時內只能用忘記密碼測一次**。要反覆測寄信，
+換一個帳號，或改用其他會觸發寄信的動作（例如在 ACP 啟用某個未啟用帳號）。
+
+要讓既有 token 失效，**唯一乾脆的方法是把它用掉**（點連結、設新密碼）；
+再請求一次不會覆寫它，只會什麼都不做。
+
 ### ①-b 撈回已經卡住的未啟用帳號
 
 修好寄信後**先做這件事再往下走**。
