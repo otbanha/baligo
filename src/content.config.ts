@@ -2,15 +2,23 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
+// CMS 日期欄位偶爾會存入無法解析的字串（如 "yyyy-07-Mo"），
+// 若整篇拋錯會讓 astro build 全站失敗；改為該篇當作未設定日期處理。
+const safeDate = z.preprocess((v) => {
+  if (v === '' || v == null) return undefined;
+  const d = new Date(v as string);
+  return isNaN(d.getTime()) ? undefined : v;
+}, z.coerce.date().optional());
+
 const blog = defineCollection({
   loader: glob({ base: './src/content/blog', pattern: '**/*.{md,mdx}' }),
   schema: z.object({
     title: z.string(),
     slug: z.string().optional(),
     description: z.string().optional(),
-    pubDate: z.coerce.date().optional(),
+    pubDate: safeDate,
     pubHour: z.number().optional().catch(undefined),
-    updatedDate: z.coerce.date().optional(),
+    updatedDate: safeDate,
     heroImage: z.string().optional(),
     category: z.union([z.string(), z.array(z.string())]).optional(),
     tags: z.any().optional(),
@@ -52,8 +60,8 @@ const promotions = defineCollection({
 const translatedSchema = z.object({
   title: z.string(),
   description: z.string().optional(),
-  pubDate: z.coerce.date().optional(),
-  updatedDate: z.coerce.date().optional(),
+  pubDate: safeDate,
+  updatedDate: safeDate,
   heroImage: z.string().optional(),
   category: z.union([z.string(), z.array(z.string())]).optional(),
   tags: z.array(z.string()).optional(),
@@ -94,7 +102,7 @@ const qa = defineCollection({
     })).optional(),
     featured: z.boolean().optional(),
     order: z.number().optional(),
-    pubDate: z.coerce.date().optional(),
+    pubDate: safeDate,
   }),
 });
 
