@@ -13,12 +13,12 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-07-27T00:00:00.000Z
+updatedDate: 2026-07-28T00:00:00.000Z
 lang: zh-hk
-_srcHash: a385f518e200bf245060aae5153235ad
+_srcHash: c828a1a27d2733931087916836476855
 ---
 
-**呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook社團網友真實推介嘅中文溝通司機。每個司機名下嘅「網友推介」連結都係可以㩒入去睇嘅原始社團貼文，推介數越多就代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油費，約 10 個鐘）**，聯絡嗰陣記得講低日期、人數同想去嘅區域。
+**呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook社團網友真實推介嘅中文溝通司機。每個司機名下嘅「網友推介」連結都係可以㩒入去睇嘅原始社團貼文，推介數越多就代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油費，約10個鐘）**，聯絡嗰陣記得講低日期、人數同想去嘅區域。
 
 第一頁，有我哋優先推介嘅司機喺[呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
@@ -134,12 +134,6 @@ _srcHash: a385f518e200bf245060aae5153235ad
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
-## （中文司機）Pacung 小鍾
-
-![](https://images.gobaligo.id/vocus/vocus_32cb0be85eaac6e77b9076347e048cf9.png)
-
-👍🏼[網友推薦1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1DqVkKX881/)
-
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
@@ -154,4 +148,4 @@ _srcHash: a385f518e200bf245060aae5153235ad
 
 👈 **返去峇里島自由行終極指南**
 
-想睇晒完整嘅新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做啲乜。
+想睇晒完整嘅新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要準備啲乜。

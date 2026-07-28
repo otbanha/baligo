@@ -28,9 +28,9 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-07-27T00:00:00.000Z
+updatedDate: 2026-07-28T00:00:00.000Z
 lang: zh-cn
-_srcHash: e8ea98beb218e1ad6797502b092e3307
+_srcHash: 12053f256e2d560e333f8fe33d4f60f7
 ---
 
 Update: 2026/07/27
@@ -61,24 +61,15 @@ Update: 2026/07/27
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1785162504497-rock-bar-bali-3-1024x1024.jpeg)
 
-享有 **Rock Bar 优先预约权**，并赠送软性饮料或啤酒一杯（16:00－17:00）。
+享有 **Rock Bar 优先预约权**，并在指定地点赠送软性饮料或啤酒一杯。
 
-### 免费 SPA 或疗愈课程
+### 加码送: 水疗SPA一小时
 
-![raw-image](https://images.gobaligo.id/images/2026-07/1785162885772-sunrise_yoga.jpg)
-
-入住期间可择一体验：
-
-- 1 小时 AYANA SPA
-- 1 小时日出瑜伽
-- 1 小时声音疗愈
-- 1 小时气功团体课
-
-https://www.instagram.com/reel/DXrPEETk42a/?utm_source=ig_web_button_share_sheet
+详情请看[这里](https://www.ayana.com/bali/spa/thalassotherapy-pool/)
 
 ※ 请于入住时向柜台预约。
 
-> 更多 Ayana 亮点请见：[AYANA Resort Bali｜阿雅娜完整攻略](https://gobaligo.id/zh-cn/blog/ayana-resort-bali-guide/)
+> 更多 Ayana 亮点请看：[AYANA Resort Bali｜阿雅娜完整攻略](https://gobaligo.id/zh-cn/blog/ayana-resort-bali-guide/)
 
 ***
 
@@ -106,7 +97,7 @@ https://www.instagram.com/reel/DXrPEETk42a/?utm_source=ig_web_button_share_sheet
 
 如果一直想入住 **AYANA 阿雅娜度假村**，现在正是最佳时机。
 
-**星宇航空往返机票+五星住宿+免费机场接送** 一次搞定，还加赠 Rock Bar 礼遇及 SPA 或疗愈课程，让你的巴厘岛之旅更加轻松、舒适。
+**星宇航空来回机票＋五星住宿＋免费机场接送** 一次搞定，还加赠 Rock Bar 礼遇及 SPA 水疗，让你的巴厘岛之旅更加轻松、舒适。
 
 **欢迎填写下方表单，咨询最新优惠与其他住宿天数、房型方案。**
 
@@ -116,7 +107,7 @@ https://www.instagram.com/reel/DXrPEETk42a/?utm_source=ig_web_button_share_sheet
 
 ### Q1：USD$769 起包含哪些内容？
 
-优惠包含 **星宇航空往返机票、AYANA 阿雅娜度假村住宿两晚、每日早餐、免费机场往返接送，以及全程含税**。另外还享有 Rock Bar 专属礼遇及免费 SPA 或身心疗愈课程（择一）。
+优惠包含 **星宇航空往返机票、AYANA 阿雅娜度假村住宿两晚、每日早餐、免费机场往返接送，以及全程含税**。另外还享有 Rock Bar 专属礼遇及加码享受水疗SPA。
 
 ***
 
@@ -146,31 +137,22 @@ https://www.instagram.com/reel/DXrPEETk42a/?utm_source=ig_web_button_share_sheet
 
 ### Q6：免费机场接送是来回都有吗？
 
-有，本项目包含 **巴厘岛机场至酒店来回专车接送**，抵达后即可轻松前往度假村，回程也无需自行安排交通。
+有，本专案包含 **巴厘岛机场至饭店来回专车接送**，抵达后即可轻松前往度假村，回程也无需自行安排交通。
 
 ***
 
 ### Q7：Rock Bar 专属礼遇包含什么？
 
-入住期间可享 **Rock Bar 优先预约权**，并赠送 **软性饮料或啤酒一杯**（16:00–17:00 使用），让你更轻松欣赏印度洋日落美景。
+入住期间可享 **Rock Bar 优先预约权**
 
 ***
 
-### Q8：免费 SPA 可以改成其他活动吗？
+### Q8: 赠送的**软性饮料或啤酒一杯**在哪里兑换？
 
-可以。入住期间可择一体验：
-
-- 1 小时 AYANA SPA
-- 1 小时日出瑜伽
-- 1 小时声音疗愈课程
-- 1 小时气功团体课
-
-请于办理入住时向酒店柜台预约。
-
-***
+在Luna Rooftop、Kisik Lounge、AfterRock或UniqueRooftop享用一杯啤酒或软饮；或在Damar Terrace享用一杯抹茶
 
 ### Q9：什么时候可以入住？
 
-入住期间为 **2026 年 10 月 1 日至 2027 年 11 月 30 日**，建议热门连假及寒暑假提早预订，以免满额。
+入住期间为 **2026 年 10 月 1 日至 2027 年 11 月 30 日**，建议热门连假及寒暑假提早预订，以免额满。
 
 {{block:isbali2}}

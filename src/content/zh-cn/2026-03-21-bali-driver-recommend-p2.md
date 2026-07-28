@@ -13,9 +13,9 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-07-27T00:00:00.000Z
+updatedDate: 2026-07-28T00:00:00.000Z
 lang: zh-cn
-_srcHash: a385f518e200bf245060aae5153235ad
+_srcHash: c828a1a27d2733931087916836476855
 ---
 
 **本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油费，约 10 小时）**，联系时请说明日期、人数与想去的区域。
@@ -46,7 +46,7 @@ _srcHash: a385f518e200bf245060aae5153235ad
 
 ![Komang WikaSutresna](https://images.gobaligo.id/images/2026-03/1774787613775-new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/t3EHqhCL5htfXfVQ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/5egs8Vg4Ud9e6cyW/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/CqraR8WkCsspJLvb/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/r9ftMBeDm9Cgumhs/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/dPAw1ahmB7PcpktD/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1Gcd2DLgiS/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/169eEJ8G1q/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1Ch6jkpijW/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18rmP59Es5/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/19MbmtqtFT/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/nCVRmvfDAcNaKp8W/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/rr3fzN8pC2VkZ43S/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/15M7yLuYSg/) 👍🏼[网友推荐7](https://www.facebook.com/share/15KzeArBUc/) 👍🏼[网友推荐8](https://www.facebook.com/share/1873vCmEZA/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/uKuPgbFNhDmEUbGd/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/18ZKxDQfKs/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/14wD7kryTo/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/15yA7juHso/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/14sjTapax2/)
 
 ## Fery Kyo
 
@@ -133,12 +133,6 @@ _srcHash: a385f518e200bf245060aae5153235ad
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
 👍🏼[网友推荐1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1CwwL8mTrC/)
-
-## （中文司机）Pacung 小钟
-
-![](https://images.gobaligo.id/vocus/vocus_32cb0be85eaac6e77b9076347e048cf9.png)
-
-👍🏼[网友推荐1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1DqVkKX881/)
 
 ## **Manx Liega**
 
