@@ -27,9 +27,12 @@ collections:
       - label: 發佈日期
         name: pubDate
         widget: datetime
-        date_format: "yyyy-MM-dd"
+        # Sveltia CMS 0.147.2 內部用 day.js（非 date-fns），token 必須是大寫 YYYY-MM-DD。
+        # 若寫成 yyyy-MM-dd，day.js 會把 yyyy 當字面字串、dd 當星期縮寫，
+        # 存出 "yyyy-07-Mo" 這種壞值，重開文章後日期就跳成當月 1 號。
+        date_format: "YYYY-MM-DD"
         time_format: false
-        format: "yyyy-MM-dd"
+        format: "YYYY-MM-DD"
       - label: 發佈時間（整點）
         name: pubHour
         widget: number
@@ -118,9 +121,10 @@ collections:
         name: expiresAt
         widget: datetime
         required: false
-        date_format: "yyyy-MM-dd"
+        # 同 pubDate：day.js token，務必用大寫 YYYY-MM-DD
+        date_format: "YYYY-MM-DD"
         time_format: false
-        format: "yyyy-MM-dd"
+        format: "YYYY-MM-DD"
         hint: "留空表示長期有效"
 
   - name: blocks
