@@ -527,7 +527,7 @@ function buildCalendar(popupId, hiddenId, displayId) {
   const popup = document.getElementById(popupId);
   const hidden = document.getElementById(hiddenId);
   const display = document.getElementById(displayId);
-  let viewDate = new Date(CAL_MIN);
+  let viewDate = new Date(2026, 9, 1); // Oct 2026 local time
 
   function render() {
     const t = T[currentLang];
@@ -569,7 +569,7 @@ function buildCalendar(popupId, hiddenId, displayId) {
       const str = dateToStr(d);
       const dow = d.getDay();
       const isDisabled = DISABLED_DAYS.includes(dow);
-      const isOutRange = d < CAL_MIN || d > CAL_MAX;
+      const isOutRange = str < '2026-10-01' || str > '2027-11-30';
       const isSelected = str === selectedStr;
       let cls = 'cal-day';
       if (isDisabled) cls += ' disabled';
@@ -593,16 +593,16 @@ function buildCalendar(popupId, hiddenId, displayId) {
 function calPrev(popupId, hiddenId, displayId) {
   const popup = document.getElementById(popupId);
   popup._viewDate.setMonth(popup._viewDate.getMonth()-1);
-  if (popup._viewDate < new Date(CAL_MIN.getFullYear(), CAL_MIN.getMonth(), 1))
-    popup._viewDate = new Date(CAL_MIN.getFullYear(), CAL_MIN.getMonth(), 1);
+  if (popup._viewDate.getFullYear() < 2026 || (popup._viewDate.getFullYear() === 2026 && popup._viewDate.getMonth() < 9))
+    popup._viewDate = new Date(2026, 9, 1);
   buildCalendar(popupId, hiddenId, displayId);
 }
 
 function calNext(popupId, hiddenId, displayId) {
   const popup = document.getElementById(popupId);
   popup._viewDate.setMonth(popup._viewDate.getMonth()+1);
-  if (popup._viewDate > new Date(CAL_MAX.getFullYear(), CAL_MAX.getMonth(), 1))
-    popup._viewDate = new Date(CAL_MAX.getFullYear(), CAL_MAX.getMonth(), 1);
+  if (popup._viewDate.getFullYear() > 2027 || (popup._viewDate.getFullYear() === 2027 && popup._viewDate.getMonth() > 10))
+    popup._viewDate = new Date(2027, 10, 1);
   buildCalendar(popupId, hiddenId, displayId);
 }
 
