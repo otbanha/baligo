@@ -2,7 +2,7 @@
 title: 峇里島包車司機推薦（第二頁）
 slug: ''
 description: ''
-pubDate: 2026-01-01
+pubDate: yyyy-01-Th
 pubHour: null
 category:
   - 叫車包車
@@ -131,12 +131,6 @@ updatedDate: 2026-07-27
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1CwwL8mTrC/)
-
-## （中文司機）Pacung 小鍾
-
-![](https://images.gobaligo.id/vocus/vocus_32cb0be85eaac6e77b9076347e048cf9.png)
-
-👍🏼[網友推薦1](https://www.facebook.com/share/p/174Txpiw9j/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/14DwPUqjsfZ/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/19trzp9WYs/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/177gUKRAAH/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/19xaMLAs1m/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1HkUsoqoZ6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DHmDnjYio/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/16tDBFbVsA/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Ah7X3Lyv4/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1DqVkKX881/)
 
 ## **Manx Liega**
 
