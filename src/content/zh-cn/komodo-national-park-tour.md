@@ -5,7 +5,6 @@ description: >-
   这是一场难忘的Komodo科莫多国家公园跳岛一日游，体验到了帕达尔岛的壮丽景色、迷人的粉红沙滩（Pink
   Beach），以及与科莫多龙近距离接触的惊险刺激。行程包括浮潜、魔鬼鱼观赏，还有专业且友善的中文导游带领，是一次结合自然美景与冒险的完美旅程！
 pubDate: 2024-08-22T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -16,13 +15,18 @@ tags:
   - 科摩多島怎麼去
   - 科摩多島自由行
 heroImage: 'https://images.gobaligo.id/vocus/vocus_760c821aacc62f110816f131d9c00736.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/66b779d9fd89780001baf625'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-07-29T00:00:00.000Z
 lang: zh-cn
-_srcHash: a98c6f4ed2964cc9712b354689aa7d77
+_srcHash: b0dc55b8b97da3f0b99e1d87872300bb
 ---
+
 > 以下内容由团友 [Astrid Chang](https://www.facebook.com/share/p/LCk9JJoM562KcpHb/) 提供给我们重新编排：
 
-**先说结论**：科莫多国家公园位于巴厘岛以东，**没有直飞航班**，需先从巴厘岛 DPS 机场飞往 Labuan Bajo 的 LBJ 机场（约 1 小时航程），再从当地港口搭船进行跳岛一日游，若人数不足可考虑参加旅行社提供的快船标准团，行程涵盖粉红沙滩与科莫多龙近距离观察。
+**先讲结论**：科莫多国家公园位于巴厘岛以东，**没有直飞航班**，需先从巴厘岛 DPS 机场飞往 Labuan Bajo 的 LBJ 机场（约 1 小时航程），再从当地港口搭船进行跳岛一日游，若人数不足可考虑参加旅行社提供的快船标准团，行程涵盖粉红沙滩与科莫多龙近距离观察。
 
 ## **缘起：与旅行社的相遇**
 
@@ -80,7 +84,7 @@ https://youtu.be/czpeOwygHcE
 
 ### **💡 需自行准备：**
 
-1. 帽子（最好有系绳以免被风吹飞）
+1. 帽子（最好有系绳以免风吹飞）
 2. 泳装
 3. 防晒用品
 4. 好走的鞋子与拖鞋
@@ -132,7 +136,10 @@ https://youtu.be/czpeOwygHcE
 
 左：Ayana Komodo整体来说我觉得服务不到五星，感觉是因为离岛&比较新，所以整体细致度还不是很到位，但饭店的设施是真的多，景也是真的美，但一定要住海景房不然我觉得不值得。右：谢谢Asri Labuan Bajo的老板Arda的安排与照顾🥰🙇🏻‍♀️（Astrid Chang提供）
 
-> **提供一个全包式的五天四夜行程，含台湾-巴厘岛直飞机票、巴厘岛-科莫多岛机票、四晚住宿、全程两人包车...等等： ⭐⭐**[**巴厘岛+科摩多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游**](/zh-cn/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+## **提供两个全包式的五天四夜行程**
+
+- 含台湾-巴厘岛直飞机票、巴厘岛-科莫多岛机票、四晚住宿、全程两人包车...等等：** ⭐⭐**[**巴厘岛+科摩多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游**](/zh-cn/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
+- 含巴厘岛-科莫多岛机票、两晚巴厘岛Ayana/两晚科摩多Ayana住宿、全程两人包车...等等：[⭐⭐**科摩多＋巴厘岛双AYANA奢华5日游｜入住世界级度假村、粉红沙滩、科摩多龙一次收藏**⭐⭐](https://gobaligo.id/zh-cn/blog/komodo-bali-double-ayana-luxury-tour/)
 
 您觉得Astrid Chang他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 

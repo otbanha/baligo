@@ -5,10 +5,10 @@ title: >-
 slug: bali-nusa-penida-gili-itinerary
 description: >-
   My first trip to Bali took me to Nusa Penida, Gili Trawangan, and Ubud. Here,
-  I share the full 10-day 9-night itinerary, scuba diving, manta rays, Mount
-  Batur sunrise, accommodations, food, and transportation tips, along with
-  suggestions for the final day's schedule—a handy guide for first-time
-  travelers to Bali.
+  I share a complete 10-day, 9-night itinerary, including scuba diving, manta
+  rays, Mount Batur sunrise, accommodations, food, and transportation tips. I
+  also offer suggestions for planning the final day, providing a reference for
+  first-time travelers to Bali.
 pubDate: 2026-08-15T00:00:00.000Z
 pubHour: 17
 category:
@@ -43,78 +43,80 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-07-25T00:00:00.000Z
+updatedDate: 2026-07-29T00:00:00.000Z
 lang: en
-_srcHash: 1f5c2727354d79910e97aaf4fae5ee2a
+_srcHash: 2645accd4b54a8befef4554e697e78f3
 ---
 
 > Adapted from [Yang Junhan's Travelogue](https://www.facebook.com/share/p/1G6NfceCi7/)
 
-## Before Departure, I Felt More Hesitation Than Excitement
+## Before Departure, More Hesitation Than Anticipation
 
-Before leaving, I read quite a few posts about Bali, and online reviews were pretty polarized, with plenty of negative takes. So I didn't set off with high expectations—I just wanted to see for myself what makes this resort destination, so praised by some and criticized by others, truly special.
+Before leaving, I read quite a few posts about Bali, and online reviews were quite polarized, with plenty of negative feedback. So, I didn't set off with high expectations—I just wanted to see for myself what makes this resort destination, praised by many yet complained about by others, so special.
 
 Once I actually set foot in Bali, I realized that some things can only be understood through firsthand experience.
 
-This trip gave me more than just stunning ocean views—it offered a completely different travel rhythm.
+This trip gave me more than just beautiful ocean views; it offered a completely different travel rhythm.
 
-There was a tranquility that slows you down and clears your mind, vibrant island nightlife, well-preserved traditional culture, awe-inspiring natural landscapes, and warm local hospitality. Though I missed quite a few spots this time, it gave me a reason to return to Bali.
+There was a tranquility that slowed down my pace and cleared my mind, vibrant island nightlife, well-preserved traditional culture, breathtaking natural landscapes, and warm local hospitality. Although I missed many spots this time, it gave me a reason to return to Bali.
 
 ***
 
 ## Nusa Penida｜A Diver's Paradise
 
-The most breathtaking place of the entire trip was Nusa Penida.
+The most stunning place of the entire trip was Nusa Penida.
 
-Compared to mainland Bali, the pace of life here is much more relaxed, making it a perfect spot to slow down for a few days. Each day, aside from diving, is spent gazing at the sea and feeling the breeze, with zero pressure to rush through an itinerary.
+Compared to mainland Bali, the pace of life here is much more laid-back, making it perfect for a few days of pure relaxation. Besides diving, each day was just about watching the sea and feeling the breeze, with zero pressure to rush through an itinerary.
 
-If you love diving, this place is truly worth lingering for a few extra days.
+If you love diving, this place is truly worth staying a few extra days.
 
 https://youtu.be/l5T_u1tnRHY
 
-The star of the underwater world—the manta ray—appears quite frequently. Just lie still on the seabed, and you might watch them glide gracefully past you; the awe of that moment still lingers vividly in my memory. Drift diving at other sites is also thrilling, with well-preserved coral and a rich marine ecosystem, offering fresh surprises with every descent.
+The star of the underwater world, the manta ray, appears quite frequently. Just lie still on the seabed, and you might watch them glide gracefully past you—the sheer awe of that moment is still fresh in my memory. Drift dives at other spots are also a blast, with well-preserved coral and incredibly rich marine life; every descent brings a new surprise.
 
-Beyond the underwater realm, the island’s natural landscapes are equally unforgettable.
+Beyond the underwater world, the island's natural landscapes are equally unforgettable.
 
-Angel’s Billabong, Broken Beach, Kelingking Beach, and Diamond Beach each boast unique terrain and scenery. Standing on the cliff’s edge overlooking the Indian Ocean feels like a true visual feast.
+Angel's Billabong, Broken Beach, Kelingking Beach, and Diamond Beach each boast unique terrain and scenery. Standing on the cliff's edge overlooking the Indian Ocean truly feels like a visual feast.
 
-As night falls, head to a beachfront restaurant to enjoy dinner while listening to a live band perform. With the sea breeze on your face, the vacation vibe is absolutely dialed up.
+In the evening, head to a beachfront restaurant to enjoy dinner while listening to a live band, with the sea breeze blowing—the vacation vibe is absolutely perfect.
 
 {{block:penidaguide}}
 
 ***
 
-## Gili Trawangan｜Chill by Day, Party by Night
+## Gili Trawangan｜Laze by day, party by night
 
 https://youtube.com/shorts/FXKZWSpsrXY
 
 After leaving Nusa Penida, I took a boat to Gili Trawangan.
 
-As soon as you step off the boat, you can feel this island's completely different vibe from Nusa Penida.
+As soon as I stepped off the boat, I could feel the island's completely different vibe from Nusa Penida.
 
-There are no cars on the island—horse-drawn carriages are the most iconic mode of transport. The entire island is filled with a joyful holiday atmosphere, earning it the nickname 'Party Island.'
+There are no cars on the island, and the most iconic mode of transport is the horse-drawn carriage. The entire island is filled with a joyful holiday atmosphere, earning it the nickname 'Party Island.'
 
-During the day, you can stroll along the pristine white sand beaches, gazing at the crystal-clear waters and watching horses leisurely wander by the shore.
+During the day, you can stroll along the pristine white sand beaches, gaze at the crystal-clear waters, and watch horses leisurely wandering by the shore.
 
-In the late afternoon, the sunset on the west coast is not to be missed. If you get the chance, I highly recommend riding a horse along the coast to watch the sunset—it's an incredibly romantic scene.
+In the late afternoon, the sunset on the west coast is not to be missed. If you get the chance, I recommend riding a horse along the coast to watch the sunset—it's an incredibly romantic scene.
 
-As night falls, the island's bars and restaurants start hosting live music performances. With great food, music, and lively crowds, the whole island buzzes with energy, fully showcasing the charm of Party Island.
+As night falls, the island's bars and restaurants start hosting live music performances. With great food, music, and lively crowds, the whole island buzzes with energy, fully showcasing the charm of a party island.
 
 ***
 
-## Ubud | A Journey of Culture, Volcanoes, and Soul
+## Ubud｜A Journey of Culture, Volcanoes, and Soul
 
-After leaving the Gili Islands, I returned to mainland Bali and arrived in Ubud, a town rich in cultural heritage.
+After bidding farewell to the Gili Islands, I returned to mainland Bali and arrived in Ubud, a place rich in cultural heritage.
 
-The Ubud Palace showcases the depth of traditional Balinese culture, while the nearby Ubud Market is full of local life—perfect for a leisurely browse to pick out your favorite souvenirs.
+Ubud Palace showcases the rich traditional culture of Bali, while the nearby Ubud Market is full of local life—perfect for a leisurely stroll and picking out souvenirs you love.
 
-The next morning, I embarked on one of the most anticipated activities of the trip.
+https://youtube.com/shorts/Oh-RNfjhQhM
 
-Taking a jeep to Mount Batur, we arrived at the summit to welcome the sunrise. As the first rays of sunlight fell over the volcano and the lake, the breathtaking scenery made all the early-morning fatigue completely worth it.
+The next morning at dawn was one of the most anticipated parts of the trip.
 
-The jeep driver leading the group was also very enthusiastic, stopping along the way to help take photos, leaving us with plenty of memorable shots.
+We took a jeep to Mount Batur and watched the sunrise from the summit. As the first rays of sunlight spread across the volcano and the lake, the breathtaking scenery made us forget the exhaustion of waking up early.
 
-After descending, we headed to Akasa to enjoy breakfast while taking in the views of Mount Batur. From there, we could also see the lava terrain left by past eruptions, feeling the incredible power of nature up close.
+Our jeep driver was incredibly warm and kept offering to take photos for us along the way, leaving us with many memorable shots.
+
+After descending, we headed to Akasa for breakfast while enjoying the view of Mount Batur. We could also see the lava formations left by past eruptions up close, feeling the awe-inspiring power of nature.
 
 https://youtube.com/shorts/lXemz_JODWo
 
@@ -127,13 +129,13 @@ At the end of the journey, we visited Tirta Empul Temple, bringing the trip to a
 ## 10-Day, 9-Night Itinerary Overview
 
 **Day 1｜Arrival in Bali**
-Arrived at Ngurah Rai International Airport at 2:35 PM, then headed to Sanur to check in. In the evening, we strolled and shopped around the area, soaking in the relaxed seaside town vibe.
+Arrive at Ngurah Rai International Airport at 2:35 PM, then head to Sanur to check in. In the evening, take a stroll around the area, do some shopping, and soak up the relaxed seaside town vibe.
 
-**Day 2｜Nusa Penida West Coast**
+**Day 2｜West Coast of Nusa Penida**
 
 https://youtube.com/shorts/HjaEoqBsGp4
 
-Took a boat from Sanur to Nusa Penida, visiting Angel's Billabong, Broken Beach, and Kelingking Beach. Had dinner at Penida Colada Beach Bar, and stayed at [VnS Beachfront Guesthouse](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28217752).
+Take a boat from Sanur to Nusa Penida, visiting Angel's Billabong, Broken Beach, and Kelingking Beach. Have dinner at Penida Colada Beach Bar, and check in at [VnS Beachfront Guesthouse](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28217752).
 
 https://youtube.com/shorts/O1yqlXc6PLs
 
@@ -141,33 +143,33 @@ https://youtube.com/shorts/O1yqlXc6PLs
 Join a scuba diving trip with Pure Dive, and have dinner at Cactus Beach Club & Restaurant.
 
 **Day 4｜Diving + Diamond Beach**
-Another scuba diving session with Pure Dive, then head to Diamond Beach in the afternoon. Dinner at Penida Colada Beach Bar.
+Go scuba diving again with Pure Dive, then head to Diamond Beach in the afternoon. Have dinner at Penida Colada Beach Bar in the evening.
 
 **Day 5｜Crystal Bay**
-Scuba diving with Pure Dive, followed by a visit to Crystal Bay. Dinner at Amarta Penida.
+Join a scuba diving trip with Pure Dive, then visit Crystal Bay. Have dinner at Amarta Penida.
 
 **Day 6｜Heading to the Gili Islands**
-Take a boat to Gili Trawangan (Gili T), explore the northern beaches, and enjoy a sunset horseback ride on the west coast. Check in at Quma Boutique Hotel.
+Take a boat to Gili Trawangan, explore the northern beaches, and in the late afternoon, go horseback riding on the west coast to watch the sunset. Check in at Quma Boutique Hotel.
 
 https://youtube.com/shorts/wXvhx58DIps
 
-**Day 7｜Diving in Gili T**
-Scuba diving with Dive Central Gili, then experience the lively nightlife at Pink Sunset, Kiss, and Margarita Resto.
+**Day 7｜Diving at Gili T**
+Join Dive Central Gili for scuba diving, then head to Pink Sunset, Kiss, and Margarita Resto in the evening to experience the lively nightlife.
 
-**Day 8｜Leisurely Relaxation**
-Spend the day relaxing on the northern beaches, check in at Villa Koru, and return to the west coast for sunset.
+**Day 8｜Leisurely Vacation**
+Spend the day relaxing on the northern beaches, check into Villa Koru, and return to the west coast in the evening to watch the sunset.
 
-**Day 9｜Back to Bali**
-Take a boat to Padang Bai, then hire a private driver to visit Tegallalang Rice Terraces, TIS Cafe, Ubud Palace, and Ubud Market. Check in at Jepun Villa.
+**Day 9｜Return to Bali**
+Take a boat to Padang Bai, hire a private driver to visit Tegallalang Rice Terraces, TIS Cafe, Ubud Palace, and Ubud Market, then check into Jepun Villa.
 
 **Day 10｜Mount Batur Sunrise**
-Ride a jeep to Mount Batur before dawn to catch the sunrise, then enjoy breakfast at Akasa with volcano views. Visit Tirta Empul Temple before heading to the airport. Arrive at the airport around 1:00 PM for check-in, marking a perfect end to this incredible Bali adventure.
+Ride a jeep to Mount Batur before dawn to catch the sunrise, then enjoy breakfast at Akasa with views of the volcano. Next, visit Tirta Empul Temple before heading to the airport for your return flight, arriving around 1:00 PM to check in—a perfect end to this incredible Bali trip.
 
 https://youtube.com/shorts/XDOnfDyylsA
 
-**Editor's Note:** Generally speaking, it's not advisable to schedule far-flung attractions like Mount Batur or Tirta Empul Temple on your departure day. Traffic in Bali can be highly unpredictable, and congestion is common during peak season or rush hours. Any unexpected delays or increased traffic could jeopardize your flight timing.
+**(Editor's Note)** Generally, it's not recommended to visit far-flung spots like Mount Batur and Tirta Empul Temple on your departure day. Bali's traffic can be unpredictable, with heavy congestion common during peak season or rush hours. Any increase in traffic or unexpected delays could jeopardize your flight timing.
 
-It's better to spend your last day in areas closer to the airport, such as Kuta, Jimbaran, or Sanur. Alternatively, booking an afternoon or evening flight will make your journey much more relaxed.
+It's better to spend your last day in areas closer to the airport, such as Kuta, Jimbaran, or Sanur, or book an afternoon or evening flight for a more relaxed journey.
 
 {{block:penidaklook}}
 
@@ -175,7 +177,7 @@ It's better to spend your last day in areas closer to the airport, such as Kuta,
 
 ## Local Guide Contact Info
 
-Throughout this trip, our local guide helped us book ferry tickets, arrange private drivers, and handle various issues along the way. Since I don't speak English, we communicated smoothly using translation apps. Sharing this info for anyone who might need it.
+During this trip, our local guide helped book ferry tickets, arrange private drivers, and assisted with various issues along the way. Since I don't speak English, we communicated smoothly using translation apps the entire time. Sharing this info for anyone who might find it useful.
 
 **Phone / WhatsApp**
 +62 813-3833-8638
@@ -188,21 +190,21 @@ justimade78
 
 ***
 
-## The Journey Doesn't End When the Trip Does
+## The Trip May End, But the Story Doesn't
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1784594813425-map.jpg)
 
-If you ask me what left the deepest impression on this trip...
+If you ask me what stood out most on this journey,
 
-It wasn't any particular attraction, nor how many beautiful photos I took. It was rediscovering Bali.
+it wasn't a particular attraction or how many stunning photos I took—
 
-It has a lively side and a serene side; world-class diving spots and deep cultural heritage. You can party on the island of revelry or slow down in Ubud, quietly soaking in life.
+it was rediscovering Bali.
 
-Online reviews are ultimately just other people's experiences—everyone travels differently and feels differently.
+It has its lively side and its serene side; world-class dive spots alongside profound cultural depth. You can party on the island or slow down in Ubud, quietly soaking in life.
 
-At least for me, these 10 days and 9 nights were more than just a trip; they were a beautiful memory of slowing down and seeing a different landscape.
+Online reviews are ultimately just someone else's experience—everyone travels differently and feels differently.
 
-I hope this travelogue can also serve as a practical reference for you, the next traveler heading to Bali.
+I hope this travelogue can also serve as a practical reference for you, the next traveler preparing for a trip to Bali.
 
 {{block:遊記}}
 

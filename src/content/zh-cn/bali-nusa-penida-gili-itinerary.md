@@ -37,9 +37,9 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-07-25T00:00:00.000Z
+updatedDate: 2026-07-29T00:00:00.000Z
 lang: zh-cn
-_srcHash: 1f5c2727354d79910e97aaf4fae5ee2a
+_srcHash: 2645accd4b54a8befef4554e697e78f3
 ---
 
 > 以下改编自 [杨钧翰 游记](https://www.facebook.com/share/p/1G6NfceCi7/)
@@ -60,7 +60,7 @@ _srcHash: 1f5c2727354d79910e97aaf4fae5ee2a
 
 整趟旅程中，最让我惊艳的地方，就是佩尼达岛。
 
-相比巴厘岛本岛，这里的生活节奏更加悠闲，很适合安排几天慢慢放松。每天除了潜水，就是看看海、吹吹风，完全没有赶行程的压力。
+相比巴厘岛本岛，这里的生活步调更加悠闲，很适合安排几天慢慢放松。每天除了潜水，就是看看海、吹吹风，完全没有赶行程的压力。
 
 如果你喜欢潜水，那这里真的值得多停留几天。
 
@@ -102,6 +102,8 @@ https://youtube.com/shorts/FXKZWSpsrXY
 
 乌布皇宫展现了浓厚的巴厘岛传统文化，附近的乌布市集则充满生活气息，可以慢慢逛、慢慢挑选喜欢的纪念品。
 
+https://youtube.com/shorts/Oh-RNfjhQhM
+
 隔天凌晨，更是这趟旅行最期待的行程之一。
 
 搭乘吉普车前往巴杜尔火山，在山顶迎接日出。当第一道阳光洒落在火山与湖泊之间，那种壮阔景色真的会让人忘记凌晨起床的疲惫。
@@ -131,17 +133,17 @@ https://youtube.com/shorts/HjaEoqBsGp4
 
 https://youtube.com/shorts/O1yqlXc6PLs
 
-**第3天｜珀尼达岛潜水**
-参加Pure Dive水肺潜水行程，晚餐在Cactus Beach Club & Restaurant。
+**Day 3｜佩尼达岛潜水**
+参加 Pure Dive 水肺潜水行程，晚餐于 Cactus Beach Club & Restaurant。
 
-**第4天｜潜水＋钻石海滩**
-再次参加Pure Dive水肺潜水，下午前往钻石海滩（Diamond Beach），晚上到Penida Colada Beach Bar用餐。
+**Day 4｜潜水＋钻石海滩**
+再次参加 Pure Dive 水肺潜水，下午前往钻石海滩（Diamond Beach），晚上到 Penida Colada Beach Bar 用餐。
 
-**第5天｜水晶湾**
-参加Pure Dive水肺潜水，之后前往水晶湾（Crystal Bay），晚餐在Amarta Penida。
+**Day 5｜水晶湾**
+参加 Pure Dive 水肺潜水，之后前往水晶湾（Crystal Bay），晚餐于 Amarta Penida。
 
-**第6天｜前往吉利群岛**
-乘船前往吉利T岛（Gili Trawangan），探访北侧沙滩，傍晚到西岸骑马欣赏夕阳，入住Quma Boutique Hotel。
+**Day 6｜前往吉利群岛**
+搭船前往吉利 T 岛（Gili Trawangan），造访北侧沙滩，傍晚到西岸骑马欣赏夕阳，入住 Quma Boutique Hotel。
 
 https://youtube.com/shorts/wXvhx58DIps
 
@@ -155,11 +157,11 @@ https://youtube.com/shorts/wXvhx58DIps
 乘船至巴东拜（Padang Bai），包车前往德哥拉朗梯田、TIS Cafe、乌布皇宫及乌布集市，入住Jepun Villa。
 
 **第10天｜巴杜尔火山日出**
-凌晨搭乘吉普车前往巴杜尔火山欣赏日出，之后至Akasa享用早餐并欣赏火山美景，接着造访圣泉寺，最后前往机场，搭乘返程航班，约13:00抵达机场办理登机手续，为这趟精彩的巴厘岛之旅画下完美句点。
+凌晨搭乘吉普车前往巴杜尔火山欣赏日出，之后至Akasa享用早餐并欣赏火山美景，接着造访圣泉寺，最后前往机场，搭乘返程班机，约13:00抵达机场办理登机手续，为这趟精彩的巴厘岛之旅画下完美句点。
 
 https://youtube.com/shorts/XDOnfDyylsA
 
-（编按）一般来说，不建议把巴杜尔火山、圣泉寺等距离机场较远的景点安排在返程当天。巴厘岛交通状况变数较大，旺季或高峰时段堵车相当常见，一旦遇到车流增加或突发状况，都可能影响赶飞机的时间。
+**（编按）** 一般来说，不建议把巴杜尔火山、圣泉寺等距离机场较远的景点安排在返程当天。巴厘岛交通状况变数较大，旺季或高峰时段堵车相当常见，一旦遇到车流增加或突发状况，都可能影响赶飞机的时间。
 
 建议将最后一天安排在库塔、金巴兰、沙努尔等距离机场较近的区域，或预订下午、晚上的航班，旅程会更从容。
 

@@ -1,13 +1,14 @@
 ---
 title: >-
-  Bali 10 Hari 9 Malam Trip Bebas｜Pulau Penida, Gili T Menyelam, Ubud Volcano
-  Trip Lengkap & Itinerary
+  Bali 10 Hari 9 Malam Trip Bebas｜Penyelaman di Nusa Penida, Gili Trawangan &
+  Ubud Volcano Trip Lengkap
 slug: bali-nusa-penida-gili-itinerary
 description: >-
-  Pertama kali ke Bali, beneran datengin Pulau Penida, Gili T, dan Ubud. Share
-  itinerary lengkap 10 hari 9 malam, scuba diving, manta ray, sunrise Gunung
-  Batur, akomodasi, kuliner, dan tips transportasi. Plus rekomendasi jadwal hari
-  terakhir, cocok buat referensi first timer ke Bali.
+  Pertama kali ke Bali, benar-benar menjelajahi Nusa Penida, Gili Trawangan, dan
+  Ubud. Berbagi itinerary lengkap 10 hari 9 malam, scuba diving, manta ray,
+  sunrise Gunung Batur, akomodasi, kuliner, dan tips transportasi. Juga
+  merangkum saran itinerary hari terakhir, cocok buat referensi traveler yang
+  pertama kali ke Bali.
 pubDate: 2026-08-15T00:00:00.000Z
 pubHour: 17
 category:
@@ -42,40 +43,40 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-07-25T00:00:00.000Z
+updatedDate: 2026-07-29T00:00:00.000Z
 lang: id
-_srcHash: 1f5c2727354d79910e97aaf4fae5ee2a
+_srcHash: 2645accd4b54a8befef4554e697e78f3
 ---
 
 > Diadaptasi dari [Catatan Perjalanan Yang Junhan](https://www.facebook.com/share/p/1G6NfceCi7/)
 
 ## Sebelum Berangkat, Lebih Banyak Ragu daripada Ekspektasi
 
-Sebelum berangkat, gue udah baca banyak sharing soal Bali. Review di internet lumayan kontras, apalagi banyak komentar negatif. Jadi awalnya gak berekspektasi tinggi, cuma pengen dateng langsung dan liat sendiri apa sih daya tarik destinasi liburan yang banyak direkomendasiin tapi juga banyak dikeluhin ini.
+Sebelum berangkat, aku baca banyak sharing soal Bali. Review di internet cukup kontras, apalagi banyak komentar negatif. Jadi awalnya ekspektasiku nggak terlalu tinggi, cuma pengin lihat sendiri destinasi liburan yang banyak direkomendasiin tapi juga banyak dikeluhkan ini, sebenernya apa sih pesonanya?
 
-Pas beneran nyampe Bali, gue baru sadar, banyak hal emang cuma bisa dipahami lewat pengalaman langsung.
+Begitu benar-benar menginjakkan kaki di Bali, baru sadar kalau banyak hal emang cuma bisa dipahami lewat pengalaman langsung.
 
-Trip ini ngasih gue lebih dari sekadar pemandangan laut yang cantik — ini ritme perjalanan yang beda banget.
+Trip ini ngasih aku lebih dari sekadar pemandangan laut yang cantik—tapi ritme perjalanan yang benar-benar beda.
 
-Ada ketenangan yang bikin slow down dan pikiran tenang, ada kehidupan malam pulau yang penuh energi, ada budaya tradisional yang masih terjaga, ada pemandangan alam yang bikin kagum, dan keramahan penduduk lokal. Meskipun masih banyak tempat yang belum sempet dikunjungi, itu malah jadi alasan buat balik lagi ke Bali.
+Ada ketenangan yang bikin slow down dan menenangkan pikiran, ada kehidupan malam pulau yang penuh energi, ada budaya tradisional yang masih terjaga, pemandangan alam yang bikin kagum, dan keramahan penduduk setempat. Meski masih banyak tempat yang belum sempat dikunjungi, ini jadi alasan buat balik lagi ke Bali.
 
 ***
 
-## Pulau Penida (Nusa Penida)｜Surganya Penyelam
+## Nusa Penida｜Surganya Para Penyelam
 
-Sepanjang trip, tempat yang paling bikin gue terkesima adalah Pulau Penida.
+Sepanjang perjalanan, tempat yang paling bikin aku terkesima adalah Nusa Penida.
 
 Dibandingkan dengan Pulau Bali sendiri, ritme kehidupan di sini jauh lebih santai, cocok banget buat kamu yang mau slow relax beberapa hari. Setiap hari selain diving, ya cuma lihat laut, nikmatin angin, tanpa tekanan harus kejar-kejar itinerary.
 
-Kalau kamu suka diving, tempat ini beneran worth it buat stay lebih lama.
+Kalau kamu suka diving, tempat ini benar-benar worth it buat stay lebih lama.
 
 https://youtu.be/l5T_u1tnRHY
 
-Bintang laut Manta (Manta Ray) sering banget muncul di sini. Cukup diam di dasar laut, kamu bisa lihat mereka terbang elegan di sampingmu — sensasinya masih kuingat sampai sekarang. Arus di spot diving lain juga seru, karangnya masih terjaga, ekosistem lautnya super kaya, setiap kali nyemplung pasti ada kejutan baru.
+Bintang lautnya, Manta Ray, sering banget muncul. Cukup diam di dasar laut, kamu bisa lihat mereka terbang dengan anggun di sampingmu — sensasinya sampai sekarang masih kuingat banget. Arus di spot lain juga seru, karangnya terawat, ekosistem lautnya super kaya, setiap kali nyemplung pasti ada kejutan baru.
 
 Selain dunia bawah laut, pemandangan alam di pulau ini juga unforgettable.
 
-Angel's Billabong, Broken Beach, Kelingking Beach, dan Diamond Beach — masing-masing punya bentuk dan pemandangan unik. Berdiri di tebing sambil lihat Samudra Hindia, beneran kayak pesta visual.
+Angel's Billabong, Broken Beach, Kelingking Beach, dan Diamond Beach — masing-masing punya bentuk dan pemandangan yang beda. Berdiri di tebing sambil lihat Samudra Hindia, rasanya benar-benar pesta visual.
 
 Pas malam, mampir ke restoran tepi pantai, makan malam sambil dengerin live band, angin laut sepoi-sepoi, vibes liburannya langsung maksimal.
 
@@ -87,48 +88,50 @@ Pas malam, mampir ke restoran tepi pantai, makan malam sambil dengerin live band
 
 https://youtube.com/shorts/FXKZWSpsrXY
 
-Setelah dari Pulau Penida, aku naik kapal ke Gili Trawangan.
+Setelah ninggalin Nusa Penida, aku naik kapal ke Gili Trawangan.
 
 Begitu turun dari kapal, langsung terasa banget bedanya pulau ini sama Nusa Penida.
 
-Di sini nggak ada mobil, transportasi paling ikoniknya ya delman — seluruh pulau penuh vibe liburan yang seru, makanya dijuluki 'Pulau Pesta'.
+Di sini nggak ada mobil, transportasi paling ikoniknya ya delman. Suasana pulau ini penuh keceriaan liburan, makanya dijuluki 'Pulau Pesta'.
 
-Siang hari bisa jalan-jalan di pantai berpasir putih, lihat air laut yang jernih banget, sambil ngeliat kuda-kuda santai mondar-mandir di pinggir pantai.
+Siang hari bisa jalan-jalan di pantai berpasir putih, lihat air laut yang jernih banget, dan saksiin kuda-kuda yang santai mondar-mandir di pinggir pantai.
 
-Sore hari, sunset di pantai barat wajib banget dinikmati. Kalau ada kesempatan, naik kuda sambil lihat matahari terbenam di sepanjang pantai — pemandangannya romantis banget, sih.
+Menjelang sore, sunset di pesisir barat wajib banget dinikmati. Kalau ada kesempatan, naik kuda sambil lihat matahari terbenam di sepanjang pantai itu romantis banget, sih.
 
-Malam tiba, bar dan restoran di pulau mulai live music, makanan enak, musik, dan keramaian bikin pulau ini hidup — bener-bener nunjukin kenapa disebut Pulau Pesta.
+Malam harinya, bar dan restoran di pulau mulai live music. Makanan enak, musik seru, dan keramaian bikin pulau ini hidup banget — bener-bener nunjukin kenapa disebut Pulau Pesta.
 
 ***
 
 ## Ubud｜Budaya, Gunung Api, dan Perjalanan Spiritual
 
-Setelah pamit dari Gili Islands, aku balik ke daratan Bali dan mampir ke Ubud yang penuh budaya.
+Setelah ninggalin Gili Islands, aku balik ke daratan Bali dan mampir ke Ubud yang penuh budaya.
 
-Ubud Palace (Puri Saren Agung) nunjukin budaya tradisional Bali yang kental, dan Pasar Ubud di dekatnya penuh kehidupan — cocok buat jalan santai sambil milih oleh-oleh.
+Ubud Palace (Puri Saren Agung) nunjukin tradisi Bali yang kental, sementara Pasar Ubud penuh dengan kehidupan sehari-hari — cocok buat jalan santai sambil cari-cari oleh-oleh.
 
-Keesokan paginya, ini salah satu momen yang paling aku tunggu-tunggu sepanjang trip.
+https://youtube.com/shorts/Oh-RNfjhQhM
 
-Naik Jeep ke Gunung Batur (Gunung Batur), lihat matahari terbit dari puncak. Pas sinar pertama nyentuh gunung api dan danau di bawahnya, pemandangannya megah banget sampai bikin lupa rasa capek bangun subuh.
+Keesokan paginya, ini jadi salah satu agenda yang paling aku tunggu-tunggu selama perjalanan.
 
-Sopir jip yang memandu juga sangat ramah, di sepanjang jalan dia dengan inisiatif bantu foto-foto, jadi banyak foto keren yang layak disimpan.
+Naik jip ke Gunung Batur, sampai di puncak pas lihat matahari terbit. Begitu sinar pertama menyentuh gunung dan danau, pemandangan megahnya bikin lupa capek bangun subuh.
 
-Setelah turun gunung, mampir ke Akasa sambil sarapan dan menikmati pemandangan Gunung Batur. Dari sini kamu juga bisa lihat dari dekat bekas aliran lahar letusan gunung, bener-bener ngerasain kekuatan alam yang luar biasa.
+Sopir jipnya juga ramah banget, di sepanjang jalan bantuin foto-foto, jadi banyak momen keren yang keabadikan.
+
+Turun gunung, lanjut sarapan di Akasa sambil nikmatin pemandangan Gunung Batur. Dari dekat juga bisa lihat bekas aliran lava erupsi, bikin makin ngerasa betapa dahsyatnya kekuatan alam.
 
 https://youtube.com/shorts/lXemz_JODWo
 
-Di penghujung perjalanan, mampir ke Pura Tirta Empul (Pura Air Suci) untuk menutup trip ini dengan suasana yang tenang dan penuh makna.
+Di penghujung perjalanan, mampir ke Pura Tirta Empul, jadi penutup yang tenang dan sempurna buat trip ini.
 
 {{block:ubud}}
 
 ***
 
-## Rencana Perjalanan 10 Hari 9 Malam
+## Rangkuman Perjalanan 10 Hari 9 Malam
 
 **Hari 1｜Tiba di Bali**
 Tiba di Bandara Internasional Ngurah Rai jam 14:35, langsung check-in di Sanur. Malamnya jalan-jalan santai di sekitar, nikmatin suasana kota pantai yang adem.
 
-**Hari 2｜Penida Island West Trip**
+**Hari 2｜Penida Island West Route**
 
 https://youtube.com/shorts/HjaEoqBsGp4
 
@@ -136,45 +139,45 @@ Naik kapal dari Sanur ke Nusa Penida, kunjungi Angel's Billabong, Broken Beach, 
 
 https://youtube.com/shorts/O1yqlXc6PLs
 
-**Hari ke-3｜Diving di Nusa Penida**
-Ikut program scuba diving Pure Dive, makan malam di Cactus Beach Club & Restaurant.
+**Hari ke-3｜Menyelam di Nusa Penida**
+Ikut trip scuba diving bareng Pure Dive, makan malam di Cactus Beach Club & Restaurant.
 
-**Hari ke-4｜Diving + Diamond Beach**
-Scuba diving lagi bareng Pure Dive, siangnya lanjut ke Diamond Beach, malamnya makan di Penida Colada Beach Bar.
+**Hari ke-4｜Menyelam + Diamond Beach**
+Scuba diving lagi sama Pure Dive, siangnya lanjut ke Diamond Beach, malamnya makan di Penida Colada Beach Bar.
 
 **Hari ke-5｜Crystal Bay**
-Scuba diving sama Pure Dive, abis itu mampir ke Crystal Bay, makan malam di Amarta Penida.
+Scuba diving bareng Pure Dive, abis itu ke Crystal Bay, makan malam di Amarta Penida.
 
-**Hari ke-6｜Menuju Gili Islands**
-Naik kapal ke Gili Trawangan, main ke pantai utara, sorenya naik kuda di pantai barat sambil lihat sunset, nginep di Quma Boutique Hotel.
+**Hari ke-6｜Ke Gili Islands**
+Naik kapal ke Gili Trawangan, mampir ke pantai utara, sorenya naik kuda di pantai barat sambil lihat sunset, nginep di Quma Boutique Hotel.
 
 https://youtube.com/shorts/wXvhx58DIps
 
-**Hari ke-7｜Diving di Gili Trawangan**
-Scuba diving bareng Dive Central Gili, malemnya nongkrong di Pink Sunset, Kiss, dan Margarita Resto buat nikmatin kehidupan malam yang seru.
+**Hari ke-7｜Menyelam di Gili T**
+Scuba diving bareng Dive Central Gili, malemnya nongkrong di Pink Sunset, Kiss, sama Margarita Resto buat ngerasain serunya nightlife.
 
 **Hari ke-8｜Santai-santai**
-Siangnya chill di pantai utara, check-in Villa Koru, sore-sore balik lagi ke pantai barat buat lihat sunset.
+Siangnya chill di pantai utara, check-in Villa Koru, sorenya balik lagi ke pantai barat buat lihat sunset.
 
 **Hari ke-9｜Balik ke Bali**
-Naik kapal ke Padang Bai, lanjut sewa mobil ke Tegalalang Rice Terrace, TIS Cafe, Ubud Palace, dan Ubud Market, nginep di Jepun Villa.
+Naik kapal ke Padang Bai, lanjut sewa mobil ke Tegallalang Rice Terrace, TIS Cafe, Ubud Palace, sama Ubud Market, nginep di Jepun Villa.
 
-**Hari ke-10｜Sunrise di Gunung Batur**
+**Hari ke-10｜Sunrise Gunung Batur**
 Subuh naik jeep ke Gunung Batur buat lihat sunrise, abis itu sarapan di Akasa sambil nikmatin pemandangan gunung, mampir ke Tirta Empul, terus ke bandara buat check-in sekitar jam 13:00 — tutup petualangan seru di Bali dengan sempurna.
 
 https://youtube.com/shorts/XDOnfDyylsA
 
-**（Catatan Redaksi）** Biasanya sih, nggak disarankan buat masukin tempat kayak Gunung Batur atau Pura Tirta Empul yang jaraknya lumayan jauh dari bandara di hari terakhir perjalanan. Soalnya kondisi lalu lintas di Bali itu suka berubah-ubah banget, apalagi pas musim ramai atau jam sibuk, macet udah jadi pemandangan biasa. Kalau tiba-tiba kendaraan padat atau ada kejadian dadakan, bisa ganggu waktu kamu kejar pesawat.
+**（Catatan Redaksi）** Biasanya sih, nggak disarankan buat masukin Gunung Batur, Pura Tirta Empul, atau tempat lain yang lumayan jauh dari bandara di hari terakhir perjalanan. Soalnya kondisi lalu lintas di Bali itu suka berubah-ubah banget, apalagi pas musim ramai atau jam sibuk, macet udah jadi pemandangan biasa. Kalau tiba-tiba kendaraan padat atau ada kejadian dadakan, bisa-bisa bikin kamu telat kejar pesawat.
 
-Saran gue, mending hari terakhir kamu habiskan di daerah Kuta, Jimbaran, Sanur, atau tempat lain yang deket bandara. Atau kalau bisa, pesen penerbangan sore atau malam biar perjalananmu lebih santai dan nggak buru-buru.
+Saran gue, mending hari terakhir kamu habiskan di daerah yang deket bandara kayak Kuta, Jimbaran, atau Sanur. Atau kalau bisa, pesen penerbangan siang atau sore aja, biar perjalananmu lebih santai dan nggak buru-buru.
 
 {{block:penidaklook}}
 
 ***
 
-## Info Kontak Pemandu Lokal
+## Kontak Pemandu Lokal
 
-Selama perjalanan ini, pemandu lokal bantuin pesen tiket kapal, atur mobil sewaan, dan urus berbagai masalah di lapangan. Karena gue nggak bisa bahasa Inggris, komunikasi lewat aplikasi penerjemah aja lancar-lancar aja. Buat kalian yang butuh, ini infonya.
+Selama perjalanan ini, pemandu lokal bantuin pesen tiket kapal, atur mobil sewaan, dan urus berbagai masalah di jalan. Karena gue nggak bisa bahasa Inggris, komunikasi lewat aplikasi penerjemah berjalan lancar banget. Buat yang butuh referensi, ini dia kontaknya:
 
 **Phone / WhatsApp**
 +62 813-3833-8638
@@ -191,17 +194,17 @@ justimade78
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1784594813425-map.jpg)
 
-Kalau ditanya, apa yang paling berkesan dari trip ini?
+Kalau kamu tanya gue, apa yang paling berkesan dari trip ini?
 
-Bukan soal tempat wisata mana pun, atau seberapa banyak foto keren yang keambil. Tapi lebih ke gimana gue bisa kenal Bali dari sisi yang baru.
+Bukan soal tempat wisata tertentu, atau seberapa banyak foto cantik yang berhasil diambil, tapi lebih ke bagaimana aku bisa mengenal Bali dari sisi yang berbeda.
 
-Bali punya sisi yang ramai dan juga sisi yang tenang; ada spot diving kelas dunia, juga budaya yang dalam banget. Kamu bisa berpesta di pulau party, atau pelan-pelan menikmati hidup di Ubud.
+Bali punya sisi yang ramai, tapi juga sisi yang tenang; ada spot diving kelas dunia, juga budaya yang dalam banget. Kamu bisa berpesta di pulau party, atau pelan-pelan menikmati hidup di Ubud.
 
 Review di internet pada akhirnya cuma pengalaman orang lain. Cara traveling setiap orang beda, jadi rasanya juga pasti beda.
 
-Setidaknya buatku, 10 hari 9 malam ini bukan sekadar liburan biasa. Ini lebih kayak momen buat slow down dan melihat pemandangan yang berbeda — jadi kenangan indah banget.
+Setidaknya buatku, 10 hari 9 malam ini bukan sekadar liburan biasa. Ini adalah momen buat memperlambat langkah, melihat pemandangan yang berbeda, dan jadi kenangan indah.
 
-Semoga catatan perjalanan ini bisa jadi referensi yang berguna buat kamu yang lagi bersiap-siap ke Bali.
+Semoga catatan perjalanan ini bisa jadi referensi kecil yang berguna buat kamu yang sedang merencanakan liburan ke Bali.
 
 {{block:遊記}}
 
