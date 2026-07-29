@@ -53,11 +53,14 @@ jobs:
           if git diff --cached --quiet; then
             echo "沒有變動需要提交"
           else
-            # [CF-Pages-Skip] 讓 Cloudflare Pages 不要為了這個 commit 再跑一次全站 build。
+            # 前綴讓 Cloudflare Pages 不要為了這個 commit 再跑一次全站 build。
             # updatedDate 只影響 sitemap lastmod 與頁面顯示，下一次任何部署都會帶上，
             # 但每多一次全站 build 就多佔用一輪部署佇列，讓真正的新文章排隊等更久。
-            # 用 [CF-Pages-Skip] 而非 [skip ci]：後者會連 GitHub Actions 一起跳過，
+            # 用這個前綴而非 [skip ci]：後者會連 GitHub Actions 一起跳過，
             # 那會讓 submit-to-google 收不到這次更新。
+            #
+            # ⚠️ 這個前綴是純文字比對，出現在 commit 訊息「任何位置」都會讓 CF 跳過部署，
+            #    body 裡也算。要在別的 commit 訊息裡談到它時，別把字串原樣寫出來。
             git commit -m "[CF-Pages-Skip] chore: 自動更新文章 updatedDate [skip translate]"
             git pull --rebase origin main
             git push
