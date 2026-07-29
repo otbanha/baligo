@@ -5,12 +5,18 @@ const RATE_LIMIT_TTL = 60; // 每 IP 每分鐘 5 次
 const INPUT_MAX_CHARS = 200;
 const MAX_TOKENS = 800;
 const CACHE_TTL = 86400; // 24h response cache（只快取無對話歷史的單輪問答）
-const CACHE_VERSION = 'rag-v2'; // RAG 架構重寫 + 指定主題導流，版本號變更會讓舊快取全部失效
+const CACHE_VERSION = 'rag-v3'; // 檢索調整（關鍵字查詢門檻 + 關鍵字比對備援），版本號變更會讓舊快取全部失效
 const DAILY_GLOBAL_MAX = 500; // 每日（UTC）AI 回答呼叫上限（不含 embedding）
 
 const EMBED_MODEL = '@cf/baai/bge-m3';
 const VECTORIZE_TOP_K = 5;
 const SIMILARITY_THRESHOLD = 0.55; // 見 Phase 5 驗收：真正相關 ≥0.62，離題查詢 ≤0.55
+// 上面的門檻是用完整問句驗收出來的。使用者直接丟關鍵字（「髒水病」「換錢」）時，
+// 查詢字串短、語意資訊少，跟 300-500 token 的 chunk 算出來的 cosine 天生就偏低，
+// 沿用 0.55 會把真正相關的文章一起濾掉，所以這類查詢改用較寬鬆的門檻。
+const KEYWORD_QUERY_THRESHOLD = 0.45;
+const KEYWORD_QUERY_MAX_CJK = 8;    // 中文：8 字以內視為關鍵字查詢
+const KEYWORD_QUERY_MAX_WORDS = 3;  // 英文：3 個單字以內
 const NEWS_CATEGORY = '新聞存檔';
 const TIME_SENSITIVE_RE = /(今天|今日|現在|目前|即時|實時|today|right now|currently|real-?time)/i;
 const CHUNK_CHAR_CAP = 900; // 防呆：單一 chunk 最多帶入的字元數
@@ -169,10 +175,20 @@ export async function embedQuery(env, text) {
   return res.data[0];
 }
 
+/** 判斷使用者是「丟關鍵字」還是「問完整問句」——兩者的相似度分數分佈不同，門檻要分開 */
+export function isKeywordQuery(message) {
+  const t = message.trim();
+  if (/[？?。！!，,、]/.test(t)) return false; // 有標點＝完整句子
+  const cjk = (t.match(/[一-鿿]/g) || []).length;
+  if (cjk > 0) return cjk <= KEYWORD_QUERY_MAX_CJK;
+  return t.split(/\s+/).filter(Boolean).length <= KEYWORD_QUERY_MAX_WORDS;
+}
+
 /** 向量檢索 + 相似度門檻過濾 + 時效性防呆（新聞存檔不能拿來回答「今天/現在」類問題） */
 export async function retrieveChunks(env, vector, message) {
+  const threshold = isKeywordQuery(message) ? KEYWORD_QUERY_THRESHOLD : SIMILARITY_THRESHOLD;
   const result = await env.VECTORIZE.query(vector, { topK: VECTORIZE_TOP_K, returnMetadata: 'all' });
-  let matches = (result.matches || []).filter(m => m.score >= SIMILARITY_THRESHOLD);
+  let matches = (result.matches || []).filter(m => m.score >= threshold);
   if (TIME_SENSITIVE_RE.test(message)) {
     matches = matches.filter(m => !(m.metadata?.category || '').split(',').includes(NEWS_CATEGORY));
   }
@@ -220,6 +236,89 @@ Join the Go Bali Go Bali Travel Community to browse the most complete Bali trave
 ✅ 免費註冊，立即加入討論！
 👉 [https://community.gobaligo.id/](https://community.gobaligo.id/)`,
 };
+
+// ── 關鍵字比對備援 ───────────────────────────────────────────────────────────
+// 向量檢索有兩個漏抓來源：(1) Vectorize 索引是手動重建的，剛發佈的文章還沒進去；
+// (2) 只寫在標題／tags 裡的詞（例如「髒水病」只出現在 Bali Belly 那篇的標題）分數不夠高。
+// 這時改用 build 時產生的 /chatbot-keyword-index.json 比對標題與 tags，有對到就把文章
+// 連結給使用者，而不是回「本站沒有對應文章」。該檔案每次 build 重新產生，新文章一上線就查得到。
+const KEYWORD_INDEX_PATH = '/chatbot-keyword-index.json';
+const KEYWORD_FALLBACK_MAX_CHARS = 30; // 只對短查詢做；長問句本來就是向量檢索的強項
+const KEYWORD_FALLBACK_MIN_CJK = 2;    // 命中詞至少 2 個中文字，避免「的」「島」這種誤判
+const KEYWORD_FALLBACK_MIN_ASCII = 4;
+const KEYWORD_FALLBACK_MAX_CJK = 6;
+const KEYWORD_FALLBACK_TOP_N = 3;
+
+let keywordIndexCache; // isolate 層級快取，同一個 isolate 不重複抓
+
+async function loadKeywordIndex(context) {
+  if (keywordIndexCache) return keywordIndexCache;
+  try {
+    const url = new URL(KEYWORD_INDEX_PATH, context.request.url);
+    const res = context.env.ASSETS
+      ? await context.env.ASSETS.fetch(url)
+      : await fetch(url, { cf: { cacheTtl: 3600 } });
+    if (res.ok) keywordIndexCache = await res.json();
+  } catch (err) {
+    console.error('keyword index fetch error:', err); // 抓不到就退回原本的「找不到」回覆
+  }
+  return keywordIndexCache || null;
+}
+
+/** 取出查詢字串裡的中文詞片段與英文單字（中文沒有詞界，只能列 n-gram） */
+export function queryTerms(message) {
+  const terms = new Set();
+  // 命中詞至少要涵蓋查詢 2/3 的中文字，否則離題問題會被通用詞帶到不相干的文章：
+  // 「幫我寫一段 python 程式」對到〈如何寫一篇精彩的峇里島遊記〉、「推薦股票」對到各種「推薦」文。
+  const cjkTotal = (message.match(/[一-鿿]/g) || []).length;
+  const minCjk = Math.max(KEYWORD_FALLBACK_MIN_CJK, Math.ceil(cjkTotal * 2 / 3));
+  for (const run of message.match(/[一-鿿]+/g) || []) {
+    const maxLen = Math.min(KEYWORD_FALLBACK_MAX_CJK, run.length);
+    for (let len = maxLen; len >= minCjk; len--) {
+      for (let i = 0; i + len <= run.length; i++) terms.add(run.slice(i, i + len));
+    }
+  }
+  for (const word of message.match(/[a-zA-Z][a-zA-Z0-9-]*/g) || []) {
+    if (word.length >= KEYWORD_FALLBACK_MIN_ASCII) terms.add(word.toLowerCase());
+  }
+  return [...terms];
+}
+
+/** 用標題／tags 找出最相關的幾篇文章；命中詞越長視為越相關，標題命中優先於 tags 命中 */
+export function keywordSearch(index, message) {
+  const terms = queryTerms(message);
+  if (!terms.length) return [];
+  const scored = [];
+  for (const article of index) {
+    const title = article.t.toLowerCase();
+    const keys = (article.k || '').toLowerCase();
+    let score = 0;
+    for (const term of terms) {
+      // 標題出現該詞，比只寫在 tags 更能代表「這篇就是在講這件事」，同長度時排前面
+      const hit = title.includes(term) ? term.length + 0.5 : (keys.includes(term) ? term.length : 0);
+      if (hit > score) score = hit;
+    }
+    if (score) scored.push({ ...article, score });
+  }
+  if (!scored.length) return [];
+  // 只留命中詞最長的那一批：短片語（例如「峇里島」）幾乎每篇都有，全收只會變成雜訊。
+  // index 本身依發佈日期新到舊排序，同分時自然是新文章優先。
+  const top = Math.max(...scored.map(a => a.score));
+  return scored.filter(a => a.score === top).slice(0, KEYWORD_FALLBACK_TOP_N);
+}
+
+const KEYWORD_FALLBACK_INTRO = {
+  'en': "I couldn't find a passage that answers this directly, but these articles should help:",
+  'zh-CN': '这题我没有找到可以直接引用的段落，不过本站这几篇应该帮得上忙：',
+  'zh-HK': '呢題我搵唔到可以直接引用嘅段落，不過本站呢幾篇應該幫到手：',
+  'zh-TW': '這題我沒有找到可以直接引用的段落，不過本站這幾篇應該幫得上忙：',
+};
+
+function buildKeywordFallbackReply(hits, lang) {
+  const intro = pick(KEYWORD_FALLBACK_INTRO, lang);
+  const lines = hits.map(h => `📖 [${h.t}](${localizeUrl(h.u, lang)})`);
+  return [intro, ...lines].join('\n');
+}
 
 // 沒有任何 chunk 過門檻時的固定回覆——涵蓋兩種情況（不呼叫 LLM，故用固定文案）：
 // 1) 離題問題（例如寫程式、跟峇里島無關）2) 峇里島相關但本站剛好沒有對應文章
@@ -415,9 +514,13 @@ export async function onRequestPost(context) {
   // 有指定導流的主題（入境流程 / 行程規劃）就算沒檢索到 chunk 也要給出指定連結，
   // 這時直接回指定導流文字，不講「本站沒有對應文章」以免自相矛盾。
   if (matches.length === 0) {
-    const body = pins.length
-      ? pins.map(p => p.line).join('\n\n')
-      : (NOT_FOUND_REPLY[lang] || NOT_FOUND_REPLY['zh-TW']);
+    let body = pins.length ? pins.map(p => p.line).join('\n\n') : '';
+    if (!body && message.length <= KEYWORD_FALLBACK_MAX_CHARS) {
+      const index = await loadKeywordIndex(context);
+      const hits = index ? keywordSearch(index, message) : [];
+      if (hits.length) body = buildKeywordFallbackReply(hits, lang);
+    }
+    if (!body) body = NOT_FOUND_REPLY[lang] || NOT_FOUND_REPLY['zh-TW'];
     const reply = body + (COMMUNITY_FOOTER[lang] || COMMUNITY_FOOTER['zh-TW']);
     context.waitUntil(logChat(env, message, reply, pageLang, 0, null));
     return Response.json({ reply }, { headers: corsHeaders });

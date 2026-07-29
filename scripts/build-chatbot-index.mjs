@@ -18,6 +18,7 @@
  *   node scripts/build-chatbot-index.mjs --pilot   # 20 articles (5 each: 住宿推薦/峇里島分區攻略/叫車包車/簽證通關)
  *   node scripts/build-chatbot-index.mjs           # all zh-TW articles
  *   node scripts/build-chatbot-index.mjs --force   # ignore cache, re-embed everything
+ *   node scripts/build-chatbot-index.mjs --dry-run # 只切 chunk 並印出第一個，不呼叫 API
  */
 import { readFileSync, readdirSync, writeFileSync, mkdtempSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
@@ -49,6 +50,11 @@ function loadDotEnv() {
 loadDotEnv();
 
 const INDEX_NAME = 'gobaligo-chatbot';
+// chunk 的 embedding 內容格式版本。改格式後舊向量會跟新查詢對不上，
+// 版本號變更時會忽略 .chatbot-index-cache.json 直接重新 embed 全部文章。
+//   1 = 只 embed 內文
+//   2 = 標題＋小標＋關鍵字（tags/category）＋內文
+const INDEX_VERSION = 2;
 const EMBED_MODEL = '@cf/baai/bge-m3';
 const CHUNK_TARGET_TOKENS = 450;
 const CHUNK_MAX_TOKENS = 500;
@@ -58,6 +64,7 @@ const UPSERT_BATCH_SIZE = 500; // stay under wrangler's 1000/5000 limits comfort
 const args = process.argv.slice(2);
 const isPilot = args.includes('--pilot');
 const isForce = args.includes('--force');
+const isDryRun = args.includes('--dry-run');
 
 const ACCOUNT_ID = process.env.WORKERS_AI_ACCOUNT_ID || '8539451c59b0447bc90fea01f29d10c8';
 const API_TOKEN = process.env.WORKERS_AI_API_TOKEN;
@@ -160,6 +167,23 @@ function splitOversizedParagraph(para) {
   return pieces.length ? pieces : [para];
 }
 
+/**
+ * 產生實際送去 embedding 的文字：內文前面補上標題、小標與關鍵字。
+ *
+ * 只 embed 內文會漏掉「只寫在標題／tags 裡的詞」——例如〈Bali Belly 峇里島腹瀉/腸胃炎/
+ * 髒水病如何自救〉整篇內文都寫「Bali Belly」「峇里島腹瀉」，「髒水病」只出現在標題，
+ * 使用者查「髒水病」就永遠檢索不到這篇。把標題/小標/tags 一起 embed 可以補上這段落差。
+ *
+ * 注意：這只影響向量，metadata.text 仍存原始內文，送進 LLM 的 context 不會被標題洗版。
+ */
+function buildEmbedText({ title, heading, keywords, text }) {
+  const lines = [title];
+  if (heading && heading !== title) lines.push(heading);
+  if (keywords) lines.push(`關鍵字：${keywords}`);
+  lines.push(text);
+  return lines.join('\n');
+}
+
 /** 將單一 section 切成 300-500 token 的 chunk，相鄰 overlap ~50 token */
 function chunkSection(text) {
   const paragraphs = text.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean)
@@ -209,6 +233,8 @@ function loadArticles() {
     const fmBlock = raw.split('---').slice(0, 2).join('---');
     const category = parseYamlList(fmBlock, 'category')
       || (Array.isArray(fm.category) ? fm.category : (fm.category ? [fm.category] : []));
+    const tags = parseYamlList(fmBlock, 'tags')
+      || (Array.isArray(fm.tags) ? fm.tags : (fm.tags ? [fm.tags] : []));
 
     const slugId = fm.slug || slugifyFilename(id);
     const bodyRaw = raw.split(/^---$/m).slice(2).join('---');
@@ -219,6 +245,7 @@ function loadArticles() {
       title: fm.title,
       url: `/blog/${slugId}/`,
       category: Array.isArray(category) ? category : [category].filter(Boolean),
+      tags: Array.isArray(tags) ? tags : [tags].filter(Boolean),
       pubDate: fm.pubDate || '2000-01-01',
       body: cleanBody(bodyRaw),
       contentHash: createHash('md5').update(raw).digest('hex'),
@@ -297,11 +324,17 @@ function upsertBatch(vectors) {
 
 // ── Main ──────────────────────────────────────────────────────────────────
 async function main() {
-  let cache = { files: {} };
+  let cache = { version: INDEX_VERSION, files: {} };
   try {
     cache = JSON.parse(readFileSync(cacheFile, 'utf-8'));
     cache.files ??= {};
   } catch { /* first run, no cache yet */ }
+
+  // embedding 格式改版後，舊快取記錄的 hash 不再代表「索引是最新的」
+  if (cache.version !== INDEX_VERSION) {
+    console.log(`♻️  索引格式版本 ${cache.version ?? 1} → ${INDEX_VERSION}，忽略快取重新 embed 全部文章`);
+    cache = { version: INDEX_VERSION, files: {} };
+  }
 
   const allArticles = loadArticles();
   const targetArticles = isPilot ? selectPilot(allArticles) : allArticles;
@@ -323,6 +356,7 @@ async function main() {
   const allChunks = [];
   for (const article of toProcess) {
     const sections = splitByHeadings(article.body, article.title);
+    const keywords = [...new Set([...article.tags, ...article.category])].join('、');
     let chunkIndex = 0;
     for (const section of sections) {
       const pieces = chunkSection(section.text);
@@ -331,10 +365,17 @@ async function main() {
           id: `${article.id}#${chunkIndex++}`,
           articleId: article.id,
           text: piece,
+          embedText: buildEmbedText({
+            title: article.title,
+            heading: section.heading,
+            keywords,
+            text: piece,
+          }),
           metadata: {
             title: article.title,
             url: article.url,
             category: article.category.join(','),
+            tags: article.tags.join(','),
             lang: 'zh-TW',
             heading: section.heading,
           },
@@ -343,7 +384,7 @@ async function main() {
     }
   }
 
-  const totalTokens = allChunks.reduce((sum, c) => sum + estimateTokens(c.text), 0);
+  const totalTokens = allChunks.reduce((sum, c) => sum + estimateTokens(c.embedText), 0);
   console.log(`✂️  切出 ${allChunks.length} 個 chunks，估計 ${totalTokens.toLocaleString()} tokens`);
   console.log(`💰 bge-m3 embedding 估計成本：$${(totalTokens / 1_000_000 * 0.012).toFixed(4)}（$0.012 / M tokens）`);
 
@@ -352,9 +393,15 @@ async function main() {
     return;
   }
 
+  if (isDryRun) {
+    console.log('\n🔍 --dry-run：以下是第一個 chunk 實際會送去 embedding 的內容，不呼叫 API：\n');
+    console.log(allChunks[0].embedText.slice(0, 600));
+    return;
+  }
+
   // Probe embedding dimensions with the first chunk, then ensure the index exists.
   console.log('🧪 產生第一批 embedding 以確認向量維度…');
-  const probeEmbeddings = await embedBatch([allChunks[0].text]);
+  const probeEmbeddings = await embedBatch([allChunks[0].embedText]);
   const dimensions = probeEmbeddings[0].length;
   console.log(`📐 embedding 維度：${dimensions}`);
   ensureIndex(dimensions);
@@ -376,14 +423,14 @@ async function main() {
     let batchTokens = 0;
     while (idx < allChunks.length && batch.length < MAX_BATCH_ITEMS) {
       const chunk = allChunks[idx];
-      const t = estimateTokens(chunk.text);
+      const t = estimateTokens(chunk.embedText);
       if (batch.length > 0 && batchTokens + t > MAX_BATCH_TOKENS) break;
       batch.push(chunk);
       batchTokens += t;
       idx++;
     }
 
-    const vectors = await embedBatch(batch.map(c => c.text));
+    const vectors = await embedBatch(batch.map(c => c.embedText));
     for (let j = 0; j < batch.length; j++) {
       pending.push({
         id: batch[j].id,
@@ -405,6 +452,7 @@ async function main() {
   for (const article of toProcess) {
     cache.files[article.id] = article.contentHash;
   }
+  cache.version = INDEX_VERSION;
   writeFileSync(cacheFile, JSON.stringify(cache, null, 2), 'utf-8');
 
   console.log(`✅ 完成：${toProcess.length} 篇文章、${allChunks.length} 個 chunks 已 upsert 到 Vectorize index "${INDEX_NAME}"`);
