@@ -53,7 +53,12 @@ jobs:
           if git diff --cached --quiet; then
             echo "沒有變動需要提交"
           else
-            git commit -m "chore: 自動更新文章 updatedDate [skip translate]"
+            # [CF-Pages-Skip] 讓 Cloudflare Pages 不要為了這個 commit 再跑一次全站 build。
+            # updatedDate 只影響 sitemap lastmod 與頁面顯示，下一次任何部署都會帶上，
+            # 但每多一次全站 build 就多佔用一輪部署佇列，讓真正的新文章排隊等更久。
+            # 用 [CF-Pages-Skip] 而非 [skip ci]：後者會連 GitHub Actions 一起跳過，
+            # 那會讓 submit-to-google 收不到這次更新。
+            git commit -m "[CF-Pages-Skip] chore: 自動更新文章 updatedDate [skip translate]"
             git pull --rebase origin main
             git push
           fi

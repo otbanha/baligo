@@ -11,6 +11,7 @@ import TripPlannerBanner from '../components/TripPlannerBanner.astro';
 import RelatedMapCard from '../components/RelatedMapCard.astro';
 import ForumLatestTopics from '../components/ForumLatestTopics.astro';
 import { getCollection } from 'astro:content';
+import { getPostIndex, seededShuffle } from '../utils/post-index';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 import { getAvailableLangs } from '../utils/lang-availability';
 import { AUTHOR } from '../data/author';
@@ -103,7 +104,10 @@ const quickAnswer = toSummary(
 );
 
 const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : lang === 'id' ? 'id' : 'blog';
-const allPosts = await getCollection(collectionName as any);
+const { allPosts, categories, categoryCounts, byCategory } = await getPostIndex(collectionName);
+
+// 相關文章洗牌的種子：同一篇文章跨 build 得到相同結果，HTML 才不會每次都變。
+const shuffleSeed = slug ?? title;
 
 const CAT_EN: Record<string, string> = {
   '新手指南': "Beginner's Guide",
@@ -256,44 +260,10 @@ const i18n = {
     : '峇里島旅遊部落客・Go Bali Go 站長',
 };
 
-const categoryOrder = [
-  '新手指南',
-  '住宿推薦',
-  '峇里島分區攻略',
-  '簽證通關',
-  '叫車包車',
-  '家庭親子',
-  '遊記分享',
-  '美食景點活動',
-  '新聞存檔',
-];
-
-const allCategories = [...new Set(allPosts.flatMap(p =>
-  Array.isArray(p.data.category) ? p.data.category : [p.data.category]
-).filter(Boolean))];
-
-const categories = [
-  ...categoryOrder.filter(c => allCategories.includes(c)),
-  ...allCategories.filter(c => !categoryOrder.includes(c)),
-];
-
-const categoryCounts = categories.reduce((acc, cat) => {
-  acc[cat] = allPosts.filter(p => {
-    const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
-    return cats.includes(cat);
-  }).length;
-  return acc;
-}, {});
-
 // 相關文章推薦：同分類優先，補足用 companion 分類（Topical Authority Siloing）
 const getRandomPosts = (categoryName: string, count: number) => {
-  return allPosts
-    .filter(p => {
-      const pCats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
-      return pCats.includes(categoryName) && p.data.title !== title;
-    })
-    .sort(() => Math.random() - 0.5)
-    .slice(0, count);
+  const pool = (byCategory.get(categoryName) ?? []).filter(p => p.data.title !== title);
+  return seededShuffle(pool, `${shuffleSeed}|${categoryName}`).slice(0, count);
 };
 
 const primaryCat = cats[0] ?? '峇里島分區攻略';
@@ -302,16 +272,16 @@ const primaryCat = cats[0] ?? '峇里島分區攻略';
 const isNewsPost = cats.includes('新聞存檔');
 const postTags: string[] = Array.isArray(tags) ? tags : (tags ? [tags] : []);
 const tagRelatedPosts = isNewsPost && postTags.length > 0
-  ? allPosts
-      .filter(p => {
+  ? seededShuffle(
+      allPosts.filter(p => {
         if (p.data.title === title) return false;
         const pCats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
         if (pCats.includes('新聞存檔')) return false;
         const pTags: string[] = Array.isArray(p.data.tags) ? p.data.tags : (p.data.tags ? [p.data.tags] : []);
         return pTags.some(t => postTags.includes(t));
-      })
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 3)
+      }),
+      `${shuffleSeed}|tags`,
+    ).slice(0, 3)
   : [];
 
 const sameCatPosts = getRandomPosts(primaryCat, 4);
