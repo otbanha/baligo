@@ -3,6 +3,14 @@
 # =============================================
 # 手寫 slug 別名轉址（大小寫、舊 slug 修正）
 # =============================================
+
+# 原本由 generate-redirects 依 src/content/blog/2023-01-22-64db6b7efd897800013a97ed.mdx
+# 自動產生，該檔是 spa.mdx 的重複版（同 slug）已刪除，轉址改手寫保留舊外連。
+/blog/2023-01-22-64db6b7efd897800013a97ed/ /blog/spa/ 301
+/en/blog/2023-01-22-64db6b7efd897800013a97ed/ /en/blog/spa/ 301
+/zh-cn/blog/2023-01-22-64db6b7efd897800013a97ed/ /zh-cn/blog/spa/ 301
+/zh-hk/blog/2023-01-22-64db6b7efd897800013a97ed/ /zh-hk/blog/spa/ 301
+/id/blog/2023-01-22-64db6b7efd897800013a97ed/ /id/blog/spa/ 301
 /blog/Bvlgari-Resort-Bali/ /blog/bvlgari-resort-bali-uluwatu/ 301
 /zh-cn/blog/Bvlgari-Resort-Bali/ /zh-cn/blog/bvlgari-resort-bali-uluwatu/ 301
 /zh-hk/blog/Bvlgari-Resort-Bali/ /zh-hk/blog/bvlgari-resort-bali-uluwatu/ 301

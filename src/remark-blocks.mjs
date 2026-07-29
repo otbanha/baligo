@@ -2,6 +2,38 @@ import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
 
+/**
+ * 以字串為種子的洗牌。原本用 `sort(() => Math.random() - 0.5)`，等於每次 build
+ * 每一篇含 block 的文章 HTML 都不一樣，Cloudflare Pages 因此每次都要重傳
+ * （實測冷快取下 1266 頁）。改成用「檔案路徑 + block 內容」當種子：
+ * 每篇文章、每個 block 的排列依然各自不同，但跨 build 穩定。
+ * 同樣的手法也用在 src/utils/post-index.ts 的相關文章推薦。
+ */
+function hashString(s) {
+  let h = 2166136261 >>> 0;
+  for (let i = 0; i < s.length; i++) {
+    h ^= s.charCodeAt(i);
+    h = Math.imul(h, 16777619) >>> 0;
+  }
+  return h >>> 0;
+}
+
+function seededShuffle(arr, seed) {
+  let a = hashString(seed) >>> 0;
+  const rand = () => {
+    a = (a + 0x6d2b79f5) | 0;
+    let t = Math.imul(a ^ (a >>> 15), 1 | a);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+  const out = arr.slice();
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
 export function remarkBlocks(embedMap = {}) {
   return (tree, vfile) => {
     const baseDir = join(process.cwd(), 'src/content/blocks');
@@ -108,7 +140,10 @@ export function remarkBlocks(embedMap = {}) {
         }
 
         const count = Math.min(block.randomCount, items.length);
-        const shuffled = items.sort(() => Math.random() - 0.5).slice(0, count);
+        // 種子只取檔名而非完整路徑：本地與 CF build 的絕對路徑不同，
+        // 取檔名才能讓兩邊算出一樣的排列。
+        const seed = `${filePath.split('/').pop()}|${lang}|${block.content}`;
+        const shuffled = seededShuffle(items, seed).slice(0, count);
 
         if (block.type === 'random-list') {
           const nonListLines = block.content
