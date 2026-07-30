@@ -4,8 +4,8 @@ slug: bali-family-trip-highlights
 description: >-
   Liburan keluarga ke Bali kali ini, buat kami sekeluarga berempat, benar-benar
   perjalanan penuh kejutan dan haru. Sebagai traveler yang udah empat kali
-  menginjakkan kaki di tanah indah ini, kami masih bisa nemuin keseruan dan
-  momen mengharukan baru di sini...
+  menginjakkan kaki di pulau cantik ini, kami masih bisa nemuin keseruan dan
+  momen-momen mengharukan baru di sini...
 pubDate: 2024-09-09T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
@@ -25,25 +25,25 @@ lang: id
 _srcHash: PENDING_RETRY_aaec344685645ce433f67846db9b52f3
 ---
 
-> 以下內容由團友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供給我們重新編排：
+> Konten di bawah ini disusun ulang dari kontribusi anggota grup [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) untuk kami:
 
-Liburan ke Bali kali ini buat kami sekeluarga berempat benar-benar perjalanan penuh kejutan dan haru. Sebagai traveler yang udah empat kali ke sini, kami masih bisa nemuin keseruan dan momen baru yang bikin terharu. Makasih banget buat admin grup '[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)' dan anggota-anggota lain yang udah banyak berbagi, jadi kami bisa bikin itinerary yang super sempurna!
+Perjalanan ke Bali kali ini buat kami sekeluarga berempat benar-benar trip yang penuh kejutan dan haru. Sebagai traveler yang udah empat kali ke pulau indah ini, kami masih bisa nemuin keseruan dan momen spesial baru. Makasih banget buat admin grup '[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)' dan anggota grup yang udah berbagi banyak info, jadi kami bisa rencanain itinerary yang super perfect!
 
 ## **Highlight Perjalanan & Rekomendasi Tempat Wisata**
 
-Ini dia beberapa highlight dari liburan Bali kali ini, plus tempat-tempat yang menurut keluarga kami worth it banget buat dikunjungi:
+Nih, beberapa highlight dari trip Bali kali ini, plus tempat-tempat yang menurut keluarga kami worth it buat dikunjungi:
 
-### **GWK Cultural Park – Pemandangan Spektakuler & Spot Foto Kece**
+### **GWK Cultural Park — Pemandangan Spektakuler & Spot Foto Kece**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_72d0d1ff108fd55efb1b84998fe2541e.jpg)
 
 Dokumentasi oleh Lin Xiaozhao
 
-Kali ini kami sengaja masukin GWK Cultural Park ke itinerary. Selain punya warisan budaya yang megah, tempat ini juga punya banyak spot cantik yang wajib banget diabadikan. Area taman-nya luas banget, saran banget naik shuttle bus biar bisa santai nikmatin setiap sudutnya.
+Kali ini kami sengaja masukin GWK Cultural Park ke itinerary. Selain warisan budayanya yang megah, di sini juga banyak banget pemandangan cantik yang wajib diabadikan. Areanya luas banget, jadi saran banget naik shuttle bus biar bisa santai nikmatin tiap sudutnya.
 
 > [Panduan Lengkap Garuda Wisnu Kencana GWK Cultural Park Bali](/id/blog/gwk-cultural-park-bali/)
 
-🦅☀️🌴GWK Cultural Park, patung Wisnu dan Garuda yang megah bikin speechless 😍, plus bisa nonton tarian tradisional — perpaduan budaya dan alam yang sempurna ▶[Klik pesan tiket via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
+🦅☀️🌴GWK Cultural Park (Garuda Wisnu Kencana), patung Dewa Wisnu dan Garuda yang megah bikin speechless 😍, plus bisa nonton pertunjukan tradisional — perpaduan budaya dan alam yang sempurna ▶[Klik untuk tiket via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
 ### **泛舟之旅——興奮與溫馨的結合**
 
@@ -67,32 +67,32 @@ Kali ini kami sengaja masukin GWK Cultural Park ke itinerary. Selain punya waris
 
 🛕🐒🌿烏布一日遊，探索IG熱門景點、欣賞鬼斧神工自然美景，享受當地美食與麝香貓咖啡 ☕📸，文化與自然的完美結合 ▶[Klook 50+旅程任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
-### **Paperhills Coffee — Pemandangan Spektakuler yang Beruntung Banget**
+### **Paperhills Coffee——Rejeki Numpuk, Pemandangan Juara!**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_47d2f7b41f092231670b8d87d4178889.jpg)
 
 Dokumentasi: Lin Xiaozhao
 
-Di Paperhills Coffee, kami beruntung banget bisa lihat Gunung Batur yang megah — gunung api aktif ini kelihatan jelas dari puncak sampai kaki, bikin speechless. Kafe ini punya empat lantai, setiap sudutnya Instagramable banget. Tinggal pakai baju yang udah kamu siapin, jepret aja di mana aja pasti jadi foto estetik. Enaknya pakai mobil sewaan, kita bisa bawa koper gede-gede berisi perlengkapan foto, kapan aja siap mengabadikan momen keren.
+Di Paperhills Coffee, kita beruntung banget bisa lihat Gunung Batur yang megah. Gunung api aktif ini keliatan jelas dari puncak sampai kaki, bener-bener bikin speechless. Kafenya punya empat lantai, tiap sudut bisa jadi spot foto estetik. Tinggal pakai baju yang udah kamu siapin, jepret aja, langsung jadi kayak influencer. Enaknya pakai mobil sewaan, kita bisa bawa koper gede-gede berisi perlengkapan foto, kapan aja siap mengabadikan momen kece.
 
-> Baca juga: [12 Rekomendasi Kafe dengan Pemandangan Gunung Batur di Kintamani, Bali](/id/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+> Baca juga: [12 Rekomendasi Kafe dengan Pemandangan Gunung di Kintamani, Bali](/id/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
-### **Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan**
+### **Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_65294e5019f7c902214a58b18878fd74.jpg)
 
 Dokumentasi: Lin Xiaozhao
 
-Kami nginep di Rijasa Agung, Ubud, yang letaknya persis di tepi Sungai Ayung. Setiap pagi bangun tidur langsung disambut suara gemericik air sungai — bikin rileks maksimal. Suhu di sini pas banget, nggak panas nggak dingin. Kamar keluarga dilengkapi kolam renang pribadi, taman, dan bale santai. Luasnya aja kayaknya lebih dari 300 meter persegi, worth it banget! Keluarga kami puas luar biasa.
+Kita nginep di Rijasa Agung, Ubud, yang letaknya persis di tepi Sungai Ayung. Setiap pagi bangun tidur langsung disambut suara gemericik air sungai, bikin rileks banget. Suhu di sini pas, nggak panas nggak dingin. Kamar keluarga kita punya kolam renang pribadi, taman, dan bale santai. Luasnya kayaknya lebih dari 300 meter persegi, worth it banget! Keluarga kita semua puas.
 
-![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
-![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
-![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
-![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
-![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
-![Rijasa Agung Ubud — Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
+![Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834357439-510412090.jpg)
+![Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834357871-510412091.jpg)
+![Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834358323-510412149.jpg)
+![Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834358773-510412195.jpg)
+![Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834359359-510412197.jpg)
+![Rijasa Agung Ubud——Perpaduan Sempurna Antara Ketenangan dan Kenyamanan](https://images.gobaligo.id/images/2026-06/1780834359739-510412214.jpg)
 
-> ▶ Cek harga & ketersediaan kamar Rijasa Agung Resort and Villas di [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1744536/rijasa-agung-resort-and-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/c79DvepT)
+> ▶Cek Harga & Ketersediaan Kamar Rijasa Agung Resort and Villas di [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1744536/rijasa-agung-resort-and-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/c79DvepT)
 
 Sudah masuk dalam daftar [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Unik di Ubud, Nikmati Petualangan di Tengah Keindahan Alam Pegunungan Bali!](/id/blog/ubud-resorts-guide/)
 
@@ -100,27 +100,27 @@ Sudah masuk dalam daftar [【Rekomendasi Penginapan Ubud Bali】28 Akomodasi Uni
 
 https://youtube.com/shorts/v7NAvCARzKY
 
-Kamu pasti udah pernah main gokart, tapi bisa nyetir langsung di jalanan hutan Ubud? Ini pengalaman baru yang cuma ada di Bali! Kami melaju kencang di tengah pemandangan sawah, ditemani mobil pemandu yang muterin lagu seru sambil ngecek kondisi jalan. Sepanjang jalan ada ayam berlarian, sapi malas melenguh — meski cuma 30 menit, pengalaman ini penuh banget keseruannya.
+Karting mungkin sudah banyak yang coba, tapi bisa langsung nyetir di jalanan hutan Ubud? Ini pengalaman baru yang cuma ada di Bali! Kami melaju kencang di tengah pemandangan sawah, ditemani mobil pemandu yang muterin lagu seru buat ngecek kondisi jalan. Sepanjang jalan ada ayam berlarian, sapi malas melenguh — meski cuma 30 menit, pengalaman ini penuh banget keseruannya.
 
-Bisa cek info lengkap di sini: [Petualangan Mario Kart Hutan Ubud Bali Jungle Cart Bali](/id/blog/ubud-jungle-cart-adventure/)
+Bisa cek info lengkapnya di sini: [Bali Ubud Jungle Mario Kart Jungle Cart Bali](/id/blog/ubud-jungle-cart-adventure/)
 
 🏎️🏎️ [Pesan Pengalaman Jungle Cart](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 
-### **Rekomendasi Driver Sewa Mobil — Pelayanan Ramah dari Kang Ge dan Te Jia**
+### **Rekomendasi Driver Sewa Mobil——Pelayanan Ramah dari Kang Ge dan Te Jia**
 
 ![上圖：最左邊是「特家」。 話不多，但有問必答，我覺得很好！ 下：中間穿黃色上衣的是「康哥」 超友善好聊，讓我們第一天就很放鬆自在（林小昭提供）](https://images.gobaligo.id/vocus/vocus_808c2ba46b677a47d5ab38edbac6e146.jpg)
 
-Foto atas: Paling kiri itu 'Te Jia'. Dia nggak banyak bicara, tapi kalau ditanya pasti dijawab — menurutku sih oke banget! Bawah: Yang tengah pakai baju kuning itu 'Kang Ge' — super ramah dan asyik diajak ngobrol, bikin hari pertama kami santai banget (foto oleh Lin Xiaozhao)
+Foto atas: paling kiri itu 'Te Jia'. Dia nggak banyak bicara, tapi kalau ditanya pasti dijawab — menurutku sih oke banget! Bawah: yang tengah pakai baju kuning itu 'Kang Ge' — super ramah dan asyik diajak ngobrol, bikin hari pertama kami santai banget (foto oleh Lin Xiaozhao)
 
-Terima kasih banget buat driver sewa mobil kami, Kang Ge dan Te Jia. Dari jemput bandara sampai atur itinerary tiap hari, mereka ramah, tepat waktu, dan perhatian banget. Kang Ge bahkan nelpon khusus buat nanyain kondisi anak pertama saya yang lagi pilek, dan nawarin anter ke dokter atau beli obat — pelayanan kayak gini bikin hati terharu. Te Jia juga udah komunikasi detail soal itinerary sebelum berangkat, bahkan bantuin pesen restoran, hubungi rafting, pijat, dan jadwal gokart — semuanya berjalan lancar dan nyaman.
+Terima kasih banget buat driver sewa mobil kami, Kang Ge dan Te Jia. Dari jemput bandara sampai atur itinerary tiap hari, mereka ramah banget, tepat waktu, dan perhatian. Kang Ge bahkan nelpon khusus buat nanyain kondisi anak sulungku yang lagi pilek, dan nawarin anter ke dokter atau beli obat — pelayanan kayak gini bikin hati tersentuh. Te Jia juga udah komunikasi detail soal itinerary sebelum berangkat, bahkan bantuin pesen restoran, hubungin rafting, pijat, dan karting — bikin semuanya lancar dan nyaman.
 
 ## Penutup
 
-Liburan Bali kali ini jadi berkesan banget berkat info dari grup '[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)' dan ditemani driver sewa mobil yang setia. Setiap perjalanan pasti punya cerita unik, dan trip ke Bali kali ini jelas jadi salah satu kenangan paling berharga buat keluarga kami. Nggak sabar buat balik lagi ke pulau yang penuh pesona ini, dan eksplor keindahannya yang nggak ada habisnya.
+Liburan Bali kali ini jadi berkesan banget berkat info dari grup '[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)' dan ditemani driver sewa mobil yang setia. Setiap perjalanan pasti punya cerita unik, dan trip ke Bali kali ini jelas jadi salah satu kenangan paling berharga buat sekeluarga. Nggak sabar buat balik lagi ke pulau yang penuh pesona ini, dan eksplor lagi keindahannya yang nggak ada habisnya.
 
 {{block:親子}}
 
-Kamu pikir itinerary-nya Lin Xiaozhao dan teman-teman seru banget? Yuk, buruan atur liburan seru ke Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
+Kamu pikir itinerary-nya Lin Xiaozhao dan teman-teman seru banget? Yuk, buruan atur liburan seru ke Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu di grup ya!
 
 {{block:遊記}}
 

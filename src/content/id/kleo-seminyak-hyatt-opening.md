@@ -3,9 +3,9 @@ slug: kleo-seminyak-hyatt-opening
 title: '【Hyatt JdV Hadir di Bali】Hotel Baru Juli 2025: Kleo Seminyak'
 description: >-
   Kleo Seminyak adalah properti perdana dari grup Hyatt untuk brand JdV by Hyatt
-  di Asia Tenggara, mulai beroperasi Juli 2025. Berlokasi di kawasan Seminyak
-  yang super hidup, hotel ini langsung jadi salah satu akomodasi paling hits di
-  sana.
+  di Asia Tenggara. Mulai beroperasi Juli 2025, hotel ini berlokasi di kawasan
+  Seminyak yang super hidup dan langsung jadi salah satu akomodasi paling hits
+  di sana.
 pubDate: 2025-08-09T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 category:
@@ -27,37 +27,37 @@ longitude: 115.150520324707
 lang: id
 _srcHash: PENDING_RETRY_1df6f4d04d1cd55121a2ba84519728c2
 ---
-**Kesimpulan duluan**: Kleo Seminyak adalah hotel pertama dari brand **JdV by Hyatt** milik Hyatt Group di Asia Tenggara, **buka Juli 2025**, ada di Seminyak. Konsepnya santai, dekat dengan budaya lokal, cocok buat kamu yang suka desain personal dan nggak terlalu suka suasana hotel mewah yang kaku.
+**Kesimpulan dulu**: Kleo Seminyak adalah hotel pertama **JdV by Hyatt** di Asia Tenggara, **buka Juli 2025**, ada di Seminyak. Konsepnya santai, dekat dengan budaya lokal, cocok buat kamu yang suka desain personal dan nggak suka suasana hotel mewah yang kaku.
 
-Kleo Seminyak adalah properti perdana JdV by Hyatt di Asia Tenggara, mulai beroperasi Juli 2025, bertempat di kawasan Seminyak yang super hidup, langsung jadi salah satu akomodasi paling banyak dibicarakan di sana.
+Kleo Seminyak jadi kebanggaan pertama brand JdV by Hyatt di Asia Tenggara. Mulai beroperasi Juli 2025, hotel ini ada di Seminyak yang super vibrant dan langsung jadi salah satu penginapan paling banyak dibicarakan.
 
 ![【凱悅JdV插旗峇里島】2025/07新飯店 Kleo Seminyak](https://images.gobaligo.id/vocus/vocus_bd8bb7aac4749701f20259e706c43985.jpg)
 
-**JdV by Hyatt** adalah brand hotel lifestyle butik di bawah Hyatt Hotels Corporation. Nama lengkapnya dari bahasa Prancis **“Joie de Vivre”**, artinya 'kegembiraan hidup'.
+**JdV by Hyatt** adalah brand hotel lifestyle dari Hyatt Hotels Corporation. Nama lengkapnya dari bahasa Prancis **“Joie de Vivre”**, artinya 'kegembiraan hidup'.
 
-Brand ini mengusung konsep **santai, dekat dengan budaya lokal, dan penuh suasana sosial**. Nggak seperti hotel mewah tradisional yang kaku, mereka lebih menonjolkan desain personal dan hubungan dengan komunitas setempat.
+Brand ini主打**pengalaman menginap yang santai, dekat budaya lokal, dan penuh interaksi sosial**. Nggak kayak hotel mewah biasa yang kaku, mereka lebih fokus ke desain personal dan hubungan dengan komunitas sekitar.
 
-Makanya, setiap hotel JdV punya tema dan gaya sendiri, nggak monoton, dan sering banget memasukkan unsur seni, musik, kuliner, serta gaya hidup lokal.
+Makanya, tiap hotel JdV punya tema dan gaya sendiri, nggak monoton, dan sering banget ngangkat seni, musik, kuliner, serta gaya hidup lokal.
 
 ## 📍 Lokasi
 
-JdV by Hyatt pertama di Asia Tenggara - Kleo Seminyak terletak di kawasan paling ramai di Bali, yaitu \*\*_Seminyak_\*\*. Lokasinya juara banget — **_jalan kaki sekitar 3 menit aja udah sampai Pantai Petitenget_\*\***, jadi kapan aja bisa nikmatin angin laut dan sunset. Deket juga sama **Pantai Seminyak** dan **Eat Street**, bisa jalan kaki atau naik ojek sebentar. Area ini bikin kamu bisa nikmatin santai di pantai sekaligus hiruk-pikuk kota — pagi main pasir, malem jalan-jalan ke butik lokal atau kulineran. Aksesnya gampang, naik taksi atau Grab ke bandara sekitar 30–50 menit.
+JdV by Hyatt pertama di Asia Tenggara - Kleo Seminyak ada di kawasan paling rame di Bali, yaitu **Seminyak**. Lokasinya juara — **jalan kaki sekitar 3 menit aja udah sampai Pantai Petitenget**, jadi kapan aja bisa nikmatin angin laut dan sunset. Deket juga sama **Pantai Seminyak** dan **Eat Street**, bisa jalan kaki atau naik ojek sebentar. Area ini bikin kamu bisa nikmatin santai di pantai sekaligus hiruk pikuk kota — pagi main pasir, malem jalan-jalan ke butik desain atau kuliner lokal dan internasional. Sekitar hotel aksesnya gampang, naik taksi atau Grab ke bandara sekitar 30–50 menit.
 
 ## 🏖 Fasilitas
 
-Kleo Seminyak mengusung konsep 'boutique resort + social space' yang seru banget, dengan fasilitas:
+Kleo Seminyak mengusung konsep 'butik resort + social space' yang seru banget, dengan fasilitas:
 
-- **Kolam Renang Atap & Rooftop Social Bar**: Sambil berenang, kamu bisa lihat sunset laut dari ketinggian. Malamnya, jadi tempat nongkrong asik buat ngopi atau minum-minum.
-- **Restoran Zia Tina**: Dikelola oleh chef asli dari Puglia, Italia. Menyajikan pasta handmade, pizza tipis renyah, dan kreasi fusion dengan bahan lokal. Wajib coba!
+- **Kolam Renang Atap & Rooftop Social Bar**: Sambil berenang bisa lihat sunset laut, malamnya jadi tempat nongkrong asyik buat ngopi atau minum-minum.
+- **Restoran Italia Zia Tina**: Dikepalai chef asli Puglia, Italia, menyajikan pasta homemade, pizza tipis renyah, dan kreasi fusion dengan bahan lokal.
 
 ![Fasilitas](https://images.gobaligo.id/vocus/vocus_9b3fc6b14ff3ead56f8834ff3b650b5f.jpg)
 ![Fasilitas](https://images.gobaligo.id/vocus/vocus_ee29eddb089fdceecbd2be36297332d7.jpg)
 
-- **Gym & Spa**: Cocok buat kamu yang tetap ingin olahraga atau relaksasi selama liburan.
+- **Gym & Spa**: Cocok buat yang tetap ingin olahraga atau relaksasi selama liburan.
 
 ![設施](https://images.gobaligo.id/vocus/vocus_427a513c20ffd59336421ba5d1987b39.jpg)
 
-- **Resepsionis 24 jam, Wi-Fi gratis, shuttle bandara (biaya tambahan), dan baby cot (tersedia sesuai permintaan)**.
+- **Resepsionis 24 jam, Wi-Fi gratis, shuttle bandara (bayar tambahan), baby cot (bisa minta)**.
 
 ![Fasilitas](https://images.gobaligo.id/vocus/vocus_328133ed79128721a1ea2b1f14673ea4.jpg)
 ![Fasilitas](https://images.gobaligo.id/vocus/vocus_65a950a2a300de31f8f988df159d8bfa.jpg)
@@ -66,11 +66,11 @@ Kleo Seminyak mengusung konsep 'boutique resort + social space' yang seru banget
 
 ## 🛏 Kamar
 
-Total sekitar 60 kamar dengan desain mid-century modern yang berani, dipadukan dengan sentuhan etnik dan instalasi seni seperti dinding pahatan dan lampu gantung. Kamar mandinya punya nuansa zen yang menenangkan. Desain kamar menggabungkan gaya minimalis modern dengan elemen khas Bali — warna lembut, pencahayaan bagus, dan detail yang nyaman. Setiap kamar dilengkapi:
+Total sekitar 60 kamar, dengan desain mid-century modern yang berani, dipadukan sentuhan etnik dan instalasi seni seperti dinding pahatan dan lampu gantung. Kamar mandinya bernuansa zen aesthetic. Desain kamar menggabungkan gaya minimalis modern dengan elemen khas Bali, warna lembut, pencahayaan oke, dan detail yang nyaman. Setiap kamar dilengkapi:
 
 - AC, TV layar datar, brankas, alat kopi/teh
 - Kamar mandi luas dengan perlengkapan berkualitas
-- Beberapa tipe kamar punya balkon dengan pemandangan kolam atau jalan
+- Beberapa tipe punya balkon, bisa lihat kolam atau pemandangan jalan
 
 ![Kamar](https://images.gobaligo.id/vocus/vocus_ee5b2ea08566ad96e76a572749291871.jpg)
 ![Kamar](https://images.gobaligo.id/vocus/vocus_e258f4710790cab4e04ebf1bd24f6969.jpg)
@@ -79,7 +79,7 @@ Total sekitar 60 kamar dengan desain mid-century modern yang berani, dipadukan d
 ![Kamar](https://images.gobaligo.id/vocus/vocus_f5be7d35b44eda0f63d6c357a45b8ee9.jpg)
 ![Kamar](https://images.gobaligo.id/vocus/vocus_25555c4e531b726d2311500f44da1e44.jpg)
 
-> ▶[**Cek Ketersediaan & Harga Kleo Seminyak**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2419197) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10163270/kleo-seminyak-jdv-by-hyatt/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/3Xxi1GpI) Yang perlu diperhatikan, **hotel ini cuma punya kamar double dan nggak bisa tambah extra bed**, jadi kalau kamu bawa keluarga atau rombongan lebih dari 3 orang, harus pesan kamar tambahan. Secara keseluruhan, cocok banget buat pasangan, keluarga kecil (yang mau pisah kamar), atau solo traveler.
+> ▶[**Cek Ketersediaan & Harga Kleo Seminyak**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2419197) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10163270/kleo-seminyak-jdv-by-hyatt/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/3Xxi1GpI) Yang perlu kamu perhatikan, **hotel ini cuma nyediain kamar double, dan nggak bisa tambah extra bed**, jadi kalau kamu bawa keluarga atau rombongan lebih dari 3 orang, harus pesan kamar tambahan. Secara keseluruhan, tata ruangnya cocok banget buat pasangan, keluarga kecil (yang mau pisah kamar), atau solo traveler.
 
 ## ⭐ Rating
 
@@ -88,8 +88,8 @@ Berdasarkan rating dari berbagai platform, Kleo Seminyak punya reputasi yang oke
 - **Kebersihan**: 9.2/10
 - **Pelayanan**: 9.4/10 (staf ramah dan suka bantu)
 - **Fasilitas**: 8.8/10
-- **Lokasi**: 9.0/10
-   Tamu biasanya suka sama desain hotelnya, pemandangan sunset di rooftop, dan kualitas makanan di restoran.
+- **Lokasi strategis**: 9.0/10
+  Tamu biasanya suka sama desain hotel yang estetik, pemandangan matahari terbenam dari rooftop, dan kualitas makanan di restorannya.
 
 > ▶[**Cek Ketersediaan & Harga Kleo Seminyak**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2419197) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10163270/kleo-seminyak-jdv-by-hyatt/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/3Xxi1GpI)
 
