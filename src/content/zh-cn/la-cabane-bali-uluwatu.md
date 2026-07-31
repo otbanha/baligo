@@ -83,7 +83,7 @@ La Cabane 虽然房间数量不多，但每一间都经过巧思设计，带来�
 
 住在 La Cabane，不必担心会无聊：
 
-* **Balangan Beach**：清静的白沙滩就在不远处，走路即可到达。
+* **Balangan Beach**：清静的白沙滩就在不远处，步行即可到达。
 * **乌鲁瓦图庙（Uluwatu Temple）**：观赏克差火舞、看日落的绝佳地点。
 * **Padang Padang 与 Pandawa Beach**：世界级冲浪点，也很适合单纯放松。
 * **餐饮选择**：从 Gooseberry、Single Fin 到 Ulu Garden，浪漫晚餐与特色小酒馆一应俱全。
@@ -110,6 +110,7 @@ La Cabane Bali 是一个让人真正「慢下来」的地方。房间不多却�
 ✨ 如果你想在巴厘岛找到一个既浪漫又独特的落脚处，La Cabane Bali 会是难以忘怀的选择。但别忘了，它真的太热门，**一定要提早预订**！
 
 > [**▶La Cabane空房与房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10627469/la-cabane/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wKgXBxsN)
+
 
 ## 订房建议小技巧
 
