@@ -125,6 +125,9 @@ collections:
         date_format: "YYYY-MM-DD"
         time_format: false
         format: "YYYY-MM-DD"
+        # picker_utc 曾在 2026-06-18 新增 blocks-id collection 時被誤刪，
+        # 導致部分時區存檔觸發 Sveltia CMS 全域驗證錯誤（"N fields have an error"）
+        picker_utc: true
         hint: "留空表示長期有效"
 
   - name: blocks
