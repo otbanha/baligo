@@ -1,10 +1,11 @@
 ---
-title: 巴厘岛首座 Premium Outlet 开幕！Sira Village Grand Outlet Bali 必逛品牌、购物亮点一次看
+title: 巴厘岛首座Premium Outlet开业！海龟岛Sira Village Grand Outlet Bali必逛品牌、购物亮点一次看
 slug: sira-village-grand-outlet-bali
 description: >-
-  巴厘岛第一座 Premium Outlet 正式开幕！Sira Village Grand Outlet Bali 位于 Kura Kura Bali
-  海龟岛经济特区，集结超过 100 个国际品牌、全年 Outlet 折扣、美食、夕阳海景及即时航班信息，是巴厘岛最新必访购物景点。
+  巴厘岛第一座Premium Outlet正式开业！Sira Village Grand Outlet Bali位于Kura Kura
+  Bali海龟岛经济特区，汇集超过100个国际品牌、全年Outlet折扣、美食、夕阳海景及实时航班信息，是巴厘岛最新必访购物景点。
 pubDate: 2026-07-31T00:00:00.000Z
+updatedDate: 2026-08-01T00:00:00.000Z
 pubHour: 22
 category:
   - 美食景點活動
@@ -34,22 +35,22 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: b5575947659507cc92e3fc4d40a69666
+_srcHash: 588e8b1c03fe87ec8728689bdd5934ea
 ---
 
 到巴厘岛除了海滩、Villa、咖啡厅之外，现在又多了一个全新的购物地标！
 
-位于**海龟岛经济特区（Kura Kura Bali Special Economic Zone, SEZ）**内的 **Sira Village Grand Outlet Bali（GOB）**，正式成为巴厘岛第一座大型 Premium Outlet，也是目前规模最大的 Outlet Shopping Village。对于喜欢购物、寻找品牌折扣的旅客来说，未来来到巴厘岛，又多了一个值得安排半天甚至一天行程的新景点。
+位于**海龟岛经济特区（Kura Kura Bali Special Economic Zone, SEZ）**内的 **Sira Village Grand Outlet Bali（GOB）**，正式成为巴厘岛第一座大型Premium Outlet，也是目前规模最大的Outlet Shopping Village。对于喜欢购物、寻找品牌折扣的旅客来说，未来来到巴厘岛，又多了一个值得安排半天甚至一天行程的新景点。
 
 ***
 
-## 超过 100 个国际品牌，全年享有 Outlet 折扣
+## 超过100个国际品牌，全年享有Outlet折扣
 
-Sira Village 集结了**超过 100 个国际知名品牌**，主打全年 Outlet 价格，不需要等到特殊折扣季，也能买到优惠商品。
+Sira Village汇集了**超过100个国际知名品牌**，主打全年Outlet价格，不需要等到特殊折扣季，也能买到优惠商品。
 
-根据官方表示，这里贩售的商品价格**平均比一般购物中心便宜约 30%**，无论是服饰、鞋款、运动用品或生活精品，都能享受到更具吸引力的价格。
+根据官方表示，这里贩售的商品价格**平均比一般购物中心便宜约30%**，无论是服饰、鞋款、运动用品或生活精品，都能享受到更具吸引力的价格。
 
-如果你原本就有计划在巴厘岛购买品牌商品，不妨先到 Sira Village 逛逛，或许能省下不少预算。
+如果你原本就有计划在巴厘岛购买品牌商品，不妨先到Sira Village逛逛，或许能省下不少预算。
 
 ***
 
@@ -122,10 +123,10 @@ Kura Kura Bali 并不是一般的观光区，而是一座占地约 **498 公顷*
 
 其他的购物商场介绍：
 
-> [巴厘岛努沙杜瓦购物中心 Bali Collection：晚餐与采购一站式完成、SPA 体验与现场音乐表演推荐](https://gobaligo.id/zh-cn/blog/bali-collection-nusa-dua-shopping/)
+[巴厘岛努沙杜瓦购物中心 Bali Collection：晚餐与采购一站式完成、SPA 体验与现场音乐表演推荐](https://gobaligo.id/zh-cn/blog/bali-collection-nusa-dua-shopping/)
 
-> [【巴厘岛新地标】Icon Bali 购物中心全攻略：沙努尔必访蝴蝶园、室内市场与全岛唯一海滨影城](https://gobaligo.id/zh-cn/blog/icon-bali-shopping-mall-sanur/)
+[【巴厘岛新地标】Icon Bali 购物中心全攻略：沙努尔必访蝴蝶园、室内市场与全岛唯一海滨影城](https://gobaligo.id/zh-cn/blog/icon-bali-shopping-mall-sanur/)
 
-> [【Living World Denpasar】巴厘岛最新购物中心攻略｜品牌、美食、超市、交通一次看](https://gobaligo.id/zh-cn/blog/Living-World-Denpasar/)
+[【Living World Denpasar】巴厘岛最新购物中心攻略｜品牌、美食、超市、交通一次看](https://gobaligo.id/zh-cn/blog/Living-World-Denpasar/)
 
 https://youtu.be/IReL1ztxL7c

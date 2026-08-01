@@ -1,12 +1,11 @@
 ---
-title: 【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝玩乐、Icon Bali 商场、顶级 Spa 与高 CP 值住宿避雷指南
+title: 【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝玩乐、Icon Bali 商场、顶级 Spa 与高性价比住宿避雷指南
 slug: sanur-guide
 description: >-
-  最适合带长辈、嫩娃的慢活天堂！2026 巴厘岛沙努尔（Sanur）自由行最强全攻略。一文打包 50 个在地人才知道的吃喝玩乐景点：直击全新 Icon
-  Bali 漂浮市场商场、辛杜夜市地道沙嗲、老字号儿童咖啡馆与海滨单车看日出路线。附上 20+ 精选顶级与平价 Villa、高质感 Spa
+  最适合带长辈、嫩娃的慢活天堂！2026 巴厘岛沙努尔（Sanur）自由行最强全攻略。一文打包 50 个当地人才知道的吃喝玩乐景点：直击全新 Icon
+  Bali 漂浮市场商场、辛杜夜市地道沙爹、老字号儿童咖啡厅与海滨单车看日出路线。附上 20+ 精选顶级与平价 Villa、高质感 Spa
   推荐，带全家享受最丝滑的海岛假期！
 pubDate: 2024-02-11T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 峇里島分區攻略
@@ -23,17 +22,20 @@ tags:
   - Bali Sanur family itinerary
 heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780382360987-mixcollage-02-jun-2026-01-38-pm-5007.jpg
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65bf2f75fd89780001dbf162'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-08-01T00:00:00.000Z
 lang: zh-cn
-_srcHash: da3dd91372081c7bbfc8c8dc2a717c68
+_srcHash: b56dfc4887cc6cbc5300dd460e3b2a32
 ---
-![【峇里島親子景點】沙努爾攻略 Sanur 終極地圖：50+吃喝玩樂、Icon Bali 商場、頂級 Spa 與高 CP ](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)
 
-**先讲结论**：沙努尔距巴厘岛国际机场约 **30 分钟车程**，交通便利却远离喧嚣，本文精选 **50+ 个吃喝玩乐景点**，包含 Icon Bali 商场、兴都夜市（Pasar Sindhu）地道沙嗲、海滨自行车道与 20+ 家住宿推荐，适合带长辈或婴幼儿的慢活家庭旅游。
+**先说结论**：沙努尔距巴厘岛国际机场约 **30 分钟车程**，交通便利却远离喧嚣，本文精选 **50+ 个吃喝玩乐景点**，包含 Icon Bali 商场、兴都夜市（Pasar Sindhu）地道沙爹、海滨自行车道与 20+ 家住宿推荐，适合带长辈或婴幼儿的慢活家庭旅游。
 
 你是否厌倦了巴厘岛的喧嚣？你是否在寻找一个可以放松身心的度假胜地？还是你想找一个足够方便又不是那么热闹的地方？那么，沙努尔（Sanur）就是你的最佳选择！
 
-坐落于巴厘岛的东岸沙努尔，以其宁静的海滩、令人心旷神怡的沿海步道、适合家庭亲子度假的氛围而闻名。如果你想与家人一起放松身心，寻找一种热带海岛度假，平静且高级的气氛，沙努尔是最好的选择。
+坐落于巴厘岛东岸的沙努尔，以其宁静的海滩、令人心旷神怡的沿海步道、适合家庭亲子度假的氛围而闻名。如果你想与家人一起放松身心，寻找一种热带海岛度假，平静且高级的气氛，沙努尔是最好的选择。
 
 ![沙努爾位於峇里島的東南部，距離峇里島國際機場約30分鐘車程，交通十分便利。 峇里島熱門旅遊區域地圖，歡迎取用，【點此下載】](https://images.gobaligo.id/vocus/vocus_eeb2c1d64a34ea1d9d3aa70d0ec47d78.png)
 
@@ -45,11 +47,11 @@ _srcHash: da3dd91372081c7bbfc8c8dc2a717c68
 
 随着印尼在20世纪中叶取得了独立，并开始了国家多方面的建设和发展。巴厘岛在印尼国父苏卡诺时代开始发展，而沙努尔正是巴厘岛旅游业发展的起点！当时巴厘岛第一家的五星旅馆就落脚在沙努尔。
 
-而如今沙努尔凭借着得天独厚的环礁保护，有着风平浪静，坡度平缓的金黄色沙滩，发展成为一个适合家庭度假的圣地。也有不少来自世界各国的老外选择在这个没有灯红酒绿、喧嚣市井的小镇退休养老。
+而如今沙努尔凭借得天独厚的环礁保护，有着风平浪静、坡度平缓的金黄色沙滩，发展成为一个适合家庭度假的圣地。也有不少来自世界各国的老外选择在这个没有灯红酒绿、喧嚣市井的小镇退休养老。
 
 ## 沙努尔家庭景点
 
-对于正在寻找一个安静、放松且适合亲子的旅游目的地的家庭来说，沙努尔绝对是一个理想的选择。这里各种家庭友好的景点和活动，让大人和小孩都能在度假中尽情享受，创造出美好的回忆。接下来，让我们一起探索沙努尔的家庭景点魅力吧！
+对于正在寻找一个安静、放松且适合亲子的旅游目的地的家庭来说，沙努尔绝对是一个理想的选择。这里有各种家庭友好的景点和活动，让大人和小孩都能在度假中尽情享受，创造出美好的回忆。接下来，让我们一起探索沙努尔的家庭景点魅力吧！
 
 三分钟视频介绍认识沙努尔
 
@@ -120,7 +122,7 @@ Segara Playland的主要特色是其丰富多样的游乐设施，包括让小�
 
 Shotgun Social Bali 是一个在沙努尔受欢迎的社交空间。它提供多种设施，包括国际餐厅、酒吧和咖啡厅，是寻找休闲用餐体验的理想场所。对于有孩子的家庭来说，室外游乐场是一个很棒的功能，让孩子们在父母享受美食的同时玩耍和娱乐。它的社交空间概念非常适合那些想要享受休闲舒适用餐体验的人，同时仍然可以品尝高质量的食物和饮料。
 
-如果你在巴厘岛的沙努尔，不妨去 Shotgun Social Bali 品尝一下美食和惬意的氛围！
+如果你在巴厘岛的 Sanur，不妨去 Shotgun Social Bali 品尝一下美食和惬意的氛围！
 
 ### Kids SoHo Playground（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -180,11 +182,11 @@ Big Garden Corner 是位于沙努尔的一个迷人景点，对于小朋友来�
 
 ![Padang Galak （地圖）](https://images.gobaligo.id/vocus/vocus_ae9781a4eff3864182d1922b152c4c55.jpg)
 
-在平常的时候，Padang Galak并不是一个观光海滩，但每年的七月到九月之间，这里却变得热闹非凡。这段时间，Padang Galak成为了巴厘岛一个独特的活动场地，吸引着来自世界各地的游客和当地居民前来参加Bali Kite Festival（巴厘岛风筝节）。无论是观赏还是参与比赛，你都会看到天空中飞舞着各种形状、大小和颜色的风筝，让这片海滩充满了欢乐和热情。这个活动起源于对神祇感恩的彩色盛会，现在已成为巴厘岛最具吸引力的节日之一。
+在平常的时候，Padang Galak并不是一个观光海滩，但每年的七月到九月之间，这里却变得热闹非凡。这段期间，Padang Galak成为了巴厘岛一个独特的活动场地，吸引着来自世界各地的游客和当地居民前来参加Bali Kite Festival（巴厘岛风筝节）。无论是观赏还是参与比赛，你都会看到天空中飞舞着各种形状、大小和颜色的风筝，让这片海滩充满了欢乐和热情。这个活动起源于对神祇感恩的彩色盛会，现在已成为巴厘岛最具吸引力的节日之一。
 
 ### Gelato Secrets （📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-带着小朋友的话，怎么可以不来份沙努尔有名的冰淇淋呢！？Gelato Secrets是一家手工冰淇淋店，在巴厘岛有九家分店/雅加达七家。他们使用当地采购的天然成分制作冰淇淋，口味独特而美味。小杰的[视频中有介绍](https://youtu.be/laRb_l8BdLM?si=C2Quvp6iNygvnAoE&t=277)。
+带着小朋友的话，怎么可以不来份沙努尔有名的冰淇淋呢！？Gelato Secrets 是一家手工冰淇淋店，在巴厘岛有九家分店/雅加达七家。他们使用当地采购的天然成分制作冰淇淋，口味独特而美味。小杰的[视频中有介绍](https://youtu.be/laRb_l8BdLM?si=C2Quvp6iNygvnAoE&t=277)。
 
 ### Massimo Italian Restaurant （📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -234,6 +236,14 @@ https://youtu.be/9EeW2YH0iY0?si=QB33KX6XY-p3KexG
 
 以前需要搭船才能抵达的海龟岛，现在已经有桥梁直达。
 
+## Sira Village Grand Outlet Bali（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
+
+![](https://images.gobaligo.id/images/2026-07/1785508711141-sira_index.jpg)
+
+巴厘岛首座大型Premium Outlet，也是目前规模最大的Outlet Shopping Village。园区集结超过100个国际知名品牌，商品价格平均比一般购物中心便宜约30%，全年皆可享有Outlet折扣。除了购物之外，还结合特色餐厅、在地美食、艺术文化展演、海景步道及夕阳景观，打造悠闲的度假式购物体验。园区更提供即时航班资讯（Live Flight Information），方便旅客一边逛街、一边掌握班机动向，非常适合安排在回国前的最后一站。
+
+> 详细介绍请看：[巴厘岛首座Premium Outlet开幕！海龟岛Sira Village Grand Outlet Bali必逛品牌、购物亮点一次看](https://gobaligo.id/zh-cn/blog/sira-village-grand-outlet-bali/)
+
 ### Bali Camel Ride：平价骑骆驼体验（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
 https://youtube.com/shorts/yebdtkV5tX0
@@ -254,7 +264,7 @@ https://youtube.com/shorts/yebdtkV5tX0
 
 ![Genius Cafe Sanur （地圖）](https://images.gobaligo.id/vocus/vocus_fd40539b9efb68f841c3cea6871ac043.jpg)
 
-沙努尔的Genius Cafe是一个非常亲子的地方。这里有舒适的用餐环境，提供各种美味的健康食品和饮料，非常适合一家人一同享用。此外，Genius Cafe的位置非常优越，位于海边，可以欣赏到美丽的海景，让小朋友和家长们在用餐的同时享受到海滨的乐趣。他们提供 kids menu 和婴儿高脚椅。如果你爱健康饮食、素食、好咖啡、好smoothie bowl，那你就不能错过这家在沙滩上的cafe!
+沙努尔的Genius Cafe是一个非常適合親子的地方。这里有舒适的用餐环境，提供各种美味的健康食品和饮料，非常适合一家人一同享用。此外，Genius Cafe的位置非常优越，位于海边，可以欣赏到美丽的海景，让小朋友和家长们都能在用餐的同时享受到海滨的乐趣。他们提供 kids menu 和婴儿高脚椅。如果你爱健康饮食、素食、好咖啡、好smoothie bowl，那你就不能错过这家在沙滩上的cafe!
 
 ### Cheeky Monkeys （📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -268,13 +278,13 @@ Cheeky Monkeys提供的各种课程和活动，包括：早教课程、艺术和
 
 ![Museum Le Mayeur （地圖）](https://images.gobaligo.id/vocus/vocus_a7eadec18bd85e377d455169550dbd25.jpg)
 
-勒迈耶博物馆（Museum Le Mayeur）位于比利时画家Adrien-Jean Le Mayeur与其巴厘岛妻子Ni Pollok的故居，这对夫妻的故事让这里充满了浪漫与历史的氛围。博物馆位于Sanur海滩的北端，是一座迷人的小型博物馆，展示了Le Mayeur笔下的多幅画作，这些作品生动再现了巴厘岛在大众旅游业尚未兴起时的风貌与生活。尽管近年来博物馆的维护状况备受争议，但对于喜爱巴厘岛艺术与文化的访客来说，这里依然是一个充满魅力的打卡景点。漫步在这座故居里，您不仅可以欣赏到Le Mayeur对巴厘岛的深厚情感与艺术诠释，也能感受到那段属于Sanur的历史时光。
+勒迈耶博物馆（Museum Le Mayeur）位于比利时画家Adrien-Jean Le Mayeur与其巴厘岛妻子Ni Pollok的故居，这对夫妻的故事让这里充满了浪漫与历史的氛围。博物馆位于沙努尔海滩的北端，是一座迷人的小型博物馆，展示了Le Mayeur笔下的多幅画作，这些作品生动再现了巴厘岛在大众旅游业尚未兴起时的风貌与生活。尽管近年来博物馆的维护状况备受争议，但对于喜爱巴厘岛艺术与文化的访客来说，这里依然是一个充满魅力的打卡景点。漫步在这座故居里，您不仅可以欣赏到Le Mayeur对巴厘岛的深厚情感与艺术诠释，也能感受到那段属于沙努尔的历史时光。
 
 ### Sanur Harbour （📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
 ![Sanur Harbour （地圖）](https://images.gobaligo.id/vocus/vocus_56a1b3475081bf70455d322015f3bcee.jpg)
 
-Sanur Harbour是巴厘岛上位于沙努尔的一个重要港口。这个港口提供了往来于巴厘岛和东部离岛之间的船只服务，是前往东部离岛最方便的港口。
+沙努尔港是巴厘岛上位于沙努尔的一个重要港口。这个港口提供了往来于巴厘岛和东部离岛之间的船只服务，是前往东部离岛最方便的港口。
 
 如果你想去佩尼达岛或蓝梦岛，可以看看我们的攻略:
 
@@ -285,7 +295,7 @@ Sanur Harbour是巴厘岛上位于沙努尔的一个重要港口。这个港口�
 
 ![Icon Bali （地圖）](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
 
-Icon Bali是一个在2024年6月7日开幕的购物中心，它是一个沿海的购物中心，有两个主要入口，分别从Danau Tamblingan街和Sanur海滩。Icon Bali 将拥有多个独特的景点，包括最大的室内水上市场、室内文化舞台、垂直森林、海滨餐厅、海滩日落水幕秀、海滩画廊、蝴蝶公园和可食用花园...等。
+Icon Bali是一个在2024年6月7日开幕的购物中心，它是一个沿海的购物中心，有两个主要入口，分别从Danau Tamblingan街和沙努尔海滩。Icon Bali 将拥有多个独特的景点，包括最大的室内水上市场、室内文化舞台、垂直森林、海滨餐厅、海滩日落水幕秀、海滩画廊、蝴蝶公园和可食用花园...等。
 
 https://youtu.be/hdIKOX5wghU?si=_9o-EEDW6YYSivzj
 
@@ -293,7 +303,7 @@ https://youtu.be/hdIKOX5wghU?si=_9o-EEDW6YYSivzj
 
 ![沙努爾假日市集 Sunday Market Sanur (地圖)](https://images.gobaligo.id/vocus/vocus_6b92283c8ba5447559940806117f0c1d.jpg)
 
-沙努尔美居度假村（Mercure Resort Sanur）每月举办一次农贸市集，欢迎家庭参与，支持当地企业和艺术家。市集每月最后一个星期天举行，上午 10 点到下午 6 点，提供轻松愉快的购物和社交体验。各种商品和服务一应俱全，包括手工艺品、时尚配饰、美食和环保商品。参加市集不仅是购物，更是支持当地经济和创意产业的方式。
+沙努尔美居度假村（Mercure Resort Sanur）每月举办一次农贸市集，欢迎家庭参与，支持当地企业和艺术家。市集每月最后一个星期天举行，上午10点到下午6点，提供轻松愉快的购物和社交体验。各种商品和服务一应俱全，包括手工艺品、时尚配饰、美食和环保商品。参加市集不仅是购物，更是支持当地经济和创意产业的方式。
 
 ### 兴都夜市 (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing))
 
@@ -319,7 +329,7 @@ Sindhu夜市位于沙努尔北部，是一处热闹非凡的当地美食天堂�
 
 适合与家人朋友一同参与，无论初学者或有经验者都能尽情享受。活动时间依每日潮汐/天气预报调整，预订后将通过电子邮件通知确切出发时间。
 
-快来体验沙努尔海岸的水下奇迹，让浮潜之旅成为您巴厘岛行程的难忘亮点！
+快来体验Sanur海岸的水下奇迹，让浮潜之旅成为您巴厘岛行程的难忘亮点！
 
 > 预约[沙努尔离岸浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
 
@@ -327,7 +337,7 @@ Sindhu夜市位于沙努尔北部，是一处热闹非凡的当地美食天堂�
 
 ![南灣水上活動 （地圖）](https://images.gobaligo.id/vocus/vocus_5704c6a04122fc501a0c2b8e65672e36.jpg)
 
-如果您觉得沙努尔的水上活动不够刺激，可以从沙努尔向南行驶半小时车程抵达 Tanjung Benoa，俗称「南湾」，是整个巴厘岛水上活动的大本营。这里是极富活力的海域，提供各种令人兴奋的水上活动，给游客带来一场无与伦比的冒险之旅。摩托艇的疾速掠过湛蓝海水，让人感受到风的狂野，而滑翔伞冒险则带领您从高空俯瞰整片美丽的海景，将惊奇与蔚蓝融为一体。香蕉船和甜甜圈船则是提供快节奏乐趣的水上活动，适合家庭和朋友们一同享受。
+若您觉得沙努尔的水上活动不够刺激。你可以从沙努尔南行半个小时车程抵达 Tanjung Benoa，俗称「南湾」，是整个巴厘岛水上活动的大本营。这里是极富活力的海域，提供各种令人兴奋的水上活动，给游客带来一场无与伦比的冒险之旅。摩托艇的疾速掠过湛蓝海水，让人感受到风的狂野，而滑翔伞冒险则带领您从高空俯瞰整片美丽的海景，将惊奇与蔚蓝融为一体。香蕉船和甜甜圈船则是提供快节奏乐趣的水上活动，适合家庭和朋友们一同享受。
 
 然而，游客需留意的是，南湾的水上活动颇受欢迎，建议在前往时提前预订，以避免现场就地起价的情况。预订能够确保您有足够的机会体验所有想玩的水上活动，同时也避免了在现场支付额外的昂贵费用。在南湾海滩，让我们一同扬帆，享受这片水上活动的乐土，带给您一场充满冒险和欢笑的海上之旅。
 
@@ -339,7 +349,7 @@ Sindhu夜市位于沙努尔北部，是一处热闹非凡的当地美食天堂�
 
 ![AeroXSpace Adventure室內遊樂場](https://images.gobaligo.id/vocus/vocus_c11c0e168c9578f14f9bfa0b8be57f1f.jpg)
 
-AeroXSpace室内冒险乐园的开幕为巴厘岛的家庭和游客带来了新的娱乐选择。这个面积达3,500平方米的冒险中心，拥有26种不同的吸引力和游戏活动，无论晴天或雨天，都能让所有年龄段的游客享受其中。
+AeroXSpace室内冒险乐园的开业为巴厘岛的家庭和游客带来了新的娱乐选择。这个面积达3500平方米的冒险中心，拥有26种不同的吸引力和游戏活动，无论晴天或雨天，都能让所有年龄段的游客享受其中。
 
 详细介绍[在这里](/zh-cn/blog/aeroxspace-sanur-indoor-playground/)。
 
@@ -365,7 +375,7 @@ Clip 'n Climb Bali结合运动与娱乐，是巴厘岛新兴的室内冒险景�
 
 详细介绍：[海豚乐园 Bali Exotic Marine Park 攻略：超近距离互动、下水与海豚共舞、分流避雷与全家行程规划](/zh-cn/blog/Bali-Exotic-Marine-Park/)
 
-> 线上购票：[Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
+> 在线购票：[Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
 ## 沙努尔的美食
 
@@ -417,7 +427,7 @@ Paed Thai 提供富有创意的舒适料理，每道菜都适合分享且味道�
 
 The Village Cucina是沙努尔高人气的标志性意大利餐厅，位于沙努尔大街星巴克隔壁，地理位置绝佳。这里汇聚众多宾客，共享美味意大利美食与美酒佳酿，是畅谈交流的绝佳场所。
 
-餐厅经过精心设计，营造温馨宜人的用餐氛围。多样化的用餐区域满足不同需求：私密餐桌适合情侣约会，雅致区域perfect for团体聚会，树荫下的户外露台提供清爽的用餐环境，而配备全套空调的室内餐厅则带来更舒适精致的用餐体验。
+餐厅经过精心设计，营造温馨宜人的用餐氛围。多样化的用餐区域满足不同需求：私密餐桌适合情侣约会，雅致区域适合团体聚会，树荫下的户外露台提供清爽的用餐环境，而配备全套空调的室内餐厅则带来更舒适精致的用餐体验。
 
 无论是与好友轻松聚餐，还是享受浪漫晚餐，The Village Cucina都能为您提供难忘的意式美食之旅。
 
@@ -431,7 +441,7 @@ The Village Cucina是沙努尔高人气的标志性意大利餐厅，位于沙�
 
 ### 其他沙努尔美食 （📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
-沙努尔的美食还有很多，大家可以参考我们提供的【[沙努尔家庭攻略地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)】，上面标注了各种强力推荐的当地餐厅、小吃摊和咖啡店，包括传统印尼料理、新鲜海鲜、国际美食和当地特色小吃，满足各种口味和喜好。欢迎大家一起来探索沙努尔的美食之旅哦！
+Sanur的美食还有很多，各位可以参考我们提供的【[沙努尔家庭攻略地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)】，上面标注了各种强力推荐的当地餐厅、小吃摊和咖啡店，包括传统印尼料理、新鲜海鲜、国际美食和当地特色小吃，满足各种口味和喜好。欢迎大家一起来探索Sanur的美食之旅哦！
 
 ![「沙努爾家庭攻略地圖」有每個地點的詳細指引](https://images.gobaligo.id/vocus/vocus_07df96af9a3ca307092b2ea972075ae9.png)
 
@@ -439,13 +449,13 @@ The Village Cucina是沙努尔高人气的标志性意大利餐厅，位于沙�
 
 > ▶[沙努尔精彩美食地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)
 
-## 沙努尔的接驳专车
+## Sanur 的接驳专车
 
 ![Sanur 的接駁專車](https://images.gobaligo.id/vocus/vocus_f9725710c3d0c3d75eeb1eacb77c99a6.jpg)
 
-2025年8月起，沙努尔提供接驳巴士，将专门在沙努尔区域内行驶，为游客提供「随上随下」的自由行动模式。
+2025年8月起，沙努尔提供接驳巴士，专门在沙努尔区域内行驶，为游客提供「随上随下」的自由行动模式。
 
-此接驳巴士采用开放式设计，让乘客能在欣赏沿途风景的同时享受自然通风。接驳巴士采用电子支付付款。
+此接驳巴士采用开放式设计，让乘客在欣赏沿途风景的同时享受自然通风。接驳巴士采用电子支付付款。
 
 目前巴士的行驶路线包括：
 
@@ -455,11 +465,11 @@ The Village Cucina是沙努尔高人气的标志性意大利餐厅，位于沙�
 - Danau Poso路
 - Danau Tamblingan路
 - Danau Toba路
-- 最后停靠点为沙努尔医疗特区（Sanur Special Economic Zone）邻近的SMP Wisata区域
+- 最后停靠点为沙努尔医疗特区（Sanur Special Economic Zone）附近的SMP Wisata区域
 
-## Sanur 享受 SPA
+## 沙努尔享受SPA
 
-想在沙努尔度假的同时，也享受高评价、不踩雷的 SPA 水疗吗？请看我们下面的推荐：
+想在沙努尔度假的同时，也享受高评价、不踩雷的SPA水疗吗？请看我们下面的推荐：
 
 ![Sanur 享受 SPA](https://images.gobaligo.id/vocus/vocus_ad4d06b0cc123f9e7ea112e0b6fb25c0.png)
 
@@ -493,6 +503,6 @@ The Village Cucina是沙努尔高人气的标志性意大利餐厅，位于沙�
 
 ## 小杰的沙努尔游记
 
-如果你想要真实了解沙努尔的风貌，那么你绝对不能错过小杰的[游记视频](https://youtu.be/laRb_l8BdLM)！通过这段视频，你将能够深入了解这个迷人地区的景点、美食、文化和人文风情。跟随小杰的摄影镜头，一起探索沙努尔的风光美景，感受其独特的魅力和鲜明的文化特色。无论你是正在计划旅行，还是想要了解这个地区的种种魅力，这段游记视频绝对会让你心动不已！
+如果你想要真实了解沙努尔的风貌，那么你绝对不能错过小杰的[游记视频](https://youtu.be/laRb_l8BdLM)！通过这段视频，你将能够深入了解这个迷人地区的景点、美食、文化和人文风情。跟随小杰的摄影镜头，一起探索沙努尔的风光美景，感受其独特的魅力和鲜明的文化特色。无论你是在计划旅行，还是想要了解这个地区的种种魅力，这段游记视频绝对会让你心动不已！
 
 {{block:攻略}}
