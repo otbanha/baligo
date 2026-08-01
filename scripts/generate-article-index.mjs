@@ -115,10 +115,15 @@ console.log(`✅ hero-map.json 產生完成：${Object.keys(heroMap).length} 筆
 // /api/chat 在向量檢索沒有命中時會拿它做關鍵字比對，避免「站上明明有文章卻回答沒有」。
 // 這份檔案每次 build 都會重新產生，新文章一上線就查得到，不必等 Vectorize 重新索引。
 const keywordIndexPath = join(root, 'public/chatbot-keyword-index.json');
-const keywordIndex = articles.map(a => ({
-  t: a.title,
-  u: a.url,
-  k: [...new Set([...a.tags, ...a.category])].join(' '),
-}));
+// n=1 標記新聞存檔：這類文章佔比高又永遠最新，比對同分時要讓一般文章優先
+const keywordIndex = articles.map(a => {
+  const entry = {
+    t: a.title,
+    u: a.url,
+    k: [...new Set([...a.tags, ...a.category])].join(' '),
+  };
+  if (a.category.includes('新聞存檔')) entry.n = 1;
+  return entry;
+});
 writeFileSync(keywordIndexPath, JSON.stringify(keywordIndex), 'utf-8');
 console.log(`✅ chatbot-keyword-index.json 產生完成：${keywordIndex.length} 篇文章`);

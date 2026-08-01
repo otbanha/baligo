@@ -18,6 +18,10 @@ const KEYWORD_QUERY_THRESHOLD = 0.45;
 const KEYWORD_QUERY_MAX_CJK = 8;    // 中文：8 字以內視為關鍵字查詢
 const KEYWORD_QUERY_MAX_WORDS = 3;  // 英文：3 個單字以內
 const NEWS_CATEGORY = '新聞存檔';
+// 新聞存檔是每天的當日新聞，內容有時效性、寫法也偏片段，拿來回答一般旅遊問題容易過期或失焦，
+// 而且它佔全站約 13% 且永遠是最新的文章，不壓低權重就會一直洗版。
+// 因此只有在一般文章不夠時才補進來，補到這個數量為止，且一律排在最後。
+const NEWS_MIN_REGULAR_CHUNKS = 2;
 const TIME_SENSITIVE_RE = /(今天|今日|現在|目前|即時|實時|today|right now|currently|real-?time)/i;
 const CHUNK_CHAR_CAP = 900; // 防呆：單一 chunk 最多帶入的字元數
 // 全部候選 chunk 加總的字元預算：CJK 大致 1 字 ≈ 1 token，抓 3200 字給 chunk 內容，
@@ -184,15 +188,33 @@ export function isKeywordQuery(message) {
   return t.split(/\s+/).filter(Boolean).length <= KEYWORD_QUERY_MAX_WORDS;
 }
 
+function isNewsChunk(match) {
+  return (match.metadata?.category || '').split(',').includes(NEWS_CATEGORY);
+}
+
+/**
+ * 壓低新聞存檔的權重：一般文章夠用時完全不帶新聞，不夠時才補到 NEWS_MIN_REGULAR_CHUNKS，
+ * 而且補進來的一律排在最後（buildRagContext 依序消耗字元預算，排後面拿到的篇幅也較少）。
+ */
+export function demoteNewsArchive(matches) {
+  const regular = matches.filter(m => !isNewsChunk(m));
+  if (regular.length >= NEWS_MIN_REGULAR_CHUNKS) return regular;
+  const news = matches.filter(isNewsChunk);
+  // 檢索結果整批都是新聞 → 使用者八成就是在問新聞或近期動態，照原樣全帶，別把上下文砍到答不出來
+  if (!regular.length) return news;
+  return [...regular, ...news.slice(0, NEWS_MIN_REGULAR_CHUNKS - regular.length)];
+}
+
 /** 向量檢索 + 相似度門檻過濾 + 時效性防呆（新聞存檔不能拿來回答「今天/現在」類問題） */
 export async function retrieveChunks(env, vector, message) {
   const threshold = isKeywordQuery(message) ? KEYWORD_QUERY_THRESHOLD : SIMILARITY_THRESHOLD;
   const result = await env.VECTORIZE.query(vector, { topK: VECTORIZE_TOP_K, returnMetadata: 'all' });
   let matches = (result.matches || []).filter(m => m.score >= threshold);
   if (TIME_SENSITIVE_RE.test(message)) {
-    matches = matches.filter(m => !(m.metadata?.category || '').split(',').includes(NEWS_CATEGORY));
+    // 問「今天/現在」時新聞存檔已經過期，直接整批拿掉，不走下面的遞補
+    return matches.filter(m => !isNewsChunk(m));
   }
-  return matches;
+  return demoteNewsArchive(matches);
 }
 
 export function buildRagContext(matches, lang) {
@@ -304,7 +326,12 @@ export function keywordSearch(index, message) {
   // 只留命中詞最長的那一批：短片語（例如「峇里島」）幾乎每篇都有，全收只會變成雜訊。
   // index 本身依發佈日期新到舊排序，同分時自然是新文章優先。
   const top = Math.max(...scored.map(a => a.score));
-  return scored.filter(a => a.score === top).slice(0, KEYWORD_FALLBACK_TOP_N);
+  let hits = scored.filter(a => a.score === top);
+  // 新聞存檔永遠是最新的文章，同分時會把一般攻略全部擠掉（查「天氣」只會回新聞），
+  // 所以只要同分裡有一般文章就不帶新聞；整批都是新聞才照原樣回，以免變成「找不到」。
+  const regular = hits.filter(a => !a.n);
+  if (regular.length) hits = regular;
+  return hits.slice(0, KEYWORD_FALLBACK_TOP_N);
 }
 
 const KEYWORD_FALLBACK_INTRO = {
@@ -339,6 +366,7 @@ Ground your answer ONLY in the article excerpts provided below. If you're not su
 After answering, list up to 3 sources you actually used, each on its own line, in EXACTLY this format (do not use plain markdown links instead):
 📖 More info: Bali Currency Exchange Guide → /en/blog/bali-currency-exchange-guide/
 Skip sources you didn't use.
+If an excerpt is a dated daily news entry, it goes stale fast — don't build your answer on it or list it as a source unless the user is actually asking about news or recent developments.
 If the question is unrelated to Bali travel, politely decline and steer the conversation back to Bali.
 Keep the answer under 200 words in total, and use no more than 5 bullet points.
 Do NOT mention "customer service" or "contact us" — this site has no support team; if someone can't find an answer, point them to our Facebook group instead.
@@ -352,6 +380,7 @@ ${ragContext}`,
 回答完毕后，把你实际用到的来源列出来（最多 3 个），每个独立一行，格式必须完全照抄下面这样（不要用一般 markdown 连结代替）：
 📖 延伸阅读：巴厘岛换汇攻略 → /zh-cn/blog/bali-currency-exchange-guide/
 没用到的来源不要列。
+片段若来自每日新闻存档（标题像「巴厘岛新闻｜…」），时效性强，除非用户就是在问新闻或近期动态，否则别当主要依据，也别列进延伸阅读。
 如果问题跟巴厘岛旅游无关，礼貌拒绝并把话题拉回巴厘岛。
 整体回答控制在 200 字以内，条列不超过 5 点。
 禁止提到「客服」「联系我们」——本站没有客服团队，找不到答案时引导去脸书社团。
@@ -368,6 +397,7 @@ ${ragContext}`,
 回答完之後，將你實際用到嘅來源列出嚟（最多 3 個），每個獨立一行，格式一定要完全照抄下面咁樣（唔好用一般 markdown 連結代替）：
 📖 延伸閱讀：峇里島換匯攻略 → /zh-hk/blog/bali-currency-exchange-guide/
 冇用到嘅來源唔好列。
+片段如果係每日新聞存檔（標題似「峇里島新聞｜…」），時效性強，除非用家問緊新聞或者近期動態，否則唔好當主要依據，都唔好列入延伸閱讀。
 如果問題同峇里島旅遊無關，禮貌拒絕並將話題拉返去峇里島。
 成個回答控制喺 200 字以內，條列唔超過 5 點。
 禁止提到「客服」「聯絡我們」——本站冇客服團隊，搵唔到答案就引導去臉書社團。
@@ -384,6 +414,7 @@ ${ragContext}`,
 回答完畢後，把你實際有用到的來源列出來（最多 3 個），每個獨立一行，格式一定要完全照抄下面這樣（不要用一般 markdown 連結代替）：
 📖 延伸閱讀：峇里島換匯攻略 → /blog/bali-currency-exchange-guide/
 沒用到的來源不要列。
+片段若來自每日新聞存檔（標題像「峇里島新聞｜…」），時效性強，除非使用者就是在問新聞或近期動態，否則別當主要依據，也別列進延伸閱讀。
 如果問題跟峇里島旅遊無關，禮貌拒絕並把話題拉回峇里島。
 整體回答控制在 200 字以內，條列不超過 5 點。
 
