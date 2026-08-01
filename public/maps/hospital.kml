@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島醫院 / 診所 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-07-01 | 總計 213 筆</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-08-01 | 總計 214 筆</description>
     <Folder>
       <name>國際醫院</name>
       <Placemark>
@@ -1458,6 +1458,13 @@
         <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Pulau Moyo, Pedungan, Denpasar Selatan, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/747479717" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2099625,-8.6953236,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas 1 Jembrana</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Raya Denpasar-Gilimanuk<br><a href="https://www.openstreetmap.org/way/838909687" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.6487885,-8.3621158,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>

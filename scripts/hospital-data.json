@@ -4292,6 +4292,34 @@
   },
   {
     "type": "way",
+    "id": 838909687,
+    "center": {
+      "lat": -8.3621158,
+      "lon": 114.6487885
+    },
+    "nodes": [
+      7828574804,
+      7828574805,
+      7828574806,
+      7828529053,
+      7828529054,
+      7828574804
+    ],
+    "tags": {
+      "addr:city": "Jembrana",
+      "addr:district": "Dangin Tukadaya",
+      "addr:postcode": "82251",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Raya Denpasar-Gilimanuk",
+      "addr:subdistrict": "Yehmekecir",
+      "amenity": "clinic",
+      "name": "Puskesmas 1 Jembrana"
+    },
+    "lat": -8.3621158,
+    "lon": 114.6487885
+  },
+  {
+    "type": "way",
     "id": 912671375,
     "center": {
       "lat": -8.6706356,
