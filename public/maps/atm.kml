@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島 ATM 提款機 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-07-01 | 總計 520 台</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-08-01 | 總計 524 台</description>
     <Folder>
       <name>BCA</name>
       <Placemark>
@@ -438,6 +438,13 @@
         <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/13106097836" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1682064,-8.7278665,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BCA</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/14002161577" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1486121,-8.6729185,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -996,6 +1003,13 @@
           <coordinates>115.1625325,-8.2589905,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Mandiri</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/14061702832" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2592025,-8.7049394,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>BNI</name>
@@ -1003,7 +1017,7 @@
         <name>BNI</name>
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/610378005" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2603928,-8.7053712,0</coordinates>
+          <coordinates>115.2603412,-8.7053871,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1531,6 +1545,13 @@
           <coordinates>115.3456656,-8.2711519,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>BNI</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/14060398616" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2506181,-8.7044685,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>BRI</name>
@@ -2004,13 +2025,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>BRI</name>
-        <description><![CDATA[📍 Singaraja (North Bali)<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/9896598618" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.032432,-8.1581193,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>ATM BRI Legian</name>
         <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/9916534978" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -2469,6 +2483,13 @@
         <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/13092046201" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2527238,-8.4996028,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Permata Bank</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org/node/14016993702" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1669806,-8.7423601,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -3470,6 +3491,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>HSBC</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/6112172886" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2181539,-8.6745879,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Link</name>
         <description><![CDATA[📍 Gianyar<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/6172767169" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -3599,7 +3627,7 @@
         <name>Commonwealth Bank</name>
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/10264804895" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2568752,-8.7078269,0</coordinates>
+          <coordinates>115.2568853,-8.707833,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>

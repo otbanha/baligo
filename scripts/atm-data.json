@@ -36,10 +36,11 @@
   {
     "type": "node",
     "id": 610378005,
-    "lat": -8.7053712,
-    "lon": 115.2603928,
+    "lat": -8.7053871,
+    "lon": 115.2603412,
     "tags": {
       "amenity": "atm",
+      "cash_in": "no",
       "name": "BNI"
     }
   },
@@ -2007,6 +2008,8 @@
       "addr:street": "Jl. P.B. Sudirman",
       "amenity": "bank",
       "atm": "yes",
+      "brand": "Bank Central Asia",
+      "brand:wikidata": "Q806626",
       "name": "Bank Central Asia"
     }
   },
@@ -4297,6 +4300,19 @@
   },
   {
     "type": "node",
+    "id": 6112172886,
+    "lat": -8.6745879,
+    "lon": 115.2181539,
+    "tags": {
+      "amenity": "atm",
+      "brand": "HSBC",
+      "brand:wikidata": "Q190464",
+      "operator": "HSBC",
+      "operator:wikidata": "Q190464"
+    }
+  },
+  {
+    "type": "node",
     "id": 6124284357,
     "lat": -8.7981606,
     "lon": 115.1312546,
@@ -5263,20 +5279,6 @@
   },
   {
     "type": "node",
-    "id": 9896598618,
-    "lat": -8.1581193,
-    "lon": 115.032432,
-    "tags": {
-      "amenity": "atm",
-      "brand": "BRI",
-      "brand:wikidata": "Q623042",
-      "opening_hours": "24/7",
-      "operator": "BRI",
-      "operator:wikidata": "Q623042"
-    }
-  },
-  {
-    "type": "node",
     "id": 9916534978,
     "lat": -8.6992967,
     "lon": 115.1694558,
@@ -5466,8 +5468,8 @@
   {
     "type": "node",
     "id": 10264804895,
-    "lat": -8.7078269,
-    "lon": 115.2568752,
+    "lat": -8.707833,
+    "lon": 115.2568853,
     "tags": {
       "amenity": "atm",
       "brand": "Commonwealth Bank",
@@ -6601,6 +6603,47 @@
       "amenity": "atm",
       "opening_hours": "Mo-Fr 08:00-15:00",
       "operator": "BNI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14002161577,
+    "lat": -8.6729185,
+    "lon": 115.1486121,
+    "tags": {
+      "amenity": "atm",
+      "indoor": "yes",
+      "operator": "BCA"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14016993702,
+    "lat": -8.7423601,
+    "lon": 115.1669806,
+    "tags": {
+      "amenity": "atm",
+      "operator": "Permata Bank"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14060398616,
+    "lat": -8.7044685,
+    "lon": 115.2506181,
+    "tags": {
+      "amenity": "atm",
+      "operator": "BNI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14061702832,
+    "lat": -8.7049394,
+    "lon": 115.2592025,
+    "tags": {
+      "amenity": "atm",
+      "operator": "Mandiri"
     }
   }
 ]
