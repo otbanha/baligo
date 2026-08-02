@@ -9,6 +9,7 @@ import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
 import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection } from 'astro:content';
+import { ACCOMMODATION_PINS } from '../../../lib/accommodationPins';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
 import qaI18n from '../../../qa-i18n.json';
@@ -97,7 +98,22 @@ const allPostsData = allPosts
 const accommodations = allPosts
   .filter(p => getCategories(p.data.category).includes('住宿推薦'))
   .slice(0, 24)
-  .map(p => ({ id: p.id, title: p.data.title, heroImage: p.data.heroImage || '' }));
+  .map(p => ({ id: p.id, slug: p.data.slug || p.id, title: p.data.title, heroImage: p.data.heroImage || '' }));
+
+// 置頂住宿（見 src/lib/accommodationPins.ts）：上面兩格從這裡隨機挑 2 篇，
+// 不受「最新 24 篇」與「住宿推薦」分類限制。找不到的 slug 自動略過。
+const accommodationPins = ACCOMMODATION_PINS
+  .map(s => allPosts.find(p => (p.data.slug || p.id) === s || p.id === s))
+  .filter(Boolean)
+  .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title, heroImage: p!.data.heroImage || '' }));
+
+// 靜態 HTML（爬蟲／關 JS 的讀者）看到的四格：置頂前兩篇 + 最新的住宿，不重複。
+// 進站後 JS 會重新洗牌，見下方「亂數顯示住宿」。
+const accomPinTop = accommodationPins.slice(0, 2);
+const accomCards = [
+  ...accomPinTop,
+  ...accommodations.filter(a => !accomPinTop.some(p => p.slug === a.slug)),
+].slice(0, 4);
 
 // 最新9則新聞存檔（與 zh-tw 首頁同步：widget 只列標題，全文在各語系 /blog/[slug]/）
 const baliNewsPosts = allPosts
@@ -213,9 +229,9 @@ const socialLinks = [
         <!-- Accommodations 2×2（取代原本的田字格快速入口） -->
         <div class="widget-box accom-feature">
           <h2 class="widget-title fade-in">🏨 Accommodations</h2>
-          {accommodations.length > 0 ? (
+          {accomCards.length > 0 ? (
             <div class="accom-grid">
-              {accommodations.slice(0, 4).map((a, i) => (
+              {accomCards.map((a, i) => (
                 <a href="#" id={`accom-link${i ? `-${i + 1}` : ''}`} class="accom-card">
                   <div class="accom-image">
                     <img id={`accom-img${i ? `-${i + 1}` : ''}`} src={a.heroImage} alt="" loading="lazy" />
@@ -484,7 +500,7 @@ const socialLinks = [
   <Footer lang="zh-hk" />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, qaData }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, accommodationPins, top5Posts, blogBase, qaData }}>
   window.addEventListener('DOMContentLoaded', () => {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
@@ -527,22 +543,29 @@ const socialLinks = [
     });
 
     // 亂數顯示住宿（2×2 四格，彼此不重複）
-    if (accommodations.length > 0) {
-      const pool = accommodations.slice();
-      for (let i = pool.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [pool[i], pool[j]] = [pool[j], pool[i]];
-      }
+    if (accommodations.length > 0 || accommodationPins.length > 0) {
+      const shuffle = (arr) => {
+        const a = arr.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      };
+      // 上面兩格：從置頂清單隨機挑 2 篇不重複（清單不足 2 篇時由住宿池遞補）
+      const pinned = shuffle(accommodationPins).slice(0, 2);
+      const rest = shuffle(accommodations.filter(a => !pinned.some(p => p.slug === a.slug)));
+      const picks = [...pinned, ...rest];
       const fillAccom = (suffix, item) => {
         if (!item) return;
         const link = document.getElementById('accom-link' + suffix);
         const img = document.getElementById('accom-img' + suffix);
         const title = document.getElementById('accom-title' + suffix);
-        if (link) link.href = `${blogBase}/${item.id}/`;
+        if (link) link.href = `${blogBase}/${item.slug}/`;
         if (img) { img.src = item.heroImage; img.alt = item.title; }
         if (title) title.textContent = item.title;
       };
-      ['', '-2', '-3', '-4'].forEach((suffix, i) => fillAccom(suffix, pool[i]));
+      ['', '-2', '-3', '-4'].forEach((suffix, i) => fillAccom(suffix, picks[i]));
     }
 
     const POSTS_PER_PAGE = 18;
