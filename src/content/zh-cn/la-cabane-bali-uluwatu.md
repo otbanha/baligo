@@ -107,10 +107,9 @@ La Cabane 虽然房间数量不多，但每一间都经过巧思设计，带来�
 
 La Cabane Bali 是一个让人真正「慢下来」的地方。房间不多却设计用心，每一次入住都像是独享专属的巴厘岛假期。也正因为这样，它成了旅人争相追寻的梦幻住宿。
 
-✨ 如果你想在巴厘岛找到一个既浪漫又独特的落脚处，La Cabane Bali 会是难以忘怀的选择。但别忘了，它真的太热门，**一定要提前预订**！
+✨ 如果你想在巴厘岛找到一个既浪漫又独特的落脚处，La Cabane Bali 会是难以忘怀的选择。但别忘了，它真的太热门，**一定要提早预订**！
 
 > [**▶La Cabane空房与房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10627469/la-cabane/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wKgXBxsN)
-
 
 ## 订房建议小技巧
 
