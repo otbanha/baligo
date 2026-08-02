@@ -57,18 +57,44 @@ const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
 const NON_CJK_LANGS = new Set(['en', 'id']);
 const CJK_RE = /[一-鿿]/g;
 
+const countCjk = (s) => (String(s ?? '').match(CJK_RE) || []).length;
+
+// 內文段落允許殘留的中文字數上限：頻道名、人名、括號裡的原文地名這類專有名詞
+// 本來就該保留（例：「Crazy with YU芳婷 video screenshot」）。
+const RESIDUE_ALLOWANCE = 4;
+// 內文段落判定「有翻」的門檻：譯文中文字數要掉到來源的三成以下。
+const RESIDUE_DROP_MAX = 0.3;
+
+// 同一份來源內容最多重試幾次。超過就接受現況、寫入正式 _srcHash 並標記
+// _translateIncomplete，避免翻不動的段落被每日排程無限重翻、白燒 API 額度。
+// 來源文章一旦改動，hash 變了，次數自動歸零重新開始。
+const MAX_TRANSLATE_ATTEMPTS = 3;
+
 // 判斷翻譯結果是否明顯翻譯失敗（殘留中文字）。
-// title/description 等短文字（<=100 字）要求完全乾淨——曾發生像
-// 「2024印尼/Bali Online Visa...」這種只殘留 1-2 個中文字的半殘留翻譯，
-// 用「佔比」判斷會漏抓，所以短文字直接零容忍。
-// 長內文段落用「中文字元佔比」判斷，避免極長段落中偶發的單一雜訊字元被誤殺。
-function isUntranslatedResidue(text, lang) {
+//
+// strict（frontmatter 的 title/description）：維持接近零容忍。標題到處都看得到，
+// 曾發生「2024印尼/Bali Online Visa...」這種只殘留 1-2 個中文字的半殘留翻譯，
+// 用佔比判斷會漏抓，所以短文字直接零容忍、長文字用中文字元佔比。
+//
+// 非 strict（內文段落）：改用「中文字降幅」判斷。零容忍套在內文上會誤殺——
+// 譯文保留少量中文專有名詞是正確的，卻被判失敗而退回 100% 中文原文，
+// 比接受譯文更糟，而且每次排程都會重試、永遠不會收斂（2026-08-02 實測 31 個檔卡死）。
+function isUntranslatedResidue(text, lang, source = '', strict = true) {
   if (!NON_CJK_LANGS.has(lang)) return false;
   if (typeof text !== 'string' || !text.trim()) return false;
-  const cjkCount = (text.match(CJK_RE) || []).length;
+  const cjkCount = countCjk(text);
   if (cjkCount === 0) return false;
-  if (text.length <= 100) return true;
-  return cjkCount / text.length > 0.02;
+
+  if (strict) {
+    if (text.length <= 100) return true;
+    return cjkCount / text.length > 0.02;
+  }
+
+  const srcCjk = countCjk(source);
+  if (srcCjk === 0) return true; // 來源沒中文卻譯出中文 → 異常回傳
+  // 少量殘留放行，但必須真的比來源少（整段原封不動回傳不算）
+  if (cjkCount <= RESIDUE_ALLOWANCE && cjkCount < srcCjk) return false;
+  return cjkCount / srcCjk > RESIDUE_DROP_MAX;
 }
 
 const SYSTEM_PROMPTS = {
@@ -358,18 +384,21 @@ async function callDeepSeek(texts, lang) {
 
 /**
  * 翻譯文字陣列，使用段落級快取 + BATCH_SIZE 批次。
+ * strictCount：texts 前幾筆是 frontmatter（title/description），殘留檢查採嚴格模式；
+ *              其餘是內文段落，改用「中文字降幅」判斷（見 isUntranslatedResidue）。
  */
-async function translateTexts(texts, lang) {
+async function translateTexts(texts, lang, strictCount = texts.length) {
   const results = new Array(texts.length).fill(null);
   const hadFallback = new Set(); // origIdx 清單：翻譯失敗、暫時退回原文的項目
   const needTranslate = []; // { origIdx, text, stripped, videosSaved }
+  const isStrict = (i) => i < strictCount;
 
   for (let i = 0; i < texts.length; i++) {
     const cacheKey = `${md5(texts[i])}:${lang}`;
     const cached = cache.paragraphs[cacheKey];
     // 舊快取可能存了驗證機制上線前的殘留翻譯（例如 en/id 混雜大量中文）；
     // 這種快取視同未命中，重新呼叫 API，讓壞掉的翻譯有機會自我修復。
-    if (cached && !isUntranslatedResidue(cached, lang)) {
+    if (cached && !isUntranslatedResidue(cached, lang, texts[i], isStrict(i))) {
       results[i] = cached;
     } else {
       // 提取 video URL，換成佔位符後再送翻譯
@@ -409,17 +438,19 @@ async function translateTexts(texts, lang) {
       const { origIdx, text, stripped, videosSaved } = batch[j];
       let t = translated[j];
 
+      const strict = isStrict(origIdx);
+
       // 殘留中文：同一輪內單獨重打一次 API，避免品質不穩的單一項目拖到下次排程才重試。
-      if (typeof t === 'string' && isUntranslatedResidue(t, lang)) {
+      if (typeof t === 'string' && isUntranslatedResidue(t, lang, text, strict)) {
         try {
           const retry = await callDeepSeek([stripped], lang);
-          if (typeof retry[0] === 'string' && !isUntranslatedResidue(retry[0], lang)) {
+          if (typeof retry[0] === 'string' && !isUntranslatedResidue(retry[0], lang, text, strict)) {
             t = retry[0];
           }
         } catch { /* 重試失敗就沿用原本結果，交由下方 fallback 處理 */ }
       }
 
-      if (typeof t !== 'string' || isUntranslatedResidue(t, lang)) {
+      if (typeof t !== 'string' || isUntranslatedResidue(t, lang, text, strict)) {
         // 翻譯缺失、格式異常，或明顯殘留中文（翻譯品質失敗）：暫用原文，且「不」寫入快取，讓下次可重試。
         // 避免把物件/undefined，或半殘留的中文寫進內文或 frontmatter。
         results[origIdx] = text;
@@ -488,11 +519,16 @@ async function translateFile(filename, lang) {
 
   // 跳過未變動的已翻譯檔案
   // 優先讀取翻譯檔 frontmatter 裡存的 _srcHash（不依賴外部 cache，重啟後也有效）
+  let priorAttempts = 0;
   if (!isDryRun && existsSync(destPath)) {
     try {
       const destContent = readFileSync(destPath, 'utf-8');
       const { data: destFm } = matter(destContent);
       if (destFm._srcHash === srcHash) return 'cached';
+      // 同一份來源上次翻到一半：接續累計次數（來源改過的話 hash 不同，次數自動歸零）
+      if (destFm._srcHash === `PENDING_RETRY_${srcHash}`) {
+        priorAttempts = Number(destFm._translateAttempts) || 0;
+      }
     } catch { /* fallthrough */ }
     // fallback: 舊版只有外部 cache 記錄
     if (cache.files[fileCacheKey] === srcHash) return 'cached';
@@ -532,16 +568,27 @@ async function translateFile(filename, lang) {
     return 'translated';
   }
 
-  const { results: translated, hadFallback } = await translateTexts(allTexts, lang);
+  const { results: translated, hadFallback } = await translateTexts(allTexts, lang, fmTranslatables.length);
 
   // 若有任何欄位（title/description/內文段落）翻譯失敗、暫用原文，
   // _srcHash 就不寫成功雜湊 —— 讓下次執行時這個檔案還是會被判定為「待翻譯」，
   // 不會因為寫入了跟來源相符的 _srcHash 而被永久跳過重試。
+  // 但重試有上限：連續 MAX_TRANSLATE_ATTEMPTS 次都補不齊就收手，改寫正式 hash 並
+  // 標記 _translateIncomplete，剩下的交給人工，不要讓排程無止盡重翻。
   const translationIncomplete = hadFallback.size > 0;
-  const finalSrcHash = translationIncomplete ? `PENDING_RETRY_${srcHash}` : srcHash;
+  const attempts = translationIncomplete ? priorAttempts + 1 : 0;
+  const gaveUp = translationIncomplete && attempts >= MAX_TRANSLATE_ATTEMPTS;
+  const stillRetrying = translationIncomplete && !gaveUp;
+  const finalSrcHash = stillRetrying ? `PENDING_RETRY_${srcHash}` : srcHash;
+
+  if (gaveUp) {
+    console.log(`    ⚠️ ${destFilename} (${lang}) 連續 ${attempts} 次仍有 ${hadFallback.size} 段未翻成功，停止重試`);
+  }
 
   // 更新 frontmatter
   const newFm = { ...fm, lang, _srcHash: finalSrcHash };
+  if (stillRetrying) newFm._translateAttempts = attempts;
+  if (gaveUp) newFm._translateIncomplete = true;
   fmKeys.forEach((key, i) => {
     // 最後防線：frontmatter（title/description）只接受非空字串，否則保留原文，
     // 確保絕不會把物件寫進 frontmatter（Astro schema 會直接 build 失敗）。
