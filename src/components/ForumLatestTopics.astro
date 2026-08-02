@@ -5,7 +5,10 @@
 // The widget has two jobs: show that the forum is alive (topic list), and give
 // the reader somewhere to go with a question (ask button). The ask button lands
 // on phpBB's login/register wall for guests — that wall IS the signup funnel.
-const { lang = 'zh-tw', forumId, title, cta } = Astro.props;
+// limit: how many topics to show. Left unset the API picks its own default
+// (6 site-wide / 5 per-board). The homepage asks for 12 to fill the taller
+// right-hand column.
+const { lang = 'zh-tw', forumId, title, cta, limit } = Astro.props;
 
 const i18n: Record<string, { title: string; more: string; loading: string; ask: string; empty: string }> = {
   'zh-tw': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯', ask: '✍️ 我要發問', empty: '這個版還沒有討論，來當第一個發問的人' },
@@ -20,7 +23,11 @@ const ctaLabel = cta || t.more;
 const forumUrl = forumId
   ? `https://community.gobaligo.id/viewforum.php?f=${forumId}`
   : 'https://community.gobaligo.id/';
-const apiUrl = forumId ? `/api/forum-latest?f=${forumId}` : '/api/forum-latest';
+const apiParams = new URLSearchParams();
+if (forumId) apiParams.set('f', String(forumId));
+if (limit) apiParams.set('limit', String(limit));
+const apiQuery = apiParams.toString();
+const apiUrl = apiQuery ? `/api/forum-latest?${apiQuery}` : '/api/forum-latest';
 
 // Without a board id phpBB's posting.php has nowhere to post, so fall back to
 // the forum index and let the reader pick a board.

@@ -116,6 +116,9 @@ strong, b { font-weight: 700; color: var(--ocean); }
 @media (max-width: 900px) {
   .accom-image img { height: auto !important; object-fit: contain !important; }
 }
+/* 首頁 Accommodations 2×2：四格必須等高，容器已鎖 16:9（見各語系 blog/index.astro
+   的 .accom-grid），圖片就得填滿容器 — 覆寫上面那兩條 !important。 */
+.accom-grid .accom-image img { height: 100% !important; object-fit: cover !important; }
 
 a {
   color: var(--gold);
