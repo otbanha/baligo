@@ -25,6 +25,7 @@ latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: zh-cn
 _srcHash: PENDING_RETRY_e9eb86267fbb2a869edd6664b58cb2f4
+_translateAttempts: 1
 ---
 **先说结论**：La Cabane Bali 位于乌鲁瓦图 Balangan 海滩附近，步行数分钟可达沙滩，由法国女主人 Céline 经营，从最初 2 间竹屋扩展至**现有 5 间生态小屋 + 1 栋三房私人泳池别墅**，房源稀少常一房难求，适合喜欢私密法式浪漫氛围、想避开大型度假村喧闹的旅客，建议提前订房。
 
@@ -79,7 +80,6 @@ La Cabane 虽然房间数量不多，但每一间都经过巧思设计，带来�
 
 ***
 
-
 ## 附近的探索与享乐
 
 住在 La Cabane，不必担心会无聊：
@@ -111,6 +111,7 @@ La Cabane Bali 是一个让人真正「慢下来」的地方。房间不多却�
 ✨ 如果你想在巴厘岛找到一个既浪漫又独特的落脚处，La Cabane Bali 会是难以忘怀的选择。但别忘了，它真的太热门，**一定要提早预订**！
 
 > [**▶La Cabane空房与房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10627469/la-cabane/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wKgXBxsN)
+
 
 ## 订房建议小技巧
 
