@@ -118,7 +118,9 @@ const accommodations = allPosts
 const accommodationPins = ACCOMMODATION_PINS
   .map(s => allPosts.find(p => (p.data.slug || p.id) === s || p.id === s))
   .filter(Boolean)
-  .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title, heroImage: p!.data.heroImage || '' }));
+  .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title, heroImage: p!.data.heroImage || '' }))
+  // 去重：同一篇文章可能被填成 slug 和日期碼檔名兩種寫法，不去重的話上面兩格有機會抽到同一篇。
+  .filter((a, i, arr) => arr.findIndex(b => b.slug === a.slug) === i);
 
 // 靜態 HTML（爬蟲／關 JS 的讀者）看到的四格：置頂前兩篇 + 最新的住宿，不重複。
 // 進站後 JS 會重新洗牌，見下方「亂數顯示住宿」。
