@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/668e837dfd89780001357d06'
 updatedDate: 2026-07-21T00:00:00.000Z
 lang: zh-cn
 _srcHash: PENDING_RETRY_aba79f0f2863143f16b25a4e747e5503
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 
 ## 巴厘岛日落时间
