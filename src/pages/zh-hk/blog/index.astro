@@ -94,14 +94,14 @@ const allPostsData = allPosts
     category: getCategories(p.data.category),
   }));
 
-// 最新24則住宿推薦（前端亂數挑 4 則顯示，與 zh-tw 首頁一致）
+// 最新12則住宿推薦（下面兩格亂數顯示用，與 zh-tw 首頁一致）
 const accommodations = allPosts
   .filter(p => getCategories(p.data.category).includes('住宿推薦'))
-  .slice(0, 24)
+  .slice(0, 12)
   .map(p => ({ id: p.id, slug: p.data.slug || p.id, title: p.data.title, heroImage: p.data.heroImage || '' }));
 
 // 置頂住宿（見 src/lib/accommodationPins.ts）：上面兩格從這裡隨機挑 2 篇，
-// 不受「最新 24 篇」與「住宿推薦」分類限制。找不到的 slug 自動略過。
+// 不受「最新 12 篇」與「住宿推薦」分類限制。找不到的 slug 自動略過。
 const accommodationPins = ACCOMMODATION_PINS
   .map(s => allPosts.find(p => (p.data.slug || p.id) === s || p.id === s))
   .filter(Boolean)
