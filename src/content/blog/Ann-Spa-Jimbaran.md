@@ -1,8 +1,8 @@
 ---
 title: 峇里島 SPA 推薦：新開幕 ANN SPA 預約指南！金巴蘭夕陽海鮮後的完美行程、冷氣避暑與專業按摩解析
+slug: ''
 description: 發現峇里島金巴蘭的新寶藏！深度開箱 2025 新開幕 ANN SPA：結合極簡美學與傳統療癒，提供從熱石按摩到全身去角質的頂級服務。本篇分享真心體驗心得、必試療程推薦與預約祕訣。避開觀光客，在純白靜謐的空間中徹底放鬆，感受金巴蘭最溫柔的感官盛宴。
 pubDate: 2026-04-11
-updatedDate: 2026-07-10
 pubHour: 15
 category:
   - 美食景點活動
@@ -18,11 +18,16 @@ tags:
   - Best SPA in Jimbaran Bali 2026
   - ANN SPA Jimbaran price list
 heroImage: ''
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-07-10
 ---
+
 **先講結論**：金巴蘭新開幕的 **ANN SPA**（2025 年底開幕，台灣老闆娘經營）適合想要**中文溝通無障礙、空間乾淨有質感**的按摩體驗——支援 LINE 中文預約，中大型會館可容納約 26 人，氛圍偏「放鬆療癒空間」而非觀光型按摩店，很適合安排在金巴蘭夕陽海鮮晚餐後的冷氣避暑行程。
 
 這次在峇里島金巴蘭，真的挖到一間會讓人想「默默私藏」的寶藏SPA✨
@@ -142,5 +147,7 @@ ANN SPA 的定位是這樣：
 ![總結一句話](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
 
 ▲台灣老闆娘期待您的光臨！
+
+### _在峇里島南部的接送範圍內，ANN SPA還可以提供免費接送服務喔！歡迎傳訊息洽詢！_
 
 {{block:ann-spa-map}}
