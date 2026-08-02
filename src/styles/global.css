@@ -144,6 +144,8 @@ blockquote {
   color: var(--ocean-light);
   background: rgba(201, 168, 76, 0.06);
   border-radius: 0 8px 8px 0;
+  /* 訂房按鈕多半住在 blockquote 裡，換行時需要垂直間距才不會黏成一團 */
+  line-height: 1.9;
 }
 
 hr {
@@ -229,22 +231,26 @@ h5 { font-size: 1em; }
 }
 
 /* 第二層：聯盟連結按鈕化（Agoda / Trip.com / Booking）
-   特異度 (0,2,1) — attribute selector 加持，自然覆蓋第一層 */
+   特異度 (0,2,1) — attribute selector 加持，自然覆蓋第一層
+
+   實心用 background-color 而非 linear-gradient：:visited 只允許覆寫
+   color / background-color / border-*-color，gradient 屬於 background-image
+   一定會被忽略。這是下面 :visited 規則的必要條件（但非充分，見該處註解）。 */
 .prose a[href*="agoda.com"],
 .prose a[href*="trip.com"],
 .prose a[href*="booking.com"],
 .prose a[href*="booking.tpm.li"] {
   display: inline-block;
   padding: 4px 12px;
-  background: linear-gradient(135deg, #f97316, #ea580c);
+  background-color: #ea580c;
   color: white;
   text-decoration: none;
   border-radius: 6px;
   font-weight: 600;
   font-size: 0.92em;
-  margin: 2px 3px;
+  margin: 4px 6px 4px 0;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
 }
 .prose a[href*="agoda.com"]:hover,
 .prose a[href*="trip.com"]:hover,
@@ -252,16 +258,24 @@ h5 { font-size: 1em; }
 .prose a[href*="booking.tpm.li"]:hover {
   color: white;
   text-decoration: none;
-  background-color: transparent;
-  background: linear-gradient(135deg, #ea580c, #c2410c);
+  background-color: #c2410c;
   transform: translateY(-1px);
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
 }
+
+/* 已點過的飯店變淡。住宿文一頁 20+ 家，讀者若無法分辨自己看過誰，就只會
+   一路亂點而不收斂到決定。每家飯店 URL 不同，所以 :visited 能逐家區分。
+
+   ⚠️ 實測（2026-08-02, 內嵌 Chrome）此規則不會生效：連同頁自身的 URL 都沒有
+   套上 :visited 樣式，應為 Chrome 的 visited-link partitioning。規則保留是因為
+   它在有支援的瀏覽器（Firefox、舊版 Chrome）仍有效，且不生效時完全無副作用。
+   若要可靠地標記「已點過」，得改用 JS + localStorage 加 class，不是純 CSS。 */
 .prose a[href*="agoda.com"]:visited,
 .prose a[href*="trip.com"]:visited,
 .prose a[href*="booking.com"]:visited,
 .prose a[href*="booking.tpm.li"]:visited {
-  color: white;
+  background-color: #fdba74;
+  color: #7c2d12;
 }
 
 /* Klook / KKday 專屬：淡黃色按鈕 */
@@ -269,19 +283,19 @@ h5 { font-size: 1em; }
 .prose a[href*="kkday.com"] {
   display: inline-block;
   padding: 4px 12px;
-  background: #fef9c3;
+  background-color: #fef9c3;
   color: #713f12;
   text-decoration: none;
   border-radius: 6px;
   font-weight: 600;
   font-size: 0.92em;
-  margin: 2px 3px;
+  margin: 4px 6px 4px 0;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
 }
 .prose a[href*="klook.com"]:hover,
 .prose a[href*="kkday.com"]:hover {
-  background: #fef08a;
+  background-color: #fef08a;
   color: #713f12;
   text-decoration: none;
   transform: translateY(-1px);
@@ -289,7 +303,26 @@ h5 { font-size: 1em; }
 }
 .prose a[href*="klook.com"]:visited,
 .prose a[href*="kkday.com"]:visited {
-  color: #713f12;
+  background-color: #fdf6b2;
+  color: #a16207;
+}
+
+/* 手機觸控目標。實測 375px 下原本只有 35px，低於 44px 觸控標準，
+   且三顆按鈕相鄰時容易誤觸隔壁平台。
+
+   只加高不加寬：橫向 padding 維持 12px，否則「飯店名＋房價及空房查詢」
+   這類長按鈕會撐爆行寬、文字折成兩行並把整列擠掉。 */
+@media (max-width: 720px) {
+  .prose a[href*="agoda.com"],
+  .prose a[href*="trip.com"],
+  .prose a[href*="booking.com"],
+  .prose a[href*="booking.tpm.li"],
+  .prose a[href*="klook.com"],
+  .prose a[href*="kkday.com"] {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
 }
 
 /* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
