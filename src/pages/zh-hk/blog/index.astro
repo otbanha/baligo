@@ -93,9 +93,10 @@ const allPostsData = allPosts
     category: getCategories(p.data.category),
   }));
 
+// 最新24則住宿推薦（前端亂數挑 4 則顯示，與 zh-tw 首頁一致）
 const accommodations = allPosts
   .filter(p => getCategories(p.data.category).includes('住宿推薦'))
-  .slice(0, 5)
+  .slice(0, 24)
   .map(p => ({ id: p.id, title: p.data.title, heroImage: p.data.heroImage || '' }));
 
 // 最新9則新聞存檔（與 zh-tw 首頁同步：widget 只列標題，全文在各語系 /blog/[slug]/）

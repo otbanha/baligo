@@ -114,10 +114,10 @@ const allPostsData = allPosts
     category: getCategories(p.data.category),
   }));
 
-// 最新15則住宿推薦（亂數顯示）
+// 最新24則住宿推薦（亂數顯示）
 const accommodations = allPosts
   .filter(p => getCategories(p.data.category).includes('住宿推薦'))
-  .slice(0, 15)
+  .slice(0, 24)
   .map(p => ({
     id: p.id,
     slug: p.data.slug || p.id,
