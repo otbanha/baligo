@@ -74,10 +74,15 @@ jobs:
               return hashlib.md5(normalized.encode()).hexdigest()
 
           def dest_name(content, filename):
+              # 空 slug（CMS 會存成 slug: ''）要當作沒有 slug，與 translate.mjs 用
+              # gray-matter 解析後的行為一致 —— 否則目的檔名會算成 ".md"，
+              # 讓那些文章永遠被誤判成「四語系全缺」，待翻譯數虛報。
               m = re.search(r'^slug:\s*(.+)$', content, re.MULTILINE)
               if m:
-                  ext = '.mdx' if filename.endswith('.mdx') else '.md'
-                  return m.group(1).strip().strip("'\"") + ext
+                  slug = m.group(1).strip().strip("'\"")
+                  if slug:
+                      ext = '.mdx' if filename.endswith('.mdx') else '.md'
+                      return slug + ext
               return filename
 
           def stored_hash(path):
