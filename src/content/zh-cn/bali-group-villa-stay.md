@@ -36,8 +36,8 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: zh-cn
-_srcHash: PENDING_RETRY_7e829bc706d419525b266802b446fbf1
-_translateAttempts: 2
+_srcHash: 7e829bc706d419525b266802b446fbf1
+_translateIncomplete: true
 ---
 **先讲结论**：6 人以上团体/大家庭旅游，选**包栋三房以上的私人泳池 Villa** 比订多间饭店房划算又方便——空间宽敞让孩子有地方玩、大人有隐私，水明漾、坎古、金巴兰、乌鲁瓦图都有 4-6 房以上的包栋选择，详细各区推荐如下。
 
@@ -93,7 +93,7 @@ _translateAttempts: 2
 
 半开放式起居区配有沙发、桌子和椅子，以及一台电视，您甚至可以躺在泳池边观看！
 
-最大的三卧房别墅可容纳最多六人入住，非常适合朋友团体出行。
+最大的三卧别墅可容纳最多六人入住，非常适合朋友团体出行。
 
 > ▶[S8 Villas 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2163078)
 
@@ -129,36 +129,36 @@ Villa SANKET - KUTA 是一间位于库塔市中心的宽敞别墅，坐落在Wat
 ![Mayaloka Villas 水明漾百变泳池别墅首选（最多8人）](https://images.gobaligo.id/images/2026-03/1774535317704-452964105.jpeg)
 ![Mayaloka Villas 水明漾百变泳池别墅首选（最多8人）](https://images.gobaligo.id/images/2026-03/1774535318100-452964326.jpeg)
 
-想在水明漾入住传统风格的私人泳池别墅吗？Mayaloka Villas 绝对能满足您的需求！提供适合二至八人入住的别墅，非常适合团体、家庭或多代同游旅客。
+想在水明漾入住傳統風格的私人泳池别墅嗎？Mayaloka Villas 絕對能滿足您的需求！提供適合二至八人入住的别墅，非常適合團體、家庭或多代同遊旅客。
 
-地理位置极佳：距离Petitenget Beach仅10分钟步行路程，且步行5分钟即可达水明漾中心。别墅周围200米内有三家餐厅。
+地理位置極佳：距離Petitenget Beach僅 10 分鐘步行路程，且步行 5 分鐘即可達水明漾中心。别墅周围 200 米内有三家餐廳。
 
-设施齐全：Mayaloka Villas 提供免费当地接驳服务、付费机场接驳服务、租车服务、礼宾服务和洗衣服务。房价包含美式早餐。
+設施齊全：Mayaloka Villas 提供免費當地接駁服務、付費機場接駁服務、租車服務、禮賓服務和洗衣服務。房價包含美式早餐。
 
-客房选择多样：独栋泳池别墅提供开放式起居区，配备沙发、电视和餐桌。半露天卫浴空间拥有雨淋式淋浴和浴缸。
+客房選擇多元：獨棟泳池别墅提供開放式起居區，配備沙發、電視和餐桌。半露天衛浴空間擁有雨淋式淋浴和浴缸。
 
-卧室设有超大双人床（附蚊帐），户外则设有宽敞日光浴露台、躺椅和尺寸适中的泳池。
+臥室設有超大雙人床 (附蚊帳)，戶外則設有寬敞日光浴露台、躺椅和尺寸適中的泳池。
 
-别墅以传统巴厘岛风格装修，采用朴实家具、瓷砖地板和高耸的茅草屋顶。然而，如果您偏爱现代主义建筑，这里也提供混凝土结构的二、三或四卧房别墅，最多可容纳八人入住。
+别墅以傳統峇里島風格裝潢，採用樸實家具、瓷磚地板和高聳的茅草屋顶。然而，如果您偏愛現代主義建築，這裡也提供混凝土結構的二、三或四臥房别墅，最多可容納八人入住。
 
-> ▶[Mayaloka Villas 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165380) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685521/mayaloka-villas-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/htcYoxZf)
+> ▶[Mayaloka Villas 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165380) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685521/mayaloka-villas-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/htcYoxZf)
 
-### Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）
+### Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）
 
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535363774-497835102.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535364314-497835105.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535364693-497835061.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535365107-497835064.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535365506-497835072.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535365833-497835075.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535366228-497835076.jpeg)
-![Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535366543-497835078.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535363774-497835102.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535364314-497835105.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535364693-497835061.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535365107-497835064.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535365506-497835072.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535365833-497835075.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535366228-497835076.jpeg)
+![Amadea Resort & Villas Seminyak 水明漾中心的豪華住宿（最多10人）](https://images.gobaligo.id/images/2026-03/1774535366543-497835078.jpeg)
 
 Amadea Resort & Villas Seminyak 是一间位于水明漾心脏地带的奢华度假村，为您提供优雅舒适的住宿体验，非常适合家庭度假。
 
 地理位置优越：度假村步行即可抵达热闹的“饮食街”，周围环绕着众多设计师精品店、高级餐厅、日间spa、海滩酒吧和热闹的夜生活场所。
 
-设施齐全：Amadea Resort & Villas Seminyak 提供一系列便利设施，让您的入住更加舒适无忧。提供各式宽敞的别墅房型，设有私人泳池和花园。
+设施齐全：Amadea Resort & Villas Seminyak 提供一系列便利设施，让您的入住更加舒适无忧。提供各式宽敞的villa房型，设有私人泳池和花园。
 
 客房宽敞舒适：度假村提供一般双人客房、双卧室、四卧室别墅，可满足不同家庭的需求。客房均配备现代化设施。别墅更加私密奢华，空间宽敞，配备私人泳池、花园、厨房等设施，让您享受更加私密和奢华的度假体验。
 
@@ -178,7 +178,7 @@ Amadea Resort & Villas Seminyak 是一间位于水明漾心脏地带的奢华度
 
 这是一个位于水明漾的家庭度假胜地，提供46间优雅的别墅，让您和家人享受温暖的家庭时光。这里的每间别墅都配备了日常清洁服务，让您可以放心地享受您的度假时间。别墅的设计是以家庭为主题，提供了充足的空间让您和家人一起度假。您可以在户外泳池中与家人一起游泳、在露台上享受美景，或者在早餐时间一起享用早餐。
 
-Eden The Residence at The Sea Seminyak的位置非常便捷，靠近水明漾的海滩仅几步之遥，距离Mari Beach Club 120米，走出小巷子之后就有便利店和多家餐厅。您可以随时出发探索海滩的美景和活动。提供的房型有双卧室、三卧室、五卧室别墅，最多可以容纳10个人。
+Eden The Residence at The Sea Seminyak的位置非常便捷，靠近水明漾的海滩仅几步之遥，距离Mari Beach Club 120米，走出小巷子之后就有便利店和多家餐厅。您可以随时出发探索海滩的美景和活动。提供的房型有双卧室、三卧室、五卧室villa，最多可以容纳10个人。
 
 > ▶[Eden The Residence at The Sea Seminyak 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255207) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685551/eden-the-residence-at-the-sea-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ayUO1N1D)
 
@@ -321,41 +321,26 @@ Scallywags Anyar Estate 提供 2 卧房、3 卧房和 5 卧房的别墅，可满
 ![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535725772-522893288.jpeg)
 ![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726189-502805594.jpeg)
 ![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726551-502805610.jpeg)
-![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726936-509457212.jpeg)”,“Secana Beachtown 这个海滩生活住宅是为家庭、情侣和单人旅客设计的，旨在提供难忘的体验。”,“Secana Beachtown 提供了各种住宿选择，从带有私人泳池的豪华别墅到舒适的房间，每个住宿都是为客人设计的。他们有单卧室、2卧房、3卧房和4卧房的Signature Villa，这个住宅区拥有广泛的设施，满足家庭的需求。这些设施包括公共游泳池、健身中心、spa和餐厅，提供了多种国际菜式。客人也可以享受24小时前台服务、房间服务和洗衣设施。”,“Secana Beachtown 离海滩300米，走路到Atlas Beach Fest 600米，周围拥有活泼的夜生活和悠闲的氛围。”,“客人赞扬Secana Beachtown的舒适和清洁的住宿、友善的服务和优秀的位置。这个住宅区在Agoda上获得评分9.5；Tripadvisor评价满分，表明客人对这个住宅区的满意度很高。”,“Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时间，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。”,“> ▶[Secana Beachtown 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)”,“### **Avilla Paradise: 4BR Designer Villa** （最多8人）”,“![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765297-9f11002092c6ffc73606d195c5ad469f_large.jpeg)
+![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726936-509457212.jpeg)”,“Secana Beachtown 这个海滩生活住宅是为家庭、情侣和单人旅客设计的，旨在提供难忘的体验。”,“Secana Beachtown 提供了各种住宿选择，从带私人泳池的豪华别墅到舒适的房间，每个住宿都是为客人设计的。他们有单卧室、2卧室、3卧室和4卧室的Signature Villa，这个住宅区拥有广泛的设施，满足家庭的需求。这些设施包括公共游泳池、健身中心、spa和餐厅，提供多种国际菜式。客人也可以享受24小时前台服务、房间服务和洗衣设施。”,“Secana Beachtown 离海滩300米，步行到Atlas Beach Fest 600米，周围拥有活跃的夜生活和悠闲的氛围。”,“客人赞扬Secana Beachtown的舒适和清洁的住宿、友善的服务和优秀的位置。这个住宅区在Agoda上获得评分9.5；Tripadvisor评价满分，表明客人对这个住宅区的满意度很高。”,“Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时光，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。”,“> ▶[Secana Beachtown 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)”,“### **Avilla Paradise: 4BR Designer Villa** （最多8人）”,“![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765297-9f11002092c6ffc73606d195c5ad469f_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765688-1092bc3eec6c9b0e1c92a893b3695ca9_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535766131-5259e8d23500a37860c4e62b2407d18a_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535766632-e0579d07b08e62559c0bb3f03204aca5_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767051-efd905532f6d78d468534bcc8c4c260b_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767444-f0009340cda58b4eea29a35fc4e62b71_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767867-2b9d1004e25b920e2ad390ad9a671e6d_large.jpeg)
-![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535768272-9f3ab295bec9d12ad3d4ed2362b2f38b_large.jpeg)”,“位于坎古的Batu Bolong心脏地带，Avilla Paradise是一所新建的热带禅风四卧室别墅，提供了完美的家庭度假体验。多种奢华设施，包括能容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备有完整的厨房器具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。”]} ​```json
-{
-  "translations": [
-    "![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535723491-509465762.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535723989-509472731.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535724490-522893250.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535724893-522893251.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535725364-522893261.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535725772-522893288.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726189-502805594.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726551-502805610.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726936-509457212.jpeg)",
-    "Secana Beachtown 这个海滩生活住宅是为家庭、情侣和单人旅客设计的，旨在提供难忘的体验。",
-    "Secana Beachtown 提供了各种住宿选择，从带有私人泳池的豪华别墅到舒适的房间，每个住宿都是为客人设计的。他们有单卧室、2卧房、3卧房和4卧房的Signature Villa，这个住宅区拥有广泛的设施，满足家庭的需求。这些设施包括公共游泳池、健身中心、spa和餐厅，提供了多种国际菜式。客人也可以享受24小时前台服务、房间服务和洗衣设施。",
-    "Secana Beachtown 离海滩300米，走路到Atlas Beach Fest 600米，周围拥有活泼的夜生活和悠闲的氛围。",
-    "客人赞扬Secana Beachtown的舒适和清洁的住宿、友善的服务和优秀的位置。这个住宅区在Agoda上获得评分9.5；Tripadvisor评价满分，表明客人对这个住宅区的满意度很高。",
-    "Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时间，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。",
-    "> ▶[Secana Beachtown 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)",
-    "### **Avilla Paradise: 4BR Designer Villa** （最多8人）",
-    "![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765297-9f11002092c6ffc73606d195c5ad469f_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765688-1092bc3eec6c9b0e1c92a893b3695ca9_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535766131-5259e8d23500a37860c4e62b2407d18a_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535766632-e0579d07b08e62559c0bb3f03204aca5_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767051-efd905532f6d78d468534bcc8c4c260b_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767444-f0009340cda58b4eea29a35fc4e62b71_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767867-2b9d1004e25b920e2ad390ad9a671e6d_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535768272-9f3ab295bec9d12ad3d4ed2362b2f38b_large.jpeg)",
-    "位于坎古的Batu Bolong心脏地带，Avilla Paradise是一所新建的热带禅风四卧室别墅，提供了完美的家庭度假体验。多种奢华设施，包括能容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备有完整的厨房器具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。"
-  ]
-}
-```
+![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535768272-9f3ab295bec9d12ad3d4ed2362b2f38b_large.jpeg)”,“位于坎古的Batu Bolong中心地带，Avilla Paradise 是一栋新建的热带禅风四卧室别墅，提供了完美的家庭度假体验。多种奢华设施，包括能容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备有完整的厨房器具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。”]} 请注意，原文中没有出现台币金额，因此无需进行货币换算。所有图片链接和占位符均原样保留。地名“Canggu”已统一译为“坎古”。其他内容已按简体中文习惯调整。{
 
-Secana Beachtown 这个海滩生活住宅是为家庭、情侣和单人旅客设计的，旨在提供难忘的体验。
+translations": ["![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535723491-509465762.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535723989-509472731.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535724490-522893250.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535724893-522893251.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535725364-522893261.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535725772-522893288.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726189-502805594.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726551-502805610.jpeg)\n![Secana Beachtown - 完美的家庭度假目的地（最多8人）](https://images.gobaligo.id/images/2026-03/1774535726936-509457212.jpeg)", "Secana Beachtown 这个海滩生活住宅是为家庭、情侣和单人旅客设计的，旨在提供难忘的体验。", "Secana Beachtown 提供了各种住宿选择，从带私人泳池的豪华别墅到舒适的房间，每个住宿都是为客人设计的。他们有单卧室、2卧室、3卧室和4卧室的Signature Villa，这个住宅区拥有广泛的设施，满足家庭的需求。这些设施包括公共游泳池、健身中心、spa和餐厅，提供多种国际菜式。客人也可以享受24小时前台服务、房间服务和洗衣设施。", "Secana Beachtown 离海滩300米，步行到Atlas Beach Fest 600米，周围拥有活跃的夜生活和悠闲的氛围。", "客人赞扬Secana Beachtown的舒适和清洁的住宿、友善的服务和优秀的位置。这个住宅区在Agoda上获得评分9.5；Tripadvisor评价满分，表明客人对这个住宅区的满意度很高。", "Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时光，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。", "> ▶[Secana Beachtown 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)", "### **Avilla Paradise: 4BR Designer Villa** （最多8人）", "![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765297-9f11002092c6ffc73606d195c5ad469f_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535765688-1092bc3eec6c9b0e1c92a893b3695ca9_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535766131-5259e8d23500a37860c4e62b2407d18a_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535766632-e0579d07b08e62559c0bb3f03204aca5_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767051-efd905532f6d78d468534bcc8c4c260b_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767444-f0009340cda58b4eea29a35fc4e62b71_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767867-2b9d1004e25b920e2ad390ad9a671e6d_large.jpeg)\n![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535768272-9f3ab295bec9d12ad3d4ed2362b2f38b_large.jpeg)", "位于坎古的Batu Bolong中心地带，Avilla Paradise 是一栋新建的热带禅风四卧室别墅，提供了完美的家庭度假体验。多种奢华设施，包括能容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备有完整的厨房器具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。"]}
 
-Secana Beachtown 提供了各种住宿选择，从带有私人泳池的豪华别墅到舒适的房间，每个住宿都是为客人设计的。他们有单卧室、2卧房、3卧房和4卧房的Signature Villa，这个住宅区拥有广泛的设施，满足家庭的需求。这些设施包括公共游泳池、健身中心、spa和餐厅，提供了多种国际菜式。客人也可以享受24小时前台服务、房间服务和洗衣设施。
+Secana Beachtown 提供了各種住宿選擇，從帶有私人泳池的豪華別墅到舒適的房間，每個住宿都是為客人設計的。他們有單臥室、2 臥房、3 臥房和 4 臥房的 Signature Villa，這個住宅區擁有廣泛的設施，滿足家庭的需求。這些設施包括公共游泳池、健身中心、 spa 和餐廳，提供了多種國際菜式。客人也可以享受 24 小時前台服務、房間服務和洗衣設施。
 
-Secana Beachtown 离海滩300米，走路到Atlas Beach Fest 600米，周围拥有活泼的夜生活和悠闲的氛围。
+Secana Beachtown 離海灘海灘300公尺，走路到 Atlas Beach Fest 600公尺、周圍擁有活潑的夜生活和悠閒的氛圍。
 
-客人赞扬Secana Beachtown的舒适和清洁的住宿、友善的服务和优秀的位置。这个住宅区在Agoda上获得评分9.5；Tripadvisor评价满分，表明客人对这个住宅区的满意度很高。
+客人讚揚 Secana Beachtown 的舒適和清潔的住宿、友善的服務和優秀的位置。這個住宅區在Agoda上獲得評分9.5；Tripadvisor評價滿分，表明客人對這個住宅區的滿意度很高。
 
-Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时间，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。
+Secana Beachtown 在 Canggu 是一個適合家庭度假的理想選擇。它的豪華住宿、多樣的設施和優秀的位置提供了舒適、放鬆和探險的完美組合。無論您想放鬆、探索或與家人共度美好時間，Secana Beachtown 都是一個適合您的下一個家庭度假目的地。
 
-> ▶[Secana Beachtown 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)
+> ▶[Secana Beachtown 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)
 
 ### **Avilla Paradise: 4BR Designer Villa** （最多8人）
 
@@ -368,7 +353,7 @@ Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767867-2b9d1004e25b920e2ad390ad9a671e6d_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535768272-9f3ab295bec9d12ad3d4ed2362b2f38b_large.jpeg)
 
-位于坎古的Batu Bolong心脏地带，Avilla Paradise是一所新建的热带禅风四卧室别墅，提供了完美的家庭度假体验。多种奢华设施，包括能容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备有完整的厨房器具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。
+位於 Canggu, Batu Bolong 的心臟地帶，Avilla Paradise 是一所新建的熱帶禪風四臥室別墅，提供了完美的家庭度假體驗。多種奢華設施，包括能容納 20 人的沉浸式沙發、頂層休閒區的舒適沙發、8 人的意大利卡拉拉大理石餐桌、廚房配備有完整的廚房器具、客廳有55 英寸 4K 電視機配備 Netflix 和 Disney、7x3 米的游泳池。Avilla Paradise擁有 4 間卧室，每間卧室都有其獨特的特點。3 間卧室中的 43 英寸 4K 電視機、主卧室的浴缸和 2 間卧室的室內花園。
 
 Avilla Paradise位于Batu Bolong，宁静的小巷里，距离Pantai Batu Bolong Street只有1分钟步行路程，附近有多家餐厅、酒吧和超市。距离Love Anchor 700米，步行到Batu Bolong Beach和Berawa Beach约15～20分钟。
 
@@ -392,7 +377,7 @@ The Bija Villas by Nakula 位于巴厘岛坎古（Canggu）地区，距离海滩
 The Bija Villas 提供多样化的设施，以满足客人的各种需求：
 
 - **游泳池**：别墅设有无边泳池（13.34米 x 4.7米）和主泳池（11.52米 x 5.65米），供客人放松身心。
-- **娱乐设施**：每间卧室配有50英寸智能电视，客厅则配有65英寸智能电视。此外，还提供台球桌、桌上游戏和迷你高尔夫等娱乐选项。
+- **娱乐设施**：每间卧室配有50寸智能电视，客厅则配有65寸智能电视。此外，还提供台球桌、桌上游戏和迷你高尔夫等娱乐选项。
 - **餐饮服务**：提供英式或印尼式早餐服务，时间为上午7点至11点。另有专业厨师可应要求在别墅内准备餐点（需额外收费）。
 
 > ▶[The Bija Villas by Nakula 房价&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=995749) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-2890949/the-bija-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/V0lQaCtt)
@@ -432,9 +417,9 @@ The Bija Villas 提供多样化的设施，以满足客人的各种需求：
 ![Kayumanis Sanur Private Villa & Spa - 巴厘岛东岸的肉桂私人别墅（最多6人）](https://images.gobaligo.id/images/2026-03/1774535894731-137582163.jpeg)
 ![Kayumanis Sanur Private Villa & Spa - 巴厘岛东岸的肉桂私人别墅（最多6人）](https://images.gobaligo.id/images/2026-03/1774535895624-63359256.jpeg)
 
-位于迷人的巴厘岛东岸沙努尔小镇，Kayumanis Sanur Private Villa & Spa（沙努尔肉桂私人别墅 & 水疗）提供了一个独家而豪华的家庭度假体验。这个充满现代舒适和无可比拟服务的避风港，坐落在绿意盎然的热带花园中，灵感来自传统的村庄布局。该物业仅有11栋别墅和一系列设施，通过树木间蜿蜒的石径相连，从您抵达的那一刻开始就营造出一种隐秘和独特感。
+位于迷人的巴厘岛东岸沙努尔小镇，Kayumanis Sanur Private Villa & Spa（沙努尔肉桂私人别墅 & 水疗）提供了一个独家而豪华的家庭度假体验。这个充满现代舒适和无可比拟服务的避风港，坐落在一个绿意盎然的热带花园中，灵感来自传统的村庄布局。该物业仅有11栋别墅和一系列设施，通过树木间蜿蜒的石径相连，从您抵达的那一刻开始就营造出一种隐秘和独特感。
 
-Kayumanis Sanur Private Villa & Spa的位置虽然不在海滩，直线距离到海滩有900米远，但是走路五分钟的路程内有数十家餐厅、咖啡厅，往大马路走300米就有Alfamart便利店，生活机能还算不错。
+Kayumanis Sanur Private Villa & Spa的位置虽然不在海滩，直线距离到海滩有900米远，但是走路五分钟的路程内有数十家餐厅、咖啡馆，往大马路走300米就有Alfamart便利店，生活机能还算不错。
 
 Kayumanis Sanur Private Villa & Spa 提供单卧室、2 卧房、3 卧房等三种私人别墅选项，最多可容纳六人。
 
@@ -545,7 +530,7 @@ Avillion Villa Cinta @ Sanur 以其卓越的服务、整洁的环境和优越的
 
 公共設施同樣用心，設有氛圍滿分的酒吧與供應多元料理的餐廳，夜晚還可能遇上現場演出。Google與Agoda 評分更高達9.5以上，無論是整潔度、服務還是CP值，都獲得旅客一致讚賞。🌴✨這裡，是你在峇里島享受寧靜與奢華的秘密基地。
 
-[**Arpana Luxury Private Pool Villas 空房 & 房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64961377)
+[> ▶[**Arpana Luxury Private Pool Villas 空房 & 房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64961377)](#)
 
 {{block:親子}}
 

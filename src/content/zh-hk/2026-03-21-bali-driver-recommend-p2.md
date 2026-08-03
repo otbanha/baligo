@@ -13,12 +13,12 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-01T00:00:00.000Z
+updatedDate: 2026-08-03T00:00:00.000Z
 lang: zh-hk
-_srcHash: 1f98d04410b667de0372007650189f6b
+_srcHash: 5a2207eb56f8ba1d1d86f18832f48116
 ---
 
-**呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook社團網友真實推介嘅中文溝通司機。每個司機名下嘅「網友推介」連結都係可以㩒入去睇嘅原始社團貼文，推介數越多代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油錢，約10個鐘）**，聯絡嗰陣記得講低日期、人數同想去嘅區域。
+**呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook社團網友真實推介嘅中文溝通司機。每個司機名下嘅「網友推介」連結都係可以㩒入去睇嘅原始社團貼文，推介數越多代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油費，約10個鐘）**，聯絡時記得講低日期、人數同想去嘅區域。
 
 第一頁，有我哋優先推介嘅司機喺[呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
@@ -34,7 +34,7 @@ _srcHash: 1f98d04410b667de0372007650189f6b
 
 ![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
-👍🏼[網友推介1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[網友推介2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推介3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推介4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[網友推介5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[網友推介6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[網友推介7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[網友推介8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[網友推介9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[網友推介10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[網友推介11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[網友推介12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[網友推介13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[網友推介14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[網友推介15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[網友推介16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[網友推介17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[網友推介18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[網友推介19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[網友推介20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[網友推介21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[網友推介22](https://www.facebook.com/share/p/14XwwPmVjhX/) 👍🏼[網友推介23](https://www.facebook.com/share/p/1CKtSKs5k1/) 👍🏼[網友推介24](https://www.facebook.com/share/p/1Gdf22t7Dq/)
+👍🏼[網友推介1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[網友推介2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推介3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推介4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[網友推介5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[網友推介6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[網友推介7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[網友推介8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[網友推介9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[網友推介10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[網友推介11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[網友推介12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[網友推介13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[網友推介14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[網友推介15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[網友推介16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[網友推介17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[網友推介18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[網友推介19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[網友推介20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[網友推介21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[網友推介22](https://www.facebook.com/share/p/14XwwPmVjhX/) 👍🏼[網友推介23](https://www.facebook.com/share/p/1CKtSKs5k1/) 👍🏼[網友推介24](https://www.facebook.com/share/p/1Gdf22t7Dq/) 👍🏼[網友推介25](https://www.facebook.com/share/p/1HBhznS2q1/)
 
 ## Any 安妮
 
@@ -148,4 +148,4 @@ _srcHash: 1f98d04410b667de0372007650189f6b
 
 👈 **返到峇里島自由行終極指南**
 
-想睇晒完整嘅新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要準備啲乜。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

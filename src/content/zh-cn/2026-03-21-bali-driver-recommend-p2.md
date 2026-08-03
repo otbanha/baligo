@@ -13,9 +13,9 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-01T00:00:00.000Z
+updatedDate: 2026-08-03T00:00:00.000Z
 lang: zh-cn
-_srcHash: 1f98d04410b667de0372007650189f6b
+_srcHash: 5a2207eb56f8ba1d1d86f18832f48116
 ---
 
 **本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油资，约 10 小时）**，联系时请说明日期、人数与想去的区域。
@@ -34,7 +34,7 @@ _srcHash: 1f98d04410b667de0372007650189f6b
 
 ![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/14XwwPmVjhX/) 👍🏼[网友推荐23](https://www.facebook.com/share/p/1CKtSKs5k1/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/1Gdf22t7Dq/)
+👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/14XwwPmVjhX/) 👍🏼[网友推荐23](https://www.facebook.com/share/p/1CKtSKs5k1/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/1Gdf22t7Dq/) 👍🏼[网友推荐25](https://www.facebook.com/share/p/1HBhznS2q1/)
 
 ## Any 安妮
 
