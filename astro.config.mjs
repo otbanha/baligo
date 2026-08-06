@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import { remarkBlocks } from './src/remark-blocks.mjs';
 import { rehypeImages } from './src/rehype-images.mjs';
 import { rehypeAffiliateLinks } from './src/rehype-affiliate-links.mjs';
+import { rehypeExternalLinks } from './src/rehype-external-links.mjs';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
@@ -219,7 +220,7 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [[remarkBlocks, {}]],
-    rehypePlugins: [rehypeImages, rehypeAffiliateLinks],
+    rehypePlugins: [rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
   },
   build: {
     format: 'directory'

@@ -1,0 +1,31 @@
+---
+// StageBridge 元件預覽頁——僅供內部測試四種 stage 的樣子，不掛在任何文章頁面上。
+// noindex，避免被排進 sitemap 收錄。
+import StageBridge from '../components/StageBridge.astro';
+---
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>StageBridge 預覽（內部測試用）</title>
+</head>
+<body style="font-family: -apple-system, BlinkMacSystemFont, 'PingFang TC', sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1rem;">
+  <h1>StageBridge 預覽</h1>
+  <p style="color:#888; font-size:.85rem;">內部測試頁，noindex，不掛在任何文章頁面上。</p>
+
+  <h2>decide</h2>
+  <StageBridge stage="decide" currentSlug="bali-free-travel-guide" />
+
+  <h2>choose-area（無 region）</h2>
+  <StageBridge stage="choose-area" currentSlug="ubud-guide" />
+
+  <h2>choose-area（region=canggu）</h2>
+  <StageBridge stage="choose-area" currentSlug="canggu-guide" region="canggu" />
+
+  <h2>prepare</h2>
+  <StageBridge stage="prepare" currentSlug="bali-day-pass" />
+
+  <h2>onsite</h2>
+  <StageBridge stage="onsite" currentSlug="jimbaran-seafood-restaurants-list" />
+</body>
+</html>

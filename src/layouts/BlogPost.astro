@@ -10,12 +10,16 @@ import ChatBot from '../components/ChatBot.astro';
 import TripPlannerBanner from '../components/TripPlannerBanner.astro';
 import RelatedMapCard from '../components/RelatedMapCard.astro';
 import ForumLatestTopics from '../components/ForumLatestTopics.astro';
+import StageBridge, { type Stage } from '../components/StageBridge.astro';
 import { getCollection } from 'astro:content';
 import { getPostIndex, seededShuffle } from '../utils/post-index';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 import { getAvailableLangs } from '../utils/lang-availability';
 import { AUTHOR } from '../data/author';
 import { catUrlSlug } from '../lib/categoryConfig';
+import bridgeEnabledSlugs from '../data/bridge-enabled.json';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 type Driver = {
   name: string;
@@ -31,6 +35,27 @@ const { title, description, pubDate, updatedDate, heroImage, category, embeds, e
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
+
+// StageBridge：只在 bridge-enabled.json 白名單內的文章顯示，stage/region 讀 stage-mapping.json。
+// 只在 zh-tw 正站啟用（stage-mapping.json 只涵蓋 zh-tw 內容，翻譯頁面不套用避免語系錯配）。
+function loadBridgeStageAndRegion(targetSlug: string): { stage: Stage; region: string | null } | null {
+  try {
+    // process.cwd()（專案根目錄）而非 import.meta.url：production build 時
+    // layout 會被 Vite/Rollup 打包搬移，import.meta.url 已不可靠。
+    const mappingPath = join(process.cwd(), 'stage-mapping.json');
+    const raw = JSON.parse(readFileSync(mappingPath, 'utf-8'));
+    const articles: Array<{ slug: string; guessedStage: Stage | null; guessedRegion: string | null }> =
+      Array.isArray(raw.articles) ? raw.articles : [];
+    const entry = articles.find(a => a.slug === targetSlug);
+    if (!entry || !entry.guessedStage) return null;
+    return { stage: entry.guessedStage, region: entry.guessedRegion };
+  } catch {
+    return null;
+  }
+}
+const bridgeData = (lang === 'zh-tw' && slug && (bridgeEnabledSlugs as string[]).includes(slug))
+  ? loadBridgeStageAndRegion(slug)
+  : null;
 
 // OG image：優先用 heroImage，沒有才抓文章第一張圖
 function extractFirstImage(text: string): string {
@@ -609,6 +634,11 @@ const spaFaqSchema = isSpaGuide ? {
           <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'} data-qr-guide={lineQrGuide ? 'true' : undefined}>
             <slot />
           </div>
+
+          <!-- StageBridge：白名單文章的下一步導流卡片 -->
+          {bridgeData && slug && (
+            <StageBridge stage={bridgeData.stage} region={bridgeData.region} currentSlug={slug} />
+          )}
 
           <!-- D.2-3: footer 位置 — 文末 CTA 卡片 -->
           {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}

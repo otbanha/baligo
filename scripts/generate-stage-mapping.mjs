@@ -162,6 +162,29 @@ function applyTravelogueRegionOverride(decision, categories, guessedRegion, mult
   return decision;
 }
 
+// 標題或 slug 命中在地消費/日常需求類關鍵字 → 強制 onsite（蓋過先前所有判定）
+const ONSITE_FORCE_KEYWORDS = [
+  '超市', 'supermarket', 'spa', '按摩', '水療', '伴手禮', '紀念品', '藥局', '濾水', '餐廳', '美食',
+];
+// 標題或 slug 命中行程／團體旅遊類關鍵字 → 強制 prepare（蓋過先前所有判定，含遊記+region 的 choose-area）
+// 「日遊」「行程」太廣會誤抓規劃期文章，已排除
+const PREPARE_FORCE_KEYWORDS = [
+  '一日遊', '跳島', '套裝', 'package', 'tour',
+];
+
+function applyForcedKeywordOverrides(decision, title, slug) {
+  const haystack = [title, slug].join(' ').toLowerCase();
+  let result = decision;
+
+  if (ONSITE_FORCE_KEYWORDS.some(k => haystack.includes(k.toLowerCase()))) {
+    result = { ...result, guessedStage: 'onsite', decidedBy: 'onsite-forced' };
+  }
+  if (PREPARE_FORCE_KEYWORDS.some(k => haystack.includes(k.toLowerCase()))) {
+    result = { ...result, guessedStage: 'prepare', decidedBy: 'prepare-forced' };
+  }
+  return result;
+}
+
 // ── 【五】join 流量資料 ──────────────────────────────────────
 function parseCsvLine(line) {
   const fields = [];
@@ -267,8 +290,9 @@ for (const file of files) {
   const { guessedRegion, multiRegion } = pickRegion(regionScores);
 
   const primaryDecision = decideStage(title, slug, categories, tags);
+  const regionOverridden = applyTravelogueRegionOverride(primaryDecision, categories, guessedRegion, multiRegion);
   const { guessedStage, confidence, decidedBy, matchedKeywords } =
-    applyTravelogueRegionOverride(primaryDecision, categories, guessedRegion, multiRegion);
+    applyForcedKeywordOverrides(regionOverridden, title, slug);
 
   if (guessedStage) stageCounts[guessedStage]++;
   else stageCounts.unmatched++;

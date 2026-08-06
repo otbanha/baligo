@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-06T00:39:32.192Z",
+  "generatedAt": "2026-08-06T01:26:11.113Z",
   "totalArticles": 714,
   "excludedArticles": 117,
   "analyticsJoined": true,
   "reviewTopN": 100,
   "stageCounts": {
-    "decide": 104,
-    "choose-area": 124,
-    "prepare": 283,
-    "onsite": 196,
+    "decide": 85,
+    "choose-area": 89,
+    "prepare": 321,
+    "onsite": 212,
     "unmatched": 7
   },
   "regionCounts": {
@@ -150,9 +150,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -168,9 +168,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": true,
@@ -227,9 +227,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -308,9 +308,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -328,9 +328,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": true,
@@ -487,7 +487,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "超市",
@@ -527,9 +527,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "komodo",
       "multiRegion": false,
@@ -567,9 +567,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "kuta",
       "multiRegion": false,
@@ -589,7 +589,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": true,
@@ -608,9 +608,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "komodo",
       "multiRegion": false,
@@ -646,9 +646,9 @@
       "category": [
         "簽證通關"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "簽證通關",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -685,9 +685,9 @@
         "峇里島分區攻略",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -763,9 +763,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "komodo",
       "multiRegion": false,
@@ -826,7 +826,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "小費",
@@ -850,7 +850,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -968,9 +968,9 @@
         "峇里島分區攻略",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "jimbaran",
       "multiRegion": false,
@@ -988,9 +988,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -1028,9 +1028,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "sanur",
       "multiRegion": false,
@@ -1208,7 +1208,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "伴手禮"
@@ -1228,9 +1228,9 @@
       "category": [
         "住宿推薦"
       ],
-      "guessedStage": "prepare",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "住宿推薦",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -1327,9 +1327,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -1446,7 +1446,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -1509,9 +1509,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -1572,7 +1572,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -1667,9 +1667,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "sanur",
       "multiRegion": false,
@@ -1709,7 +1709,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "jimbaran",
       "multiRegion": false,
@@ -1828,7 +1828,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -1844,9 +1844,9 @@
       "category": [
         "旅行技巧"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "購物"
@@ -1931,9 +1931,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -2015,9 +2015,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -2164,9 +2164,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -2202,9 +2202,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -2242,7 +2242,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "canggu",
       "multiRegion": false,
@@ -2661,9 +2661,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -2719,9 +2719,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -2783,7 +2783,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -2803,7 +2803,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -2821,7 +2821,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -2841,7 +2841,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -3053,9 +3053,9 @@
       "category": [
         "叫車包車"
       ],
-      "guessedStage": "prepare",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "叫車包車",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "kuta",
       "multiRegion": false,
@@ -3093,7 +3093,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -3245,7 +3245,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -3265,7 +3265,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -3303,7 +3303,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -3588,9 +3588,9 @@
         "峇里島分區攻略",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -4021,9 +4021,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -4081,7 +4081,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "叫車包車",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": true,
@@ -4101,9 +4101,9 @@
         "美食景點活動",
         "峇里島分區攻略"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -4121,7 +4121,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "伴手禮",
@@ -4311,9 +4311,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -4407,9 +4407,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -4720,9 +4720,9 @@
       "category": [
         "簽證通關"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "簽證通關",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -4927,9 +4927,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "canggu",
       "multiRegion": false,
@@ -4965,9 +4965,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -5099,9 +5099,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "north",
       "multiRegion": false,
@@ -5270,9 +5270,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -5363,9 +5363,9 @@
       "category": [
         "家庭親子"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "家庭親子",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -5471,9 +5471,9 @@
       "category": [
         "簽證通關"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "簽證通關",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -5549,9 +5549,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -5750,7 +5750,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6095,9 +6095,9 @@
         "峇里島分區攻略",
         "新手指南"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -6339,7 +6339,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6357,7 +6357,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6375,7 +6375,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -6449,9 +6449,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6595,7 +6595,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6762,9 +6762,9 @@
         "家庭親子",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "家庭親子",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "sanur",
       "multiRegion": false,
@@ -6782,9 +6782,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6858,7 +6858,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -6949,9 +6949,9 @@
         "峇里島分區攻略",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -7027,9 +7027,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "komodo",
       "multiRegion": false,
@@ -7049,7 +7049,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -7123,9 +7123,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -7220,7 +7220,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -7489,9 +7489,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "lembongan",
       "multiRegion": false,
@@ -7509,9 +7509,9 @@
       "category": [
         "峇里島分區攻略"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "lembongan",
       "multiRegion": false,
@@ -7956,7 +7956,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "kintamani",
       "multiRegion": false,
@@ -8119,9 +8119,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -8177,9 +8177,9 @@
       "category": [
         "簽證通關"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "簽證通關",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -8386,7 +8386,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -8597,7 +8597,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -8617,7 +8617,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -8635,7 +8635,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -8655,7 +8655,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -8910,7 +8910,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "餐廳",
@@ -8931,9 +8931,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -8951,9 +8951,9 @@
         "家庭親子",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -8993,9 +8993,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -9150,7 +9150,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9167,9 +9167,9 @@
         "家庭親子",
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "家庭親子",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9222,9 +9222,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "uluwatu",
       "multiRegion": false,
@@ -9243,9 +9243,9 @@
         "峇里島分區攻略",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "峇里島分區攻略",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9283,7 +9283,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9434,9 +9434,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9494,7 +9494,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9631,7 +9631,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9647,9 +9647,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "kintamani",
       "multiRegion": false,
@@ -9688,7 +9688,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -9842,9 +9842,9 @@
         "美食景點活動",
         "旅行技巧"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -9999,7 +9999,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -10017,7 +10017,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -10071,9 +10071,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -10113,7 +10113,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "uluwatu",
       "multiRegion": false,
@@ -10189,7 +10189,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "kuta",
       "multiRegion": false,
@@ -10227,9 +10227,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -10341,9 +10341,9 @@
         "美食景點活動",
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "家庭親子",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -10863,7 +10863,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "紀念品"
@@ -10963,7 +10963,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "sanur",
       "multiRegion": false,
@@ -11001,9 +11001,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -11021,9 +11021,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -11122,9 +11122,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -11164,7 +11164,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "jimbaran",
       "multiRegion": false,
@@ -11183,9 +11183,9 @@
         "家庭親子",
         "美食景點活動"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "家庭親子",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -11257,9 +11257,9 @@
       "category": [
         "簽證通關"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "簽證通關",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -11311,9 +11311,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -11331,9 +11331,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -11667,7 +11667,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -11726,7 +11726,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "spa"
@@ -11876,9 +11876,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "category+region",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "ubud",
       "multiRegion": false,
@@ -12079,9 +12079,9 @@
       "category": [
         "家庭親子"
       ],
-      "guessedStage": "choose-area",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "家庭親子",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-dua",
       "multiRegion": false,
@@ -12464,9 +12464,9 @@
       "category": [
         "住宿推薦"
       ],
-      "guessedStage": "prepare",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "住宿推薦",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -12560,9 +12560,9 @@
       "category": [
         "住宿推薦"
       ],
-      "guessedStage": "prepare",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "住宿推薦",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -12580,9 +12580,9 @@
       "category": [
         "美食景點活動"
       ],
-      "guessedStage": "onsite",
+      "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": "nusa-penida",
       "multiRegion": false,
@@ -12704,9 +12704,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": true,
@@ -13002,7 +13002,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "low",
-      "decidedBy": "旅行技巧+override",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {
         "onsiteOverride": [
           "伴手禮"
@@ -13022,9 +13022,9 @@
       "category": [
         "遊記分享"
       ],
-      "guessedStage": "decide",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "遊記分享",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": true,
@@ -13107,7 +13107,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -13296,7 +13296,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -13314,7 +13314,7 @@
       ],
       "guessedStage": "prepare",
       "confidence": "high",
-      "decidedBy": "旅行技巧",
+      "decidedBy": "prepare-forced",
       "matchedKeywords": {},
       "guessedRegion": null,
       "multiRegion": false,
@@ -13332,7 +13332,7 @@
       ],
       "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "美食景點活動",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -13747,9 +13747,9 @@
       "category": [
         "住宿推薦"
       ],
-      "guessedStage": "prepare",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "住宿推薦",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "seminyak",
       "multiRegion": false,
@@ -13787,9 +13787,9 @@
       "category": [
         "住宿推薦"
       ],
-      "guessedStage": "prepare",
+      "guessedStage": "onsite",
       "confidence": "high",
-      "decidedBy": "住宿推薦",
+      "decidedBy": "onsite-forced",
       "matchedKeywords": {},
       "guessedRegion": "sanur",
       "multiRegion": false,

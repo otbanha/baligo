@@ -1,168 +1,120 @@
 ---
 /**
- * StageBridge — 依「旅遊決策階段」在文章間互相導流的橋接卡片。
+ * StageBridge — 文章底部的「下一步該看什麼」導流卡片。
  *
- * decide      使用者還在猶豫要不要去 / 怎麼規劃 → 行程規劃／區域比較文章
- * choose-area 使用者在選要住哪一區          → 住宿推薦文章（可依 region 優先同區）
- * prepare     使用者已決定，出發前準備      → 活動／票券類文章
- * onsite      使用者已經在峇里島當地        → 活動／美食／SPA 類文章
+ * 目標文章從 stage-mapping.json（scripts/generate-stage-mapping.mjs 產出）挑選：
+ *   decide      → guessedStage 為 choose-area 的文章
+ *   choose-area → category 含「住宿推薦」的文章
+ *   prepare     → category 含「美食景點活動」的文章
+ *   onsite      → category 含「美食景點活動」的文章
  *
- * 目前只讀 src/content/blog（繁中）collection；文章若已標註 stage/region
- * frontmatter 會優先採用，其餘文章則以分類／tag／標題關鍵字推測歸屬
- * （與 scripts/generate-stage-mapping.mjs 的推測邏輯一致）。
+ * 排序：region 相同優先 → 其次 visits 由高到低，排除 currentSlug 自己，取前 3 篇。
+ * 縮圖／描述另外從 src/content/blog（Astro content collection）補齊，
+ * 因為 stage-mapping.json 本身不含這兩個欄位。
  */
-import { getCollection, type CollectionEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 export type Stage = 'decide' | 'choose-area' | 'prepare' | 'onsite';
 
 interface Props {
   stage: Stage;
-  region?: string;
+  region?: string | null;
+  currentSlug: string;
 }
 
-const { stage, region } = Astro.props;
+const { stage, region = null, currentSlug } = Astro.props;
 
 const TARGET_COUNT = 3;
-const MIN_COUNT = 2;
 
-const STAGE_META: Record<Stage, { emoji: string; heading: string }> = {
-  'decide': { emoji: '🗺️', heading: '還在猶豫怎麼玩？先看這些' },
-  'choose-area': { emoji: '🏨', heading: '住哪一區？先看這些推薦' },
-  'prepare': { emoji: '🎫', heading: '出發前，先訂好這些' },
-  'onsite': { emoji: '🍽️', heading: '到了當地，這些不要錯過' },
+const STAGE_HEADING: Record<Stage, string> = {
+  'decide': '🗺️ 想好要去哪些地方了嗎？',
+  'choose-area': '🏨 這幾個住宿你可能也想比較看看',
+  'prepare': '🎫 出發前，先把這些安排好',
+  'onsite': '🍽️ 人都到了，順便看看這些',
 };
 
-const DECIDE_KEYWORDS = ['行程規劃', '區域比較'];
-// decide 階段限定這幾個分類，濾掉單一景點/活動文章只是順帶掛「行程規劃」tag 的雜訊
-const DECIDE_CATEGORIES = ['遊記分享', '旅行技巧', '新手指南'];
-const STAY_CATEGORY = '住宿推薦';
-const ACTIVITY_CATEGORY = '美食景點活動';
-const TICKET_KEYWORDS = ['門票', '票券', '一日遊', '預約', '體驗票', 'Klook', 'KKday'];
-const FOOD_SPA_KEYWORDS = ['SPA', 'Spa', '水療', '美食', '餐廳', '海鮮', '下午茶', '咖啡廳'];
-
-// 區域別名表：文章標題／tags 常見的中英文寫法 → 統一 region key（與 src/data/tripPlannerSpots.ts 的 RegionId 對齊）
-const REGION_ALIASES: Record<string, string[]> = {
-  'ubud': ['烏布', 'ubud', '金塔瑪尼'],
-  'kuta': ['庫塔', 'kuta'],
-  'seminyak': ['水明漾', 'seminyak'],
-  'canggu': ['長谷', 'canggu'],
-  'jimbaran': ['金巴蘭', 'jimbaran'],
-  'uluwatu': ['烏魯瓦圖', 'uluwatu'],
-  'nusa-dua': ['努沙杜瓦', 'nusa dua', '南灣'],
-  'sanur': ['沙努爾', 'sanur'],
-  'nusa-penida': ['努沙佩尼達', '佩尼達', 'nusa penida'],
-  'lembongan': ['藍夢島', '倫邦岸', 'lembongan'],
-  'east-bali': ['東部峇里', '東峇里', 'east bali'],
-  'komodo': ['科摩多', 'komodo'],
+// 各 stage 的目標文章篩選規則（讀 stage-mapping.json）
+const STAGE_TARGET_CATEGORY: Partial<Record<Stage, string>> = {
+  'choose-area': '住宿推薦',
+  'prepare': '美食景點活動',
+  'onsite': '美食景點活動',
 };
 
-function getCategories(c: unknown): string[] {
-  if (!c) return [];
-  return Array.isArray(c) ? c.map(String) : typeof c === 'string' ? [c] : [];
-}
-function getTags(t: unknown): string[] {
-  if (!t) return [];
-  return Array.isArray(t) ? t.map(String) : typeof t === 'string' ? [t] : [];
-}
-function haystackOf(post: CollectionEntry<'blog'>): string {
-  return [post.data.title, ...getCategories(post.data.category), ...getTags(post.data.tags)].join(' ');
-}
-function includesAny(haystack: string, keywords: string[]): boolean {
-  return keywords.some(k => haystack.includes(k));
-}
-function normalizeRegionKey(input?: string): string | undefined {
-  if (!input) return undefined;
-  const key = input.toLowerCase().trim();
-  if (REGION_ALIASES[key]) return key;
-  for (const [regionKey, aliases] of Object.entries(REGION_ALIASES)) {
-    if (aliases.some(a => a.toLowerCase() === key)) return regionKey;
-  }
-  return key;
-}
-function matchesRegion(post: CollectionEntry<'blog'>, regionKey: string): boolean {
-  if (post.data.region && normalizeRegionKey(post.data.region) === regionKey) return true;
-  const aliases = REGION_ALIASES[regionKey] ?? [regionKey];
-  return includesAny(haystackOf(post), aliases);
+interface MappingArticle {
+  slug: string;
+  title: string;
+  category: string[];
+  guessedStage: Stage | null;
+  guessedRegion: string | null;
+  visits: number;
 }
 
-function getPublishTime(post: CollectionEntry<'blog'>): number {
-  if (!post.data.pubDate) return 0;
-  const d = new Date(post.data.pubDate);
-  if (post.data.pubHour != null) d.setTime(d.getTime() + (post.data.pubHour - 8) * 3600 * 1000);
-  return d.getTime();
-}
-function isPublished(post: CollectionEntry<'blog'>): boolean {
-  return !!post.data.pubDate && !post.data.private && getPublishTime(post) <= Date.now();
-}
-
-function matchesStage(post: CollectionEntry<'blog'>, targetStage: Stage): boolean {
-  // frontmatter 已人工標註 stage 時優先採用
-  if (post.data.stage) return post.data.stage === targetStage;
-
-  const categories = getCategories(post.data.category);
-  const haystack = haystackOf(post);
-
-  switch (targetStage) {
-    case 'decide':
-      return includesAny(haystack, DECIDE_KEYWORDS) && categories.some(c => DECIDE_CATEGORIES.includes(c));
-    case 'choose-area':
-      return categories.includes(STAY_CATEGORY);
-    case 'prepare':
-      return categories.includes(ACTIVITY_CATEGORY) && includesAny(haystack, TICKET_KEYWORDS);
-    case 'onsite':
-      return categories.includes(ACTIVITY_CATEGORY) && includesAny(haystack, FOOD_SPA_KEYWORDS);
-    default:
-      return false;
+function loadStageMapping(): MappingArticle[] {
+  try {
+    // process.cwd()（專案根目錄）而非 import.meta.url：production build 時
+    // component 會被 Vite/Rollup 打包搬移，import.meta.url 已不可靠。
+    const mappingPath = join(process.cwd(), 'stage-mapping.json');
+    const raw = JSON.parse(readFileSync(mappingPath, 'utf-8'));
+    return Array.isArray(raw.articles) ? raw.articles : [];
+  } catch {
+    return [];
   }
 }
 
-// body 內沒有 heroImage frontmatter 時，退而抓內文第一張圖（與 BlogCategoryPage.astro 一致）
-function extractFirstImage(body: string | undefined): string {
-  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
-  return m ? m[1] : '';
+function selectPool(stage: Stage, articles: MappingArticle[]): MappingArticle[] {
+  if (stage === 'decide') {
+    return articles.filter(a => a.guessedStage === 'choose-area');
+  }
+  const category = STAGE_TARGET_CATEGORY[stage];
+  return articles.filter(a => Array.isArray(a.category) && a.category.includes(category!));
 }
 
-function summarize(post: CollectionEntry<'blog'>): string {
-  const raw = post.data.description ?? '';
-  const oneLine = raw.replace(/\s+/g, ' ').trim();
-  const MAX = 60;
-  return oneLine.length > MAX ? `${oneLine.slice(0, MAX)}…` : oneLine;
-}
+const stageMapping = loadStageMapping();
 
-const regionKey = normalizeRegionKey(region);
-
-const allPosts = await getCollection('blog');
-const pool = allPosts.filter(p => isPublished(p) && matchesStage(p, stage));
+const pool = selectPool(stage, stageMapping).filter(a => a.slug !== currentSlug);
 
 const ranked = pool.slice().sort((a, b) => {
-  if (stage === 'choose-area' && regionKey) {
-    const aMatch = matchesRegion(a, regionKey) ? 1 : 0;
-    const bMatch = matchesRegion(b, regionKey) ? 1 : 0;
-    if (aMatch !== bMatch) return bMatch - aMatch;
-  }
-  return getPublishTime(b) - getPublishTime(a);
+  const aRegionMatch = region && a.guessedRegion === region ? 1 : 0;
+  const bRegionMatch = region && b.guessedRegion === region ? 1 : 0;
+  if (aRegionMatch !== bRegionMatch) return bRegionMatch - aRegionMatch;
+  return (b.visits || 0) - (a.visits || 0);
 });
 
 const picks = ranked.slice(0, TARGET_COUNT);
 
-const cards = picks.map(post => {
-  const slug = post.data.slug || post.id;
+// 縮圖／描述：從 blog collection 補齊（stage-mapping.json 不含這兩個欄位）
+const blogPosts = picks.length > 0 ? await getCollection('blog') : [];
+const postBySlug = new Map(blogPosts.map(p => [p.data.slug || p.id, p]));
+
+function extractFirstImage(body: string | undefined): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+function summarize(description: unknown): string {
+  const oneLine = String(description ?? '').replace(/\s+/g, ' ').trim();
+  const MAX = 60;
+  return oneLine.length > MAX ? `${oneLine.slice(0, MAX)}…` : oneLine;
+}
+
+const cards = picks.map(item => {
+  const post = postBySlug.get(item.slug);
   return {
-    slug,
-    href: `/blog/${slug}/`,
-    title: post.data.title,
-    summary: summarize(post),
-    image: post.data.heroImage || extractFirstImage(post.body),
+    slug: item.slug,
+    href: `/blog/${item.slug}/`,
+    title: item.title,
+    summary: post ? summarize(post.data.description) : '',
+    image: post ? (post.data.heroImage || extractFirstImage(post.body)) : '',
   };
 });
 
-const meta = STAGE_META[stage];
-const showFallbackNote = cards.length > 0 && cards.length < MIN_COUNT;
+const heading = STAGE_HEADING[stage];
 ---
 
 {cards.length > 0 && (
-  <section class="stage-bridge" data-bridge-stage={stage}>
-    <h3 class="stage-bridge__heading">{meta.emoji} {meta.heading}</h3>
+  <section class="stage-bridge">
+    <h3 class="stage-bridge__heading">{heading}</h3>
     <div class="stage-bridge__list">
       {cards.map(card => (
         <a
@@ -183,9 +135,6 @@ const showFallbackNote = cards.length > 0 && cards.length < MIN_COUNT;
         </a>
       ))}
     </div>
-    {showFallbackNote && (
-      <p class="stage-bridge__note">更多相關文章準備中，敬請期待。</p>
-    )}
   </section>
 )}
 
@@ -260,17 +209,7 @@ const showFallbackNote = cards.length > 0 && cards.length < MIN_COUNT;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
-  .stage-bridge__note {
-    margin: 0.6rem 0 0;
-    font-size: 0.75rem;
-    color: #999;
-  }
   @media (max-width: 640px) {
-    .stage-bridge__list {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-  }
-  @media (max-width: 420px) {
     .stage-bridge__list {
       grid-template-columns: 1fr;
     }
