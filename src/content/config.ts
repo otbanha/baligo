@@ -34,6 +34,12 @@ const blog = defineCollection({
     longitude: z.number().optional(),
     isDriverGuide: z.boolean().optional(),
     line_qr_guide: z.boolean().optional(),
+    // StageBridge 用：使用者旅遊決策階段／文章所屬區域（供跨階段導流卡片挑文）
+    stage: z.enum(['decide', 'choose-area', 'prepare', 'onsite']).optional(),
+    region: z.enum([
+      'ubud', 'kuta', 'seminyak', 'canggu', 'jimbaran', 'uluwatu',
+      'nusa-dua', 'sanur', 'nusa-penida', 'lembongan', 'east-bali', 'komodo',
+    ]).optional(),
     drivers: z.array(z.object({
       name: z.string(),
       category: z.string(),

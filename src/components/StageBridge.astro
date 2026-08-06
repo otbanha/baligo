@@ -1,0 +1,278 @@
+---
+/**
+ * StageBridge — 依「旅遊決策階段」在文章間互相導流的橋接卡片。
+ *
+ * decide      使用者還在猶豫要不要去 / 怎麼規劃 → 行程規劃／區域比較文章
+ * choose-area 使用者在選要住哪一區          → 住宿推薦文章（可依 region 優先同區）
+ * prepare     使用者已決定，出發前準備      → 活動／票券類文章
+ * onsite      使用者已經在峇里島當地        → 活動／美食／SPA 類文章
+ *
+ * 目前只讀 src/content/blog（繁中）collection；文章若已標註 stage/region
+ * frontmatter 會優先採用，其餘文章則以分類／tag／標題關鍵字推測歸屬
+ * （與 scripts/generate-stage-mapping.mjs 的推測邏輯一致）。
+ */
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export type Stage = 'decide' | 'choose-area' | 'prepare' | 'onsite';
+
+interface Props {
+  stage: Stage;
+  region?: string;
+}
+
+const { stage, region } = Astro.props;
+
+const TARGET_COUNT = 3;
+const MIN_COUNT = 2;
+
+const STAGE_META: Record<Stage, { emoji: string; heading: string }> = {
+  'decide': { emoji: '🗺️', heading: '還在猶豫怎麼玩？先看這些' },
+  'choose-area': { emoji: '🏨', heading: '住哪一區？先看這些推薦' },
+  'prepare': { emoji: '🎫', heading: '出發前，先訂好這些' },
+  'onsite': { emoji: '🍽️', heading: '到了當地，這些不要錯過' },
+};
+
+const DECIDE_KEYWORDS = ['行程規劃', '區域比較'];
+// decide 階段限定這幾個分類，濾掉單一景點/活動文章只是順帶掛「行程規劃」tag 的雜訊
+const DECIDE_CATEGORIES = ['遊記分享', '旅行技巧', '新手指南'];
+const STAY_CATEGORY = '住宿推薦';
+const ACTIVITY_CATEGORY = '美食景點活動';
+const TICKET_KEYWORDS = ['門票', '票券', '一日遊', '預約', '體驗票', 'Klook', 'KKday'];
+const FOOD_SPA_KEYWORDS = ['SPA', 'Spa', '水療', '美食', '餐廳', '海鮮', '下午茶', '咖啡廳'];
+
+// 區域別名表：文章標題／tags 常見的中英文寫法 → 統一 region key（與 src/data/tripPlannerSpots.ts 的 RegionId 對齊）
+const REGION_ALIASES: Record<string, string[]> = {
+  'ubud': ['烏布', 'ubud', '金塔瑪尼'],
+  'kuta': ['庫塔', 'kuta'],
+  'seminyak': ['水明漾', 'seminyak'],
+  'canggu': ['長谷', 'canggu'],
+  'jimbaran': ['金巴蘭', 'jimbaran'],
+  'uluwatu': ['烏魯瓦圖', 'uluwatu'],
+  'nusa-dua': ['努沙杜瓦', 'nusa dua', '南灣'],
+  'sanur': ['沙努爾', 'sanur'],
+  'nusa-penida': ['努沙佩尼達', '佩尼達', 'nusa penida'],
+  'lembongan': ['藍夢島', '倫邦岸', 'lembongan'],
+  'east-bali': ['東部峇里', '東峇里', 'east bali'],
+  'komodo': ['科摩多', 'komodo'],
+};
+
+function getCategories(c: unknown): string[] {
+  if (!c) return [];
+  return Array.isArray(c) ? c.map(String) : typeof c === 'string' ? [c] : [];
+}
+function getTags(t: unknown): string[] {
+  if (!t) return [];
+  return Array.isArray(t) ? t.map(String) : typeof t === 'string' ? [t] : [];
+}
+function haystackOf(post: CollectionEntry<'blog'>): string {
+  return [post.data.title, ...getCategories(post.data.category), ...getTags(post.data.tags)].join(' ');
+}
+function includesAny(haystack: string, keywords: string[]): boolean {
+  return keywords.some(k => haystack.includes(k));
+}
+function normalizeRegionKey(input?: string): string | undefined {
+  if (!input) return undefined;
+  const key = input.toLowerCase().trim();
+  if (REGION_ALIASES[key]) return key;
+  for (const [regionKey, aliases] of Object.entries(REGION_ALIASES)) {
+    if (aliases.some(a => a.toLowerCase() === key)) return regionKey;
+  }
+  return key;
+}
+function matchesRegion(post: CollectionEntry<'blog'>, regionKey: string): boolean {
+  if (post.data.region && normalizeRegionKey(post.data.region) === regionKey) return true;
+  const aliases = REGION_ALIASES[regionKey] ?? [regionKey];
+  return includesAny(haystackOf(post), aliases);
+}
+
+function getPublishTime(post: CollectionEntry<'blog'>): number {
+  if (!post.data.pubDate) return 0;
+  const d = new Date(post.data.pubDate);
+  if (post.data.pubHour != null) d.setTime(d.getTime() + (post.data.pubHour - 8) * 3600 * 1000);
+  return d.getTime();
+}
+function isPublished(post: CollectionEntry<'blog'>): boolean {
+  return !!post.data.pubDate && !post.data.private && getPublishTime(post) <= Date.now();
+}
+
+function matchesStage(post: CollectionEntry<'blog'>, targetStage: Stage): boolean {
+  // frontmatter 已人工標註 stage 時優先採用
+  if (post.data.stage) return post.data.stage === targetStage;
+
+  const categories = getCategories(post.data.category);
+  const haystack = haystackOf(post);
+
+  switch (targetStage) {
+    case 'decide':
+      return includesAny(haystack, DECIDE_KEYWORDS) && categories.some(c => DECIDE_CATEGORIES.includes(c));
+    case 'choose-area':
+      return categories.includes(STAY_CATEGORY);
+    case 'prepare':
+      return categories.includes(ACTIVITY_CATEGORY) && includesAny(haystack, TICKET_KEYWORDS);
+    case 'onsite':
+      return categories.includes(ACTIVITY_CATEGORY) && includesAny(haystack, FOOD_SPA_KEYWORDS);
+    default:
+      return false;
+  }
+}
+
+// body 內沒有 heroImage frontmatter 時，退而抓內文第一張圖（與 BlogCategoryPage.astro 一致）
+function extractFirstImage(body: string | undefined): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+function summarize(post: CollectionEntry<'blog'>): string {
+  const raw = post.data.description ?? '';
+  const oneLine = raw.replace(/\s+/g, ' ').trim();
+  const MAX = 60;
+  return oneLine.length > MAX ? `${oneLine.slice(0, MAX)}…` : oneLine;
+}
+
+const regionKey = normalizeRegionKey(region);
+
+const allPosts = await getCollection('blog');
+const pool = allPosts.filter(p => isPublished(p) && matchesStage(p, stage));
+
+const ranked = pool.slice().sort((a, b) => {
+  if (stage === 'choose-area' && regionKey) {
+    const aMatch = matchesRegion(a, regionKey) ? 1 : 0;
+    const bMatch = matchesRegion(b, regionKey) ? 1 : 0;
+    if (aMatch !== bMatch) return bMatch - aMatch;
+  }
+  return getPublishTime(b) - getPublishTime(a);
+});
+
+const picks = ranked.slice(0, TARGET_COUNT);
+
+const cards = picks.map(post => {
+  const slug = post.data.slug || post.id;
+  return {
+    slug,
+    href: `/blog/${slug}/`,
+    title: post.data.title,
+    summary: summarize(post),
+    image: post.data.heroImage || extractFirstImage(post.body),
+  };
+});
+
+const meta = STAGE_META[stage];
+const showFallbackNote = cards.length > 0 && cards.length < MIN_COUNT;
+---
+
+{cards.length > 0 && (
+  <section class="stage-bridge" data-bridge-stage={stage}>
+    <h3 class="stage-bridge__heading">{meta.emoji} {meta.heading}</h3>
+    <div class="stage-bridge__list">
+      {cards.map(card => (
+        <a
+          class="stage-bridge__card"
+          href={card.href}
+          data-bridge-stage={stage}
+          data-bridge-target={card.slug}
+        >
+          <div class="stage-bridge__thumb">
+            {card.image
+              ? <img src={card.image} alt="" loading="lazy" />
+              : <span class="stage-bridge__thumb-ph">🏝️</span>}
+          </div>
+          <div class="stage-bridge__body">
+            <p class="stage-bridge__title">{card.title}</p>
+            {card.summary && <p class="stage-bridge__summary">{card.summary}</p>}
+          </div>
+        </a>
+      ))}
+    </div>
+    {showFallbackNote && (
+      <p class="stage-bridge__note">更多相關文章準備中，敬請期待。</p>
+    )}
+  </section>
+)}
+
+<style>
+  .stage-bridge {
+    background: #FEF5ED;
+    border: 1px solid rgba(197, 160, 89, 0.35);
+    border-radius: 12px;
+    padding: 1rem 1.1rem 1.2rem;
+    margin: 1.5rem 0;
+  }
+  .stage-bridge__heading {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #5D4037;
+    margin: 0 0 0.75rem;
+  }
+  .stage-bridge__list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+  .stage-bridge__card {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .stage-bridge__thumb {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    background: #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .stage-bridge__thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .stage-bridge__thumb-ph {
+    font-size: 1.8rem;
+  }
+  .stage-bridge__body {
+    padding: 0.6rem 0.7rem;
+  }
+  .stage-bridge__title {
+    margin: 0 0 0.3rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    line-height: 1.35;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .stage-bridge__summary {
+    margin: 0;
+    font-size: 0.78rem;
+    color: #666;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .stage-bridge__note {
+    margin: 0.6rem 0 0;
+    font-size: 0.75rem;
+    color: #999;
+  }
+  @media (max-width: 640px) {
+    .stage-bridge__list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+  @media (max-width: 420px) {
+    .stage-bridge__list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
