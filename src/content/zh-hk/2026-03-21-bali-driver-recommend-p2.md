@@ -13,12 +13,12 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-03T00:00:00.000Z
+updatedDate: 2026-08-07T00:00:00.000Z
 lang: zh-hk
-_srcHash: 5a2207eb56f8ba1d1d86f18832f48116
+_srcHash: 014a35b03aec05b782fe5547f25afba5
 ---
 
-**呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook社團網友真實推介嘅中文溝通司機。每個司機名下嘅「網友推介」連結都係可以㩒入去睇嘅原始社團貼文，推介數越多代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油費，約10個鐘）**，聯絡時記得講低日期、人數同想去嘅區域。
+**呢頁係咩嚟**：峇里島包車司機「網友評鑑名人榜」第二頁，收錄咗Facebook群組網友真實推介嘅中文溝通司機。每個司機名下嘅「網友推介」連結都係可以㩒入去睇嘅原始群組貼文，推介數越多就代表口碑累積得越耐。包車行情大約 **Rp 600,000–800,000／日（包油費，約10個鐘）**，聯絡嗰陣記得講低日期、人數同想去嘅區域。
 
 第一頁，有我哋優先推介嘅司機喺[呢度](/zh-hk/blog/bali-private-car-drivers-guide/)
 
@@ -76,7 +76,7 @@ _srcHash: 5a2207eb56f8ba1d1d86f18832f48116
 
 ![Ok Bali](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/15mCz3P1kY/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1SRP58oXXu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1BFVR9i9Uq/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/12DosfnXN2x/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/12FmFcPRLSk/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/19KS4osEn7/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17VpLVZLeg/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1AqLpg8w3P/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1AUBSD62BY/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/16oadyoLab/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/17LGecvBqa/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/16Xti3BogQ/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FvfUX1Uaf/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/17sY8L42wu/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1FhxnKv2zq/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1P1HdctcH5/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1MkMRMSnyn/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/14ceo2DYRKU/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/14dHRKTTwCJ/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1b4HP8SvMa/) 👍🏼[網友推薦21](https://www.facebook.com/share/v/18nfjeP9AX/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/15mCz3P1kY/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1SRP58oXXu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1BFVR9i9Uq/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/12DosfnXN2x/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/12FmFcPRLSk/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/19KS4osEn7/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17VpLVZLeg/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1AqLpg8w3P/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1AUBSD62BY/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/16oadyoLab/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/17LGecvBqa/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/16Xti3BogQ/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FvfUX1Uaf/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/17sY8L42wu/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1FhxnKv2zq/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1P1HdctcH5/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1MkMRMSnyn/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/14ceo2DYRKU/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/14dHRKTTwCJ/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1b4HP8SvMa/) 👍🏼[網友推薦21](https://www.facebook.com/share/v/18nfjeP9AX/) [網友推薦22](https://www.facebook.com/share/p/191ENxgyVP/)
 
 ## Maday
 
@@ -148,4 +148,4 @@ _srcHash: 5a2207eb56f8ba1d1d86f18832f48116
 
 👈 **返到峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要準備啲乜。
