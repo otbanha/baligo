@@ -71,6 +71,18 @@
   .success-title { font-family: 'Cormorant Garamond', serif; font-size: 2rem; font-weight: 300; color: var(--dark); margin-bottom: 0.5rem; }
   .success-sub { font-size: 14px; color: var(--muted); }
 
+
+  /* Add-on checkboxes */
+  .addon-card { border: 1px solid var(--border); border-radius: 4px; padding: 14px 16px; background: var(--white); margin-bottom: 10px; cursor: pointer; transition: all 0.15s; }
+  .addon-card:hover { border-color: var(--gold); }
+  .addon-card.sel { border-color: var(--gold); background: var(--gold-pale); }
+  .addon-header { display: flex; align-items: flex-start; gap: 12px; }
+  .addon-checkbox { width: 18px; height: 18px; border: 1.5px solid var(--border); border-radius: 3px; flex-shrink: 0; margin-top: 2px; display: flex; align-items: center; justify-content: center; transition: all 0.15s; background: var(--white); }
+  .addon-card.sel .addon-checkbox { background: var(--gold); border-color: var(--gold); }
+  .addon-checkbox::after { content: '✓'; font-size: 11px; color: var(--dark); display: none; }
+  .addon-card.sel .addon-checkbox::after { display: block; }
+  .addon-title { font-size: 13px; font-weight: 500; color: var(--mid); line-height: 1.4; }
+  .addon-price { font-size: 12px; color: var(--gold); font-weight: 500; margin-top: 3px; }
   @media (max-width: 500px) { .field-row { grid-template-columns: 1fr; } .hero { padding: 2rem 1.25rem 1.75rem; } }
 </style>
 </head>
@@ -185,6 +197,13 @@
       </div>
     </div>
 
+
+    <!-- Addon -->
+    <div class="section">
+      <div class="section-label" id="sec_addon"></div>
+      <div id="addonCards"></div>
+    </div>
+
     <div class="submit-section">
       <button type="submit" class="submit-btn" id="submitBtn"></button>
       <p class="submit-note" id="submitNote"></p>
@@ -221,12 +240,17 @@ const T = {
     ages: ['未滿 1 歲','1 歲','2 歲','3 歲','4 歲','5 歲','6 歲','7 歲','8 歲','9 歲','10 歲','11 歲','12 歲'],
     flights: ['已自行購買','自行購買（尚未訂）','由你們代購'],
     diets: ['不吃牛肉','素食','海鮮過敏','無特殊需求'],
+    sec_addon:'加購項目',
+    addons:[
+      { title:'Night Safari', price:'成人 TWD 2,200 ／ 兒童（12 歲以下）TWD 1,800' },
+      { title:'Varuna Deluxe Package', price:'成人 TWD 1,800 ／ 兒童（12 歲以下）TWD 1,200' },
+    ],
     submitBtn:'送出詢問', submitNote:'我們將於 24 小時內透過 LINE 或 Email 與您聯繫',
     submitting:'送出中...', submitFail:'送出失敗，請稍後再試或直接聯繫我們。',
     errRequired:'此欄位為必填', errDepart:'請選擇出發日期', errFlight:'請選擇機票狀況', errDiet:'請選擇飲食需求',
     successTitle:'詢問已送出', successSub:'感謝您的詢問，我們將於 24 小時內與您聯繫。',
     emailHeader:'=== Bali Luxury Family Trip 峇里島奢華親子遊行程詢問 ===',
-    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票狀況',flight_out:'去程航班',flight_ret:'回程航班',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票狀況',flight_out:'去程航班',flight_ret:'回程航班',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求',addons:'加購項目'},
   },
   cn: {
     heroTitle: 'Bali Luxury Family Trip 峇里島奢華親子遊', heroSub: '行程咨询',
@@ -249,12 +273,17 @@ const T = {
     ages: ['不足 1 岁','1 岁','2 岁','3 岁','4 岁','5 岁','6 岁','7 岁','8 岁','9 岁','10 岁','11 岁','12 岁'],
     flights: ['已自行购买','自行购买（尚未订）','由你们代购'],
     diets: ['不吃牛肉','素食','海鲜过敏','无特殊需求'],
+    sec_addon:'加购项目',
+    addons:[
+      { title:'Night Safari', price:'成人 TWD 2,200 ／ 儿童（12 岁以下）TWD 1,800' },
+      { title:'Varuna Deluxe Package', price:'成人 TWD 1,800 ／ 儿童（12 岁以下）TWD 1,200' },
+    ],
     submitBtn:'提交咨询', submitNote:'我们将在 24 小时内通过 LINE 或 Email 与您联系',
     submitting:'提交中...', submitFail:'提交失败，请稍后再试或直接联系我们。',
     errRequired:'此栏为必填', errDepart:'请选择出发日期', errFlight:'请选择机票情况', errDiet:'请选择饮食需求',
     successTitle:'咨询已提交', successSub:'感谢您的咨询，我们将在 24 小时内与您联系。',
     emailHeader:'=== Bali Luxury Family Trip 行程咨询 ===',
-    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'预计出发',flight:'机票情况',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',diet:'饮食需求',itinerary_notes:'景点／活动调整',notes:'其他需求'},
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'预计出发',flight:'机票情况',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',diet:'饮食需求',itinerary_notes:'景点／活动调整',notes:'其他需求',addons:'加购项目'},
   },
   hk: {
     heroTitle: 'Bali Luxury Family Trip 峇里島奢華親子遊', heroSub: '行程查詢',
@@ -277,12 +306,17 @@ const T = {
     ages: ['未足 1 歲','1 歲','2 歲','3 歲','4 歲','5 歲','6 歲','7 歲','8 歲','9 歲','10 歲','11 歲','12 歲'],
     flights: ['已自行購買','自行購買（未訂）','由你哋代購'],
     diets: ['唔食牛肉','素食','海鮮過敏','冇特殊需求'],
+    sec_addon:'加購項目',
+    addons:[
+      { title:'Night Safari', price:'成人 TWD 2,200 ／ 小朋友（12 歲以下）TWD 1,800' },
+      { title:'Varuna Deluxe Package', price:'成人 TWD 1,800 ／ 小朋友（12 歲以下）TWD 1,200' },
+    ],
     submitBtn:'提交查詢', submitNote:'我們將於 24 小時內透過 LINE 或 Email 聯絡您',
     submitting:'提交中...', submitFail:'提交失敗，請稍後再試或直接聯絡我們。',
     errRequired:'此欄為必填', errDepart:'請選擇出發日期', errFlight:'請選擇機票情況', errDiet:'請選擇飲食需求',
     successTitle:'查詢已送出', successSub:'多謝您嘅查詢，我們將於 24 小時內聯絡您。',
     emailHeader:'=== Bali Luxury Family Trip 行程查詢 ===',
-    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票情況',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票情況',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求',addons:'加購項目'},
   },
   en: {
     heroTitle: 'Bali Luxury Family Trip', heroSub: 'Trip Enquiry',
@@ -305,12 +339,17 @@ const T = {
     ages: ['Under 1','1 yr','2 yrs','3 yrs','4 yrs','5 yrs','6 yrs','7 yrs','8 yrs','9 yrs','10 yrs','11 yrs','12 yrs'],
     flights: ['Already purchased','Will buy ourselves','Please arrange for us'],
     diets: ['No beef','Vegetarian','Seafood allergy','No restrictions'],
+    sec_addon:'Add-ons',
+    addons:[
+      { title:'Night Safari', price:'Adult TWD 2,200 / Child (under 12) TWD 1,800' },
+      { title:'Varuna Deluxe Package', price:'Adult TWD 1,800 / Child (under 12) TWD 1,200' },
+    ],
     submitBtn:'Submit Enquiry', submitNote:"We'll reach out via LINE or Email within 24 hours.",
     submitting:'Sending...', submitFail:'Submission failed. Please try again or contact us directly.',
     errRequired:'This field is required', errDepart:'Please select a departure date', errFlight:'Please select a flight option', errDiet:'Please select a dietary preference',
     successTitle:'Enquiry Sent', successSub:"Thank you! We'll be in touch within 24 hours.",
     emailHeader:'=== Bali Luxury Family Trip Enquiry ===',
-    emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',depart:'Departure',flight:'Flights',flight_out:'Outbound flight',flight_ret:'Return flight',adults:'Adults',children:'Children',child_ages:'Children ages',diet:'Dietary',itinerary_notes:'Itinerary changes',notes:'Other requests'},
+    emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',depart:'Departure',flight:'Flights',flight_out:'Outbound flight',flight_ret:'Return flight',adults:'Adults',children:'Children',child_ages:'Children ages',diet:'Dietary',itinerary_notes:'Itinerary changes',notes:'Other requests',addons:'Add-ons'},
   }
 };
 
@@ -443,6 +482,30 @@ function setLang(lang) {
   // Diet pills (multi select)
   buildPills('dietPills', t.diets, true);
 
+  // Section label
+  const secAddon = document.getElementById('sec_addon');
+  if (secAddon) secAddon.textContent = t.sec_addon;
+
+  // Addon cards
+  const addonContainer = document.getElementById('addonCards');
+  if (addonContainer) {
+    addonContainer.innerHTML = '';
+    t.addons.forEach((addon, idx) => {
+      const card = document.createElement('div');
+      card.className = 'addon-card';
+      card.dataset.idx = idx;
+      card.innerHTML = `<div class="addon-header">
+        <div class="addon-checkbox"></div>
+        <div>
+          <div class="addon-title">${addon.title}</div>
+          <div class="addon-price">${addon.price}</div>
+        </div>
+      </div>`;
+      card.addEventListener('click', function() { this.classList.toggle('sel'); });
+      addonContainer.appendChild(card);
+    });
+  }
+
   updateChildAges();
 }
 
@@ -566,6 +629,13 @@ document.getElementById('tripForm').addEventListener('submit', async function(e)
   const dietSel = [...document.querySelectorAll('#dietPills .pill.sel')].map(p => p.dataset.val);
   data.append('diet', dietSel.length ? dietSel.join('、') : '-');
 
+  // Addons
+  const selAddons = [...document.querySelectorAll('.addon-card.sel')].map(c => {
+    const a = T[currentLang].addons[parseInt(c.dataset.idx)];
+    return a.title;
+  });
+  data.append('addons', selAddons.length ? selAddons.join(' ／ ') : '無');
+
   data.append('lang', currentLang);
   data.append('form_type', 'Bali Luxury Family Trip Enquiry');
   data.append('summary', buildSummary(data, t));
@@ -601,6 +671,7 @@ function buildSummary(data, t) {
     '',
     `[${k.diet}] ${get('diet')}`,
     `[${k.itinerary_notes}] ${get('itinerary_notes')}`,
+    `[${k.addons}] ${get('addons')}`,
     `[${k.notes}] ${get('notes')}`,
   ].join('\n');
 }
