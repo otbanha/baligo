@@ -1,10 +1,11 @@
 ---
-title: 'Bali Airport Autogate Guide | Entry Steps, Eligibility & Tips'
+title: 'Bali Airport Autogate Guide: Entry Steps, Eligibility & Tips'
 slug: bali-airport-autogate-guide
 description: >-
   First time in Bali and not sure how to use Autogate? Here's a complete guide
-  on eligibility, passport scanning, facial recognition, and step-by-step
-  instructions to breeze through immigration!
+  on Bali Airport's automated immigration gates, including eligibility, passport
+  scanning, facial recognition, and step-by-step instructions to breeze through
+  entry.
 pubDate: 2026-08-07T00:00:00.000Z
 pubHour: 22
 category:
@@ -31,15 +32,14 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: PENDING_RETRY_9828a2fe2aa282234d4b4aa73fbb7f4b
-_translateAttempts: 1
+_srcHash: 9828a2fe2aa282234d4b4aa73fbb7f4b
 ---
 
-# Bali Airport Autogate Guide | Clear Immigration in 10–20 Seconds, Even on Your First Try!
+# Bali Airport Autogate Guide: Clear Immigration in 10–20 Seconds, Even on Your First Try!
 
-After arriving in Bali, the worst part is queuing up for the immigration officer to stamp your passport. But if you're eligible, you can now use the **Autogate at Ngurah Rai International Airport (DPS)** — the entire verification process takes just **10–20 seconds**, drastically cutting down your entry time.
+After arriving in Bali, the worst part is queuing for an immigration officer stamp. But if you're eligible, you can use the **Autogate at Ngurah Rai International Airport (DPS)** — the entire verification process takes just **10–20 seconds**, drastically cutting down your entry time.
 
-Here's the latest guide so even first-timers can breeze through self-service immigration.
+Here's the latest guide, so even first-timers can breeze through self-service immigration.
 
 ***
 
@@ -47,9 +47,9 @@ Here's the latest guide so even first-timers can breeze through self-service imm
 
 You're eligible if you meet these conditions:
 
-✅ Hold a **Biometric Passport**
+✅ Hold a **biometric passport**
 
-✅ Have already applied for an **e-VOA (Electronic Visa on Arrival)** or other electronic visa (eVisa)
+✅ Have already applied for an **e-VOA** (electronic visa on arrival) or other electronic visa (eVisa)
 
 ✅ Indonesian citizens or Kitas work permit holders can also use Autogate.
 
@@ -57,76 +57,76 @@ You're eligible if you meet these conditions:
 
 ## Who cannot use it?
 
-The following travelers still need to go through the manual immigration counter:
+The following travelers still need to use the manual immigration counter:
 
 - Those purchasing VOA (Visa on Arrival) at the airport
-- Those who do not meet the e-passport eligibility
-- Those who do not meet the e-visa usage conditions
+- Those not eligible for e-Passport
+- Those not meeting the conditions for e-Visa use
 - Some child travelers (under 7 years old)
 
-> **Tip:** Apply for e-VOA before departure to save time queuing for VOA and to use Autogate directly.
+> **Tip:** Apply for e-VOA before departure to skip the VOA queue and use the Autogate directly.
 
 ***
 
-# Prepare before using
+## Prepare Before Use
 
-Before your turn, it's recommended to complete the following:
+Before your turn, it's recommended to do the following:
 
 - Remove the passport cover
 - Open the passport to the personal information page
 - Take off your mask
 - Take off your hat
-- Remove sunglasses or glasses (if they affect recognition)
+- Take off sunglasses or glasses (if they affect recognition)
 - Keep your face clearly visible
 
 ***
 
-# Autogate Usage Steps
+## Autogate Usage Steps
 
 ### Step 1: Wait for the Green Arrow
 
-Only one person may enter at a time.
+Only one person can enter at a time.
 
-Wait until the red cross turns into a green arrow before stepping forward.
-
-***
-
-### Step 2: Stand on the Yellow Footprint
-
-Position yourself as marked on the floor.
-
-Place your carry-on luggage behind you and keep it clear of the gate.
+After the red cross turns into a green arrow, walk forward.
 
 ***
 
-### Step 3: Scan Your Passport
+### Step 2: Stand on the yellow footprint
+
+Position yourself according to the floor markings.
+
+Place your carry-on luggage behind you, making sure it doesn't block the gate.
+
+***
+
+### Step 3: Scan your passport
 
 Open your passport to the personal information page.
 
-Place it flat on the scanner, keeping it smooth and not bent.
+Lay it flat on the scanner and press it down—don't let it bend.
 
 Wait for the system to finish reading.
 
 ***
 
-### Step 4: Facial Recognition
+### Step 4: Facial recognition
 
 The system will take a photo.
 
-Look directly at the screen—don't look down or to the side of the camera.
+Please look directly at the screen, don't look down or at the area beside the camera.
 
 Just keep a natural expression.
 
 ***
 
-### Step 5: Complete Immigration Clearance
+### Step 5: Complete Immigration
 
-After successful recognition:
+After successful verification:
 
 - The gate will open automatically
 - Walk straight through
 - No entry stamp will be placed in your passport
-- Entry records will be saved electronically (some travelers may receive an email notification)
+- Your entry record will be saved electronically (some travelers will receive an email notification)
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786086128178-mixcollage-07-aug-2026-02-01-pm-1163.jpg)
 
@@ -134,72 +134,70 @@ After successful recognition:
 
 # Common Reasons for Failure
 
-If the gate won't open, it's usually due to one of the following:
+If the gate doesn't open, it's usually due to one of the following reasons:
 
 ### Passport Not Flat
 
-Make sure the entire page lies flat against the scanner.
+Make sure the entire page lies flat on the scanner.
 
 ***
 
 ### Wearing a Mask or Hat
 
-Facial recognition often fails.
+Facial recognition can easily fail.
 
 ***
 
-### Standing too close in line
+### Standing Too Close in Line
 
 Do not cross the yellow waiting line.
 
-Keep your distance until the previous traveler has finished, to avoid affecting the recognition process.
+Keep your distance until the previous traveler has finished, to avoid interfering with recognition.
 
 ***
 
-### Leaving luggage behind
+### Forgetting to Take Your Luggage
 
-Many travelers realize after passing through that their carry-on luggage is still on the other side.
+Many travelers realize their carry-on luggage is still on the other side after passing through.
 
-Remember to double-check that all your belongings are with you.
+Make sure to double-check that all your belongings are with you.
 
 ***
 
-## Quick Tips for Using Autogate
+## Tips for Using Autogate
 
-- ❌ No photos, videos, or selfies allowed in the immigration area.
-- ✅ If the scan fails, don’t worry—just try again.
+- ❌ No photography, video recording, or selfies are allowed in the immigration area.
+- ✅ If recognition fails, don’t worry—you can try again.
 - ✅ Immigration officers and staff are always on hand to assist immediately.
 
 ***
 
-## Is Autogate Worth Using?
+## Is Using Autogate Worth It?
 
-If you’re eligible, absolutely yes.
+Highly recommended if you're eligible.
 
-Especially during peak season when arriving in Bali, the manual counters often have long queues, while Autogate usually takes just a few dozen seconds to complete verification, significantly cutting down your entry time. In fact, the part that might take longer is waiting for your checked luggage.
+Especially during peak season when arriving in Bali, the manual counters often have long queues, while the Autogate usually takes just a few tens of seconds to complete verification, significantly cutting down your entry time. What might actually take longer is waiting for your checked luggage.
 
 ***
 
 ## FAQ
 
-### Q1: Does having an e-VOA guarantee I can use Autogate?
+### Q1: Does having an e-VOA guarantee access to the Autogate?
 
-As long as you hold an **e-passport** and have applied for a qualifying **e-VOA or eVisa**, you can use Autogate.
-
-只要持有**電子晶片護照**，並已申請符合資格的 **e-VOA 或 eVisa**，即可使用 Autogate。
+As long as you hold an **electronic passport** and have applied for a qualifying **e-VOA or eVisa**, you can use the Autogate.
 
 ### Q2: Can I use the Autogate if I purchase a VOA on-site?
 
-Generally, no. You need to proceed to the manual immigration counter.
+Generally, no. You'll need to go to the manual immigration counter.
 
 ### Q3: Do I need to register separately for the Autogate?
 
-Eligible travelers typically don't need additional registration. As long as your passport and e-visa meet the system requirements, you can use it.
+Eligible travelers generally don't need to apply separately. As long as your passport and e-visa meet the system's requirements, you can use it.
 
 ### Q4: How do I prove my entry without an entry stamp?
 
-The Autogate uses electronic records. Some travelers receive an electronic notification, and the official system retains a complete entry record.
+The Autogate system uses electronic records. Some travelers will receive an electronic notification, and the official system also retains a complete record of entry.
 
-> For more comprehensive answers about visas and entry, please refer to [our discussion forum](https://community.gobaligo.id/viewforum.php?f=3&sid=f0b6e1e7fe018a0458f8a61ec7a6c405)
+> For more complete answers about visas/entry, please refer to [our discussion forum](https://community.gobaligo.id/viewforum.php?f=3&sid=f0b6e1e7fe018a0458f8a61ec7a6c405)
 
 {{block:住宿}}
