@@ -1,6 +1,6 @@
 ---
 title: isbali2
-type: random-cards
+type: random-list
 randomCount: 14
 ---
 
