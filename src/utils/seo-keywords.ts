@@ -53,6 +53,12 @@ const CAT_KEYWORDS: Record<string, Record<string, string>> = {
     'zh-cn': '峇里岛亲子旅游、家庭行程推荐',
     'en':    'Bali family travel · kid-friendly activities',
   },
+  '套裝行程': {
+    'zh-tw': '峇里島套裝行程、跟團旅遊推薦、包套行程比較',
+    'zh-hk': '峇里島套裝行程、跟團旅遊推薦、包套行程比較',
+    'zh-cn': '峇里岛套装行程、跟团旅游推荐、套餐行程比较',
+    'en':    'Bali package tours · guided tour packages · all-inclusive itineraries',
+  },
 };
 
 // Slug → language → long-tail keyword suffix.
@@ -297,4 +303,5 @@ export const COMPANION_CAT: Record<string, string> = {
   '家庭親子':      '住宿推薦',
   '叫車包車':      '峇里島分區攻略',
   '新聞存檔':      '旅行技巧',
+  '套裝行程':      '美食景點活動',
 };

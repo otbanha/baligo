@@ -77,13 +77,14 @@ const CAT_EN: Record<string, string> = {
   '家庭親子': 'Family Travel', '家庭亲子': 'Family Travel',
   '遊記分享': 'Travel Stories', '游记分享': 'Travel Stories',
   '美食景點活動': 'Food & Activities', '美食景点活动': 'Food & Activities',
+  '套裝行程': 'Package Tours',
   '新聞存檔': 'News Archive', '新闻存档': 'News Archive',
   '旅行技巧': 'Travel Tips',
 };
 
 const categoryOrder = [
   '新手指南','住宿推薦','峇里島分區攻略','簽證通關',
-  '叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔',
+  '叫車包車','家庭親子','遊記分享','美食景點活動','套裝行程','新聞存檔',
 ];
 
 const allCategories = [...new Set(allPosts.flatMap(p => getCategories(p.data.category)).filter(Boolean))];

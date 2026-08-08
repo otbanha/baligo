@@ -40,6 +40,7 @@ const CAT_URL_SLUG_EN: Record<string, string> = {
   '家庭親子': 'family-travel',
   '遊記分享': 'travel-stories',
   '美食景點活動': 'food-activities',
+  '套裝行程': 'package-tours',
 };
 
 // 分類頁網址用的 slug（依語言）；en 用英文 slug，其餘語言沿用繁中分類值原文。
@@ -53,27 +54,27 @@ const CAT_LABEL: Record<Lang, Record<string, string>> = {
   'zh-tw': {
     '新手指南': '新手指南', '住宿推薦': '住宿推薦', '峇里島分區攻略': '峇里島分區攻略',
     '簽證通關': '簽證通關', '叫車包車': '叫車包車', '家庭親子': '家庭親子',
-    '遊記分享': '遊記分享', '美食景點活動': '美食景點活動', '新聞存檔': '新聞存檔', '旅行技巧': '旅行技巧',
+    '遊記分享': '遊記分享', '美食景點活動': '美食景點活動', '套裝行程': '套裝行程', '新聞存檔': '新聞存檔', '旅行技巧': '旅行技巧',
   },
   'zh-hk': {
     '新手指南': '新手指南', '住宿推薦': '住宿推薦', '峇里島分區攻略': '峇里島分區攻略',
     '簽證通關': '簽證通關', '叫車包車': '叫車包車', '家庭親子': '家庭親子',
-    '遊記分享': '遊記分享', '美食景點活動': '美食景點活動', '新聞存檔': '新聞存檔', '旅行技巧': '旅行技巧',
+    '遊記分享': '遊記分享', '美食景點活動': '美食景點活動', '套裝行程': '套裝行程', '新聞存檔': '新聞存檔', '旅行技巧': '旅行技巧',
   },
   'zh-cn': {
     '新手指南': '新手指南', '住宿推薦': '住宿推荐', '峇里島分區攻略': '巴厘岛分区攻略',
     '簽證通關': '签证通关', '叫車包車': '叫车包车', '家庭親子': '家庭亲子',
-    '遊記分享': '游记分享', '美食景點活動': '美食景点活动', '新聞存檔': '新闻存档', '旅行技巧': '旅行技巧',
+    '遊記分享': '游记分享', '美食景點活動': '美食景点活动', '套裝行程': '套装行程', '新聞存檔': '新闻存档', '旅行技巧': '旅行技巧',
   },
   'en': {
     '新手指南': "Beginner's Guide", '住宿推薦': 'Accommodation', '峇里島分區攻略': 'Area Guide',
     '簽證通關': 'Visa & Entry', '叫車包車': 'Transport', '家庭親子': 'Family Travel',
-    '遊記分享': 'Travel Stories', '美食景點活動': 'Food & Activities', '新聞存檔': 'News Archive', '旅行技巧': 'Travel Tips',
+    '遊記分享': 'Travel Stories', '美食景點活動': 'Food & Activities', '套裝行程': 'Package Tours', '新聞存檔': 'News Archive', '旅行技巧': 'Travel Tips',
   },
   'id': {
     '新手指南': 'Panduan Pemula', '住宿推薦': 'Akomodasi', '峇里島分區攻略': 'Panduan Area',
     '簽證通關': 'Visa & Imigrasi', '叫車包車': 'Transportasi', '家庭親子': 'Liburan Keluarga',
-    '遊記分享': 'Cerita Traveling', '美食景點活動': 'Makanan & Aktivitas', '新聞存檔': 'Arsip Berita', '旅行技巧': 'Tips Traveling',
+    '遊記分享': 'Cerita Traveling', '美食景點活動': 'Makanan & Aktivitas', '套裝行程': 'Paket Wisata', '新聞存檔': 'Arsip Berita', '旅行技巧': 'Tips Traveling',
   },
 };
 

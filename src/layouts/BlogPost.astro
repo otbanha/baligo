@@ -143,6 +143,7 @@ const CAT_EN: Record<string, string> = {
   '家庭親子': 'Family Travel', '家庭亲子': 'Family Travel',
   '遊記分享': 'Travel Stories', '游记分享': 'Travel Stories',
   '美食景點活動': 'Food & Activities', '美食景点活动': 'Food & Activities',
+  '套裝行程': 'Package Tours', '套装行程': 'Package Tours',
   '新聞存檔': 'News Archive', '新闻存档': 'News Archive',
   '旅行技巧': 'Travel Tips',
 };
@@ -156,6 +157,7 @@ const CAT_ZH_CN: Record<string, string> = {
   '家庭親子': '家庭亲子', '家庭亲子': '家庭亲子',
   '遊記分享': '游记分享', '游记分享': '游记分享',
   '美食景點活動': '美食景点活动', '美食景点活动': '美食景点活动',
+  '套裝行程': '套装行程', '套装行程': '套装行程',
   '新聞存檔': '新闻存档', '新闻存档': '新闻存档',
 };
 
@@ -168,6 +170,7 @@ const CAT_ID: Record<string, string> = {
   '家庭親子': 'Liburan Keluarga', '家庭亲子': 'Liburan Keluarga',
   '遊記分享': 'Cerita Traveling', '游记分享': 'Cerita Traveling',
   '美食景點活動': 'Makanan & Aktivitas', '美食景点活动': 'Makanan & Aktivitas',
+  '套裝行程': 'Paket Wisata', '套装行程': 'Paket Wisata',
   '新聞存檔': 'Arsip Berita', '新闻存档': 'Arsip Berita',
   '旅行技巧': 'Tips Traveling',
 };
@@ -194,6 +197,7 @@ const CATEGORY_FORUM_ID: Record<string, number> = {
   '家庭親子': 8, '家庭亲子': 8,
   '遊記分享': 8, '游记分享': 8,
   '美食景點活動': 8, '美食景点活动': 8,
+  '套裝行程': 8, '套装行程': 8,
 };
 const SCAM_FORUM_ID = 6;
 const SCAM_KEYWORDS = /scam|詐騙|诈骗/i;
@@ -214,7 +218,7 @@ const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
 // 「旅行技巧」）以及非繁中語言的新聞存檔一律沒有靜態頁，改連到 /blog/?cat=... 走前端篩選，
 // 避免連到 404。
 const STATIC_CATEGORY_PAGES = new Set([
-  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動',
+  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',
 ]);
 const catPageUrl = (cat: string): string => {
   if (cat === '新聞存檔' && isZhTw) return '/news/';

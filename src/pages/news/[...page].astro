@@ -111,6 +111,7 @@ const SITE_CATEGORY_ORDER = [
   '家庭親子',
   '遊記分享',
   '美食景點活動',
+  '套裝行程',
   '新聞存檔',
 ];
 const publishedSitePosts = (await getCollection('blog')).filter(isPublished);
@@ -128,7 +129,7 @@ for (const cat of siteCategories) {
 // 的 getStaticPaths）；新聞存檔另有 /news/ 首頁，其餘分類（例如「旅行技巧」）沒有靜態頁，
 // 一律導回 /blog/?cat=... 走前端篩選，避免連到 404。
 const STATIC_CATEGORY_PAGES = new Set([
-  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動',
+  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',
 ]);
 const catPageUrl = (cat: string): string => {
   if (cat === '新聞存檔') return '/news/';
