@@ -4,7 +4,7 @@ const { lang = 'zh-tw' } = Astro.props;
 
 const T = {
   'zh-tw': {
-    badge: '免費規劃工具', title: '峇里島行程規劃 2.0版',
+    badge: '免費規劃工具・2.0 版', title: '峇里島行程規劃工具',
     subtitle: '告訴我你的旅行風格，我幫你找到最適合的攻略與景點推薦',
     nav1: '旅行風格', nav2: '行程草稿', nav3: '推薦攻略',
     s1title: '你的旅行風格',
@@ -117,6 +117,19 @@ const T = {
     faqA6: '可以。結果頁面右下角有「📄 存成 PDF 分享旅伴」按鈕，一鍵下載成 PDF 檔，方便傳給家人朋友討論。也可以使用「編輯此行程」回到上一步調整選項，或「重新規劃」清空重來。建議規劃完後存一份 PDF，出發前再對照網站最新文章確認資訊。',
     faqQ7: '峇里島淡季旺季差別？什麼時候去最好？',
     faqA7: '峇里島分明顯的乾季（4–10 月）與雨季（11–3 月）。最佳旅遊月份是 5、6、9 月——天氣穩定、人潮比 7–8 月暑假少、價格也較甜。7–8 月與 12 月底跨年是旺季，飯店漲價且需提早 2–3 個月訂房。1–2 月雨季雖然便宜，但午後常有大雷雨，安排戶外行程要保留彈性。台灣農曆春節價格通常翻倍，要避開的話建議提前或延後一週。',
+    faqQ8: '有免費的峇里島行程表產生器嗎？',
+    faqA8: '有，本頁就是。這套峇里島行程規劃工具完全免費、免註冊、免下載 App，全程在瀏覽器裡執行。選好同行對象、天數、想去的區域與想做的活動，系統就會即時產生一份專屬行程表，包含建議分區、對應景點攻略、住宿區域與美食 SPA 清單，並可一鍵存成 PDF 傳給旅伴。和自己開 Excel 或 Google 試算表填行程表範本相比，最大差別是每一項推薦都直接連到實際攻略文章，不用再另外查資料。',
+    faqQ9: '峇里島 5 天 4 夜行程怎麼排最順？',
+    faqA9: '5 天 4 夜是第一次去峇里島的黃金天數，最順的排法是「南部 2 晚＋烏布 2 晚」，全程只換一次飯店。D1 晚上抵達直接住南部（庫塔或水明漾），D2 玩南部海灘、海灘俱樂部與水明漾夕陽，D3 上午移動到烏布、下午跑梯田與烏布市場，D4 安排烏布近郊瀑布或火山日出加 SPA，D5 回南部購物後搭機。千萬不要每天南北對開——庫塔到烏布單趟就要 1.5–2 小時，來回一趟等於一個下午沒了。',
+    seoPlanTitle: '峇里島行程範本：4／5／7／9 天各要怎麼排',
+    seoPlanIntro: '不確定要去幾天、每天該住哪一區？下面是依照實際車程整理的峇里島行程表範本。原則只有一個：天數越少，換飯店次數就要越少。挑一個最接近你情況的天數，再用上方工具產生專屬於你的版本。',
+    seoPlanHeadDays: '天數', seoPlanHeadAreas: '住宿分區', seoPlanHeadRoute: '逐日路線', seoPlanHeadWho: '適合誰',
+    seoPlanRows: [
+      { days: '4 天 3 夜', areas: '南部單點，不換飯店', route: 'D1 抵達入住南部｜D2 南部海灘＋SPA＋海神廟夕陽｜D3 烏布一日遊（梯田・聖泉寺・猴子森林）｜D4 上午購物、下午搭機', who: '假期短，以放鬆和購物為主' },
+      { days: '5 天 4 夜', areas: '南部 2 晚＋烏布 2 晚', route: 'D1 抵達住南部｜D2 南部海灘俱樂部＋水明漾夕陽｜D3 移動烏布：梯田・叢林鞦韆・烏布市場｜D4 烏布瀑布或火山日出＋SPA｜D5 回南部購物返程', who: '第一次去峇里島的黃金天數' },
+      { days: '7 天 6 夜', areas: '南部 2 晚＋烏布 3 晚＋南部 1 晚', route: 'D1 抵達南部｜D2 烏魯瓦圖懸崖夕陽＋Kecak 火舞｜D3 努沙佩尼達一日遊｜D4 移動烏布：梯田・烏布市場｜D5 烏布瀑布＋雙人 SPA｜D6 火山日出吉普車＋咖啡園｜D7 返程', who: '想加跳島或火山日出' },
+      { days: '9 天以上', areas: '南部＋烏布＋東部或離島', route: '前 3 天南部（烏魯瓦圖・金巴蘭海鮮）｜中段 3–4 天烏布深度（瀑布・聖泉寺・Penglipuran 村落）｜後段 2–3 天藍夢島、吉利群島跳島或東部天空之門', who: '深度慢旅、蜜月或二訪' },
+    ],
     seoLinksTitle: '依旅行風格選攻略',
     linkFamilyTitle: '親子家庭行程攻略',
     linkHoneymoonTitle: '蜜月情侶行程攻略',
@@ -125,7 +138,7 @@ const T = {
     linkSoloTitle: '個人獨旅行程攻略',
   },
   'zh-hk': {
-    badge: '免費規劃工具', title: '峇里島行程規劃 2.0版',
+    badge: '免費規劃工具・2.0 版', title: '峇里島行程規劃工具',
     subtitle: '告訴我你的旅遊風格，我幫你搵到最適合你的攻略同景點推薦',
     nav1: '旅行風格', nav2: '行程草稿', nav3: '推薦攻略',
     s1title: '你的旅行風格',
@@ -238,6 +251,19 @@ const T = {
     faqA6: '可以。結果頁面右下角有「📄 存成 PDF 分享旅伴」掣，一 click 下載成 PDF 檔，方便傳畀屋企人朋友傾。亦可以用「編輯此行程」返上一步調整選項，或者「重新規劃」清空再嚟過。建議規劃完之後存一份 PDF，出發前再對番網站最新文章確認資料。',
     faqQ7: '峇里島淡季旺季有咩分別？幾時去最好？',
     faqA7: '峇里島分得好清楚乾季（4–10 月）同雨季（11–3 月）。最佳旅遊月份係 5、6、9 月——天氣穩定、人潮比 7–8 月暑假少、價錢都抵啲。7–8 月同 12 月底跨年係旺季，酒店加價而且要提早 2–3 個月訂房。1–2 月雨季雖然平，但下晝成日有大雷雨，安排戶外行程要留彈性。香港聖誕同農曆新年價錢通常翻倍，想避開嘅話建議早一個禮拜或者遲一個禮拜出發。',
+    faqQ8: '有冇免費嘅峇里島行程表產生器？',
+    faqA8: '有，呢一頁就係。呢套峇里島行程規劃工具完全免費、免註冊、唔使下載 App，全程喺瀏覽器入面行。揀好同行對象、日數、想去嘅區域同想做嘅活動，系統就會即刻產生一份專屬行程表，包含建議分區、對應景點攻略、住宿區域同美食 SPA 清單，仲可以一鍵存做 PDF 傳俾旅伴。同自己開 Excel 或者 Google 試算表填行程表範本比較，最大分別係每一項推薦都直接連去實際攻略文章，唔使再另外搵資料。',
+    faqQ9: '峇里島 5 日 4 夜行程點排先最順？',
+    faqA9: '5 日 4 夜係第一次去峇里島嘅黃金日數，最順嘅排法係「南部 2 晚＋烏布 2 晚」，全程只換一次酒店。D1 晚上到咗直接住南部（庫塔或者水明漾），D2 玩南部海灘、海灘俱樂部同水明漾日落，D3 朝早搬去烏布、下晝去梯田同烏布市場，D4 安排烏布近郊瀑布或者火山日出加 SPA，D5 返南部購物之後上機。千祈唔好日日南北對開——庫塔去烏布單程就要 1.5–2 個鐘，嚟回一次即係成個下晝冇咗。',
+    seoPlanTitle: '峇里島行程範本：4／5／7／9 日分別點排',
+    seoPlanIntro: '唔肯定要去幾多日、每日應該住邊區？下面係按實際車程整理嘅峇里島行程表範本。原則只有一個：日數越少，換酒店次數就要越少。揀一個最接近你情況嘅日數，再用上面嘅工具產生專屬你嘅版本。',
+    seoPlanHeadDays: '日數', seoPlanHeadAreas: '住宿分區', seoPlanHeadRoute: '逐日路線', seoPlanHeadWho: '啱邊個',
+    seoPlanRows: [
+      { days: '4 日 3 夜', areas: '南部單點，唔換酒店', route: 'D1 到埗入住南部｜D2 南部海灘＋SPA＋海神廟日落｜D3 烏布一日遊（梯田・聖泉寺・馬騮森林）｜D4 朝早購物、下晝上機', who: '假期短，主要想放鬆同購物' },
+      { days: '5 日 4 夜', areas: '南部 2 晚＋烏布 2 晚', route: 'D1 到埗住南部｜D2 南部海灘俱樂部＋水明漾日落｜D3 搬去烏布：梯田・叢林鞦韆・烏布市場｜D4 烏布瀑布或者火山日出＋SPA｜D5 返南部購物返程', who: '第一次去峇里島嘅黃金日數' },
+      { days: '7 日 6 夜', areas: '南部 2 晚＋烏布 3 晚＋南部 1 晚', route: 'D1 到埗南部｜D2 烏魯瓦圖懸崖日落＋Kecak 火舞｜D3 努沙佩尼達一日遊｜D4 搬去烏布：梯田・烏布市場｜D5 烏布瀑布＋雙人 SPA｜D6 火山日出吉普車＋咖啡園｜D7 返程', who: '想加跳島或者火山日出' },
+      { days: '9 日以上', areas: '南部＋烏布＋東部或者離島', route: '頭 3 日南部（烏魯瓦圖・金巴蘭海鮮）｜中段 3–4 日烏布深度（瀑布・聖泉寺・Penglipuran 村落）｜後段 2–3 日藍夢島、吉利群島跳島或者東部天空之門', who: '深度慢遊、蜜月或者二次去' },
+    ],
     seoLinksTitle: '依旅行風格揀攻略',
     linkFamilyTitle: '親子家庭行程攻略',
     linkHoneymoonTitle: '蜜月情侶行程攻略',
@@ -246,7 +272,7 @@ const T = {
     linkSoloTitle: '個人獨遊行程攻略',
   },
   'zh-cn': {
-    badge: '免费规划工具', title: '巴厘岛行程规划 2.0版',
+    badge: '免费规划工具・2.0 版', title: '巴厘岛行程规划工具',
     subtitle: '告诉我你的旅行风格，我帮你找到最适合的攻略与景点推荐',
     nav1: '旅行风格', nav2: '行程草稿', nav3: '推荐攻略',
     s1title: '你的旅行风格',
@@ -359,6 +385,19 @@ const T = {
     faqA6: '可以。结果页面右下角有「📄 存成 PDF 分享旅伴」按钮，一键下载成 PDF 档，方便传给家人朋友讨论。也可以使用「编辑此行程」回到上一步调整选项，或「重新规划」清空重来。建议规划完后存一份 PDF，出发前再对照网站最新文章确认信息。',
     faqQ7: '巴厘岛淡季旺季差别？什么时候去最好？',
     faqA7: '巴厘岛分明显的干季（4–10 月）与雨季（11–3 月）。最佳旅游月份是 5、6、9 月——天气稳定、人潮比 7–8 月暑假少、价格也较甜。7–8 月与 12 月底跨年是旺季，酒店涨价且需提早 2–3 个月订房。1–2 月雨季虽然便宜，但午后常有大雷雨，安排户外行程要保留弹性。中国春节假期价格通常翻倍，要避开的话建议提前或延后一周。',
+    faqQ8: '有免费的巴厘岛行程表生成器吗？',
+    faqA8: '有，本页就是。这套巴厘岛行程规划工具完全免费、免注册、免下载 App，全程在浏览器里运行。选好同行对象、天数、想去的区域与想做的活动，系统就会即时生成一份专属行程表，包含建议分区、对应景点攻略、住宿区域与美食 SPA 清单，并可一键存成 PDF 发给旅伴。和自己开 Excel 或 Google 表格填行程表范本相比，最大区别是每一项推荐都直接链接到实际攻略文章，不用再另外查资料。',
+    faqQ9: '巴厘岛 5 天 4 夜行程怎么排最顺？',
+    faqA9: '5 天 4 夜是第一次去巴厘岛的黄金天数，最顺的排法是「南部 2 晚＋乌布 2 晚」，全程只换一次酒店。D1 晚上抵达直接住南部（库塔或水明漾），D2 玩南部海滩、海滩俱乐部与水明漾日落，D3 上午移动到乌布、下午跑梯田与乌布市场，D4 安排乌布近郊瀑布或火山日出加 SPA，D5 回南部购物后搭机。千万不要每天南北对开——库塔到乌布单程就要 1.5–2 小时，来回一趟等于一个下午没了。',
+    seoPlanTitle: '巴厘岛行程范本：4／5／7／9 天各要怎么排',
+    seoPlanIntro: '不确定要去几天、每天该住哪一区？下面是按照实际车程整理的巴厘岛行程表范本。原则只有一个：天数越少，换酒店次数就要越少。挑一个最接近你情况的天数，再用上方工具生成专属于你的版本。',
+    seoPlanHeadDays: '天数', seoPlanHeadAreas: '住宿分区', seoPlanHeadRoute: '逐日路线', seoPlanHeadWho: '适合谁',
+    seoPlanRows: [
+      { days: '4 天 3 夜', areas: '南部单点，不换酒店', route: 'D1 抵达入住南部｜D2 南部海滩＋SPA＋海神庙日落｜D3 乌布一日游（梯田・圣泉寺・猴子森林）｜D4 上午购物、下午搭机', who: '假期短，以放松和购物为主' },
+      { days: '5 天 4 夜', areas: '南部 2 晚＋乌布 2 晚', route: 'D1 抵达住南部｜D2 南部海滩俱乐部＋水明漾日落｜D3 移动乌布：梯田・丛林秋千・乌布市场｜D4 乌布瀑布或火山日出＋SPA｜D5 回南部购物返程', who: '第一次去巴厘岛的黄金天数' },
+      { days: '7 天 6 夜', areas: '南部 2 晚＋乌布 3 晚＋南部 1 晚', route: 'D1 抵达南部｜D2 乌鲁瓦图悬崖日落＋Kecak 火舞｜D3 努沙佩尼达一日游｜D4 移动乌布：梯田・乌布市场｜D5 乌布瀑布＋双人 SPA｜D6 火山日出吉普车＋咖啡园｜D7 返程', who: '想加跳岛或火山日出' },
+      { days: '9 天以上', areas: '南部＋乌布＋东部或离岛', route: '前 3 天南部（乌鲁瓦图・金巴兰海鲜）｜中段 3–4 天乌布深度（瀑布・圣泉寺・Penglipuran 村落）｜后段 2–3 天蓝梦岛、吉利群岛跳岛或东部天空之门', who: '深度慢旅、蜜月或二次到访' },
+    ],
     seoLinksTitle: '按旅行风格选攻略',
     linkFamilyTitle: '亲子家庭行程攻略',
     linkHoneymoonTitle: '蜜月情侣行程攻略',
@@ -367,7 +406,7 @@ const T = {
     linkSoloTitle: '个人独旅行程攻略',
   },
   'en': {
-    badge: 'Free Planning Tool', title: 'Bali Trip Planner 2.0',
+    badge: 'Free Planning Tool · 2.0', title: 'Bali Trip Planner',
     subtitle: 'Tell me your travel style — I\'ll find the best guides & activities for you',
     nav1: 'Travel Style', nav2: 'Draft Itinerary', nav3: 'My Picks',
     s1title: 'Your Travel Style',
@@ -480,6 +519,19 @@ const T = {
     faqA6: "Yes. The result page has a '📄 Save as PDF' button in the bottom-right corner — one click downloads a PDF you can share with family or friends. You can also use 'Edit this trip' to go back and adjust, or 'Start over' to reset. We recommend saving a PDF after planning, then re-checking our latest articles before departure for any updates.",
     faqQ7: 'When is the best time to visit Bali? Peak vs off-season differences?',
     faqA7: "Bali has a clear dry season (April–October) and wet season (November–March). The sweet spot is May, June, and September — stable weather, fewer crowds than July–August summer holidays, and better prices. July–August and late December are peak season with higher hotel rates; book 2–3 months ahead. January–February rainy season is cheapest but expect heavy afternoon storms, so build flexibility into outdoor plans. Chinese New Year and Christmas typically double rates — shift your dates by a week to save.",
+    faqQ8: 'Is there a free Bali itinerary generator?',
+    faqA8: "Yes — this page is one. The Bali trip planner here is completely free, needs no sign-up and no app download; everything runs in your browser. Pick who you're travelling with, how many days you have, the areas you want to stay in and the activities you're after, and it builds a personalised itinerary on the spot: suggested area split, matching attraction guides, where to stay, plus food and spa picks. You can save the whole thing as a PDF and send it to the people you're travelling with. Compared with filling in an Excel or Google Sheets itinerary template yourself, the difference is that every recommendation links straight to a real guide, so you don't have to go and research it separately.",
+    faqQ9: 'What is the best way to plan a 5-day Bali itinerary?',
+    faqA9: 'Five days and four nights is the sweet spot for a first Bali trip, and the smoothest layout is two nights in the south plus two nights in Ubud — one hotel change for the whole trip. Land on D1 and stay south (Kuta or Seminyak); spend D2 on southern beaches, a beach club and the Seminyak sunset; move to Ubud on D3 morning and do the rice terraces and Ubud Market in the afternoon; use D4 for a waterfall or a volcano sunrise plus a spa; head back south on D5 for shopping before your flight. Avoid bouncing north and south each day — Kuta to Ubud is 1.5–2 hours one way, so a round trip eats an entire afternoon.',
+    seoPlanTitle: 'Bali Itinerary Templates: How to Plan 4, 5, 7 or 9 Days',
+    seoPlanIntro: "Not sure how many days you need, or which area to stay in each night? These Bali itinerary templates are built around real driving times. There is only one rule: the fewer days you have, the fewer hotel changes you should make. Pick the row closest to your trip, then use the planner above to generate your own version.",
+    seoPlanHeadDays: 'Length', seoPlanHeadAreas: 'Where to stay', seoPlanHeadRoute: 'Day by day', seoPlanHeadWho: 'Best for',
+    seoPlanRows: [
+      { days: '4 days / 3 nights', areas: 'South only, no hotel change', route: 'D1 arrive, check in south | D2 southern beaches + spa + Tanah Lot sunset | D3 Ubud day trip (rice terraces, Tirta Empul, Monkey Forest) | D4 morning shopping, afternoon flight', who: 'Short break, mostly relaxing and shopping' },
+      { days: '5 days / 4 nights', areas: '2 nights south + 2 nights Ubud', route: 'D1 arrive, stay south | D2 beach club + Seminyak sunset | D3 move to Ubud: rice terraces, jungle swing, Ubud Market | D4 Ubud waterfall or volcano sunrise + spa | D5 back south for shopping, fly home', who: 'The sweet spot for a first Bali trip' },
+      { days: '7 days / 6 nights', areas: '2 nights south + 3 nights Ubud + 1 night south', route: 'D1 arrive south | D2 Uluwatu clifftop sunset + Kecak fire dance | D3 Nusa Penida day trip | D4 move to Ubud: rice terraces, Ubud Market | D5 Ubud waterfall + couples spa | D6 volcano sunrise jeep + coffee plantation | D7 fly home', who: 'Adding an island hop or a volcano sunrise' },
+      { days: '9+ days', areas: 'South + Ubud + east Bali or the islands', route: 'First 3 days south (Uluwatu, Jimbaran seafood) | middle 3–4 days deeper Ubud (waterfalls, Tirta Empul, Penglipuran village) | last 2–3 days Nusa Lembongan, the Gilis, or the east coast and Lempuyang', who: 'Slow travel, honeymoons or repeat visitors' },
+    ],
     seoLinksTitle: 'Browse Guides by Travel Style',
     linkFamilyTitle: 'Family & Kids Bali Guides',
     linkHoneymoonTitle: 'Honeymoon & Couples Guides',
@@ -488,7 +540,7 @@ const T = {
     linkSoloTitle: 'Solo Travel Bali Guides',
   },
   'id': {
-    badge: 'Alat Perencanaan Gratis', title: 'Bali Trip Planner 2.0',
+    badge: 'Alat Perencanaan Gratis · 2.0', title: 'Perencana Perjalanan Bali',
     subtitle: 'Ceritakan gaya liburanmu — kami bantu carikan panduan & aktivitas terbaik untukmu',
     nav1: 'Gaya Liburan', nav2: 'Draft Itinerary', nav3: 'Rekomendasi',
     s1title: 'Gaya Liburanmu',
@@ -601,6 +653,19 @@ const T = {
     faqA6: "Ya. Halaman hasil memiliki tombol '📄 Simpan sebagai PDF' di pojok kanan bawah — satu klik mengunduh PDF yang bisa dibagikan ke keluarga atau teman. Kamu juga bisa gunakan 'Edit rencana ini' untuk kembali dan menyesuaikan, atau 'Mulai ulang' untuk reset.",
     faqQ7: 'Kapan waktu terbaik ke Bali? Perbedaan musim ramai dan sepi?',
     faqA7: 'Bali memiliki musim kemarau yang jelas (April–Oktober) dan musim hujan (November–Maret). Waktu terbaik adalah Mei, Juni, dan September — cuaca stabil, lebih sedikit wisatawan dibanding Juli–Agustus liburan sekolah, dan harga lebih terjangkau. Juli–Agustus dan akhir Desember adalah musim ramai dengan tarif hotel lebih tinggi.',
+    faqQ8: 'Apakah ada generator itinerary Bali gratis?',
+    faqA8: 'Ada — halaman ini salah satunya. Trip planner Bali di sini sepenuhnya gratis, tanpa daftar, dan tanpa perlu unduh aplikasi; semuanya berjalan di browser. Pilih dengan siapa kamu pergi, berapa hari, area menginap, dan aktivitas yang diincar, lalu sistem langsung menyusun itinerary pribadi: pembagian area, panduan wisata yang cocok, rekomendasi tempat menginap, sampai daftar kuliner dan spa. Hasilnya bisa disimpan sebagai PDF untuk dibagikan ke teman seperjalanan. Bedanya dengan mengisi template itinerary di Excel atau Google Sheets: setiap rekomendasi langsung terhubung ke artikel panduannya.',
+    faqQ9: 'Bagaimana menyusun itinerary Bali 5 hari 4 malam yang efisien?',
+    faqA9: 'Lima hari empat malam adalah durasi ideal untuk kunjungan pertama, dan susunan paling efisien adalah 2 malam di selatan plus 2 malam di Ubud — hanya sekali pindah hotel. D1 tiba dan menginap di selatan (Kuta atau Seminyak); D2 pantai selatan, beach club, dan sunset Seminyak; D3 pagi pindah ke Ubud, sore ke terasering dan Pasar Ubud; D4 air terjun Ubud atau sunrise gunung plus spa; D5 kembali ke selatan untuk belanja sebelum penerbangan. Hindari bolak-balik utara–selatan setiap hari — Kuta ke Ubud butuh 1,5–2 jam sekali jalan.',
+    seoPlanTitle: 'Template Itinerary Bali: Cara Menyusun 4, 5, 7, atau 9 Hari',
+    seoPlanIntro: 'Belum yakin berapa hari yang dibutuhkan atau menginap di area mana? Template itinerary Bali berikut disusun berdasarkan waktu tempuh sebenarnya. Aturannya satu: makin sedikit harinya, makin sedikit pula pindah hotelnya. Pilih baris yang paling mendekati rencanamu, lalu gunakan planner di atas untuk membuat versimu sendiri.',
+    seoPlanHeadDays: 'Durasi', seoPlanHeadAreas: 'Area menginap', seoPlanHeadRoute: 'Rencana harian', seoPlanHeadWho: 'Cocok untuk',
+    seoPlanRows: [
+      { days: '4 hari 3 malam', areas: 'Hanya selatan, tanpa pindah hotel', route: 'D1 tiba, menginap di selatan | D2 pantai selatan + spa + sunset Tanah Lot | D3 day trip Ubud (terasering, Tirta Empul, Monkey Forest) | D4 belanja pagi, penerbangan sore', who: 'Liburan singkat, fokus santai dan belanja' },
+      { days: '5 hari 4 malam', areas: '2 malam selatan + 2 malam Ubud', route: 'D1 tiba, menginap di selatan | D2 beach club + sunset Seminyak | D3 pindah ke Ubud: terasering, jungle swing, Pasar Ubud | D4 air terjun Ubud atau sunrise gunung + spa | D5 kembali ke selatan, belanja, pulang', who: 'Durasi ideal untuk kunjungan pertama' },
+      { days: '7 hari 6 malam', areas: '2 malam selatan + 3 malam Ubud + 1 malam selatan', route: 'D1 tiba di selatan | D2 sunset tebing Uluwatu + tari Kecak | D3 day trip Nusa Penida | D4 pindah ke Ubud: terasering, Pasar Ubud | D5 air terjun Ubud + spa pasangan | D6 jeep sunrise gunung + kebun kopi | D7 pulang', who: 'Ingin menambah island hopping atau sunrise gunung' },
+      { days: '9 hari atau lebih', areas: 'Selatan + Ubud + Bali timur atau pulau sekitar', route: '3 hari pertama di selatan (Uluwatu, seafood Jimbaran) | 3–4 hari berikutnya Ubud lebih dalam (air terjun, Tirta Empul, Desa Penglipuran) | 2–3 hari terakhir Nusa Lembongan, Gili, atau Bali timur dan Lempuyang', who: 'Slow travel, bulan madu, atau kunjungan ulang' },
+    ],
     seoLinksTitle: 'Panduan Berdasarkan Gaya Liburan',
     linkFamilyTitle: 'Panduan Bali Keluarga & Anak',
     linkHoneymoonTitle: 'Panduan Honeymoon & Pasangan',
@@ -1082,12 +1147,44 @@ const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
       </ol>
     </div>
 
+    <!-- Block B2: Itinerary templates by trip length -->
+    <div class="seo-block" id="itinerary-templates">
+      <h2 class="seo-block-title">{T.seoPlanTitle}</h2>
+      <p class="seo-block-text">{T.seoPlanIntro}</p>
+      <div class="seo-plan-scroll">
+        <table class="seo-plan-table">
+          <thead>
+            <tr>
+              <th>{T.seoPlanHeadDays}</th>
+              <th>{T.seoPlanHeadAreas}</th>
+              <th>{T.seoPlanHeadRoute}</th>
+              <th>{T.seoPlanHeadWho}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {T.seoPlanRows.map((row) => (
+              <tr>
+                <td class="seo-plan-days">{row.days}</td>
+                <td>{row.areas}</td>
+                <td class="seo-plan-route">{row.route}</td>
+                <td>{row.who}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
     <!-- Block C: FAQ (details/summary, no JS, Google FAQ-eligible) -->
     <div class="seo-block" id="faq">
       <h2 class="seo-block-title">{T.seoFaqTitle}</h2>
       <details id="faq-days" class="seo-faq-item">
         <summary class="seo-faq-q">{T.faqQ1}</summary>
         <p class="seo-faq-a">{T.faqA1}</p>
+      </details>
+      <details id="faq-5d4n" class="seo-faq-item">
+        <summary class="seo-faq-q">{T.faqQ9}</summary>
+        <p class="seo-faq-a">{T.faqA9}</p>
       </details>
       <details id="faq-areas" class="seo-faq-item">
         <summary class="seo-faq-q">{T.faqQ2}</summary>
@@ -1104,6 +1201,10 @@ const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
       <details id="faq-howto" class="seo-faq-item">
         <summary class="seo-faq-q">{T.faqQ5}</summary>
         <p class="seo-faq-a">{T.faqA5}</p>
+      </details>
+      <details id="faq-generator" class="seo-faq-item">
+        <summary class="seo-faq-q">{T.faqQ8}</summary>
+        <p class="seo-faq-a">{T.faqA8}</p>
       </details>
       <details id="faq-share" class="seo-faq-item">
         <summary class="seo-faq-q">{T.faqQ6}</summary>
@@ -4573,6 +4674,23 @@ details[open] .seo-faq-q::after { content: '−'; }
   padding: 0 1.2rem 1rem; color: #555; line-height: 1.75; font-size: 0.95rem;
   margin: 0;
 }
+.seo-plan-scroll { overflow-x: auto; margin-top: 1rem; }
+.seo-plan-table {
+  width: 100%; min-width: 640px; border-collapse: collapse;
+  font-size: 0.9rem; line-height: 1.65;
+}
+.seo-plan-table th {
+  background: #f6f1e8; color: var(--ocean, #5D4037);
+  font-weight: 700; text-align: left; padding: 0.7rem 0.8rem;
+  border-bottom: 2px solid #e0d8cc; white-space: nowrap;
+}
+.seo-plan-table td {
+  padding: 0.8rem; border-bottom: 1px solid #e8e0d4;
+  color: #555; vertical-align: top;
+}
+.seo-plan-table tr:last-child td { border-bottom: none; }
+.seo-plan-days { font-weight: 700; color: var(--ocean, #5D4037); white-space: nowrap; }
+.seo-plan-route { min-width: 260px; }
 .seo-links-grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 1.5rem;
