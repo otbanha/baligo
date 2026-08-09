@@ -1,9 +1,11 @@
 ---
 slug: bali-belly-medicine-guide
-title: 'Bali Belly 是什么？巴厘岛脏水病／脏水症症状、成药自救与就医时机'
-description: 'Bali Belly（巴厘岛脏水病、脏水症）就是旅行者腹泻，多在抵达后 1–3 天发作，症状是水泻、腹部绞痛、恶心，通常 1–3 天自行缓解。本文整理当地药店买得到的 ORS、止泻药与益生菌怎么选，以及出现血便、高烧、严重脱水时该立刻就医的判断标准。'
+title: Bali Belly 是什么？巴厘岛脏水病／脏水症症状、成药自救与就医时机
+description: >-
+  Bali Belly（巴厘岛脏水病、脏水症）就是旅行者腹泻，多在抵达后 1–3 天发作，症状是水泻、腹部绞痛、恶心，通常 1–3
+  天自行缓解。本文整理当地药店买得到的 ORS、止泻药与益生菌怎么选，以及出现血便、高烧、严重脱水时该立刻就医的判断标准。
 pubDate: 2026-01-02T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-08-09T00:00:00.000Z
 category:
   - 旅行技巧
 tags:
@@ -15,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-cn
-_srcHash: df4f34483a681932b9f31a772f2b1e58
+_srcHash: 78c1f5f5361e0b4813ffb61ca51c09c6
 ---
 ![Bali Belly 峇里島腹瀉/腸胃炎/髒水病如何自救?Bali Belly 紓解成藥攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
@@ -25,7 +27,7 @@ _srcHash: df4f34483a681932b9f31a772f2b1e58
 
 ## Bali Belly 是什么？（脏水病、脏水症一次说清楚）
 
-- **是什么**：Bali Belly 就是「旅行者腹泻」，中文常被叫成脏水病或脏水症。多半是吃到或喝到被细菌污染的食物与水引起，不是某个特定疾病的正式名称。
+- **是什么**：Bali Belly 就是「旅游者腹泻」，中文常被叫成脏水病或脏水症。多半是吃到或喝到被细菌污染的食物与水引起，不是某个特定疾病的正式名称。
 - **什么时候发作**：通常在抵达后 1–3 天，也可能在旅程中任何一天。
 - **典型症状**：水泻、腹部绞痛、恶心想吐，有些人会低烧与全身无力。
 - **会持续多久**：多数人 1–3 天内自行缓解，只要补水足够，通常不需要抗生素。
@@ -48,7 +50,7 @@ https://youtu.be/GivvqCXp11A
 
 · 当地常见品牌：Oralit, Hydralyte。
 
-· 关键提示：腹泻时应首选使用，务必按说明冲泡。注意: 运动饮料不能完全替代。
+· 关键提示：腹泻时应首选使用，务必按说明冲泡。注意：运动饮料不能完全替代。
 
 ### 2. 止泻药 (吸附剂) – 用于轻度腹泻
 
@@ -104,7 +106,7 @@ https://youtu.be/GivvqCXp11A
 
 · 发烧超过 38.5°C。
 
-· 腹泻或呕吐物中带血。
+· 腹泻或呕吐物中 带血。
 
 · 严重腹痛。
 
@@ -116,11 +118,11 @@ https://youtu.be/GivvqCXp11A
 
 ## 🏥 如何寻求医疗协助
 
-如果症状需要看医生，可以前往巴厘岛的国际标准诊所，如BIMC、Siloam、Prime Plus Medical等，这些地方通常有会说英语的医护人员。若情况比较严重不克出门，巴厘岛的 [Unicare Clinic Bali 24/7全天候医生随叫随到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服务也可以善用。
+如果症状需要看医生，可以前往巴厘岛的国际标准诊所，如BIMC、Siloam、Prime Plus Medical等，这些地方通常有会说英语的医护人员。若情况比较严重不便出门，巴厘岛的 [Unicare Clinic Bali 24/7全天候医生随叫随到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服务也可以善用。
 
 ## 💡 购买与沟通建议
 
-· 寻找可靠药店：可以优先寻找连锁药店，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
+· 寻找可靠药局：可以优先寻找连锁药局，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
 
 · **沟通备用词句：如果语言不通，可以尝试向药剂师出示以下短句：**
 

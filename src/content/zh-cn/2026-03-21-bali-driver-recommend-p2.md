@@ -13,9 +13,9 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-07T00:00:00.000Z
+updatedDate: 2026-08-09T00:00:00.000Z
 lang: zh-cn
-_srcHash: 014a35b03aec05b782fe5547f25afba5
+_srcHash: fdc409a94b41b15d27d3031e85301886
 ---
 
 **本页是什么**：巴厘岛包车司机「网友评鉴名人榜」第二页，收录脸书社团网友真实推荐的中文沟通司机。每位司机名下的「网友推荐」链接都是可点击查证的原始社团贴文，推荐数越多代表口碑累积越久。包车行情约 **Rp 600,000–800,000／天（含油费，约 10 小时）**，联系时请说明日期、人数与想去的区域。
@@ -46,7 +46,7 @@ _srcHash: 014a35b03aec05b782fe5547f25afba5
 
 ![Komang WikaSutresna](https://images.gobaligo.id/images/2026-03/1774787613775-new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/nCVRmvfDAcNaKp8W/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/rr3fzN8pC2VkZ43S/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/15M7yLuYSg/) 👍🏼[网友推荐7](https://www.facebook.com/share/15KzeArBUc/) 👍🏼[网友推荐8](https://www.facebook.com/share/1873vCmEZA/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/uKuPgbFNhDmEUbGd/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/18ZKxDQfKs/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/14wD7kryTo/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/15yA7juHso/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/14sjTapax2/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/t3EHqhCL5htfXfVQ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/rr3fzN8pC2VkZ43S/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/15M7yLuYSg/) 👍🏼[网友推荐7](https://www.facebook.com/share/15KzeArBUc/) 👍🏼[网友推荐8](https://www.facebook.com/share/1873vCmEZA/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/uKuPgbFNhDmEUbGd/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/18ZKxDQfKs/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/14wD7kryTo/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/15yA7juHso/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/14sjTapax2/)
 
 ## Fery Kyo
 
@@ -94,7 +94,7 @@ _srcHash: 014a35b03aec05b782fe5547f25afba5
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1UCWrJKutL/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1FWDiN8vP8/)
 
 ## Iwayan Suantara 康哥
 

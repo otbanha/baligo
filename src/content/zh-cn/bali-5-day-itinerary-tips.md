@@ -17,12 +17,11 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_02c8c3347a57c7c83b5f9bb7d913afdb.jpg'
 originalUrl: 'https://vocus.cc/article/6686bcc4fd897800018fb206'
 lang: zh-cn
-_srcHash: PENDING_RETRY_879d3b016d6d8073a107d4295a0ce8fe
-_translateAttempts: 1
+_srcHash: 879d3b016d6d8073a107d4295a0ce8fe
 ---
 > 以下内容由团友​[杨方瑜](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R)提供，并同意我们改编
 
-**先说结论**：巴厘岛5天4夜行程扣除头尾移动日其实玩不到3天，建议尽量早起避开堵车；行前准备重点——落地电子签、观光税、Esim网卡（前一天买隔天即可用）、220V吹风机（拍水中美照后吹发用）。按摩店品质参差不齐，随机选择风险较高但也可能有惊喜。
+**先说结论**：巴厘岛5天4夜行程扣除头尾移动日其实玩不到3天，建议尽量早起避开堵车；行前准备重点——落地电子签、观光税、Esim网卡（前一天买第二天即可用）、220V吹风机（拍水中美照后吹头发用）。按摩店品质参差不齐，随机选择风险较高但也可能有惊喜。
 
 这次的巴厘岛之旅虽然只有短短的5天4夜，但真的觉得扣除前后两天的移动时间后，玩的时间还是太少了！这趟行程比较偏累，并不是那种轻松度假的旅行。巴厘岛的交通状况比较容易堵车，所以建议大家尽量早起，这样可以走更多的行程。
 
@@ -37,11 +36,11 @@ _translateAttempts: 1
 3. 填写入境表：填写好入境表格。
 4. 货币兑换：建议携带美金到当地兑换成卢比。
 5. 防晒：巴厘岛的阳光非常强烈，忘记带防晒霜的话，很容易晒黑。
-6. 网络使用：建议使用Esim卡，我在虾皮购买了「全球跨境旅游达人」的Esim卡，除非去偏远山区，网速都很稳定。前一天买隔天就可以使用，非常方便。
+6. 网络使用：建议使用Esim卡，我在虾皮购买了「全球跨境旅游达人」的Esim卡，除非去偏远山区，网速都很稳定。前一天买第二天就可以使用，非常方便。
 7. 玩水拍美照：如果计划玩水后拍美照，记得带支持220V吹风机。
-8. 按摩体验：不论是哪一家按摩店，感觉都像抽奖一样。幸运的是，我们每次按摩体验都很不错，即便是在路边随意选的店也是如此。
-9. 拍照技巧：想拍出网美照，建议事先研究好拍照姿势，并请旅伴练习拍摄技术。我就是不会拍雷的那个。
-10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000卢比（约合USD$0.3），不要给零钱或太小的钞票，这样比较礼貌。
+8. 按摩体验：不论是哪家按摩店，感觉都像抽奖一样。幸运的是，我们每次按摩体验都很不错，即便是在路边随意选的店也是如此。
+9. 拍照技巧：想拍出网红照，建议事先研究好拍照姿势，并请旅伴练习拍摄技术。我就是不会拍雷的那个。
+10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000卢比（约合USD$0.6），不要给零钱或太小的钞票，这样比较礼貌。
 11. 充电转接头：记得携带充电转接头，或者先询问酒店是否可以借用。
 12. 额外税金：有些餐厅和按摩店会收取额外的税金，刷卡也有可能多收3%的手续费。
 
@@ -49,21 +48,23 @@ _translateAttempts: 1
 
 > [巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/zh-cn/blog/bali-tipping-guide-driver-spa/)
 
-## 巴厘岛换汇指南：哪里换汇最划算？
+[> 【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/zh-cn/blog/spa/)
 
-在巴厘岛旅行，换汇是必做的功课。这篇指南会告诉你哪里换汇最划算，以及如何避免被骗。
+## 行程安排
 
-**1. 换汇地点推荐**
+### 5月30日
 
-**库塔（Kuta）**
+**1. 换钱**
 
-- **PT. Dirgahayu Valuta Prima**：位于库塔海滩附近，汇率不错，服务专业。
+- 一到巴厘岛后，第一件事就是兑换当地货币卢比，方便接下来的消费。
 
-- **Central Kuta Money Exchange**：在库塔中心，汇率透明，没有隐藏费用。
+[> 印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/zh-cn/blog/bali-currency-exchange-guide/)
 
-**水明漾（Seminyak）**
+**2. 乌布酒店入住**
 
-- **BMC International**：水明漾地区口碑很好的换汇点，汇率有竞争力。
+- 时间：15:00
+- 地点：Soulshine Bali
+- 亮点：这家酒店的泳池非常美丽，而且设有滑水道，服务也很好。房价包含早餐，非常适合花较长时间待在酒店的旅客，性价比高。每晚约USD$258。
 
 ![5月30日](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
@@ -85,9 +86,9 @@ _translateAttempts: 1
 
 ![5月30日](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
-- **PT. Bali Maspintjinra**：位于水明漾主要街道上，安全可靠。
+[> Soulshine Bali 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-9203399/soulshine-resort-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/djqgcgo8)
 
-**沙努尔（Sanur）**
+**3. 按摩**
 
 - 时间：18:30
 - 地点：Pertenin Body Care
@@ -100,7 +101,7 @@ _translateAttempts: 1
 - 地点：Arcadia Restaurant
 - 特色：这家餐厅的套餐系列餐点都非常精致美味，且多为外国客人光顾。服务非常周到，环境也很棒。套餐价格约USD$48，需额外加收11%餐饮税和4.5%的服务费。
 
-这一天的行程安排相对轻松，先换好钱后到乌布入住一间高性价比的酒店，之后享受舒适的按摩，最后在环境优雅的餐厅享用美味的晚餐，为接下来的行程做好充分准备。
+这一天的行程安排相对轻松，先换好钱后到乌布入住一家高性价比的酒店，之后享受舒适的按摩，最后在环境优雅的餐厅享用美味的晚餐，为接下来的行程做好充分准备。
 
 ### 5月31日
 
@@ -120,9 +121,9 @@ ATV好玩！（杨方瑜提供）
 
 https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
-编按：乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山丘，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
+编按：乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山區，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
 
-还有一种「火山 ATV 之旅」，你将穿越茂密的森林，攀越黑色熔岩山坡地，并征服具有挑战性的越野地形。导游将带领你穿越这些变化万千的地形，让你充分体验ATV带来的刺激和乐趣。
+还有一种「火山 ATV 之旅」，您将穿越茂密的森林，攀越黑色熔岩山坡地，并征服具有挑战性的越野地形。导游将带领您穿越这些变化万千的地形，让您充分体验ATV带来的刺激和乐趣。
 
 参考：[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/zh-cn/blog/bali-atv-adventure-guide/)
 
@@ -143,9 +144,9 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 参考：[【巴厘岛漂流 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
-> [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
+> [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
-> [阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
 **4. 秋千网红拍照**
 
@@ -171,7 +172,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 - 地点：Soulshine Bali
 
-这一天的行程充满了冒险与刺激，从ATV骑行到阿勇河漂流，再到秋千网红拍照，都是非常值得体验的活动。最后，选择一家热门餐厅享用晚餐，然后回到酒店休息。
+这一天的行程充满了冒险与刺激，从ATV骑行到阿勇河漂流，再到秋千网红拍照，都是非常值得体验的活动。最后，选择一家热门的餐厅享用晚餐，然后回到酒店休息。
 
 ### 6月1日
 
@@ -268,7 +269,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 **6. 按摩**
 
 - 地点：Piramid Jimbar
-- 体验：这里的环境超美，按摩前会先让你喂鱼，先付款后再按摩。需要注意的是，洗澡时间也会算在按摩时长内。按摩非常满意，但花浴容易引起过敏，需自行衡量。所有花都是新鲜的，有可能有小虫。花浴需另外付款及订金，2小时的按摩约USD$77，不含排图案的花浴。图案颜色可先通过WhatsApp沟通确认。
+- 体验：这里的环境超美，按摩前会先让你喂鱼，先付款后再按摩。需要注意的是，洗澡时间也会算在按摩时长内。按摩非常满意，但花浴容易引起过敏，需自行衡量。所有花都是新鲜的，有可能有小虫。花浴需另外付款及订金，2小时的按摩约77美元，不含排图案的花浴。图案颜色可先通过WhatsApp沟通确认。
 
 **7. 晚餐**
 
@@ -278,23 +279,24 @@ https://youtube.com/shorts/MTbr3sojGAM?si=GZhCEZuNUdypLyRp
 
 这一天的行程从乌布转移到水明漾，入住具有度假氛围的Villa DeDayuh，然后在南湾享受各种刺激的水上活动。下午探访悬崖景点拍美照，傍晚在金巴兰欣赏日落并体验骑马或骆驼。晚上在Piramid Jimbar享受高质量的按摩，最后以美味的印尼煎蛋饼作结，结束充实而愉快的一天。
 
-他们的招牌猪肋排，味道非常棒
+> 预订[金巴兰骑骆驼体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)
+
+### 6月2日
+
+**1. 午餐**
+
+- 地点：Naughty Nuri's
+- 特色：必点他们的招牌猪肋排，味道非常棒
 
 预订[Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880709&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d581a84b3)
 
 **2. 伴手礼店**
 
-- 购物：最好先查好要买什么，否则会眼花缭乱，探访当地的伴手礼店，挑选一些特色商品带回家
+- 购物：最好先查询好要购买什么否则会眼花缭乱，探访当地的伴手礼店，挑选一些特色商品带回家
 
 > [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 **3. 库塔活动**
-
-__VID0__
-
-> [【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶的絕佳選擇](/zh-cn/blog/bali-souvenirs-gift-guide/)
-
-**3. 庫塔活動**
 
 https://youtu.be/cbACc0Ey-A4
 
@@ -335,7 +337,7 @@ https://youtu.be/cbACc0Ey-A4
 
 ## 包车司机推荐
 
-在巴厘岛旅行，找一位好的包车司机是非常重要的，特别是玩得很累时，要翻译英文真的会很辛苦。我们推荐[Mang Loco](https://www.facebook.com/komang.rika.501/)，他是在台湾工作过的巴厘岛人，中文跟原住民学得流利又有趣，性格亲切，感觉像是朋友一样乐于助人。
+在巴厘岛旅行，找一位好的包车司机是非常重要的，特别是玩得很累时，要翻译英文真的会很辛苦。我们推荐[Mang Loco](https://www.facebook.com/komang.rika.501/)，他是曾在台湾工作的巴厘岛人，中文跟原住民学的流利又有趣，性格亲切，感觉像是朋友一样乐于助人。
 
 ### Tip：
 
@@ -347,7 +349,7 @@ https://youtu.be/cbACc0Ey-A4
 
 这次的巴厘岛之旅虽然只有短短的几天，但每一天都充满了新鲜和刺激的体验。从乌布的文化之旅，到水明漾的悠闲度假，从南湾的水上活动，到金巴兰的日落美景，每一刻都让人难忘。在旅途中找一位可靠的包车司机，不仅减少了语言的障碍，更让行程更加顺畅。巴厘岛的美丽景色和丰富的文化底蕴，值得每一位旅人细细品味。期待下次再来探索这片天堂般的岛屿！
 
-您觉得杨方瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得杨方瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

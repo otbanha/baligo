@@ -1,9 +1,9 @@
 ---
-title: 'Panduan Autogate Bandara Bali｜Cara Masuk, Syarat & Hal yang Perlu Diperhatikan'
+title: 'Panduan Autogate Bandara Bali｜Cara Masuk, Syarat & Tips Penting'
 slug: bali-airport-autogate-guide
 description: >-
   Pertama kali ke Bali bingung pakai Autogate? Ini dia panduan lengkap syarat
-  pakai Autogate di bandara Bali, scan paspor, verifikasi wajah, dan
+  pakai Autogate bandara Bali, scan paspor, face recognition, dan
   langkah-langkahnya biar kamu bisa masuk dengan cepat!
 pubDate: 2026-08-07T00:00:00.000Z
 pubHour: 22
@@ -31,120 +31,119 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: PENDING_RETRY_9828a2fe2aa282234d4b4aa73fbb7f4b
-_translateAttempts: 2
+_srcHash: 9828a2fe2aa282234d4b4aa73fbb7f4b
 ---
 
-# Panduan Autogate Bandara Bali｜Masuk Cuma 10–20 Detik, Langsung Jago Meski Baru Pertama Kali!
+# Panduan Autogate Bandara Bali｜Masuk Cuma 10–20 Detik, Langsung Jago!
 
-Sesampainya di Bali, yang paling bikin males sih antre panjang buat cap paspor sama petugas imigrasi. Tapi sekarang, kalau kamu memenuhi syarat, bisa pakai **Autogate di Bandara Internasional Ngurah Rai (DPS)**. Proses verifikasinya cuma butuh **10–20 detik** aja, bikin waktu masuk jauh lebih cepet.
+Sesampainya di Bali, yang paling bikin deg-degan sih antre panjang buat cap imigrasi. Tapi tenang, kalau kamu memenuhi syarat, bisa pakai **Autogate Bandara Internasional Ngurah Rai (DPS)**. Proses verifikasinya cuma butuh **10–20 detik**, bikin waktu masuk jauh lebih singkat.
 
-Di bawah ini panduan terbaru cara pakainya, biar kamu yang pertama kali ke Bali pun bisa lewat Autogate dengan mudah.
+Di bawah ini cara pakai terbaru, biar first timer di Bali pun bisa lewat autogate dengan mudah.
 
 ***
 
 ## Siapa Saja yang Bisa Pakai Autogate?
 
-Syaratnya gampang, asal kamu memenuhi ini:
+Saat ini, kamu bisa pakai kalau memenuhi syarat berikut:
 
-✅ Punya **paspor elektronik (Biometric Passport)**
+✅ Punya **Paspor Biometrik (chip)**
 
-✅ Udah urus **e-VOA (Visa on Arrival elektronik)** atau visa elektronik (eVisa) lainnya
+✅ Sudah urus **e-VOA (Visa on Arrival elektronik)** atau eVisa lainnya
 
-✅ Warga negara Indonesia atau pemegang KITAS kerja juga bisa pakai Autogate.
-
-***
-
-## Siapa yang nggak bisa pakai?
-
-Penumpang berikut tetap harus lewat loket imigrasi manual:
-
-- Beli VOA (Visa on Arrival) langsung di bandara
-- Nggak memenuhi syarat e-paspor
-- Nggak memenuhi syarat penggunaan e-visa
-- Beberapa anak-anak (di bawah 7 tahun)
-
-> **Saran:** Sebelum berangkat, mending urus e-VOA dulu. Selain ngurangin antrean beli VOA, kamu juga bisa langsung pakai Autogate.
+✅ WNI atau pemegang KITAS juga bisa pakai Autogate.
 
 ***
 
-# Siapin ini dulu sebelum pakai
+## Siapa aja yang nggak bisa pakai?
 
-Sebelum giliranmu, saran siapin hal-hal ini:
+Wisatawan berikut tetap harus lewat imigrasi manual:
 
-- Lepas sampul paspor
+- Yang baru beli VOA (Visa on Arrival) di bandara
+- Yang nggak memenuhi syarat e-paspor
+- Yang nggak memenuhi syarat e-Visa
+- Beberapa anak kecil (di bawah 7 tahun)
+
+> **Saran:** Sebaiknya urus e-VOA sebelum berangkat, selain ngirit antre beli VOA, kamu juga bisa langsung pakai Autogate.
+
+***
+
+# Siapin dulu sebelum pakai
+
+Sebelum giliranmu, saran siapin ini:
+
+- Lepas sarung paspor
 - Buka halaman data diri paspor
 - Lepas masker
 - Lepas topi
-- Lepas kacamata hitam atau kacamata (kalau ganggu deteksi wajah)
-- Pastikan wajah terlihat jelas
+- Lepas kacamata hitam atau kacamata (kalau ganggu deteksi)
+- Pastikan wajah kelihatan jelas
 
 ***
 
-# Cara Pakai Autogate
+# Langkah-langkah pakai Autogate
 
-### Langkah 1: Tunggu Panah Hijau
+### Step 1: Tunggu panah hijau
 
-Cuma boleh satu orang masuk tiap kali.
+Cuma boleh masuk satu orang setiap kali.
 
-Kalau tanda silang merah udah berubah jadi panah hijau, baru jalan ke depan.
-
-***
-
-### Langkah 2: Berdiri di Tanda Jejak Kuning
-
-Berdiri sesuai tanda di lantai.
-
-Koper jinjing taruh di belakang, jangan sampai nutup pintu gerbangnya.
+Kalau tanda silang merah sudah berubah jadi panah hijau, lanjut jalan ke depan.
 
 ***
 
-### Langkah 3: Scan Paspor
+### Langkah 2: Berdiri di posisi tapak kaki kuning
 
-Buka halaman data diri paspor kamu.
+Ikuti petunjuk di lantai untuk posisi yang benar.
 
-Letakkan rata di scanner, tekan biar nggak melengkung.
+Tas jinjing taruh di belakang, jangan sampai nutup pintu.
+
+***
+
+### Langkah 3: Scan paspor
+
+Buka paspor ke halaman data diri.
+
+Letakkan datar di scanner, tekan biar nggak melengkung.
 
 Tunggu sampai sistem selesai membaca.
 
 ***
 
-### Langkah 4: Verifikasi Wajah
+### Langkah 4: Verifikasi wajah
 
-Sistem bakal motret kamu.
+Sistem bakal ambil foto kamu.
 
-Langsung aja lihat ke layar, jangan menunduk atau lihat ke samping kamera.
+Tolong langsung lihat ke layar, jangan menunduk, dan jangan lihat ke samping kamera.
 
-Cukup ekspresi natural aja.
+Cukup jaga ekspresi natural saja.
 
 ***
 
-### Langkah 5: Selesai Imigrasi
+### Step 5: Selesai Imigrasi
 
 Setelah berhasil terverifikasi:
 
-- Gerbang otomatis terbuka
-- Langsung jalan keluar
+- Pintu gerbang otomatis terbuka
+- Langsung keluar
 - Tidak ada stempel masuk di paspor lagi
-- Riwayat masuk akan disimpan secara elektronik (beberapa traveler akan dapat notifikasi via email)
+- Catatan kedatangan akan disimpan secara elektronik (beberapa penumpang akan menerima notifikasi via email)
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786086128178-mixcollage-07-aug-2026-02-01-pm-1163.jpg)
 
 ***
 
-# Penyebab Gagal yang Paling Sering
+# Penyebab Gagal yang Sering Terjadi
 
-Kalau gerbangnya nggak mau kebuka, biasanya karena:
+Kalau pintu gerbang terus tidak bisa terbuka, biasanya karena hal-hal berikut:
 
-### Paspor nggak ditaruh rata
+### Paspor Tidak Diletakkan Rata
 
-Pastiin seluruh halaman paspor nempel rata di scanner.
+Pastikan seluruh halaman menempel rata di pemindai.
 
 ***
 
-### Pakai masker atau topi
+### Pakai Masker atau Topi
 
-Wajah susah dikenali.
+Wajah susah dikenali. (Face ID sering gagal)
 
 ***
 
@@ -152,13 +151,13 @@ Wajah susah dikenali.
 
 Jangan lewati garis kuning antrean.
 
-Kalau penumpang sebelumnya belum selesai, jaga jarak biar nggak ganggu proses identifikasi.
+Kalau penumpang sebelumnya belum selesai, jaga jarak biar nggak ganggu proses pemindaian.
 
 ***
 
 ### Bawaan ketinggalan
 
-Banyak turis baru sadar tas jinjingnya masih di sisi lain setelah lewat.
+Banyak turis baru sadar kalau tas jinjingnya masih di sisi lain setelah lewat.
 
 Pastikan semua barang bawaan udah dibawa semua.
 
@@ -166,9 +165,9 @@ Pastikan semua barang bawaan udah dibawa semua.
 
 ## Tips Pakai Autogate
 
-- ❌ Di area imigrasi dilarang foto, video, atau selfie.
-- ✅ Kalau gagal verifikasi, jangan panik — bisa coba ulang lagi.
-- ✅ Di lokasi selalu ada petugas imigrasi yang siap bantu.
+- ❌ Area imigrasi dilarang foto, video, atau selfie.
+- ✅ Kalau gagal dikenali, tenang aja — bisa ulang lagi kok.
+- ✅ Petugas imigrasi dan staf selalu siap bantu kapan aja.
 
 ***
 
@@ -176,28 +175,28 @@ Pastikan semua barang bawaan udah dibawa semua.
 
 Kalau kamu memenuhi syarat, sangat recommended banget.
 
-Apalagi pas musim ramai di Bali, antrean di counter manual sering panjang, sementara Autogate biasanya cuma butuh beberapa puluh detik buat verifikasi — bikin waktu masuk jauh lebih cepet. Yang bener-bener makan waktu malah nunggu bagasi.
+Apalagi pas musim ramai tiba di Bali, antrean di counter manual sering panjang, sementara Autogate biasanya cuma butuh beberapa puluh detik buat verifikasi — bikin waktu masuk jauh lebih cepat. Yang bener-bener makan waktu malah nunggu bagasi.
 
 ***
 
 ## FAQ
 
-### Q1: Punya e-VOA pasti bisa pakai Autogate?
+### Q1: Kalau pakai e-VOA, pasti bisa lewat Autogate?
 
-Selama kamu punya **paspor elektronik (e-Paspor)** dan sudah apply **e-VOA atau eVisa** yang sesuai, kamu bisa pakai Autogate.
+Selama kamu punya **paspor elektronik** dan sudah apply **e-VOA atau eVisa** yang memenuhi syarat, langsung bisa pakai Autogate.
 
-### Q2: Kalau beli VOA langsung di bandara, bisa pakai Autogate nggak sih?
+### Q2: Beli VOA di tempat, bisa lewat Autogate?
 
-Biasanya nggak bisa, kamu harus ke loket imigrasi manual dulu.
+Biasanya nggak bisa — harus ke counter imigrasi manual.
 
-### Q3: Apakah Autogate perlu didaftarkan secara terpisah?
+### Q3: Autogate perlu registrasi tambahan?
 
-Umumnya traveler yang memenuhi syarat nggak perlu daftar lagi, asal paspor dan e-visa sesuai sistem, langsung bisa dipakai.
+Umumnya traveler yang memenuhi syarat nggak perlu daftar lagi — cukup paspor dan e-visa yang sesuai sistem.
 
-### Q4: Kalau nggak ada stempel imigrasi, gimana cara buktiin kalau sudah masuk?
+### Q4: Kalau nggak ada stempel imigrasi, gimana bukti masuknya?
 
-Autogate pakai sistem digital, beberapa traveler bakal dapet notifikasi elektronik, dan sistem resmi juga nyimpen catatan masuk secara lengkap.
+Autogate pakai sistem pencatatan elektronik, sebagian traveler bakal dapet notifikasi digital, dan sistem resmi juga nyimpen catatan masuk secara lengkap.
 
-> Mau info lengkap soal visa/imigrasi? Cek [forum diskusi kami](https://community.gobaligo.id/viewforum.php?f=3&sid=f0b6e1e7fe018a0458f8a61ec7a6c405)
+> Info lengkap soal visa/kedatangan, cek aja [forum diskusi kita](https://community.gobaligo.id/viewforum.php?f=3&sid=f0b6e1e7fe018a0458f8a61ec7a6c405)
 
 {{block:住宿}}

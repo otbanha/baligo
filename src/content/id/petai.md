@@ -1,9 +1,13 @@
 ---
 title: 'Apa Itu Petai? Rasa, Cara Makan, dan Cara Menghilangkan Bau Setelahnya'
 slug: petai
-description: 'Petai adalah kacang hijau pipih khas Asia Tenggara: baunya menyengat, tetapi rasanya manis dan bikin ketagihan. Ini penjelasan apa itu petai, bagaimana rasanya, olahan terbaik ala Indonesia (petai udang, nasi goreng petai), dan cara cepat menghilangkan bau setelah menyantapnya.'
+description: >-
+  Petai adalah kacang hijau pipih khas Asia Tenggara: baunya menyengat, tetapi
+  rasanya manis dan bikin ketagihan. Ini penjelasan apa itu petai, bagaimana
+  rasanya, olahan terbaik ala Indonesia (petai udang, nasi goreng petai), dan
+  cara cepat menghilangkan bau setelah menyantapnya.
 pubDate: 2026-05-06T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-08-09T00:00:00.000Z
 pubHour: 8
 category:
   - 美食景點活動
@@ -25,65 +29,64 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 5b94ba69d37081c7873e9a1e7d305501
+_srcHash: PENDING_RETRY_cd5c0506531011b62e839672cb5d6b01
+_translateAttempts: 1
 ---
-# Petai Indonesia: Kacang Ajaib Hijau yang Baunya Bikin Kaget, Tapi Bikin Ketagihan
+# Pete: Kacang Hijau Ajaib yang Baunya Bikin Kaget, Tapi Bikin Nagih Kalau Udah Dicoba
 
-**Kesimpulan di depan**: Petai (Petai) punya aroma yang kuat (sering disamain kayak bau gas), tapi warga lokal nganggepnya sebagai bahan makanan yang lezat. Cara makan klasiknya adalah **tumis petai udang, sambal petai pedas**. Kalau pertama kali nyoba, saran sih mulai dari olahan yang sudah ditumis, lebih gampang diterima. Abis makan, bisa kumur-kumur atau makan permen mint buat ngilangin bau mulut.
+**先講結論**：印尼臭豆（Petai）氣味強烈（常被形容像瓦斯味），但在地人視為美味食材，經典吃法是**臭豆炒蝦、辣味天貝（Sambal Petai）**，第一次嘗試建議從炒過的料理開始，接受度較高，吃完後可搭配漱口或吃薄荷去除口氣。
 
-Bicara soal 'bahan makanan unik' di Asia Tenggara, petai (Petai, nama ilmiah: Parkia speciosa) pasti masuk daftar. Orang yang pertama kali nyium baunya pasti langsung mengernyitkan dahi; tapi begitu jatuh cinta, rasanya kayak kena mantra, makin makan makin nagih.
+Bicara soal 'bahan makanan unik' di Asia Tenggara, petai (Parkia speciosa) pasti masuk daftar. Orang yang pertama kali mencium aromanya mungkin bakal mengernyitkan dahi; tapi begitu jatuh cinta, rasanya kayak kena mantra, makin makan makin nagih.
 
-## Petai Itu Sebenarnya Apa Sih?
+## Petai itu apa sih?
 
-Petai adalah biji dari tanaman kacang-kacangan 'Parkia speciosa'. Bentuknya pipih, hijau cerah, bergelantungan kayak kacang polong versi gede. Begitu dikupas, biji di dalamnya bulat dan padat, dengan aroma khas yang kuat — ada yang bilang kayak 'bocoran gas' atau 'bau asam busuk', tapi buat warga Asia Tenggara, itu justru ciri khas aromanya yang menggoda.
+Pete adalah biji dari tanaman suku polong-polongan bernama Parkia speciosa. Bentuknya pipih memanjang, hijau segar, bergerombol seperti polong kacang polong versi gede. Kalau dikupas, biji di dalamnya bulat dan padat, punya aroma khas yang kuat — ada yang bilang kayak 'bocoran gas' atau 'bau asam busuk', tapi buat warga Asia Tenggara, itu justru ciri khas aroma yang bikin nagih.
 
-Di Indonesia, Malaysia, Thailand selatan, petai adalah bahan makanan rumahan dan sering dijumpai di kaki lima. Cara makan paling klasik antara lain:
+Di Indonesia, Malaysia, dan Thailand selatan, petai adalah bahan makanan yang sering ditemui di masakan rumahan dan kaki lima. Cara makan paling klasik meliputi:
 
-- Dimakan mentah dicocol sambal
-- Ditumis bareng terasi, cabai, dan udang
-- Dimasukkan ke kari atau dimasak dengan sambal
+- Dimakan mentah pakai sambal pedas
 
-Di Indonesia, kita sebenarnya suka banget makan 'nasi goreng petai'
+## Di Indonesia, kita sebenarnya suka banget makan 'Nasi Goreng Petai'
 
-Kalau kamu liburan ke Indonesia, wajib coba **Nasi Goreng Petai**. Kedengerannya agak menantang sih, tapi petai yang dimasak bareng nasi goreng klasik Indonesia, setelah ditumis panas-panas, aromanya yang tajam jadi lebih lembut — malah keluar wangi kayak kacang-kacangan dan rumput yang segar.
+Kalau kamu liburan ke Indonesia, wajib banget coba **Nasi Goreng Petai**. Sekilas denger namanya sih agak menantang, tapi ternyata petai yang dimasak bareng nasi goreng khas Indonesia, setelah ditumis di wajan panas, aromanya yang tajam jadi lebih lembut. Malah keluar wangi kayak kacang-kacangan dan daun-daunan yang subtle banget.
 
 ![在印尼，我們其實很喜歡吃「臭豆炒飯」](https://images.gobaligo.id/images/2026-05/1778028180819-nasigoreng_petai.jpeg)
 
-Nasinya gurih banget karena kecap, bawang putih, cabai, dan terasi. Ditambah beberapa biji petai yang renyah, pas digigit ada rasa pahit manis dan tekstur kriuk yang nggak terduga — bikin nasi gorengnya nggak terlalu berminyak. Di kaki lima Jakarta atau Surabaya, seporsi Nasi Goreng Petai biasanya ditemani telur ceplok, ayam goreng, atau kerupuk udang. Ini makanan yang bikin hati adem buat banyak orang Indonesia.
+Nasinya gurih banget berkat campuran kecap, bawang putih, cabai, dan terasi. Ditambah petai yang renyah—pas digigit, ada rasa pahit-manis tipis yang kriuk-kriuk, ternyata bikin nasi gorengnya nggak terlalu berminyak. Di kaki lima Jakarta atau Surabaya, seporsi Nasi Goreng Petai biasanya ditemani telur ceplok, ayam goreng, atau kerupuk udang—ini comfort food favorit banyak orang Indonesia.
 
-## Apa sih manfaat petai?
+## Apa sih enaknya Pete?
 
-Jangan remehin baunya yang kuat, petai ternyata super bernutrisi. Orang tua dulu bilang: "Makan petai, badan bebas racun." Ilmu pengetahuan modern juga udah buktiin banyak manfaatnya:
+Jangan lihat baunya yang menyengat, pete sebenarnya bahan makanan yang super bergizi. Orang-orang tua lokal sering bilang: "Makan pete, badan bebas racun." Ilmu pengetahuan modern juga udah membuktikan banyak manfaatnya:
 
 1. **Antidepresan alami**
-Petai kaya triptofan, bahan baku serotonin di otak. Makan petai bisa bantu rileks dan perbaiki suasana hati — makanya ada yang bilang "makan petai bikin happy".
+Pete kaya akan triptofan, bahan baku pembuatan serotonin di otak. Makan pete bisa bantu rileksin pikiran, perbaiki suasana hati — makanya ada yang bilang "makan pete bikin happy".
 2. **Stabilkan gula darah**
-Penelitian menunjukkan senyawa aktif dalam petai bisa bantu jaga gula darah tetap stabil. Di Indonesia, petai sering dipakai buat bantu kelola diabetes.
+Penelitian menunjukkan, senyawa bioaktif dalam pete bisa bantu menurunkan fluktuasi gula darah. Di Indonesia, pete bahkan dipakai sebagai pendamping pengelolaan diabetes secara tradisional.
 3. **Sehatkan ginjal**
-Petai bersifat diuretik alami, bantu buang kelebihan garam dan kotoran dari tubuh — cocok buat yang punya tekanan darah tinggi atau bengkak ringan.
+Pete itu diuretik alami, bisa bantu keluarkan kelebihan garam dan limbah dari tubuh. Cocok buat yang punya tekanan darah tinggi atau sedikit bengkak.
 4. **Tambah zat besi, cegah anemia**
-Kandungan zat besinya tinggi banget, bantu produksi sel darah merah — bagus buat yang anemia atau perempuan habis menstruasi.
-5. **Jaga pencernaan**
-Kaya serat pangan, bantu lancarkan BAB dan atasi sembelit.
+Kandungan zat besinya lumayan tinggi, bantu produksi sel darah merah — cocok buat yang anemia atau wanita setelah haid.
+5. **Jaga kesehatan usus**
+Kaya serat pangan, bisa lancarkan pencernaan dan atasi sembelit.
 
-> ⚠️ Catatan: Petai mengandung purin yang cukup tinggi, jadi penderita asam urat harus bijak makannya. Karena efek diuretiknya, setelah makan petai, air seni dan keringat bakal berbau khas — itu normal kok.
+> ⚠️ Catatan: Pete mengandung purin yang cukup tinggi, jadi penderita asam urat harus bijak makannya. Selain itu, karena efek diuretiknya, setelah makan pete air seni dan keringat bakal berbau khas — itu normal banget.
 
-## Di Indonesia, petai juga nggak murah
+## Di Indonesia, Pete Tuh Gak Murah
 
 https://www.instagram.com/reel/DX-iT5Uq2ZZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-Kamu mungkin kaget, petai di Indonesia ternyata bukan bahan murah. Apalagi yang kualitas premium, besar dan padat — **satu tangkai (satu polong) harganya Rp. 25.000** (sekitar USD$1). Satu polong cuma berisi 6–12 biji, jadi beli sedikit aja bisa habis puluhan ribu.
+Kamu mungkin kaget, tapi pete di Indonesia ternyata bukan bahan makanan murah. Apalagi yang kualitas premium, besar dan padat isinya — **satu tangkai (satu polong) bisa Rp. 25.000** (sekitar USD$1). Satu polong biasanya cuma berisi 6–12 biji pete, jadi beli segenggam aja bisa tembus ratusan ribu rupiah.
 
-Kenapa mahal? Karena petai kebanyakan dari Sumatera dan Jawa, tumbuh liar atau semi-budidaya di pinggir hutan. Panennya susah — harus panjat pohon buat ambil polong raksasa sepanjang 30–50 cm. Masa simpannya pendek, gampang memar pas diangkut. Di pasar tradisional, petai segar sering dijual "per tangkai" dan termasuk sayuran musiman kelas menengah ke atas.
+Kenapa mahal? Karena pete kebanyakan berasal dari hutan atau area semi-budidaya di pinggir hutan Sumatera dan Jawa. Panennya susah — harus panjat pohon buat ambil polong raksasa sepanjang 30–50 cm. Ditambah masa simpannya pendek dan gampang rusak saat diangkut, pete segar di pasar tradisional sering dijual "per tangkai" dan masuk kategori sayuran musiman kelas menengah ke atas.
 
-Jadi, lain kali kalau di Indonesia ada yang nawarin kamu makan petai, jangan sungkan — itu tandanya mereka benar-benar tulus ngasih suguhan spesial!
+Jadi kalau lain kali di Indonesia ada yang traktir kamu masakan pete, jangan sungkan — itu tandanya mereka bener-bener tulus menjamu!
 
 {{block:美食}}
 
 ## Bahan Petualangan yang Wajib Dicoba
 
-Petai emang nggak semua orang suka, tapi kayak durian atau natto — begitu kamu berhasil melewati 'pintu bau'-nya, kamu bakal nemuin dunia rasa yang baru banget. Kalau ada kesempatan ke Indonesia, cobain deh sepiring **Nasi Goreng Petai**, atau beli beberapa petai segar terus dimakan mentah sama sambal. Siapa tahu kamu juga bakal kayak kami, dari cemberut jadi senyum, dan akhirnya jatuh cinta sama 'pesona hijau yang wanginya bikin nagih' ini.
+Petai memang nggak semua orang bisa nerima, tapi kayak durian atau natto, begitu kamu berhasil melewati 'pintu bau'-nya, bakal kebuka pintu rasa baru yang bikin nagih. Kalau kamu ke Indonesia, cobain deh sepiring **Nasi Goreng Petai**, atau beli beberapa petai segar terus dimakan mentah sama sambal. Siapa tahu kamu juga bakal kayak kita, dari cemberut jadi senyum, dan akhirnya jatuh cinta sama 'pesona hijau yang wangi banget' ini.
 
-**Kamu udah pernah coba petai? Yuk, komen cerita pengalaman pertamamu!**
+**Kamu udah pernah coba petai? Yuk komen cerita pengalaman pertamamu!**
 
 {{block:一日團}}
