@@ -362,6 +362,17 @@ const socialLinks = [
       <!-- 首頁專屬區塊（分類時隱藏） -->
       <div id="homepage-blocks">
 
+        <!-- 電子書下載 Banner -->
+        <a class="ebook-banner" href="../ebook/峇里島新手完全指南.html">
+          <div class="ebook-banner-text">
+            <p class="ebook-banner-title">峇里島新手完全指南</p>
+            <p class="ebook-banner-subtitle">快速上手版</p>
+          </div>
+          <span class="ebook-banner-cta">
+            立即下載 <span class="ebook-banner-arrow">↓</span>
+          </span>
+        </a>
+
         <!-- 核心價值主張 Hero Section -->
         <div class="value-hero">
           <h1 class="hero-headline">峇里島旅遊一站通</h1>
@@ -1764,6 +1775,67 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .qa-widget-cta:hover { background: var(--accent-hover, #C9303D); color: #fff; }
 
 /* ── 核心價值主張 Hero ── */
+.ebook-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  background: linear-gradient(135deg, #0a3d6b 0%, #1a6fa8 60%, #2c8fc9 100%);
+  color: #fff;
+  padding: 1.1rem 1.5rem;
+  border-radius: 12px;
+  margin-bottom: 1.2rem;
+  text-decoration: none;
+  box-shadow: 0 4px 16px rgba(10,61,107,0.3);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.ebook-banner:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(10,61,107,0.4);
+}
+.ebook-banner-title {
+  font-size: 1.15rem;
+  font-weight: 900;
+  margin: 0;
+  line-height: 1.3;
+}
+.ebook-banner-subtitle {
+  font-size: 0.85rem;
+  margin: 0.15rem 0 0 0;
+  color: #dceeff;
+}
+.ebook-banner-cta {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: linear-gradient(135deg, #f6a01a, #e8730f);
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.95rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.ebook-banner-arrow {
+  display: inline-block;
+}
+@media (max-width: 600px) {
+  .ebook-banner {
+    padding: 0.9rem 1.1rem;
+  }
+  .ebook-banner-title {
+    font-size: 1rem;
+  }
+  .ebook-banner-subtitle {
+    font-size: 0.78rem;
+  }
+  .ebook-banner-cta {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.9rem;
+  }
+}
+
 .value-hero {
   background: linear-gradient(135deg, #F5E0A8 0%, #EDD07A 100%);
   color: #5D4037;
