@@ -1,16 +1,7 @@
 ---
-title: >-
-  Indonesian Stink Beans: The Green Magic Bean That Smells Shocking but Tastes
-  Addictive
+title: 'What Are Stink Beans (Petai)? Taste, How to Eat Them & Killing the Aftersmell'
 slug: petai
-description: >-
-  Dare to try what Indonesians love most? What makes the so-called 'green magic
-  bean' — petai (stink beans) — so irresistible? This article breaks down the
-  unique flavor of Indonesian stink beans, their surprising health benefits, and
-  the best local ways to eat them (like petai stir-fried with shrimp or spicy
-  tempeh). Don't let the smell scare you off — this guide also shows you how to
-  freshen your breath afterward, so you can boldly embark on a taste adventure
-  in Bali!
+description: 'Petai — stink beans — are a green Southeast Asian bean that smells like gas and garlic but tastes sweet and moreish. Here is what petai actually is, what it tastes like, the best Indonesian ways to eat it (petai with prawns, petai fried rice), and how to get rid of the smell afterwards.'
 pubDate: 2026-05-06T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 8

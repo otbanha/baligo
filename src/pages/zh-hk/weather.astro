@@ -7,8 +7,8 @@ import BaliWeather from '../../components/BaliWeather.astro';
 
 const SITE_URL = 'https://gobaligo.id';
 const lang = 'zh-hk';
-const title = '峇里島天氣預報2026｜即時氣溫・7天預報・各地區天氣 - Gobaligo';
-const description = '峇里島即時天氣預報，涵蓋庫塔、烏布、努沙杜瓦三大區域。查詢今日氣溫、降雨機率、風速、UV指數，以及未來7天天氣預報，規劃行程最佳參考。';
+const title = '峇里島天氣2026｜即時氣溫・7天預報・雨季乾季同著咩好 - Gobaligo';
+const description = '峇里島即時天氣同 7 天預報，涵蓋庫塔、烏布、努沙杜瓦。除咗氣溫、降雨機率同 UV 指數，仲整理咗乾季雨季分別、幾月去最好，以及日頭去海邊、烏布山區、參觀廟宇分別應該著咩。';
 
 const hreflangs = [
   { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
@@ -161,6 +161,16 @@ const schema = {
           <li><strong>庫塔 / 水明漾</strong>：海邊氣候，日曬強，UV 指數高，防曬必備</li>
           <li><strong>烏布山區</strong>：海拔較高，氣溫比海邊低 2–4°C，早晚偏涼</li>
           <li><strong>努沙杜瓦</strong>：南端，風浪較小，適合浮潛、水上活動</li>
+        </ul>
+      </div>
+      <div class="weather-tips">
+        <h2>峇里島應該著咩？</h2>
+        <ul>
+          <li><strong>日頭去海邊</strong>：短袖短褲＋涼鞋，防曬系數 50 以上；UV 指數成日過 10，中午盡量搵位避太陽</li>
+          <li><strong>烏布山區</strong>：山區比海邊低 2–4°C，朝早同夜晚建議加件薄外套或者長袖</li>
+          <li><strong>參觀廟宇</strong>：一定要遮住膊頭同膝頭，大部分廟宇門口都有紗籠（Sarong）租</li>
+          <li><strong>雨季（11–3 月）</strong>：下晝陣雨多數係短時間大雨，帶把輕便縮骨遮或者雨衣就夠，唔使雨鞋</li>
+          <li><strong>冷氣同夜晚</strong>：餐廳同車上冷氣通常好勁，隨身帶件薄外套會舒服好多</li>
         </ul>
       </div>
     </main>

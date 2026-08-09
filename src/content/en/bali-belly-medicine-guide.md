@@ -1,9 +1,7 @@
 ---
 slug: bali-belly-medicine-guide
-title: >-
-  How to Self-Treat Bali Belly (Diarrhea/Gastroenteritis/Food Poisoning)? A
-  Guide to Over-the-Counter Remedies for Bali Belly
-description: "\U0001F48A List of Medications Available at Local Pharmacies in Bali (for Bali Belly)"
+title: 'What Is Bali Belly? Symptoms, How Long It Lasts & What to Buy in Bali'
+description: 'Bali Belly is traveller''s diarrhoea — it usually hits 1–3 days after you arrive and clears within 1–3 days. Here are the symptoms, what to buy at a Bali pharmacy (ORS, loperamide, probiotics), how to ask for it, and the red flags that mean you should see a doctor instead.'
 pubDate: 2026-01-02T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
@@ -24,6 +22,17 @@ _srcHash: df4f34483a681932b9f31a772f2b1e58
 **Key Takeaway**: When Bali Belly strikes, **prioritize rehydration over stopping diarrhea**—local pharmacies carry **Oral Rehydration Salts (ORS)** (brands like Oralit, Hydralyte, which are the core treatment and more important than simply stopping diarrhea). For mild symptoms, pair with an adsorbent anti-diarrheal (Norit, Entrostop). Sports drinks cannot fully replace ORS. Below is a complete list of self-treatment medications and when to see a doctor.
 
 After arriving in Bali, the biggest fear isn't getting sunburned—it's the sudden onset of **Bali Belly**. Whether it's from dietary changes, bacterial infection, or a sensitive stomach, the symptoms can really derail your trip. This article compiles a self-care checklist of items you can buy at local pharmacies in Bali, covering rehydration, anti-diarrheals, fever reducers, and when to seek medical help—so you're prepared and won't panic.
+
+## What Is Bali Belly? (Symptoms, Causes, How Long It Lasts)
+
+- **What it is:** Bali Belly is simply traveller's diarrhoea. It is not a specific disease — it is what people call the stomach upset you get from food or water contaminated with bacteria.
+- **When it hits:** usually 1–3 days after you arrive, though it can happen any day of the trip.
+- **Typical symptoms:** watery diarrhoea, stomach cramps and nausea; some people also get a mild fever and feel wiped out.
+- **How long it lasts:** most people recover on their own within 1–3 days, and antibiotics usually are not needed as long as you keep fluids up.
+- **The single most important thing:** rehydrate first (oral rehydration salts), rather than reaching straight for an anti-diarrhoeal.
+- **When to see a doctor instead:** blood in your stool, a persistent high fever, signs of serious dehydration (passing very little urine, dizzy when you stand), or no improvement after 3 days.
+
+Below is what you can actually buy at a Bali pharmacy, and how to ask for it.
 
 ## Bali Belly: Prevention is Better Than Cure
 

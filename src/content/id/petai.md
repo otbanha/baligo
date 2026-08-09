@@ -1,13 +1,7 @@
 ---
-title: 'Petai Indonesia: Kacang Ajaib yang Baunya Bikin Kaget, Tapi Bikin Ketagihan'
+title: 'Apa Itu Petai? Rasa, Cara Makan, dan Cara Menghilangkan Bau Setelahnya'
 slug: petai
-description: >-
-  Berani cobain favorit orang Indonesia? Apa sih istimewanya petai yang dijuluki
-  'kacang ajaib hijau' ini? Artikel ini bakal kupas tuntas rasa unik petai,
-  manfaat kesehatannya yang luar biasa, dan cara makan paling recommended
-  (misalnya tumis petai udang, sambal petai pedas). Jangan kabur dulu gara-gara
-  baunya, panduan ini juga kasih tips hilangin bau mulut setelah makan, biar
-  kamu berani petualang rasa di Bali!
+description: 'Petai adalah kacang hijau pipih khas Asia Tenggara: baunya menyengat, tetapi rasanya manis dan bikin ketagihan. Ini penjelasan apa itu petai, bagaimana rasanya, olahan terbaik ala Indonesia (petai udang, nasi goreng petai), dan cara cepat menghilangkan bau setelah menyantapnya.'
 pubDate: 2026-05-06T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 8

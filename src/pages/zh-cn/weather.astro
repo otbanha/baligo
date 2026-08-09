@@ -7,8 +7,8 @@ import BaliWeather from '../../components/BaliWeather.astro';
 
 const SITE_URL = 'https://gobaligo.id';
 const lang = 'zh-cn';
-const title = '巴厘岛天气预报2026｜实时气温・7天预报・各地区天气 - Gobaligo';
-const description = '巴厘岛实时天气预报，涵盖库塔、乌布、努沙杜瓦三大区域。查询今日气温、降雨概率、风速、UV指数，以及未来7天天气预报，规划行程最佳参考。';
+const title = '巴厘岛天气2026｜实时气温・7天预报・雨季干季与该穿什么 - Gobaligo';
+const description = '巴厘岛实时天气与 7 天预报，涵盖库塔、乌布、努沙杜瓦。除了气温、降雨概率与 UV 指数，也整理干季雨季差别、几月去最好，以及白天海边、乌布山区、参观寺庙分别该穿什么。';
 
 const hreflangs = [
   { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
@@ -161,6 +161,16 @@ const schema = {
           <li><strong>库塔 / 水明漾</strong>：海边气候，日照强，UV 指数高，防晒必备</li>
           <li><strong>乌布山区</strong>：海拔较高，气温比海边低 2–4°C，早晚偏凉</li>
           <li><strong>努沙杜瓦</strong>：南端，风浪较小，适合浮潜、水上活动</li>
+        </ul>
+      </div>
+      <div class="weather-tips">
+        <h2>巴厘岛该穿什么？</h2>
+        <ul>
+          <li><strong>白天海边</strong>：短袖短裤＋凉鞋，防晒系数 50 以上；UV 指数常破 10，中午尽量找遮荫</li>
+          <li><strong>乌布山区</strong>：山区比海边低 2–4°C，早晚建议加一件薄外套或长袖</li>
+          <li><strong>参观寺庙</strong>：必须遮住肩膀与膝盖，多数寺庙门口有纱笼（Sarong）可租借</li>
+          <li><strong>雨季（11–3 月）</strong>：午后阵雨多为短时强降雨，带一把轻便折伞或雨衣即可，不需要雨鞋</li>
+          <li><strong>空调与夜间</strong>：餐厅与车上空调通常很强，随身带一件薄外套会舒服很多</li>
         </ul>
       </div>
     </main>

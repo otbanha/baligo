@@ -1,9 +1,7 @@
 ---
 slug: bali-belly-medicine-guide
-title: >-
-  Bali Belly: Diare/Gastroenteritis/Mabuk Air di Bali — Cara Menolong Diri
-  Sendiri? Panduan Obat Pereda Bali Belly
-description: "\U0001F48A Daftar Obat yang Bisa Dibeli di Apotek Lokal Bali (untuk Bali Belly)"
+title: 'Apa Itu Bali Belly? Gejala, Berapa Lama, dan Obat yang Bisa Dibeli di Bali'
+description: 'Bali Belly adalah diare wisatawan yang biasanya muncul 1–3 hari setelah tiba dan reda dalam 1–3 hari. Ini gejalanya, obat yang bisa dibeli di apotek Bali (ORS, loperamide, probiotik), cara menanyakannya, serta tanda bahaya yang mengharuskan kamu ke dokter.'
 pubDate: 2026-01-02T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
@@ -24,6 +22,17 @@ _srcHash: df4f34483a681932b9f31a772f2b1e58
 **Kesimpulan Awal**: Saat Bali Belly (diare Bali) menyerang, **prioritas utama adalah rehidrasi, bukan menghentikan diare** — di apotek lokal bisa beli **Oralit (ORS)** (merek Oralit, Hydralyte, ini inti pengobatan, lebih penting daripada sekadar obat anti-diare), untuk gejala ringan bisa dikombinasikan dengan obat anti-diare jenis adsorben (Norit, Entrostop). Minuman olahraga tidak bisa sepenuhnya menggantikan ORS. Berikut daftar lengkap obat pertolongan mandiri dan kapan harus ke dokter.
 
 Setelah tiba di Bali, yang paling ditakutin bukan kulit jadi hitam, tapi **Bali Belly (diare Bali)** yang tiba-tiba menyerang. Entah karena makanan yang beda, infeksi bakteri, atau perut yang sensitif, begitu gejalanya muncul, liburan bisa berantakan. Artikel ini bakal bantu kamu menyusun **daftar pertolongan mandiri yang bisa dibeli di apotek lokal Bali**, mulai dari rehidrasi, anti-diare, penurun panas, sampai kapan harus ke dokter — semuanya diurus biar nggak panik kalau kena!
+
+## Apa Itu Bali Belly? (Gejala, Penyebab, Berapa Lama)
+
+- **Apa itu:** Bali Belly adalah diare wisatawan. Ini bukan nama penyakit tertentu, melainkan sebutan untuk gangguan pencernaan akibat makanan atau air yang terkontaminasi bakteri.
+- **Kapan muncul:** biasanya 1–3 hari setelah tiba, tetapi bisa terjadi kapan saja selama perjalanan.
+- **Gejala umum:** diare cair, kram perut, dan mual; sebagian orang juga demam ringan dan lemas.
+- **Berapa lama:** kebanyakan orang pulih sendiri dalam 1–3 hari, dan antibiotik umumnya tidak diperlukan selama cairan tubuh tercukupi.
+- **Yang paling penting:** utamakan rehidrasi (oralit), bukan langsung minum obat antidiare.
+- **Kapan harus ke dokter:** ada darah pada tinja, demam tinggi terus-menerus, tanda dehidrasi berat (urine sangat sedikit, pusing saat berdiri), atau tidak membaik setelah 3 hari.
+
+Berikut daftar obat yang benar-benar tersedia di apotek Bali, dan cara menanyakannya.
 
 ## Mencegah Lebih Baik daripada Mengobati Bali Belly
 
