@@ -1,10 +1,7 @@
 ---
 title: 'Nyepi 2027 in Bali: Exact Date & What Actually Closes'
 slug: Nyepi-ogoh-ogoh-2027
-description: >-
-  Bali's Day of Silence returns in March 2027 with an island lockdown and
-  internet blackout. Here's the exact date, Ogoh-ogoh schedule, and open
-  resorts.
+description: 'Nyepi 2027 falls on Tuesday 9 March, 06:00 to 06:00 on 10 March — not 8 March, which is the Ogoh-ogoh parade night. Bali shuts down for 24 hours: airport closed, mobile data off. Full timeline, best parade viewing spots, and the resorts that stay open.'
 pubDate: 2026-05-30T00:00:00.000Z
 updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: 23
@@ -21,6 +18,17 @@ lang: en
 _srcHash: aff5537dc8c4eda2b329aa0c65f9dd60
 ---
 https://www.youtube.com/watch?v=ZAGQPxwfs4s
+
+## When Is Nyepi 2027? Exact Dates and Times
+
+- **Day of Silence (Nyepi):** Tuesday 9 March 2027, 06:00 → Wednesday 10 March, 06:00 — a full 24 hours
+- **Ogoh-ogoh parade:** evening of Monday 8 March 2027; roads start closing around 16:00
+- **Airport:** closed for the full 24 hours, no flights in or out
+- **Mobile data:** switched off island-wide; hotel Wi-Fi usually still works, but keep it low-key
+- **You must stay inside**, with lights off and curtains drawn after dark
+- **From 06:00 on 10 March** the island gradually returns to normal
+
+Several sites list Nyepi 2027 as 8 March. **That is the Ogoh-ogoh parade night — Nyepi itself is 9 March.** Double-check before you book flights.
 
 Nyepi Day in Bali is one of the island's most unique and sacred festivals—suddenly transforming from a buzzing paradise into 'the world's quietest day,' full of ritual and meaning.
 
@@ -166,4 +174,4 @@ Also note: In 2027, Nyepi coincides with the **Eid al-Fitr holiday**, just like 
 
 ## Other Balinese Festivals
 
-Check out the 'Complete Guide to 2027 Indonesian Public Holidays & Balinese Festivals: Key Event Dates at a Glance' (not yet written)
+For the rest of the year, see the [Bali festival and Indonesian public holiday calendar](/en/blog/2026-bali-festival-guide/) — every major date, plus what to expect at each one.

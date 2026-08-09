@@ -361,6 +361,76 @@ if (cats.includes('新手指南') || cats.includes('旅行技巧')) {
   }
 }
 
+// ── 固定日期節慶 Event ───────────────────────────────────────────────────────
+// 這類節慶在 SERP 上常出現互相矛盾的日期（Nyepi 2027 就有多家寫成 3/8，實為前夜
+// 的 Ogoh-ogoh 遊行），Event schema 是最強的日期消歧訊號。日期以 slug 指定，
+// 避免誤套到其他文章；時區用峇里島的 WITA (UTC+8)。
+type FestivalEvent = {
+  start: string;
+  end: string;
+  eve?: { start: string; end: string };
+  names: Record<string, string>;
+  eveNames?: Record<string, string>;
+};
+
+const FESTIVAL_EVENTS: Record<string, FestivalEvent> = {
+  'Nyepi-ogoh-ogoh-2027': {
+    start: '2027-03-09T06:00:00+08:00',
+    end:   '2027-03-10T06:00:00+08:00',
+    eve:   { start: '2027-03-08T16:00:00+08:00', end: '2027-03-08T23:59:00+08:00' },
+    names: {
+      'zh-tw': '2027 峇里島靜居日（Nyepi）',
+      'zh-hk': '2027 峇里島靜居日（Nyepi）',
+      'zh-cn': '2027 巴厘岛静居日（Nyepi）',
+      'en':    'Nyepi 2027 — Bali Day of Silence',
+      'id':    'Hari Raya Nyepi 2027',
+    },
+    eveNames: {
+      'zh-tw': '2027 Ogoh-ogoh 遊行（靜居日前夜）',
+      'zh-hk': '2027 Ogoh-ogoh 遊行（靜居日前夜）',
+      'zh-cn': '2027 Ogoh-ogoh 游行（静居日前夜）',
+      'en':    'Ogoh-ogoh Parade 2027 (Nyepi Eve)',
+      'id':    'Pawai Ogoh-ogoh 2027 (Malam Pengerupukan)',
+    },
+  },
+};
+
+const festival = slug ? FESTIVAL_EVENTS[slug] : undefined;
+if (festival) {
+  const evLang = (lang && lang !== 'blog') ? lang : 'zh-tw';
+  const baliPlace = {
+    "@type": "Place",
+    "name": "Bali",
+    "address": { "@type": "PostalAddress", "addressRegion": "Bali", "addressCountry": "ID" },
+  };
+  const common = {
+    "@context": "https://schema.org",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "isAccessibleForFree": true,
+    "location": baliPlace,
+    "image": ogImage,
+    "url": articleUrl,
+  };
+  extraSchemas.push({
+    ...common,
+    "@type": "Event",
+    "name": festival.names[evLang] ?? festival.names['en'],
+    "description": seoDesc,
+    "startDate": festival.start,
+    "endDate": festival.end,
+  });
+  if (festival.eve && festival.eveNames) {
+    extraSchemas.push({
+      ...common,
+      "@type": "Event",
+      "name": festival.eveNames[evLang] ?? festival.eveNames['en'],
+      "startDate": festival.eve.start,
+      "endDate": festival.eve.end,
+    });
+  }
+}
+
 // ── [美食景點活動] LocalBusiness ─────────────────────────────────────────────
 if (cats.includes('美食景點活動') || cats.includes('美食景点活动')) {
   extraSchemas.push({
