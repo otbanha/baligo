@@ -1,15 +1,7 @@
 ---
 slug: indonesia-dry-season-2026
-title: >-
-  2026 Musim Hujan Indonesia Berakhir Kapan? Prediksi Terbaru BMKG: Panduan
-  Wisata Musim Kemarau di Bali & Jawa
-description: >-
-  BMKG (Badan Meteorologi, Klimatologi, dan Geofisika Indonesia) memperkirakan
-  musim hujan 2026 bakal berakhir lebih awal! Artikel ini udah merangkum jadwal
-  pergantian musim terbaru di Pulau Jawa dan Bali. Penasaran gimana perubahan
-  cuaca dari April sampai Oktober plus rencana perjalanan lintas pulau? Yuk,
-  simak analisis kami, raih momen liburan paling kering dan stabil tahun ini,
-  dan mulai petualangan bebas hujanmu di Indonesia.
+title: 'Musim Hujan Bali 2026–27: Bulan per Bulan dan Kapan Berakhir'
+description: 'Musim hujan Bali berlangsung November hingga Maret, musim kemarau April hingga Oktober; Januari paling basah, Agustus paling kering. Ini curah hujan bulan per bulan, seberapa besar hujan benar-benar mengganggu liburan, kawasan mana yang lebih kering, dan prakiraan terbaru BMKG.'
 pubDate: 2026-04-03T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
@@ -39,6 +31,29 @@ Menjelang April 2026, BMKG (Badan Meteorologi, Klimatologi, dan Geofisika Indone
 ![2026 印尼雨季何時結束？BMKG 最新預測：峇里島、爪哇島旱季旅遊攻略](https://images.gobaligo.id/images/2026-04/1775175561478-mixcollage-30-may-2025-09-36-pm-8249.jpg)
 
 ***
+
+## Kapan Musim Hujan di Bali?
+
+**Musim hujan Bali berlangsung November hingga Maret, dan musim kemarau April hingga Oktober.** Januari paling basah (sekitar 388 mm dalam kurang lebih 19 hari hujan), Agustus paling kering (sekitar 16 mm dalam 2 hari).
+
+Yang tidak terlihat dari angka adalah bagaimana hujan Bali sebenarnya turun. Di luar puncak Januari–Februari, hujan umumnya datang deras pada sore hari dan reda dalam satu dua jam, bukan gerimis seharian, dan pagi hari musim hujan justru sering cerah. Karena itu banyak orang tetap berlibur pada November, Desember, dan Maret tanpa banyak gangguan — cukup taruh aktivitas luar ruang di pagi hari dan sisakan sore yang fleksibel.
+
+| Bulan | Curah hujan | Hari hujan | Musim |
+|---|---|---|---|
+| Januari | 388 mm | 19 hari | Hujan — paling basah |
+| Februari | 299 mm | 17 hari | Hujan |
+| Maret | 214 mm | 13 hari | Hujan, mulai mereda |
+| April | 115 mm | 9 hari | Peralihan ke kemarau |
+| Mei | 73 mm | 7 hari | Kemarau |
+| Juni | 51 mm | 5 hari | Kemarau |
+| Juli | 30 mm | 3 hari | Kemarau — musim ramai |
+| Agustus | 16 mm | 2 hari | Kemarau — paling kering |
+| September | 41 mm | 3 hari | Kemarau |
+| Oktober | 68 mm | 5 hari | Peralihan ke hujan |
+| November | 149 mm | 10 hari | Awal musim hujan |
+| Desember | 299 mm | 16 hari | Hujan — puncak liburan |
+
+Angka di atas adalah rata-rata jangka panjang untuk Denpasar di Bali selatan. Ubud dan dataran tinggi tengah lebih basah; Semenanjung Bukit di sekitar Uluwatu dan pesisir utara dekat Lovina jauh lebih kering.
 
 ### **Jawa: Menelusuri Jejak Sejarah dan Alam**
 

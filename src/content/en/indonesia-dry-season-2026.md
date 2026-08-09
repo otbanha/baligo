@@ -1,9 +1,7 @@
 ---
 slug: indonesia-dry-season-2026
-title: 'Bali Dry Season 2026: When It Really Starts (Local''s Guide)'
-description: >-
-  BMKG's 2026 forecast: Bali and Java's dry season starts earlier than usual.
-  Here's the month breakdown and how to plan an island-hopping trip around it.
+title: 'Bali Rainy Season 2026–27: Month by Month, and When It Ends'
+description: 'Bali''s rainy season runs November to March and the dry season April to October, with January the wettest month and August the driest. Here is the month-by-month rainfall, how much rain really disrupts a trip, which parts of the island stay drier, and BMKG''s latest forecast.'
 pubDate: 2026-04-03T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
@@ -26,9 +24,7 @@ embeds: []
 lang: en
 _srcHash: 661d7897ef592eb07befca4e8cda2374
 ---
-**Bottom Line First**: BMKG predicts the 2026 rainy season will **end early**, with the dry season golden period starting in April—**summit success rates for Mount Bromo in Java will significantly improve**, and **water visibility in Bali will increase, making it ideal for diving and surfing**. If you're planning a 
-
- this is the best window: Java for culture and volcanoes (Borobudur, Mount Bromo), Bali for relaxation (Ubud rice terraces, southern coast resorts).
+**Bottom Line First**: BMKG predicts the 2026 rainy season will **end early**, with the dry season golden period starting in April—**summit success rates for Mount Bromo in Java will significantly improve**, and **water visibility in Bali will increase, making it ideal for diving and surfing**. If you're planning a two-island trip across the strait, this is the best window: Java for culture and volcanoes (Borobudur, Mount Bromo), Bali for relaxation (Ubud rice terraces, southern coast resorts).
 
 ![2026 印尼雨季何時結束？BMKG 最新預測：峇里島、爪哇島旱季旅遊攻略](https://images.gobaligo.id/images/2026-04/1775175561478-mixcollage-30-may-2025-09-36-pm-8249.jpg)
 
@@ -37,6 +33,29 @@ _srcHash: 661d7897ef592eb07befca4e8cda2374
 As April 2026 approaches, Indonesia's Meteorology, Climatology, and Geophysics Agency (BMKG) has signaled the end of the rainy season. For travelers who love deep exploration, now is the perfect time to plan a 
 
  crossing between two islands. On one side is **Java**, rich in cultural heritage and majestic volcanoes; on the other is **Bali**, the epitome of island paradise. Though separated by just a narrow strait, these two islands have vastly different personalities.
+
+## When Is the Rainy Season in Bali?
+
+**Bali's rainy season runs November to March; the dry season runs April to October.** January is the wettest month (around 388 mm across roughly 19 rainy days) and August is the driest (about 16 mm across 2 days).
+
+What the numbers do not show is how Bali rain actually behaves. Outside the January–February peak it usually arrives as a heavy downpour in the late afternoon that clears within an hour or two, rather than all-day drizzle, and wet-season mornings are often bright. That is why plenty of people still travel in November, December and March without much disruption — you simply put outdoor plans in the morning and keep the afternoon flexible.
+
+| Month | Rainfall | Rainy days | Season |
+|---|---|---|---|
+| January | 388 mm | 19 days | Rainy — wettest month |
+| February | 299 mm | 17 days | Rainy |
+| March | 214 mm | 13 days | Rainy, tapering off |
+| April | 115 mm | 9 days | Transition to dry |
+| May | 73 mm | 7 days | Dry |
+| June | 51 mm | 5 days | Dry |
+| July | 30 mm | 3 days | Dry — peak season |
+| August | 16 mm | 2 days | Dry — driest month |
+| September | 41 mm | 3 days | Dry |
+| October | 68 mm | 5 days | Transition to rainy |
+| November | 149 mm | 10 days | Rainy season begins |
+| December | 299 mm | 16 days | Rainy — holiday peak |
+
+Figures are long-term averages for Denpasar in south Bali. Ubud and the central highlands are consistently wetter; the Bukit peninsula around Uluwatu and the north coast near Lovina are noticeably drier.
 
 ### **Java: Stepping into the Fabric of History and Nature**
 
