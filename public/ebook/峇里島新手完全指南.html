@@ -1,0 +1,1126 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>峇里島新手完全指南</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --primary-color: #1F3A6C;
+            --secondary-color: #D4AF37;
+            --accent-color: #FF6B6B;
+            --bg-color: #FFFAF0;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, var(--bg-color) 0%, #f5f0e8 100%);
+            min-height: 100vh;
+        }
+        
+        /* 通用樣式 */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        a {
+            color: var(--secondary-color);
+            text-decoration: none;
+            font-weight: 600;
+            border-bottom: 2px solid transparent;
+            transition: border 0.3s;
+        }
+        
+        a:hover {
+            border-bottom: 2px solid var(--secondary-color);
+        }
+        
+        button {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 600;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(31, 58, 108, 0.3);
+        }
+        
+        /* 頂部導航 */
+        header {
+            background: linear-gradient(135deg, var(--primary-color), #2d5a8c);
+            color: white;
+            padding: 20px 0;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .logo {
+            font-size: 24px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .nav-buttons {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .nav-buttons button {
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(255, 255, 255, 0.5);
+        }
+        
+        .nav-buttons button:hover {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: white;
+        }
+        
+        /* 主要內容 */
+        main {
+            margin: 40px auto;
+        }
+        
+        /* 封面頁 */
+        .cover {
+            background: linear-gradient(135deg, var(--primary-color) 0%, #2d5a8c 100%);
+            color: white;
+            padding: 80px 40px;
+            text-align: center;
+            border-radius: 16px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 40px rgba(31, 58, 108, 0.3);
+        }
+        
+        .cover h1 {
+            font-size: 3.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        
+        .cover .subtitle {
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            opacity: 0.95;
+        }
+        
+        .cover .meta {
+            font-size: 1.1rem;
+            opacity: 0.85;
+            margin-bottom: 30px;
+        }
+        
+        .cover-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+            padding: 30px 0;
+            border-top: 2px solid rgba(255, 255, 255, 0.3);
+            border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+        }
+        
+        .stat-item {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+        }
+        
+        .stat-label {
+            font-size: 0.95rem;
+            opacity: 0.9;
+        }
+        
+        /* 章節卡片 */
+        .chapter {
+            background: white;
+            padding: 60px 40px;
+            margin-bottom: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+            page-break-after: always;
+        }
+        
+        .chapter-header {
+            text-align: center;
+            margin-bottom: 50px;
+            padding-bottom: 30px;
+            border-bottom: 3px solid var(--secondary-color);
+        }
+        
+        .chapter-number {
+            color: var(--secondary-color);
+            font-size: 1rem;
+            font-weight: 600;
+            letter-spacing: 2px;
+        }
+        
+        .chapter h1 {
+            font-size: 2.8rem;
+            color: var(--primary-color);
+            margin: 15px 0 10px 0;
+        }
+        
+        .chapter-subtitle {
+            font-size: 1.3rem;
+            color: #888;
+            font-weight: 400;
+        }
+        
+        h2 {
+            color: var(--primary-color);
+            margin-top: 40px;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+            position: relative;
+            padding-left: 20px;
+        }
+        
+        h2:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 5px;
+            height: 1.8rem;
+            background: linear-gradient(180deg, var(--secondary-color), transparent);
+        }
+        
+        h3 {
+            color: var(--primary-color);
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+        
+        .content-box {
+            background: linear-gradient(135deg, rgba(31, 58, 108, 0.05), rgba(212, 175, 55, 0.05));
+            border-left: 4px solid var(--secondary-color);
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 8px;
+        }
+        
+        .highlight {
+            background: rgba(212, 175, 55, 0.15);
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid var(--secondary-color);
+        }
+        
+        .warning {
+            background: rgba(255, 107, 107, 0.1);
+            border-left: 4px solid var(--accent-color);
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .tip {
+            background: rgba(46, 204, 113, 0.1);
+            border-left: 4px solid #2ecc71;
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        th {
+            background: linear-gradient(135deg, var(--primary-color), #2d5a8c);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+        
+        tr:hover {
+            background: rgba(212, 175, 55, 0.05);
+        }
+        
+        /* 新聞列表 */
+        .news-list {
+            list-style: none;
+            margin: 20px 0;
+        }
+        
+        .news-item {
+            padding: 15px;
+            margin-bottom: 10px;
+            background: #f9f9f9;
+            border-left: 4px solid var(--secondary-color);
+            border-radius: 6px;
+            transition: all 0.3s;
+        }
+        
+        .news-item:hover {
+            background: rgba(212, 175, 55, 0.1);
+            padding-left: 20px;
+        }
+        
+        .news-item a {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+        
+        .news-date {
+            font-size: 0.85rem;
+            color: #888;
+        }
+        
+        /* 連結指南 */
+        .guide-link {
+            display: inline-block;
+            background: linear-gradient(135deg, rgba(31, 58, 108, 0.1), rgba(212, 175, 55, 0.1));
+            padding: 15px 25px;
+            border-radius: 8px;
+            margin: 10px 5px;
+            border: 2px solid var(--secondary-color);
+            transition: all 0.3s;
+        }
+        
+        .guide-link:hover {
+            background: linear-gradient(135deg, var(--secondary-color), var(--primary-color));
+            color: white;
+        }
+        
+        /* 頁尾 */
+        footer {
+            background: linear-gradient(135deg, var(--primary-color), #2d5a8c);
+            color: white;
+            padding: 40px;
+            margin-top: 60px;
+            text-align: center;
+        }
+        
+        .footer-content {
+            margin-bottom: 20px;
+        }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        
+        .social-links a {
+            color: var(--secondary-color);
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+        
+        .social-links a:hover {
+            transform: scale(1.1);
+        }
+        
+        /* 響應式設計 */
+        @media (max-width: 768px) {
+            .cover h1 {
+                font-size: 2.2rem;
+            }
+            
+            .cover .subtitle {
+                font-size: 1.1rem;
+            }
+            
+            .chapter {
+                padding: 30px 20px;
+            }
+            
+            .chapter h1 {
+                font-size: 2rem;
+            }
+            
+            h2 {
+                font-size: 1.4rem;
+            }
+            
+            table {
+                font-size: 0.9rem;
+            }
+            
+            th, td {
+                padding: 10px;
+            }
+            
+            .nav-buttons {
+                gap: 10px;
+            }
+            
+            .nav-buttons button {
+                padding: 10px 16px;
+                font-size: 0.9rem;
+            }
+            
+            .social-links {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+        
+        /* 列印樣式 */
+        @media print {
+            body {
+                background: white;
+            }
+            
+            header {
+                position: static;
+            }
+            
+            .nav-buttons {
+                display: none;
+            }
+            
+            .chapter {
+                page-break-after: always;
+                box-shadow: none;
+                border: none;
+            }
+            
+            button {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 頂部導航 -->
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <span>🌴</span>
+                    <span>峇里島新手完全指南</span>
+                </div>
+                <div class="nav-buttons">
+                    <button onclick="shareToFacebook()">👍 分享</button>
+                    <button onclick="printPage()">🖨️ 列印</button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主要內容 -->
+    <main class="container">
+        <!-- 封面頁 -->
+        <div class="cover">
+            <h1>峇里島新手完全指南</h1>
+            <div class="subtitle">800+ 文章精華｜新手到老手的完全攻略</div>
+            <div class="meta">
+                <p>Go Bali Go 峇里島旅遊攻略 | 2026年版</p>
+            </div>
+        </div>
+
+        <!-- 第0章：新手快速開始 -->
+        <div class="chapter" id="chapter-0">
+            <div class="chapter-header">
+                <div class="chapter-number">新手必讀</div>
+                <h1>行程規劃快速開始</h1>
+                <div class="chapter-subtitle">5分鐘快速規劃你的峇里島行程</div>
+            </div>
+            
+            <p>第一次前往峇里島，或是還不是很熟悉峇里島的旅客？不用擔心！我們為您準備了「行程規劃工具」，能快速幫助您根據時間、預算和興趣偏好，規劃出專屬於你的完美行程。</p>
+            
+            <div class="guide-link" style="text-align: center; margin: 40px 0;">
+                <p style="font-size: 1.1rem; margin-bottom: 20px;">
+                    <strong>👇 立即開始規劃你的峇里島之旅</strong>
+                </p>
+                <a href="https://gobaligo.id/trip-planner/" target="_blank" style="font-size: 1.2rem; padding: 20px 40px; background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)); color: white; border-radius: 8px; display: inline-block; font-weight: 600;">
+                    🗺️ 前往行程規劃工具
+                </a>
+            </div>
+            
+            <h2>🎯 行程規劃工具能幫你什麼？</h2>
+            
+            <div class="content-box">
+                <h3>✅ 節省規劃時間</h3>
+                <p>只需 5 分鐘，根據你的時間、預算和興趣回答幾個簡單問題，工具就會自動為你推薦最適合的行程安排。</p>
+            </div>
+            
+            <div class="content-box">
+                <h3>✅ 客製化行程建議</h3>
+                <p>無論你是文化愛好者、冒險家、還是度假放鬆型旅客，系統都能根據你的偏好推薦景點、活動和住宿區域。</p>
+            </div>
+            
+            <div class="tip">
+                <strong>💡 小提示：</strong> 完成行程規劃後，可以搭配本指南閱讀，了解更多詳細資訊，如簽證、交通、住宿等。
+            </div>
+        </div>
+
+        <!-- 第1章：行前準備 -->
+        <div class="chapter" id="chapter-1">
+            <div class="chapter-header">
+                <div class="chapter-number">第 1 章</div>
+                <h1>行前60天準備清單</h1>
+                <div class="chapter-subtitle">第一次去的人不會迷茫</div>
+            </div>
+            
+            <p>成功的旅行從充分的準備開始。這一章將幫助你建立一份完整的行前準備清單，確保出發時萬無一失。</p>
+            
+            <h2>📋 行前檢查清單</h2>
+            
+            <div class="content-box">
+                <h3>護照 & 簽證</h3>
+                <ul>
+                    <li>✓ 確認護照有效期至少 6 個月以上</li>
+                    <li>✓ 確認護照簽證頁空白頁至少 1 頁以上</li>
+                    <li>✓ 申請 eVOA 電子簽證或預計落地簽</li>
+                </ul>
+            </div>
+            
+            <div class="content-box">
+                <h3>機票 & 住宿</h3>
+                <ul>
+                    <li>✓ 預訂機票（提前 30-40 天）</li>
+                    <li>✓ 預訂住宿（<a href="https://gobaligo.id/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" target="_blank">查看 300+ 精選住宿</a>）</li>
+                    <li>✓ 預訂包車司機（<a href="https://gobaligo.id/blog/bali-private-car-drivers-guide/" target="_blank">網友評鑑司機名人榜</a>）</li>
+                </ul>
+            </div>
+            
+            <div class="content-box">
+                <h3>保險 & 金融</h3>
+                <ul>
+                    <li>✓ 購買旅遊保險</li>
+                    <li>✓ 通知銀行信用卡將出國旅遊</li>
+                    <li>✓ 準備足夠現金或確認 ATM 提款方式</li>
+                </ul>
+            </div>
+            
+            <div class="content-box">
+                <h3>行程 & 打包</h3>
+                <ul>
+                    <li>✓ 規劃詳細行程安排</li>
+                    <li>✓ 打包行李、檢查證件</li>
+                    <li>✓ 充電所有電子產品</li>
+                </ul>
+            </div>
+            
+            <div class="content-box">
+                <h3>出發前最後確認</h3>
+                <ul>
+                    <li>✓ 確認航班時間、飯店預訂確認碼、司機聯絡方式</li>
+                    <li>✓ 檢查護照、簽證、登機證、保險單</li>
+                </ul>
+            </div>
+            
+            <h2>💊 常備藥品清單</h2>
+            
+            <div class="highlight">
+                <p>峇里島氣候濕熱，最常見的健康問題包括水土不服、蚊蟲叮咬和消化不適。建議準備以下藥品：</p>
+                <ul style="margin-top: 15px;">
+                    <li><strong>腸胃藥：</strong>正露丸、便秘藥、止瀉藥</li>
+                    <li><strong>感冒藥：</strong>感冒糖漿、喉嚨糖</li>
+                    <li><strong>外傷用藥：</strong>消毒水、優碘、OK繃、紗布</li>
+                    <li><strong>過敏藥：</strong>抗組織胺、眼藥水</li>
+                    <li><strong>止痛藥：</strong>普拿疼、肌肉酸痛貼布</li>
+                    <li><strong>防蚊用品：</strong>防蚊液、蚊香、防蚊貼</li>
+                </ul>
+            </div>
+            
+            <h2>🎒 行李打包指南</h2>
+            
+            <table>
+                <tr>
+                    <th>分類</th>
+                    <th>必帶物品</th>
+                    <th>數量</th>
+                </tr>
+                <tr>
+                    <td><strong>衣服</strong></td>
+                    <td>T恤、短褲、連身裙、泳衣、輕薄外套</td>
+                    <td>按天數+1</td>
+                </tr>
+                <tr>
+                    <td><strong>鞋類</strong></td>
+                    <td>涼鞋、運動鞋、夾腳拖</td>
+                    <td>2-3 雙</td>
+                </tr>
+                <tr>
+                    <td><strong>盥洗用品</strong></td>
+                    <td>牙刷、牙膏、洗髮精、身體乳、防曬霜</td>
+                    <td>旅行瓶</td>
+                </tr>
+                <tr>
+                    <td><strong>藥品</strong></td>
+                    <td>感冒藥、胃藥、止瀉藥、暈車藥、OK繃</td>
+                    <td>常用量</td>
+                </tr>
+                <tr>
+                    <td><strong>電子產品</strong></td>
+                    <td>手機、充電器、行動電源、相機</td>
+                    <td>1 套</td>
+                </tr>
+                <tr>
+                    <td><strong>文件</strong></td>
+                    <td>護照、簽證、保險單、機票確認單</td>
+                    <td>1 份正本+1 份影本</td>
+                </tr>
+            </table>
+        </div>
+
+        <!-- 第2章：簽證通關（修正版） -->
+        <div class="chapter" id="chapter-2">
+            <div class="chapter-header">
+                <div class="chapter-number">第 2 章</div>
+                <h1>簽證通關一次通</h1>
+                <div class="chapter-subtitle">終結所有簽證疑問</div>
+            </div>
+            
+            <p>台灣護照進入印尼需要申請簽證。本章將詳細介紹整個簽證流程。</p>
+            
+            <h2>📝 簽證方式比較（修正版）</h2>
+            
+            <div class="warning">
+                <strong>⚠️ 重要更新：</strong> 台灣護照<strong>沒有免簽待遇</strong>。必須申請 eVOA 或 VoA 簽證才能進入印尼。
+            </div>
+            
+            <table>
+                <tr>
+                    <th>簽證方式</th>
+                    <th>eVOA (電子簽)</th>
+                    <th>VoA (落地簽)</th>
+                </tr>
+                <tr>
+                    <td><strong>費用</strong></td>
+                    <td>Rp 500,000 (固定)</td>
+                    <td>Rp 500,000 (固定)</td>
+                </tr>
+                <tr>
+                    <td><strong>有效期</strong></td>
+                    <td>30 天（核准後90天內入境）</td>
+                    <td>30 天</td>
+                </tr>
+                <tr>
+                    <td><strong>申請時間</strong></td>
+                    <td>5 分鐘線上申請</td>
+                    <td>現場排隊 20-60 分鐘</td>
+                </tr>
+                <tr>
+                    <td><strong>核准時間</strong></td>
+                    <td>工作日隨辦隨發</td>
+                    <td>現場當場發放</td>
+                </tr>
+                <tr>
+                    <td><strong>推薦度</strong></td>
+                    <td>⭐⭐⭐⭐⭐ 首次推薦</td>
+                    <td>⭐⭐⭐</td>
+                </tr>
+            </table>
+            
+            <div class="highlight">
+                <strong>💡 新手建議：</strong> 首次去峇里島<strong>建議申請 eVOA 電子簽證</strong>。只需 5 分鐘線上申請，工作日隨辦隨發，確保順利入境，避免機場排隊壓力。
+            </div>
+            
+            <h2>📋 需辦證件 & 入境流程</h2>
+            
+            <div class="guide-link" style="text-align: center; margin: 40px 0;">
+                <p style="font-size: 1.1rem; margin-bottom: 15px;">
+                    <strong>完整的簽證申請與入境流程說明，請查看官方專題文章：</strong>
+                </p>
+                <a href="https://gobaligo.id/blog/bali-all-indonesia-arrival-guide/" target="_blank" style="font-size: 1.15rem; padding: 20px;">
+                    👉 【2026版】印尼峇里島入境使用「All Indonesia」入境卡完全指南
+                </a>
+            </div>
+            
+
+
+            
+            <h2>❓ 簽證常見問題 FAQ</h2>
+            
+            <div class="content-box">
+                <h3>Q: 我可以直接落地簽嗎？</h3>
+                <p>A: 可以。落地簽需要帶回程機票、訂房確認信，在機場簽證檯申辦，費用 Rp 500,000，現場排隊 20-60 分鐘。但首次建議先申請 eVOA 以確保順利。</p>
+            </div>
+            
+            <div class="content-box">
+                <h3>Q: eVOA 核准後多久內要進入印尼？</h3>
+                <p>A: eVOA 核准後的 90 天內進入印尼皆可，無時間壓力。</p>
+            </div>
+            
+            <div class="content-box">
+                <h3>Q: 在峇里島可以延簽嗎？</h3>
+                <p>A: 可以。若要延簽，需到移民局（Kantor Imigrasi）辦理，費用約 Rp 455,000，可延長 30 天。但通常新手遊客無需延簽。</p>
+            </div>
+            
+            <div class="tip">
+                <strong>💡 小提示：</strong> 更多關於簽證通關的常見問題和解答，請參考<a href="https://community.gobaligo.id/viewforum.php?f=3&sid=62812af313f20c335154493bb97bc917" target="_blank">【簽證/入境討論區】</a>，歡迎發問和分享你的經驗！
+            </div>
+        </div>
+
+        <!-- 第3章：選區攻略 -->
+        <div class="chapter" id="chapter-3">
+            <div class="chapter-header">
+                <div class="chapter-number">第 3 章</div>
+                <h1>選區攻略</h1>
+                <div class="chapter-subtitle">新手最難決定</div>
+            </div>
+            
+            <p>峇里島有許多獨特的區域，每個區域都有不同的氛圍和特色。選對區域能大大提升旅遊體驗！</p>
+            
+            <h2>🗺️ 主要區域介紹</h2>
+            
+            <table>
+                <tr>
+                    <th>區域</th>
+                    <th>特色</th>
+                    <th>距機場</th>
+                    <th>房價</th>
+                    <th>夜生活</th>
+                </tr>
+                <tr>
+                    <td><strong>🏄 庫塔 (Kuta)</strong></td>
+                    <td>衝浪、海灘、背包客聚集地</td>
+                    <td>20 分鐘</td>
+                    <td>$30-60</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td><strong>🏖️ 水明漾 (Seminyak)</strong></td>
+                    <td>夕陽美景、高級餐廳、年輕旅客</td>
+                    <td>30-60 分鐘</td>
+                    <td>$50-100</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td><strong>🌾 烏布 (Ubud)</strong></td>
+                    <td>文化體驗、梯田、瑜伽、藝術</td>
+                    <td>60-120 分鐘</td>
+                    <td>$25-80</td>
+                    <td>⭐⭐</td>
+                </tr>
+                <tr>
+                    <td><strong>🌊 長谷 (Canggu)</strong></td>
+                    <td>國際化、咖啡廳、年輕專業人士</td>
+                    <td>40-80 分鐘</td>
+                    <td>$40-120</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td><strong>💎 努沙杜瓦 (Nusa Dua)</strong></td>
+                    <td>高級度假村、國際標準、安全</td>
+                    <td>20-30 分鐘</td>
+                    <td>$150+</td>
+                    <td>⭐</td>
+                </tr>
+            </table>
+            
+            <h2>🗺️ 各區域完整攻略</h2>
+            
+            <div class="content-box" style="line-height: 2.2;">
+                <ul style="list-style: none; padding: 0;">
+                    <li>🏄 <a href="https://gobaligo.id/blog/kuta-guide/" target="_blank"><strong>庫塔 (Kuta)</strong> - 完整攻略</a></li>
+                    <li>🏖️ <a href="https://gobaligo.id/blog/seminyak-guide/" target="_blank"><strong>水明漾 (Seminyak)</strong> - 完整攻略</a></li>
+                    <li>🌾 <a href="https://gobaligo.id/blog/ubud-guide/" target="_blank"><strong>烏布 (Ubud)</strong> - 完整攻略</a></li>
+                    <li>🌊 <a href="https://gobaligo.id/blog/canggu-guide/" target="_blank"><strong>長谷 (Canggu)</strong> - 完整攻略</a></li>
+                    <li>💎 <a href="https://gobaligo.id/blog/nusa-dua-guide/" target="_blank"><strong>努沙杜瓦 (Nusa Dua)</strong> - 完整攻略</a></li>
+                    <li>🌅 <a href="https://gobaligo.id/blog/uluwatu-guide/" target="_blank"><strong>烏魯瓦圖 (Uluwatu)</strong> - 完整攻略</a></li>
+                    <li>🏝️ <a href="https://gobaligo.id/blog/sanur-guide/" target="_blank"><strong>沙努爾 (Sanur)</strong> - 完整攻略</a></li>
+                </ul>
+            </div>
+            
+            <div class="guide-link">
+                👉 更多住宿推薦，請查看：<br>
+                <a href="https://gobaligo.id/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" target="_blank">🏨 300+ 精選住宿推薦</a>
+            </div>
+        </div>
+
+        <!-- 第4章：交通完全攻略 -->
+        <div class="chapter" id="chapter-4">
+            <div class="chapter-header">
+                <div class="chapter-number">第 4 章</div>
+                <h1>交通完全攻略</h1>
+                <div class="chapter-subtitle">最容易踩雷</div>
+            </div>
+            
+            <p>峇里島的交通方式多樣化，從包車到Gojek都有不同的優缺點。選擇適合的交通方式能大大降低旅遊成本和壓力。</p>
+            
+            <h2>🚖 交通方式比較</h2>
+            
+            <div class="content-box">
+                <h3>1. Gojek 應用程式（最便宜）</h3>
+                <p>✅ 優點：便宜、隨叫隨到、透明定價</p>
+                <p>❌ 缺點：尖峰時段塞車、司機英文差、有詐騙風險</p>
+            </div>
+            
+            <div class="content-box">
+                <h3>2. 包車司機（最方便）</h3>
+                <p>✅ 優點：熟悉路線、可客製行程、省時間</p>
+                <p>❌ 缺點：需提前預訂、較貴、品質參差不齊</p>
+                <p>👉 推薦查看：<a href="https://gobaligo.id/blog/bali-private-car-drivers-guide/" target="_blank">【2026 峇里島包車推薦】網友評鑑司機名人榜</a></p>
+            </div>
+            
+            <div class="content-box">
+                <h3>3. 租機車（最自由）</h3>
+                <p>✅ 優點：自由度高、租金便宜（日租 $5-8）</p>
+                <p>❌ 缺點：高風險、需要駕照、容易迷路、被罰款風險</p>
+            </div>
+            
+            <h2>💰 換匯攻略</h2>
+            
+            <div class="content-box">
+                <h3>官方認證換匯所</h3>
+                <p>峇里島有許多正規的換匯所（Money Changer），但要避免在街邊非正規換匯所兌換。</p>
+                <p>👉 查找官方認證換匯所：<a href="https://gobaligo.id/map/money-changer/" target="_blank">🗺️ 峇里島官方換匯所地圖</a></p>
+            </div>
+            
+            <div class="tip">
+                <strong>💡 換匯小技巧：</strong>
+                <ul>
+                    <li>避免在機場換匯（匯率較差）</li>
+                    <li>選擇官方認證的換匯所，確認牌價</li>
+                </ul>
+            </div>
+            
+            <h2>🧮 交通方式選擇</h2>
+            
+            <div class="guide-link">
+                👉 不確定該用哪種交通方式？試試看：<br>
+                <a href="https://gobaligo.id/blog/bali-transport-quiz/" target="_blank">🚖 峇里島交通選擇測驗（Gojek vs 包車哪個省錢）</a>
+            </div>
+            
+            <h2>📱 網路與通訊</h2>
+            
+            <div class="content-box">
+                <p>在峇里島使用 SIM 卡或 eSIM 可以保持連線。建議比較不同方案的費用和訊號覆蓋。</p>
+                <p><strong>更多資訊：</strong> <a href="https://gobaligo.id/blog/bali-sim-card-esim-guide/" target="_blank">峇里島 SIM 卡 / eSIM 完整指南（2026 最新）</a></p>
+            </div>
+            
+            <div class="warning">
+                <strong>⚠️ 詐騙防範：</strong>
+                <ul>
+                    <li>不要在街上換現金，使用ATM或官方換匯所</li>
+                    <li>包車前先看評價，確認司機聯絡方式</li>
+                    <li>上車前確認價格，避免被臨時加價</li>
+                    <li>謹慎使用 Gojek，避免深夜獨自乘坐</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 第5章：住宿推薦 -->
+        <div class="chapter" id="chapter-5">
+            <div class="chapter-header">
+                <div class="chapter-number">第 5 章</div>
+                <h1>住宿推薦速查</h1>
+                <div class="chapter-subtitle">最高轉換點</div>
+            </div>
+            
+            <p>我們推薦過 300+ 精選住宿，從背包客棧到五星度假村應有盡有。</p>
+            
+            <div class="guide-link" style="text-align: center; margin: 40px 0;">
+                <strong style="font-size: 1.2rem;">🏨 查看 300+ 精選住宿推薦</strong><br>
+                <a href="https://gobaligo.id/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" target="_blank" style="font-size: 1.1rem; padding: 20px;">
+                    👉 進入完整住宿推薦頁面
+                </a>
+            </div>
+            
+            <div class="content-box">
+                <h3>住宿類型與預算範圍</h3>
+                <ul>
+                    <li><strong>背包客棧 ($20-40/晚)：</strong>庫塔、烏布</li>
+                    <li><strong>經濟舒適 ($40-80/晚)：</strong>各區都有</li>
+                    <li><strong>中等 ($80-150/晚)：</strong>水明漾、長谷</li>
+                    <li><strong>奢華 ($150+/晚)：</strong>努沙杜瓦、私人Villa</li>
+                </ul>
+            </div>
+            
+            <div class="tip">
+                <strong>💡 住宿選擇技巧：</strong>
+                <ul>
+                    <li>提前 4-6 週預訂能獲得更好的價格</li>
+                    <li>查看 Google Map 評論和 TripAdvisor 分數</li>
+                    <li>確認是否包含早餐和機場接送</li>
+                    <li>選擇有退款政策的住宿以防突發狀況</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 第6章：吃喝玩樂 -->
+        <div class="chapter" id="chapter-6">
+            <div class="chapter-header">
+                <div class="chapter-number">第 6 章</div>
+                <h1>吃喝玩樂終極版圖</h1>
+                <div class="chapter-subtitle">最想分享</div>
+            </div>
+            
+            <p>峇里島擁有豐富的美食、景點和活動。無論你喜歡什麼風格，都能找到符合需求的體驗。</p>
+            
+            <h2>🍽️ 各區美食指南</h2>
+            
+            <div class="guide-link" style="margin: 20px 0;">
+                <a href="https://gobaligo.id/blog/kuta-best-food-guide/" target="_blank">🏄 庫塔美食指南</a>
+                <a href="https://gobaligo.id/blog/seminyak-restaurants-food-guide/" target="_blank">🌅 水明漾餐廳指南</a>
+                <a href="https://gobaligo.id/blog/ubud-food-guide/" target="_blank">🌾 烏布美食指南</a>
+            </div>
+            
+            <h2>💆 SPA & 按摩推薦</h2>
+            
+            <p>峇里島 SPA 按摩是許多旅客推崇的放鬆體驗。傳統巴里式按摩技術精湛，價格親民，是不少遊客回訪峇里島的重要原因。</p>
+            
+            <div class="guide-link">
+                <a href="https://gobaligo.id/blog/spa/" target="_blank">🧖 峇里島 SPA 推薦（按區域）</a>
+            </div>
+            
+            <h2>🏄 戶外活動</h2>
+            
+            <div class="guide-link">
+                <a href="https://gobaligo.id/blog/bali-top-50-outdoor-activities/" target="_blank">🎯 50 種峇里島戶外活動推薦</a>
+            </div>
+            
+            <div class="content-box">
+                <h3>熱門活動與費用</h3>
+                <ul>
+                    <li>衝浪課程：Rp 300,000-500,000</li>
+                    <li>潛水課程：Rp 800,000-1,200,000</li>
+                    <li>浮潛：Rp 400,000-600,000</li>
+                    <li>跳島遊：Rp 600,000-1,000,000</li>
+                    <li>登火山：Rp 300,000-500,000</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 第7章：獨旅建議 -->
+        <div class="chapter" id="chapter-7">
+            <div class="chapter-header">
+                <div class="chapter-number">第 7 章</div>
+                <h1>獨旅建議</h1>
+                <div class="chapter-subtitle">一個人去也不會孤單</div>
+            </div>
+            
+            <p>越來越多人選擇獨自前往峇里島。本章提供獨旅者必知的安全建議、交友機會和實用資訊。</p>
+            
+            <div class="guide-link" style="text-align: center; margin: 40px 0;">
+                <a href="https://gobaligo.id/blog/bali-solo-travel-guide/" target="_blank" style="font-size: 1.1rem; padding: 20px;">
+                    👉 完整獨旅建議與實踐心得
+                </a>
+            </div>
+            
+            <h2>🧳 各區獨旅友善度評分</h2>
+            
+            <table>
+                <tr>
+                    <th>區域</th>
+                    <th>友善度</th>
+                    <th>交友機會</th>
+                    <th>安全度</th>
+                </tr>
+                <tr>
+                    <td>庫塔</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                    <td>超高（背包客棧）</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>水明漾</td>
+                    <td>⭐⭐⭐⭐</td>
+                    <td>高（酒吧、咖啡廳）</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>烏布</td>
+                    <td>⭐⭐⭐⭐</td>
+                    <td>中等（瑜伽課）</td>
+                    <td>⭐⭐⭐⭐⭐</td>
+                </tr>
+                <tr>
+                    <td>長谷</td>
+                    <td>⭐⭐⭐</td>
+                    <td>中等（國際社群）</td>
+                    <td>⭐⭐⭐⭐</td>
+                </tr>
+            </table>
+            
+            <h2>🤝 獨旅交友機會</h2>
+            
+            <div class="content-box">
+                <ul>
+                    <li>⭐ <strong>瑜伽課程</strong> - 烏布最多，每堂 Rp 100,000-150,000</li>
+                    <li>⭐ <strong>衝浪課</strong> - 庫塔、長谷，自然會認識其他課程者</li>
+                    <li>⭐ <strong>烹飪課</strong> - 峇里島傳統食物製作</li>
+                    <li>⭐ <strong>語言交換</strong> - 各地咖啡廳常舉辦，免費或便宜</li>
+                    <li>⭐ <strong>青年旅館社交活動</strong> - 幾乎每天都有團體活動</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 第8章：應急懶人包 -->
+        <div class="chapter" id="chapter-8">
+            <div class="chapter-header">
+                <div class="chapter-number">第 8 章</div>
+                <h1>應急懶人包</h1>
+                <div class="chapter-subtitle">新手救急</div>
+            </div>
+            
+            <p>意外隨時可能發生。本章提供快速查詢表、緊急聯絡方式和詐騙防範清單。</p>
+            
+            <h2>🆘 緊急聯絡電話</h2>
+            
+            <div class="content-box">
+                <ul>
+                    <li><strong>警察：</strong>110 或 112</li>
+                    <li><strong>救護車：</strong>118</li>
+                    <li><strong>旅遊警察：</strong>1554</li>
+                    <li><strong>駐泗水臺北經濟貿易辦事處：</strong>+62-31-9901-4600</li>
+                </ul>
+            </div>
+            
+            <h2>⚠️ 常見問題快速查詢</h2>
+            
+
+            <div class="content-box">
+                <h3>Q: 拉肚子/腸胃不適？</h3>
+                <p>A: 1) 多喝水、電解質飲料 2) 吃清淡食物 3) 服用止瀉藥 4) 若持續超過 3 天，就醫檢查</p>
+                <p><strong>更多資訊：</strong> <a href="https://gobaligo.id/blog/bali-belly-medicine-guide/" target="_blank">峇里島水土不服藥物指南</a></p>
+            </div>
+            
+            <div class="content-box">
+                <h3>Q: 遺失護照？</h3>
+                <p>A: 聯絡駐泗水臺北經濟貿易辦事處（電話：+62-31-9901-4600）</p>
+            </div>
+            
+            <h2>⚠️ 詐騙防範</h2>
+            
+            <div class="guide-link" style="text-align: center; margin: 30px 0;">
+                <p style="margin-bottom: 15px;">
+                    <strong>詳細的詐騙防範指南與常見手法解析，請查看：</strong>
+                </p>
+                <a href="https://gobaligo.id/blog/bali-tourist-scams-2026/" target="_blank" style="font-size: 1.1rem;">
+                    👉 2026 年峇里島常見詐騙手法與防範指南
+                </a>
+            </div>
+            
+            <h2>📋 2026 官方新規定</h2>
+            
+            <div class="highlight">
+                <ul>
+                    <li>✅ <strong>遊客稅</strong> - 進入峇里島需繳 Rp 150,000（額外繳交）</li>
+                    <li>✅ <strong>機車駕照</strong> - 騎機車需持有有效駕照（國際駕照）</li>
+                    <li>✅ <strong>寺廟著裝</strong> - 進入寺廟需穿著得體（肩膀、膝蓋需遮蓋）</li>
+                    <li>✅ <strong>環保規定</strong> - 禁止使用塑膠吸管、塑膠袋（購物自備環保袋）</li>
+                    <li>✅ <strong>禁止行為</strong> - 褻瀆聖地、毒品、非法活動、非法打工可能導致遣返</li>
+                </ul>
+            </div>
+            
+            <h2>📰 最新峇里島新聞</h2>
+            
+            <div class="content-box">
+                <p>了解最新的峇里島資訊可以幫助你做出更好的旅行決定。</p>
+                <ul class="news-list">
+
+                </ul>
+                <p style="margin-top: 20px;">
+                    👉 <a href="https://gobaligo.id/news/" target="_blank"><strong>查看全部峇里島新聞</strong></a>
+                </p>
+            </div>
+            
+            <h2>📊 即時資訊速查</h2>
+            
+            <div class="content-box">
+                <p>需要即時的峇里島天氣、匯率、新聞資訊？所有資料都在 Go Bali Go 首頁上：</p>
+                <div style="text-align: center; margin: 20px 0;">
+                    <a href="https://gobaligo.id/" target="_blank" style="font-size: 1.1rem; padding: 15px 30px; background: linear-gradient(135deg, var(--secondary-color), var(--primary-color)); color: white; border-radius: 8px; display: inline-block;">
+                        👉 前往 Go Bali Go 首頁查看即時資訊
+                    </a>
+                </div>
+            </div>
+    </main>
+
+    <!-- 頁尾 -->
+    <!-- 討論區歡迎區塊 -->
+    <div style="background: linear-gradient(135deg, #1F3A6C, #D4AF37); color: white; margin: 60px 0 0 0; padding: 40px; text-align: center;">
+        <h2 style="color: white; margin-bottom: 20px;">🌴 歡迎加入峇里島討論區</h2>
+        <p style="font-size: 1.1rem; margin-bottom: 30px;">
+            電子書只是開始。加入我們的社區，與其他旅客和在地人分享經驗、提問、獲得最新資訊！
+        </p>
+        <a href="https://community.gobaligo.id/index.php" target="_blank" style="display: inline-block; background: white; color: #1F3A6C; padding: 15px 40px; border-radius: 8px; font-weight: 600; font-size: 1.1rem; text-decoration: none;">
+            👉 前往討論區
+        </a>
+    </div>
+
+    <footer>
+        <div class="footer-content">
+            <h3 style="color: white;">Go Bali Go</h3>
+            <p>峇里島旅遊攻略｜完全自由行指南</p>
+            <p style="margin-top: 10px; font-size: 0.9rem; opacity: 0.9;">
+                本電子書由超過 800 篇深度文章精選而成，每篇文章都經過實地驗證和不斷更新。
+            </p>
+        </div>
+        
+        <div class="social-links">
+            <a href="https://www.facebook.com/bali.guide.blog" target="_blank">📘 Facebook 粉絲團</a>
+            <a href="https://www.instagram.com/go.bali.go/" target="_blank">📷 Instagram</a>
+            <a href="https://www.youtube.com/@j_indonesia" target="_blank">📺 YouTube</a>
+            <a href="https://www.threads.com/@go.bali.go" target="_blank">🧵 Threads</a>
+            <a href="https://www.facebook.com/groups/indonesia.travelguide" target="_blank">💬 FB 社團</a>
+            <a href="https://community.gobaligo.id/" target="_blank">🏛️ 討論區</a>
+        </div>
+        
+        <p style="margin-top: 20px; font-size: 0.85rem; opacity: 0.8;">
+            © 2026 Go Bali Go. All rights reserved.<br>
+            本網站內容僅供參考，旅遊資訊可能隨時變動，出發前請自行確認最新資訊。
+        </p>
+    </footer>
+
+    <script>
+        function printPage() {
+            window.print();
+        }
+        
+        function shareToFacebook() {
+            const url = window.location.href;
+            const text = '《峇里島新手完全指南》V2.0 - 800+ 文章精華｜新手到老手的完全攻略 | Go Bali Go';
+            const facebookUrl = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url) + '&quote=' + encodeURIComponent(text);
+            window.open(facebookUrl, '_blank', 'width=600,height=400');
+        }
+    </script>
+</body>
+</html>
