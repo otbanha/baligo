@@ -347,8 +347,11 @@ function segmentBody(body) {
     // 整段丟給模型時，它偶爾只回傳第一行、或自己增刪項目，而回傳值是「一段看起來
     // 正常的譯文」，殘留中文檢查也攔不下來 —— 2026-07 起 blocks 的 en/zh-cn/id
     // 就這樣被吃到只剩 1 個項目（住宿 48→1、親子 37→1），zh-hk 則反向多長出項目。
+    // 門檻是「有一行是項目就算」而不是「過半是項目」：每個項目底下各帶一行說明的
+    // 寫法（- **標題**：\n說明文字）只有一半的行是項目，再多一行就會掉出過半門檻，
+    // 整段又被當成一般文字送出去、又被模型縮成一兩行。
     const lines = para.split('\n');
-    if (lines.length > 1 && lines.filter(l => LIST_ITEM_RE.test(l)).length >= lines.length / 2) {
+    if (lines.length > 1 && lines.some(l => LIST_ITEM_RE.test(l))) {
       segments.push({ type: 'list', content: para, lines });
       continue;
     }
