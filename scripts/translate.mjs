@@ -228,14 +228,24 @@ function structureMismatch(src, out) {
   if (typeof out !== 'string') return '非字串';
   const srcLines = src.split('\n');
   const outLines = out.split('\n');
-  // 來源本身是多行清單 → 行數必須一比一對上
-  if (srcLines.length > 1 && srcLines.some(l => LIST_ITEM_RE.test(l))) {
+  const itemCount = (lines) => lines.filter(l => LIST_ITEM_RE.test(l)).length;
+
+  if (srcLines.length === 1) {
+    // 單行進、單行出。模型會把同一批的鄰近內容一起吐回來（含標題、下一個項目），
+    // 那些多出來的行接回去就變成重複的清單項目。
+    if (outLines.length !== 1) return `單行被拆成 ${outLines.length} 行`;
+  } else if (itemCount(srcLines) > 0) {
+    // 來源是多行清單 → 行數必須一比一對上
     if (outLines.length !== srcLines.length) {
       return `行數不符（來源 ${srcLines.length} 行、譯文 ${outLines.length} 行）`;
     }
   } else if (outLines.length * 2 < srcLines.length) {
     // 非清單的多行段落：允許模型併行重排，但砍掉一半以上的行必定是整段被吃掉
     return `行數暴減（來源 ${srcLines.length} 行、譯文 ${outLines.length} 行）`;
+  }
+  // 清單項目數不得增減（上面的行數檢查擋不到「把說明文字改寫成新的一項」）
+  if (itemCount(outLines) !== itemCount(srcLines)) {
+    return `清單項目數不符（來源 ${itemCount(srcLines)} 項、譯文 ${itemCount(outLines)} 項）`;
   }
   // 連結 URL 一律不得遺失或被改寫
   for (const m of src.matchAll(/\]\((\S+?)\)/g)) {
