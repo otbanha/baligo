@@ -29,8 +29,6 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: en
-_srcHash: e9eb86267fbb2a869edd6664b58cb2f4
-_translateIncomplete: true
 ---
 **Bottom Line**: Located near Balangan Beach in Uluwatu, just a few minutes' walk from the sand, La Cabane Bali is run by French owner Céline. Starting with just 2 bamboo huts, it has expanded to **5 eco-cottages + 1 three-bedroom villa with a private pool**. With limited rooms that are often fully booked, it's perfect for travelers seeking a private, French-romantic atmosphere away from the hustle of large resorts. Early booking is recommended.
 

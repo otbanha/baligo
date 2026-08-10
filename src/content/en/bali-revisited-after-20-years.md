@@ -20,7 +20,6 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_25a6fdd344b7bb14d9e066cba1704257.jpg'
 originalUrl: 'https://vocus.cc/article/66924c7ffd897800018dbe71'
 lang: en
-_srcHash: ceac8110c44d70f21eac3fa9f679fbb6
 ---
 > The following content was provided by group member [Hung Min Lin](https://www.facebook.com/share/p/UwFz9AAtUPVUetpY/?mibextid=A7sQZp) and has been re-edited by us:
 

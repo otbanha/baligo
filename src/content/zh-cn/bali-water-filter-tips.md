@@ -28,7 +28,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: fbdbbd65607707e26729fb183f5f5e43
 ---
 
 ![峇里島水質行不行？去峇里島要自備濾芯/蓮蓬頭？用礦泉水刷牙？50+網友真實經驗一次看](https://images.gobaligo.id/images/2026-04/1775969828533-c51dc973-6ac0-43ac-be44-111664f2624f.png)

@@ -15,7 +15,6 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: zh-hk
-_srcHash: d39aa660bd7ef0b74a0b12b47ffcfef5
 ---
 **先講結論**：峇里島兩大聖泉景點各有特色——**Tirta Gangga（恆河聖泉花園）**係1946年起好、融合峇里同中國建築風格嘅三層水上宮殿，啱晒影相打卡；**Tirta Empul（聖泉寺）**就係可以親身參與Melukat淨化儀式嘅信仰聖地。想影靚相揀Tirta Gangga，想體驗文化儀式揀Tirta Empul，兩個都值得放入東部行程。
 

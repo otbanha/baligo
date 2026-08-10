@@ -19,7 +19,6 @@ originalUrl: 'https://vocus.cc/article/698f077efd89780001e7294f'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 13685e2272668fe0b4c833d6d1540f75
 ---
 ## Complete Guide to Bali Nyepi Day 2026: From Ogoh-Ogoh Festivities to 24 Hours of Silence
 

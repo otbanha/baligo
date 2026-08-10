@@ -35,7 +35,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 7b638a3960e60c4f52773f52e04936ce
 ---
 **Kesimpulan Awal**: Wajib banget beli asuransi perjalanan kalau ke Bali, alasannya simpel — biaya berobat di klinik internasional atau rumah sakit swasta di sana mahal kalau kamu kena penyakit mendadak (termasuk 'Bali Belly' atau gastroenteritis) tanpa asuransi; aktivitas air **belum tentu ditanggung** (tergantung polis); delay penerbangan atau masalah bagasi juga cuma diganti kalau memenuhi syarat tertentu. **Kecelakaan motor cuma ditanggung kalau polisnya mencakup itu**, jadi sebelum beli, pastikan baca detail ketentuannya satu per satu, jangan asal pilih yang termurah.
 

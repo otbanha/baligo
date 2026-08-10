@@ -9,7 +9,6 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_096383766c621530378f735a98527311.jpg'
 originalUrl: 'https://vocus.cc/article/690b2c7bfd89780001f3ea8d'
 lang: zh-hk
-_srcHash: d8ebb244e3926c192e5e5b7e8eb7435f
 ---
 
 ![ZONE OUT Bali：庫塔最正嘅虛擬實境冒險基地！](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)

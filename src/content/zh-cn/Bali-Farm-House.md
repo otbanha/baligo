@@ -27,7 +27,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: e9d9f589de5d98bf0925b0c27ea65b9e
 ---
 **先说结论**：Bali Farm House 位于中北部山区 Bedugul 一带，是打造成欧式庄园风格的亲子农场，可近距离喂食羊驼、迷你马，因山区气候凉爽建议**携带保暖衣物**前往；门票通常可折抵园区餐饮，适合安排避暑亲子行程搭配包车一日游。
 

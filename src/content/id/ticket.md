@@ -37,7 +37,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 2c1396fe8845aea2798c1e0f9b63fdac
 ---
 **Kesimpulan Awal**: Tiga jurus jitu beli tiket Bali di Trip.com — ① **Aktifin Price Alerts** biar tahu kapan harga turun; ② **Manfaatin fitur Low Price Calendar** buat nemuin tanggal termurah; ③ **Campur maskapai beda** — berangkat dan pulang cari sendiri-sendiri, sering lebih murah daripada tiket bundling. Catatan: biaya bagasi maskapai murah bisa lebih mahal dari tiketnya, jangan ambil waktu transit yang terlalu mepet.
 

@@ -212,9 +212,37 @@ function contentHash(text) {
 
 /**
  * 將 markdown body 分割成「可翻譯段落」和「保留段落」。
- * 返回 segment 陣列：{ type: 'text'|'code'|'image'|'block'|'empty', content: string }
+ * 返回 segment 陣列：{ type: 'text'|'list'|'code'|'image'|'empty', content: string }
+ * 其中 list 另帶 lines: string[]（逐行翻譯用，見下方註解）
  */
 const PLACEHOLDER_RE = /\x00(?:CODE|BLOCK)\d+\x00/g;
+const LIST_ITEM_RE = /^\s*[-*]\s+/;
+
+/**
+ * 結構驗證：譯文必須保住來源的行結構與所有連結 URL。
+ * 模型「少回幾行」或「把清單縮成一句」時，內容會直接消失在翻譯版裡而且無聲無息，
+ * 所以這裡當成翻譯失敗處理（退回原文 + 標記 hadFallback，下次排程重試）。
+ * 回傳 null 表示通過，否則回傳原因字串。
+ */
+function structureMismatch(src, out) {
+  if (typeof out !== 'string') return '非字串';
+  const srcLines = src.split('\n');
+  const outLines = out.split('\n');
+  // 來源本身是多行清單 → 行數必須一比一對上
+  if (srcLines.length > 1 && srcLines.some(l => LIST_ITEM_RE.test(l))) {
+    if (outLines.length !== srcLines.length) {
+      return `行數不符（來源 ${srcLines.length} 行、譯文 ${outLines.length} 行）`;
+    }
+  } else if (outLines.length * 2 < srcLines.length) {
+    // 非清單的多行段落：允許模型併行重排，但砍掉一半以上的行必定是整段被吃掉
+    return `行數暴減（來源 ${srcLines.length} 行、譯文 ${outLines.length} 行）`;
+  }
+  // 連結 URL 一律不得遺失或被改寫
+  for (const m of src.matchAll(/\]\((\S+?)\)/g)) {
+    if (!out.includes(m[1])) return `遺失連結 ${m[1]}`;
+  }
+  return null;
+}
 
 function segmentBody(body) {
   const segments = [];
@@ -275,28 +303,21 @@ function segmentBody(body) {
       continue;
     }
 
+    // 連結清單（每行一個 "- " 項目）：拆成逐行翻譯，行數由結構固定住。
+    // 整段丟給模型時，它偶爾只回傳第一行、或自己增刪項目，而回傳值是「一段看起來
+    // 正常的譯文」，殘留中文檢查也攔不下來 —— 2026-07 起 blocks 的 en/zh-cn/id
+    // 就這樣被吃到只剩 1 個項目（住宿 48→1、親子 37→1），zh-hk 則反向多長出項目。
+    const lines = para.split('\n');
+    if (lines.length > 1 && lines.filter(l => LIST_ITEM_RE.test(l)).length >= lines.length / 2) {
+      segments.push({ type: 'list', content: para, lines });
+      continue;
+    }
+
     // 一般文字
     segments.push({ type: 'text', content: para });
   }
 
   return { segments, preserved };
-}
-
-/**
- * 從 segment 陣列重建 body。
- * translatedMap: Map<index_of_text_segment, translated_string>
- */
-function rebuildBody(segments, translatedMap) {
-  let textIdx = 0;
-  return segments.map(seg => {
-    if (seg.type === 'text') {
-      const translated = translatedMap.get(textIdx++);
-      return translated ?? seg.content;
-    }
-    if (seg.type === 'empty') return '';
-    textIdx += 0; // non-text doesn't consume index
-    return seg.content;
-  }).join('\n\n');
 }
 
 // ── DeepSeek API ──────────────────────────────────────────────────────────────
@@ -396,9 +417,10 @@ async function translateTexts(texts, lang, strictCount = texts.length) {
   for (let i = 0; i < texts.length; i++) {
     const cacheKey = `${md5(texts[i])}:${lang}`;
     const cached = cache.paragraphs[cacheKey];
-    // 舊快取可能存了驗證機制上線前的殘留翻譯（例如 en/id 混雜大量中文）；
+    // 舊快取可能存了驗證機制上線前的壞翻譯（殘留大量中文，或整段被吃掉只剩一行）；
     // 這種快取視同未命中，重新呼叫 API，讓壞掉的翻譯有機會自我修復。
-    if (cached && !isUntranslatedResidue(cached, lang, texts[i], isStrict(i))) {
+    if (cached && !isUntranslatedResidue(cached, lang, texts[i], isStrict(i))
+        && !structureMismatch(texts[i], cached)) {
       results[i] = cached;
     } else {
       // 提取 video URL，換成佔位符後再送翻譯
@@ -440,19 +462,28 @@ async function translateTexts(texts, lang, strictCount = texts.length) {
 
       const strict = isStrict(origIdx);
 
-      // 殘留中文：同一輪內單獨重打一次 API，避免品質不穩的單一項目拖到下次排程才重試。
-      if (typeof t === 'string' && isUntranslatedResidue(t, lang, text, strict)) {
+      // 譯文不合格的原因（null = 通過）：型別錯、殘留原文、或結構被改掉（掉行／掉連結）
+      const rejectReason = (v) =>
+        typeof v !== 'string' ? '非字串'
+        : isUntranslatedResidue(v, lang, text, strict) ? '殘留原文'
+        : structureMismatch(stripped, v);
+
+      // 不合格：同一輪內單獨重打一次 API，避免品質不穩的單一項目拖到下次排程才重試。
+      let reason = rejectReason(t);
+      if (reason) {
         try {
           const retry = await callDeepSeek([stripped], lang);
-          if (typeof retry[0] === 'string' && !isUntranslatedResidue(retry[0], lang, text, strict)) {
-            t = retry[0];
-          }
+          if (!rejectReason(retry[0])) t = retry[0];
         } catch { /* 重試失敗就沿用原本結果，交由下方 fallback 處理 */ }
+        reason = rejectReason(t);
       }
 
-      if (typeof t !== 'string' || isUntranslatedResidue(t, lang, text, strict)) {
-        // 翻譯缺失、格式異常，或明顯殘留中文（翻譯品質失敗）：暫用原文，且「不」寫入快取，讓下次可重試。
-        // 避免把物件/undefined，或半殘留的中文寫進內文或 frontmatter。
+      if (reason) {
+        // 翻譯缺失、格式異常、殘留原文或結構被改：暫用原文，且「不」寫入快取，讓下次可重試。
+        // 避免把物件/undefined、半殘留的中文，或被吃掉內容的殘缺譯文寫進內文或 frontmatter。
+        if (reason !== '殘留原文') {
+          console.warn(`    ⚠️ 譯文遭退回（${lang}）：${reason} — "${text.slice(0, 50).replace(/\n/g, '↵')}"`);
+        }
         results[origIdx] = text;
         hadFallback.add(origIdx);
         continue;
@@ -547,13 +578,25 @@ async function translateFile(filename, lang) {
 
   // Body 分割
   const { segments, preserved } = segmentBody(body);
-  const textSegments = []; // { segIdx, content }
-  segments.forEach((seg, i) => {
-    if (seg.type === 'text' && seg.content.trim()) textSegments.push({ segIdx: i, content: seg.content });
+  // 待翻譯的內文文字。一般段落佔 1 筆；清單段落逐行各佔 1 筆，
+  // 讓行數由這裡的結構決定，而不是仰賴模型自己數清楚。
+  const bodyTexts = [];
+  const slots = []; // 與 bodyTexts 同索引：[segIdx, lineIdx]
+  segments.forEach((seg, si) => {
+    if (seg.type === 'text' && seg.content.trim()) {
+      slots.push([si, 0]);
+      bodyTexts.push(seg.content);
+    } else if (seg.type === 'list') {
+      seg.lines.forEach((line, li) => {
+        if (!line.trim()) return;
+        slots.push([si, li]);
+        bodyTexts.push(line);
+      });
+    }
   });
 
   // 全部要翻譯的文字
-  const allTexts = [...fmTranslatables, ...textSegments.map(s => s.content)];
+  const allTexts = [...fmTranslatables, ...bodyTexts];
 
   if (allTexts.length === 0) {
     // 無可翻譯文字（純 iframe / HTML）：直接複製來源，加 lang + _srcHash
@@ -603,27 +646,17 @@ async function translateFile(filename, lang) {
     newFm.tags = raw ? raw.split(/\n/).map(t => t.trim()).filter(Boolean) : [];
   }
 
-  // 重建 body
-  const translatedMap = new Map();
-  let textSegIdx = 0;
-  let segTextCounter = 0;
-  for (const seg of segments) {
-    if (seg.type === 'text' && seg.content.trim()) {
-      const transIdx = fmTranslatables.length + segTextCounter;
-      translatedMap.set(textSegIdx, translated[transIdx] ?? seg.content);
-      segTextCounter++;
-    }
-    textSegIdx++;
-  }
+  // 重建 body：照 slots 把譯文放回原本的 segment / 行位置，
+  // 沒譯到的位置一律沿用來源那一行（寧可留原文，也不要讓行消失）。
+  const bodyTrans = new Map(); // `segIdx:lineIdx` → 譯文
+  slots.forEach(([si, li], i) => {
+    const v = translated[fmTranslatables.length + i];
+    if (typeof v === 'string') bodyTrans.set(`${si}:${li}`, v);
+  });
 
-  // rebuildBody 用 segment index
-  let tIdx = 0;
-  const newBody = segments.map(seg => {
-    if (seg.type === 'text' && seg.content.trim()) {
-      const transIdx = fmTranslatables.length + tIdx;
-      tIdx++;
-      return translated[transIdx] ?? seg.content;
-    }
+  const newBody = segments.map((seg, si) => {
+    if (seg.type === 'text' && seg.content.trim()) return bodyTrans.get(`${si}:0`) ?? seg.content;
+    if (seg.type === 'list') return seg.lines.map((line, li) => bodyTrans.get(`${si}:${li}`) ?? line).join('\n');
     if (seg.type === 'empty') return '';
     return seg.content;
   }).join('\n\n');

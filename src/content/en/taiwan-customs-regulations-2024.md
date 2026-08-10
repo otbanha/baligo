@@ -21,7 +21,6 @@ originalUrl: 'https://vocus.cc/article/66888b2cfd897800017a30c6'
 category:
   - 簽證通關
 lang: en
-_srcHash: b892bfd1db0eee3e332fd21983c7be0e
 ---
 ![2024入境台灣必知規定，帶錯東西小心被罰！](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)
 

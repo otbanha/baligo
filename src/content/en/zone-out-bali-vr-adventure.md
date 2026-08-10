@@ -9,7 +9,6 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_096383766c621530378f735a98527311.jpg'
 originalUrl: 'https://vocus.cc/article/690b2c7bfd89780001f3ea8d'
 lang: en
-_srcHash: d8ebb244e3926c192e5e5b7e8eb7435f
 ---
 
 ![ZONE OUT Bali: Kuta's Coolest Virtual Reality Adventure Hub!](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)

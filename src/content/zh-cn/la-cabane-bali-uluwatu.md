@@ -24,8 +24,6 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: zh-cn
-_srcHash: e9eb86267fbb2a869edd6664b58cb2f4
-_translateIncomplete: true
 ---
 **先说结论**：La Cabane Bali 位于乌鲁瓦图 Balangan 海滩附近，步行数分钟可达沙滩，由法国女主人 Céline 经营，从最初 2 间竹屋扩展至**现有 5 间生态小屋 + 1 栋三房私人泳池别墅**，房源稀少常一房难求，适合喜欢私密法式浪漫氛围、想避开大型度假村喧闹的旅客，建议提前订房。
 

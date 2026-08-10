@@ -10,7 +10,6 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_796a7726285dc90f4c9e926629c7be3b.jpg'
 originalUrl: 'https://vocus.cc/article/6571846ffd89780001fe97ee'
 lang: en
-_srcHash: 6f9add44765b54bf8ad9d8d3cf5d3db0
 ---
 ![探索Oneeighty Day Club：峇里島懸崖邊的游泳池極致美景](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
 

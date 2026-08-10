@@ -19,7 +19,6 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: en
-_srcHash: 8bc640aeba14729a639af6e0abab1467
 ---
 ![峇里島同一個地方待四天能玩什麼？四天烏布之旅程紀錄](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 

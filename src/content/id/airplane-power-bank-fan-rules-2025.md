@@ -22,7 +22,6 @@ originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
   - 旅行技巧
 lang: id
-_srcHash: b1ce67b687652bc6a0e3855103f104df
 ---
 **Kesimpulan dulu**: Power bank **di bawah 100Wh bisa dibawa di kabin** (biasanya 20000mAh ke bawah aman), **100-160Wh perlu izin maskapai dan maksimal 2 buah**, **di atas 160Wh dilarang**, dan semuanya cuma boleh di tas kabin, nggak boleh di bagasi. Kipas genggam/leher yang ada baterainya aturannya tergantung jenis baterai.
 

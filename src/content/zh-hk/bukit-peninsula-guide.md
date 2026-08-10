@@ -21,7 +21,6 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_05a9ca325c235fc34066e54b056498c7.png'
 originalUrl: 'https://vocus.cc/article/67061b07fd897800012f87b5'
 lang: zh-hk
-_srcHash: cff1402a302bc82684df64e9ff8f2ade
 ---
 
 峇里島嘅「武吉半島（Bukit Peninsula）」可能好多人冇聽過，最簡單嘅分法就係只要係峇里島國際機場以南呢一忽，都叫做武吉半島。

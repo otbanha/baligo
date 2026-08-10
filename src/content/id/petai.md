@@ -29,8 +29,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: PENDING_RETRY_cd5c0506531011b62e839672cb5d6b01
-_translateAttempts: 1
 ---
 # Pete: Kacang Hijau Ajaib yang Baunya Bikin Kaget, Tapi Bikin Nagih Kalau Udah Dicoba
 

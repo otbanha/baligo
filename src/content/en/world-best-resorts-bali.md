@@ -42,7 +42,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: bf50e95ab1d84bee453efb8207b212e4
 ---
 
 # World's Best Resorts 2026 | 8 of the Top 15 Are in Indonesia! A Look at Bali and Komodo's Luxury Resorts

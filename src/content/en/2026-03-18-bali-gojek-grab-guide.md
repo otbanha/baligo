@@ -16,7 +16,6 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: en
-_srcHash: 5e3f08565bc97dd8794b3c3617844502
 ---
 [🚗 Want to estimate Gojek fares? Click here](/en/map/gojek-fare/)
 

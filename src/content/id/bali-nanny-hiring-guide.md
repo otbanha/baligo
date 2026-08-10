@@ -21,7 +21,6 @@ originalUrl: 'https://vocus.cc/article/67301111fd897800016667a1'
 category:
   - 家庭親子
 lang: id
-_srcHash: 7c6cdb4b729607b31f02a4f3b2dbdd87
 ---
 **Kesimpulan dulu**: Sewa pengasuh di Bali **tarif per jam sekitar USD$7-12** (tergantung pengalaman dan skill, minimal jam kerja biasanya 6 jam). Cara paling recommended adalah **lewat rekomendasi supir sewaan** (kalau nggak cocok bisa minta ganti besoknya langsung). Bisa juga cari 'nanny in Bali' buat cari perusahaan penyedia pengasuh profesional. Kebanyakan pengasuh bisa bahasa Inggris lancar, sebelum pilih disarankan video call atau ketemu langsung buat cek kecocokan.
 
