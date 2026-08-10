@@ -58,8 +58,11 @@ DNS-AID 建議探索區域要簽 DNSSEC。**gobaligo.id 目前沒有簽**
 2. 把那組 DS 貼到 **.id 網域註冊商**的後台。
 
 ⚠️ 第 2 步貼錯或漏貼會讓整個網域解析不到（不是網站掛掉，是 DNS 層直接消失），
-而且 TTL 過期前很難救。不急的話可以先只發 SVCB 記錄，DNSSEC 之後有空再處理——
-isitagentready 的 DNS-AID 檢查看的是記錄存不存在，不是有沒有簽章。
+而且 TTL 過期前很難救。
+
+建議順序：先只發 SVCB 記錄，重掃一次看 `dnsAid` 過不過。掃描器的失敗訊息是
+「entrypoint records not found」，看起來是查記錄；但 SKILL 也把 DNSSEC 列為
+requirement，是否一併檢查沒有實測過，發完就知道。
 
 ## 驗證
 
