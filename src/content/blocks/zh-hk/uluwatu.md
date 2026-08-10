@@ -3,7 +3,6 @@ title: uluwatu
 type: normal
 randomCount: 5
 lang: zh-hk
-_srcHash: f195efdaa73fe9387a522844cf9af50f
 ---
 
 ## 烏魯瓦圖食玩推介

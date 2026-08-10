@@ -19,9 +19,10 @@ import { join } from 'path';
 const WRITE = process.argv.includes('--write');
 const LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
 
-// 判定門檻：翻譯版少掉一半以上項目 = 內容被吃掉；多出 2 項以上 = 模型自己長出來的
+// 判定門檻：翻譯版少掉一半以上項目 = 內容被吃掉；多出來的項目 = 模型自己長出來的。
+// blocks 是純連結清單，項目數必須與來源完全一致，多 1 項就是憑空生出來的；
+// 文章內文允許模型把一段拆成兩點，所以放寬 1 項再判定。
 const LOSS_RATIO = 0.5;
-const EXTRA_TOLERANCE = 1;
 
 const bodyOf = (txt) => {
   const m = txt.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n([\s\S]*)$/);
@@ -38,7 +39,7 @@ function destName(txt, filename) {
   return filename;
 }
 
-function scan(srcDir, destDirOf) {
+function scan(srcDir, destDirOf, extraTolerance) {
   const hits = [];
   for (const f of readdirSync(srcDir).filter(x => /\.mdx?$/.test(x))) {
     const txt = readFileSync(join(srcDir, f), 'utf-8');
@@ -50,15 +51,15 @@ function scan(srcDir, destDirOf) {
       if (!existsSync(p)) continue;
       const m = countItems(readFileSync(p, 'utf-8'));
       if (m < n * LOSS_RATIO) hits.push({ path: p, lang, src: n, dest: m, kind: '吃掉' });
-      else if (m > n + EXTRA_TOLERANCE) hits.push({ path: p, lang, src: n, dest: m, kind: '多出' });
+      else if (m > n + extraTolerance) hits.push({ path: p, lang, src: n, dest: m, kind: '多出' });
     }
   }
   return hits;
 }
 
 const hits = [
-  ...scan('src/content/blocks', (l) => `src/content/blocks/${l}`),
-  ...scan('src/content/blog', (l) => `src/content/${l}`),
+  ...scan('src/content/blocks', (l) => `src/content/blocks/${l}`, 0),
+  ...scan('src/content/blog', (l) => `src/content/${l}`, 1),
 ];
 
 for (const h of hits) {
