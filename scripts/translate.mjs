@@ -247,11 +247,41 @@ function structureMismatch(src, out) {
   if (itemCount(outLines) !== itemCount(srcLines)) {
     return `清單項目數不符（來源 ${itemCount(srcLines)} 項、譯文 ${itemCount(outLines)} 項）`;
   }
-  // 連結 URL 一律不得遺失或被改寫
+  // 連結 URL 一律不得遺失或被改寫。
+  // 例外：純頁內錨點（#xxx）本來就會跟著標題一起被翻譯，不能要求它原封不動。
   for (const m of src.matchAll(/\]\((\S+?)\)/g)) {
+    if (m[1].startsWith('#')) continue;
     if (!out.includes(m[1])) return `遺失連結 ${m[1]}`;
   }
   return null;
+}
+
+/**
+ * 修掉可安全修復的結構差異，免得整段退回原文（讀者會看到整行沒翻譯）。
+ * 目前只處理清單記號被加上／拿掉：模型常自作主張把非清單的行改成 "- " 開頭
+ * （來源用全形「＊」時特別常見），接回去就變成憑空多出來的清單項目。
+ */
+function repairListMarkers(src, out) {
+  if (typeof out !== 'string') return out;
+  const srcLines = src.split('\n');
+  const outLines = out.split('\n');
+  if (outLines.length !== srcLines.length) return out; // 行數都對不上就不是這種情形
+
+  let changed = false;
+  const fixed = outLines.map((line, i) => {
+    const srcMarker = srcLines[i].match(LIST_ITEM_RE);
+    const outIsItem = LIST_ITEM_RE.test(line);
+    if (!srcMarker && outIsItem) {
+      changed = true;
+      return line.replace(LIST_ITEM_RE, '');
+    }
+    if (srcMarker && !outIsItem && line.trim()) {
+      changed = true;
+      return srcMarker[0] + line; // 沿用來源的縮排與記號樣式
+    }
+    return line;
+  });
+  return changed ? fixed.join('\n') : out;
 }
 
 function segmentBody(body) {
@@ -478,12 +508,15 @@ async function translateTexts(texts, lang, strictCount = texts.length) {
         : isUntranslatedResidue(v, lang, text, strict) ? '殘留原文'
         : structureMismatch(stripped, v);
 
-      // 不合格：同一輪內單獨重打一次 API，避免品質不穩的單一項目拖到下次排程才重試。
+      // 不合格：先試著修掉可安全修復的結構差異，還是不行就同一輪內單獨重打一次 API，
+      // 避免品質不穩的單一項目拖到下次排程才重試。
+      t = repairListMarkers(stripped, t);
       let reason = rejectReason(t);
       if (reason) {
         try {
           const retry = await callDeepSeek([stripped], lang);
-          if (!rejectReason(retry[0])) t = retry[0];
+          const repaired = repairListMarkers(stripped, retry[0]);
+          if (!rejectReason(repaired)) t = repaired;
         } catch { /* 重試失敗就沿用原本結果，交由下方 fallback 處理 */ }
         reason = rejectReason(t);
       }
