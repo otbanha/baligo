@@ -1,7 +1,7 @@
 ---
 title: 巴厘岛包车司机推荐名单（第二页）｜中文司机为主·社团真实分享
 slug: ''
-description: 巴厘岛包车司机推荐名单第二页，以可中文沟通的司机为主，每位司机底下的分享链接都能点开查证原始社团贴文。附2026包车行情与联系时该提供的信息。
+description: 巴厘岛包车司机推荐名单第二页，以可中文沟通的司机为主，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -20,7 +20,7 @@ embeds: []
 updatedDate: 2026-08-10T00:00:00.000Z
 lang: zh-cn
 _srcHash: PENDING_RETRY_f7b2fce4f0552455fc1602f1f65cb4eb
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 Update: 2026/08/10
 

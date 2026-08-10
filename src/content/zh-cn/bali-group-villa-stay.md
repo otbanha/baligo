@@ -36,11 +36,10 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: zh-cn
-_srcHash: PENDING_RETRY_44b60b38f39dd3fe8323f462c998eb4a
-_translateAttempts: 2
+_srcHash: 44b60b38f39dd3fe8323f462c998eb4a
 ---
 Update: 2026/08/09
-**先讲结论**：6 人以上团体/大家庭旅游，选**包栋三房以上的私人泳池 Villa** 比订多间酒店房划算又方便——空间宽敞让孩子有地方玩、大人有隐私，水明漾、坎古、金巴兰、乌鲁瓦图都有 4-6 房以上的包栋选择，详细各区推荐如下。
+**先讲结论**：6 人以上团体/大家庭旅游，选**包栋三房以上的私人泳池 Villa** 比订多间饭店房划算又方便——空间宽敞让孩子有地方玩、大人有隐私，水明漾、坎古、金巴兰、乌鲁瓦图都有 4-6 房以上的包栋选择，详细各区推荐如下。
 
 巴厘岛是著名的度假胜地，以其美丽的海滩、热情好客的人民和丰富的文化而闻名。近年来，巴厘岛也成为家庭旅游的热门目的地，越来越多家庭选择到巴厘岛度假。
 
@@ -136,7 +135,7 @@ Villa SANKET - KUTA 是一间位于库塔市中心的宽敞别墅，坐落在Wat
 
 设施齐全：Mayaloka Villas 提供免费当地接驳服务、付费机场接驳服务、租车服务、礼宾服务和洗衣服务。房价包含美式早餐。
 
-客房选择多样：独栋泳池别墅提供开放式起居区，配备沙发、电视和餐桌。半露天卫浴空间拥有雨淋式淋浴和浴缸。
+客房选择多元：独栋泳池别墅提供开放式起居区，配备沙发、电视和餐桌。半露天卫浴空间拥有雨淋式淋浴和浴缸。
 
 卧室设有超大双人床（附蚊帐），户外则设有宽敞日光浴露台、躺椅和尺寸适中的泳池。
 
@@ -163,7 +162,9 @@ Amadea Resort & Villas Seminyak 是一间位于水明漾心脏地带的奢华度
 
 客房宽敞舒适：度假村提供一般双人客房、双卧室、四卧室别墅，可满足不同家庭的需求。客房均配备现代化设施。别墅更加私密奢华，别墅空间宽敞，配备私人泳池、花园、厨房等设施，让您享受更加私密和奢华的度假体验。
 
-[> ▶ Amadea Resort & Villas Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=263687) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-981554/amadea-resort-and-villas-seminyak-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/7BTCdKFz)](# Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）
+[> ▶ Amadea Resort & Villas Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=263687) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-981554/amadea-resort-and-villas-seminyak-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/7BTCdKFz)
+
+### Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）
 
 ![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535395931-436711424_medium.jpeg)
 ![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535396470-517865822_medium.jpeg)
@@ -175,23 +176,13 @@ Amadea Resort & Villas Seminyak 是一间位于水明漾心脏地带的奢华度
 ![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535398561-517866358_medium.jpeg)
 ![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535398997-517866359_medium.jpeg)
 
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535395931-436711424_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535396470-517865822_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535396846-517865839_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535397257-517865841_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535397670-517865849_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535397972-517865850_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535398276-517865853_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535398561-517866358_medium.jpeg)
-![Eden The Residence at The Sea Seminyak 滨海别墅（最多10人）](https://images.gobaligo.id/images/2026-03/1774535398997-517866359_medium.jpeg)
+这是一个位于水明漾的家庭度假胜地，提供46间优雅的别墅，让您和家人享受温暖的家庭时光。这里的每间别墅都配备了日常清洁服务，让您可以放心地享受您的度假时间。别墅的设计是以家庭为主题，提供了充足的空间让您和家人一起度假。您可以在户外泳池中与家人一起游泳、在露台上享受美景，或者在早餐时间一起享用早餐。
 
-Eden The Residence at The Sea Seminyak的位置非常便捷，靠近水明漾的海滩仅几步之遥，距离Mari Beach Club 120米，走出小巷子之后就有便利店和多家餐厅。您可以随时出发探索海滩的美景和活动。提供的房型有双卧室、三卧室、五卧室villa，最多可以容纳10个人。
+Eden The Residence at The Sea Seminyak的位置非常便捷，靠近水明漾的海滩仅几步之遥，距离Mari Beach Club 120米，走出小巷子之后就有便利店和多家餐厅。您可以随时出发探索海滩的美景和活动。提供的房型有双卧室、三卧室、五卧室villa, 最多可以容纳10个人。
 
-[> ▶ Eden The Residence at The Sea Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255207) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685551/eden-the-residence-at-the-sea-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ayUO1N1D)](# Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）
+[> ▶ Eden The Residence at The Sea Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255207) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685551/eden-the-residence-at-the-sea-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ayUO1N1D)
 
-> ▶ Eden The Residence at The Sea Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255207) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685551/eden-the-residence-at-the-sea-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ayUO1N1D)
-
-Impiana 私人别墅为挑剔的旅行者提供奢华而宁静的度假体验。这家五星级别墅拥有50座精心设计的别墅，以无可挑剔的服务、令人惊叹的别墅和便利的地理位置而著称，是寻求难忘巴厘岛之旅的完美选择。
+### Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）
 
 ![Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）](https://images.gobaligo.id/images/2026-03/1774535438378-179092087.jpeg)
 ![Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）](https://images.gobaligo.id/images/2026-03/1774535438795-179092088.jpeg)
@@ -203,9 +194,9 @@ Impiana 私人别墅为挑剔的旅行者提供奢华而宁静的度假体验。
 ![Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）](https://images.gobaligo.id/images/2026-03/1774535440990-578183246.jpg)
 ![Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）](https://images.gobaligo.id/images/2026-03/1774535441399-179091715.jpeg)
 
-Impiana 私人别墅为挑剔的旅行者提供奢华而宁静的度假体验。这家五星级别墅拥有50座精心设计的别墅，以无可挑剔的服务、令人惊叹的别墅和便利的地理位置而著称，是寻求难忘巴厘岛之旅的完美选择。
+Impiana 私人别墅为挑剔的旅行者提供奢华而宁静的度假体验。这家五星级别墅拥有50 座精心设计的别墅，以无可挑剔的服务、令人惊叹的别墅和便利的地理位置而著称，是寻求难忘巴厘岛之旅的完美选择。
 
-Impiana 私人别墅是带孩子出游家庭的理想之选。度假村的儿童政策允许 3-12 岁儿童免费入住，让您享受实惠的价格。宽敞的别墅为每个家庭成员提供了充足的休憩空间，同时度假村的热心工作人员也始终秉持着以人为本的服务宗旨，让父母和孩子都能尽情享受欢乐时光。
+Impiana 私人别墅是带孩子出游家庭的理想之所。度假村的儿童政策允许 3-12 岁儿童免费入住，让您享受实惠的价格。宽敞的别墅为每个家庭成员提供了充足的休憩空间，同时度假村的热心工作人员也始终秉持着以人为本的服务宗旨，让父母和孩子都能尽情享受欢乐时光。
 
 Impiana Private Villas Seminyak旁边就是一家大型超市，离热闹的「Jl. Raya Seminyak（水明漾大道）」仅有300米距离，在这条路上可以找到各式餐饮、精品店。
 
@@ -228,7 +219,7 @@ KoenoKoeni 别墅位于巴厘岛水明漾区，环境优美且安静。虽然附
 
 别墅设有数量有限的超豪华独立别墅，室内装潢奢华大气，结合了现代与传统艺术。每间别墅均配有私人泳池和宽敞的花园庭院，提供完美的放松空间。
 
-KoenoKoeni Villa提供一到三房的别墅，别墅内有宽敞的卧室，拥有美丽的高金字塔形天花板，配有多个室外淋浴间，一个令人惊叹的游泳池和一个小但非常丰盛的花园。独立宽敞的用餐/白天区域，面对着游泳池。它既神秘又令人兴奋，又舒适又温馨。（[乔珂美学CiaoCalli提供](https://www.facebook.com/share/r/EV6HGe636Q6vs7Bt/)）
+KoenoKoeni Villa提供一到三房的别墅，别墅内有宽敞的卧室，拥有美丽的高金字塔形天花板，配有几个室外淋浴间，一个令人惊叹的游泳池和一个小但非常丰盛的花园。独立宽敞的用餐/白天区域，面对着游泳池。它既神秘又令人兴奋，又舒适又温馨。（[乔珂美学CiaoCalli提供](https://www.facebook.com/share/r/EV6HGe636Q6vs7Bt/)）
 
 > ▶ KoenoKoeni Villa 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=393972) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685495/koenokoeni-villa-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/adsyeHSw)
 
@@ -249,9 +240,9 @@ KoenoKoeni Villa提供一到三房的别墅，别墅内有宽敞的卧室，拥�
 
 C151 Smart Villas at Seminyak 是一座奢华而现代的度假村，拥有20栋别墅，专为寻求舒适住宿和贴心服务的家庭而设计。度假村提供宽敞的别墅、私人泳池和一系列便利设施，为您和家人创造难忘的回忆。
 
-C151 Smart Villas 提供各种别墅选择，可满足不同家庭的需求。无论您是与小家庭同行还是大家庭出游，他们提供一房别墅、两房别墅、三房别墅，最多可容纳六大两小，旅客都能找到完美的住宿选择。
+C151 Smart Villas 提供各种别墅选择，可满足不同家庭的需求。无论您是与小家庭同行还是大家庭出游，他们提供一房别墅、两房别墅、三房别墅，最多可以容纳六大两小，旅客都能找到完美的住宿选择。
 
-> ▶ C151 Smart Villas at Seminyak 房價及空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=97582) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-981761/c151-smart-villas-at-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> ▶ C151 Smart Villas at Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=97582) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-981761/c151-smart-villas-at-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### Amarin Seminyak - 体验世界一流的服务 （最多8人）
 
@@ -264,7 +255,7 @@ C151 Smart Villas 提供各种别墅选择，可满足不同家庭的需求。�
 ![Amarin Seminyak - 体验世界一流的服务 （最多8人）](https://images.gobaligo.id/images/2026-03/1774535558646-115377195.jpeg)
 ![Amarin Seminyak - 体验世界一流的服务 （最多8人）](https://images.gobaligo.id/images/2026-03/1774535559055-115380416.jpeg)
 
-Amarin Seminyak位于水明漾闹中取静的区域。该物业距离水明漾最热闹的Jl. Ayu Kaya仅330米，到Seminyak Square购物广场1公里，步行即可到达商店和众多餐饮场所。住宿期间，私人管家随时准备为客人提供协助，并提供免费定时班车前往周边地区。
+Amarin Seminyak位于水明漾的闹中取静的地区。该物业距离水明漾最热闹的Jl. Ayu Kaya只有330米，到Seminyak Square购物广场1公里，步行即可抵达商店和许多餐饮场所。住宿期间，个人管家随时准备协助客人，并提供免费定时穿梭巴士前往周边地区。
 
 Amarin Seminyak有三卧室和四卧室的泳池别墅，每个别墅均设有一个带浅水区的大型室外游泳池、开放式休息和用餐区，以及一个设备齐全的厨房。宽敞的客厅配有娱乐系统。每间空调卧室均配有平板智能电视和连接浴室。
 
@@ -363,7 +354,7 @@ Secana Beachtown 离海滩300米，走路到Atlas Beach Fest 600米，周围拥�
 
 客人赞扬 Secana Beachtown 的舒适和清洁的住宿、友善的服务和优秀的位置。这个住宅区在Agoda上获得评分9.5；Tripadvisor评价满分，表明客人对这个住宅区的满意度很高。
 
-Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时间，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。
+Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪华住宿、多样的设施和优秀的位置提供了舒适、放松和探险的完美组合。无论您想放松、探索或与家人共度美好时光，Secana Beachtown 都是一个适合您的下一个家庭度假目的地。
 
 > ▶ Secana Beachtown 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110442701/secana-beachtown-resort-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dGqHl6a2)
 
@@ -378,11 +369,11 @@ Secana Beachtown 在坎古是一个适合家庭度假的理想选择。它的豪
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535767867-2b9d1004e25b920e2ad390ad9a671e6d_large.jpeg)
 ![Avilla Paradise: 4BR Designer Villa （最多8人）](https://images.gobaligo.id/images/2026-03/1774535768272-9f3ab295bec9d12ad3d4ed2362b2f38b_large.jpeg)
 
-位于坎古Batu Bolong的中心地带，Avilla Paradise是一栋新建的热带禅风四卧室别墅，提供完美的家庭度假体验。多种奢华设施，包括可容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备完整的厨房用具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。
+位于坎古（Canggu）Batu Bolong的中心地带，Avilla Paradise是一所新建的热带禅风四卧室别墅，提供了完美的家庭度假体验。多种奢华设施，包括能容纳20人的沉浸式沙发、顶层休闲区的舒适沙发、8人的意大利卡拉拉大理石餐桌、厨房配备有完整的厨房器具、客厅有55英寸4K电视机配备Netflix和Disney、7x3米的游泳池。Avilla Paradise拥有4间卧室，每间卧室都有其独特的特点。3间卧室中的43英寸4K电视机、主卧室的浴缸和2间卧室的室内花园。
 
-Avilla Paradise位于Batu Bolong宁静的小巷里，距离Pantai Batu Bolong Street仅1分钟步行路程，附近有多家餐厅、酒吧和超市。距离Love Anchor 700米，步行到Batu Bolong Beach和Berawa Beach约15～20分钟。
+Avilla Paradise位于Batu Bolong宁静的小巷里，距离Pantai Batu Bolong Street只有1分钟步行路程，附近有多家餐厅、酒吧和超市。距离Love Anchor 700米、步行到Batu Bolong Beach和Berawa Beach约15～20分钟。
 
-> ▶ Eden The Residence at The Sea Seminyak房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581660) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685551/eden-the-residence-at-the-sea-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wlixS970)
+> ▶ Eden The Residence at The Sea Seminyak 房价及空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581660) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685551/eden-the-residence-at-the-sea-seminyak/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wlixS970)
 
 ### The Bija Villas by Nakula（最多18人）
 
@@ -397,9 +388,9 @@ Avilla Paradise位于Batu Bolong宁静的小巷里，距离Pantai Batu Bolong St
 ![The Bija Villas by Nakula（最多18人）](https://images.gobaligo.id/images/2026-03/1774535813934-550911383.jpg)
 ![The Bija Villas by Nakula（最多18人）](https://images.gobaligo.id/images/2026-03/1774535814245-ac5b4f025735c57951f16b8ee1652bb9.jpeg)
 
-The Bija Villas by Nakula位于巴厘岛坎古（Canggu）地区，距离海滩仅需10分钟车程，融合传统巴厘岛建筑与现代设计，提供宁静且私密的度假体验。整个物业占地1900平方米，共有9间卧室，可根据需求以7间或9间卧室的配置出租。
+The Bija Villas by Nakula 位于巴厘岛坎古（Canggu）地区，距离海滩仅需10分钟车程，融合传统巴厘岛建筑与现代设计，提供宁静且私密的度假体验。整个物业占地1900平方米，共有9间卧室，可根据需求以7间或9间卧室的配置出租。
 
-The Bija Villas提供多样化的设施，以满足客人的各种需求：
+The Bija Villas 提供多样化的设施，以满足客人的各种需求：
 
 - **游泳池**：别墅设有无边泳池（13.34米 x 4.7米）和主泳池（11.52米 x 5.65米），供客人放松身心。
 - **娱乐设施**：每间卧室配有50寸智能电视，客厅则配有65寸智能电视。此外，还提供乒乓球桌、桌游和迷你高尔夫等娱乐选项。
@@ -442,7 +433,7 @@ The Bija Villas提供多样化的设施，以满足客人的各种需求：
 ![Kayumanis Sanur Private Villa & Spa - 巴厘岛东岸的肉桂私人别墅（最多6人）](https://images.gobaligo.id/images/2026-03/1774535894731-137582163.jpeg)
 ![Kayumanis Sanur Private Villa & Spa - 巴厘岛东岸的肉桂私人别墅（最多6人）](https://images.gobaligo.id/images/2026-03/1774535895624-63359256.jpeg)
 
-位于迷人的巴厘岛东岸沙努尔小镇，Kayumanis Sanur Private Villa & Spa（沙努尔肉桂私人别墅 & 水疗）提供了一个独家而豪华的家庭度假体验。这个充满现代舒适和无可比拟服务的避风港，坐落在一个绿意盎然的热带花园中，灵感来自传统的村庄布局。该物业仅有11栋别墅和一系列设施，通过树木间蜿蜒的石径相连，从您抵达的那一刻开始就营造出一种隐秘和独特感。
+位于迷人的巴厘岛东岸沙努尔小镇，Kayumanis Sanur Private Villa & Spa（沙努尔肉桂私人别墅 & 水疗）提供了一个独家而豪华的家庭度假体验。这个充满现代舒适和无可比拟服务的避风港，坐落在绿意盎然的热带花园中，灵感来自传统的村庄布局。该物业仅有11栋别墅和一系列设施，通过树木间蜿蜒的石径相连，从您抵达的那一刻起就营造出一种隐秘和独特感。
 
 Kayumanis Sanur Private Villa & Spa的位置虽然不在海滩，直线距离到海滩有900米远，但是走路五分钟的路程内有数十家餐厅、咖啡厅，往大马路走300米就有Alfamart便利店，生活机能还算不错。
 
@@ -465,9 +456,9 @@ Kayumanis Sanur Private Villa & Spa 提供单卧室、2卧室、3卧室等三种
 
 想在巴厘岛住宿海景villa通常都是天价，而在Sanur Residence，您可以以相对合理的价格享受到豪华海滨别墅。
 
-Sanur Residence是一栋宽敞、现代化的海滨别墅，位于巴厘岛沙努尔的北部区域。毗邻热门的旅游胜地沙努尔，可以俯瞰海洋和稻田，以及邻近的蓝梦岛和佩尼达岛。
+Sanur Residence是一个宽敞、现代化的海滨别墅，位于巴厘岛沙努尔的北部区域。毗邻热门的旅游胜地沙努尔，可以俯瞰海洋和稻田，以及邻近的蓝梦岛和佩尼达岛。
 
-它由三座别墅组成，房型有三间卧室和六间卧室的选项。每栋别墅有独立的起居/餐厅区域和客用厨房。共用的餐饮/活动室、电视休息室、23米的无边泳池、大花园和休憩凉亭，使沙努尔公馆成为朋友团体、大家庭和企业休闲的理想选择。他们也有私人厨师和别墅经理，是举办大型婚礼和特别活动的绝佳场所。
+它由三座别墅组成，房型有三间卧室和六间卧室的选项。每栋别墅有独立的起居/餐厅区域和客用厨房。共用的餐饮/活动室、电视休息室、23米的无边际泳池、大花园和休憩凉亭，使沙努尔住宅成为朋友团体、大家庭和企业休闲的理想选择。他们也有私人厨师和别墅经理，是举办大型婚礼和特别活动的绝佳场所。
 
 Sanur Residence距离海滩约100米，可以远眺巴东海峡和远处的Nusa Penida。步行到搭船往巴厘岛离岛的码头（Sanur Harbour）23分钟；GrandLucky超市9分钟车程；Sindhu Night Market 10分钟车程；Icon Bali购物中心11分钟车程。缺点是附近较为僻静，没有什么餐厅、咖啡厅、便利店。但是却有Tripadvisor评分满分的高性价比。
 
@@ -551,9 +542,9 @@ Avillion Villa Cinta @ Sanur 以其卓越的服务、整洁的环境和优越的
 
 2024年全新登场的 **Arpana Luxury Private Pool Villas**，是一处隐身在金巴兰山丘的疗愈系奢华住所。10栋独立泳池别墅错落在翠绿坡地，既能享受静谧私密，又距离机场仅15–20分钟车程，便利与隐逸兼具。
 
-每一栋别墅都设有私人泳池、宽敞客厅与厨房，适合4～6人入住，特别适合家庭或好友同游。花园景观与森林景观两种房型，各有不同风情，搭配**500平方米**的宽裕空间，让人完全放松。
+每一栋别墅都设有私人泳池、宽敞客厅与厨房，适合4～6人入住，特别适合家庭或好友同游。花园景观与森林景观两种房型，各有不同风情，搭配**500平方米**的宽敞空间，让人完全放松。
 
-公共设施同样用心，设有氛围满分的酒吧与供应多元料理的餐厅，夜晚还可能遇上现场演出。Google与Agoda评分更高达9.5以上，无论是整洁度、服务还是性价比，都获得旅客一致赞赏。🌴✨这里，是你在巴厘岛享受宁静与奢华的秘密基地。
+公共设施同样用心，设有氛围满分的酒吧与供应多元料理的餐厅，夜晚还可能遇上现场演出。Google与Agoda评分高达9.5以上，无论是整洁度、服务还是性价比，都获得旅客一致赞赏。🌴✨这里，是你在巴厘岛享受宁静与奢华的秘密基地。
 
 > ▶**Arpana Luxury Private Pool Villas 空房 & 房价查询**[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64961377)
 
