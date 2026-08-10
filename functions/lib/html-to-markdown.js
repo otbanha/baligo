@@ -101,6 +101,22 @@ function collectMeta(rewriter, meta) {
 }
 
 /**
+ * 先把不要的子樹整棵砍掉，再交給 convertRoot。
+ *
+ * ⚠️ 這一步不能省成「在 convertRoot 裡用 skip 計數器跳過」：HTMLRewriter 對
+ * 同一個元素只有**最後註冊**的 onEndTag 會執行。`<nav class="toc">` 同時中
+ * `nav` 和 `.toc` 兩條規則時，skip 會加兩次只減一次，那之後的內容就整段消失。
+ * 分成兩趟之後，convertRoot 只剩彼此互斥的標籤選擇器，不會再撞在一起。
+ */
+function stripChrome(html) {
+  let rewriter = new HTMLRewriter();
+  for (const selector of [...SKIP_TAGS, ...SKIP_SELECTORS]) {
+    rewriter = rewriter.on(selector, { element(el) { el.remove(); } });
+  }
+  return rewriter.transform(new Response(html)).text();
+}
+
+/**
  * 把 root 選擇器底下的內容轉成 markdown。
  * 回傳空字串代表這個 root 在文件裡不存在（呼叫端再換下一個 root 重試）。
  */
@@ -123,17 +139,7 @@ async function convertRoot(html, root, baseUrl) {
     },
   });
 
-  // ── 整段跳過的標籤與版面配件 ──
-  const skipSubtree = {
-    element(el) {
-      skip++;
-      el.onEndTag(() => { skip--; });
-    },
-  };
-  for (const selector of [...SKIP_TAGS, ...SKIP_SELECTORS]) {
-    rewriter = rewriter.on(`${root} ${selector}`, skipSubtree);
-  }
-
+  // 不要的標籤／版面配件已經在 stripChrome() 整棵砍掉了，這裡不再處理
   // ── 標題 ──
   HEADINGS.forEach((tag, i) => {
     rewriter = rewriter.on(`${root} ${tag}`, {
@@ -337,10 +343,11 @@ export async function htmlToMarkdown(html, baseUrl) {
 
   // 相對連結一律補成正式網址（用 canonical，避免 preview 網域外流到 markdown 裡）
   const base = meta.canonical || baseUrl;
+  const cleaned = await stripChrome(html);
 
   let body = '';
   for (const root of ['article', 'main', 'body']) {
-    body = await convertRoot(html, root, base);
+    body = await convertRoot(cleaned, root, base);
     if (body) break;
   }
 
