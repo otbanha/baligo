@@ -24,6 +24,7 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: zh-cn
+_srcHash: e9eb86267fbb2a869edd6664b58cb2f4
 ---
 **先说结论**：La Cabane Bali 位于乌鲁瓦图 Balangan 海滩附近，步行数分钟可达沙滩，由法国女主人 Céline 经营，从最初 2 间竹屋扩展至**现有 5 间生态小屋 + 1 栋三房私人泳池别墅**，房源稀少常一房难求，适合喜欢私密法式浪漫氛围、想避开大型度假村喧闹的旅客，建议提前订房。
 
@@ -41,32 +42,33 @@ La Cabane Bali 静静坐落在金巴兰/乌鲁瓦图 Balangan Beach 附近，走
 
 ## 房型选择：每一间都有故事
 
-La Cabane 虽然房间数量不多，但每一间都经过巧思设计，带来截然不同的感受：
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360714959-ebcae29f.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360715349-8d2fcacf.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360716124-80a34a53.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360716563-1764f038.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360716987-528803b2.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360717623-9524784c.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360718003-190950996.jpg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360718401-190952333.jpg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360718790-190952534.jpg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360719156-c43198d4.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360719564-cbccf54e.jpeg)
+![房型选择：每一间都有故事](https://images.gobaligo.id/images/2026-03/1774360720070-e86d22fb.jpeg)
 
 * **Bungalow Mao（附私人泼水池）**
-  适合小家庭或朋友同行，两张 King Size 大床让空间宽敞舒适，搭配独立小泳池，隐私度极高。
-* **Bungalow Paz**
-  只有一张大床的设计，更适合情侣入住，氛围温馨又浪漫。
-* **Deluxe Bungalow Lua（32㎡）**
-  可选择一张 King Bed 或 Sofa Bed，空间充裕，特别适合想在房间多待一点时间的旅人。
-* **Deluxe Bungalow Mar（42㎡）**
-  面积更大，沙发床的选择让它更具弹性，常被喜欢长住的旅人选择。
-* **三房别墅（带私人泳池）**
-  是 La Cabane 的「压轴」，可容纳家庭或小团体，私人泳池与开放式起居空间，让人感觉像是专属的度假别墅。
 
-* **Bungalow Mao（附私人潑水池）**
-  適合小家庭或朋友同行，兩張 King Size 大床讓空間寬敞舒適，搭配獨立小泳池，隱私度極高。
+* **Bungalow Mao（附私人泼水池）**
+适合小家庭或朋友同行，两张King Size大床让空间宽敞舒适，搭配独立小泳池，隐私度极高。
 * **Bungalow Paz**
-  只有一張大床的設計，更適合情侶入住，氛圍溫馨又浪漫。
+只有一张大床的设计，更适合情侣入住，氛围温馨又浪漫。
 * **Deluxe Bungalow Lua（32㎡）**
-  可選擇一張 King Bed 或 Sofa Bed，空間充裕，特別適合想在房間多待一點時間的旅人。
+可选择一张King Bed或Sofa Bed，空间充裕，特别适合想在房间多待一点的旅人。
 * **Deluxe Bungalow Mar（42㎡）**
-  面積更大，沙發床的選擇讓它更具彈性，常被喜歡長住的旅人選擇。
-* **三房別墅（帶私人泳池）**
-  是 La Cabane 的「壓軸」，可容納家庭或小團體，私人泳池與開放式起居空間，讓人感覺像是專屬的度假別墅。
+面积更大，沙发床的选择让它更具弹性，常被喜欢长住的旅人选择。
+* **三房别墅（带私人泳池）**
+是La Cabane的「压轴」，可容纳家庭或小团体，私人泳池与开放式起居空间，让人感觉像是专属的度假别墅。
 
 每间小屋都以竹子、木材与天然材质打造，巧妙融合巴厘岛的在地元素与欧式细腻美感。夜晚点起灯光，氛围就像走进热带丛林中的浪漫小故事。
-
 
 ## 太热门，难以预订
 
@@ -95,10 +97,10 @@ La Cabane 虽然房间数量不多，但每一间都经过巧思设计，带来�
 
 ## 小提醒与资讯
 
-* **入住时间**：下午2点后；退房中午12点。
+* **入住时间**：下午 2 点后；退房中午 12 点。
 * **儿童政策**：可入住，但需额外收费，氛围更偏向成人或情侣取向。
-* **价格**：平均每晚约241美金，价格略高，但以私密性与体验来说相当值得。
-* **交通**：距离机场约30分钟，建议提前安排接送。
+* **价格**：平均每晚约 241 美金，价格略高，但以私密性与体验来说相当值得。
+* **交通**：距离机场约 30 分钟，建议提前安排接送。
 
 ![小提醒與資訊](https://images.gobaligo.id/vocus/vocus_251f3c5625de9563344a31e68821f4fa.jpg)
 
@@ -108,11 +110,11 @@ La Cabane Bali 是一个让人真正「慢下来」的地方。房间不多却�
 
 ✨ 如果你想在巴厘岛找到一个既浪漫又独特的落脚处，La Cabane Bali 会是难以忘怀的选择。但别忘了，它真的太热门，**一定要提早预订**！
 
-> [**▶La Cabane空房与房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10627469/la-cabane/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wKgXBxsN)
+[> [**▶La Cabane空房与房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-10627469/la-cabane/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/wKgXBxsN)
 
 
 ## 订房建议小技巧
 
-因为房间实在太抢手，建议大家在 **Agoda 上开启「价格与空房提醒功能」**，这样一旦有取消订单释出空房或价格变动，你就会立即收到通知。这个小技巧能大大提升订到 La Cabane 的机会，不至于因为一时错过而遗憾。
+因为房间实在太抢手，建议大家在 **Agoda 上开启“价格与空房提醒功能”**，这样一旦有取消订单释放空房或价格变动，你就会立即收到通知。这小技巧能大大提升订到 La Cabane 的机会，不至于因为一时错过而遗憾。
 
 {{block:住宿}}
