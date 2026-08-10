@@ -1,7 +1,7 @@
 ---
 title: 巴厘岛包车司机推荐名单（第二页）｜中文司机为主·社团真实分享
 slug: ''
-description: 巴厘岛包车司机推荐名单第二页，以可中文沟通的司机为主，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
+description: 巴厘岛包车司机推荐名单第二页，以可中文沟通的司机为主，每位司机底下的分享链接都能点开查证原始社团贴文。附2026包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -19,8 +19,7 @@ shuffle_h2: true
 embeds: []
 updatedDate: 2026-08-10T00:00:00.000Z
 lang: zh-cn
-_srcHash: PENDING_RETRY_f7b2fce4f0552455fc1602f1f65cb4eb
-_translateAttempts: 2
+_srcHash: f7b2fce4f0552455fc1602f1f65cb4eb
 ---
 Update: 2026/08/10
 
@@ -34,12 +33,12 @@ Update: 2026/08/10
 
 ## 本页 19 位司机一览表
 
-顺序**不代表排名**，则数多只表示口碑积累得久。点名字可跳到该位司机的分享链接。
+顺序**不代表排名**，则数多只表示口碑累积得久。点名字可跳到该位司机的分享链接。
 
-| 司機 | 網友分享則數 |
+| 司机 | 网友分享则数 |
 | --- | ---: |
-| [Jimmi Liu 吉米劉](#jimmi-liu-吉米劉) | 9 |
-| [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 24 |
+| [Jimmi Liu 吉米刘](#jimmi-liu-吉米刘) | 9 |
+| [Betty Pinsky & 小吴](#betty-pinsky--小吴) | 24 |
 | [Any 安妮](#any-安妮) | 31 |
 | [Komang WikaSutresna](#komang-wikasutresna) | 13 |
 | [Fery Kyo](#fery-kyo) | 17 |
