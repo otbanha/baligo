@@ -66,6 +66,15 @@
   Access-Control-Allow-Methods: POST, OPTIONS
   Access-Control-Allow-Headers: Content-Type
 
+# Agent 探索文件（CORS 由下面的 /* 規則統一給，這裡再寫一次會變成 "*, *"）
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+/openapi.json
+  Cache-Control: public, max-age=3600
+/.well-known/*
+  Cache-Control: public, max-age=3600
+
 # All pages — security headers
 /*
   X-Content-Type-Options: nosniff
@@ -75,3 +84,4 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, OPTIONS
+  Link: </.well-known/api-catalog>; rel="api-catalog", </openapi.json>; rel="service-desc"; type="application/json", </docs/api/>; rel="service-doc"; type="text/html", </llms.txt>; rel="alternate"; type="text/plain"; title="llms.txt", </.well-known/agent-skills/index.json>; rel="describedby"; type="application/json", </sitemap-index.xml>; rel="sitemap"; type="application/xml"

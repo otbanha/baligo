@@ -7,6 +7,13 @@
 
 import redirectMap from './redirect-map.json';
 import redirectHexMap from './redirect-hex-map.json';
+import {
+  prefersMarkdown,
+  stripMdSuffix,
+  isConvertible,
+  respondWithMarkdown,
+} from './lib/markdown-negotiation.js';
+import { serveWellKnown } from './lib/agent-discovery.js';
 
 const LANG_COOKIE = 'gobaligo_lang';
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 年
@@ -100,6 +107,22 @@ export async function onRequest({ request, next }) {
       status: 301,
       headers: { 'Location': `${url.origin}${redirectTarget}${url.search}` },
     });
+  }
+
+  // Agent 探索用的 well-known 文件（副檔名不是 .json，靠靜態檔給不了正確
+  // 的 application/linkset+json，所以在這裡直接回）
+  const wellKnown = serveWellKnown(pathname, url.origin);
+  if (wellKnown) return wellKnown;
+
+  // Markdown for Agents：Accept: text/markdown（或 text/*）、或網址加 .md 後綴，
+  // 都回同一頁的 markdown 版本。一般瀏覽器送 */* 不受影響，仍然拿到 HTML。
+  if (request.method === 'GET' || request.method === 'HEAD') {
+    const mdPath = stripMdSuffix(pathname);
+    const wantsMarkdown = mdPath !== null || prefersMarkdown(request.headers.get('accept'));
+    const htmlPath = mdPath ?? pathname;
+    if (wantsMarkdown && isConvertible(htmlPath)) {
+      return respondWithMarkdown(request, next, url, htmlPath, mdPath !== null);
+    }
   }
 
   // 爬蟲/社群媒體抓取器

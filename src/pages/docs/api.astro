@@ -1,0 +1,202 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+const lang = 'zh-tw';
+const title = 'Go Bali Go 開放資料與 Agent 介面說明';
+const description = 'gobaligo.id 提供給 AI agent 與開發者的公開介面：文章索引、換匯匯率、熱門文章，以及每一頁都支援的 Markdown 內容協商（Accept: text/markdown 或 .md 網址）。';
+
+const endpoints = [
+  {
+    path: '/article-index.json',
+    desc: '全站 839 篇文章索引（標題、網址、分類、標籤、摘要）',
+    example: 'curl https://gobaligo.id/article-index.json',
+  },
+  {
+    path: '/api/exchange-rate',
+    desc: '峇里島換匯參考匯率，峇里島時間 09:00–16:00 每兩小時更新',
+    example: 'curl https://gobaligo.id/api/exchange-rate',
+  },
+  {
+    path: '/api/top-viewed',
+    desc: '近 7 天站內熱門文章前 10 名',
+    example: 'curl https://gobaligo.id/api/top-viewed',
+  },
+  {
+    path: '/api/hot-articles',
+    desc: '編輯精選的熱門文章清單',
+    example: 'curl https://gobaligo.id/api/hot-articles',
+  },
+  {
+    path: '/api/health',
+    desc: '健康檢查',
+    example: 'curl https://gobaligo.id/api/health',
+  },
+];
+
+const discovery = [
+  { path: '/llms.txt', desc: '站台導覽與重點內容清單（llmstxt.org 格式）' },
+  { path: '/.well-known/api-catalog', desc: 'API 目錄，application/linkset+json（RFC 9727）' },
+  { path: '/openapi.json', desc: 'OpenAPI 3.1 規格' },
+  { path: '/.well-known/agent-skills/index.json', desc: 'Agent Skills 探索索引' },
+  { path: '/sitemap-index.xml', desc: '全站 sitemap' },
+  { path: '/rss.xml', desc: 'RSS' },
+];
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} type="website" />
+</head>
+
+<body>
+  <Header lang={lang} hideLangSwitcher={true} />
+
+  <main class="docs-wrap">
+    <article class="docs-card">
+      <h1>開放資料與 Agent 介面</h1>
+      <p class="lede">
+        這頁是給 AI agent 與開發者看的。所有端點都公開、唯讀、免驗證，回傳 JSON。
+        內容可以自由引用，但請標註來源並附上原文連結。
+      </p>
+
+      <h2>Markdown 版本（Markdown for Agents）</h2>
+      <p>站上每一個頁面都有 markdown 版本，兩種取得方式：</p>
+      <pre><code># 1. 內容協商
+curl -H "Accept: text/markdown" https://gobaligo.id/blog/bali-visa-guide/
+
+# 2. 網址加 .md 後綴
+curl https://gobaligo.id/blog/bali-visa-guide.md</code></pre>
+      <p>
+        回應的 <code>Content-Type</code> 是 <code>text/markdown; charset=utf-8</code>，
+        並帶 <code>x-markdown-tokens</code>（markdown 版 token 估計值）與
+        <code>x-original-tokens</code>（原始 HTML 的估計值）兩個 header。
+        一般瀏覽器送的 <code>Accept: */*</code> 不受影響，拿到的仍然是 HTML。
+      </p>
+
+      <h2>端點</h2>
+      <table>
+        <thead>
+          <tr><th>路徑</th><th>說明</th></tr>
+        </thead>
+        <tbody>
+          {endpoints.map((e) => (
+            <tr>
+              <td><code><a href={e.path}>{e.path}</a></code></td>
+              <td>{e.desc}<br /><code class="cmd">{e.example}</code></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <h2>探索文件</h2>
+      <table>
+        <thead>
+          <tr><th>路徑</th><th>說明</th></tr>
+        </thead>
+        <tbody>
+          {discovery.map((d) => (
+            <tr>
+              <td><code><a href={d.path}>{d.path}</a></code></td>
+              <td>{d.desc}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <h2>使用限制</h2>
+      <ul>
+        <li>沒有 API key，也沒有硬性速率限制，但請維持合理頻率（建議每秒 1 次以內）。</li>
+        <li>文章索引每次 build 更新；匯率一天更新 5 次，不必比這更頻繁地抓。</li>
+        <li>站上的 AI 問答端點（<code>/api/chat</code>）走付費模型且有每日額度，
+          刻意不列入 API 目錄，請不要當成公開 API 使用。</li>
+        <li>引用內容請標註「Go Bali Go（gobaligo.id）」並保留原文連結。</li>
+      </ul>
+
+      <h2>聯絡</h2>
+      <p>問題或需要其他資料格式，請到 <a href="/about">關於頁</a>找聯絡方式。</p>
+    </article>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+  .docs-wrap {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 2rem 1rem 4rem;
+  }
+  .docs-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 2rem 1.75rem;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+  }
+  .docs-card h1 {
+    font-size: 1.9rem;
+    margin: 0 0 0.75rem;
+  }
+  .docs-card h2 {
+    font-size: 1.25rem;
+    margin: 2rem 0 0.75rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+  }
+  .lede {
+    color: #555;
+    line-height: 1.8;
+  }
+  .docs-card p,
+  .docs-card li {
+    line-height: 1.9;
+  }
+  .docs-card table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.5rem 0 1rem;
+    font-size: 0.95rem;
+  }
+  .docs-card th,
+  .docs-card td {
+    text-align: left;
+    padding: 0.6rem 0.5rem;
+    border-bottom: 1px solid #eee;
+    vertical-align: top;
+  }
+  .docs-card code {
+    background: #f4f6f8;
+    border-radius: 4px;
+    padding: 0.1em 0.35em;
+    font-size: 0.9em;
+    word-break: break-all;
+  }
+  .docs-card code.cmd {
+    display: inline-block;
+    margin-top: 0.35rem;
+    color: #556;
+    background: transparent;
+    padding: 0;
+  }
+  .docs-card pre {
+    background: #0f3860;
+    color: #eaf2fb;
+    padding: 1rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    line-height: 1.7;
+  }
+  .docs-card pre code {
+    background: transparent;
+    color: inherit;
+    padding: 0;
+    word-break: normal;
+  }
+  @media (max-width: 600px) {
+    .docs-card {
+      padding: 1.25rem 1rem;
+    }
+  }
+</style>

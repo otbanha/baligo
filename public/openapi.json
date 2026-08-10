@@ -1,0 +1,184 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Go Bali Go 公開資料 API",
+    "summary": "Bali travel content and reference data from gobaligo.id",
+    "description": "gobaligo.id 對外公開的唯讀端點：文章索引、峇里島換匯參考匯率、熱門文章。所有端點都不需要驗證，回傳 JSON。\n\n每一個頁面也支援 Markdown 內容協商：帶 `Accept: text/markdown`，或在網址後面加 `.md`（例如 `/blog/xxx.md`），就會拿到該頁的 markdown 版本。",
+    "version": "1.0.0",
+    "contact": {
+      "name": "Go Bali Go",
+      "url": "https://gobaligo.id/about/"
+    },
+    "license": {
+      "name": "內容版權所有，允許在標註來源與連結的前提下引用",
+      "url": "https://gobaligo.id/about/"
+    }
+  },
+  "servers": [
+    { "url": "https://gobaligo.id", "description": "Production" }
+  ],
+  "paths": {
+    "/article-index.json": {
+      "get": {
+        "operationId": "getArticleIndex",
+        "summary": "全站文章索引",
+        "description": "839 篇繁體中文文章的索引，含標題、網址、描述、分類、標籤、發佈日期與摘要。要拿全文請改抓文章網址的 markdown 版本（`/blog/{slug}.md`）。",
+        "tags": ["content"],
+        "responses": {
+          "200": {
+            "description": "文章清單",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/ArticleSummary" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/exchange-rate": {
+      "get": {
+        "operationId": "getExchangeRate",
+        "summary": "峇里島換匯參考匯率",
+        "description": "以印尼盾（IDR）為基準的參考匯率，貼近峇里島換匯所實際行情。峇里島時間 09:00–16:00 每兩小時更新一次。TWD 因流通性低採固定參考值。",
+        "tags": ["reference"],
+        "responses": {
+          "200": {
+            "description": "匯率",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/ExchangeRate" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/top-viewed": {
+      "get": {
+        "operationId": "getTopViewed",
+        "summary": "近 7 天熱門文章",
+        "description": "依站內瀏覽數統計的近 7 天前 10 名，結果快取 1 小時。",
+        "tags": ["content"],
+        "responses": {
+          "200": {
+            "description": "排行結果",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/TopViewed" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/hot-articles": {
+      "get": {
+        "operationId": "getHotArticles",
+        "summary": "編輯精選熱門文章",
+        "tags": ["content"],
+        "responses": {
+          "200": {
+            "description": "精選清單",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "id": { "type": "string", "description": "文章 slug" },
+                      "title": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/health": {
+      "get": {
+        "operationId": "getHealth",
+        "summary": "健康檢查",
+        "tags": ["ops"],
+        "responses": {
+          "200": {
+            "description": "服務正常",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": { "type": "string", "const": "ok" },
+                    "time": { "type": "string", "format": "date-time" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ArticleSummary": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string", "description": "slug" },
+          "title": { "type": "string" },
+          "url": { "type": "string", "description": "站內路徑，例如 /blog/xxx/" },
+          "description": { "type": "string" },
+          "category": { "type": "array", "items": { "type": "string" } },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "pubDate": { "type": "string" },
+          "snippet": { "type": "string", "description": "正文開頭摘要" }
+        },
+        "required": ["id", "title", "url"]
+      },
+      "ExchangeRate": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "description": "峇里島時間的更新時刻，格式 YYYY-MM-DD HH:mm" },
+          "rates": {
+            "type": "object",
+            "description": "1 單位外幣可換得的印尼盾",
+            "additionalProperties": { "type": "number" }
+          },
+          "source": { "type": "string" }
+        }
+      },
+      "TopViewed": {
+        "type": "object",
+        "properties": {
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "url": { "type": "string" },
+                "title": { "type": "string" },
+                "views": { "type": "integer" }
+              }
+            }
+          },
+          "computedAt": { "type": "string", "format": "date-time" }
+        }
+      }
+    }
+  },
+  "tags": [
+    { "name": "content", "description": "文章與內容資料" },
+    { "name": "reference", "description": "旅遊參考資料" },
+    { "name": "ops", "description": "服務狀態" }
+  ],
+  "externalDocs": {
+    "description": "API 說明頁",
+    "url": "https://gobaligo.id/docs/api/"
+  }
+}

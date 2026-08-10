@@ -27,6 +27,13 @@ const {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 
+// 同一頁的 markdown 版本（Markdown for Agents）。除了 Accept: text/markdown 之外
+// 再給一個 .md 網址，讓不會設 Accept header 的 AI 工具也抓得到。
+const markdownURL = new URL(
+  Astro.url.pathname === '/' ? '/index.md' : `${Astro.url.pathname.replace(/\/$/, '')}.md`,
+  Astro.site,
+).href;
+
 const pathLang = Astro.url.pathname.startsWith('/en/')     ? 'en'    :
                  Astro.url.pathname.startsWith('/zh-cn/')  ? 'zh-cn' :
                  Astro.url.pathname.startsWith('/zh-hk/')  ? 'zh-hk' : 'zh-tw';
@@ -113,6 +120,14 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
+
+<!-- Agent 探索：markdown 版本、llms.txt、API 目錄（同一組資訊也放在 Link response header） -->
+<link rel="alternate" type="text/markdown" href={markdownURL} />
+<link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt" />
+<link rel="api-catalog" href="/.well-known/api-catalog" />
+
+<!-- WebMCP：瀏覽器端 agent 可直接呼叫的站內工具（不支援的瀏覽器直接跳過） -->
+<script src="/webmcp.js" defer></script>
 
 <!-- Hreflang (passed from page for homepage; article hreflangs are in sitemap) -->
 {hreflangs && hreflangs.map(({ hreflang, href }) => (
