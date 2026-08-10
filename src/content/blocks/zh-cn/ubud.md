@@ -3,9 +3,8 @@ title: Ubud
 type: normal
 randomCount: 5
 lang: zh-cn
-_srcHash: d990c12ece9fb4d8a7e95f8c57fc1ff3
+_srcHash: 01655bfa2ffc576a07b13e002d65ff1e
 ---
-
 ## 更多乌布吃喝玩乐介绍
 
 ![更多烏布吃喝玩樂介紹](https://images.gobaligo.id/images/2026-03/1774669107965-index.jpg)
@@ -14,7 +13,7 @@ _srcHash: d990c12ece9fb4d8a7e95f8c57fc1ff3
 
 ## 乌布的住宿主题介绍
 
-- [【巴厘岛乌布住宿】乌布特色住宿推荐30+，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-villas-pool-guide/)
+- [【巴厘岛乌布住宿】乌布特色住宿推荐30+，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-resorts-guide/)
 - [【乌布住宿推荐】乌布villa泳池别墅私密天堂: 20+令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)
 - [巴厘岛乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/zh-cn/blog/ubud-yoga-retreats-bali/)
 - [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/zh-cn/blog/bali-family-resorts-kids-club/)
