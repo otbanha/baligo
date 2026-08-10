@@ -10,6 +10,10 @@
 
 User-agent: *
 
+# 內容使用偏好（contentsignals.org）：可以拿去做搜尋索引、可以即時抓來回答問題，
+# 但不同意拿去訓練模型。與主站 gobaligo.id 的 Cloudflare 代管設定一致。
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
 # 共享主機，降低併發抓取速度（Bing / Yandex 等會遵守；Google 忽略此指令）
 Crawl-delay: 10
 
@@ -51,6 +55,41 @@ Disallow: /*&hilit=
 Allow: /viewtopic.php
 Allow: /viewforum.php
 
-# 沒有 Sitemap 指令：這個 phpBB 未安裝 sitemap 擴充套件，
-# /sitemap.xml、/sitemap_index.xml、/app.php/sitemap.xml 實測皆為 404。
-# 之後若裝了 sitemap 擴充，記得回來補上 Sitemap: 那一行。
+
+# ── AI 爬蟲：訓練用的擋掉，即時引用用的放行 ────────────────────────────
+#
+# robots.txt 的規則是「取最精確的那一組」：下面點名的爬蟲只會讀自己那一組，
+# 完全不看上面 User-agent: * 的內容，所以這裡各自寫完整。
+#
+# 沒點名的即時引用型爬蟲（OAI-SearchBot、ChatGPT-User、Claude-SearchBot、
+# Claude-User、PerplexityBot）會落回 User-agent: *，維持可抓——被 AI 回答
+# 引用時會附連結，那是導流，不是損失。
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+# sitemap.xml 由 scripts/generate-forum-sitemap.mjs 產生（phpBB 沒有內建功能，
+# 這個站規模小，直接爬版面頁列主題就夠，不必為此裝擴充動 PHP）。
+# ⚠️ 兩個檔要一起 FTP 上傳，只傳 robots.txt 會讓這行指到 404。
+Sitemap: https://community.gobaligo.id/sitemap.xml
