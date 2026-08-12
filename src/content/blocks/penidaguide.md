@@ -10,3 +10,4 @@ randomCount: 5
 - 🍽️ 佩尼達島[用餐賞美景攻略](/blog/nusa-penida-best-restaurants/)
 - 🤿 佩尼達島[浮潛潛點攻略](/blog/nusa-penida-snorkeling-guide/)
 - 🏨 佩尼達島[住宿攻略](/blog/nusa-penida-hotels-guide/)
+- 💸[努沙佩尼達景點全面收費](https://gobaligo.id/blog/Nusa-Penida-Entry-Fees=Expand/)
