@@ -19,6 +19,7 @@ shuffle_h2: true
 embeds: []
 updatedDate: 2026-08-10
 ---
+
 Update: 2026/08/10
 
 **本頁是什麼**：峇里島包車司機推薦名單的**第二頁**，以可中文溝通的司機為主，收錄 **19 位司機、258 則團友在臉書社團自己發文的搭乘分享**。每位司機底下那排數字都是原始貼文連結，可以自己點開查證。
@@ -27,16 +28,16 @@ Update: 2026/08/10
 
 > 聯繫司機時請一次講清楚：**日期、天數、人數與行李、上下車地點、想去哪些景點**，並問清楚含跨區加價的總金額。⚠️ Line 跨區沒辦法用 ID 加好友，要**掃 QR Code**。
 
-**👉 第一頁還有另外 24 位司機（含 9 位中文司機）：[峇里島包車司機推薦名單（第一頁）](/blog/bali-private-car-drivers-guide/)**
+**👉 第一頁還有另外 24 位司機（含 9 位中文司機）：**[**峇里島包車司機推薦名單（第一頁）**](/blog/bali-private-car-drivers-guide/)
 
 ## 本頁 19 位司機一覽表
 
 順序**不代表排名**，則數多只表示口碑累積得久。點名字可跳到該位司機的分享連結。
 
 | 司機 | 網友分享則數 |
-| --- | ---: |
+| --- | --- |
 | [Jimmi Liu 吉米劉](#jimmi-liu-吉米劉) | 9 |
-| [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 24 |
+| [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 25 |
 | [Any 安妮](#any-安妮) | 31 |
 | [Komang WikaSutresna](#komang-wikasutresna) | 13 |
 | [Fery Kyo](#fery-kyo) | 17 |
@@ -67,7 +68,7 @@ Update: 2026/08/10
 
 ![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
-👍 **24 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) [2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) [3](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) [4](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) [5](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) [6](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) [7](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) [8](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) [9](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) [10](https://www.facebook.com/share/p/153msrhAUp/) [11](https://www.facebook.com/share/p/14pukgECBh/) [12](https://www.facebook.com/share/p/15tH9LntDp/) [13](https://www.facebook.com/share/p/1AGnbS7Usi/) [14](https://www.facebook.com/share/p/1578r5eaTS/) [15](https://www.facebook.com/share/p/1ANZSYxXA5/) [16](https://www.facebook.com/share/p/1ANYFF9HPd/) [17](https://www.facebook.com/share/p/166PNTDsEF/) [18](https://www.facebook.com/share/p/1AoyTQa6Ut/) [19](https://www.facebook.com/share/p/1YvZrMzod9/) [20](https://www.facebook.com/share/p/1Hfu77tmut/) [21](https://www.facebook.com/share/p/14XwwPmVjhX/) [22](https://www.facebook.com/share/p/1CKtSKs5k1/) [23](https://www.facebook.com/share/p/1Gdf22t7Dq/) [24](https://www.facebook.com/share/p/1HBhznS2q1/)
+👍 **25 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) [2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) [3](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) [4](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) [5](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) [6](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) [7](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) [8](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) [9](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) [10](https://www.facebook.com/share/p/153msrhAUp/) [11](https://www.facebook.com/share/p/14pukgECBh/) [12](https://www.facebook.com/share/p/15tH9LntDp/) [13](https://www.facebook.com/share/p/1AGnbS7Usi/) [14](https://www.facebook.com/share/p/1578r5eaTS/) [15](https://www.facebook.com/share/p/1ANZSYxXA5/) [16](https://www.facebook.com/share/p/1ANYFF9HPd/) [17](https://www.facebook.com/share/p/166PNTDsEF/) [18](https://www.facebook.com/share/p/1AoyTQa6Ut/) [19](https://www.facebook.com/share/p/1YvZrMzod9/) [20](https://www.facebook.com/share/p/1Hfu77tmut/) [21](https://www.facebook.com/share/p/14XwwPmVjhX/) [22](https://www.facebook.com/share/p/1CKtSKs5k1/) [23](https://www.facebook.com/share/p/1Gdf22t7Dq/) [24](https://www.facebook.com/share/p/1HBhznS2q1/) [25](https://www.facebook.com/share/p/1Dgfo3doF5/)
 
 ## Any 安妮
 
@@ -152,7 +153,6 @@ Update: 2026/08/10
 ![Odon](https://images.gobaligo.id/images/2026-03/1774788129506-odon_new.jpg)
 
 👍 **6 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
-
 
 ## Gung Bali Wangzi 王子
 
