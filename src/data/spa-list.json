@@ -159,6 +159,15 @@
           "kkday": "https://www.kkday.com/zh-tw/product/259262?cid=25072",
           "trip": "https://tw.trip.com/things-to-do/detail/85420804?language=TW&locale=zh_tw&ext-searchpage=1&ext-mixlist=activity_main&ext-hasFilter=2&lasttraceid=253b07e5-603f-5d9d-f221-177889951056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
         }
+      },
+      {
+        "name": "Chaya Spa at Kamandalu Ubud",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1383343&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F210138-relaxing-balinese-spa-by-chaya-spa-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D66f22be5b6",
+          "kkday": "",
+          "trip": ""
+        }
       }
     ]
   },
@@ -475,6 +484,15 @@
           "trip": "https://tw.trip.com/things-to-do/detail/56375205?language=TW&locale=zh_tw&ext-searchpage=1&lasttraceid=3b2aec55-a99f-d7f7-4262-17788922f736&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
         },
         "description": "2022年環球小姐指定水療中心"
+      },
+      {
+        "name": "Tara Spa & Wellness Ubud",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1383343&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F219310-bali-spa-treatment-at-tara-spa-wellness-ubud%2F%3Fspm%3DLanguageCurrencySelectionPopup.SuggestLanguage_LIST%26clickId%3Dfafe3b09ee",
+          "kkday": "",
+          "trip": ""
+        }
       }
     ]
   },
