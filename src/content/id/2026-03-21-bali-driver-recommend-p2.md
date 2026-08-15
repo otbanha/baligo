@@ -4,10 +4,10 @@ title: >-
   Berbahasa Mandarin, Sharing Asli dari Komunitas
 slug: ''
 description: >-
-  Halaman kedua rekomendasi driver sewa mobil di Bali, fokus pada driver yang
-  bisa komunikasi pakai bahasa Mandarin. Setiap link di bawah nama driver bisa
-  diklik untuk cek postingan asli di grup. Disertai harga sewa 2026 dan info
-  yang perlu disiapkan saat menghubungi driver.
+  Daftar rekomendasi driver sewa mobil di Bali halaman kedua, fokus pada driver
+  yang bisa komunikasi pakai bahasa Mandarin. Setiap link sharing di bawah nama
+  driver bisa diklik untuk cek postingan asli di grup. Disertai harga sewa 2026
+  dan info yang perlu disiapkan saat menghubungi driver.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -23,25 +23,25 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-12T00:00:00.000Z
+updatedDate: 2026-08-15T00:00:00.000Z
 lang: id
-_srcHash: 14a0ff5837abd389c2878fb8969243fe
-_translateIncomplete: true
+_srcHash: PENDING_RETRY_3f00a105c3ce21bf88416e6a2f7eed46
+_translateAttempts: 1
 ---
 
 Update: 10/08/2026
 
-**Apa itu halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, mayoritas driver bisa bahasa Mandarin. Ada **19 driver, 258 pengalaman perjalanan yang dibagikan langsung oleh anggota grup di Facebook**. Setiap deretan angka di bawah nama driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
+**Apa itu halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, mayoritas driver bisa bahasa Mandarin. Ada **19 driver, 258 pengalaman perjalanan yang dibagikan langsung oleh anggota grup di Facebook**. Angka-angka di bawah setiap driver adalah link ke postingan asli, bisa kamu klik sendiri untuk verifikasi.
 
-Harga sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (hitung per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (setengah hari Rp 50.000, sehari penuh Rp 100.000). Biaya tambahan lintas zona, hitungan lembur, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
+Harga sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (setengah hari Rp 50.000, sehari penuh Rp 100.000). Biaya tambahan lintas zona, hitungan lembur, dan cara booking, semuanya ada di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
 
-> Saat hubungi driver, tolong sebutkan dengan jelas: **tanggal, berapa hari, jumlah orang & barang bawaan, titik jemput & antar, tempat yang mau dikunjungi**. Juga tanyakan total biaya termasuk biaya lintas zona. ⚠️ Untuk Line, ID tidak bisa dipakai untuk lintas zona — harus **scan QR Code**.
+> Saat menghubungi driver, tolong sebutkan dengan jelas: **tanggal, jumlah hari, jumlah orang dan barang bawaan, lokasi jemput dan antar, tempat wisata yang ingin dikunjungi**, dan tanyakan total harga termasuk biaya lintas zona. ⚠️ Untuk Line, ID tidak bisa dipakai untuk lintas zona, harus **scan QR Code**.
 
-**👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
+**👉 Halaman pertama masih ada 24 driver lainnya (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
 
 ## Daftar 19 Driver di Halaman Ini
 
-Urutan **bukan peringkat**, jumlah banyak hanya berarti reputasi sudah lama terbangun. Klik nama untuk loncat ke link sharing driver tersebut.
+Urutan **bukan peringkat**, jumlah sharing banyak hanya berarti reputasi sudah terbangun lama. Klik nama untuk loncat ke link sharing driver tersebut.
 
 | 司機 | 網友分享則數 |
 | --- | --- |
@@ -49,13 +49,13 @@ Urutan **bukan peringkat**, jumlah banyak hanya berarti reputasi sudah lama terb
 | [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 25 |
 | [Any 安妮](#any-安妮) | 31 |
 | [Komang WikaSutresna](#komang-wikasutresna) | 13 |
-| [Fery Kyo](#fery-kyo) | 17 |
+| [Fery Kyo](#fery-kyo) | 18 |
 | [Gede Ari](#gede-ari) | 9 |
 | [Benny Surya Pragosa](#benny-surya-pragosa) | 12 |
 | [Satrya Gede](#satrya-gede) | 9 |
 | [Ok Bali](#ok-bali) | 22 |
 | [Maday](#maday) | 5 |
-| [Dody](#dody) | 16 |
+| [Dody](#dody) | 17 |
 | [Vina](#vina) | 13 |
 | [Iwayan Suantara 康哥](#iwayan-suantara-康哥) | 20 |
 | [Kadek Puri](#kadek-puri) | 6 |
@@ -95,31 +95,31 @@ Urutan **bukan peringkat**, jumlah banyak hanya berarti reputasi sudah lama terb
 
 ![Fery Kyo](https://images.gobaligo.id/images/2026-03/1774787651434-ferry_new.jpg)
 
-👍 **17 Ulasan dari Anggota Grup** (klik angka untuk lihat postingan asli): [1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) [2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) [3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) [4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) [5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) [7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) [8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) [9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) [10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) [11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) [12](https://www.facebook.com/share/p/1LRZUxJSof/) [13](https://www.facebook.com/share/p/16ti13tia3/) [14](https://www.facebook.com/share/p/16qQgKgrQp/) [15](https://www.facebook.com/share/p/18vHZPZk7U/) [16](https://www.facebook.com/share/p/14TkJXfNWnZ/) [17](https://www.facebook.com/share/p/1Ftwd7LbNj/)
+👍 **18 review langsung dari anggota grup** (klik angkanya buat lihat postingan asli): [1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) [2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) [3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) [4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) [5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) [7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) [8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) [9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) [10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) [11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) [12](https://www.facebook.com/share/p/1LRZUxJSof/) [13](https://www.facebook.com/share/p/16ti13tia3/) [14](https://www.facebook.com/share/p/16qQgKgrQp/) [15](https://www.facebook.com/share/p/18vHZPZk7U/) [16](https://www.facebook.com/share/p/14TkJXfNWnZ/) [17](https://www.facebook.com/share/p/1Ftwd7LbNj/) [18](https://www.facebook.com/share/p/1CvXAPDEe6/)
 
 ## Gede Ari
 
 ![Gede Ari](https://images.gobaligo.id/images/2026-03/1774787742788-new.jpg)
 
-👍 **9 Ulasan dari Anggota Grup** (klik angka untuk lihat postingan asli): [1](https://www.facebook.com/share/p/qPecBumSKb19n61H/) [2](https://www.facebook.com/share/p/vSz6uDCaHkXa5C7i/) [3](https://www.facebook.com/share/p/z1LKhZJsymmzh8cP/) [4](https://www.facebook.com/share/p/YNkX9QPboM4WAaFf/) [5](https://www.facebook.com/share/p/MN4UgdQoviK2guhC/) [6](https://www.facebook.com/share/p/15g2iwHiRi/) [7](https://www.facebook.com/share/p/18pEtoE38n/) [8](https://www.facebook.com/share/p/1778WSPqsX/) [9](https://www.facebook.com/share/p/1AZpuDq2AR/)
+👍 **9 review langsung dari anggota grup** (klik angkanya buat lihat postingan asli): [1](https://www.facebook.com/share/p/qPecBumSKb19n61H/) [2](https://www.facebook.com/share/p/vSz6uDCaHkXa5C7i/) [3](https://www.facebook.com/share/p/z1LKhZJsymmzh8cP/) [4](https://www.facebook.com/share/p/YNkX9QPboM4WAaFf/) [5](https://www.facebook.com/share/p/MN4UgdQoviK2guhC/) [6](https://www.facebook.com/share/p/15g2iwHiRi/) [7](https://www.facebook.com/share/p/18pEtoE38n/) [8](https://www.facebook.com/share/p/1778WSPqsX/) [9](https://www.facebook.com/share/p/1AZpuDq2AR/)
 
 ## Benny Surya Pragosa
 
 ![Benny Surya Pragosa](https://images.gobaligo.id/images/2026-03/1774787781378-banny_new.jpg)
 
-👍 **12 Ulasan dari Anggota Grup** (klik angka untuk lihat postingan asli): [1](https://www.facebook.com/share/p/JUg9QjCMDG7K75nr/) [2](https://www.facebook.com/share/p/s39xGpq4cVsh9bjG/) [3](https://www.facebook.com/share/p/t3EHqhCL5htfXfVQ/) [4](https://www.facebook.com/share/p/5egs8Vg4Ud9e6cyW/) [5](https://www.facebook.com/share/p/CqraR8WkCsspJLvb/) [6](https://www.facebook.com/share/p/r9ftMBeDm9Cgumhs/) [7](https://www.facebook.com/share/p/dPAw1ahmB7PcpktD/) [8](https://www.facebook.com/share/p/1Gcd2DLgiS/) [9](https://www.facebook.com/share/p/169eEJ8G1q/) [10](https://www.facebook.com/share/p/1Ch6jkpijW/) [11](https://www.facebook.com/share/p/18rmP59Es5/) [12](https://www.facebook.com/share/p/19MbmtqtFT/)
+👍 **12 review langsung dari anggota grup** (klik angkanya buat lihat postingan asli): [1](https://www.facebook.com/share/p/JUg9QjCMDG7K75nr/) [2](https://www.facebook.com/share/p/s39xGpq4cVsh9bjG/) [3](https://www.facebook.com/share/p/t3EHqhCL5htfXfVQ/) [4](https://www.facebook.com/share/p/5egs8Vg4Ud9e6cyW/) [5](https://www.facebook.com/share/p/CqraR8WkCsspJLvb/) [6](https://www.facebook.com/share/p/r9ftMBeDm9Cgumhs/) [7](https://www.facebook.com/share/p/dPAw1ahmB7PcpktD/) [8](https://www.facebook.com/share/p/1Gcd2DLgiS/) [9](https://www.facebook.com/share/p/169eEJ8G1q/) [10](https://www.facebook.com/share/p/1Ch6jkpijW/) [11](https://www.facebook.com/share/p/18rmP59Es5/) [12](https://www.facebook.com/share/p/19MbmtqtFT/)
 
 ## Satrya Gede
 
 ![Satrya Gede](https://images.gobaligo.id/images/2026-03/1774787820408-satrya_gede_new.jpg)
 
-👍 **9 Ulasan dari Anggota Grup** (klik angka untuk lihat postingan asli): [1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) [2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) [3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) [4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) [5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) [6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) [7](https://www.facebook.com/share/18Ya4FGwZX/) [8](https://www.facebook.com/share/p/19u7ydTkaB/) [9](https://www.facebook.com/share/p/1AyrDVV6WG/)
+👍 **9 review langsung dari anggota grup** (klik angkanya buat lihat postingan asli): [1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) [2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) [3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) [4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) [5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) [6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) [7](https://www.facebook.com/share/18Ya4FGwZX/) [8](https://www.facebook.com/share/p/19u7ydTkaB/) [9](https://www.facebook.com/share/p/1AyrDVV6WG/)
 
 ## Ok Bali
 
 ![Ok Bali](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
-👍 **22 Ulasan dari Anggota Grup** (klik angka untuk lihat postingan asli): [1](https://www.facebook.com/share/p/15mCz3P1kY/) [2](https://www.facebook.com/share/p/1SRP58oXXu/) [3](https://www.facebook.com/share/p/1BFVR9i9Uq/) [4](https://www.facebook.com/share/p/12DosfnXN2x/) [5](https://www.facebook.com/share/p/12FmFcPRLSk/) [6](https://www.facebook.com/share/p/19KS4osEn7/) [7](https://www.facebook.com/share/p/17VpLVZLeg/) [8](https://www.facebook.com/share/p/1AqLpg8w3P/) [9](https://www.facebook.com/share/p/1AUBSD62BY/) [10](https://www.facebook.com/share/p/16oadyoLab/) [11](https://www.facebook.com/share/p/17LGecvBqa/) [12](https://www.facebook.com/share/p/16Xti3BogQ/) [13](https://www.facebook.com/share/p/1FvfUX1Uaf/) [14](https://www.facebook.com/share/p/17sY8L42wu/) [15](https://www.facebook.com/share/p/1FhxnKv2zq/) [16](https://www.facebook.com/share/p/1P1HdctcH5/) [17](https://www.facebook.com/share/p/1MkMRMSnyn/) [18](https://www.facebook.com/share/p/14ceo2DYRKU/) [19](https://www.facebook.com/share/p/14dHRKTTwCJ/) [20](https://www.facebook.com/share/p/1b4HP8SvMa/) [21](https://www.facebook.com/share/v/18nfjeP9AX/) [22](https://www.facebook.com/share/p/191ENxgyVP/)
+👍 **22 review langsung dari anggota grup** (klik angkanya buat lihat postingan asli): [1](https://www.facebook.com/share/p/15mCz3P1kY/) [2](https://www.facebook.com/share/p/1SRP58oXXu/) [3](https://www.facebook.com/share/p/1BFVR9i9Uq/) [4](https://www.facebook.com/share/p/12DosfnXN2x/) [5](https://www.facebook.com/share/p/12FmFcPRLSk/) [6](https://www.facebook.com/share/p/19KS4osEn7/) [7](https://www.facebook.com/share/p/17VpLVZLeg/) [8](https://www.facebook.com/share/p/1AqLpg8w3P/) [9](https://www.facebook.com/share/p/1AUBSD62BY/) [10](https://www.facebook.com/share/p/16oadyoLab/) [11](https://www.facebook.com/share/p/17LGecvBqa/) [12](https://www.facebook.com/share/p/16Xti3BogQ/) [13](https://www.facebook.com/share/p/1FvfUX1Uaf/) [14](https://www.facebook.com/share/p/17sY8L42wu/) [15](https://www.facebook.com/share/p/1FhxnKv2zq/) [16](https://www.facebook.com/share/p/1P1HdctcH5/) [17](https://www.facebook.com/share/p/1MkMRMSnyn/) [18](https://www.facebook.com/share/p/14ceo2DYRKU/) [19](https://www.facebook.com/share/p/14dHRKTTwCJ/) [20](https://www.facebook.com/share/p/1b4HP8SvMa/) [21](https://www.facebook.com/share/v/18nfjeP9AX/) [22](https://www.facebook.com/share/p/191ENxgyVP/)
 
 ## Maday
 
@@ -131,7 +131,7 @@ Urutan **bukan peringkat**, jumlah banyak hanya berarti reputasi sudah lama terb
 
 ![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍 **16 Ulasan dari Anggota** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/)
+👍 **17 Ulasan dari Anggota** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/) [17](https://www.facebook.com/share/p/1BnoV3UZFM/)
 
 ## Vina
 
@@ -139,7 +139,7 @@ Urutan **bukan peringkat**, jumlah banyak hanya berarti reputasi sudah lama terb
 
 👍 **13 Ulasan dari Anggota** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1ALefWHdMF/) [2](https://www.facebook.com/share/p/19K4zEzd5E/) [3](https://www.facebook.com/share/p/1CNDuc9iDz/) [4](https://www.facebook.com/share/p/19quQXbPKN/) [5](https://www.facebook.com/share/p/1J3RUkQCu7/) [6](https://www.facebook.com/share/p/1FvFgCvpwQ/) [7](https://www.facebook.com/share/p/1G75rquYe4/) [8](https://www.facebook.com/share/p/1BLkuF2sBC/) [9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) [10](https://www.facebook.com/share/p/17nCf6g5RC/) [11](https://www.facebook.com/share/p/18mL44rk89/) [12](https://www.facebook.com/share/p/1UCWrJKutL/) [13](https://www.facebook.com/share/p/1FWDiN8vP8/)
 
-## Iwayan Suantara 康哥
+## Iwayan Suantara (Kang Ge)
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
@@ -187,6 +187,6 @@ Urutan **bukan peringkat**, jumlah banyak hanya berarti reputasi sudah lama terb
 
 ***
 
-👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
+👈 **Kembali ke Panduan Utama Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini baca «Panduan Lengkap Liburan Mandiri ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini baca 'Panduan Utama Liburan Mandiri ke Bali 2026'](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

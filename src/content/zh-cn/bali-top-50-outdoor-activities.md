@@ -2,7 +2,7 @@
 title: 【巴厘岛户外活动】50种必玩清单：漂流、ATV、浮潜、火山日出｜分龄适合度与预订避坑指南
 slug: bali-top-50-outdoor-activities
 description: >-
-  巴厘岛户外活动怎么选？50种必玩体验按六大分类整理：阿勇河漂流、乌布ATV越野、佩尼达岛浮潜、巴杜尔火山日出、乌鲁瓦图滑翔伞。附「分龄适合度速查表」教你带小孩/长辈怎么挑，加上预订避坑8条、防水防盗装备建议与常见问题，出发前5分钟看完就能排出不踩雷的行程。
+  巴厘岛户外活动怎么选？50种必玩体验按六大分类整理：阿勇河漂流、乌布ATV越野、佩尼达岛浮潜、巴杜尔火山日出、乌鲁瓦图滑翔伞。附「分龄适合度速查表」教你带小孩/长辈怎么挑，加上预订避坑9条、防水防盗装备建议与常见问题，出发前5分钟看完就能排出不踩雷的行程。
 pubDate: 2025-04-02T00:00:00.000Z
 pubHour: null
 category:
@@ -22,17 +22,23 @@ tags:
 heroImage: >-
   https://images.gobaligo.id/images/2026-06/1780578711241-mixcollage-04-jun-2026-08-11-pm-8008.jpg
 originalUrl: 'https://vocus.cc/article/67ecf440fd897800012cb31b'
-updatedDate: 2026-08-14T00:00:00.000Z
+updatedDate: 2026-08-15T00:00:00.000Z
 lang: zh-cn
-_srcHash: 82e92e6221b05126d566066932d72161
+_srcHash: c663237f1880356d439e4a252954cdb1
 ---
-Update: 2026/08/14
+Update: 2026/08/15
 
 ![【峇里島戶外活動】50種超人氣戶外體驗全攻略：泛舟、ATV、浮潛、水上活動與全家避雷裝備指南](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
 
 **先说结论**：巴厘岛户外活动按热门度排序——**水上活动**（冲浪、Waterbom水上乐园、南湾拖曳伞/水上摩托）、**河川探险**（阿勇河漂流）、**陆地越野**（乌布泥泞ATV）、**登山健行**（巴杜尔火山日出）、**海洋生态**（佩尼达岛魔鬼鱼浮潜）最受欢迎，共50种活动按六大分类整理。
 
 **如果你只有5分钟**，先看下面这张分龄适合度速查表决定「能玩什么」，再往下挑活动；出发前记得回头看〈预订避坑〉与〈防水防盗装备〉两段，这两件事最常毁掉一趟户外行程。
+
+> 💰 **想先抓预算？** 漂流、ATV、巴杜尔火山健行、浮潜、滑翔伞、River Tubing、乌布秋千、Waterbom这些项目的**参考票价（印尼盾标价）都整理在这里**，并附Klook/Trip.com比价按钮：
+>
+> ▶ **[巴厘岛门票票价总表：49个景点与活动即时参考价](/zh-cn/tickets/)**（进去后点「🏄 冒险活动」就能只看户外项目）
+>
+> 票价会随旺淡季与业者调整，本文不重复列数字，一律以该页为准。
 
 ## 分龄适合度速查表：带小孩、带长辈该怎么挑？
 
@@ -52,31 +58,32 @@ Update: 2026/08/14
 | 火山吉普车日出 | ⚠️ | ✅ | ✅ | ✅ | 走不动又想看日出的替代方案 |
 | 丛林秋千、梯田散步 | ✅ | ✅ | ✅ | ✅ | 秋千有安全带，怕高可只拍鸟巢造景 |
 | 滑翔伞、热气球 | ❌ | ⚠️ 多需家长同意 | ✅ | ⚠️ 心血管疾病避开 | 风况不佳会临时取消，别排在回国前一天 |
-| 动物园、海洋公园 | ✅ | ✅ | ✅ | ✅ | 全天候，雨季备选首选 |
+| 动物园、海洋公园 | ✅ | ✅ | ✅ | ✅ | 全天候，雨季备案首选 |
 
-> **表格怎么用**：⚠️ 不等于不能玩，而是「订之前一定要跟业者确认条件」。巴厘岛各家业者的年龄、身高、体重门槛**不统一**，Klook/KKday商品页的「重要资讯」栏位会写，看到有疑虑就先私讯客服，不要到现场才问。
+> **表格怎么用**：⚠️ 不等于不能玩，而是“订之前一定要跟业者确认条件”。巴厘岛各家业者的年龄、身高、体重门槛**不统一**，Klook／KKday 商品页的“重要信息”栏位会写，看到有疑虑就先私讯客服，不要到现场才问。
 
 亲子行程还可以直接参考这两篇挑更细：[【2026 巴厘岛亲子游】100+ 亲子友善景点与活动大全](/zh-cn/blog/bali-family-travel-guide/)、[【乌布亲子旅游】精选 50+ 小朋友最爱活动](/zh-cn/blog/ubud-with-kids-guide/)。
 
-## 预订避坑指南：8 条在地经验
+## 预订避坑指南：9 条在地经验
 
 这几条是站上多篇实测文章反复踩出来的共通结论：
 
-1. **一律线上先订，不要现场买。** 泛舟、水上活动这类项目，现场报价通常明显高于线上，议价空间也有限。详见[巴厘岛泛舟攻略](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)里的实际状况说明。
-2. **确认付款方式。** 部分业者不收信用卡，现场只能付现（美金或印尼盾），临时找 ATM 很浪费时间。
-3. **选有保险的合法业者。** 多数正规泛舟／ATV 业者会提供基本保险。站上就有团友在 ATV 活动中受伤、由业者全额支付医疗费实例——差别就在有没有挑对业者。
-4. **旺季务必提前订。** 热门时段（暑假、农历年、连假）常常客满，临时订不到就得整天改行程。
-5. **看天吃饭的活动别排在最后一天。** 滑翔伞、热气球、火山日出遇到风雨会取消，排在行程中段才有补订机会。
-6. **雨季（11–3 月）以室内外并行的方式排。** 雨多半是午后短暂阵雨，把户外项目排早上、动物园／水上乐园当备案，就不会整天泡汤。可搭配[巴厘岛家族旅游全攻略：雨季怎么玩](/zh-cn/blog/bali-family-trip-guide/)。
-7. **问清楚「有没有含接送」。** 乌布、金塔玛尼这些内陆点自己叫车很贵，含接送的方案往往整体更划算。不含接送就搭配[包车](/zh-cn/blog/bali-private-car-drivers-guide/)一起排。
-8. **照片费用先问。** 泛舟、秋千这类活动常有随行摄影师，成品是**另外计价**的，先问价再决定要不要拍。
+1. **先查参考票价再谈价。** 不知道行情就没有议价基准，也分不出线上方案到底划不划算。出发前先把[门票票价总表](/zh-cn/tickets/)看过一遍，心里有底再去比 Klook／Trip 的方案。
+2. **一律线上先订，不要现场买。** 泛舟、水上活动这类项目，现场报价通常明显高于线上，议价空间也有限。详见[巴厘岛泛舟攻略](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)里的实际状况说明。
+3. **确认付款方式。** 部分业者不收信用卡，现场只能付现（美金或印尼盾），临时找 ATM 很浪费时间。
+4. **选有保险的合法业者。** 多数正规泛舟／ATV 业者会提供基本保险。站上就有团友在 ATV 活动中受伤、由业者全额支付医疗费的实例——差别就在有没有挑对业者。
+5. **旺季务必提前订。** 热门时段（暑假、农历年、连假）常常客满，临时订不到就得整天改行程。
+6. **看天吃饭的活动别排在最后一天。** 滑翔伞、热气球、火山日出遇到风雨会取消，排在行程中段才有补订机会。
+7. **雨季（11–3 月）以室内外并行的方式排。** 雨多半是午后短暂阵雨，把户外项目排早上、动物园／水上乐园当备案，就不会整天泡汤。可搭配[巴厘岛家族旅游全攻略：雨季怎么玩](/zh-cn/blog/bali-family-trip-guide/)。
+8. **问清楚“有没有含接送”。** 乌布、金塔玛尼这些内陆点自己叫车很贵，含接送的方案往往整体更划算。不含接送就搭配[包车](/zh-cn/blog/bali-private-car-drivers-guide/)一起排。
+9. **照片费用先问。** 泛舟、秋千这类活动常有随行摄影师，成品是**另外计价**的，先问价再决定要不要拍。
 
 ## 防水防盗装备：玩水前一定要处理的事
 
 户外活动最扫兴的不是玩得不够刺激，而是**手机进水、护照泡烂、东西在沙滩上被摸走**。三种装备对应三种情境：
 
 - **防水腰包**——浮潜、海边戏水用。轻便、能随时掏出手机拍照，护照与现金也放得下。
-- **防水手机袋**——爱边玩边拍的人必备，多半支持隔着袋子触控。
+- **防水手机袋**——爱边玩边拍的人必备，多半支援隔着袋子触控。
 - **干燥袋（Dry Bag）**——泛舟、ATV、整天在外的行程用。卷口密封，相机、GoPro、换洗衣物一次收。
 
 另外一个很多人没想到的做法：**把护照和大部分现金交给信任的包车司机保管**，尤其参加团体活动时特别实用。
@@ -101,8 +108,8 @@ Update: 2026/08/14
 
 ![2.水上活動：](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
 
-- 巴厘岛库塔的Waterbom水上乐园是整个亚洲排名顶级的水上乐园之一，以其刺激的滑水道、热带园林景观和环保理念闻名。乐园内有各种适合不同年龄层的设施，包括高速滑道、懒人河和儿童专区，并注重可持续发展，是家庭游客和冒险爱好者的热门目的地。[预定门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D396a21103d)
-- 南湾提供丰富的水上活动，如拖曳伞、水上摩托车、香蕉船等，让您尽情享受热带海滩的活力。建议事先预订免得到现场被活宰！[南湾水上活动预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520activities%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D50eabd6d63)
+- 巴厘岛库塔的Waterbom水上乐园是整个亚洲排名顶级的水上乐园之一，以其刺激的水滑道、热带园林景观和环保理念闻名。乐园内有各种适合不同年龄层的设施，包括高速滑道、懒人河和儿童专区，并注重可持续发展，是家庭游客和冒险爱好者的热门目的地。[预订门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D396a21103d)
+- 南湾提供丰富的水上活动，如拖曳伞、水上摩托、香蕉船等，让您尽情享受热带海滩的活力。建议提前预订免得现场被宰！[南湾水上活动预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520activities%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D50eabd6d63)
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
@@ -119,7 +126,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 来体验Sanur海岸的水下奇迹，让浮潜之旅成为您巴厘岛行程的难忘亮点！
 
-> 预约[沙努尔离岸浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
+[预约沙努尔离岸浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
 
 ### **4.罗威纳追海豚：**
 
@@ -138,14 +145,14 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - 这是一种探索巴厘岛内陆风光的绝佳方式。
 - [巴厘岛 ATV 四轮越野车探险（提醒事项+FAQ）](/zh-cn/blog/bali-atv-adventure-guide/)
 
-### 6.泛舟：
+### 6.漂流：
 
 - 在阿勇河上体验刺激的漂流之旅，欣赏沿途壮丽的峡谷和瀑布。
 - 与朋友或家人一同挑战湍急的河流，留下难忘的团队回忆。
 - [巴厘岛漂流攻略（漂流常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 - 另一种比漂流更轻松，号称「宝宝版漂流」的漂流河，可以参考[这里的介绍](/zh-cn/blog/nukuwera-river-tubing-adventure/)
 
-### 7.丛林马力欧赛车：
+### 7.丛林马里奥赛车：
 
 - 在丛林里赛车是个非常特别的体验，能够让你一边欣赏丛林风景一边享受刺激感。
 - [巴厘岛乌布 Jungle Cart Bali](/zh-cn/blog/ubud-jungle-cart-adventure/)
@@ -174,7 +181,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### **11.乌布丛林日出瑜伽＆冥想体验：**
 
-- 在乌布的丛林里一边欣赏日出，一边做瑜伽冥想，能够让身心灵都达到放松。
+- 在乌布的丛林里一边欣赏日出，一边做瑜伽冥想，能够让身心都达到放松。
 - [丛林日出瑜伽＆冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758487&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deb0510d372)
 
 ### **12.乌鲁瓦图滑翔伞：**
@@ -262,43 +269,43 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### 27.**Lahangan Sweet**
 
 - 位于巴厘岛东部，是远眺壮丽阿贡山的秘境观景台，清晨或黄昏来访更能拍出云雾缭绕的绝美画面📸
-- [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山景观台 🌄](/zh-cn/blog/lahangan-sweet-volcano-view/)
+- [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山景观点 🌄](/zh-cn/blog/lahangan-sweet-volcano-view/)
 
-### 28.29.**德格拉朗与贾蒂卢维梯田区**
+### 28.29.**Tegalalang & Jatiluwih 梯田区**
 
-- 德格拉朗是乌布最热门的梯田打卡地，而贾蒂卢维则是被联合国列为世界文化遗产的壮丽梯田，两者各具风格，都是巴厘岛不可错过的绿意奇景🌾
-- [巴厘岛德格拉朗、贾蒂卢维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/zh-cn/blog/bali-rice-terraces-comparison/)
+- Tegalalang 是乌布最热门的梯田打卡地，而 Jatiluwih 则是被联合国列为世界文化遗产的壮丽梯田，两者各具风格，都是巴厘岛不可错过的绿意奇景🌾
+- [巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/zh-cn/blog/bali-rice-terraces-comparison/)
 
 ### 30.31.**探索圣泉**
 
 - 如圣泉寺（Tirta Empul）等地，可以体验当地人虔诚的净身仪式，让身心都获得洗涤与平静。
 - [【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/zh-cn/blog/tirta-empul-temple-guide/)
-- [探索巴厘岛的圣泉：从Tirta Gangga到Tirta Empul](/zh-cn/blog/bali-tirta-gangga-empul/)
+- [探索巴厘岛的圣泉:从Tirta Gangga到Tirta Empul](/zh-cn/blog/bali-tirta-gangga-empul/)
 
 ### 32.**火舞表演（Kecak Fire Dance）**
 
 - 在乌鲁瓦图断崖前观赏震撼的火舞与传统歌舞，夕阳与海景作为背景，气氛张力十足🔥
-- [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的飨宴](/zh-cn/blog/bali-kecak-fire-dance-locations/)
+- [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/zh-cn/blog/bali-kecak-fire-dance-locations/)
 
-### 33~36.假日市集（Weekend Markets）
+### 33~36.**假日市集（Weekend Markets）**
 
-- 在水明漾、坎古、乌鲁瓦图、沙努尔等地都有周末市集，售卖手作工艺品、有机食品与当地设计，逛街也能感受在地生活氛围。
+- 在水明漾、坎古、乌鲁瓦图、沙努尔等地都有周末市集，贩售手作艺品、有机食品与当地设计，逛街也能感受在地生活氛围。
 - [【2024年版】还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/zh-cn/blog/bali-weekend-markets-2026/)
 
-### 37.La Brisa Bali
+### 37.**La Brisa Bali**
 
-- 被誉为「巴厘岛最美餐厅」的海滨餐厅，位于坎古，拥有漂流木装修与绝美夕阳海景，是品尝海鲜与拍照打卡的最佳去处🍹🌊
-- [被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/zh-cn/blog/canggu-la-brisa-restaurant-guide/)
+- 被誉为「巴厘岛最美餐厅」的海滨餐厅，位于坎古，拥有漂流木装潢与绝美夕阳海景，是品尝海鲜与拍照打卡的最佳去处🍹🌊
+- [被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱瘾而出？](/zh-cn/blog/canggu-la-brisa-restaurant-guide/)
 
-### 38.Oneeighty Day Club
+### 38.**Oneeighty Day Club**
 
-- 坐落于悬崖上的高空无边泳池，玻璃池底让人仿佛悬浮于海天之间，是高空控与网美的梦幻天堂！
+- 坐落于悬崖上的高空无边际泳池，玻璃池底让人仿佛悬浮于海天之间，是高空控与网美的梦幻天堂！
 - [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
-### 39.金塔玛尼景观火山咖啡厅巡礼 🌄☕
+### 39.金塔马尼景观火山咖啡厅巡礼 🌄☕
 
-- 喜欢山景与咖啡香的你绝对不能错过！金塔玛尼拥有12座以上的火山景观咖啡馆，可以一边品尝咖啡、一边欣赏巴图尔火山与湖泊美景。这些咖啡馆不仅风景迷人，还超好拍！适合安排个追着晨曦或悠闲下午来杯手冲咖啡、看云起云落。
-- [巴厘岛金塔玛尼12大景观火山咖啡馆推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
+- 喜欢山景与咖啡香的你绝对不能错过！金塔马尼拥有12间以上的火山景观咖啡厅，可以一边品尝咖啡、一边欣赏巴图尔火山与湖泊美景。这些咖啡厅不但风景迷人，还超好拍！适合安排个追着晨曦或悠闲下午来杯手冲咖啡、看云起云落。
+- [巴厘岛金塔马尼12大景观火山咖啡厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ### 40.巴杜尔火山湖游船湖
 
@@ -314,9 +321,9 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 游船上有现场文化表演、茶饮服务与全景座位，适合浪漫情侣与家庭旅行。
 
-▶[点击订巴杜尔湖游船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155020-lake-batur-sightseeing-cruise-with-royal-songan-cruise-in-kintamani%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D102582f06c)
+▶[点击预订巴杜尔湖游船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155020-lake-batur-sightseeing-cruise-with-royal-songan-cruise-in-kintamani%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D102582f06c)
 
-### 41.金塔玛尼山林游乐场 The Grand Lagunas
+### 41.金塔马尼山林游乐场 The Grand Lagunas
 
 ![41.金塔瑪尼山林遊樂場 The Grand Lagunas](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
@@ -330,7 +337,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![42.溫泉、賞美景](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
-在 **Toya Devasya 温泉** 放松身心，泡在天然火山地热泉中，望着远处的火山与湖泊，是最治愈的时光。
+在 **Toya Devasya 温泉** 放松身心，泡在天然火山地热泉中，望着远处的火山与湖泊，是最疗愈的时光。
 
 除了泡温泉，这里更是一个大型的温泉水上乐园喔！
 
@@ -342,9 +349,9 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![43.水明漾海灘騎馬](https://images.gobaligo.id/vocus/vocus_ffcb0744d2b3309967f33941bc647514.jpg)
 
-大家去水明漾，不是冲酒吧就是冲夕阳—— 但有一件事，很多人去了三次巴厘岛都还没试过。
+大家去水明漾，不是冲着酒吧就是冲着夕阳——但有一件事，很多人去了三次巴厘岛都还没试过。
 
-在沙滩上骑着马，踩着浪前进 🌊 金色黄昏打在脸上，马蹄踏水的声音就在脚下 这画面，比任何酒店泳池照都更难忘记 🌅
+在沙滩上骑着马，踩着浪前进 🌊 金色黄昏打在脸上，马蹄踏水的声音就在脚下 这画面，比任何酒店泳池照都更难忘 🌅
 
 你觉得巴厘岛骑马很贵吗？ 你觉得骑马很难吗？ 你觉得那只是游客在做的事吗？
 
@@ -371,7 +378,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 47.Lempuyang天空之门
 
-- 东部海拔最高的日出打卡点之一，阿贡火山正对山门。要走的台阶不少，建议清晨抵达避开排队人群与正午高温。
+- 东部海拔最高的日出打卡点之一，阿贡火山正对山门。要走的阶梯不少，建议清晨抵达避开排队人潮与正午高温。
 - [Lempuyang天空之门深度攻略：倒影是手机屏幕？六座庙怎么走？](/zh-cn/blog/lempuyang-temple-gate-of-heaven/)
 
 ### 48.秘境海滩探险
@@ -389,24 +396,28 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### 50.断崖夕阳巡礼
 
 - 收尾最推荐的户外行程：乌鲁瓦图断崖庙、悬崖 Beach Club、南部海岸线，干季日落时间稳定，是全岛性价比最高的免费风景。
-- [【2026 巴厘岛日落攻略】7 大必去夕阳观赏景点](/zh-cn/blog/bali-sunset-spots-guide/)
-- 不想花大钱也想坐拥海景：[20 个免门票、无最低消费进场的海滩俱乐部](/zh-cn/blog/bali-beach-clubs-free-entry-list/)
+- [【2026 巴厘岛日落攻略】7大必去夕阳观赏景点](/zh-cn/blog/bali-sunset-spots-guide/)
+- 不想花大钱也想坐拥海景：[20个免门票、无最低消费进场的海滩俱乐部](/zh-cn/blog/bali-beach-clubs-free-entry-list/)
 
 > 想再往外跑的人，还可以把[科莫多国家公园跳岛](/zh-cn/blog/komodo-national-park-tour/)排成巴厘岛的延伸行程。
 
 ## 巴厘岛户外活动常见问题
 
+### 巴厘岛户外活动大概要多少钱？
+
+各项目价差很大，从几万印尼盾的自然景点门票到滑翔伞这种百万盾等级的体验都有。与其看单篇文章里可能过时的数字，直接查**[巴厘岛门票票价总表](/zh-cn/tickets/)**最准——那里整理了49个景点与活动的参考票价（印尼盾标价），每一项都附Klook／Trip.com比价按钮，点「🏄 冒险活动」就能只看户外项目。
+
 ### 巴厘岛户外活动什么季节玩最好？
 
-**旱季（约5–9月）**最稳定，海况好、日出云量少，适合浮潜、跳岛、火山徒步。雨季（11–3月）也不是不能玩，午后短暂阵雨居多，把户外项目排在早上、下午留给水上乐园或动物园即可。
+**干季（约5–9月）**最稳定，海况好、日出云量少，适合浮潜、跳岛、火山健行。雨季（11–3月）不是不能玩，午后短暂阵雨居多，把户外项目排在早上、下午留给水上乐园或动物园即可。
 
 ### 带小孩可以玩哪些户外活动？
 
-水上乐园、漂流河River Tubing、丛林秋千、梯田散步、动物园与海洋公园都适合。漂流选平缓的**阿勇河**、ATV只坐双人车后座。火山徒步和滑翔伞则不建议。细节看上面的分龄适合度速查表。
+水上乐园、漂流河River Tubing、丛林秋千、梯田散步、动物园与海洋公园都适合。泛舟选平缓的**阿勇河**、ATV只坐双人车后座。火山健行和滑翔伞则不建议。细节看上面的分龄适合度速查表。
 
-### 漂流要选阿勇河还是Telaga Waja？
+### 泛舟要选阿勇河还是Telaga Waja？
 
-**阿勇河（Ayung）属入门级**，激流温和、沿途有峡谷石雕可看，适合亲子与第一次漂流的人；Telaga Waja落差大、刺激度高，适合想追求强度的人。两条河的完整比较看[巴厘岛漂流攻略](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)。
+**阿勇河（Ayung）属入门级**，激流温和、沿途有峡谷石雕可看，适合亲子与第一次泛舟的人；Telaga Waja落差大、刺激度高，适合想追求强度的人。两条河的完整比较看[巴厘岛泛舟攻略](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)。
 
 ### 活动要在网上订还是到现场买？
 
@@ -418,7 +429,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 玩水上活动时，贵重物品要放哪里？
 
-依活动选装备：浮潜用防水腰包、拍照用防水手机袋、泛舟／ATV 用干燥袋。护照与大部分现金也可以交给信任的包车司机保管，玩起来最安心。
+依活动选装备：浮潜用防水腰包、拍照用防水手机袋、泛舟/ATV 用干燥袋。护照与大部分现金也可以交给信任的包车司机保管，玩起来最安心。
 
 **温馨提醒：**
 
