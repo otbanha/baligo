@@ -17,7 +17,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-15
+updatedDate: 2026-08-12
 ---
 
 Update: 2026/08/10
@@ -40,13 +40,13 @@ Update: 2026/08/10
 | [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 25 |
 | [Any 安妮](#any-安妮) | 31 |
 | [Komang WikaSutresna](#komang-wikasutresna) | 13 |
-| [Fery Kyo](#fery-kyo) | 17 |
+| [Fery Kyo](#fery-kyo) | 18 |
 | [Gede Ari](#gede-ari) | 9 |
 | [Benny Surya Pragosa](#benny-surya-pragosa) | 12 |
 | [Satrya Gede](#satrya-gede) | 9 |
 | [Ok Bali](#ok-bali) | 22 |
 | [Maday](#maday) | 5 |
-| [Dody](#dody) | 16 |
+| [Dody](#dody) | 17 |
 | [Vina](#vina) | 13 |
 | [Iwayan Suantara 康哥](#iwayan-suantara-康哥) | 20 |
 | [Kadek Puri](#kadek-puri) | 6 |
@@ -86,7 +86,7 @@ Update: 2026/08/10
 
 ![Fery Kyo](https://images.gobaligo.id/images/2026-03/1774787651434-ferry_new.jpg)
 
-👍 **17 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) [2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) [3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) [4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) [5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) [7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) [8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) [9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) [10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) [11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) [12](https://www.facebook.com/share/p/1LRZUxJSof/) [13](https://www.facebook.com/share/p/16ti13tia3/) [14](https://www.facebook.com/share/p/16qQgKgrQp/) [15](https://www.facebook.com/share/p/18vHZPZk7U/) [16](https://www.facebook.com/share/p/14TkJXfNWnZ/) [17](https://www.facebook.com/share/p/1Ftwd7LbNj/)
+👍 **18 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) [2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) [3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) [4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) [5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) [7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) [8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) [9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) [10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) [11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) [12](https://www.facebook.com/share/p/1LRZUxJSof/) [13](https://www.facebook.com/share/p/16ti13tia3/) [14](https://www.facebook.com/share/p/16qQgKgrQp/) [15](https://www.facebook.com/share/p/18vHZPZk7U/) [16](https://www.facebook.com/share/p/14TkJXfNWnZ/) [17](https://www.facebook.com/share/p/1Ftwd7LbNj/) [18](https://www.facebook.com/share/p/1CvXAPDEe6/)
 
 ## Gede Ari
 
@@ -122,7 +122,7 @@ Update: 2026/08/10
 
 ![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍 **16 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/) [17](https://www.facebook.com/share/p/1BnoV3UZFM/)
+👍 **17 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/) [17](https://www.facebook.com/share/p/1BnoV3UZFM/)
 
 ## Vina
 
