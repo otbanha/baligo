@@ -8,8 +8,11 @@
  *   node scripts/fetch-hotel-data.mjs
  *
  * 設定 API Key（選擇一種）：
- *   AGODA_SITE_ID=1961347 AGODA_API_KEY=06177fdb-... node scripts/fetch-hotel-data.mjs
+ *   AGODA_API_KEY=<你的 key> node scripts/fetch-hotel-data.mjs
  *   或在 .env.local 中設定後透過 dotenv 載入
+ *
+ * API Key 一律從環境變數讀，不寫進原始碼——這個 repo 是公開的。
+ * 只有步驟 2 需要它；步驟 1（sitemap-priorities.json）沒有 key 也照跑。
  *
  * Cloudflare 不需要此 API Key（cache 已 commit 至 git）
  */
@@ -18,9 +21,11 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { readdirSync } from 'fs';
 import { join } from 'path';
 
-// ─── 設定（建議改用環境變數）────────────────────────────
+// ─── 設定 ────────────────────────────────────────────────
+// SITE_ID 不是機密（站上 4,000+ 條 Agoda 連結都帶著它），留預設值方便執行。
+// API_KEY 是機密，只從環境變數讀，沒設就在真的要打 API 前中止（見 main）。
 const SITE_ID = process.env.AGODA_SITE_ID || '1961347';
-const API_KEY = process.env.AGODA_API_KEY || '06177fdb-8e7e-45e4-8305-8c7382154022';
+const API_KEY = process.env.AGODA_API_KEY;
 
 const BLOG_DIR      = 'src/content/blog';
 const DATA_DIR      = 'src/data';
@@ -167,6 +172,16 @@ async function main() {
   let fetched = 0, missing = 0, errors = 0;
   const staleHids = allHids.filter(hid => !isFresh(hid));
   const skipped = allHids.length - staleHids.length;
+
+  // 只有真的要打 API 才需要 key；全部還在 7 天 TTL 內時不用設也能跑完。
+  if (staleHids.length && !API_KEY) {
+    console.error(
+      `\n✗ 有 ${staleHids.length} 個飯店需要更新，但沒有設定 AGODA_API_KEY。\n` +
+      `  執行方式：AGODA_API_KEY=<你的 key> node scripts/fetch-hotel-data.mjs\n` +
+      `  （sitemap-priorities.json 已經產生完成，只有飯店資料沒更新）`
+    );
+    process.exit(1);
+  }
 
   const CHUNK = 50;
   for (let i = 0; i < staleHids.length; i += CHUNK) {
