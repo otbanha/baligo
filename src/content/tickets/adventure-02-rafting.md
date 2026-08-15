@@ -4,6 +4,7 @@ cat: adventure
 idr: 400000
 note: 約 2 小時，Class II–III 急流。含午餐、保險、裝備。
 note_en: "Approx 2 hrs, Class II–III rapids. Includes lunch, insurance, equipment."
+note_id: "Sekitar 2 jam, jeram Kelas II–III. Termasuk makan siang, asuransi, dan perlengkapan."
 note_zh_cn: "约2小时，II–III级激流。含午餐、保险、装备。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277506&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DAyung%2520River%2520Rafting
 agoda: false

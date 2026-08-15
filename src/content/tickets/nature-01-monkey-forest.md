@@ -4,6 +4,7 @@ cat: nature
 idr: 130000
 note: 包含烏布聖猴森林的精選一日遊
 note_en: "Day tour options including Ubud Sacred Monkey Forest."
+note_id: "Pilihan day tour termasuk Sacred Monkey Forest Ubud."
 note_zh_cn: "包含乌布圣猴森林的精选一日游"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DUbud%2520Monkey%2520Forest
 agoda: false

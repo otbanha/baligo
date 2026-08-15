@@ -4,6 +4,7 @@ cat: activity
 idr: 620000
 note: Jungle Hopper 基本票含 Safari 車程。阿貢秀自4月1日起開放，週一除外
 note_en: "Jungle Hopper includes Safari ride. Agung Show open from Apr 1, closed Mon."
+note_id: "Paket Jungle Hopper sudah termasuk safari ride. Agung Show buka mulai 1 April, tutup hari Senin."
 note_zh_cn: "Jungle Hopper基本票含Safari车程。阿贡秀自4月1日起开放，周一除外"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D2fafe0a554
 agoda: false

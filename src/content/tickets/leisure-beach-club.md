@@ -4,6 +4,7 @@ cat: leisure
 idr: 171000
 note: 在椰影搖曳的海灘俱樂部度過放鬆的一天
 note_en: "Spend a relaxing day at a beachfront club with swaying palm trees."
+note_id: "Habiskan hari yang santai di beach club tepi pantai dengan pohon kelapa yang melambai."
 note_zh_cn: "在椰影摇曳的海滩俱乐部度过放松的一天"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520beach%2520club
 agoda: false

@@ -4,6 +4,7 @@ cat: park
 idr: 150000
 note: 神鷹文化公園，含文化表演。線上購票可省 IDR 25,000。
 note_en: "GWK Cultural Park including cultural performances. Online tickets save IDR 25,000."
+note_id: "Taman Budaya GWK termasuk pertunjukan budaya. Tiket online hemat IDR 25.000."
 note_zh_cn: "神鹰文化公园，含文化表演。在线购票可省IDR 25,000。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DGWK%2520Cultural%2520Park
 agoda: false

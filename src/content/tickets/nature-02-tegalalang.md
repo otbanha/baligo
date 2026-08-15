@@ -4,6 +4,7 @@ cat: nature
 idr: 200000
 note: 德哥拉朗梯田任選一日遊
 note_en: "Tegalalang Rice Terrace day tour options."
+note_id: "Pilihan day tour ke Terasering Tegalalang."
 note_zh_cn: "德哥拉朗梯田任选一日游"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DTegalalang
 agoda: false

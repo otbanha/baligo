@@ -4,6 +4,7 @@ cat: adventure
 idr: 750000
 note: 約 1.5 小時，穿越稻田、叢林、瀑布與村莊。部分含午餐。
 note_en: "Approx 1.5 hrs through rice fields, jungle, waterfall & village. Some include lunch."
+note_id: "Sekitar 1,5 jam melintasi sawah, hutan, air terjun, dan desa. Beberapa paket termasuk makan siang."
 note_zh_cn: "约1.5小时，穿越稻田、丛林、瀑布与村庄。部分含午餐。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277506&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fsearch_landing%3Dtrue%26query%3Datv%2Bride%2Bubud%2Bbali%26dd_referrer%3D%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D116349%26utm_term%3D
 agoda: false

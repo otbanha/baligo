@@ -4,6 +4,7 @@ cat: watersports
 idr: 100000
 note: 包含香蕉船、拖曳傘、飛魚、水上摩托車、海底漫步等選項
 note_en: "Options include banana boat, parasailing, flying fish, jet ski, sea walking, and more."
+note_id: "Pilihan termasuk banana boat, parasailing, flying fish, jet ski, sea walker, dan lainnya."
 note_zh_cn: "包含香蕉船、拖曳伞、飞鱼、水上摩托车、海底漫步等选项"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520sports
 agoda: false

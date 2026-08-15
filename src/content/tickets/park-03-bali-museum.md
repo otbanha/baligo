@@ -4,6 +4,7 @@ cat: park
 idr: 60000
 note: 展示峇里島傳統文物與歷史。
 note_en: "Exhibits traditional Balinese artifacts and history."
+note_id: "Memamerkan artefak dan sejarah tradisional Bali."
 note_zh_cn: "展示巴厘岛传统文物与历史。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DBali%2520Museum
 agoda: false

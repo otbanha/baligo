@@ -4,6 +4,7 @@ cat: adventure
 idr: 1500000
 note: 教練陪飛滑翔傘，俯瞰印度洋，約 15–20 分鐘。
 note_en: "Tandem paragliding with instructor, overlooking the Indian Ocean, approx 15–20 min."
+note_id: "Paralayang tandem bersama instruktur dengan pemandangan Samudra Hindia, sekitar 15–20 menit."
 note_zh_cn: "教练陪飞滑翔伞，俯瞰印度洋，约15–20分钟。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DParagliding%2520bali
 agoda: false

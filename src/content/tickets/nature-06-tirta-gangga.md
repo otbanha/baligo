@@ -4,6 +4,7 @@ cat: nature
 idr: 250000
 note: 峇里島東部必訪景點，峇里王室水宮。東部精選一日遊
 note_en: "Must-visit in East Bali — Royal Water Palace. East Bali day tour."
+note_id: "Wajib dikunjungi di Bali Timur — Istana Air Kerajaan. Termasuk day tour Bali Timur."
 note_zh_cn: "巴厘岛东部必访景点，巴厘王室水宫。东部精选一日游"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DTirta%2520Gangga
 agoda: false

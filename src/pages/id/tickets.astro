@@ -6,8 +6,8 @@ import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import '../../styles/tickets.css';
 
-const title = 'Harga Tiket Masuk Wisata Bali 2026 | 42 Tempat Terpopuler - Gobaligo';
-const description = 'Harga tiket masuk wisata Bali untuk 42 destinasi terpopuler termasuk Uluwatu, Waterbom, dan Nusa Penida. Bandingkan harga Klook, Agoda, dan Trip.com sebelum berangkat.';
+const title = 'Harga Tiket Masuk Wisata Bali 2026 | 49 Destinasi Terpopuler - Gobaligo';
+const description = 'Harga tiket masuk wisata Bali untuk 49 destinasi terpopuler termasuk Uluwatu, Waterbom, dan Nusa Penida. Bandingkan harga Klook, Agoda, dan Trip.com sebelum berangkat.';
 const lang = 'id';
 
 const rawTickets = await getCollection('tickets');
@@ -16,7 +16,7 @@ const ticketsData = rawTickets
     name: t.data.name,
     cat: t.data.cat,
     idr: t.data.idr,
-    note: t.data.note_en ?? t.data.note,
+    note: t.data.note_id ?? t.data.note_en ?? t.data.note,
     klook: t.data.klook ?? null,
     agoda: t.data.agoda ?? false,
     tripcom: t.data.tripcom ?? null,
@@ -53,6 +53,8 @@ const schema = {
   <BaseHead title={title} description={description} noSuffix={true} />
   <meta property="og:locale" content="id_ID" />
   <meta property="og:locale:alternate" content="zh_TW" />
+  <meta property="og:locale:alternate" content="zh_HK" />
+  <meta property="og:locale:alternate" content="zh_CN" />
   <meta property="og:locale:alternate" content="en_US" />
   <link rel="alternate" hreflang="zh-TW" href="https://gobaligo.id/tickets/" />
   <link rel="alternate" hreflang="zh-HK" href="https://gobaligo.id/zh-hk/tickets/" />
@@ -64,7 +66,7 @@ const schema = {
 </head>
 
 <body>
-  <Header lang={lang} basePath="tickets" />
+  <Header lang={lang} basePath="tickets" availableLangs={['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']} />
   <TopStrip lang={lang ?? 'id'} />
 
   <!-- Hero -->
@@ -149,7 +151,7 @@ const schema = {
 
   </main>
 
-  <Footer />
+  <Footer lang={lang} />
 </body>
 </html>
 

@@ -4,6 +4,7 @@ cat: adventure
 idr: 200000
 note: 各種叢林鞦韆的選項
 note_en: "Various jungle swing options"
+note_id: "Berbagai pilihan ayunan di tengah hutan."
 note_zh_cn: "各种丛林秋千选项"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DBali%2520Swing
 agoda: false

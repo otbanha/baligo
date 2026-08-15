@@ -4,6 +4,7 @@ cat: activity
 idr: 150000
 note: 與大象共浴的感動時刻
 note_en: Touching moment to shower with elephant
+note_id: "Momen seru memandikan gajah."
 note_zh_cn: 与大象共浴的感动时刻
 klook: ''
 agoda: false

@@ -4,6 +4,7 @@ cat: island
 idr: 69000
 note: 單程約 IDR 69,000–250,000，依船公司而異。建議線上預購對號入座。
 note_en: "One way ~IDR 69,000–250,000, varies by operator. Book online for assigned seats."
+note_id: "Sekali jalan sekitar IDR 69.000–250.000, tergantung operator. Pesan online untuk mendapat nomor kursi."
 note_zh_cn: "单程约IDR 69,000–250,000，依船公司而异。建议在线预购对号入座。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DSanur%2520fast%2520boat
 agoda: false

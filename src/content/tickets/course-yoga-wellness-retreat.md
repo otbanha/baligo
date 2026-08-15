@@ -4,6 +4,7 @@ cat: course
 idr: 200000
 note: 瑜珈、靜修、冥想、自我療癒課程
 note_en: "Yoga, retreat, meditation, and self-healing courses."
+note_id: "Yoga, retreat, meditasi, dan kelas self-healing."
 note_zh_cn: "瑜伽、静修、冥想、自我疗愈课程"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DBali%2520yoga%26spm%3DLanguageCurrencySelectionPopup.SelectLanguage%26clickId%3Dd93699d832
 agoda: false

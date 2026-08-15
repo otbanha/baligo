@@ -4,6 +4,7 @@ cat: nature
 idr: 25000
 note: 烏布最知名的瀑布，各種精選一日遊
 note_en: "Ubud's most famous waterfall, various day tour options."
+note_id: "Air terjun paling terkenal di Ubud, tersedia berbagai pilihan day tour."
 note_zh_cn: "乌布最知名的瀑布，各种精选一日游"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DTegenungan
 agoda: false

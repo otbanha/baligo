@@ -4,6 +4,7 @@ cat: nature
 idr: 50000
 note: 梯田美景，UNESCO 世界文化遺產
 note_en: "Stunning terraced landscape, UNESCO World Heritage Site."
+note_id: "Pemandangan terasering yang menakjubkan, Situs Warisan Dunia UNESCO."
 note_zh_cn: "梯田美景，UNESCO世界文化遗产"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DJatiluwih
 agoda: false

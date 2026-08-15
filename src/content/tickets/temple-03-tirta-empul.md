@@ -4,6 +4,7 @@ cat: temple
 idr: 500000
 note: 聖泉寺是峇里島必訪景點！包含各種精選一日遊
 note_en: "Holy Spring Temple, a must-visit in Bali! Various selected day tours."
+note_id: "Pura Air Suci, wajib dikunjungi di Bali! Tersedia berbagai day tour pilihan."
 note_zh_cn: "圣泉寺是巴厘岛必访景点！包含各种精选一日游"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DTirta%2520Empul
 agoda: false

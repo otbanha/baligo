@@ -4,6 +4,7 @@ cat: temple
 idr: 200000
 note: 含拜訪象洞的一日遊覽。
 note_en: "Day tour including a visit to the Elephant Cave."
+note_id: "Day tour termasuk kunjungan ke Goa Gajah."
 note_zh_cn: "含拜访象洞的一日游览。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DGoa%2520Gajah
 agoda: false

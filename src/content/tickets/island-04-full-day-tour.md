@@ -4,6 +4,7 @@ cat: island
 idr: 280000
 note: 含接送、導遊、午餐。西線（Kelingking/Angel's Billabong）或東線（Atuh Beach）可選。
 note_en: Includes transfers, guide, lunch. Choose West (Kelingking/Angel's Billabong) or East (Atuh Beach) route.
+note_id: "Termasuk antar-jemput, pemandu, dan makan siang. Pilih rute Barat (Kelingking/Angel's Billabong) atau Timur (Pantai Atuh)."
 note_zh_cn: 含接送、导游、午餐。西线（Kelingking/Angel's Billabong）或东线（Atuh Beach）可选。
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DNusa%2520Penida
 agoda: false

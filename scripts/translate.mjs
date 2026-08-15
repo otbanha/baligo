@@ -547,20 +547,37 @@ async function translateTexts(texts, lang, strictCount = texts.length) {
 
 // ── 主要翻譯邏輯 ─────────────────────────────────────────────────────────────
 
-// 站內連結（/blog/、/trip-planner/、/bali-budget-calculator/、/map/gojek-fare/）在 zh-tw 來源一律不帶語系前綴，
-// 但這些路徑在其他語言都有各自的 /{lang}/... 版本，翻譯後必須補上前綴，否則讀者點連結會被切回中文頁。
-// 注意：/map/ 底下只有 gojek-fare 有語系版本，其餘（/map/ubud/、/map/index 等地區地圖、
-// favorites、itinerary）只有 src/pages/map/ 根路由，沒有 /{lang}/map/... 版本，千萬不要一併加前綴，
-// 否則連結會導向不存在的頁面（404）。/go/ 和 /ask/ 同樣沒有語系版本，維持原樣。
-const LOCALIZED_PATH_PREFIXES = ['blog', 'trip-planner', 'bali-budget-calculator', 'map/gojek-fare'];
-const LOCALIZED_PATH_ALT = LOCALIZED_PATH_PREFIXES.map(p => p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
+// 站內連結在 zh-tw 來源一律不帶語系前綴，翻譯後要補上 /{lang}/，否則讀者點連結會被切回中文頁。
+//
+// 但只有「該語言真的有對應路由」時才能補，不然就是 404。所以這張表的值 = 哪些語言有 /{lang}/... 版本，
+// null 代表四個翻譯語言（en / zh-cn / zh-hk / id）全都有；列成陣列則只有陣列裡的語言會加前綴。
+//
+// 已知的坑：/map/ 底下只有 gojek-fare 有語系版本，其餘（/map/ubud/、/map/index 等地區地圖、
+// favorites、itinerary）只有 src/pages/map/ 根路由，千萬不要用 'map' 一併加前綴。
+// /go/ 和 /ask/ 同樣沒有語系版本，不列在這裡即可維持原樣。
+//
+// 新增路徑前先確認 src/pages/{en,zh-cn,zh-hk,id}/ 底下都有該檔案，缺哪個就把值寫成陣列排除掉。
+const LOCALIZED_PATHS = {
+  'blog': null,
+  'trip-planner': null,
+  'bali-budget-calculator': null,
+  'map/gojek-fare': null,
+  'tickets': null,   // src/pages/tickets.astro + en / zh-cn / zh-hk / id 五個路由都在
+};
+const LOCALIZED_PATH_ALT = Object.keys(LOCALIZED_PATHS).map(p => p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
 const LOCALIZED_MD_LINK_RE = new RegExp(`\\]\\(/(${LOCALIZED_PATH_ALT})/`, 'g');
 const LOCALIZED_ABS_URL_RE = new RegExp(`https://(www\\.)?gobaligo\\.id/(${LOCALIZED_PATH_ALT})/`, 'g');
 
+const hasLangVariant = (path, lang) => {
+  const langs = LOCALIZED_PATHS[path];
+  return langs === null || langs.includes(lang);
+};
+
 function localizeInternalLinks(text, lang) {
   return text
-    .replace(LOCALIZED_MD_LINK_RE, (_, p) => `](/${lang}/${p}/`)
-    .replace(LOCALIZED_ABS_URL_RE, (_, www, p) => `https://${www || ''}gobaligo.id/${lang}/${p}/`);
+    .replace(LOCALIZED_MD_LINK_RE, (m, p) => (hasLangVariant(p, lang) ? `](/${lang}/${p}/` : m))
+    .replace(LOCALIZED_ABS_URL_RE, (m, www, p) =>
+      hasLangVariant(p, lang) ? `https://${www || ''}gobaligo.id/${lang}/${p}/` : m);
 }
 
 // titleLocked 時，newFm.title/description 目前仍是來源語言（zh-tw）的值（來自 {...fm} 展開），

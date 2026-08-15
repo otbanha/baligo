@@ -6,8 +6,8 @@ import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import '../../styles/tickets.css';
 
-const title = 'Bali Attraction Ticket Prices 2026 | 42 Top Spots - Gobaligo';
-const description = 'Bali entrance fees for 42 top attractions including Uluwatu, Waterbom, and Nusa Penida. Compare Klook, Agoda, and Trip.com prices before you go.';
+const title = 'Bali Attraction Ticket Prices 2026 | 49 Top Spots - Gobaligo';
+const description = 'Bali entrance fees for 49 top attractions including Uluwatu, Waterbom, and Nusa Penida. Compare Klook, Agoda, and Trip.com prices before you go.';
 const lang = 'en';
 
 const rawTickets = await getCollection('tickets');
@@ -55,16 +55,18 @@ const schema = {
   <meta property="og:locale:alternate" content="zh_TW" />
   <meta property="og:locale:alternate" content="zh_CN" />
   <meta property="og:locale:alternate" content="zh_HK" />
+  <meta property="og:locale:alternate" content="id_ID" />
   <link rel="alternate" hreflang="zh-TW" href="https://gobaligo.id/tickets/" />
   <link rel="alternate" hreflang="zh-HK" href="https://gobaligo.id/zh-hk/tickets/" />
   <link rel="alternate" hreflang="zh-CN" href="https://gobaligo.id/zh-cn/tickets/" />
   <link rel="alternate" hreflang="en"    href="https://gobaligo.id/en/tickets/" />
+  <link rel="alternate" hreflang="id"    href="https://gobaligo.id/id/tickets/" />
   <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/tickets/" />
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
 </head>
 
 <body>
-  <Header lang={lang} basePath="tickets" />
+  <Header lang={lang} basePath="tickets" availableLangs={['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']} />
   <TopStrip lang={lang ?? 'en'} />
 
   <!-- Hero -->
@@ -149,7 +151,7 @@ const schema = {
 
   </main>
 
-  <Footer />
+  <Footer lang={lang} />
 </body>
 </html>
 

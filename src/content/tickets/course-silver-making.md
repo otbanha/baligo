@@ -4,6 +4,7 @@ cat: course
 idr: 120000
 note: 銀飾手作課程
 note_en: "Silver jewelry making class."
+note_id: "Kelas membuat perhiasan perak."
 note_zh_cn: "银饰手作课程"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DBali%2520silver%2520making
 agoda: false

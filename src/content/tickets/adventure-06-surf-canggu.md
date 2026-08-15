@@ -4,6 +4,7 @@ cat: watersports
 idr: 350000
 note: 包含庫塔、水明漾、長谷、烏魯瓦圖等衝浪課程約 2 小時，含教練、板子。適合初學者。
 note_en: "Lessons in Kuta, Seminyak, Canggu, Uluwatu — approx 2 hrs with instructor & board. Beginner-friendly."
+note_id: "Kelas di Kuta, Seminyak, Canggu, Uluwatu — sekitar 2 jam dengan instruktur dan papan. Ramah untuk pemula."
 note_zh_cn: "包含库塔、水明漾、长谷、乌鲁瓦图等冲浪课程约2小时，含教练、冲浪板。适合初学者。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520Surfing
 agoda: false

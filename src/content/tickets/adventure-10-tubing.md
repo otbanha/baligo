@@ -4,6 +4,7 @@ cat: watersports
 idr: 350000
 note: 坐橡皮圈漂流峇里島叢林河道
 note_en: "Float down Bali's jungle river on an inflatable tube."
+note_id: "Menyusuri sungai di tengah hutan Bali dengan ban pelampung."
 note_zh_cn: "坐橡皮圈漂流巴厘岛丛林河道"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520River%2520Tubing
 agoda: false

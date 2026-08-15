@@ -4,6 +4,7 @@ cat: adventure
 idr: 250000
 note: 火山日出/日落行程。建議線上預購。
 note_en: "Sunrise/sunset volcano trek. Book online in advance."
+note_id: "Trekking gunung berapi saat matahari terbit/terbenam. Pesan online jauh-jauh hari."
 note_zh_cn: "火山日出/日落行程。建议提前在线预购。"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DMount%2520Batur
 agoda: false

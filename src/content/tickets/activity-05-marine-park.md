@@ -4,6 +4,7 @@ cat: activity
 idr: 350000
 note: 峇里島海豚樂園，親子與海豚的互動體驗。
 note_en: "Bali's dolphin park featuring parent-child interactive experiences with dolphins."
+note_id: "Taman lumba-lumba di Bali dengan pengalaman interaktif antara orang tua dan anak bersama lumba-lumba."
 note_zh_cn: "峇里岛海豚乐园，亲子与海豚的互动体验。"
 klook: null
 agoda: false

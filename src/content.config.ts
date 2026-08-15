@@ -115,6 +115,7 @@ const tickets = defineCollection({
     note: z.string(),
     note_en: z.string().optional(),
     note_zh_cn: z.string().optional(),
+    note_id: z.string().optional(),
     klook: z.string().nullable().optional(),
     agoda: z.boolean().optional(),
     tripcom: z.string().nullable().optional(),

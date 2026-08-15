@@ -6,8 +6,8 @@ import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import '../../styles/tickets.css';
 
-const title = '巴厘岛景点门票费用2026｜42个热门景点即时票价 - Gobaligo';
-const description = '巴厘岛42个热门景点门票即时票价，含乌鲁瓦图、Waterbom、Nusa Penida。比较Klook、Agoda、Trip.com优惠价格，出发前一站确认最新费用。';
+const title = '巴厘岛景点门票费用2026｜49个热门景点即时票价 - Gobaligo';
+const description = '巴厘岛49个热门景点门票即时票价，含乌鲁瓦图、Waterbom、Nusa Penida。比较Klook、Agoda、Trip.com优惠价格，出发前一站确认最新费用。';
 const lang = 'zh-cn';
 
 const rawTickets = await getCollection('tickets');
@@ -53,18 +53,20 @@ const schema = {
   <BaseHead title={title} description={description} noSuffix={true} />
   <meta property="og:locale" content="zh_CN" />
   <meta property="og:locale:alternate" content="zh_TW" />
-  <meta property="og:locale:alternate" content="zh_HK" />
   <meta property="og:locale:alternate" content="en_US" />
+  <meta property="og:locale:alternate" content="zh_HK" />
+  <meta property="og:locale:alternate" content="id_ID" />
   <link rel="alternate" hreflang="zh-TW" href="https://gobaligo.id/tickets/" />
   <link rel="alternate" hreflang="zh-HK" href="https://gobaligo.id/zh-hk/tickets/" />
   <link rel="alternate" hreflang="zh-CN" href="https://gobaligo.id/zh-cn/tickets/" />
   <link rel="alternate" hreflang="en"    href="https://gobaligo.id/en/tickets/" />
+  <link rel="alternate" hreflang="id"    href="https://gobaligo.id/id/tickets/" />
   <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/tickets/" />
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
 </head>
 
 <body>
-  <Header lang={lang} basePath="tickets" />
+  <Header lang={lang} basePath="tickets" availableLangs={['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']} />
   <TopStrip lang={lang ?? 'zh-cn'} />
 
   <!-- Hero -->
@@ -149,7 +151,7 @@ const schema = {
 
   </main>
 
-  <Footer />
+  <Footer lang={lang} />
 </body>
 </html>
 

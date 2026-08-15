@@ -4,6 +4,7 @@ cat: temple
 idr: 250000
 note: 天堂之門拍照，各種精彩套裝
 note_en: "Gates of Heaven photo spot. Various exciting packages."
+note_id: "Spot foto Gerbang Surga. Tersedia berbagai paket menarik."
 note_zh_cn: "天堂之门拍照，各种精彩套装"
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DLempuyang%2520Temple
 agoda: false
