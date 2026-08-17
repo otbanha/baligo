@@ -26,6 +26,79 @@ const ticketsData = rawTickets
 // Preload first 25 items for SEO
 const preloadedTickets = ticketsData.slice(0, 25);
 
+// Server-rendered card HTML so crawlers that don't execute JS (Bing, AI bots) still see
+// real ticket content. Mirrors the client-side buildCard() in the <script> below —
+// keep both in sync if the card markup changes.
+const CAT_LABEL: Record<string, string> = {
+  temple: '寺廟', nature: '自然景觀', island: 'Nusa Penida', park: '文化園區',
+  activity: '主題樂園', adventure: '冒險活動', course: '進修課程',
+  watersports: 'Water Sports', leisure: '休閒',
+};
+const CAT_ACCENT: Record<string, string> = {
+  temple: '#7c3aed', nature: '#16a34a', island: '#0891b2', park: '#ea580c',
+  activity: '#2563eb', adventure: '#dc2626', course: '#0d9488',
+  watersports: '#0284c7', leisure: '#7c3aed',
+};
+const CAT_PILL: Record<string, string> = {
+  temple: 'background:#f3e8ff;color:#6d28d9;', nature: 'background:#dcfce7;color:#15803d;',
+  island: 'background:#cffafe;color:#0e7490;', park: 'background:#ffedd5;color:#c2410c;',
+  activity: 'background:#dbeafe;color:#E63946;', adventure: 'background:#fee2e2;color:#b91c1c;',
+  course: 'background:#ccfbf1;color:#0f766e;', watersports: 'background:#FDE8D8;color:#C0392B;',
+  leisure: 'background:#ede9fe;color:#6d28d9;',
+};
+const formatIDR = (n: number) => 'IDR ' + n.toLocaleString('en-US');
+
+function buildCardHTML(item: typeof preloadedTickets[number]) {
+  const accent = CAT_ACCENT[item.cat] || '#5D4037';
+  const pill = CAT_PILL[item.cat] || '';
+  const label = CAT_LABEL[item.cat] || item.cat;
+
+  const warnHtml = item.warn ? `<div class="ticket-warn">${item.warn}</div>` : '';
+
+  const klookBtn = item.klook
+    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer sponsored nofollow" class="ticket-btn ticket-btn-klook">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Klook
+       </a>`
+    : '';
+
+  const agodaBtn = item.agoda
+    ? `<a href="https://www.agoda.com/zh-tw/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer sponsored nofollow" class="ticket-btn ticket-btn-agoda">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Agoda
+       </a>`
+    : '';
+
+  const tripcomBtn = item.tripcom
+    ? `<a href="${item.tripcom}" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-trip">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Trip.com
+       </a>`
+    : '';
+
+  const hasBtn = item.klook || item.agoda || item.tripcom;
+
+  return `
+    <div class="ticket-card">
+      <div class="ticket-card-accent" style="background:${accent};"></div>
+      <div class="ticket-card-head">
+        <h2 class="ticket-card-name">${item.name}</h2>
+        <span class="ticket-cat-pill" style="${pill}">${label}</span>
+      </div>
+      <div class="ticket-price-row">
+        <span class="ticket-price-label">票價</span>
+        <span class="ticket-price">${formatIDR(item.idr)}</span>
+      </div>
+      <div class="ticket-divider"></div>
+      <p class="ticket-note">${item.note}</p>
+      ${warnHtml}
+      ${hasBtn ? `<div class="ticket-btns">${klookBtn}${agodaBtn}${tripcomBtn}</div>` : ''}
+    </div>
+  `;
+}
+
+const preloadedCardsHTML = preloadedTickets.map(buildCardHTML).join('');
+
 // Build TouristAttraction Schema for each attraction
 const attractionSchemas = ticketsData.slice(0, 15).map((item, idx) => ({
   "@type": "TouristAttraction",
@@ -64,8 +137,6 @@ const schema = {
   ]
 };
 
-// Pre-render the cards as HTML (removed for now)
-// const preloadedHTML = preloadedTickets.map(t => generateCardHTML(t)).join('');
 ---
 
 <!doctype html>
@@ -129,10 +200,11 @@ const schema = {
     </div>
 
     <!-- Result count -->
-    <p id="result-count" class="tickets-count"></p>
+    <p id="result-count" class="tickets-count">顯示 {preloadedTickets.length} 個景點</p>
 
-    <!-- Card Grid -->
-    <div id="card-grid" class="tickets-grid"></div>
+    <!-- Card Grid: server-rendered so crawlers that don't run JS (Bing, AI bots) still see
+         the real ticket content. Client script below re-renders on load/filter/sort/search. -->
+    <div id="card-grid" class="tickets-grid" set:html={preloadedCardsHTML} />
 
     <!-- Trip.com Banner -->
     <div class="tickets-affiliate-section">
