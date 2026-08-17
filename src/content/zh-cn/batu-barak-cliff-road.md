@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6047d6cb9e26f87bdbf416907acf6fe.jpg'
 originalUrl: 'https://vocus.cc/article/67c9a234fd897800014b5a11'
 lang: zh-cn
-_srcHash: 11a06f3d221168842d4dd750e0c1e28e
+_srcHash: ba69164fb464120e3fa0718f49cdbb5b
 ---
 
 巴厘岛，这个充满神秘与浪漫的度假天堂，除了知名的海滩与梯田，还隐藏着许多令人惊艳的秘境。位于乌鲁瓦图的 **Batu Barak**（又称 **Tanah Barak**）就是近年来爆红的景点之一。这片被称为「蓝色公路」或「断崖公路」的地方，以其壮丽的石灰岩悬崖、洁白的沙滩和清澈的海水，吸引了无数旅人前来探访。今天，就让我们一起走进这片梦幻之地，感受它的魅力吧！
@@ -39,7 +39,7 @@ Batu Barak Beach 位于巴厘岛南部的乌鲁瓦图地区，具体位置在库
 
 这条沿海公路之所以被称为「蓝色公路」，是因为石灰岩悬崖与湛蓝的天空背景交相辉映，形成一幅壮丽的画面。尤其在巴厘岛的艳阳天，天空的蔚蓝和土墙的颜色形成巨大的反差，仿佛一条通往天堂的蓝色道路。又因为道路的两旁就是陡峭的断崖，因此这里也被称为「断崖公路」。
 
-![为什么叫「蓝色公路」或「断崖公路」？](https://images.gobaligo.id/vocus/vocus_30197729f12704e67d5352e5ad465799.jpg)
+![為什麼叫「藍色公路」或「斷崖公路」？](https://images.gobaligo.id/vocus/vocus_30197729f12704e67d5352e5ad465799.jpg)
 
 ***
 
@@ -54,7 +54,7 @@ Batu Barak Beach 位于巴厘岛南部的乌鲁瓦图地区，具体位置在库
 4. **邻近潘达瓦海滩**：
    Batu Barak Beach 与潘达瓦海滩相邻，游客可以轻松步行前往，一次体验两种不同的海滩风情。
 
-![Batu Barak/Tanah Barak 的亮点](https://images.gobaligo.id/vocus/vocus_b1c0bf1ebb9e5f22f466bcb222140ba6.jpg)
+![Batu Barak/Tanah Barak 的亮點](https://images.gobaligo.id/vocus/vocus_b1c0bf1ebb9e5f22f466bcb222140ba6.jpg)
 
 ***
 
@@ -68,6 +68,8 @@ Batu Barak Beach 位于巴厘岛南部的乌鲁瓦图地区，具体位置在库
    车程仅需20分钟，非常方便。
 
 **注意**：由于当地实施新的交通管制，私人车辆需停放在Lelangon停车场，然后步行或搭乘接驳车前往海滩。接驳车服务让游客的体验更加安全与舒适。进入需要门票，每人IDR 25,000（约USD$1）
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49个热门景点都附Klook／Agoda／Trip.com订票链接。
 
 ![詳細位置請參考「烏魯瓦圖攻略地圖」](https://images.gobaligo.id/vocus/vocus_d55264b0552506fae6f6c3bde6ded6f9.png)
 
@@ -96,7 +98,7 @@ Batu Barak Beach 位于巴厘岛南部的乌鲁瓦图地区，具体位置在库
 约傍晚 6:00 左右结束
 人多时几乎会一直来回接送
 
-![旅游建议与注意事项](https://images.gobaligo.id/vocus/vocus_b6cf778b678110c9505db7ed4ee0078b.jpg)
+![旅遊建議與注意事項](https://images.gobaligo.id/vocus/vocus_b6cf778b678110c9505db7ed4ee0078b.jpg)
 
 🏖️🪨🌊探索蓝色公路悬崖之美，劈开的壮丽景观，随手一拍就是 Instagram 打卡胜地！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -120,11 +122,11 @@ Tanah Barak和Pandawa海滩实际距离巴厘岛南部东岸的两个度假胜�
 
 ## Klook一日游：
 
-![Klook一日游：](https://images.gobaligo.id/vocus/vocus_2d76fdef87ebfb732439f387b51af176.jpg)
+![Klook一日遊：](https://images.gobaligo.id/vocus/vocus_2d76fdef87ebfb732439f387b51af176.jpg)
 
 乘坐VW敞篷车游览南巴厘岛！途中停留Padang Padang和Pandawa海滩，欣赏美景，抵达乌鲁瓦图寺观赏日落，享受金巴兰海鲜晚餐。套餐含接送、司机及燃料，无后顾之忧，尽情沉浸在巴厘岛的美好中！
 
-> [乌鲁瓦图VW敞篷车观光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
+[> 乌鲁瓦图VW敞篷车观光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
 
 ***
 
@@ -136,13 +138,13 @@ Tanah Barak和Pandawa海滩实际距离巴厘岛南部东岸的两个度假胜�
 
 2024/06 Tanah Barak
 
-![游玩心得：](https://images.gobaligo.id/vocus/vocus_0b817fd2283ce1fac2445b9fdb010dab.jpg)
+![遊玩心得：](https://images.gobaligo.id/vocus/vocus_0b817fd2283ce1fac2445b9fdb010dab.jpg)
 
-![游玩心得：](https://images.gobaligo.id/vocus/vocus_c80da0118821fee582b6810af405631e.jpg)
+![遊玩心得：](https://images.gobaligo.id/vocus/vocus_c80da0118821fee582b6810af405631e.jpg)
 
 同一天傍晚 White Rock Beach Club，大家都说很棒！
 
-我们是在这里购票的，他们的潟湖沙发床可以容纳八个人，对我们来说刚刚好！门票可抵低消：[White Rock Beach Club通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df61191150c)
+我们是在这里购票的，他们的潟湖沙发床可以容纳八个人，对我们来说刚刚好！门票可抵消费：[White Rock Beach Club通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df61191150c)
 
 ***
 

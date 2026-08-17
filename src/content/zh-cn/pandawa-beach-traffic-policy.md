@@ -2,7 +2,8 @@
 slug: pandawa-beach-traffic-policy
 title: 巴厘岛热门海滩实施新政策，减少交通拥堵
 description: >-
-  巴厘岛最南端乌鲁瓦图的潘达瓦海滩，有人称这里为「蓝色公路」，因塔纳巴拉克壮丽奇特的石灰岩悬崖和美丽的白沙滩，成为越来越多游客的必访之地。但随着近一年半来游客数量激增，当地决定调整进入方式，让行人和车辆的交通更顺畅、安全。
+  巴厘岛最南端Uluwatu（乌鲁瓦图）的Pandawa海滩，有人叫这里是「蓝色公路」，因Tanah
+  Barak壮丽奇特的石灰岩悬崖和美丽的白沙滩，成为越来越多游客的必访之地。但随着近一年半来游客数量激增，当地决定调整进入方式，让行人和车辆的交通更顺畅、安全。
 pubDate: '2024-09-13'
 updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f879b6e9f84edbcba43678fcc371457c.jpg'
@@ -17,23 +18,23 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 9cfd1481816323d1c82fcc68915ec4b1
+_srcHash: ba2f4f7b9b77979d930b36902f59d0dc
 ---
-**先说结论**：潘达瓦海滩的塔纳巴拉克悬崖通道**已禁止私人车辆通行**，不论骑车或开车都必须改停在 **Lelangon 停车场**，再步行或搭接驳车前往海滩（票价维持 IDR 25,000／人，含国内外游客）。这是为了让热门拍照通道更安全、减少人车争道，接驳车每日可载 800 人次往返。
+**先讲结论**：Pandawa 海滩的 Tanah Barak 悬崖通道**已禁止私人车辆通行**，不论骑车或开车都必须改停在 **Lelangon 停车场**，再步行或搭接驳车前往海滩（票价维持 IDR 25,000／人，含国内外游客）。这是为了让热门拍照通道更安全、减少人车争道，接驳车每日可载 800 人次往返。
 
-巴厘岛最南端乌鲁瓦图的潘达瓦海滩，有人称这里为「蓝色公路」，因壮丽奇特的石灰岩悬崖和美丽的白沙滩，成为越来越多游客的必访之地。但随着近一年半来游客数量激增，当地决定调整进入方式，让行人和车辆的交通更顺畅、安全。
+巴厘岛最南端Uluwatu（乌鲁瓦图）的Pandawa海滩，有人叫这里是「蓝色公路」，因壮丽奇特的石灰岩悬崖和美丽的白沙滩，成为越来越多游客的必访之地。但随着近一年半来游客数量激增，当地决定调整进入方式，让行人和车辆的交通更顺畅、安全。
 
 ![峇里島新景點 Tanah Barak](https://images.gobaligo.id/vocus/vocus_7bfc289c1a511e6bc49e67cf8c4bb07d.jpg)
 
-巴厘岛新景点 塔纳巴拉克
+巴厘岛新景点 Tanah Barak
 
-潘达瓦海滩的塔纳巴拉克区是最受欢迎的入口，游客从停车场走向海滩时，必须经过一条狭窄的悬崖通道，这里也成为打卡拍照的热点。为了让行人更安全，从现在开始，私人车辆禁止通过这条通道。取而代之的是，当局推出了接驳车服务，不仅保护行人，还能减少周边的交通压力，让环境看起来更整洁。
+Pandawa海滩的Tanah Barak区是最受欢迎的入口，游客从停车场走向海滩时，必须经过一条狭窄的悬崖通道，这里也成为打卡拍照的热点。为了让行人更安全，从现在开始，私人车辆禁止通过这条通道。取而代之的是，当局推出了接驳车服务，不仅保护行人，还能减少周边的交通压力，让环境看起来更整洁。
 
-当地负责人Ni Luh Hepi Wiradani解释说，这项政策是根据游客的建议制定的。「很多游客都希望塔纳巴拉克这边可以更有秩序，车辆不要穿梭来影响大家的游玩，因此我们调整了交通方式，让大家玩得更轻松。」
+当地负责人Ni Luh Hepi Wiradani解释说，这项政策是根据游客的建议制定的。「很多游客都希望Tanah Barak这边可以更有秩序，车辆不要穿梭来影响大家的游玩，因此我们调整了交通方式，让大家玩得更轻松。」
 
 ![Tanah Berak 一點不輸給日本著名景點「立山黑部」](https://images.gobaligo.id/vocus/vocus_8129df44716b2513f37dca46a64237cd.jpg)
 
-塔纳巴拉克一点不输给日本著名景点「立山黑部」
+Tanah Berak 一点不输给日本著名景点「立山黑部」
 
 现在，无论是骑摩托车还是开车的游客，都需要在Lelangon停车场停车，然后以步行或搭乘接驳车前往海滩。票价还是维持之前的价格，每人IDR 25,000，无论是国内游客还是国际游客都一样。
 
@@ -60,11 +61,11 @@ Tanah Barak和Pandawa海滩实际距离巴厘岛南部东岸的两个度假胜�
 
 乘坐VW敞篷车游览南巴厘岛！途中停留Padang Padang和Pandawa海滩，欣赏美景，抵达乌鲁瓦图寺观赏日落，享受金巴兰海鲜晚餐。套餐含接送、司机及燃料，无后顾之忧，尽情沉浸在巴厘岛的美好中！
 
-> [乌鲁瓦图VW敞篷车观光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
+[> 乌鲁瓦图VW敞篷车观光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
 
 ## 游玩心得：
 
-2024/06 我们在中午 [Icon Bali](/zh-cn/blog/icon-bali-shopping-mall-sanur/) 吃饭，下午包车从沙努尔前往 Tanah Barak，傍晚的时候去旁边不远的 White Sand Beach Club，这样悠闲半天的行程我们觉得很棒，大家可以参考一下。
+2024/06 我们中午在 [Icon Bali](/zh-cn/blog/icon-bali-shopping-mall-sanur/) 吃饭，下午包车从沙努尔前往 Tanah Barak，傍晚的时候去旁边不远的 White Sand Beach Club，这样悠闲半天的行程我们觉得很棒，大家可以参考一下。
 
 ![2023/06 Tanah Barak](https://images.gobaligo.id/vocus/vocus_9ceecc2ebeccbe53dbbd9d37872c50c3.jpg)
 
@@ -78,6 +79,8 @@ Tanah Barak和Pandawa海滩实际距离巴厘岛南部东岸的两个度假胜�
 
 [White Rock Beach Club通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824250&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df61191150c)
 
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
+
 ## 注册加入我们的博客
 
 📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
@@ -86,7 +89,7 @@ Tanah Barak和Pandawa海滩实际距离巴厘岛南部东岸的两个度假胜�
 
 **通过免费订阅，你将获得：**
 
-✅最新的巴厘岛新闻，让你第一手掌握旅游资讯  
+✅最新的巴厘岛新闻，让你第一时间掌握旅游资讯
 
 ✅深度攻略，让你的行程既省钱又无忧
 

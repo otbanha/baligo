@@ -15,13 +15,13 @@ originalUrl: 'https://vocus.cc/article/6795adf1fd8978000133fe10'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 42234b7fddb2276dc3eb52b3a83b62f2
+_srcHash: ec8246b5f8ab5fa5d8ad49dc210a0c1f
 ---
 ### 探索巴厘岛乌布的Taman Dedari（仙女园）：历史与自然之美
 
 ![探索峇里島烏布的Taman Dedari（仙女園）：歷史與自然之美](https://images.gobaligo.id/vocus/vocus_921321dbf778f7e34410e97542da931c.jpg)
 
-**先讲结论**：Taman Dedari 是乌布 Ayung 河畔的仙女主題雕像公园，占地 1.5 公顷、有高达 10 米的巨型 Dedari 雕像共约 50 座，同时附设 The Royal Pita Maha 餐厅可边赏景边用餐（英语服务、价格合理）。适合想拍照打卡＋顺便吃顿有氛围午餐/下午茶的旅客，一次满足美食与美景。
+**先说结论**：Taman Dedari 是乌布 Ayung 河畔的仙女主題雕像公园，占地 1.5 公顷、有高达 10 米的巨型 Dedari 雕像共约 50 座，同时附设 The Royal Pita Maha 餐厅可边赏景边用餐（英语服务、价格合理）。适合想拍照打卡＋顺便吃顿有氛围午餐/下午茶的旅客，一次满足美食与美景。
 
 位于巴厘岛乌布的Taman Dedari（仙女园）是一个于2021年初新开放的旅游景点，坐落在Gianyar Regency乌布区的Kedewatan村，具体位置在Jalan Raya Kedewatan。这个名字源自于「dedari」，意为「仙女」，灵感来自于Rsi Markandeya的传说。据说，这位圣人在Ayung河附近冥想时，目睹了仙女从天而降的神奇景象，这条河也因此被称为Ayung River，象征着美丽与神圣。
 
@@ -49,7 +49,7 @@ Taman Dedari不仅是一个欣赏艺术的地方，更是一个享受自然美�
 
 除了自然与艺术，Taman Dedari还提供丰富的美食体验。园区内的餐厅是The Royal Pita Maha的一部分，提供多种独特的巴厘岛美食和饮品。在这里，游客可以一边享用美味的餐点，一边欣赏Ayung河的美景和Dedari雕像的壮丽。餐厅的价格合理，服务人员友善且能流利使用英语，让游客在享受美食的同时也能感受到贴心的服务。
 
-园区内有很多适合拍照打卡的地方，大家可以尽情拍照留念！
+园区内有很多非常适合拍照打卡的地方，大家可以尽情拍照留念！
 
 ![用餐區](https://images.gobaligo.id/vocus/vocus_cb81c518905423e2efb8fb061d1a2c96.jpg)
 
@@ -78,6 +78,8 @@ Taman Dedari不仅是一个欣赏艺术的地方，更是一个享受自然美�
 ### 预订美食优惠
 
 👉[Taman Dedari 门票、下午茶、游泳餐厅用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
+
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
 
 Taman Dedari是一个结合了历史、文化、艺术与自然美景的独特景点，无论是对历史爱好者、艺术爱好者，还是单纯想要放松身心的游客来说，这里都是一个不可错过的地方。来到乌布，别忘了安排一趟Taman Dedari之旅，感受天使降临的神奇传说与巴厘岛的自然魅力！
 

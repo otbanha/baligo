@@ -16,17 +16,19 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91b278904531c76c5f88a15a022eab6d.jpg'
 originalUrl: 'https://vocus.cc/article/669488eafd89780001cc7d82'
 lang: zh-cn
-_srcHash: be89deb2c90e7ba3e040fe0b928bd1f8
+_srcHash: 67641b44074e24555c8cb61defdc3104
 ---
 **重点摘要**：这是一份七月旺季实测的**水明漾 → 乌鲁瓦图 → 金巴兰 → 乌布**行程游记。两个最有用的结论：① 巴厘岛跨区司机常拒载、半路抬价，**全程包车**（本文司机 Komang WikaSutresna，文末有联系方式）是最省心解；② Oneeighty Dayclub **开门后一小时内到**就能抢到海景第一排，乌鲁瓦图卡恰火舞门票可请司机提前代订免排队。
 
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
+
 > 以下内容由团友 [连育谆](https://www.facebook.com/groups/baligo/permalink/1574999756380597/) 提供给我们重新编排：
 
-这次因为要参加朋友婚礼，我们选择在七月份前往巴厘岛。巴厘岛的旅游资讯非常繁杂，我们花了两三个月的时间才把行程规划出来。
+这次因为要参加朋友婚礼，我们选择在七月份前往巴厘岛。巴厘岛的旅游信息非常繁杂，我们花了两三个月的时间才把行程规划出来。
 
 ![【水明漾-烏魯瓦圖-金巴蘭-烏布】峇里島自由行完整行程分享](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
 
-在行前规划这段时间里，我们发现当地的交通状况非常混乱，经常有司机拒载跨区游客，或是会在半路抬价等问题。为了避免这些困扰，我们决定请一位包车司机，这样不仅可以减少找车的麻烦，也让我们的旅程更加顺畅和安心。我们的司机是 Komang WikaSutresna（最底下有介绍）。最终，我们觉得选择包车真的是一个非常明智的决定！
+在行前规划的这段时间里，我们发现当地的交通状况非常混乱，经常有司机拒载跨区游客，或是会在半路抬价等问题。为了避免这些困扰，我们决定请一位包车司机，这样不仅可以减少找车的麻烦，也让我们的旅程更加顺畅和安心。我们的司机是 Komang WikaSutresna（最底下有介绍）。最终，我们觉得选择包车真的是一个非常明智的决定！
 
 ## 第一天：
 
@@ -54,13 +56,13 @@ https://youtu.be/hQbBTktqEqY
 
 之后，Komang推荐我们去Uluwatu Temple观看传统舞蹈表演，他还提前让朋友帮我们预留了门票，这样我们可以在Blue Point Beach待久一些，不用提前去买票。
 
-> [Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票资讯）](/zh-cn/blog/kecak-fire-dance-bali/)
+> [Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
 ![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
 
 乌鲁瓦图美景。连育谆提供
 
-小提醒，乌鲁瓦图寺庙有很多猴子，比柴山的猴子还要凶猛，男生女生都会被抢，地上甚至看到很多被抢的眼镜残骸。所以去那里时，最好什么贵重物品都不要带。
+小提醒，Uluwatu Temple有很多猴子，比柴山的猴子还要凶猛，男生女生都会被抢，地上甚至看到很多被抢的眼镜残骸。所以去那里时，最好什么贵重物品都不要带。
 
 ## 第三天：
 
@@ -98,7 +100,7 @@ https://youtu.be/UoGlRyAdyB8
 
 圣泉寺。连育谆提供
 
-这天的行程是一个O字型，先从圣泉寺开始，然后去咖啡厅看火山。原本我们查到AKASA Specialty Coffee，但Komang推荐我们另一间Montana Del Café，说台湾人好像都喜欢这间。虽然因天气不好看不到火山，但这里的韩国可颂非常好吃！
+这天的行程是一个O字形，先从圣泉寺开始，然后去咖啡厅看火山。原本我们查到AKASA Specialty Coffee，但Komang推荐我们另一间Montana Del Café，说台湾人好像都喜欢这间。虽然因天气不好看不到火山，但这里的韩国可颂非常好吃！
 
 https://youtube.com/shorts/fiYs5GKdINU
 
@@ -106,11 +108,11 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 Montana Del Café可惜天气不好。连育谆提供
 
-最后，我们去了Tegallalang Rice Terrace，门票不包含秋千票，想玩的要在门口买票，里面也有特别的衣服可以租借，拍照非常漂亮。虽然这里偏向网美景点，但在梯田晃晃和听着荡秋千人的尖叫声也很享受。
+最后，我们去了Tegallalang Rice Terrace，门票不包含秋千票，想玩的要在门口买票，里面也有特别的衣服可以租借，拍照非常漂亮。虽然这里偏向网红景点，但在梯田晃晃和听着荡秋千人的尖叫声也很享受。
 
 https://youtu.be/op78Dk8CjL4
 
-> 可以参考一下：[巴厘岛乌布完整攻略：100种深入了解乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
+> 可以参考一下：[巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 行程结束后，我们请Komang带我们去此行最喜欢的餐厅-Kebun Bistro，虽然最有名的羊排卖完了，但店员推荐的牛排也非常美味！点了五分熟，切开却没有血水，肉质非常嫩，连配菜都很好吃。因为顾客很多，建议在正餐时间提前订位。（已加入[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
 
@@ -118,7 +120,7 @@ https://youtu.be/op78Dk8CjL4
 
 早上我们从乌布出发前往海神庙。走到海神庙可能需要涉水，建议穿可以泡水的鞋子和短裤。听说夕阳时分很美，可惜我们因行程安排在中午，没能欣赏到。
 
-> [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
+[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/zh-cn/blog/bali-tanah-lot-guide/)
 
 我们到海神庙时才发现不小心把前一晚饭店的钥匙带走了，Komang马上说他过两天可以帮我们把钥匙送回去（已经取得饭店主管姐姐的同意），真是非常感谢他！
 

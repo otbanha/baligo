@@ -11,11 +11,11 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2d75af8cafe43a7ba1d26cc311649b07.jpg'
 originalUrl: 'https://vocus.cc/article/69113993fd897800015bfa87'
 lang: zh-cn
-_srcHash: a717ae25c0890e168ea98e8bbeb1089f
+_srcHash: 7efe1076fba9a115d0fe89366f5e7c63
 ---
 ![夜幕下的幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)
 
-**先讲结论**：Hikaria 位于乌布 Greenkubu Restaurant and Swing 森林内，是**全长约 1 公里**的沉浸式夜间光影步道，以巴厘岛神话（光之神 Sanjara 与影之神 Wisaka）为叙事主题，日落后开放，适合安排傍晚到夜间的独特体验行程，老少皆宜。
+**先说结论**：Hikaria 位于乌布 Greenkubu Restaurant and Swing 森林内，是**全长约 1 公里**的沉浸式夜间光影步道，以巴厘岛神话（光之神 Sanjara 与影之神 Wisaka）为叙事主题，日落后开放，适合安排傍晚到夜间的独特体验行程，老少皆宜。
 
 踏入巴厘岛乌布的Hikaria，仿佛穿越了现实与幻想的边界，这是一场在夜幕下展开的光影交响诗篇。这个革命性的光影艺术品牌，由**Timedoor Indonesia**与**Run-Hun Sha**联手打造，位于Greenkubu Restaurant and Swing的这片森林，每到日落后便化身为充满魔力的光影仙境，吸引着无数寻找独特夜间体验的旅人。
 
@@ -59,6 +59,8 @@ Hikaria最令人称道的特色之一，就是处处都是绝佳的拍照点。�
 
 **门票优惠**：[通过Klook订购](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1158202&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F172453-hikaria-bali-s-first-immersive-night-walk-ticket-in-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D254f6442fd)省很多！官网票价国际游客成人 Rp343,000/12岁以下Rp193,000。入场人数有限额，建议先购票。
 
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
+
 ## 贴心建议与注意事项
 
 根据多次访客的经验，前往Hikaria有以下建议：
@@ -75,8 +77,8 @@ Hikaria最令人称道的特色之一，就是处处都是绝佳的拍照点。�
 
 ## 结语
 
-Hikaria不僅僅是晚上散步欣賞燈飾，更是一趟充滿想像力的旅程。許多訪客表示，這是一次令人難忘的體驗，他們會一再回來，並帶著朋友和家人一同分享這份魔法。
+Hikaria不仅仅是晚上散步欣赏灯饰，更是一趟充满想象力的旅程。许多访客表示，这是一次令人难忘的体验，他们会一再回来，并带着朋友和家人一同分享这份魔法。
 
-無論您是藝術愛好者、攝影迷，還是單純尋找巴厘岛獨特夜間活動的旅人，Hikaria都能為您帶來超越期待的驚喜。當夜幕降臨巴厘岛，讓自己沉浸在這片光影交織的雨林中，創造屬於自己的難忘回憶吧！
+无论您是艺术爱好者、摄影迷，还是单纯寻找巴厘岛独特夜间活动的旅人，Hikaria都能为您带来超越期待的惊喜。当夜幕降临巴厘岛，让自己沉浸在这片光影交织的雨林中，创造属于自己的难忘回忆吧！
 
 {{block:ubud}}

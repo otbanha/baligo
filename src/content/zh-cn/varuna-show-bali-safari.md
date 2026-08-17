@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-cn
-_srcHash: d3efa5eca689077e2698ea411303337c
+_srcHash: 0625ac03e3dcaeeca5d3104a7e36563e
 ---
 **先说结论**：Varuna Show 是 2025 年开幕即引起话题的水下剧场表演，位于吉安雅的 Marine Safari Bali，与旁边的 Bali Safari Park 合称「Bali Safari and Marine Park」（一个目的地两个世界），适合安排一日游行程串联陆上动物园与水下剧场两种体验。
 
@@ -50,7 +50,7 @@ _srcHash: d3efa5eca689077e2698ea411303337c
 
 ## 🎭 Varuna Show 震撼登场
 
-我们的Premium座位位于中央区域，视野极佳。当灯光暗下，整个剧场瞬间变身成一个巨大的水下世界。
+我们Premium座位位于中央区域，视野极佳。当灯光暗下，整个剧场瞬间变身成一个巨大的水下世界。
 
 表演以Varuna这位海底守护者的冒险故事为主线，最令人惊叹的是那些精心设计的舞台效果：
 
@@ -73,7 +73,7 @@ _srcHash: d3efa5eca689077e2698ea411303337c
 
 看完Varuna Show后，我们还体验了包含在Premium套票里的：
 
-- Jungle Odyssey：近距离观察野生动物（大约一个小时出头，建议一开门立刻进入能避开人潮，能拍到好照片）
+- Jungle Odyssey：近距离观察野生动物（大约一个多小时，建议一开门立刻进入能避开人潮，能拍到好照片）
 - Fun Zone：有一些游乐设施可以让大人小孩一起玩
 - 海狮与海豚表演：互动性超强（15:00）
 - Pachamaya火焰秀：充满原始力量的震撼表演（12:00 & 15:30）
@@ -90,6 +90,8 @@ _srcHash: d3efa5eca689077e2698ea411303337c
 4. 秀12:30开始，可以提前入场选位
 5. 表演期间禁止摄影，但结束后有充足时间拍照
 6. 园区有储物柜可以存放随身物品
+
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
 ![Premium票的觀賞位置最好](https://images.gobaligo.id/vocus/vocus_ce0f0c44030644cd9191e3c141ffdb76.jpg)
 
@@ -111,7 +113,7 @@ Premium票的观赏位置最好
 - 踏上野生动物园之旅，遇见各式各样的动物，甚至是濒临灭绝的物种。可搭乘野生动物巴士观赏狮子与斑马（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd53092f046)）
 - 🦚**巴厘岛鸟园**：充满异国风情的热带天堂，汇聚全球珍奇鸟类与沉浸式自然景观。这里结合精彩鸟类表演与互动体验，非常适合亲子同游（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8555ce542e)）
 - 🎭 **巴厘岛爬行公园**：观赏东南亚最全的爬行动物，了解它们的各种知识（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d7be6c50c)）
-- 🛍️ **玛森大象公园（Mason Elephant Park）**：探索巴厘岛唯一的专业大象救援园区与苏门答腊象亲密互动。欣赏园区内的大象表演，并通过喂食活动与这些温柔的巨兽建立连结（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903)）
+- 🛍️ **玛森大象公园（Mason Elephant Park）**：探索巴厘岛唯一的专业大象救援园区与苏门答腊象亲密互动。欣赏园区内的大象表演，并通过喂食活动与这些温柔的巨兽建立连接（[Klook优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903)）
 
 ***
 

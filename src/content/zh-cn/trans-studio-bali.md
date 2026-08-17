@@ -27,12 +27,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
+_srcHash: 7b0fcc24f83317ddbbab1411ca9ef3e0
 ---
 
 **先说结论**：Trans Studio Bali 是巴厘岛唯一的大型全室内主题乐园，位于库塔/水明漾附近的 Trans Studio Mall，分为**五大主题区**（含室内过山车、i-Fly 室内跳伞），全程空调开放不受天气影响，适合作为巴厘岛雨天或高温时段的亲子/长辈备选行程。
 
-带家人去巴厘岛，最怕遇到大太阳晒到头昏，或是下午突然来一场倾盆大雨把行程全打乱——这种情况我遇到过不止一次。后来发现了 **Trans Studio Bali**，整个行程规划就轻松多了。这座巴厘岛唯一的大型室内主题乐园，就藏在 Trans Studio Mall 里，不管外面天气怎样，里面玩得开心最重要。
+带家人去巴厘岛，最怕遇到大太阳晒到头昏，或是下午突然来一场倾盆大雨把行程全打乱——这种情况我遇过不只一次。后来发现了 **Trans Studio Bali**，整个行程规划就轻松多了。这座巴厘岛唯一的大型室内主题乐园，就藏在 Trans Studio Mall 里，不管外面天气怎样，里面玩得开心最重要。
 
 ![【峇里島室內景點】Trans Studio Bali 完全攻略：必玩五大設施、門票優惠與防曬雨天備案行程規劃](https://images.gobaligo.id/images/2026-05/1780232865078-_unnamed.jpeg)
 
@@ -40,7 +40,7 @@ _srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
 
 ## 什么是 Trans Studio Bali？
 
-简单来说，它是巴厘岛目前规模最大的**全室内主题乐园**，位于库塔/水明漾附近的 Trans Studio Mall（地址：Jl. Imam Bonjol No.440）。园区分为五大主题区，每一区的风格都截然不同，从纽约风的动作特技区到充满巴厘文化的神殿探险区，玩法多到一天根本走不完。
+简单来说，它是巴厘岛目前规模最大的**全室内主题乐园**，位于库塔/水明漾附近的 Trans Studio Mall（地址：Jl. Imam Bonjol No.440）。园区分成五大主题区，每一区的风格都截然不同，从纽约风的动作特技区到充满巴厘文化的神殿探险区，玩法多到一天根本走不完。
 
 ![什麼是 Trans Studio Bali？](https://images.gobaligo.id/images/2026-05/1780233421375-1-1-trans-studio-bali-by-riskidarmawan_-740x592.webp)
 
@@ -62,7 +62,7 @@ _srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
 
 ![2. 飛越印尼（Flying Over Indonesia）— 空中環遊印尼](https://images.gobaligo.id/images/2026-05/1780233003802-2.jpeg)
 
-这是整个乐园我觉得最有意思的设施之一，也是**全印尼唯一**的飞行模拟剧院体验。坐上模拟器，搭配 4D 体感技术，配合气流、薄雾等特效，从空中一路飘过婆罗浮屠、科莫多岛、巴厘梯田……不知不觉就对印尼其他地方产生兴趣了。
+这是整个乐园我觉得最有意思的设施之一，也是**全印尼唯一**的飞行模拟剧院体验。坐上模拟器，搭配4D体感技术，配合气流、薄雾等特效，从空中一路飘过婆罗浮屠、科莫多岛、巴厘梯田……不知不觉就对印尼其他地方产生兴趣了。
 
 比起单纯看屏幕，整个「在空中飞」的临场感出乎意料地真实。超适合一家老小一起体验！
 
@@ -72,13 +72,13 @@ _srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
 
 这个赛道几乎占了整整一层楼，是目前巴厘岛规模最大的室内卡丁车场。电动卡丁车操作稳定安全，连小孩都能上场（有身高限制，记得提前确认），玩起来真的很过瘾。
 
-**小提醒：这个设施超人气，很容易排队。** 我们当天等了大概 45 分钟，建议一进场就先冲这里，不然到下午人潮更多。
+**小提醒：这个设施超人气，很容易排队。** 我们当天等了大概45分钟，建议一进场就先冲这里，不然到下午人潮更多。
 
-### 4. ### Forbidden Temple Adventure 禁忌神庙漂漂河 — 家庭同乐最佳选择
+### 4. ### Forbidden Temple Adventure 禁忌神庙漂流河 — 家庭同乐最佳选择
 
 ![4. Forbidden Temple Adventure 禁忌神廟漂漂河 — 家庭同樂最佳選擇](https://images.gobaligo.id/images/2026-05/1780233135156-4.jpg)
 
-这条漂漂河融入了巴厘神殿的探险主题，途中还有一段短暂驶出户外的区段，可以看到库塔/水明漾的城市风景。整体刺激度不算高，但胜在亲切好玩，带长辈或小朋友特别合适。
+这条漂流河融入了巴厘神殿的探险主题，途中还有一段短暂驶出户外的区段，可以看到库塔/水明漾的城市风景。整体刺激度不算高，但胜在亲切好玩，带长辈或小朋友特别合适。
 
 担心湿身？我们玩完几乎没湿，可以放心带包包进去。
 
@@ -92,7 +92,7 @@ _srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
 
 (仅供参考，以现场为准)
 
-| **表演名称 (Show Name)** | **平日时间 (周一至周五)** | **周末、假日时间 (周六日与国定假日)** | **表演亮点** |
+| **表演名称 (Show Name)** | **平日时间 (周一至周五)** | **周末、假日时间 (周六日与法定假日)** | **表演亮点** |
 | --- | --- | --- | --- |
 | **Gayatri** | **13:30 - 14:00** | **13:30 - 14:00** | 融合传统与现代的巴厘岛文化舞台剧。 |
 | **Simsalabim Show** | **14:30 - 15:00** | **15:00 - 15:30** | 充满奇幻魔术与视觉效果的剧场秀。 |
@@ -109,12 +109,12 @@ _srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
 
 - **忍者挑战赛道（Action Zone）**：障碍训练结合平衡挑战，爱运动的朋友必试
 - **幻觉屋 Frank House**：迷宫加上视觉错乱，走出来会有点怀疑人生
-- **铁达尼号区域**：巨型铁达尼号装置艺术，入场前必拍的打卡点
+- **泰坦尼克号区域**：巨型泰坦尼克号装置艺术，入场前必拍的打卡点
 
 ![其他值得一探的特色設施](https://images.gobaligo.id/images/2026-05/1780233233500-titanic.webp)
 
 - **僵尸与狼人射击任务（City of the Dead）**：拿激光枪对抗虚拟怪物，看谁准
-- **Bali Senses 沉浸式数字艺术区**：用巴厘文化与科技打造的互动数字空间，入场第一站就是这里
+- **Bali Senses 沉浸式数字艺术区**：用巴厘文化打造的互动数字空间，入场第一站就是这里
 - **i-Fly 室内跳伞**（另外付费）：怕高但想体验飞翔感？这是最安全的方式
 
 ![其他值得一探的特色設施](https://images.gobaligo.id/images/2026-05/1780233460315-fly.jpg)
@@ -125,8 +125,8 @@ _srcHash: 6567dbba7aa897ebb77c9a04ae33b51a
 
 Trans Studio Bali 的票价采用动态定价，搭配不同促销方案。以2026年目前的行情来看：
 
-- **外国旅客（International Guest）**：官方网站一般门票 Rp. 600,000；Klook 购票优惠价 Rp. 450,000、门票+快速通关 Rp. 712,500
-- **线上平台购票**：有时有折扣优惠，适合提前规划的旅客
+- **外国游客（International Guest）**：官方网站一般门票 Rp. 600,000；Klook 购票优惠价 Rp. 450,000、门票+快速通关 Rp. 712,500
+- **线上平台购票**：有时有折扣优惠，适合提前规划的游客
 - 一张票可玩园内所有设施（i-Fly 除外，需另付费）
 
 💡 **小提醒**：i-Fly 室内跳伞是唯一需要另外付费的项目，其他设施全部包含在入场票内，不限次数游玩。
@@ -142,7 +142,7 @@ Trans Studio Bali 的票价采用动态定价，搭配不同促销方案。以20
 | 地址 | Trans Studio Mall Bali, Jl. Imam Bonjol No.440, Denpasar |
 | 特色 | 巴厘岛最大室内主题乐园，全空调环境 |
 | 主题区 | 五大区域共 16 个设施 + 3 场表演 |
-| 购票方式 | 官网、Klook、现场购票皆可 |
+| 购票方式 | 官网、Klook、现场购票均可 |
 | 特殊设施 | i-Fly 室内跳伞（需另购） |
 | 设施 | 祷告室、医疗站、多间餐厅 |
 
@@ -150,13 +150,15 @@ Trans Studio Bali 的票价采用动态定价，搭配不同促销方案。以20
 
 ## 最后一个建议：买 Fast Track 快速通关，真的值得
 
-如果你的行程只有半天，或是不想把大把时间耗在排队上，**强烈建议加购 Fast Track 快速通关票**(Klook 门票+快速通关 Rp. 712,500)。
+如果你的行程只有半天，或者不想把大把时间耗在排队上，**强烈建议加购 Fast Track 快速通关票**（Klook 门票+快速通关 Rp. 712,500）。
+
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
 
 以我们的亲身体验来说，光是 Formula Kart 就等了快 45 分钟，Flying Over Indonesia 人气也相当高，热门时段排队可达一个小时。有了 Fast Track，**至少可以节省十倍的排队时间**——算下来，一整天下来能多玩好几个设施，划算程度远超你想像。
 
 不然部分热门设施，排到你玩的时候可能天都黑了，完全是跟自己的假期过不去。
 
-> 在线购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7de4b80bf3) [Kkday](https://www.kkday.com/zh-tw/product/154657-trans-studio-bali-theme-park-bali-seminyak-indonesia?qs=trans+studio&cid=25072) [Trip](https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856/?locale=zh-TW&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
+> 线上购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7de4b80bf3) [Kkday](https://www.kkday.com/zh-tw/product/154657-trans-studio-bali-theme-park-bali-seminyak-indonesia?qs=trans+studio&cid=25072) [Trip](https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856/?locale=zh-TW&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
 [https://youtube.com/shorts/POSTtRPKK5c](https://youtube.com/shorts/POSTtRPKK5c)
 
@@ -164,7 +166,7 @@ Trans Studio Bali 的票价采用动态定价，搭配不同促销方案。以20
 
 如果你带的是不适合骑摩托车、爬山、或长途日晒的家人，这里是极佳的选择。光是 Formula Kart、Flying Over Indonesia、加上精彩表演，轻轻松松就能打发一整个下午，而且老少皆宜。
 
-下次规划巴厘岛行程，记得把这里列进候补清单，说不定出发前几天气象预报突然显示下雨，就刚好派上用场了！
+下次规划巴厘岛行程，记得把这里列入候补清单，说不定出发前几天天气预报突然显示下雨，就刚好派上用场了！
 
 ➡ 更多巴厘岛亲子乐园推荐：[巴厘岛十大亲子乐园完全攻略](/zh-cn/blog/top-10-kids-attractions-in-bali/)
 

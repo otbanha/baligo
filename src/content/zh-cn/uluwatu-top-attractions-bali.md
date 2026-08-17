@@ -20,13 +20,13 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/8mzJm_UrjSg'
 lang: zh-cn
-_srcHash: 7b1ce64e37fd14e66076245a1df08646
+_srcHash: e810536a37167eefcf4f02a22a66152b
 ---
 ![峇里島烏魯瓦圖十大景點/必做活動](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
 
 **先说结论**：乌鲁瓦图十大必做活动之首是**乌鲁瓦图寺**（矗立在印度洋上17米高的峭壁，巴厘岛三大名庙之一），可欣赏绝美日落，但要特别注意当地猴子非常凶悍会抢夺物品，进场前务必**摘下眼镜和首饰**；另一亮点是傍晚的火舞表演。
 
-在乌鲁瓦图度过的每一分每一秒，您都能感受到天堂般的体验，我们并不是在夸大其词！巴厘岛乌鲁瓦图被严重低估了，而今天，我们将带您探索乌鲁瓦图的十大景点和必做活动。
+在乌鲁瓦图度过的每一分每一秒，您都能感受到天堂般的体验，我们并不是在夸大其词！巴厘岛乌鲁瓦图被严重低估了，而今天，我们将带您探索乌鲁瓦图的十大景点和必做活动，
 
 ## 第十名：参观Uluwatu Temple
 
@@ -48,21 +48,23 @@ _srcHash: 7b1ce64e37fd14e66076245a1df08646
 - [巴厘岛顶级南部海滩一日游(含火舞&金巴兰海滩晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [乌鲁瓦图火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
+
 ## 第八名：欣赏日落美景
 
 ![Single Fin日落美景](https://images.gobaligo.id/vocus/vocus_7913efd720450c575668b4f446c9e488.jpg)
 
 Single Fin日落美景
 
-由于乌鲁瓦图位于西南海岸线上，从这里的峭壁可饱览印度洋的绝佳日落景致，无疑是巴厘岛最佳观赏日落的地点之一。欣赏在Uluwatu Temple前的日落景致更是独一无二的体验。如果您已经观赏过，不妨前往Single Fin酒吧，一边啜饮鸡尾酒，一边欣赏冲浪者在落日余晖中挥洒自如，还有Rock Bar也是赏日落的绝佳去处。
+由于乌鲁瓦图位于西南海岸线上，从这里峭壁可饱览印度洋的绝佳日落景致，无疑是巴厘岛最佳观赏日落的地点之一。欣赏在Uluwatu Temple前的日落景致更是独一无二的体验。如果您已经观赏过，不妨前往Single Fin酒吧，一边啜饮鸡尾酒，一边欣赏冲浪者在落日余晖中挥洒自如，还有Rock Bar也是赏日落的绝佳去处。
 
 ## 第七名：体验海滩俱乐部
 
 乌鲁瓦图因其充满传奇的海滩俱乐部而闻名，这些海滩俱乐部或坐落在沙滩上，或悬空设计俯瞰大海，景色壮观独特，与其他巴厘海滩俱乐部截然不同。
 
-在这些俱乐部度过整天都是赏心悦目的体验。Oneeighty Dayclub 拥有令人疯狂的无边际泳池、ULU Cliff House以DJ表演闻名、Karma Beach Club则是巴厘较高档的俱乐部、Sunday's Beach Club在沙滩的户外活动设施较为齐全。想要尽情体验巴厘海滩生活的独特魅力。这绝对是乌鲁瓦图的十大必做活动之一。
+在这些俱乐部度过整天都是赏心悦目的体验。Oneeighty Dayclub 拥有令人疯狂的无边泳池、ULU Cliff House以DJ表演闻名、Karma Beach Club则是巴厘岛较高档的俱乐部、Sunday's Beach Club在沙滩的户外活动设施较为齐全。想要尽情体验巴厘岛海滩生活的独特魅力。这绝对是乌鲁瓦图的十大必做活动之一。
 
-底下是这一区有名的几个海滩俱乐部：
+下面是这一区有名的几个海滩俱乐部：
 
 - [Sunday Beach Club](https://www.sundaysbeachclub.com/)
 - [White Rock Beach Club](https://whiterockbali.com/)
@@ -99,9 +101,9 @@ Garuda Wisnu Kencana文化园区是印尼最大的文化园区。这里供奉印
 
 > Klook优惠券：
 
-[巴厘岛神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
+> [巴厘岛神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
 
-[[巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
+> [[巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
 
 ## 第四名：Balangan Viewpoint
 
@@ -117,7 +119,7 @@ Green Bowl Beach是乌鲁瓦图最僻静的海滩之一，却也是渴望宁静�
 
 {{video2}}
 
-最佳造访时间是在退潮时，也是浮潜的理想时机。海滩上没有任何饮料或餐点的售卖，所以别忘了自备充足的饮用水。
+最佳访问时间是在退潮时，也是浮潜的理想时机。海滩上没有任何饮料或餐点的售卖，所以别忘了自备充足的饮用水。
 
 延伸阅读：[探索巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/zh-cn/blog/bali-hidden-beaches-guide/)
 

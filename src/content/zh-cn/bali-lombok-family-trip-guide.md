@@ -20,7 +20,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_feef5a28d07f1ae085b35202fde6f
 originalUrl: 'https://vocus.cc/article/6701f6adfd897800017204e1'
 update: 2026/05/24
 lang: zh-cn
-_srcHash: 52fb2811e43dcf4ad9e0e4c68a8230f4
+_srcHash: 9ae97d1931137353cd6ec8eccc2debc7
 ---
 > 以下内容改编自团友 [Libra Li](https://www.facebook.com/share/p/Fqg1HNg9asxLTJjd/) 分享游记：
 
@@ -60,7 +60,7 @@ _srcHash: 52fb2811e43dcf4ad9e0e4c68a8230f4
 
 如果遇到距离较远的目的地，也不用担心！我们会使用叫车服务，像是GRAB或GO-JEK，这些应用程序在巴厘岛运行得相当成熟，随叫随到，非常方便。
 
-> 延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、充值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
+> 延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/zh-cn/blog/indonesia-gojek-gopay-guide/)
 
 ### 行程分段分享：
 
@@ -74,13 +74,13 @@ _srcHash: 52fb2811e43dcf4ad9e0e4c68a8230f4
 
 **第三段：8/14-8/25 龙目岛 + Gili T**
 
-- 在龙目岛的最后几天我们完全放松，享受远离喧嚣的宁静时光。Gili T岛的美丽海景和淳朴生活更是为我们的旅程画上完美的句点。
+- 在龙目岛的最后几天我们完全放松，享受远离喧嚣的宁静时光。吉利特拉旺安岛的美丽海景和淳朴生活更是为我们的旅程画上完美的句点。
 
 ***
 
 ## 8月4日（日）抵达巴厘岛：摩托车租赁与晚餐
 
-抵达巴厘岛的当天，我们的首要任务就是租赁摩托车，这是我们接下来几天的主要交通工具。选择租摩托车是因为巴厘岛的交通状况实在不理想，尤其是堵车非常严重，骑摩托车能够更灵活地穿梭在各个景点之间，省下不少时间。
+抵达巴厘岛的当天，我们首要任务就是租赁摩托车，这是我们接下来几天的主要交通工具。选择租摩托车是因为巴厘岛的交通状况实在不理想，尤其是堵车非常严重，骑摩托车能够更灵活地穿梭在各个景点之间，省下不少时间。
 
 当天晚上，我们在当地吃了晚餐，随后入住雷吉安/水明漾一带的 **Sara Residence**，这里的双卧室非常适合我们一家四口，空间宽敞舒适，孩子们也可以有自己的小天地。对于带小孩旅行的家庭来说，这样的住宿安排非常方便。
 
@@ -127,7 +127,7 @@ Libra Li提供
 https://youtube.com/shorts/9EeW2YH0iY0
 
 3. **乌鲁瓦图悬崖庙（Pura Uluwatu）**
-位于壮观悬崖上的乌鲁瓦图庙是巴厘岛另一个不得不去的景点。这里的景色美不胜收，悬崖和大海交织的壮丽画面让人难忘。我们还在这里看到了猴子，孩子们兴奋不已，但也要小心他们抢夺物品。
+位于壮观悬崖上的乌鲁瓦图庙是巴厘岛另一个不得不去的景点。这里的景色美不胜收，悬崖和大海交织的壮丽画面让人难忘。我们在这里还看到了猴子，孩子们兴奋不已，但也要小心他们抢夺物品。
 
 > [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
@@ -144,7 +144,7 @@ https://youtube.com/shorts/arOR8IvtHbc
 
 ![Hard Rock Bali送的迎賓飲料，晚上的酒吧現場表演更精彩，Hard Rock跟Kuta海灘用走的很近，而且還有送拍照，拍照會準備很多道具。](https://images.gobaligo.id/vocus/vocus_6dc57f5b89f2f0d4a3acf847e66cdaa3.jpg)
 
-Hard Rock Bali送的迎宾饮料，晚上的酒吧现场表演更精彩，Hard Rock跟库塔海滩走路很近，而且还有送拍照，拍照会准备很多道具。
+Hard Rock Bali送的迎宾饮料，晚上的酒吧现场表演更精彩，Hard Rock跟Kuta海滩用走的很近，而且还有送拍照，拍照会准备很多道具。
 
 > ▶Hard Rock Hotel, Bali订房链接 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-982026/hard-rock-hotel-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/QP8x1KGB)
 
@@ -164,7 +164,7 @@ Hard Rock Bali送的迎宾饮料，晚上的酒吧现场表演更精彩，Hard R
 
 ![Movepick Resort Jimbaran，Kid's Club體驗當地服飾的活動](https://images.gobaligo.id/vocus/vocus_e4b3179abfd6e01a4f1a1843de62fac5.png)
 
-Movenpick Resort Jimbaran，Kid's Club体验当地服饰的活动
+Movepick Resort Jimbaran，Kid's Club体验当地服饰的活动
 
 我们在 **Mövenpick Resort Jimbaran** 的入住经验非常愉快。原本预定下午三点办理入住，但因房间还没准备好，饭店贴心地招待我们享用他们的 **下午茶套餐**。下午茶丰富美味，让我们在等待房间的时间中得到了充分的放松。幸运的是，下午3:05房间就准备好了，比预期的还快！
 
@@ -178,9 +178,9 @@ Movenpick Resort Jimbaran，Kid's Club体验当地服饰的活动
 
 ![8月7日（三）Movenpick Resort & Spa Jimbaran Bali + 金巴蘭海灘](https://images.gobaligo.id/images/2026-06/1780841024445-movenpick-resort-spa-jimbaran-bali-5.jpeg)
 
-> ▶Mövenpick Resort Jimbaran订房链接 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6373265/movenpick-resort-and-spa-jimbaran-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/JMjDzQtC)
+> ▶Movenpick Resort Jimbaran订房链接 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6373265/movenpick-resort-and-spa-jimbaran-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/JMjDzQtC)
 
-总体来说，**Mövenpick Resort Jimbaran** 不仅环境优美，服务周到，更是非常亲子友善，让全家都能享受到轻松愉快的度假时光。
+总体来说，**Movenpick Resort Jimbaran** 不仅环境优美，服务周到，更是非常亲子友善，让全家都能享受到轻松愉快的度假时光。
 
 下午，我们来到了附近的 **金巴兰海滩（Jimbaran Beach）**。这里的海滩与库塔不同，较为宁静，最著名的是海边的海鲜餐厅。傍晚时分，我们在海滩上的餐厅享用新鲜的海鲜烧烤，迎着海风，欣赏金色的日落，非常浪漫。孩子们在沙滩上跑跑跳跳，这样的轻松氛围让我们倍感幸福。🌅
 
@@ -190,9 +190,9 @@ Movenpick Resort Jimbaran，Kid's Club体验当地服饰的活动
 
 ## 8月8日（四）Movenpick Resort放松 + 前往乌布
 
-今天我们依然在 **Movenpick Resort** 内放松，利用早上的时间享受度假村的设施。这里的早餐非常丰盛，有多样化的选择，适合我们全家人。我们在度假村内的泳池和游乐设施中度过了愉快的早晨，直到下午4点左右才退房出发前往乌布。🏊‍♀️
+今天我们依然在 **Movenpick Resort** 内放松，利用早上的时间享受度假村的设施。这里的早餐非常丰盛，有多样化的选择，适合我们全家人。我们在度假村内的泳池和游乐设施中度过了一个愉快的早晨，直到下午4点左右才退房出发前往乌布。🏊‍♀️
 
-跟Mövenpick Resort Jimbaran在同一个地点的 Samasta Bali 也值得一访
+跟Movenpick Resort Jimbaran在同一个地点的 Samasta Bali 也值得一访
 
 到达乌布后，我们首先租了一台摩托车来方便日后的行程，这里的交通相对较为平静，摩托车是探索这片区域的好选择。随后，我们前往品尝了当地著名的 **脏鸭餐**，这是一道巴厘岛的经典美食，酥脆的烤鸭配上当地的香料与配菜，味道让人回味无穷。🦆
 
@@ -248,7 +248,7 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 随后，我们参观了位于乌布中心的 **乌布皇宫（Ubud Palace）**。这座古老的宫殿拥有精致的雕刻与传统的巴厘建筑风格，是了解当地文化的好地方。虽然皇宫不大，但它的历史与建筑美感让我们印象深刻。
 
-接着，我们来到了著名的 **乌布传统市场（Ubud Market）**。虽然这里的商品种类繁多，但价格并不便宜，而且卖家的态度普遍较为冷漠，砍价也不太容易。经验分享：如果只是想购买纪念品，这里可能不是最好的选择。然而，在回 **Puri Padma Hotel** 的路上，我们发现了一个小市集，这里的商品价格亲民许多，让我们买到了一些物美价廉的手工艺品。🎁
+接着，我们来到了著名的 **乌布传统市场（Ubud Market）**。虽然这里的商品种类繁多，但价格并不便宜，而且卖家的态度普遍较为冷漠，砍价也不太容易。经验分享：如果只是想购买纪念品，这里可能不是最好的选择。然而，在回 **Puri Padma Hotel** 的路上，我们发现了一个小集市，这里的商品价格亲民许多，让我们买到了一些物美价廉的手工艺品。🎁
 
 https://youtube.com/shorts/s16gdTOjonU
 
@@ -266,7 +266,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ▶[**在Klook预定 Ketut's Bali Cooking Class**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=928391&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D15b1727648)
 
-下午，我们来到了 **Campuhan Ridge Walk**，这条步道以其美丽的山谷景色闻名。走在绿意盎然的小径上，四周是壮丽的稻田和山脉景观，让我们彻底放松。这里的空气清新，是逃离城市喧嚣的好地方。我们一家在这里享受了美好的时光，走完全程后感觉神清气爽，也为这一天的行程划下了完美的句点。
+下午，我们来到了 **Campuhan Ridge Walk**，这条步道以其美丽的山谷景色闻名。走在绿意盎然的小径上，四周是壮丽的稻田和山脉景观，让我们彻底放松。这里的空气清新，是逃离城市喧嚣的好地方。我们一家在这里享受了美好的时光，走完全程后感觉神清气爽，也为这一天的行程画下了完美的句点。
 
 https://youtube.com/shorts/3PmPpoHI_6c
 
@@ -302,6 +302,8 @@ Libra Li提供
 
 详细介绍：[Bali Reptile Park 攻略：近距离看科莫多龙、巨蟒亲密互动、门票价格与亲子避雷指南](/zh-cn/blog/Bali-Reptile-Park/)
 
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
+
 > 在线购票：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1289535&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7db7e3e24e) [Kkday](https://www.kkday.com/zh-tw/product/593869?qs=Bali+Reptile+Park&cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-reptile-park-128527409/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
 结束爬虫公园的行程后，我们前往 **Padang Bai**，这里是前往吉利群岛的主要港口。我们选择入住 **Serangan Mimba Inn**，这是一家简单但舒适的住宿点，适合短暂停留。晚上我们早早休息，准备明天出发前往吉利T岛。
@@ -314,7 +316,7 @@ Libra Li提供
 
 ![在前往 Padangbai 登船的過程中，我建議可以提前一天住在附近，因為無論是從南部還是從烏布前往 Padangbai，車況都相當難以掌握，容易出現延誤。這個碼頭的環境非常混亂，人潮洶湧，讓人有些無所適從。  在碼頭附近，會有許多當地人主動幫忙提行李，但這些人有時會強取行李並要求小費。我在這裡也遇到了類似的情況，行李一瞬間就被人拿走，出於無奈只好給小費以免引起不必要的麻煩。每個人通常會要求 5萬印尼盾 的小費，我則選擇只給了 1萬印尼盾，不想被拉扯太久。其實他們大多數時候是急著去幫其他旅客搬行李，所以不會爭執太久，這樣也算是避免了一些困擾](https://images.gobaligo.id/vocus/vocus_d12f346a443fcfae0be12bcdafb858ee.jpg)
 
-在前往 Padangbai 登船的过程中，我建议可以提前一天住在附近，因为无论是从南部还是从乌布前往 Padangbai，车况都相当难以掌握，容易出现延误。这个码头的环境非常混乱，人潮汹涌，让人有些无所适从。在码头附近，会有许多当地人主动帮忙提行李，但这些人有时会强取行李并要求小费。我在这里也遇到了类似的情况，行李一瞬间就被人拿走，出于无奈只好给小费以免引起不必要的麻烦。每个人通常会要求5万印尼盾的小费，我则选择只给了1万印尼盾，不想被拉扯太久。其实他们大多数时候是急着去帮其他旅客搬行李，所以不会争执太久，这样也算是避免了一些困扰。
+在前往 Padangbai 登船的过程中，我建议可以提前一天住在附近，因为无论是从南部还是从乌布前往 Padangbai，车况都相当难以掌握，容易出现延误。这个码头的环境非常混乱，人潮汹涌，让人有些无所适从。 在码头附近，会有许多当地人主动帮忙提行李，但这些人有时会强取行李并要求小费。我在这里也遇到了类似的情况，行李一瞬间就被人拿走，出于无奈只好给小费以免引起不必要的麻烦。每个人通常会要求 5万印尼盾 的小费，我则选择只给了 1万印尼盾，不想被拉扯太久。其实他们大多数时候是急着去帮其他旅客搬行李，所以不会争执太久，这样也算是避免了一些困扰
 
 > ▶[Padang Bai 到吉利岛的快艇船票可以在这里买](https://affiliate.klook.com/redirect?aid=116349&aff_adid=928302&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24240-fast-boat-padang-bai-gili-trawangan-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2aa7a57fea)
 
@@ -348,7 +350,7 @@ Warna Beach Hotel可入住两大两小的园景房，每晚$19美金起。
 
 Gili T 跳岛看到的海龟
 
-晚上，我们前往了 **Gili T 夜市**，这里的摊位提供各式各样的当地小吃，让我们能够品尝到多种巴厘岛风味的美食。夜市的气氛热闹，人很多，食物的选择非常丰富，价格好像不是很实惠。
+晚上，我们前往了 **Gili T 夜市**，这里的摊贩提供各式各样的当地小吃，让我们能够品尝到多种巴厘岛风味的美食。夜市的气氛热闹，人很多，食物的选择非常丰富，价格好像不是很实惠。
 
 ![8月15日（四）浮潛跳島 + Gili T 夜市 + 按摩](https://images.gobaligo.id/vocus/vocus_1585db25c8a2397fdbff20cb10b84586.jpg)
 
@@ -360,7 +362,7 @@ Gili T 跳岛看到的海龟
 
 ![GiliT搭公交船到Bangsal](https://images.gobaligo.id/vocus/vocus_0fb24d029b4beb6d49d2927f573ef480.jpg)
 
-GiliT搭公交船到Bangsal
+Gili T搭公交船到Bangsal
 
 今天我们告别了美丽的 **Gili T**，搭乘了公共船前往 **Bangsal**。虽然这段旅程相对短暂，但需要格外小心，不论是在 Gili T 的码头还是到达 Bangsal，这两个地方都充斥着不少骗子。我们遇到了几个试图向我们推销虚假服务的人，所幸事先做了功课，避免了上当受骗。建议大家在 这些地方保持警惕，不要轻易相信陌生人的话。
 
@@ -382,7 +384,7 @@ Holiday Resort Lombok的Pool Bar，Happy hour有5折，而且好喝
 
 ![非常推薦的Holiday resort Lombok，因為獨立紀念日拿到騎Pony小馬的招待券還有館內Spa體驗券](https://images.gobaligo.id/vocus/vocus_bee72fc13f9ffa6646413c606133c62e.jpg)
 
-非常推荐的Holiday resort Lombok，因为独立纪念日拿到了骑小马招待券还有馆内Spa体验券
+非常推荐的Holiday resort Lombok，因为独立纪念日拿到骑Pony小马的招待券还有馆内Spa体验券
 
 Holiday Resort Lombok的国庆日活动（Libra Li提供）
 
@@ -406,17 +408,17 @@ https://youtu.be/2zlyuSQXR3w
 
 ***
 
-## 8月18日（日）Mataram 市区探索 + 住宿 Lombok Raya Hotel
+## 8月18日（周日）Mataram 市区探索 + 住宿 Lombok Raya Hotel
 
 今天我们从 **Holiday Resort Lombok** 前往龙目岛的首府 **Mataram**，开始了一天的市区探索之旅。为了方便移动，我们在当地租了一辆摩托车，这是探索龙目岛市区的最佳方式。
 
 ![Martaram的在地人私房景點Ampenan，不想走觀光客路線可以去](https://images.gobaligo.id/vocus/vocus_36bdfe66f35b639d7df50e5ae500f296.jpg)
 
-马塔兰的在地人私房景点Ampenan，不想走观光客路线可以去
+Mataram的当地人私房景点Ampenan，不想走游客路线可以去
 
 ![Ampenan，在地人的海景餐廳，終於找到真正印尼人物價了，超級便宜](https://images.gobaligo.id/vocus/vocus_6df38f6932bb6fb0ec931ba3257a4b05.jpg)
 
-Ampenan，在地人的海景餐厅，终于找到真正印尼人的物价了，超级便宜
+Ampenan，当地人的海景餐厅，终于找到真正印尼人的物价了，超级便宜
 
 ![Ampenan，新鮮果汁加印尼餐點，NTD100有找](https://images.gobaligo.id/vocus/vocus_ec18e31eca8829b67344637c91fc020a.jpg)
 
@@ -470,17 +472,17 @@ Benang Stokel & Kelambu Waterfall
 
 今天的行程以轻松悠闲为主，首先来到一家设计感十足的文青咖啡店 **Konyu Coffee & Space**，这里以独特的装潢和宁静的氛围让我们瞬间爱上。这家店的早午餐非常美味，尤其适合在旅途中找一个舒适的角落享受咖啡时光。无论是咖啡爱好者还是早午餐迷，这里都非常值得一访。
 
-接着，我们前往两个当地的传统市场：**Sindu Traditional Market** 和 **Cakranegara Traditional Market**。这些市场非常本土化，几乎看不到观光客，充满了龙目岛居民日常的生活气息。市场里的商品价格十分亲民，特别适合购买一些当地的水果、蔬菜或手工制品。我们发现了很多有趣的小物件，体验了和当地人讨价还价的乐趣，让人感觉真实又贴近生活。
+接着，我们前往两个当地的传统市场：**Sindu Traditional Market** 和 **Cakranegara Traditional Market**。这些市场非常本土化，几乎看不到观光客，充满了龙目岛居民日常的生活气息。市场里的商品价格十分亲民，特别适合购买一些当地的水果、蔬菜或手工制品。我们发现了很多有趣的小物，体验了和当地人讨价还价的乐趣，让人感觉真实又贴近生活。
 
 下午，我们挑战了传说中难以抵达的 **Batuidung 小山丘**。这里路途较为艰辛，需经过蜿蜒的山路才能到达，但当我们站在山顶时，眼前的景色让一切的辛苦都变得值得。这个隐秘的小山丘拥有令人惊叹的美丽风光，视野极佳，能俯瞰整片大自然的壮丽景色。这里的宁静和美景，为我们这一天的行程画上了完美的句点。
 
 ![Batuidung，非常難到達的小山丘，google導不到要問在地村莊的人才知道，但爬上去景色很美](https://images.gobaligo.id/vocus/vocus_5d996aca6ecb50262a1fd75642fdd10f.jpg)
 
-Batuidung，非常难到达的小山丘，谷歌导航不到，要问当地村庄的人才知道，但爬上去景色很美
+Batuidung，非常难到达的小山丘，google导不到要问在地村庄的人才知道，但爬上去景色很美
 
 ![Batuidung，非常難到達的小山丘，但是上去後可以看到整個龍目島的山跟海，搭配日落超美](https://images.gobaligo.id/vocus/vocus_b1fb6551e41727795ba2044cacdee1da.jpg)
 
-Batuidung，非常难到达的小山丘，但是上去后可以看到整个龙目岛的山和海，搭配日落超美
+Batuidung，非常难到达的小山丘，但是上去后可以看到整个龙目岛的山跟海，搭配日落超美
 
 ▶[**Klook的龙目岛行程**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=928391&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dlombok%26spm%3DSearchResult.DestinationFilter%26clickId%3D11312-d94-c552-4314-be1e-863281dc4122%26country_id%3D15%2C4%2C19%2C6%2C16%2C13%2C8%2C18%2C38)
 
@@ -492,13 +494,13 @@ Batuidung，非常难到达的小山丘，但是上去后可以看到整个龙�
 
 ![Novetel resort Kid's cooking class，一人才NTD100，可以讓孩子體驗英文料理課，非常值得](https://images.gobaligo.id/vocus/vocus_bc53ca8d58ec7e4810501b6ee236ef97.jpg)
 
-Novetel resort Kid's cooking class，一人只要USD$3，可以让孩子体验英文料理课，非常值得
+Novetel resort Kid's cooking class，一人只要3美元，可以让孩子体验英文料理课，非常值得
 
 ![左：Novetel resort lombok的日落健行，有專人帶我們去 / 右：潮間帶尋寶](https://images.gobaligo.id/vocus/vocus_27c246f359f9450cffa45b890ef161e8.jpg)
 
 左：Novetel resort lombok的日落健行，有专人带我们去 / 右：潮间带寻宝
 
-最让我们印象深刻的是酒店附近的 **潮间带** 探索活动。每天退潮时，我们都带着孩子一起去观察潮间带里的生物，发现了许多有趣的海洋生物，像是海星、螃蟹和各种小鱼，这次探索让孩子们对自然生态产生了浓厚的兴趣，整个家庭都享受了这段与自然亲密接触的时光。
+最让我们印象深刻的是饭店附近的 **潮间带** 探索活动。每天退潮时，我们都带着孩子一起去观察潮间带里的生物，发现了许多有趣的海洋生物，像是海星、螃蟹和各种小鱼，这次探索让孩子们对自然生态产生了浓厚的兴趣，整个家庭都享受了这段与自然亲密接触的时光。
 
 ![8月21日（三）至 8月24日（六）Novotel Lombok Resort 的悠閒度假時光](https://images.gobaligo.id/images/2026-06/1780842474766-251656487.jpg)
 
@@ -514,9 +516,9 @@ Novetel resort Kid's cooking class，一人只要USD$3，可以让孩子体验�
 
 ▶[Novotel Lombok Resort订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10372)
 
-Novotel Lombok Resort 是龙目岛萨萨克风格的建筑特色，很值得体验！
+Novetol Resort Lombok 是龙目岛萨萨克风格的建筑特色，很值得体验！
 
-Novotel Resort 还有一个 Kid's Club，虽然小小的，但是可以托管小孩不用另外再付费，看到很多外国人会寄放小孩在那里玩，每天都有不同活动。
+Novetel Resort 还有一个 Kid's Club，虽然小小的，但是可以托育小孩不用另外再付费，看到很多外国人会寄放小孩在那里玩，每天都有不同活动。
 
 ![8月21日（三）至 8月24日（六）Novotel Lombok Resort 的悠閒度假時光](https://images.gobaligo.id/vocus/vocus_2ae1ab0d7586cddcf82115d28ca18e4a.jpg)
 
@@ -524,13 +526,13 @@ Novotel Resort 还有一个 Kid's Club，虽然小小的，但是可以托管小
 
 ## 8月24日（六）龙目岛到吉隆坡
 
-最后一天，我们整理好行李，准备结束这段长达26天的旅行。晚间19:45搭乘 OD367 航班 从龙目岛出发，经过约三个小时的飞行，于当晚23:00顺利抵达吉隆坡。
+最后一天，我们整理好行李，准备结束这段长达26天的旅行。晚间19:45搭乘 OD367 班机 从龙目岛出发，经过约三个小时的飞行，于当晚23:00顺利抵达吉隆坡。
 
 ***
 
 ## 8月25日（日）吉隆坡返回高雄
 
-我们从吉隆坡转机，搭乘凌晨OD890 航班，于03:20启程，最终在07:55返回高雄，结束了这段美妙的假期。这次的旅程无论是对我们大人还是孩子来说，都充满了难忘的回忆与体验。从城市探索到自然奇景，这趟吉隆坡、巴厘岛与龙目岛的亲子之旅充实又丰富，让我们感受到了东南亚的多样风情，也期待着未来的更多旅行冒险！
+我们从吉隆坡转机，搭乘凌晨OD890 班机，于03:20启程，最终在07:55返回高雄，结束了这段美妙的假期。这次的旅程无论是对我们大人还是孩子来说，都充满了难忘的回忆与体验。从城市探索到自然奇景，这趟吉隆坡、巴厘岛与龙目岛的亲子之旅充实又丰富，让我们感受到了东南亚的多样风情，也期待着未来的更多旅行冒险！
 
 ![8月25日（日）吉隆坡返回高雄](https://images.gobaligo.id/vocus/vocus_2dbf473273852904e6fb1d32cada58ed.jpg)
 

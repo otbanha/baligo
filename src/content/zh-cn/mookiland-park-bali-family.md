@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_09c749583a2a6ad84442825909d18a58.jpg'
 originalUrl: 'https://vocus.cc/article/66991013fd89780001c8e70b'
 lang: zh-cn
-_srcHash: 78b8acb380c9effcd5db400124431824
+_srcHash: 13afda55722413b6bcb0d2c860db0689
 ---
 **先说结论**：Mookiland Park 位于水明漾旁的 Kerobokan，占地 5,000 平方米，设有 2-4 岁幼儿专区与攀岩/障碍赛道等活跃区、500 平方米半遮盖区（雨天/大热天也能玩），充气设施符合欧洲 EN14960 安全标准，也提供生日派对场地租借，适合带小孩安排一整天的亲子放松行程。
 
@@ -53,7 +53,7 @@ Mookiland 的餐厅是一大亮点，提供各种美食选择，让家长和孩�
 
 Mookiland Park 是举办生日派对的理想地点。这里的场地色彩缤纷，气氛活泼，为孩子们提供了一个充满魔力的派对场地。从互动游戏区、充气城堡到 Ninja Warrior 游乐场，孩子们可以尽情享受各种活动。Mookiland 的专业团队会为您策划并执行每一个细节，确保生日派对成为难忘的回忆。
 
-## **家长和孩子的美好时光**
+## **家长和孩子的好时光**
 
 在 Mookiland Park，孩子们可以参与各种友好的竞赛，与其他孩子一起创造美好的回忆。这里色彩缤纷的设计和充满趣味的环境，鼓励孩子们发挥想象力和享受欢乐。家长们也可以安心地做自己的事，知道孩子们在安全的环境中玩耍。
 
@@ -80,6 +80,8 @@ Mookiland Park 在水明漾和坎古中间，距离水明漾广场（Seminyak Sq
 - **门票价格是多少？**
 
 Mookiland Park 的门票价格约为3美元，Klook有优惠票券：[Mookiland亲子乐园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=887612&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F108548-mookiland-family-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Daa37b5b183)
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
 
 - **如何确保孩子在园内的安全？**
 

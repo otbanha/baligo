@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: b799859743cccdc57426086315f713cd
+_srcHash: 203a4c4ade2d894d832365b638ab42a9
 ---
 ## AeroXSpace介绍
 
@@ -31,7 +31,7 @@ AeroXSpace是占地有1000多平米的室内游乐场
 
 ### 位置与交通
 
-AeroXSpace位于南登巴萨的Jalan Bypass路，距离Sanur Beach仅19分钟车程，距离Kuta Beach约30分钟车程，交通便利，是旅游行程中完美的中途停留点。（地图位置）
+AeroXSpace位于南登巴萨的Jalan Bypass路，距离沙努尔海滩仅19分钟车程，距离库塔海滩约30分钟车程，交通便利，是旅游行程中完美的中途停留点。（地图位置）
 
 ### 主要吸引力
 
@@ -39,7 +39,7 @@ AeroXSpace位于南登巴萨的Jalan Bypass路，距离Sanur Beach仅19分钟车
 
 ### AeroXCourt体验
 
-AeroXCourt是一个充气多功能球场，地面柔软并支持空气流通，使游客仿佛置身于月球，体验低重力环境下打篮球或踢足球的感觉，这是乐园中最具创新和吸引力的设施之一。
+AeroXCourt是一个充气多功能球场，地面柔软并支持空气流通，让游客仿佛置身于月球，体验低重力环境下打篮球或踢足球的感觉，这是乐园中最具创新和吸引力的设施之一。
 
 ### 太空过山车
 
@@ -47,7 +47,7 @@ AeroXCourt是一个充气多功能球场，地面柔软并支持空气流通，�
 
 ### 小童区域
 
-除了针对成年人和青少年的冒险设施外，AeroXSpace还特别设置了适合小小朋友（学龄前）的Toddler Space，让幼儿也能安全地享受游乐时光。
+除了针对成年人和青少年的冒险设施外，AeroXSpace还特别设置了适合小朋友（学龄前）的Toddler Space，让幼儿也能安全地享受游乐时光。
 
 ### 与学习的结合
 
@@ -61,7 +61,9 @@ AeroXSpace不仅仅是一个娱乐场所，它还将学习与娱乐结合在一�
 
 乐园提供多种门票选择，从一小时票到全天通行票不等，国际游客的票价从IDR 175,000起，印尼本地居民则享有优惠价格。[订票链接在这里](https://aeroxspace.instantlybooking.com/product/universal-pass)
 
-这里也有 [Klook提供的特价票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
+
+这里也有 [Klook提供的特价票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
 
 ### 未来展望与发展
 
@@ -85,7 +87,7 @@ AeroXSpace 还有一个让小朋友疯狂的隐藏亮点——每逢周六下午
 
 活动时段为下午五点至晚上九点，购票入场还附赠一组派对包，内含衣服、袜子、发光眼镜、LED 戒指与荧光手环，让孩子从头到脚都能融入派对氛围。
 
-**票价方面**相当划算：小孩门票 350,000 印尼盾，大人陪同票 50,000 印尼盾，另加保险 5,000 印尼盾，三项合计仅 405,000 印尼盾，换算约 USD$23，CP 值极高。入场还附赠一张兑换券，可免费换取一瓶水加一盒爆米花（口味有甜、咸或综合可选），或折抵餐点八五折。
+**票价方面**相当划算：小孩门票 350,000 印尼盾，大人陪同票 50,000 印尼盾，另加保险 5,000 印尼盾，三项合计仅 405,000 印尼盾，换算约 USD$23，性价比极高。入场还附赠一张兑换券，可免费换取一瓶水加一盒爆米花（口味有甜、咸或综合可选），或折抵餐点八五折。
 
 **大人的弹性也很高。** 家长可以在一楼或二楼沙发区休息，免费使用 Wi-Fi；也可以先陪孩子玩一段时间，再行离开处理其他事务，稍后再来接小孩即可，工作人员表示这样的安排完全没有问题。
 
@@ -104,7 +106,7 @@ AeroXSpace 还有一个让小朋友疯狂的隐藏亮点——每逢周六下午
 
 [沙努尔攻略地图｜45项吃喝玩乐](/zh-cn/blog/sanur-guide/)
 
-除了AeroXSpace室内冒险乐园的开幕成为巴厘岛家庭旅游的新热点之外，沙努尔这个地区更有超多的亲子活动，沙努尔无疑是巴厘岛最适合亲子度假的地点，没有之一！亲子家庭旅游的朋友不要错过我们的「[沙努尔攻略地图｜45项吃喝玩乐](/zh-cn/blog/sanur-guide/)」，让你在沙努尔享受绝无仅有的亲子时光！
+除了AeroXSpace室内冒险乐园的开业成为巴厘岛家庭旅游的新热点之外，沙努尔这个地区更有超多的亲子活动，沙努尔无疑是巴厘岛最适合亲子度假的地点，没有之一！亲子家庭旅游的朋友不要错过我们的「[沙努尔攻略地图｜45项吃喝玩乐](/zh-cn/blog/sanur-guide/)」，让你在沙努尔享受绝无仅有的亲子时光！
 
 ## 4个同场加映
 

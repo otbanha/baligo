@@ -4,7 +4,7 @@ slug: bali-birthday-surprise-trip
 description: >-
   这趟巴厘岛之行本来是为了帮女朋友庆祝生日，也顺便借机从繁忙的越南外派工作中短暂逃离，让自己喘一口气。最近我们俩因工作压力都大得喘不过气来，刚好看到越捷航空的优惠，便果断订下从胡志明市飞往巴厘岛的来回机票，抓住这个稍微放松的机会。这次我们选了附带20公斤托运行李的票，还加购了紧急出口座位，算下来每人机
 pubDate: 2024-12-03T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -18,7 +18,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8bf335fa809f107688196cf263847645.jpg'
 originalUrl: 'https://vocus.cc/article/671da7a4fd89780001b9fac3'
 lang: zh-cn
-_srcHash: 0737840f144ef81df2068e5bb1af3fdc
+_srcHash: 19c0189ed6060a70c0ef128107f43218
 ---
 
 以下内容改编自团友 [张家伟](https://www.facebook.com/share/p/1EWEAupkuv/) 分享游记：
@@ -125,6 +125,8 @@ Siobak是来自新卡拉加（Singaraja）的地道美食，由猪肉制成，�
 
 > [夜间动物园门票这里买](https://affiliate.klook.com/redirect?aid=116349&aff_adid=939346&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7eaff265ca)
 
+> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了 49 个热门景点的即时参考价，并附 Klook／Trip.com 比价链接。
+
 这一天我们入住了乌布的**Ubud Element by Westin**，升级的房型让我们享受了舒适的夜晚。
 
 ![9月7日：瀑布與夜間動物園](https://images.gobaligo.id/images/2026-05/1778770782016-ue1.webp)
@@ -135,13 +137,13 @@ Siobak是来自新卡拉加（Singaraja）的地道美食，由猪肉制成，�
 
 ## **9月8日：**圣泉寺**的净化仪式与梯田风光**
 
-今天我们来到**Tirta Empul**圣泉寺，体验了当地的净化仪式。这场仪式让我们感受到巴厘岛独特的文化和精神氛围。随着水流经身体，心灵也随之得到了平静与释放，这种感受让我们充满了新生的能量。
+今天我们来到**Tirta Empul**圣泉寺，体验了当地的净化仪式。这场仪式让我们感受到巴厘岛独特的文化和精神氛围。随着水流经身，心灵也随之得到了平静与释放，这种感受让我们充满了新生的能量。
 
 ![（張家偉提供）](https://images.gobaligo.id/vocus/vocus_ee7bd5776694f08e83ae48c4a34a5ffd.jpg)
 
 （张家伟提供）
 
-仪式结束后，我们前往**Luwak咖啡种植园**，品尝了著名的猫屎咖啡。虽然这纯属观光行程，但也算是一种有趣的体验，对猫屎咖啡的认识更加深入。
+仪式结束后，我们前往**Luwak咖啡种植园**，品尝了著名的猫屎咖啡。虽然这纯属观光行程，但也算是一种有趣的体验，对于猫屎咖啡的认识更加深入。
 
 午餐时，我们让司机推荐餐厅，享用了巴厘岛著名的**脆皮脏鸭餐**，味道非常美味，绝对值得一试！用餐后，我们稍作休息，为接下来的行程储备体力。
 
@@ -197,7 +199,7 @@ Siobak是来自新卡拉加（Singaraja）的地道美食，由猪肉制成，�
 
 > [神鹰广场优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=939346&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Debd8965f1e)
 
-午餐我们选择了包车司机推荐的**Waroeng De Dusun**，这家餐厅供应的印尼风味中式美食美味又经济，果然没有踩雷，口味清爽，令人满足。
+午餐我们选择了包车司机推荐的**Waroeng De Dusun**，这家餐厅供应的印尼风味中式美食美味又实惠，果然没有踩雷，口味清爽，令人满足。
 
 下午，我们驱车前往**乌鲁瓦图寺**（Uluwatu Temple），沿途可要小心猴子哦！这里的猴子以聪明狡猾闻名，随时会偷走（或以迅雷不及掩耳的速度抢走）游客的墨镜、帽子，甚至是酒精消毒液！亲眼看到猴子「解锁」人类的随身物品，竟然津津有味地啃食，还让园区人员用食物「赎回」，所以建议随身贵重物品留在车上，避免麻烦。
 

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_adc1492ecb822ef9a1da92c40c6cf33c.jpg'
 originalUrl: 'https://vocus.cc/article/657598bdfd8978000120fe20'
 lang: zh-cn
-_srcHash: b95fdb7be620f5ab5f86ce7cd4b4db77
+_srcHash: 9b2efd398a836cf9a81b03078d87796d
 ---
 
 库塔是巴厘岛最受欢迎的旅游目的地之一，以其美丽的海滩、热闹的夜生活和丰富的文化而闻名。库塔是一个适合所有人群的多元化目的地。无论您是喜欢冲浪、购物、夜生活还是文化体验，库塔都能为您提供完美的假期。
@@ -102,7 +102,7 @@ Vihara Dharmayana Kuta 是巴厘岛佛教徒的重要朝圣地。每年都会有
 
 这个令人惊叹的雕像描绘了印度教神话中两位引人入胜的英雄之间的战斗。卡尔纳王子和加多特卡卡以如此精细的细节呈现，你可能会发现很难移开视线。
 
-它位于从伍拉·赖国际机场前往库塔的路上，建于1993年，但看起来仍然几乎是全新的！
+它位于从伍拉·赖国际机场前往库塔的路上，建于 1993 年，但看起来仍然几乎是全新的！
 
 ### 库塔海龟保育中心 （👉🏼地图：[库塔景点](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
 
@@ -160,6 +160,8 @@ Circus Waterpark 是巴厘岛的一家家庭友好水上乐园，拥有 6 个专
 
 如果觉得 Waterbom 的门票太贵，或者您想找更适合家庭、没有那么刺激的水上乐园，那么 Circus Waterpark 是一个不错的选择。
 
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
+
 ### Trans Studio Bali （👉🏼地图：[库塔活动](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
 
 Trans Studio Bali 是在库塔靠近水明漾一个受欢迎的旅游景点。它适合所有年龄段的人，是家庭和朋友出游的好去处。
@@ -168,7 +170,7 @@ https://youtube.com/shorts/POSTtRPKK5c?si=MzT-rDEK1gBqU86W
 
 > [Trans Studio Bali 详细介绍](/zh-cn/blog/trans-studio-bali/)
 
-Trans Studio Bali有七大主题区，拥有 23 个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划不克成行，请不要担心！Trans Studio Bali 室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
+Trans Studio Bali有七大主题区，拥有 23 个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划无法进行，请不要担心！Trans Studio Bali 室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
 
 > [Trans Studio优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 
@@ -176,15 +178,15 @@ Trans Studio Bali有七大主题区，拥有 23 个游乐设施和景点，玩�
 
 ![在峇里島顛倒屋拍出令人驚異的照片](https://images.gobaligo.id/vocus/vocus_67f1ffba2e8b9d4de0492adff1931a6f.jpg)
 
-Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个特别设计的房间，装修和家具都是颠倒的。你可以和家人朋友一起来这里度过愉快的一天，拍摄许多有趣的照片。翻转照片后，你会发现本来很挫地被工作人员指导姿势，拍出来的照片却在做着不可思议的事！
+Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个特别设计的房间，装修和家具都是颠倒的。你可以和家人朋友一起来这里度过愉快的一天，拍摄许多有趣的照片。翻转照片后，你会发现自己本来很挫地被工作人员指导姿势，拍出来的照片却在做着不可思议的事！
 
 ### 🎮 ZONE OUT Bali：库塔最酷的室内VR冒险基地！（👉🏼地图：[库塔活动](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
 
 ![ZONE OUT Bali：庫塔最酷的室內VR冒險基地！（地圖：庫塔活動）](https://images.gobaligo.id/vocus/vocus_2efc3cfbdb6de23ddf26fa21be1be152.jpg)
 
-想在巴厘岛找个不怕晒、不怕下雨，又超好玩的活动吗？位于库塔雷吉安的 ZONE OUT Bali绝对是你的不二选择！这家高科技室内乐园主打 VR虚拟现实体验，让你化身赛车手、太空探险家、甚至丧尸猎人，在超逼真的场景中尽情冒险。
+想在巴厘岛找个不怕晒、不怕下雨，又超好玩的活动吗？位于库塔雷吉安的 ZONE OUT Bali 绝对是你的不二选择！这家高科技室内乐园主打 VR虚拟现实体验，让你化身赛车手、太空探险家、甚至丧尸猎人，在超逼真的场景中尽情冒险。
 
-这里有各种刺激游戏可选：赛车、射击、恐怖、冒险、过山车等，设备新颖、画面沉浸感十足，无论大人小孩都能玩得开心。地点位于库塔闹区，交通方便，是雨天或午后休闲的理想选择。
+这里有各式刺激游戏可选：赛车、射击、恐怖、冒险、过山车等，设备新颖、画面沉浸感十足，无论大人小孩都能玩得开心。地点位于库塔闹区，交通方便，是雨天或午后休闲的理想选择。
 
 详细介绍在[这里](/zh-cn/blog/zone-out-bali-vr-adventure/)
 
@@ -196,13 +198,13 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 
 巴厘岛的库塔海滩是个热闹的海滩度假胜地，拥有绵延的金黄沙滩、湛蓝的海水和平静的海浪。除了冲浪等水上活动之外，库塔海滩也提供了多种陆上运动哦！
 
-**踢足球** 足球是巴厘岛最受欢迎的运动之一，因此在库塔海滩上很容易找到一群人踢足球。如果您想体验当地足球文化，不妨加入他们一起踢球。你也可以跟你的小朋友自己在平坦的沙地上踢球嬉戏奔跑。
+**踢足球** 足球是巴厘岛最受欢迎的运动之一，因此在库塔海滩上很容易找到一群人踢足球。如果你想体验当地足球文化，不妨加入他们一起踢球。你也可以跟你的小朋友自己在平坦的沙地上踢球嬉戏奔跑。
 
-**沙滩排球** 沙滩排球是另一项在库塔海滩上非常受欢迎的运动。您想在阳光下挥洒青春的汗水吗？
+**沙滩排球** 沙滩排球是另一项在库塔海滩上非常受欢迎的运动。你想在阳光下挥洒青春的汗水吗？
 
-**放风筝** 放风筝是另一种适合在库塔海滩上进行的休闲活动，您可以从海滩小贩那里买到许多不同种类的风筝。
+**放风筝** 放风筝是另一种适合在库塔海滩上进行的休闲活动，你可以从海滩小贩那里买到许多不同种类的风筝。
 
-以上这些海滩上进行的休闲活动，你可以在海龟保育中心至Discovery Mall这一段沙滩上找到。详细位置请参考最下面的「库塔攻略地图」。
+以上这些海滩上进行的休闲活动，你可以在海龟保育中心至Discovery Mall这一段的海滩上找到。详细位置请参考最下面的「库塔攻略地图」
 
 ### 5GX 反转弹弓椅 （👉🏼地图：[库塔活动](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
 
@@ -258,7 +260,7 @@ The Boardwalk at Bali Garden是位于巴厘岛库塔的一个海滩餐厅。这�
 
 在Sky Garden与来自世界各国的朋友狂欢
 
-[Sky Garden](https://baliskygarden.com/) 是位于巴厘岛库塔的一家大型夜总会。它是巴厘岛最受欢迎的夜总会之一，在世界前100家夜总会中排名第59位。
+[Sky Garden](https://baliskygarden.com/) 是位于巴厘岛库塔的一家大型夜总会。它是巴厘岛最受欢迎的夜总会之一，在世界前 100 家夜总会中排名第 59 位。
 
 Sky Garden拥有三个楼层，每层都有不同的音乐和氛围。它的屋顶露台是一个很好的地方，可以俯瞰库塔的美景。此外，Sky Garden还提供美食和饮料，包括当地和国际美食。如果您正在寻找一个狂欢一整夜的场所，Sky Garden是一个值得一去的地方！
 
@@ -266,9 +268,9 @@ Sky Garden拥有三个楼层，每层都有不同的音乐和氛围。它的屋�
 
 另外一个相隔没很远的 [Legion Night Club](https://www.legionbali.com/) 则是一个比较新的夜店，提供露天泳池趴和时尚的氛围。
 
-Legion Night Club 拥有一个占地1,000平方米的露天泳池，可容纳多达100人。泳池周围设有躺椅和沙滩椅，供客人放松和享受阳光。夜总会还设有一个大型舞池、一个DJ台和一个酒吧。
+Legion Night Club 拥有一个占地 1,000 平方米的露天泳池，可容纳多达 100 人。泳池周围设有躺椅和沙滩椅，供客人放松和享受阳光。夜总会还设有一个大型舞池、一个 DJ 台和一个酒吧。
 
-\*\*_这里加一条友善提醒_**：不管你到世界上的任何一个地方，**_最好不要住的离这些night club太近_\*\*，除非整晚咚咚咚你还是可以照睡不误！
+\*\*_这里加一条友善提醒_**：不管你到世界上的任何一个地方，**_最好不要住的离这些 night club 太近_\*\*，除非整晚咚咚咚你还是可以照睡不误！
 
 **➡️**[**更多巴厘岛超值优惠请点我**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)**⬅️**
 
@@ -276,7 +278,7 @@ https://youtu.be/mxnU1BxJCcM
 
 ## 库塔的购物
 
-库塔因为游客最多，所以购物的地方也最多！上面我们介绍过Kuta Art Market、Poppies Lane等地方，都有非常多的商贩在卖各式各样的纪念品和有趣的小东西，同时也是练习你砍价技巧的好地方。除了路上琳琅满目的小店，比较有规模的商场分为两大类：
+库塔因为游客最多，所以购物的地方也最多！上面我们介绍过 Kuta Art Market、Poppies Lane 等地方，都有非常多的商贩在卖各式各样的纪念品和有趣的小东西，同时也是练习你砍价技巧的好地方。除了路上琳琅满目的小店，比较有规模的商场分为两大类：
 
 ### 库塔购物商场/购物中心 （👉🏼地图：[库塔购物](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
 
@@ -304,7 +306,7 @@ https://youtu.be/mxnU1BxJCcM
 
 ## 库塔区美食推荐
 
-库塔作为巴厘岛最热闹的地段，游客最多，当然也少不了丰富的美食。库塔的餐厅种类繁多，从传统的印尼菜到国际美食应有尽有，让您可以尽情享受美食之旅。下面我们推荐一些餐厅，这些提供美食的餐厅位置，我们也标注在最下面的「库塔攻略地图」里，方便大家安排旅游计划。当然在库塔还有更多美食餐厅等你来探索！
+库塔身为巴厘岛最热闹的地段，有着最多的游客，当然也少不了丰富的美食。库塔的餐厅种类繁多，从传统的印尼菜到国际美食应有尽有，让您可以尽情享受美食之旅。底下我们推荐一些餐厅，这些提供美食的餐厅位置，我们也标注在最下面的「库塔攻略地图」里，方便大家安排旅游计划。当然在库塔还有更多美食餐厅等你来探索！
 
 ### Hard Rock Cafe （👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)） Google 4.5颗星
 
@@ -316,7 +318,7 @@ https://youtu.be/mxnU1BxJCcM
 
 ![Bene Italian Kitchen（地圖：庫塔美食推薦）Google 4.4顆星](https://images.gobaligo.id/vocus/vocus_415a4cde11b2829957ea6a297a03d9a3.jpg)
 
-在巴厘岛库塔喜来登度假村 Bene 意式餐厅，享受精致的 二道式或三道式午餐／晚餐套餐。餐厅位于二楼，可一览壮丽的印度洋海景，结合舒适悠闲的氛围与现代时尚的装潢，带来视觉与味觉的双重享受。挑选您喜爱的套餐组合，尽情品尝多样化的料理选择，从地道的印尼风味、经典意式佳肴，到国际融合料理，应有尽有。
+在巴厘岛库塔喜来登度假村 Bene 意式餐厅，享受精致的 二道式或三道式午餐／晚餐套餐。餐厅位于二楼，可一览壮丽的印度洋海景，结合舒适悠闲的氛围与现代时尚的装修，带来视觉与味觉的双重享受。挑选您喜爱的套餐组合，尽情品尝多样化的料理选择，从地道的印尼风味、经典意式佳肴，到国际融合料理，应有尽有。
 
 在俯瞰库塔海滩的迷人景观中用餐，让每一刻都成为美好回忆。[KKday优惠券](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=25072)
 
@@ -332,7 +334,7 @@ https://youtu.be/mxnU1BxJCcM
 
 在令人心旷神怡的环境用餐，还可以喂鱼哦
 
-这家餐厅最大的特色是坐落在水上的发呆亭中用餐。享用印尼佳肴的同时，还能欣赏湖畔风景，享受静谧与美味的完美结合。[用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785269&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93489-bale-udang-mang-engking-kuta%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dadfdd5f88a)）
+这家餐厅最大的特色是坐落在水上的发呆亭中用餐。享用印尼佳肴的同时，还能欣赏湖畔风景，享受静谧与美味的完美结合。[用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785269&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93489-bale-udang-mang-engking-kuta%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dadfdd5f88a)
 
 ### Bebek Tepi Sawah（👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.2颗星**
 
@@ -342,7 +344,7 @@ https://youtu.be/mxnU1BxJCcM
 
 以酥脆鸭肉（脆皮鸭）为主打，是巴厘岛的招牌菜之一。环境舒适，还提供优惠券，非常值得一试。这里是他们的第三家分店。这里有[用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785269&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dd388a23292)
 
-### Wanaku Seafood & Chinese Restaurant（👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.6颗星**
+### Wanaku Seafood & Chinese Restaurant （👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.6颗星**
 
 ![Wanaku Seafood & Chinese Restaurant （地圖：庫塔美食推薦）Google 4.6顆星](https://images.gobaligo.id/vocus/vocus_8823abed672e8ec188672c7521548806.jpg)
 
@@ -358,7 +360,7 @@ Wanaku Seafood & Chinese Restaurant 是一家中式海鲜餐厅。与其他当�
 
 ▲小杰的[库塔一日游](https://youtu.be/B54RKCiqphM?si=63AsxUPqMPZOB-vo)介绍过这家餐厅
 
-库塔的Warung Babi Guling & Kuah Balung Bu Dayu是一家以烤乳猪饭和猪脚汤闻名的印尼餐厅，价格实惠，深受当地人和游客的喜爱。尤其是他们的猪脚汤（kuah balung），入口即化，来晚了可就吃不到了哦！
+库塔的Warung Babi Guling & Kuah Balung Bu Dayu是一家以烤乳猪饭和猪脚汤闻名的印尼餐厅，价格实惠，深受当地人和游客的喜爱。尤其是他们的猪脚汤（kuah balung），入口即化，太晚来是吃不到的喔！
 
 ### Sate Babi Bawah Pohon（👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.5颗星**
 
@@ -366,7 +368,7 @@ Wanaku Seafood & Chinese Restaurant 是一家中式海鲜餐厅。与其他当�
 
 本来是路边摊，后来开了好几家分店餐厅
 
-库塔的Sate Babi Bawah Pohon（大树下的猪肉沙爹）是一家以猪肉沙嗲闻名的路边摊，后来还开了餐厅，甚至火到在坎古、雅加达都有分店。他们的价格便宜，口味地道，是品尝印尼传统美食的好去处。
+库塔的Sate Babi Bawah Pohon（大树下的猪肉沙爹）是一家以猪肉沙嗲闻名的路边摊，后来还开了餐厅，甚至红到在坎古、雅加达都有分店。他们的价格便宜，口味地道，是品尝印尼传统美食的好去处。
 
 ### Kuta Social Club（👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.6颗星**
 
@@ -396,15 +398,15 @@ Kuta Social Club是一家位于库塔海滩的高级泳池俱乐部，荣获Trip
 
 Rosso Vivo就在库塔海滩路上，面对着库塔海滩
 
-库塔的Rosso Vivo是一家位于海滩边的意大利餐厅，以其美味的食物、浪漫的氛围和优质的服务而闻名，因其在Tripadvisor 2023年的高评价，而获得了「Travelors' Choice」。想尝试高级用餐体验的朋友，[这里有优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785269&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94245-rosso-vivo-dine-lounge-dining-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dc86cbd8b9d)
+库塔的Rosso Vivo是一家位于海滩边的意大利餐厅，以其美味的食物、浪漫的氛围和优质的服务而闻名，因其在Tripadvisor 2023年的高评价，而得到了「Travelors' Choice」。想尝试高级用餐体验的朋友，[这里有优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=785269&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94245-rosso-vivo-dine-lounge-dining-kuta-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dc86cbd8b9d)
 
 ### Mevui Vietnam kitchen Bali（👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.5颗星**
 
 ![Mevui Vietnam kitchen Bali（地圖：庫塔美食推薦）Google 4.5顆星](https://images.gobaligo.id/vocus/vocus_d2730c354ce55c01ab5d3153e708f603.jpg)
 
-近几在库塔、水明漾、坎古出现了蛮多家的越南餐厅。小杰在巴厘岛吃过三次越南餐厅了
+近几年来在库塔、水明漾、坎古出现了不少越南餐厅。小杰在巴厘岛吃过三次越南餐厅了
 
-库塔的 Me Vui 是一家受欢迎的越南餐厅，以其正宗的越南美食和友好的服务而闻名。这是一个品尝越南菜肴的好地方，尤其是 Pho 和 Banh Mi 等经典菜肴。
+库塔的 Me Vui 是一家受欢迎的越南餐厅，以其正宗的越南美食和友好的服务而闻名。这里是品尝越南菜肴的好地方，尤其是 Pho 和 Banh Mi 等经典菜品。
 
 ### Temple by Ginger Moon （👉🏼地图：[库塔美食推荐](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.8颗星**
 
@@ -428,7 +430,7 @@ Google评价4.8颗星！位于库塔的 Temple by Ginger Moon 为食客们带来
 
 ## 小杰的快速库塔攻略导览
 
-上面这些介绍过的地方，很多也都在小杰的攻略视频中出现过。想要更了解库塔，明白库塔的主要马路布局、景点位置、搞懂方位就一定要看看这个视频：
+上面这些介绍过的地方，很多也都在小杰的攻略视频里出现过。想要更了解库塔，明白库塔的主要马路布局、景点位置、搞懂方位就一定要看看这个视频：
 
 https://youtu.be/mxnU1BxJCcM
 
@@ -438,7 +440,7 @@ https://youtu.be/mxnU1BxJCcM
 
 好评SPA看我们的推荐不会错！
 
-来到巴厘岛不能不享受优质又便宜的SPA啊！但是其实蛮多人做SPA的时候踩雷，有时候店家门面很漂亮房间却很差，更多的旅客是遇到根本一点都感觉不到有用心服务顾客的SPA！
+来到巴厘岛不能不享受优质又便宜的SPA啊！但其实蛮多人做SPA的时候踩雷，有时候店家门面很漂亮房间却很差，更多的旅客是遇到根本一点都感觉不到有用心服务顾客的SPA！
 
 想要找到优质的SPA不妨看看我们整合网友推荐的▶▶▶「[巴厘岛好评SPA推荐大集合](/zh-cn/blog/spa/)」，包含了巴厘岛主要的旅游地区的优质SPA，是到目前为止没有任何网友差评的一份推荐喔！
 
@@ -448,7 +450,7 @@ https://youtu.be/mxnU1BxJCcM
 
 库塔住宿的选择繁多
 
-库塔是巴厘岛最受欢迎的旅游目的地之一，库塔的住宿选择最多样化，从经济实惠的旅馆和民宿到豪华的五星级酒店。旅客可以根据自己的预算、偏好和需求选择最合适的住宿：
+库塔是巴厘岛最受欢迎的旅游目的地之一，库塔的住宿选择最多样化，从经济实惠的旅馆和民宿到豪华的五星级酒店。旅客可以根据自己的预算、偏好和需求选择最合适的住宿:
 
 > [库塔海滩旁精选酒店16家](/admin/)
 
@@ -466,6 +468,6 @@ https://youtu.be/mxnU1BxJCcM
 
 > [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
-## 巴厘岛库塔攻略地图（[点击放大&收藏](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
+## 巴厘岛库塔攻略地图（[按我放大&收藏](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）
 
 {{block:klook}}

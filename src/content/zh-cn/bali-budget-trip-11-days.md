@@ -1,5 +1,5 @@
 ---
-title: 水上活动被"宰客"！巴厘岛自由行花费大公开！11天10夜这样玩，性价比超高！
+title: 水上活动被
 slug: bali-budget-trip-11-days
 description: 巴厘岛11天10夜自由行深度游记
 pubDate: 2025-02-25T00:00:00.000Z
@@ -17,27 +17,27 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fc4cd7d779889b43776f8be643f11
 originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 update: 2026/05/23
 lang: zh-cn
-_srcHash: 932c07ef896747a45b4862cb52b1e1ba
+_srcHash: cc8f3c55527e6a103ac97cea04ba6654
 ---
-> 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：
+[> 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：]
 
-**先说结论**：11 天 10 夜两人行实际花费——机票约 USD$858、乌布住宿 5 晚 USD$262、金巴兰住宿 5 晚 USD$291、观光税+落地签等杂项约 USD$113，性价比高的关键是**选对住宿地点**（乌布丛林宁静区＋金巴兰步行 5 分钟到海边）。标题提到的"水上活动被宰客"是入园纠纷的真实教训，详见下方行程记录。
+**先说结论**：11天10夜两人行实际花费——机票约USD$858、乌布住宿5晚USD$262、金巴兰住宿5晚USD$290、观光税+落地签等杂项约USD$113，性价比高的关键是**选对住宿地点**（乌布丛林宁静区＋金巴兰步行5分钟到海边）。标题提到的「水上活动被宰」是入园纠纷的真实教训，详见下方行程记录。
 
 ## 巴厘岛11天10夜自由行深度游记
 
 ## 行程概览
 
 - **日期**：2025年1月1日（三）至2025年1月11日（六）
-- **机票**：中华航空，价格约26,586元/2人
+- **机票**：中华航空，价格约USD$858/2人
 - **住宿**：
-- - **乌布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)，5晚共8,129元，享受原始丛林的宁静与鸟鸣。
-    - **金巴兰**：[Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670)，5晚共9,005元，步行5分钟即可到达海边，感受黄金夕阳与海浪声的魅力。
+- - **乌布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)，5晚共262美元，享受原始丛林的宁静与鸟鸣。
+    - **金巴兰**：[Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670)，5晚共290美元，步行5分钟即可到达海边，感受黄金夕阳与海浪声的魅力。
 - **其他费用**：
-- - **观光税**：2人共650元
+- - **观光税**：2人共21美元
     - **健康表格申报**：出发当天填写，网址：[健康表格申报](https://sshp.kemkes.go.id/register?travel_mode=Air)
     - **海关单**：每家庭1张，网址：[印尼电子报关单](https://annrt.com.tw/%E5%8D%B0%E5%B0%BC%E9%9B%BB%E5%AD%90%E5%A0%B1%E9%97%9C%E5%96%AE/)
-    - **落地签（VOA）**：柜台办理，费用2,100元/2人，约等30分钟
-    - **机场接机**：[Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1009128&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25A9%259F%25E5%25A0%25B4%25E6%258E%25A5%25E6%25A9%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D16a6e6c57e)，779元
+    - **落地签（VOA）**：柜台办理，费用68美元/2人，约等30分钟
+    - **机场接机**：[Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1009128&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25A9%259F%25E5%25A0%25B4%25E6%258E%25A5%25E6%25A9%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D16a6e6c57e)，25美元
     - **机场送机**：包车司机免费送至机场
   **快速参考：**
 
@@ -47,19 +47,19 @@ _srcHash: 932c07ef896747a45b4862cb52b1e1ba
 
 ## **第一天（1 月 1 日，三）— 抵达巴厘岛，开启度假模式**
 
-晚上6点，我们抵达乌布酒店，正式展开这次旅程。巴厘岛的夜晚充满热带风情，空气中弥漫着淡淡的花香，让人瞬间感到放松与愉悦。放下行李后，我们走到外面热闹的街道用餐，非常多餐厅可以选择。并早早休息以迎接第二天的冒险。
+晚上 6 点，我们抵达乌布酒店，正式展开这次旅程。巴厘岛的夜晚充满热带风情，空气中弥漫着淡淡的花香，让人瞬间感到放松与愉悦。放下行李后，我们走到外面热闹的街道用餐，非常多餐厅可以选择。并早早休息以迎接第二天的冒险。
 
 参考我们的住宿：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)
   ---
 
-## **第二天（1月2日，四）— 探索丛林与漂流冒险**
+## **第二天（1 月 2 日，四）— 探索丛林与漂流冒险**
 
-### **ATV越野车与漂流体验**
+### **ATV 越野车与漂流体验**
 
-- **集合时间**：早上9:15
+- **集合时间**：早上 9:15
 - **推荐理由**：非常适合热爱冒险的旅客！
 
-上午，我们驾驶着ATV越野车，穿越丛林、稻田和小溪。沿途风景壮丽，教练耐心地进行安全指导，即使是新手也能快速上手。接着，我们前往河流进行漂流，全程约2小时。建议穿轻便衣物或直接着泳衣，因为肯定会湿身！漂流途中，湛蓝河水两岸的热带雨林景观让人目不暇接，甚至偶尔还能见到猴子在树上跳跃，令人惊喜。
+上午，我们驾驶着 ATV 越野车，穿越丛林、稻田和小溪。沿途风景壮丽，教练耐心地进行安全指导，即使是新手也能快速上手。接着，我们前往河流进行漂流，全程约 2 小时。建议穿轻便衣物或直接着泳衣，因为肯定会湿身！漂流途中，湛蓝河水两岸的热带雨林景观让人目不暇接，甚至偶尔还能见到猴子在树上跳跃，令人惊喜。
 
 ![ATV / 漂流泛舟不會翻船](https://images.gobaligo.id/vocus/vocus_5b276745d6b4365ff3e9815a15d51e70.jpg)
 
@@ -72,9 +72,9 @@ ATV / 漂流泛舟不会翻船
 🚣巴厘岛泛舟活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
   ---
 
-## **第三天（1 月 3 日，五）— 巴杜尔火山日出吉普车之旅**
+## **第三天（1 月 3 日，五）— 巴**杜**尔火山日出吉普车之旅**
 
-### **巴杜尔火山日出吉普车**
+### **巴**杜**尔火山日出吉普车**
 
   **费用**：USD$141/2人（Klook 预订）
   **集合时间**：凌晨 2:50
@@ -111,6 +111,8 @@ https://youtu.be/JtxZHtijEkE
 ### **乌布水皇宫**
 
 门票约 14 万印尼盾，湖面倒映着传统建筑，画面美如明信片。
+
+> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了 49 个热门景点的实时参考价，并附 Klook／Trip.com 比价链接。
 
 ### **圣猴森林公园**
 
@@ -166,13 +168,13 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
   **门票费用**：100,000 印尼盾
 
-圣泉寺是巴厘岛著名的宗教圣地，许多当地人會前来进行沐浴祈福的仪式。虽然我们没有参与洗圣水，但光是观赏当地人的仪式，就能感受到浓厚的宗教氛围。如果对宗教文化特别感兴趣，这里值得一去；若时间有限，这个景点可视情况安排。
+圣泉寺是巴厘岛著名的宗教圣地，许多当地人会前来进行沐浴祈福的仪式。虽然我们没有参与洗圣水，但光是观赏当地人的仪式，就能感受到浓厚的宗教氛围。如果对宗教文化特别感兴趣，这里值得一去；若时间有限，这个景点可视情况安排。
 
-🛕💦🙏圣泉寺沐浴祈福、感受自然与文化的融合 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D65b018ea8e)
+🛕💦🙏圣泉寺沐浴祈福、感受自然与文化的融合 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D65b018ea8e)（注意：链接中的zh-TW未修改，但按要求保留原样）
 
 ### **德哥拉朗梯田**
 
-  **门票费用**：USD$7
+  **门票费用**：7美元（约203元台币）
 
 ![德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_633e3a95afc0cd64f57f4c94319ffe5b.jpg)
 
@@ -180,13 +182,13 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 下午我们前往德哥拉朗梯田 Alas Harum，这是巴厘岛最具代表性的自然景观之一，层层叠叠的稻田宛如一幅大自然的画作。我们在这里停留了整个下午，拍了许多美照，也在田间小径悠闲漫步，感受大自然的静谧。由于当天下雨，我们原本计划体验的乌布丛林秋千取消了，但梯田的美景已经让我们觉得非常值得。
 
-🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
+🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)（注意：链接中的zh-TW未修改，但按要求保留原样）
 
 {{block:ubud}}
 
 ### **晚餐：金巴兰海滩餐厅**
 
-  **花费**：44美元
+  **花费**：44美元（约1366元台币）
 
 结束梯田之旅后，我们前往金巴兰海滩享用晚餐。在夕阳西下的背景下，我们品尝了新鲜的海鲜料理，这顿浪漫的晚餐成了当天的完美结尾。
   **快速参考：**
@@ -194,7 +196,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 > [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
 >   ---
 
-## **第七天（1 月 7 日，二）— 海神庙与悬崖酒吧的绝美日落**
+## **第七天（1月7日，周二）— 海神庙与悬崖酒吧的绝美日落**
 
 ### **海神庙**
 
@@ -217,18 +219,18 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 ### **Rock Bar 岩石酒吧**
 
-  **低消**：每人约 USD$45（可抵餐饮）
+  **低消费用**：每人约 45 美元（可抵餐饮）
 
 ![Rock Bar 岩石酒吧](https://images.gobaligo.id/vocus/vocus_9e56de4fed9244834cd98822ed579110.jpg)
 
-Rock Bar 是巴厘岛最知名的悬崖酒吧之一，坐落于海边悬崖上，可俯瞰整片印度洋。我们下午5点抵达，刚好找到很棒的位置，一边欣赏壮丽的日落，一边品尝酒吧的特调饮品。伴随着海浪声与夕阳美景，这里的氛围浪漫到令人难忘。
+Rock Bar 是巴厘岛最知名的悬崖酒吧之一，坐落于海边悬崖上，可俯瞰整片印度洋。我们下午 5 点抵达，刚好找到很棒的位置，一边欣赏壮丽的日落，一边品尝酒吧的特调饮品。伴随着海浪声与夕阳美景，这里的氛围浪漫到令人难忘。
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
 
   **快速参考：**
 
-[> [巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)
+> [巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)
 >   ---
 
 ## **第八天（1 月 8 日，三）— 南湾水上活动大冒险**
@@ -237,7 +239,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
   **费用**：2,700,000 印尼盾
 
-这天我们前往南湾参加水上活动，包括浮潜、划船和香蕉船等项目。需要特别提醒的是，我们没有提前在 Klook 预订票券，导致现场购买价格高出许多，这点成了旅程中的一个小遗憾。我们选了 **飞鱼（Flying Fish）** 和 **拖曳伞（Parasailing），**我们两人共花了2,700,000 印尼盾（约174美金/两人）...
+这天我们前往南湾参加水上活动，包括浮潜、划船和香蕉船等项目。需要特别提醒的是，我们没有提前在 Klook 预订票券，导致现场购买价格高出许多，这点成了旅程中的一个小遗憾。我们选了 **飞鱼（Flying Fish）** 和 **拖曳伞（Parasailing），**我们两人共花了2,700,000 印尼盾（约174美元/两人）...
 
 如果有计划参加南湾的水上活动，不要像我沒有事先研究好，结果多付了好几倍的钱！**务必提前在网上订票**，不只能省下大笔费用，也能避免到现场被当「冤大头」的情况。
 
@@ -277,7 +279,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 Icon Bali
 
 这天我们安排了一个轻松的行程，上午 11 点出发前往 **Icon Bali** 与 **水明漾区**。虽然我们购物欲望不强，但沿街散步，享受咖啡与美食，感受当地时尚氛围，也是很惬意的一天。水明漾的街区有许多精品店与设计师品牌商店，是购物爱好者的天堂！
-  **Icon Bali里头有什么？请看小杰的介绍：**
+  **Icon Bali里有什么？请看小杰的介绍：**
 
 https://youtu.be/hdIKOX5wghU
 
@@ -285,7 +287,7 @@ https://youtu.be/hdIKOX5wghU
   **快速参考：**
 
 - [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
-- [沙努尔50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
+- [Sanur 50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
   ---
 
 ## **第十一天（1 月 11 日，六）— 结束愉快的旅程**

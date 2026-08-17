@@ -22,9 +22,9 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1fe96274e662eb94f29890119c8abcc0.jpg'
 originalUrl: 'https://vocus.cc/article/6746742bfd897800018d4906'
 lang: zh-cn
-_srcHash: c3afc78f9ed07def907e43becc35efa9
+_srcHash: 31c8b80f7c104213f2b5e68e3f45977e
 ---
-**先讲结论**：带长辈选景点三大原则——**地形平坦好走**（避免攀爬与长时间步行）、**行程松紧适度**（预留休息时间，别排太赶）、**交通接送与饮食安全**优先考量。推荐地点包括免爬山的巴杜尔火山吉普车日出行程、步道平缓的海神庙、努沙杜瓦奢华下午茶。上一集必备物品与注意事项请见[带长辈去巴厘岛指南](/zh-cn/blog/bali-elderly-travel-guide/)。
+**先说结论**：带长辈选景点三大原则——**地形平坦好走**（避免攀爬与长时间步行）、**行程松紧适度**（预留休息时间，别排太赶）、**交通接送与饮食安全**优先考量。推荐地点包括免爬山的巴杜尔火山吉普车日出行程、步道平缓的海神庙、努沙杜瓦奢华下午茶。上一集必备物品与注意事项请见[带长辈去巴厘岛指南](/zh-cn/blog/bali-elderly-travel-guide/)。
 
 巴厘岛一直是热门的旅游胜地，而针对年长者的旅游需求，许多景点和活动都十分友善且舒适。上一集我们介绍了带长辈去巴厘岛的一些注意事项以及必备物品，错过的朋友可以点击[这里](/zh-cn/blog/bali-elderly-travel-guide/)。
 
@@ -48,7 +48,7 @@ _srcHash: c3afc78f9ed07def907e43becc35efa9
 
 [13家景观咖啡厅介绍](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
-金塔马尼火山是巴厘岛最壮观的景点之一。游客可以在火山附近的餐厅边享用早餐或午餐边欣赏壮丽的火山景色，适合年长者放松身心。而且这些咖啡厅大多在大马路旁边，下车就到。
+金塔马尼火山是巴厘岛最壮观的景点之一。游客可以在火山附近的餐厅边享用早餐或午餐边欣赏壮丽的火山景色，适合年长者放松身心。而且这些咖啡厅大多在大马路边，下车就到。
 
 13家景观咖啡厅的介绍及优惠请看[这里](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)。
 
@@ -66,11 +66,13 @@ _srcHash: c3afc78f9ed07def907e43becc35efa9
 
 在结束登山与咖啡行之后，前往 **Toya Devasya 温泉** 放松身心。泡在天然火山地热泉中，望着远处的火山与湖泊，是最疗愈的收尾时光。
 
-除了泡温泉，这里更是一个大型的温泉水上乐园哦！
+除了泡温泉，这里更是一个大型的温泉水上乐园喔！
 
 ![泡溫泉、賞美景](https://images.gobaligo.id/vocus/vocus_4e239669b1787a60c45be7f558d30237.png)
 
 ▶[Toya Devasya 温泉门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3De7714021bf)
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
 
 ### **德哥拉朗梯田（Tegalalang Rice Terrace）**
 
@@ -82,7 +84,7 @@ _srcHash: c3afc78f9ed07def907e43becc35efa9
 
 ▶乌布梯田的相关活动/体验请看[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=956289&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E6%25A2%25AF%25E7%2594%25B0%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D55b5e0726c)。
 
-### 特哥努恩安瀑布（Tegenungan waterfall）
+### 特根努安瀑布（Tegenungan waterfall）
 
 一般情况下，要走到瀑布前，通常都需要攀爬数百级的阶梯。然而，在乌布的特根努安瀑布（Tegenungan Waterfall），**Omma Dayclub** 帮你实现了「免爬楼梯直接到瀑布面前」的愿望！👇
 
@@ -122,9 +124,9 @@ https://youtube.com/shorts/MmqfkXw211k
 
 ![巴東寺廟（Batuan Temple）](https://images.gobaligo.id/vocus/vocus_bc4bf00488586e10c8d1c0e2175ad00e.jpg)
 
-这座11世纪的千年寺庙位于乌布与登巴萨之间，是印度教建筑的经典代表。寺庙就在大马路旁，平坦的步行路线和美丽的雕刻让它成为适合年长者的文化景点。
+这座11世纪的千年寺庙位于乌布与丹帕沙之间，是印度教建筑的经典代表。寺庙就在大马路旁，平坦的步行路线和美丽的雕刻让它成为适合年长者的文化景点。
 
-### **彭里普兰传统村落**
+### **Penglipuran传统村落**
 
 ![彭里普蘭村 完整介紹](https://images.gobaligo.id/vocus/vocus_31a2dfcdbf606139d280301ff952e936.jpg)
 
@@ -158,7 +160,7 @@ https://youtu.be/zePMt3KSwTo
 
 这座建筑融合了巴厘岛和欧洲风格，园区内有平坦的步道，适合老年人悠闲地探索。
 
-如果你对以上两个景点感兴趣，可以参加包含往返酒店接送服务的「[巴厘岛东部景点探索私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=956417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21886-east-exploration-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9758ae5d5c)」。但要提醒一点，东部路途遥远，就算从乌布出发至少也要两个小时才能到！最好考虑直接住在比较靠近的地方。
+如果你对以上两个景点有兴趣，可以参加包含往返酒店接送服务的「[巴厘岛东部景点探索私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=956417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21886-east-exploration-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9758ae5d5c)」。但是要提醒一点，东部的路途遥远，就算从乌布出发少说也要两个小时才到得了！最好考虑直接住在比较靠近的地方。
 
 ### 巴厘岛最震撼大型歌舞秀登场：《Bali Mystic》
 
@@ -172,7 +174,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 - **票价**：IDR 300,000 起（约 USD$19）
 - **地点**：Nuanu Creative City - Labyrinth Arts Centre（Jl. Pantai Nyanyi, Tabanan）**（📍**[**地图位置**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)**）**
 - **购票网址**：[点我购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫（欲前往者[必看](/zh-cn/blog/bali-mystic-show-experience/)）
-- **附加体验**：凭票可免费参观 [Labyrinth Art Gallery](/zh-cn/blog/labyrinth-collective-nuanu-bali/)、在「[地球卫士](/zh-cn/blog/the-earth-sentinels-nuanu/)」雕像照相
+- **附加体验**：凭票可免费参观 [Labyrinth Art Gallery](/zh-cn/blog/labyrinth-collective-nuanu-bali/)、在「[地球卫兵](/zh-cn/blog/the-earth-sentinels-nuanu/)」雕像照相
 
 ### Devdan 天坛秀｜一次饱览印尼五大岛屿传统魅力
 
@@ -201,13 +203,13 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 
 ![魔法花園（Magic Garden）](https://images.gobaligo.id/vocus/vocus_d14ee96448df6989769c7f7945ba593c.jpg)
 
-如果你计划带长辈到海神庙附近游玩，那么2024/11新开幕的 **Magic Garden（魔法花园）** 绝对是一个值得一去的好地方！位于巴厘岛塔巴南县 Nuanu City，这座占地3600平方米的自然公园不仅风景优美，还融入了教育与自然保育的理念，非常适合喜欢自然景观的长辈漫步参观。
+如果你计划带长辈到海神庙附近游玩，那么2024/11新开幕的 **Magic Garden（魔法花园）** 绝对是个值得一去的好地方！位于巴厘岛塔巴南县的新努阿努城，这座占地3600平方米的自然公园不仅风景优美，还融入了教育与自然保育的理念，非常适合喜欢自然景观的长辈漫步参观。
 
 Magic Garden 最令人惊艳的是其多样化的植物群，包括来自印尼的超过400种珍稀植物及500多种兰花。这里的 **兰花园** 和 **蝴蝶园** 尤其受到游客喜爱，长辈们可以近距离观察蝴蝶的生态，了解它们对维持生态平衡的重要性。
 
 除了美丽的花园，园区内还设有 **植物博物馆** 和 **研究中心**，用来推广环境保护的意识，并提供学习与互动的机会。这里的设计以生态永续为核心，园区保留了70%的绿地，并使用宫胁自然造林法种植了超过1.5万棵树，让长辈们在参观的同时感受到自然的治愈力量。
 
-门票价格仅需 IDR 150,000（约 USD$10），经济实惠又充满教育意义。如果长辈们体力允许，还可以顺道参观附近的 **Luna Beach Club** 或 The Dome 的多媒体展演，享受一场视觉与文化的盛宴。
+门票价格仅需 IDR 150,000（约USD$10），经济实惠又充满教育意义。如果长辈们体力允许，还可以顺道参观附近的 **Luna Beach Club** 或 The Dome 的多媒体展演，享受一场视觉与文化的盛宴。
 
 带家人一同走进 Magic Garden，让长辈沉浸在自然与文化的美好中！ 🌿
 
@@ -305,7 +307,7 @@ Magic Garden 最令人惊艳的是其多样化的植物群，包括来自印尼�
 
 ## **5. 实用的巴厘岛旅游建议**
 
-1. **选择无浴缸的住宿**：减少滑倒的风险，选择带有淋浴设施的房间。
+1. **选择无浴缸的住宿**：减少滑倒的风险，选择带有淋浴设施的房間。
 2. **订房推荐：**[三房/四房/五房以上的家庭别墅住宿推荐](/zh-cn/blog/bali-group-villa-stay/)
 3. **安排平坦的步行景点**：避免阶梯和不平整的道路。
 4. **交通方式选择包车**：避免让长辈等候，且享有VIP服务。

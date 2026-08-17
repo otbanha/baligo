@@ -17,7 +17,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_010252ae3b22142279b2f6841ce88916.jpg'
 originalUrl: 'https://vocus.cc/article/662c59e9fd897800011f1230'
 lang: zh-cn
-_srcHash: 5f9646ddec9fa94e78d681077bc974bd
+_srcHash: 047e075362b26522200f34835f00cd2b
 ---
 > 本篇是一名越南台商小姐姐跟她的家人一同前往巴厘岛游玩
 > 以上内容由「[Let's Play and Eat 胡志明市](https://www.facebook.com/profile.php?id=100068951930592)」拥有者同意改编/转载
@@ -26,7 +26,7 @@ _srcHash: 5f9646ddec9fa94e78d681077bc974bd
 
 ***
 
-**先说结论**：巴厘岛亲子游 Day 2 建议路线——**GWK 神鹰广场（金巴兰）→ 乌鲁瓦图免费海滩俱乐部 → 乌鲁瓦图神庙 → 火舞表演 → 街边小吃**，全程可从库塔出发当日往返，适合安排一整天的南部景点深度游。
+**先讲结论**：巴厘岛亲子游 Day 2 建议路线——**GWK 神鹰广场（金巴兰）→ 乌鲁瓦图免费海滩俱乐部 → 乌鲁瓦图神庙 → 火舞表演 → 街边小吃**，全程可从库塔出发当日往返，适合安排一整天的南部景点深度游。
 
 第一次全家巴厘岛的旅游第二天，今天的行程是：
 
@@ -42,7 +42,7 @@ _srcHash: 5f9646ddec9fa94e78d681077bc974bd
 
 「Let's Play and Eat 胡志明市」现场实拍
 
-在Bali巴厘岛，位于机场以南金巴兰的神鹰广场Garuda Wisnu Kencana Cultural Park是一个结合历史与文化的绝佳去处。让我们一起探索这个充满活力与奇幻的地方。
+在巴厘岛，位于机场以南金巴兰的神鹰广场Garuda Wisnu Kencana Cultural Park是一个结合历史与文化的绝佳去处。让我们一起探索这个充满活力与奇幻的地方。
 
 视频介绍：三分钟认识金巴兰
 
@@ -54,7 +54,7 @@ _srcHash: 5f9646ddec9fa94e78d681077bc974bd
 
 「Let's Play and Eat 胡志明市」现场实拍
 
-整座最高的神鹰雕像有21层楼高，是世界排名第四高的雕像建筑，同时也是巴厘岛最高的建筑物，最显眼的地标。
+整座最高的神鹰雕像有21楼高，是世界排名第四高的雕像建筑，同时也是巴厘岛最高的建筑物，最显眼的地标。
 
 **探索神鹰广场：一场充满惊喜的旅程**
 
@@ -62,7 +62,7 @@ _srcHash: 5f9646ddec9fa94e78d681077bc974bd
 
 「Let's Play and Eat 胡志明市」现场实拍
 
-神鹰广场虽然还在不断增建，但已经成为游客们的必访之地。无论你是寻找历史文化，还是欣赏壮观雕塑，这里都能满足你的需求。入场费用相当实惠，包含一杯饮料以及每小时的精彩表演。另外，停车场至售票口的接驳也是免费提供的服务，让你的旅程更加便捷。
+神鹰广场虽然还一直在增建，但已经成为游客们的必访之地。无论你是寻找历史文化，还是欣赏壮观雕塑，这里都能满足你的需求。入场费用相当实惠，包含一杯饮料以及每小时的精彩表演。另外，停车场至售票口的接驳也是免费提供的服务，让你的旅程更加便捷。
 
 **探索方式：轻松游神鹰广场**
 
@@ -91,6 +91,8 @@ GWK有定时整点的免费表演，随到随入场。如果不想额外花钱�
 「Let's Play and Eat 胡志明市」现场实拍
 
 在神鹰广场内，你可以找到各种餐厅和咖啡店，品尝当地美食，享受一段愉快的用餐时光。此外，门票还附赠免费饮品，让你在旅途中得到最好的款待。不要像我们一样，开心逛完纪念品店后开心的离开，忘的很彻底...Orz
+
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
 **实用小贴士**
 
@@ -128,7 +130,7 @@ GWK有定时整点的免费表演，随到随入场。如果不想额外花钱�
 
 「Let's Play and Eat 胡志明市」现场实拍
 
-Kelly's Warung在谷歌地图上看似可简单抵达，实际上我们不停在附近徘徊，苦寻不到入口，Gede司机上上下下不停询问，得来费尽辛苦！
+Kelly's Warung在google map上看似可简单抵达，实际上我们不停在附近徘徊，苦寻不到入口，Gede司机上上下下不停询问，得来费尽辛苦！
 
 停车场停车后，需要沿着小路往下，通过数个阶梯、数个小坡，就在双脚即将阵亡之际，《Kelly's Warung》就伫立在海滩那一方
 
@@ -165,7 +167,7 @@ Kelly's Warung位于海滩边，高性价比免入场费，提供了无敌的海
 
 **实用小贴士**
 
-毛巾一铺，悠闲的人们沐浴在阳光下，远远那一端，还有冲浪者随波逐浪，瞬间仿佛置身欧洲海滩！
+毛巾一铺，悠闲的人们沐浴在阳光下，远远那一端，还有冲浪者随波漂浪，瞬间仿佛置身欧洲海滩！
 
 - 免入场费
 - 没有时间限制
@@ -204,13 +206,13 @@ Kelly's Warung位于海滩边，高性价比免入场费，提供了无敌的海
 
 **关于火舞**
 
-「卡恰火舞」主要在于重现印度神话史诗罗摩衍那（Ramayana）其中一段，内容为猴王与恶魔大战等情节，耀眼火焰、斑斓服装，令人目眩神迷！想了解这段印度教知名表演内容的朋友可以[点击这里](/zh-cn/blog/kecak-fire-dance-bali/)，小编曾经做过详细的介绍。这是一段几乎看过的人都觉得值回票价的精彩表演！
+「卡恰火舞」主要在重现印度神话史诗罗摩衍那（Ramayana）其中一段，内容为猴王与恶魔大战等情节，耀眼火焰、斑斓服装，令人目眩神迷！想了解这段印度教知名表演内容的朋友可以[点击这里](/zh-cn/blog/kecak-fire-dance-bali/)，小编曾经做过详细的介绍。这是一段几乎看过的人都觉得值回票价的精彩表演！
 
 ![📝強烈建議觀看擁有夕陽相伴的第一場，自然美景和Kacak 表演內容融合在一起，半夢半醒之間💭，非常有意義](https://images.gobaligo.id/vocus/vocus_6c9a483035b9e7089425c30954218809.jpg)
 
 📝强烈建议观看拥有夕阳相伴的第一场，自然美景和Kacak表演内容融合在一起，半梦半醒之间💭，非常有意义
 
-想去看火舞表演的朋友，可以参考下面Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
+想去观看火舞表演的朋友，可以参考下面Klook上颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
 
 - [中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
 - [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
@@ -226,19 +228,19 @@ Kelly's Warung位于海滩边，高性价比免入场费，提供了无敌的海
 - 无论男女，只要下半身服装不及膝，就要围上沙龙（Sarong），如果服装及膝，只需绑上带子，现场免费提供
 - 观看火舞，如果想跟表演者（猴王）互动，可选两侧栏杆旁位子
 - 建议使用Klook预先购买火舞票，免现场排队！
-- 入园区门票需要现场购买，切记最好不要当场抵达才购买火舞票，买完再去跟断崖拍照，因为真的会大客满！
+- 入园门票需要现场购买，切记最好不要当场抵达才购买火舞票，买完再去跟断崖拍照，因为真的会大客满！
 
 {{block:uluwatu}}
 
 ## 回程 & 精彩预告
 
-回到就在 Beachwalk Shopping Center 里面的 Aloft Kuta 休息，这是一家非常适合我们一家四口的旅馆，新颖摩登，还有两张大床的房型。大家可以看看我第一天的游记【[Day1 住宿安排 Aloft Kuta、包车司机推荐](/zh-cn/blog/bali-family-trip-aloft-kuta/)】有比较详细的介绍。
+回到就在 Beachwalk Shopping Center 里面的 Aloft Kuta 休息，这是一家非常适合我们一家四口的旅馆，新颖摩登，还有两张双人床的房型。大家可以看看我第一天的游记【[Day1 住宿安排 Aloft Kuta、包车司机推荐](/zh-cn/blog/bali-family-trip-aloft-kuta/)】有比较详细的介绍。
 
 ![Aloft Kuta的兩張雙人床房型，還有一個mini bar](https://images.gobaligo.id/vocus/vocus_6caf8d830268f4376302459bd2d776f4.jpg)
 
 Aloft Kuta的两张双人床房型，还有一个mini bar
 
-▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) 
+▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f)
 
 此行乌鲁瓦图神庙/断崖/夕阳，我们的包车司机Gede形影不离地跟着我们，帮忙拍照外，深怕我们随身物品被猴子抢走，随时眼观四方切记！
 
@@ -246,7 +248,7 @@ Aloft Kuta的两张双人床房型，还有一个mini bar
 
 ![一個好的司機會帶你上天堂！Gede絕對值得推薦！！](https://images.gobaligo.id/vocus/vocus_37d821579400447ca7225351eae70b0d.jpg)
 
-一个好的司机会带你上天堂！Gede绝对值得推荐！！
+一个好司机会带你上天堂！Gede绝对值得推荐！！
 
 **司机的联系资料帮你放这边：**
 
@@ -255,7 +257,7 @@ Aloft Kuta的两张双人床房型，还有一个mini bar
 - WhatsApp : +62 8786 2004 094
 - HP : +62 81237 811 841
 
-下一集跟着我们体验冲浪的帅气与乐趣，还有初探乌布的精彩游记，敬请期待喔！
+下一集跟着我们体验冲浪的帅气与乐趣，还有初探乌布的精彩游记，敬请期待哦！
 
 完整游记已完结：
 

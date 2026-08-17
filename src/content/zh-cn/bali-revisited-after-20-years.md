@@ -17,13 +17,13 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_25a6fdd344b7bb14d9e066cba1704257.jpg'
 originalUrl: 'https://vocus.cc/article/66924c7ffd897800018dbe71'
 lang: zh-cn
-_srcHash: ceac8110c44d70f21eac3fa9f679fbb6
+_srcHash: 019dc670c892d53c46f41cf0a2cafdda
 ---
 > 以下内容由团友 [Hung Min Lin](https://www.facebook.com/share/p/UwFz9AAtUPVUetpY/?mibextid=A7sQZp) 提供给我们重新编排：
 
 **先说结论**：20 年后重游巴厘岛最大变化——**出租车费从 20 美元起跳降到 Gojek 叫车更亲民便捷**，但游客与人口增加超过 3 倍，交通拥堵也更严重（常态时速仅约 10 公里）。行程不赶时间时，建议把堵车当成欣赏沿途风景的机会。
 
-2024的6月底，我刚从巴厘岛回来，这次的旅行充满了回忆和惊喜。对我来说，这是第二次造访巴厘岛，第一次是为了考取Open Water潜水证照。那次的行程非常紧凑，因为潜水课程需要五天时间，没有多少时间去其他地方探索。然而，这次是和家人一起来，距离上次已经过去了二十年。巴厘岛的发展让我惊讶不已，不仅繁荣了许多，印尼人和游客的数量也比二十年前增加了三倍以上。以下是我们这次旅程中所经历的一些令人难忘的地点和事情：
+2024的6月底，我刚从巴厘岛回来，这次的旅行充满了回忆和惊喜。对我来说，这是第二次造访巴厘岛，第一次是为了考取Open Water潜水证照。那次行程非常紧凑，因为潜水课程需要五天时间，没有多少时间去其他地方探索。然而，这次是和家人一起来，距离上次已经过去了二十年。巴厘岛的发展让我惊讶不已，不仅繁荣了许多，印尼人和游客的数量也比二十年前增加了三倍以上。以下是我们这次旅程中所经历的一些令人难忘的地点和事情：
 
 ## 巴厘岛的交通情况
 
@@ -37,7 +37,7 @@ _srcHash: ceac8110c44d70f21eac3fa9f679fbb6
 
 ## 巴厘岛国际机场
 
-巴厘岛的机场已经是新的，非常美观。不过，由于容量依旧无法满足旺季的巨大人潮，check-in的过程可能需要花费很长时间，通常需要一小时以上。因此，建议在离开时要提早到机场进行check-in，以免耽误行程。
+巴厘岛的机场已经是新的，非常美观。不过，由于容量依旧无法满足旺季的巨大客流，check-in的过程可能需要花费很长时间，通常需要一小时以上。因此，建议在离开时要提早到机场进行check-in，以免耽误行程。
 
 > 2025/08新闻：[巴厘岛机场全新行李检查系统上线啦！](https://www.facebook.com/share/p/14Hjcko4sKG/)
 
@@ -79,13 +79,15 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ## 印尼料理
 
-导游Mr. Liega介绍我们去Warung Kampung餐厅享用印尼料理，这里的食物美味且价格便宜，现打榴莲汁一杯只需USD$1，让我们感受到当地的饮食文化。
+导游Mr. Liega介绍我们去Warung Kampung餐厅享用印尼料理，这里的食物美味且价格便宜，现打榴莲汁一杯只需1美元，让我们感受到当地的饮食文化。
 
 {{block:美食}}
 
 ## 巴厘岛动物园
 
-虽然动物园的门票价格较高，一个人需要USD$32以上，但进去后我们发现这里结合了巴厘岛特有的建筑设计，非常美丽。游园过程中，我们乘坐空调探索巴士，不必担心炎热的天气，非常舒适，这让我们觉得门票价格是值得的。
+虽然动物园的门票价格较高，一个人需要30多美元，但进去后我们发现这里结合了巴厘岛特有的建筑设计，非常美丽。游园过程中，我们乘坐空调探索巴士，不必担心炎热的天气，非常舒适，这让我们觉得门票价格是值得的。
+
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
 > [巴厘岛野生动物园门票这里买便宜](https://affiliate.klook.com/redirect?aid=116349&aff_adid=884608&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D680a239f77)
 
@@ -103,7 +105,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 买纪念品时，我们选择了Krisna，这里的花生和水果干既好吃又便宜，让人忍不住多买一些带回家。
 
-> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
+[> 【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/zh-cn/blog/bali-souvenirs-gift-guide/)
 
 ## 夜生活体验
 
@@ -111,17 +113,17 @@ HardRock Cafe Bali延续了印尼夜店的风格，每晚9:30有现场乐队表�
 
 ## 泛舟体验
 
-我们还参加了巴厘岛的泛舟活动，虽然价格较高，每人需近65美元，但包含本地餐点吃到饱。导游帮我们争取到八折优惠。虽然河水不至于太危险，但上下石阶需要一定体力，同行的76岁母亲也顺利完成了这次体验。
+我们还参加了巴厘岛的泛舟活动，虽然价格较高，每人需近USD$65，但包含本地餐点吃到饱。导游帮我们争取到八折优惠。虽然河水不至于太危险，但上下石阶需要一定体力，同行的76岁母亲也顺利完成了这次体验。
 
-[阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
+> [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
-[阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
 ## 佩尼达岛看魟鱼
 
 要去佩尼达岛Nusa Penida看魟鱼，最好前一天就去住岛上，如果住在其他地方如库塔，则需要一大早5点多起床。我们因为不想早起，最终放弃了这个行程。
 
-[> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)
 
 {{block:戶外}}
 
@@ -129,7 +131,7 @@ HardRock Cafe Bali延续了印尼夜店的风格，每晚9:30有现场乐队表�
 
 ![峇里島的文化](https://images.gobaligo.id/vocus/vocus_d2bcc00956186161b74a5936edb7dc14.png)
 
-在巴厘岛，家家户户都有自己的寺庙，墙上有很多美丽的石雕。导游Mr. Fovix解释，岛民每天要祈祷两次，家中的建筑不能比庙高，以示对神的尊敬。这也是为什么巴厘岛大部分地方都没有高楼的原因。
+在巴厘岛，家家户户都有自己的寺庙，墙上有很多美丽的石雕。导游Mr. Fovix解释说，岛民每天要祈祷两次，家里的建筑不能比寺庙高，以示对神的尊敬。这也是为什么巴厘岛大部分地方都没有高楼的原因。
 
 ## 总结
 

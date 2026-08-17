@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 21afc1d3156aeee5c7fa4653de7c0d9a
+_srcHash: f6566dcdd9a073ac45160c997465ceb6
 ---
 
 # 巴厘岛夜晚不打烊！四大必看神秀，亲子长辈都能玩得超尽兴
@@ -65,13 +65,13 @@ https://youtu.be/aKRNhsFdXRg?si=CJoU33qo0N8NP2Om
 
 **适合对象：喜欢热闹、华丽场景的家庭，小学以上孩子最买单**
 
-如果只能选一场秀，很多人会直接推 **Devdan——Treasure of the Archipelago**。这场位于努沙杜瓦的招牌晚宴秀，把印尼群岛文化浓缩成 90 分钟的豪华歌舞剧。
+如果只能选一场秀，很多人会直接推 **Devdan——Treasure of the Archipelago**。这场位于努沙杜瓦的招牌晚宴秀，把印尼群岛文化浓缩成90分钟的豪华歌舞剧。
 
 从苏门答腊的鼓舞、爪哇的优雅宫廷舞，到婆罗洲的丛林节奏，再到巴布亚的原始战舞，**搭配空中吊环、火焰特效、巨大道具和快速换装**，节奏明快，完全没有冷场。长辈会惊艳于服装的精致，孩子则被高空翻滚和突然喷出的火花吓得又笑又叫。
 
 **亲子友善亮点**：现场提供儿童座椅、表演前有互动暖场，结束后还能跟舞者合照，全家回忆满满。
 
-[【巴厘岛必看】Devdan Show 天谭秀全攻略：购票优惠、座位选择与印尼五大岛文化巡礼](/zh-cn/blog/devdan-show-nusa-dua/)
+[【巴厘岛必看】Devdan Show 天坛秀全攻略：购票优惠、座位选择与印尼五大岛文化巡礼](/zh-cn/blog/devdan-show-nusa-dua/)
 
 > > [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) [kkday购票](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/devdan-show-10759118?curr=IDR&locale=zh-HK&poiType=3&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
@@ -85,9 +85,9 @@ https://youtu.be/gpU1TEVLQjQ?si=y9u0QsfeX2ir4th4
 
 **适合对象：体力较好、喜欢户外氛围的家庭（建议 6 岁以上）**
 
-最后这场，是巴厘岛最经典、最难以复制的体验——**乌鲁瓦图悬崖火舞**。日落时分，坐在断崖旁的露天剧场，面对印度洋，看着几十位赤膊男子围成圈，发出“恰克～恰克～”的人声合唱，没有乐器，却震慑人心。
+最后这场，是巴厘岛最经典、最难以复制的体验——**乌鲁瓦图悬崖火舞**。日落时分，坐在断崖旁的露天剧场，面对印度洋，看着几十位赤膊男子围成圈，发出“恰克～恰克～”的人声合唱，没有乐器，却震撼人心。
 
-故事改编自《罗摩衍那》，猴军与魔王大战的高潮，最后由“火焰之舞”收尾——扮演猴子的舞者踏过燃烧的椰子壳，火花四溅，搭配悬崖下的浪涛声，连平时不爱看表演的爸爸都会拿出手手机狂拍。
+故事改编自《罗摩衍那》，猴军与魔王大战的高潮，最后由“火焰之舞”收尾——扮演猴子的舞者踏过燃烧的椰子壳，火花四溅，搭配悬崖下的浪涛声，连平时不爱看表演的爸爸都会拿出手机狂拍。
 
 **带长辈孩子的攻略**：
 
@@ -97,7 +97,7 @@ https://youtu.be/gpU1TEVLQjQ?si=y9u0QsfeX2ir4th4
 
 [Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
-> [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7692452023) [Kkday购票](https://www.kkday.com/zh-tw/product/129108-uluwatu-kecak-fire-dance-ticket-bali-indonesia?qs=kecak&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-HK&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
+[> [Klook购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D7692452023) [Kkday购票](https://www.kkday.com/zh-tw/product/129108-uluwatu-kecak-fire-dance-ticket-bali-indonesia?qs=kecak&cid=25072) [Trip购票](https://hk.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-HK&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18064230)
 
 {{block:uluwatu}}
 
@@ -137,10 +137,12 @@ https://www.instagram.com/reel/DXOd_lRAfrM/?utm_source=ig_web_button_share_sheet
 | Kecak 火舞 | 震撼、原始 | 6岁以上 | 户外、需步行阶梯 |
 | GWK 巴龙舞 | 传统、欢乐 | 3岁以上 | 可搭配园区半日游 |
 
+> 💰 **想一次比完四场的票价？** **[巴厘岛门票票价总表](/zh-cn/tickets/)** 把这几个秀跟其他热门景点的参考价都放在同一页（进去后点「☕ 休闲」看秀类、「🎭 文化园区」看 GWK），不用一篇一篇文章找链接。
+
 ***
 
 https://youtube.com/shorts/ujiqwWnqfgc
 
-不管你选哪一场，巴厘岛的文化魅力都会用最热情的方式，为你的家族旅行写下难忘回忆。**小提醒**：旺季记得提前在线购票，并确认各场次时间——因为这些神秀，可是会让全家老小都心甘情愿放弃沙滩，准时入座的喔！🌺
+不管你选哪一场，巴厘岛的文化魅力都会用最热情的方式，为你的家族旅行写下难忘回忆。**小提醒**：旺季记得提前线上购票，并确认各场次时间——因为这些神秀，可是会让全家老小都心甘情愿放弃沙滩，准时入座的喔！🌺
 
 {{block:klook}}

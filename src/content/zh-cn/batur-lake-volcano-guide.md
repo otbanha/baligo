@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781677272545-batur_lake.jpg'
 originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 lang: zh-cn
-_srcHash: 6dbcbc21b493c391fd93d8032951a469
+_srcHash: 5efaca7f9c0f5b38d4bff6dab3e0280e
 ---
 <a href="/map/kintamani/" style="display:block;background:linear-gradient(135deg,#ff6b35,#f7c948,#2ec4b6);color:#fff;font-size:1.1rem;font-weight:700;text-align:center;padding:14px 20px;border-radius:12px;text-decoration:none;margin-bottom:24px;letter-spacing:0.03em;box-shadow:0 4px 16px rgba(0,0,0,0.18);">🗺️ 金塔马尼 × 巴杜尔火山 互动地图 ── 景点、咖啡厅、温泉一图掌握 →</a>
 
@@ -62,6 +62,8 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 这里游客相对稀少，氛围极度清幽宁静，非常适合喜欢探索秘境、远离尘嚣的旅人。特别是在清晨或黄昏时分造访，更能感受到这座寺庙的精妙之处。
 
 **门票信息：** 约为 20,000 至 25,000 印尼盾（约 USD$1-2）
+
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
 
 ## **徒步登山或日出吉普车之旅**
 
@@ -121,13 +123,13 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 若说巴厘岛的灵魂藏在火山与湖泊之间，那么巴杜尔湖的气质，则藏在一间间面向湖光的咖啡馆里。
 
-以下是我们精选的**数十家巴杜尔湖景咖啡馆**，无论想享受宁静时光还是拍出完美照片，都能找到你的角落。
+以下是我们精选的**数十家巴杜尔湖景咖啡厅**，无论想享受宁静时光还是拍出完美照片，都能找到你的角落。
 
-**快速参考：**[巴厘岛金塔马尼13大景观火山咖啡馆/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
+**快速参考：**[巴厘岛金塔玛尼13大景观火山咖啡厅/餐厅推荐 🌄☕](/zh-cn/blog/kintamani-volcano-cafes-restaurants/)
 
 ***
 
-## 金塔马尼山林游乐场 The Grand Lagunas
+## 金塔玛尼山林游乐场 The Grand Lagunas
 
 ![金塔瑪尼山林遊樂場 The Grand Lagunas](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
@@ -155,7 +157,7 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 ## **交通与小建议**
 
-- 乌布出发约需1.5小时车程。可包车或参加行程。
+- 从乌布出发约需1.5小时车程。可包车或参加行程。
 - 干季（5–10月）天气稳定，是最佳拍照季节。
 - 记得携带外套与防晒用品，山区气候多变。
 
@@ -171,11 +173,11 @@ https://www.instagram.com/reel/DZpFHr_Bedh/?utm_source=ig_web_copy_link&igsh=NTc
 
 非常适合！有专业司机，全程安全又刺激。
 
-**3. 皇家松根游轮需要提前预订吗？**
+**3.皇家松根游轮需要提前预订吗？**
 
 建议提前预约，特别是旺季期间。可通过旅游平台或官方网站订票。
 
-**4. 哪间咖啡厅最适合拍照？**
+**4.哪家咖啡厅最适合拍照？**
 
 我们推荐的每一家都很赞！
 

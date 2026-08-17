@@ -1,13 +1,8 @@
 ---
-title: >-
-  ⭐⭐【Lebaran/Libur Panjang Tanpa Kenaikan Harga】Mewah 6 Hari 5 Malam di
-  Bali｜AYANA + Taman Safari + Villa Ubud｜Early Bird USD$801⭐⭐
+title: '⭐⭐【過年/連假不加價】峇里島奢華6天5夜｜AYANA＋野生動物園＋烏布Villa｜早鳥 NT$24,833⭐⭐'
 slug: family-ayana-tour
 description: >-
-  Paket mewah 6 hari 5 malam di Bali, menginap di AYANA, hotel Taman Safari, dan
-  Villa kolam renang pribadi di Ubud. Nikmati pengalaman pilihan seperti sunset,
-  gunung berapi, sawah terasering, SPA, dan lainnya. Promo early bird
-  USD$801/orang, tanpa kenaikan harga saat libur panjang!
+  峇里島奢華6天5夜行程，入住AYANA艾雅娜、野生動物園飯店及烏布私人泳池Villa，享夕陽、火山、梯田、SPA等精選體驗，早鳥優惠NT$24,833／人，連假不加價！
 pubDate: 2026-08-08T00:00:00.000Z
 updatedDate: 2026-08-08T00:00:00.000Z
 pubHour: 22
@@ -35,237 +30,240 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: 7418600e6e7b6c071255dfbbf6658ff1
+_srcHash: PENDING_RETRY_5fa5c829b3ff4f21284db20679e24ed0
+_translateAttempts: 1
 ---
 
-# Mewah 6 Hari 5 Malam di Bali｜AYANA × Taman Safari × Villa Kolam Renang Pribadi Ubud
+# 峇里島奢華 6 天 5 夜｜AYANA × 野生動物園 × 烏布私人泳池 Villa
 
-## 🐦 Promo Early Bird Terbatas｜Pesan Sekarang, USD$801/orang
+## 🐦 早鳥限定優惠｜現在預訂，NT$24,833／人
 
-Mau harga lebih hemat, nginep di AYANA, hotel Taman Safari, dan Villa kolam renang pribadi di Ubud?
+想用更優惠的價格，入住 AYANA 艾雅娜、野生動物園飯店與烏布私人泳池 Villa？
 
 Sekarang ada **promo early bird spesial**!
 
-Kalau kamu lagi cari liburan Bali yang **nggak perlu buru-buru ke sana kemari, tapi tiap hari ada momen seru**, paket **6 hari 5 malam mewah** ini worth it banget buat dipertimbangkan.
+Kalau kamu lagi cari liburan ke Bali yang 'gak perlu buru-buru ke sana kemari, tapi tiap hari tetap ada momen seru', trip **6 hari 5 malam mewah** ini layak banget dipertimbangkan.
 
-Dari resort mewah terkenal di Bali, nginep seru bareng satwa liar, sampai Villa kolam renang pribadi di Ubud yang dikelilingi hutan tropis — perjalanan ini merangkum **pantai, sunset, satwa liar, air terjun, gunung berapi, sawah terasering, SPA, dan kuliner** dalam satu paket.
+Dari resort mewah terkenal di Bali, sampai penginapan unik yang bisa nginep bareng satwa liar, plus villa pribadi dengan kolam renang di Ubud yang dikelilingi hutan tropis — perjalanan ini merangkum **pantai, sunset, satwa liar, air terjun, gunung berapi, sawah terasering, SPA, dan kuliner** dalam satu paket lengkap banget.
 
-Dan nggak perlu bangun pagi-pagi buat kejar tempat wisata, bikin kamu benar-benar menikmati 'liburan di Bali'.
+Dan nggak perlu bangun pagi tiap hari buat kejar-kejar tempat wisata, bikin kamu beneran menikmati vibe 'liburan ke Bali'.
 
-> ※ Urutan tempat dan aktivitas di bawah hanya referensi, penyesuaian bisa dilakukan tergantung kondisi lalu lintas, cuaca, dan situasi tempat wisata.
+> ※ Urutan tempat wisata dan aktivitas di bawah ini hanya sebagai referensi. Penyesuaian bisa dilakukan sesuai kondisi lalu lintas, cuaca, dan situasi tempat wisata setempat.
 
-## 🏨 Tiga Pengalaman Menginap Mewah, Rasakan Sisi Lain Bali
+## 🏨 Tiga Gaya Menginap Mewah, Rasakan Bali yang Benar-Benar Berbeda
 
-Salah satu keunikan perjalanan ini adalah kamu bisa menginap di tiga tempat yang benar-benar berbeda.
+Salah satu keunikan terbesar perjalanan ini adalah menginap di tiga pengalaman akomodasi yang sangat berbeda.
 
 ### 🌴 AYANA Resort｜Kemewahan Klasik ala Bali
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173578272-c64e66d592a7be20d6c9cf2f79c26bd5.jpg)
 
-Pas ke Bali, jangan sampai kelewatan **AYANA Resort** yang legendaris ini.
+Pas ke Bali, jangan sampai kelewatan **AYANA Resort** yang terkenal banget.
 
-Resort besar di tepi pantai Jimbaran ini terkenal dengan pemandangan laut yang spektakuler, pantai pribadi, banyak kolam renang, dan fasilitas liburan yang lengkap.
+Resor besar di tepi pantai Jimbaran ini terkenal dengan pemandangan laut yang spektakuler, pantai pribadi, banyak kolam renang, dan fasilitas liburan yang lengkap.
 
-Selama menginap, kamu bisa menikmati waktu sendiri tanpa harus keluar resort.
+Selama menginap, kamu bisa menikmati waktu sendiri, nggak perlu selalu keluar.
 
-Siang hari, nikmati fasilitas resort yang lengkap, kolam renang, dan pantai. Sore harinya, mampir ke **Rock Bar** yang terkenal, sambil menikmati matahari terbenam di Samudra Hindia ditemani minuman dan makan malam.
+Siang hari nikmati fasilitas resor yang lengkap, kolam renang, dan pantai, sore harinya mampir ke **Rock Bar** yang legendaris, sambil menikmati matahari terbenam di Samudra Hindia ditemani minuman dan makan malam.
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173673189-rock-bar-sunset.jpg)
 
-Kalau kamu tipe yang merasa 'nginap di hotel itu sudah bagian dari liburan', AYANA pasti jadi highlight perjalanan ini.
+Kalau kamu tipe yang suka 'nginep di hotel itu sendiri sudah jadi bagian dari perjalanan', AYANA pasti jadi highlight utama trip ini.
 
 ### 🦁 Bali Safari & Marine Park Hotel｜Menginap di Dunia Satwa yang Fantastis
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173757836-1774321934411.jpg)
 
-Selanjutnya, kita beralih ke pengalaman liburan yang benar-benar berbeda.
+Selanjutnya, kita ganti suasana dengan pengalaman traveling yang benar-benar beda.
 
-Menginap di **Bali Safari & Marine Park Hotel** bukan sekadar hotel biasa — kebun binatangnya langsung jadi latar liburan kamu.
+Menginap di **Bali Safari & Marine Park Hotel**, bukan sekadar hotel biasa — tapi bikin 'taman safari' jadi latar liburan kamu.
 
-Siang hari bisa naik tram keliling taman, nonton pertunjukan satwa, bahkan main ke water park buat ngadem. Malamnya, bisa ikut Night Safari buat eksplorasi satwa di kegelapan.
+Siang hari bisa naik mobil keliling taman, nonton pertunjukan satwa, bahkan main ke water park buat ngadem. Malamnya, bisa ikut Night Safari buat eksplorasi satwa di malam hari.
 
-Kalau budget cukup, bisa upgrade ke pengalaman spesial seperti lihat dari dekat atau kasih makan kucing besar.
+Kalau budget cukup, bisa upgrade ke pengalaman spesial, misalnya lihat dari dekat atau kasih makan kucing besar.
 
-Atau bisa pilih **Varuna Deluxe Package** yang menggabungkan akuarium, dinner dengan pemandangan, dan pertunjukan tematik.
+Selain itu, bisa pilih **Varuna Deluxe Package**, yang menggabungkan akuarium, makan malam dengan pemandangan, dan pertunjukan tematik.
 
-Pengalaman 'siang lihat satwa, malam nginep di dekat kebun binatang' ini cocok banget buat keluarga dengan anak-anak.
+Pengalaman 'siang lihat satwa, malam tidur di dekat kebun binatang' ini cocok banget buat keluarga dengan anak-anak.
 
 ### 🌿 Villa Kolam Renang Pribadi di Ubud｜Nikmati Malam Terakhir Sendiri
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173803582-642076904.jpg)
 
-Dari pesisir yang ramai dan kebun binatang, lanjut ke Ubud yang hijau dan asri.
+Dari pantai yang ramai dan taman safari, kamu bakal pindah ke Ubud yang hijau dan asri.
 
-Menginap di **Villa dengan kolam renang pribadi** yang dikelilingi alam, rasanya beda banget dari vibe Bali yang lain.
+Menginap di **Villa dengan kolam renang pribadi** yang dikelilingi alam, nikmati suasana Bali yang beda banget.
 
-Gak ada hiruk-pikuk resort besar, lebih banyak ruang pribadi buat kamu.
+Gak ada keramaian resort besar, lebih banyak ruang pribadi buat kamu.
 
-Pagi bisa bangun siang, sarapan dan berenang di villa. Malamnya, bisa BBQ di tepi kolam atau nikmati Aroma SPA di dalam villa.
+Pagi bisa bangun siang, sarapan dan berenang di villa. Malamnya, bisa BBQ di tepi kolam, atau nikmati Aroma SPA di dalam villa.
 
-Ini juga yang bikin trip ini keren banget menurutku — paruh pertama seru abis, paruh kedua makin santai.
+Ini juga yang menurutku jadi desain keren dari perjalanan ini—paruh pertama seru banget, paruh kedua makin santai pelan-pelan.
 
-## 🌅 Sunset di Pantai Kuta + Makan Seafood Raksasa
+## 🌅 Pantai Kuta saat Sunset + Seafood Raksasa
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786175282916-kuta-beach1.webp)
 
-Sesampainya di Bali, kita mulai dengan mode liburan pantai paling klasik.
+Sesampainya di Bali, kita mulai dengan mode liburan pantai paling klasik dulu.
 
-Setelah dijemput dari bandara, ada mobil pribadi yang anter buat tukar uang, lalu jalan-jalan ke Kuta — lihat-lihat pasar seni, jalan-jalan di pantai.
+Setelah dijemput dari bandara, disiapkan mobil pribadi buat bantu tukar uang, lalu jalan-jalan ke area Kuta lihat pasar seni dan pantai.
 
-Kalau waktunya pas sore, Pantai Kuta cocok banget buat jalan santai sambil lihat sunset.
+Kalau waktunya pas sore, Pantai Kuta cocok banget buat jalan santai sambil lihat matahari terbenam.
 
-Makan malam bisa pesen seafood raksasa, biar malam pertama langsung kerasa vibes liburan Bali.
+Makan malam bisa pesan seafood raksasa, biar malam pertama langsung terasa suasana liburan Bali yang kental.
 
-Abis makan, mampir ke supermarket buat beli camilan, minuman, dan perlengkapan perjalanan, lalu balik ke AYANA buat istirahat.
+Abis makan, mampir ke supermarket buat beli camilan, minuman, dan kebutuhan perjalanan, lalu balik ke AYANA buat istirahat.
 
 ## 🍹 Full Day di AYANA + Sunset di Rock Bar
 
-Kalau nginep di AYANA, beneran nggak perlu tiap hari isi jadwal penuh.
+Kalau nginep di AYANA, beneran nggak perlu tiap hari isi jadwal penuh tempat wisata.
 
-Trip ini sengaja ngasih waktu bebas yang cukup, biar tamu bisa beneran nikmatin resort.
+Perjalanan ini sengaja kasih waktu bebas yang utuh, biar kamu bisa menikmati resort dengan maksimal.
 
-Banyak kolam renang, pantai pribadi, dan berbagai fasilitas di resort bisa kamu nikmati sesuai keinginan sendiri.
+Banyak kolam renang, pantai pribadi, dan berbagai fasilitas di resort bisa kamu nikmati sesuai ritme sendiri.
 
 Menjelang sore, mampirlah ke salah satu bar sunset paling ikonik di Bali — **Rock Bar**.
 
-Duduk di tepi tebing sambil melihat matahari perlahan tenggelam ke Samudra Hindia, inilah yang banyak orang bayangkan sebagai 'liburan Bali'.
+Duduk di tebing dengan pemandangan laut, lihat matahari perlahan tenggelam ke Samudra Hindia — inilah yang disebut 'liburan Bali' versi banyak orang.
 
 https://www.instagram.com/reel/Dacl3-jzsmx/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
-Biaya makan bisa diatur sendiri sesuai kebutuhan masing-masing.
+Biaya makan dan minum bisa diatur sendiri sesuai kebutuhan.
 
-> Referensi cepat: [Sekali Lihat Semua Keunggulan Ayana Bali](https://gobaligo.id/id/blog/ayana-resort-bali-guide/)
+> Referensi cepat: [Sekali Baca, Paham Semua Keunggulan Ayana Bali](https://gobaligo.id/id/blog/ayana-resort-bali-guide/)
 
-## 🦒 Taman Safari Bali: Seru di Siang, Lebih Seru di Malam
+## 🦒 Taman Safari Bali: Seru di Siang, Makin Seru di Malam
 
-Selain akomodasinya, taman safari ini juga jadi salah satu spot paling unik di perjalanan ini.
+Selain akomodasi, taman safari ini jadi salah satu spot paling unik di perjalanan.
 
-Siang hari kamu bisa naik wahana keliling taman, nonton pertunjukan satwa yang keren, dan kalau cuaca panas, ada juga water park buat main air.
+Siang hari kamu bisa naik tram keliling area, lihat pertunjukan satwa yang keren, dan kalau cuaca panas, main ke water park juga oke.
 
-Biar makin spesial, wajib banget tambahin paket **Night Safari — Petualangan Jelajah Safari Malam**.
+Biar makin spesial, recommended banget tambah paket **Night Safari — Eksplorasi Taman Safari Malam Hari**.
 
-> Panduan Cepat: [Panduan Safari Malam di Bali Safari Park](https://gobaligo.id/id/blog/bali-safari-night-experience/)
+> Referensi cepat: [Panduan Safari Bali](https://gobaligo.id/id/blog/bali-safari-night-experience/)
 
 ### Paket Tambahan Night Safari
 
 https://www.instagram.com/reel/DbiIYdLuuQW/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
-**Dewasa USD$71 / Anak (di bawah 12 tahun) USD$58**
+**Dewasa USD$71 / Anak-anak (di bawah 12 tahun) USD$58**
 
 Termasuk:
 
-- Eksplorasi malam Night Safari
+- Night Safari petualangan malam
 - Makan malam yang mengenyangkan
 - Pertunjukan tari budaya Bali
 
-Alternatif lainnya:
+Pilihan lainnya:
 
 ### Paket Varuna Deluxe
 
 https://www.instagram.com/reel/DahPwPDxUpq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-**Dewasa USD$58 / Anak (di bawah 12 tahun) USD$39**
+**Dewasa USD$58 / Anak-anak (di bawah 12 tahun) USD$39**
 
-Termasuk: 
+Termasuk:
 
 - Tiket masuk akuarium
 - Makan malam dengan pemandangan
 - Pertunjukan spektakuler bertema
 
-Kalau kamu traveling sama anak-anak, aku lebih rekomendasiin buat ngambil paket lengkap pengalaman safari, karena kegiatan kayak gini jarang banget bisa kamu temuin di trip Bali biasa.
+Kalau kamu traveling bareng keluarga, aku lebih saranin buat nikmatin pengalaman safari hewan secara utuh, karena kegiatan kayak gini jarang banget bisa kamu temuin di itinerary liburan Bali biasa.
 
 ## 💦 Air Terjun Hidden Gem + Wisata Budaya Ubud
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174070701-omma.webp)
 
-Pas di Ubud, sayang banget kalau cuma diem di Villa doang.
+Pas di Ubud, masa iya cuma diem di Villa doang?
 
-Tegenungan Waterfall adalah salah satu air terjun paling hits di Bali, dan di sekitarnya juga ada banyak spot foto yang kece.
+Tegenungan Waterfall adalah salah satu air terjun paling hits di Bali, dan di sekitarnya juga ada banyak spot foto yang kece abis.
 
-Di sebelahnya ada **Omma Dayclub Bali** yang menggabungkan pemandangan air terjun dengan vibe resort — kamu bisa duduk santai, ngemil, atau nyobain ayunan ketinggian (bayar sendiri ya).
+Di sampingnya ada **Omma Dayclub Bali** yang menggabungkan pemandangan air terjun dengan suasana resort. Kamu bisa duduk santai, ngemil, atau kalau mau bisa bayar sendiri buat naik ayunan ketinggian.
 
 https://youtube.com/shorts/BBIXmPYUPZo
 
-Setelah itu, lanjut ke pusat kota Ubud buat jalan-jalan ke **Ubud Palace & Pasar Tradisional Ubud**, biar makin ngerasain seni dan budaya asli Bali.
+Setelah itu, lanjut jalan ke pusat kota Ubud, mampir ke **Puri Ubud dan Pasar Tradisional Ubud**, biar makin kerasa seni dan budaya Bali.
 
 Malamnya balik ke private Villa, udah ada chef pribadi yang siapin BBQ di pinggir kolam renang.
 
-Dari air terjun, budaya, sampai dinner private di Villa, kamu bisa merasakan sisi Bali yang benar-benar berbeda dalam satu hari.
+Dari air terjun, budaya, sampai dinner di private Villa — dalam sehari kamu bisa ngerasain sisi Bali yang beda banget.
 
-## 🌋 Gunung Batur Kintamani + Kolam Renang di Tengah Sawah
+## 🌋 Gunung Batur Kintamani + Kolam Renang Sawah Hutan
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174277169-569875423.jpg)
 
-Bali nggak cuma soal pantai.
+Bali nggak cuma pantai aja.
 
-Ke area Kintamani, kamu bisa lihat pemandangan gunung berapi dan danau yang megah dari ketinggian, sambil makan siang dan menikmati pemandangan pegunungan paling ikonik di Bali.
+Ke daerah Kintamani, kamu bisa lihat pemandangan gunung berapi dan danau yang megah dari ketinggian, sambil makan siang dan nikmatin pemandangan pegunungan paling ikonik di Bali.
 
-Setelah itu, lanjut ke **Alas Harum Bali / Cretya Ubud**, yang menggabungkan 'sawah terasering + kolam renang + hutan' dalam satu destinasi.
+Abis itu lanjut ke **Alas Harum Bali / Cretya Ubud**, dijamin langsung dapet paket lengkap 'sawah terasering + kolam renang + hutan' dalam satu perjalanan.
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174441284-cretyaubud_into-the-pool-and.jpg)
 
-Tempat ini sangat cocok buat foto-foto, dan juga pas buat ngisi sore yang santai.
+Tempat ini wajib banget buat foto-foto, cocok juga buat ngisi sore yang santai.
 
-Terus pas balik ke Villa, kamu masih bisa menikmati **60 menit Aroma SPA**.
+Dan setelah kembali ke Villa, kamu bisa menikmati **Aroma SPA selama 60 menit**.
 
-Kalau beberapa hari sebelumnya kamu sudah banyak jalan-jalan, SPA di sini bikin perjalanan jadi jauh lebih nyaman.
+Kalau beberapa hari sebelumnya sudah banyak jalan-jalan ke tempat wisata, momen SPA ini bikin seluruh perjalanan terasa jauh lebih nyaman.
 
-# ✈️ Hari Terakhir｜Bangun Siang, Beli Oleh-Oleh, Lalu ke Bandara
+# ✈️ Hari Terakhir｜Bangun Siang Sepuasnya, Beli Oleh-Oleh Lalu ke Bandara
 
-Di hari terakhir perjalanan, nggak usah bikin jadwal yang terlalu padat.
+Di hari terakhir perjalanan, nggak perlu jadwal yang padat.
 
-Pagi harinya kamu bisa bangun siang santai, nikmati fasilitas private pool Villa, lalu check-out.
+Pagi hari bisa bangun siang sepuasnya, nikmati fasilitas private pool Villa, lalu check-out.
 
-Setelah itu, lanjut ke **Icon Mall 濱海購物廣場** yang baru dibuka buat jalan-jalan dan belanja, sekalian makan siang.
+Setelah itu, jalan-jalan ke **Icon Mall滨海购物广场** yang baru dibuka, sambil makan siang.
 
-Terakhir, diantar oleh mobil pribadi ke Bandara Internasional Ngurah Rai Bali, siap pulang kampung dengan penuh kenangan dan oleh-oleh.
+Terakhir, diantar mobil pribadi ke Bandara Internasional Ngurah Rai Bali, siap pulang dengan penuh kenangan dan oleh-oleh.
 
-> ※ Jadwal kunjungan ke Icon Mall akan disesuaikan secara fleksibel tergantung kondisi lalu lintas, jam operasional, dan situasi perjalanan hari itu; biaya makan siang ditanggung sendiri.
+> ※ Jadwal ke Icon Mall bisa disesuaikan dengan kondisi lalu lintas, jam operasional, dan situasi hari itu; biaya makan siang ditanggung sendiri.
 
-# ✨ Satu Perjalanan, Tiga Cara Seru Menikmati Bali
+# ✨ Satu Perjalanan, Tiga Cara Menikmati Bali
 
-Yang paling spesial dari itinerary 6 hari 5 malam ini bukanlah 'berapa banyak tempat yang dikunjungi', tapi bagaimana menggabungkan beberapa gaya traveling paling ikonik di Bali jadi satu paket.
+Yang paling spesial dari trip 6 hari 5 malam ini bukanlah 'berapa banyak tempat yang dikunjungi', tapi bagaimana menggabungkan beberapa gaya traveling paling ikonik di Bali jadi satu.
 
-🌴 **AYANA** — Nikmati resort tepi pantai kelas atas
+🌴 **AYANA 阿雅娜** —— Nikmati Resor Pemandangan Laut Kelas Atas
 
-🦁 **Hotel Safari** — Rasakan pengalaman liburan fantastis tidur bareng satwa liar
+🦁 **Hotel Safari** —— Rasakan Liburan Fantastis Tidur Bersama Satwa Liar
 
-🌿 **Private Pool Villa di Ubud** — Nikmati ruang pribadi di tengah suasana hutan
+🌿 **Villa Kolam Renang Pribadi di Ubud** —— Nikmati Ruang Pribadimu di Tengah Hutan
 
-🌅 **Pantai Kuta + Rock Bar** — Saksikan sunset klasik Bali yang legendaris
+🌅 **Pantai Kuta + Rock Bar** —— Saksikan Matahari Terbenam Klasik Bali
 
-💦 **Air Terjun + Kolam Hutan** — Nikmati pemandangan alam Bali yang asli
+💦 **Air Terjun + Kolam Renang Hutan** —— Rasakan Keindahan Alam Bali
 
-🌋 **Gunung Batur Kintamani** — Lihat pemandangan gunung yang megah
+🌋 **Gunung Batur Kintamani** —— Nikmati Pemandangan Gunung yang Megah
 
-💆 **Villa Aroma SPA** — Bikin perjalananmu benar-benar slow down
+💆 **Villa Aroma SPA** —— Biarkan Perjalananmu Benar-benar Santai
 
-🍖 **BBQ Chef Villa** — Nikmati makan malam eksklusif di samping kolam pribadi
+🍖 **BBQ Koki Pribadi Villa** —— Nikmati Makan Malam Eksklusif di Tepi Kolam Renang Pribadi
 
-Kalau kamu nggak mau yang 'dari pagi sampai malam terus jalan', tapi **pengin nginep enak, makan enak, pemandangan bagus, plus ada pengalaman spesial**, paket ini bakal jadi cara main di Bali yang super nyaman.
+Kalau kamu nggak mau 'dari pagi sampai malam terus jalan-jalan', tapi **pengin nginep enak, makan enak, pemandangan bagus, plus ada pengalaman spesial**, paket ini bakal jadi cara main Bali yang super nyaman.
 
 ## 🎉 Harga Early Bird Spesial｜USD$801/orang
 
-**Periode Early Bird:** Mulai sekarang sampai **30 September 2026**
+**Periode Early Bird:** Mulai hari ini sampai **30 September 2026**
 
-**Periode Keberangkatan:** Mulai sekarang sampai **Desember 2027**
+**Periode Keberangkatan:** Mulai hari ini sampai **Desember 2027**
 
-🔥 **Masa berlaku super panjang, libur nasional nggak kena biaya tambahan!**
+🔥 **Masa berlaku super panjang, libur panjang tanpa biaya tambahan!**
 
-※ Kuota early bird terbatas, tanggal dan tipe kamar yang tersedia tergantung konfirmasi saat pemesanan.
+※ Kuota early bird terbatas, ketersediaan tanggal dan tipe kamar dikonfirmasi saat pemesanan.
 
-## 📌 Layanan & Penjelasan Paket
+## 📌 Layanan & Detail Paket
 
-Harga spesial paket ini mulai dari **USD$801/orang**, sudah termasuk mobil pribadi, itinerary, dan harga spesial akomodasi, **tidak termasuk tiket pesawat internasional**. Tiket bisa kamu beli sendiri, atau minta bantuan CS kami untuk memesankannya secara gratis.
+Harga promo paket ini mulai dari **USD$801/orang**, sudah termasuk mobil pribadi, itinerary, dan diskon akomodasi, **tidak termasuk tiket pesawat internasional**. Tiket bisa kamu beli sendiri atau dibantu pesan gratis oleh customer service.
 
-Harga ini adalah **harga cash spesial untuk 2 orang**; kalau jumlah orang beda atau ada anak tanpa tempat tidur, bisa hubungi kami untuk penawaran khusus.
+Harga ini adalah **harga cash promo untuk 2 orang**; untuk jumlah tamu berbeda atau anak tanpa tempat tidur, bisa hubungi kami untuk diskon khusus.
 
-⚠️ **Setelah pemesanan akomodasi, tidak bisa dibatalkan atau diubah**; untuk mobil pribadi, tempat wisata, tiket masuk, dan beberapa itinerary bisa disesuaikan sesuai kebutuhan. Penyesuaian tergantung ketersediaan, lalu lintas, dan cuaca.
+⚠️ **Setelah pemesanan akomodasi, tidak bisa dibatalkan atau diubah**; layanan mobil pribadi, tempat wisata, tiket masuk, dan sebagian itinerary bisa disesuaikan sesuai kebutuhan. Penyesuaian tergantung ketersediaan, lalu lintas, dan cuaca.
 
-### ✈️ Mau dapat harga early bird?
+> 💰 Mau tahu referensi harga tiket tempat wisata lainnya? **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** sudah merangkum referensi harga real-time dari 49 tempat populer, lengkap dengan link perbandingan harga Klook / Trip.com.
 
-**Kuota terbatas, isi formulir pendaftaran di bawah, biar CS kami bantu cek tanggal keberangkatan dan promo spesial buat kamu! 👇**
+### ✈️ Mau rebut promo early bird?
 
-<iframe src="/forms/luxury-family-trip-form.html" width="100%" style="border:none; min-height:1400px;" title="Bali Luxury Family Trip Bali Liburan Mewah Keluarga"></iframe>
+**Kuota terbatas, isi formulir di bawah ini, biarkan customer service kami konfirmasi tanggal keberangkatan dan promo untukmu! 👇**
+
+<iframe src="/forms/luxury-family-trip-form.html" width="100%" style="border:none; min-height:1400px;" title="Bali Luxury Family Trip 峇里島奢華親子遊"></iframe>
 
 {{block:isbali2}}

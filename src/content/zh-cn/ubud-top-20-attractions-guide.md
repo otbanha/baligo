@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_474e842e30763c2e08fb64ae53b821a1.jpg'
 originalUrl: 'https://vocus.cc/article/669fc2a7fd89780001321901'
 lang: zh-cn
-_srcHash: ee576e5574a6c5e7a291fe29acd092b6
+_srcHash: d568b1b2d5fad4d3469444569cdffa3b
 ---
 **先讲结论**：第一次到乌布必去景点包括**圣泉寺、猴子森林、乌布皇宫、乌布市场、德格拉朗梯田**等，本文精选 **20 个景点/活动**，涵盖自然景观、文化体验与户外活动（漂流、ATV），适合安排 2-3 天深入了解乌布这座巴厘岛文化重镇。
 
@@ -40,7 +40,7 @@ _srcHash: ee576e5574a6c5e7a291fe29acd092b6
 
 ### 丰富的住宿选择
 
-乌布的旅游业由全面的住宿设施支撑，从便宜的旅馆到豪华的度假村一应俱全。无论你的预算如何，都能在乌布找到合适的住宿。可以参考底下的乌布住宿推荐：
+乌布的旅游业由全面的住宿设施支撑，从便宜的旅馆到豪华的度假村一应俱全。无论你的预算如何，都能在乌布找到合适的住宿。可以参考下面的乌布住宿推荐：
 
 ![豐富的住宿選擇](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
@@ -93,6 +93,8 @@ _srcHash: ee576e5574a6c5e7a291fe29acd092b6
 
 **乌布旅游套餐** 有些游客不想自己安排，会选择预订巴厘岛的旅游套餐，这些旅游套餐帮你把随行导游、交通接送、行程规划、景点门票、美味餐点...一次搞定!
 
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
+
 以下是几个高评价的乌布旅游套餐：
 
 ![烏布旅遊套餐包套行程](https://images.gobaligo.id/vocus/vocus_86bbbd863c5152326830e3cabfa63f41.jpg)
@@ -115,7 +117,7 @@ _srcHash: ee576e5574a6c5e7a291fe29acd092b6
 
 乌布猴子森林
 
-猴子森林是乌布必去的景点之一，位于一片保护森林内，森林中有许多茂密的大树和长尾灰猴。森林内还有一座名为Pura Dalem Agung Padangtegal的巴厘印度教寺庙。然而野生的猴子具有危险性，只要遵守园区的规则，如不要惊慌、避免跑动、不与雄性猴子对视等，就能确保安全。建议游览时间约1.5小时。
+猴子森林是乌布必访的景点之一，位于一片保护森林内，森林中有许多茂密的大树和长尾灰猴。森林内还有一座名为Pura Dalem Agung Padangtegal的巴厘印度教寺庙。然而野生的猴子具有危险性，只要遵守园区的规则，如不要惊慌、避免跑动、不与雄性猴子对视等，就能确保安全。建议游览时间约1.5小时。
 
 预订旅程：
 
@@ -137,7 +139,7 @@ _srcHash: ee576e5574a6c5e7a291fe29acd092b6
 
 ### 3. 乌布水皇宫 (Taman Saraswati Temple)
 
-这座寺庙是供奉智慧女神萨拉斯瓦蒂的地方，庙前有一个莲花池，周围有美丽的巴厘雕刻。每天晚上，这里还会有巴厘舞蹈表演。
+这座神庙是供奉智慧女神萨拉斯瓦蒂的地方，庙前有一个莲花池，周围有美丽的巴厘雕刻。每天晚上，这里还会有巴厘舞蹈表演。
 
 ### 4. 观看火舞表演 (Watch a Kecak Dance Performance)
 
@@ -154,7 +156,7 @@ _srcHash: ee576e5574a6c5e7a291fe29acd092b6
 
 ![5. 阿貢萊美術館 (Agung Rai Museum of Art (ARMA)](https://images.gobaligo.id/vocus/vocus_4f1ede73cfd2d1d8c2aa4cf499b92168.jpg)
 
-阿贡莱美术馆建在一片有起伏的地形上，拥有巴厘文化风格的花园设计，如莲花池和兰花植物。这是一个在乌布至少值得去一次的地方，数量惊人的巴厘风格艺术收藏。强烈推荐参观。虽然入场费不便宜，但值得停下来一次。有机会亲眼看到艺术家在创作。开放时间为09:00-18:00，门票价格为每人150,000印尼盾。
+阿贡莱美术馆建于一片有起伏的地形上，拥有巴厘文化风格的花园设计，如莲花池和兰花植物。这是一个在乌布至少值得去一次的地方，数量惊人的巴厘风格艺术收藏。强烈推荐参观。虽然入场费不便宜，但值得停下来一次。有机会亲眼看到艺术家在创作。开放时间为09:00-18:00，门票价格为每人150,000印尼盾。
 
 - [预订门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26840-arma-museum-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D93f8f734da)
 
@@ -193,7 +195,7 @@ _srcHash: ee576e5574a6c5e7a291fe29acd092b6
 
 ![9. 巖廟 (Gunung Kawi Cliff Temple)](https://images.gobaligo.id/vocus/vocus_9bacc76e3ee7526bb8196649a060b07d.jpg)
 
-岩庙是一座古老的寺庙，建在悬崖上，周围环境优美，有帕克利桑河的潺潺水声。开放时间为07:00-18:00。
+岩庙是一个古老的寺庙，建在悬崖上，周围环境优美，有帕克利桑河的潺潺水声。开放时间为07:00-18:00。
 
 预订行程：
 
@@ -207,7 +209,7 @@ Omma Dayclub 以其壮丽的瀑布景色而闻名。瀑布高约30米，游客�
 
 ### 11. D'Tukad River Club
 
-D'Tukad河畔俱乐部是位于Tegenungan Waterfall顶部的一个日间俱乐部，综合了树屋概念与令人叹为观止的自然景观。在这里，你可以尽情享受令人惊艳的秋千和游泳池。D'Tukad拥有360度瀑布景观，让你在用餐时同时欣赏到瀑布流水的壮观和自然的宏伟。
+D'Tukad河畔俱乐部是位于Tegenungan瀑布顶部的一个日间俱乐部，融合了树屋概念与令人叹为观止的自然景观。在这里，你可以尽情享受令人惊艳的秋千和游泳池。D'Tukad拥有360度瀑布景观，让你在用餐时同时欣赏到瀑布流水的壮观和自然的宏伟。
 
 预订一日游：
 
@@ -237,7 +239,7 @@ Klook特惠行程
 
 Cretya Ubud 是乌布区的一家豪华日间俱乐部，三层式的泳池极具特色，面对郁郁葱葱的德格拉朗梯田，坐拥壮丽的景色。
 
-Cretya Ubud 开放时间为每天上午8点至晚上9点。成人入场费为250,000印尼盾。
+Cretya Ubud 开放时间为每天上午 8 点至晚上 9 点。成人入场费为 250,000 印尼盾。
 
 - [旅游套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
 - [官网自行选位，有低消](https://alasharum.com/cretya-ubud/day-club/)
@@ -258,7 +260,7 @@ Cretya Ubud 开放时间为每天上午8点至晚上9点。成人入场费为250
 
 一个从乌布皇宫步行就可以轻易到达，被称为「乌布天空步道」的Campuhan Ridge Walk（詹普汉山脊步道）。它是一个隐藏在乌布市中心附近的宝藏，它给你带来了大自然的宁静和美丽风景。这条步道位于山脊上，提供壮观的360度居高临下的宽阔风景，远离城市的喧嚣。
 
-天空步道怎么去？花多少时间？最佳造访时段是什么？请看[小杰的详细介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
+天空步道如何去？花多少时间？最佳造访时段是什么？请看[小杰的详细介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
 
 ### 18. 乌布秋千 (Swing)
 

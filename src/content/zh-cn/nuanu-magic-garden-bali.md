@@ -18,9 +18,11 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: fdfca611b217ba95c8a6a882bccb073f
+_srcHash: 20d778da7901e9a8a1355f0987a6d6ed
 ---
 **先讲结论**：Magic Garden 位于海神庙附近，2024 年 11 月开幕，占地 3,600 平方米，门票仅 **IDR 150,000（约 USD$10）**，园内有兰花园、蝴蝶园与展示 400 多种珍稀植物的植物博物馆，适合带小孩安排半天的自然教育亲子行程。
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
 
 位于海神庙附近的 **Magic Garden（魔法花园）** 是2024年11月新开幕的自然公园，非常适合家庭与亲子游。这座占地3600平方米的景点拥有丰富的植物和多样的互动体验，既有教育意义又充满乐趣。
 
@@ -57,6 +59,6 @@ Magic Garden 是 Nuanu Creative City 的亮点之一，结合自然、教育与�
 
 ![更多Nuanu Creative City景點](https://images.gobaligo.id/vocus/vocus_de89c0659a8b1e6a5a4655d323f09222.jpg)
 
-Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经开始吸引全球创意人士，成为下一个必访热点！
+Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经吸引全球创意人士，成为下一个必访热点！
 
 Nuanu Creative City的景点攻略请看[这里](/zh-cn/blog/nuanu-creative-city-luna-guide/)

@@ -1,7 +1,7 @@
 ---
 slug: kecak-fire-dance-bali
 title: Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）
-description: 如果你去到巴厘岛，千万不要错过在巴厘岛的Kecak Dance卡恰火舞表演！这是个会让你终身难忘的精彩表演喔！
+description: 如果你去巴厘岛，千万不要错过巴厘岛的Kecak Dance卡恰火舞表演！这是个会让你终身难忘的精彩表演哦！
 pubDate: '2024-01-29'
 updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dae81434517c1f3155bd2d7f3dad6b78.jpg'
@@ -15,11 +15,11 @@ originalUrl: 'https://vocus.cc/article/65b6e533fd89780001f51eaf'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 8c3ce862b7969f88ad33187ed2d4487a
+_srcHash: cd994477e6f77d030ea4bfd82cdded0b
 ---
-**先讲结论**：卡恰火舞（Kecak Fire Dance）最经典的观赏地点是**乌鲁瓦图悬崖露天剧场**（日落时分开演，故事取材印度史诗《罗摩衍那》），乌布也有场次可选。全程无乐器伴奏，仅靠 50-60 名男子合唱「Cak! Cak!」声营造氛围，建议通过 Klook 提前订票，避免现场排队向隅。
+**先说结论**：卡恰火舞（Kecak Fire Dance）最经典的观赏地点是**乌鲁瓦图悬崖露天剧场**（日落时分开演，故事取材印度史诗《罗摩衍那》），乌布也有场次可选。全程无乐器伴奏，仅靠50-60名男子合唱「Cak! Cak!」声营造氛围，建议通过Klook提前订票，避免现场排队向隅。
 
-如果你去到巴厘岛，千万不要错过在巴厘岛的卡恰火舞表演！这是个会让你终身难忘的精彩表演喔！
+如果你去巴厘岛，千万不要错过巴厘岛的卡恰火舞表演！这是个会让你终身难忘的精彩表演哦！
 
 ![Kecak Fire Dance卡恰火舞秀 峇里島必看的震撼表演（附訂票資訊）](https://images.gobaligo.id/vocus/vocus_f8c6296d8f2f09b45c9843546731b432.jpg)
 
@@ -33,7 +33,7 @@ _srcHash: 8c3ce862b7969f88ad33187ed2d4487a
 
 这个舞蹈特别独特之处在于，该剧没有使用人工背景，没有涉及任何乐器。焦点完全集中在大约50-60名男子的同心圆上，他们赤膊上阵，只穿着独特的巴厘岛纱笼，盘腿坐在中央的一组火把周围。
 
-卡恰火舞没有采用通常伴随其他巴厘岛传统表演的传统 "加麦兰 "管弦乐队，而只是由代表猴子大军的男子合唱团不断吟唱 "Cak! Cak! Cak!"或 "Keh-Chak "的多节奏声音，几乎在整个表演过程中。这个惊人的人声管弦乐队由一名独奏者领导，他负责指示高音和低音，同时还充当叙述者。一段时间后，其效果是提供了一堵戏剧性的声音墙，在这堵墙的衬托下，该剧的演出才能进行。
+卡恰火舞没有采用通常伴随其他巴厘岛传统表演的传统"加麦兰"管弦乐队，而只是由代表猴子大军的男子合唱团不断吟唱"Cak! Cak! Cak!"或"Keh-Chak"的多节奏声音，几乎在整个表演过程中。这个惊人的人声管弦乐队由一名独奏者领导，他负责指示高音和低音，同时还充当叙述者。一段时间后，其效果是提供了一堵戏剧性的声音墙，在这堵墙的衬托下，该剧的演出才能进行。
 
 ## 故事内容
 
@@ -61,9 +61,11 @@ _srcHash: 8c3ce862b7969f88ad33187ed2d4487a
 - [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
 - [乌布Exotic瀑布 & 乌鲁瓦图寺私人游（含卡恰舞体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47697-kato-lampo-tegenungan-tibumana-waterfall-uluwatu-kecak-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9d80dd262f)
 - [圣猴森林公园 & 艺术村 & 传统市场 & Kecak火舞表演私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17380-monkey-forest-kecak-dance-show-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D13c544224d)
-- [巴厘岛顶级南部海滩一日游(含火舞&金巴兰海滩晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
+- [巴厘岛顶级南部海滩一日游（含火舞&金巴兰海滩晚餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [乌鲁瓦图火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 - [乌布卡恰舞 & 火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77794-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D366d5215d0)
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
 
 ## 周边景点
 

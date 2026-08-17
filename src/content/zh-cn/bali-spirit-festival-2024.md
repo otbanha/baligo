@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66235080fd8978000137921f'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 259a19399dc246b6ced5f2ae7f18c3cf
+_srcHash: ca746566472746ec1bcc67edd9598d12
 ---
 
 ## 
@@ -85,6 +85,8 @@ _srcHash: 259a19399dc246b6ced5f2ae7f18c3cf
 
 巴厘岛灵性节的门票现已发售，请[尽早购票](https://www.balispiritfestival.com/tickets)以确保你的位置。
 
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
+
 ### 2. 安排住宿
 
 在节日期间，乌布地区的住宿可能会很拥挤，请提前安排好住宿。
@@ -117,7 +119,7 @@ Bali Spirit Festival官网：<https://www.balispiritfestival.com/>
 
 是的，巴厘岛灵性节有各种活动适合不同的兴趣和喜好，非瑜伽爱好者也能找到适合自己的活动。
 
-### 4. 我可以携带孩子参加吗？
+### 4. 我可以带孩子参加吗？
 
 是的，活动场地提供了儿童友好的活动，您可以带孩子一起参加。
 
@@ -129,7 +131,7 @@ Bali Spirit Festival官网：<https://www.balispiritfestival.com/>
 
 > [巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/zh-cn/blog/bali-accommodation-area-guide/)
 
-> [2024巴厘岛乌布完整攻略：50种深入认识乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
+> [2024巴厘岛乌布完整攻略：50种深入了解乌布的方式｜探索乌布的魅力](/zh-cn/blog/ubud-guide/)
 
 > [巴厘岛家庭亲子旅游活动精选攻略：乌布53项亲子活动带小朋友最轻松！](/zh-cn/blog/ubud-with-kids-guide/)
 

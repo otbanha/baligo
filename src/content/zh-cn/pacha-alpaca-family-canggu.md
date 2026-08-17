@@ -18,7 +18,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: 5d9f10205aeca5bd02cb1d422bbd0bf8
+_srcHash: e954040bcaf7036f3997fd4ef69bf6c1
 ---
 **先讲结论**：Pacha Alpaca 羊驼互动体验位于坎古以北的 Nuanu 自然保护区，可近距离喂食、抚摸羊驼并参与工作人员导览的自然教育活动，适合有幼龄孩童的家庭安排半天的户外放松行程。
 
@@ -56,6 +56,8 @@ Pacha Alpaca 的体验名额有限，特别是在旅游旺季，建议提前预�
 
 ▶[羊驼门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1149122&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F177795-pacha-alpaca-ticket-in-nuanu-creative-city-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d6e5fe6ad)
 
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
+
 ---
 
 ## 跟羊驼住在一起
@@ -80,6 +82,6 @@ Pacha Alpaca 的体验名额有限，特别是在旅游旺季，建议提前预�
 
 ![更多Nuanu Creative City景點](https://images.gobaligo.id/vocus/vocus_31cecbba0116d5f4271add50f6d956b8.jpg)
 
-Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经开始吸引全球创意人士，成为下一个必访热点！
+Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经吸引全球创意人士，成为下一个必访热点！
 
 Nuanu Creative City的景点攻略请看[这里](/zh-cn/blog/nuanu-creative-city-luna-guide/)

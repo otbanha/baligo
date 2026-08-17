@@ -18,7 +18,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_5a0249c2416d34d9faa70c164c0fb
 originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
 updatedDate: 2026-07-12T00:00:00.000Z
 lang: zh-cn
-_srcHash: 9953d598be511efeeb68fab298e71948
+_srcHash: a1bdb970abd29daf0bc2dca956527805
 ---
 
 **先说结论**：乌布皇宫（Puri Saren Agung）位于乌布大街8号市中心，展现**19世纪以来的巴厘建筑风格**，从登巴萨市中心开车约**1小时**可达，也可搭乘Trans Dewata巴士**K4B路线**前往，适合安排在乌布市区观光的顺游行程。
@@ -53,15 +53,17 @@ _srcHash: 9953d598be511efeeb68fab298e71948
 
 乌布皇宫不收取参观门票，游客可以免费进入开放区域。但如果想欣赏艺术表演则需要购票，且建议提前抵达，选择好座位欣赏整场演出。皇宫的开放时间为每天早上7点至下午5点，让游客有充足的时间慢慢探索这一片充满历史氛围的场所。
 
+> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了 49 个热门景点的即时参考价，并附 Klook／Trip.com 比价链接。
+
 ## 探索乌布皇宫及周边景点：文化、购物与自然的完美结合
 
-乌布不仅有着充满历史气息的皇宫，更有许多周边景点可以一并探索，包括充满市集热闹氛围的乌布艺术市场、美丽的水皇宫、猴林路的时尚小店，以及自然景观丰富的圣猴森林。在这里，无论是体验当地文化还是享受购物乐趣，甚至亲近巴厘岛的自然生态，都能让你的乌布之旅更加难忘！
+乌布不仅有着充满历史气息的皇宫，更有许多周边景点可以一并探索，包括充满集市热闹氛围的乌布艺术市场、美丽的水皇宫、猴林路的时尚小店，以及自然景观丰富的圣猴森林。在这里，无论是体验当地文化还是享受购物乐趣，甚至亲近巴厘岛的自然生态，都能让你的乌布之旅更加难忘！
 
 ### 1. 乌布艺术市场（Ubud Art Market）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
-乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的市集。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
+乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的集市。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
 
 延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
@@ -73,14 +75,14 @@ https://youtube.com/shorts/Oh-RNfjhQhM
 
 https://youtu.be/hYkf6sjCtqg
 
-2026国际旅客的票价与拍照方案整理，给大家参考👇
+2026国际旅客的票价与拍照方案整理，供大家参考👇
 
 **入场门票**
 
 - - 成人票：每人 IDR 60,000
 - - 儿童票：每位 IDR 45,000
 
-**入场＋拍照方案**
+**入场+拍照方案**
 
 - - 入场 + 拍照 1 次：每人 IDR 100,000
 - - 拍照套餐（3 张照片）：IDR 100,000
@@ -109,7 +111,7 @@ https://youtu.be/JtxZHtijEkE
 
 ## 乌布文化一日游推荐行程
 
-在乌布的景点之间距离不远，建议可以安排一天内完成这趟文化与自然兼具的旅行。以下为参考行程：
+在乌布的景点间距离不远，建议可以安排一天内完成这趟文化与自然兼具的旅行。以下为参考行程：
 
 - **上午**：一大早先参观乌布皇宫，感受皇室的历史和建筑之美，接着步行五分钟参观乌布水皇宫，欣赏美丽的莲花池。10点前往乌布市场，体验市集的热闹氛围，并挑选特色手工艺品。
 - **中午**：在猴林路附近找一家当地餐厅享用午餐，放松小憩（推荐的一些美食餐厅介绍在[这里](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）。
@@ -131,9 +133,9 @@ https://youtu.be/JtxZHtijEkE
 
 **2. 乌布皇宫的门票费用是多少？**
 
-- 参观乌布皇宫的白天门票是免费的。若要观看晚上举行的传统舞蹈表演，则需要购票，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以提前预订：每周四盛大的火舞表演门票预订[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21) ；乌布皇宫旺季每天的雷贡舞表演 [Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
+- 参观乌布皇宫的日间门票是免费的。若要观看晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以事先预订：每周四盛大的火舞表演门票预订[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21) ；乌布皇宫旺季每天的雷贡舞表演 [Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
 
-建议提前至少 30 分钟入场，这样更有机会坐到前排或视野较好的位置。
+建议提早至少 30 分钟进场，比较有机会坐到前排或视野较好的位置。
 
 - 票价100K...其中的K是什么意思？请看[这里](/zh-cn/blog/bali-budget-tips-k-explained/)
 
@@ -147,7 +149,7 @@ https://youtu.be/JtxZHtijEkE
 
 **5. 乌布皇宫可以穿短裤和背心进去吗？**
 
-- 乌布皇宫对着装没有严格规定，但建议穿着整齐得体，尊重当地文化。参观宗教场所或寺庙时通常会要求穿着包裹性较高的衣物，有些地点也会提供纱笼布（Sarong）供游客使用。
+- 乌布皇宫对着装并没有严格规定，但建议穿着整齐得体，尊重当地文化。参观宗教场所或寺庙时通常会要求穿着包覆性较高的衣物，有些地点也会提供纱笼布（Sarong）供游客使用。
 
 **6. 皇宫的传统舞蹈表演有哪些类型？**
 

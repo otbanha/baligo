@@ -31,7 +31,7 @@ shuffle_h2: false
 embeds: []
 updatedDate: 2026-07-12T00:00:00.000Z
 lang: zh-cn
-_srcHash: 288211a5b7ba161a7e9268407bb31032
+_srcHash: 7439e56fde0e9949ce5cfd1871492f98
 ---
 
 > 以下原文内容为 [Jean Chen](https://www.facebook.com/share/p/19NcRf4AR8/) 提供
@@ -104,9 +104,9 @@ _srcHash: 288211a5b7ba161a7e9268407bb31032
 
 更要称赞 Ani 的拍照技术，不只是帮忙按快门，而是真的懂得找角度、抓光线，还会引导女儿摆姿势，因此留下了很多平常自己很难拍到的合照。
 
-此外，Alas Harum 的园区比我想象中还要大，不只是梯田，整体环境也整理得很舒服。走完整个园区后，我心里只剩一句话：
+此外，Alas Harum 的园区比我想象中还大，不只是梯田，整体环境也整理得很舒服。走完整个园区后，我心里只剩一句话：
 
-**「还好有安排这里。」**
+**「还好安排了这里。」**
 
 另外分享一个小信息，以前 Alas Harum 的茶饮试喝是免费的，目前已改为付费体验。Ani 在抵达前就主动提醒最新的收费方式，也会提供其他选择，全程没有任何推销，所有决定都由我们自己来做，让人感觉很自在。
 
@@ -134,15 +134,17 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 （Jean Chen 提供）
 
-> 乌布皇宫每周四盛大的火舞表演门票预订：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21)
+> 乌布皇宫每周四盛大的火舞表演门票预订：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21)
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
 
 旺季通常每天晚上7:30开演，约9:00结束，票价每人100K印尼盾。我这次是直接在皇宫入口购票。
 
 > 乌布皇宫旺季每天的雷贡舞表演：[Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
 
-建议提早至少30分钟进场，比较有机会坐到前排或视野较好的位置。
+建议提早至少 30 分钟进场，比较有机会坐到前排或视野较好的位置。
 
-伴随着甘美朗乐团的演奏，舞者细腻的眼神、优雅的手势，以及华丽的服饰，共同展现出巴厘岛深厚的文化底蕴。即使看不懂故事内容，也能沉浸在现场浓厚的表演氛围中，非常值得体验。
+伴随着甘美兰乐团的演奏，舞者细腻的眼神、优雅的手势，以及华丽的服饰，共同展现出巴厘岛深厚的文化底蕴。即使看不懂故事内容，也能沉浸在现场浓厚的表演氛围中，非常值得体验。
 
 > [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
@@ -162,7 +164,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 也很谢谢Ani和司机先生一路上的照顾。无论是行程安排、拍照、沿途分享，还是遇到突发状况时的协助，都让我们感受到他们的细心与专业。
 
-如果你也正在规划巴厘岛自由行，尤其想安排罗威纳、乌布等跨区行程，或是带着孩子一起旅行，我会很乐意推荐 Ani。
+如果你也正在规划巴厘岛自由行，尤其想安排罗威纳、乌布等跨区行程，或是带着孩子一起旅行，我会很乐意推荐Ani。
 
 ## （中文导游）Ani Si Febri 安妮
 
@@ -174,7 +176,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ***
 
-## 旅行结束了，但回忆才刚刚开始
+## 旅行结束了，但回忆才刚开始
 
 六天五夜的旅程很快就结束了，但真正带回家的，不只是手机里满满的照片，而是那些一起经历的每一个瞬间。
 
@@ -182,7 +184,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 旅行的意义，或许从来不只是去了多少景点，而是在陪伴彼此的过程中，一起看见更大的世界，也留下属于自己的故事。
 
-最后，也想再次谢谢社团里每一位愿意分享经验的朋友。因为大家无私提供的信息，让我们少走了许多冤枉路，也让这趟母女旅行更加顺利。
+最后，也想再次谢谢社团里每一位愿意分享经验的朋友。因为有大家无私提供的信息，让我们少走了许多冤枉路，也让这趟母女旅行更加顺利。
 
 希望这篇游记，也能为下一位准备踏上巴厘岛的旅人，带来一些实用的参考。如果你也正规划一趟亲子旅行，祝福你们也能在巴厘岛，留下属于自己的美好回忆。
 

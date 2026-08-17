@@ -10,11 +10,13 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_796a7726285dc90f4c9e926629c7be3b.jpg'
 originalUrl: 'https://vocus.cc/article/6571846ffd89780001fe97ee'
 lang: zh-cn
-_srcHash: 6f9add44765b54bf8ad9d8d3cf5d3db0
+_srcHash: 7929f066d1c6cdefac53d469946d4ca5
 ---
 ![探索Oneeighty Day Club：峇里島懸崖邊的游泳池極致美景](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
 
-**先说结论**：Oneeighty Dayclub 位于乌鲁瓦图 The Edge Bali 度假村内，海拔 **162 米悬崖顶泳池**，180 度印度洋美景一览无遗。VIP 门票（最多 3 人共享一张 daybed）约 **Rp 3,127,628（约 USD$200）**，其中 100 万印尼盾可折抵餐饮费，**12 岁以下儿童禁止进入**。适合想拍悬崖网红照、体验高空泳池的旅人。
+**先说结论**：Oneeighty Dayclub 位于乌鲁瓦图 The Edge Bali 度假村内，海拔 **162 米悬崖顶泳池**，180 度印度洋美景一览无遗。VIP 门票（最多 3 人共享一张 daybed）约 **Rp 3,127,628（约 USD$200）**，其中 100 万印尼盾可抵扣餐饮费，**12 岁以下儿童禁止进入**。适合想拍悬崖网红照、体验高空泳池的旅人。
+
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
 脚底下是高达162米的悬崖峭壁是怎样的感受？
 
@@ -38,11 +40,11 @@ The Edge Bali度假村获得众多殊荣，从2016年的Haute Grandeur全球酒�
 
 Oneeighty不仅是个受推崇的景区，更提供一系列令人难忘的美食之旅。Baja Taco、Soft Shell Crab、Indonesian Tuna Ceviche等是受欢迎的小菜。而主打菜品则有小鲷鱼、本地龙虾、鱼三宝芒果等。
 
-如果你想在Oneeighty度过悠闲的一天，拍摄些网美照，你有两种选择：
+如果你想在Oneeighty度过悠闲的一天，拍摄些网红照，你有两种选择：
 
 预订VIP门票(最多3人)，位置在悬崖海景的第一排，目前价格为Rp3,127,628（共享一个大daybed），折合美金约200。其中的1,000,000印尼盾可抵扣餐饮费用。**注意：**12岁以下儿童禁止进入此区
 
-另一选择是单人普通门票，票价为615,000印尼盾，折合美金约为40元。40元中包括约32美金（500,000）的每人食物和饮料折抵。
+另一选择是单人普通门票，票价为615,000印尼盾，折合美金约40。40元中包括约32美金（500,000）的每人食物和饮料折抵。
 
 > Klook提供的[Oneeighty通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
 
@@ -64,7 +66,7 @@ Oneeighty不仅是个受推崇的景区，更提供一系列令人难忘的美�
 - 干湿分离区域与专属蒸汽浴室
 - 优美曲线设计搭配无敌海景
 
-在专业疗师的手法下，伴随海风与浪涛声，享受完全放松的奢华体验。
+在专业疗师的操作下，伴随海风与浪涛声，享受完全放松的奢华体验。
 
 ### Cliff Bar 浪漫晚餐
 

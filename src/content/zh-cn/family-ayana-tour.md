@@ -2,7 +2,7 @@
 title: ⭐⭐【过年/连假不加价】巴厘岛奢华6天5夜｜AYANA＋野生动物园＋乌布Villa｜早鸟 USD$801⭐⭐
 slug: family-ayana-tour
 description: >-
-  巴厘岛奢华6天5夜行程，入住AYANA阿雅娜、野生动物园酒店及乌布私人泳池Villa，享夕阳、火山、梯田、SPA等精选体验，早鸟优惠USD$801/人，连假不加价！
+  巴厘岛奢华6天5夜行程，入住AYANA阿雅娜、野生动物园酒店及乌布私人泳池Villa，享夕阳、火山、梯田、SPA等精选体验，早鸟优惠USD$801／人，连假不加价！
 pubDate: 2026-08-08T00:00:00.000Z
 updatedDate: 2026-08-08T00:00:00.000Z
 pubHour: 22
@@ -30,12 +30,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 7418600e6e7b6c071255dfbbf6658ff1
+_srcHash: 5fa5c829b3ff4f21284db20679e24ed0
 ---
 
 # 巴厘岛奢华 6 天 5 夜｜AYANA × 野生动物园 × 乌布私人泳池 Villa
 
-## 🐦 早鸟限定优惠｜现在预订，USD$801/人
+## 🐦 早鸟限定优惠｜现在预订，USD$801／人
 
 想用更优惠的价格，入住AYANA阿雅娜、野生动物园酒店与乌布私人泳池Villa？
 
@@ -67,7 +67,7 @@ _srcHash: 7418600e6e7b6c071255dfbbf6658ff1
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173673189-rock-bar-sunset.jpg)
 
-如果你喜欢「住进饭店本身就是旅行的一部分」，AYANA 绝对是这趟旅程的重要亮点。
+如果你喜欢「住进酒店本身就是旅行的一部分」，AYANA 绝对是这趟旅程的重要亮点。
 
 ### 🦁 巴厘岛野生动物园酒店｜住进奇幻的野生世界
 
@@ -105,17 +105,17 @@ _srcHash: 7418600e6e7b6c071255dfbbf6658ff1
 
 抵达巴厘岛后，先从最经典的海岛度假模式开始。
 
-从机场接机后，安排专车协助换汇，再前往Kuta一带逛逛艺术集市、走走海滩。
+从机场接机后，安排专车协助换汇，再前往 Kuta 一带逛逛艺术市集、走走海滩。
 
-如果时间刚好碰上夕阳，Kuta Beach是非常适合散步看夕阳的地方。
+如果时间刚好碰上夕阳，Kuta Beach 是非常适合散步看夕阳的地方。
 
 晚餐则可以安排巨无霸海鲜大餐，让第一晚就感受到浓浓的巴厘岛度假气氛。
 
-吃完饭后还能顺路前往超市补充零食、饮料与旅途中需要的用品，再返回AYANA好好休息。
+吃完饭还能顺路前往超市补充零食、饮料与旅途中需要的用品，再返回 AYANA 好好休息。
 
 ## 🍹 AYANA 全日度假＋Rock Bar 日落
 
-如果住进AYANA，真的不用每天安排满满的景点。
+如果住进 AYANA，真的不用每天安排满满的景点。
 
 这趟行程特别保留完整的自由时间，让旅客可以好好享受度假村。
 
@@ -145,7 +145,7 @@ https://www.instagram.com/reel/Dacl3-jzsmx/?utm_source=ig_web_copy_link&igsh=NTc
 
 https://www.instagram.com/reel/DbiIYdLuuQW/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
-**成人 USD$71／儿童（12 岁以下）USD$58**
+**成人 USD 71／儿童（12 岁以下）USD 58**
 
 包含：
 
@@ -159,7 +159,7 @@ https://www.instagram.com/reel/DbiIYdLuuQW/?utm_source=ig_web_copy_link&igsh=NTc
 
 https://www.instagram.com/reel/DahPwPDxUpq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-**成人 USD$58／儿童（12 岁以下）USD$39**
+**成人 USD 58／儿童（12 岁以下）USD 39**
 
 包含：
 
@@ -173,7 +173,7 @@ https://www.instagram.com/reel/DahPwPDxUpq/?utm_source=ig_web_copy_link&igsh=MzR
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174070701-omma.webp)
 
-来到乌布，自然不能只待在 Villa 里。
+来到乌布，自然不能只待在别墅里。
 
 Tegenungan Waterfall 是巴厘岛相当热门的瀑布景点，周围也有不少适合拍照的观景位置。
 
@@ -185,15 +185,15 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 晚上回到私人 Villa，还有专属主厨准备的池畔 BBQ。
 
-从瀑布、文化到私人别墅晚餐，一天之内就能感受到完全不同的巴厘岛。
+从瀑布、文化到私人 Villa 晚餐，一天之内就能感受到完全不同的巴厘岛。
 
-## 🌋 金塔马尼火山＋梯田丛林泳池
+## 🌋 金塔玛尼火山＋梯田丛林泳池
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174277169-569875423.jpg)
 
 巴厘岛不只有海滩。
 
-前往金塔马尼一带，可以从高处眺望壮丽的火山与湖泊景色，一边吃午餐，一边欣赏巴厘岛最经典的山景。
+前往金塔玛尼一带，可以从高处眺望壮丽的火山与湖泊景色，一边吃午餐，一边欣赏巴厘岛最经典的山景。
 
 之后再前往 **Alas Harum Bali／Cretya Ubud**，把「梯田＋泳池＋丛林」一次收进旅程。
 
@@ -201,9 +201,9 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 这里非常适合拍照，也很适合安排一段比较悠闲的午后时光。
 
-而回到别墅后，还能享受 **60 分钟 Aroma SPA**。
+而回到 Villa 后，还能享受 **60 分钟 Aroma SPA**。
 
-如果前面几天已经走了不少景点，这时候来一场SPA，真的会让整趟旅行舒服很多。
+如果前几天已经走了不少景点，这时候来一场SPA，真的会让整趟旅行舒服很多。
 
 # ✈️ 最后一天｜睡到自然醒，买好伴手礼再前往机场
 
@@ -223,23 +223,23 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 🌴 **AYANA 阿雅娜** —— 享受顶级海景度假村
 
-🦁 **野生动物园饭店** —— 体验与野生动物共眠的奇幻假期
+🦁 **野生动物园酒店** —— 体验与野生动物共眠的奇幻假期
 
-🌿 **乌布私人泳池Villa** —— 在丛林环境中享受自己的私人空间
+🌿 **乌布私人泳池 Villa** —— 在丛林环境中享受自己的私人空间
 
-🌅 **Kuta 海滩＋Rock Bar** —— 欣赏巴厘岛经典夕阳
+🌅 **库塔海滩＋Rock Bar** —— 欣赏巴厘岛经典夕阳
 
-💦 **瀑布+丛林泳池** —— 感受巴厘岛自然景观
+💦 **瀑布＋丛林泳池** —— 感受巴厘岛自然景观
 
-🌋 **金塔马尼火山** —— 欣赏壮丽山景
+🌋 **金塔玛尼火山** —— 欣赏壮丽山景
 
 💆 **Villa Aroma SPA** —— 让旅程真正慢下来
 
 🍖 **Villa 主厨 BBQ** —— 在私人泳池旁享受专属晚餐
 
-如果你想要的不是「每天从早玩到晚」的赶行程，而是**住得好、吃得好、景色漂亮，同时又有一些特别体验**，这种安排会是相当舒服的巴厘岛玩法。
+如果你想要的是「每天从早玩到晚」的赶行程，而是**住得好、吃得好、景色漂亮，同时又有一些特别体验**，这种安排会是相当舒服的巴厘岛玩法。
 
-## 🎉 早鸟限定价｜USD$801/人
+## 🎉 早鸟限定价｜USD$801／人
 
 **早鸟抢购期间：** 即日起至 **2026 年 9 月 30 日**
 
@@ -249,18 +249,20 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 ※ 早鸟优惠名额有限，实际可订日期及房型依预订时确认为准。
 
-## 📌 贴心服务与项目说明
+## 📌 贴心服务与专案说明
 
-本项目优惠价 **USD$801／人起**，包含专属包车、行程安排及住宿优惠价，**不含国际机票**。机票可自行购买，或由客服免费协助代订。
+本专案优惠价 **USD$801／人起**，包含专属包车、行程安排及住宿优惠价，**不含国际机票**。机票可自行购买，或由客服免费协助代订。
 
-本价格为**两人成行现金优惠价**；不同人数或小孩不占床，均可另洽专属优惠。
+本价格为**两人成行现金优惠价**；不同人数或小孩不占床，皆可另洽专属优惠。
 
 ⚠️ **住宿订购后恕无法取消或更改**；包车、景点、门票及部分行程则可依需求弹性调整，实际安排依预订状况、交通及天气而定。
+
+> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了 49 个热门景点的实时参考价，并附 Klook／Trip.com 比价链接。
 
 ### ✈️ 想抢早鸟优惠？
 
 **名额有限，填写下方报名表，让客服为你确认出发日期与优惠方案！👇**
 
-<iframe src="/forms/luxury-family-trip-form.html" width="100%" style="border:none; min-height:1400px;" title="Bali Luxury Family Trip 巴厘岛奢华亲子游"></iframe>
+<iframe src="/forms/luxury-family-trip-form.html" width="100%" style="border:none; min-height:1400px;" title="Bali Luxury Family Trip 峇里岛奢华亲子游"></iframe>
 
 {{block:isbali2}}

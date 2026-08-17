@@ -6,7 +6,7 @@ description: >-
   (Minimum Spend)
   选位技巧、两座绝美湛蓝泳池的打卡视角，以及结合国际与在地风味的必点料理。让您在巴厘岛的阳光下，用最优雅的预算享受五星级的午后时光。
 pubDate: 2019-07-15T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
+updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 美食景點活動
@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: zh-cn
-_srcHash: e744203cfdd1ca2f7daa3a4e8fe59be7
+_srcHash: 9479ce5ab74f1cdb0cb83a3769111fff
 ---
 **先讲结论**：Manarai Beach House（Ismaya 集团旗下）**入场完全免费**，坐拥努沙杜瓦白沙滩与双蓝泳池；若想坐最靠近泳池/沙滩的双人躺椅（Daybed）才需达「最低消费（Minimum Spend）」，建议揪朋友一起分摊点餐即可轻松达标，适合喜欢奢华慵懒氛围、想避开库塔/坎古喧闹派对感的旅客。
 
@@ -47,7 +47,9 @@ _srcHash: e744203cfdd1ca2f7daa3a4e8fe59be7
 
 > 📌 **编辑私心建议：** 虽然进去参观不用门票，但如果想坐最靠近泳池或沙滩的超舒服**双人躺椅（Daybed）**，通常会有「最低消费（Minimum Spend）」的限制。建议大家可以跟朋友一起去分摊，点几道菜和几杯饮料，轻轻松松就能达标，可以在那里赖上一整天，超级划算！
 
-如果你不喜欢库塔（Kuta）或坎古（Canguu）那种太过拥挤、嘈杂的派对感，Manarai Beach House 这种带点奢华、慵懒又优雅的精致 Vibe，绝对会是你的菜！
+> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了49个热门景点的即时参考价，并附Klook／Trip.com比价链接。
+
+如果你不喜欢库塔（Kuta）或坎古（Canggu）那种太过拥挤、嘈杂的派对感，Manarai Beach House这种带点奢华、慵懒又优雅的精致Vibe，绝对是你的菜！
 
 下次去巴厘岛，记得留一个下午给这里，好好慰劳一下平时辛苦工作的自己吧！✈️
 

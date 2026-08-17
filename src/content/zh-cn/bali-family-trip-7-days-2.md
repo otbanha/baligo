@@ -17,7 +17,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_448b227b14844b7078454555042ed
 originalUrl: 'https://vocus.cc/article/669c8097fd89780001f355be'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 45aac4d984f131b98cb649f1b7b762e8
+_srcHash: 6f2b11033eba12c6750191cc5e7350b8
 ---
 > 以下内容由团友 [Ya-yun Chen](https://www.facebook.com/groups/baligo/permalink/1577292532817986/) 提供给我们重新编排：
 
@@ -113,7 +113,9 @@ GWK有定时整点的免费表演，随到随入场。如果不想额外花钱�
 
 [巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/zh-cn/blog/gwk-cultural-park-bali/)
 
-预订[GWK文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D31be720b57)
+> 预订[GWK文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D31be720b57)
+
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
 
 ![海上獨木舟（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0b17715e85338d194dcaf80fe98912fc.jpg)
 
@@ -121,7 +123,7 @@ GWK有定时整点的免费表演，随到随入场。如果不想额外花钱�
 
 - 之后我们来到Mertasari Beach玩划独木舟，只需USD$1/船，可以使用一小时，孩子们在水中嬉戏，大人们则在岸边享受阳光。
 
-延伸阅读：[小杰的海上独木舟体验](/zh-cn/blog/sanur-kayaking-experience/)
+> 延伸阅读：[小杰的海上独木舟体验](/zh-cn/blog/sanur-kayaking-experience/)
 
 ![Bandar Nelayan Seafood（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0986163175368aef99f15a4b9fa93ce4.jpg)
 
@@ -149,7 +151,7 @@ Nusa Penida（Ya-yun Chen提供）
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - 预订 [Nusa Penida一日游（可选中文导游）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D1f7788d1d4)
 
-## **第4天：**
+## **Day 4：**
 
 ![包車一日遊（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_f2a109172a9a3e812e741f773c5dcd9c.jpg)
 
@@ -161,7 +163,7 @@ Nusa Penida（Ya-yun Chen提供）
 https://youtu.be/op78Dk8CjL4
 
 - 下午前往水神庙Ulun Danu Beratan Temple，这座寺庙坐落在湖中央，风景如画，是拍照的绝佳地点。
-- 我们还参观了阴阳门Handara Gate，到达时购票处说如果要拍照必须等一小时，所以我们选择放弃。
+- 我们还参观了阴阳门Handara Gate，到达时购票处说要拍照的话必须等一小时，所以我们选择放弃。
 
 > 延伸阅读：[原来"善恶门"是错误翻译!? Candi Bentar的意义和正确叫法](/zh-cn/blog/candi-bentar-balinese-gate-history/)
 
@@ -177,7 +179,7 @@ https://youtu.be/op78Dk8CjL4
 
 - 然后参观了乌布皇宫（Ubud Palace），这座皇宫保存完好，让我们对巴厘岛的传统建筑和文化有了更多的了解。
 - 接着我们前往乌布水皇宫（Pura Taman Saraswati），这里的荷花池和精美的石雕让人流连忘返。
-- 在乌布集市（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
+- 在乌布市集（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
 
 https://youtu.be/s16gdTOjonU
 
@@ -193,54 +195,54 @@ https://youtu.be/s16gdTOjonU
 
 Day 6活动（Ya-yun Chen提供）
 
-- 今天的活动包括Wos Tubbing Adventure泛舟，这是一项非常有趣的水上活动，我们全家都玩得非常开心。
+- 今天的活动包括Wos Tubbing Adventure漂流，这是一项非常有趣的水上活动，我们全家都玩得非常开心。
 
-> [巴厘岛泛舟攻略（泛舟常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
+> [巴厘岛漂流攻略（漂流常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
-> 预订[沃斯河泛舟优惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
+> 预订[沃斯河漂流优惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
 
 - 接着我们参观了Bali Bird Park，这里有许多美丽的鸟类，孩子们对这些色彩斑斓的鸟类非常感兴趣。
 
 > [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/zh-cn/blog/bali-bird-park-guide/)
 
-> 预订[Bali Bird Park优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)  
+> 预订[Bali Bird Park优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)
 
-- 下午回到度假村享用下午茶并游泳放松，度过了一个悠闲愉快的下午。  
+- 下午回到度假村享用下午茶并游泳放松，度过了一个悠闲愉快的下午。
 
 {{block:ubud}}
 
-## **Day 7：**  
+## **Day 7：**
 
-早上悠哉地享用早餐，然后于11:30退房，准备前往机场回国。这次巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
-  ---  
+早上悠闲地享用早餐，然后在11:30退房，准备前往机场回国。这次的巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
+  ---
 
 {{block:親子}}
 
-## 小提醒  
+## 小提醒
 
 - **行前小费文化调查分享：**
 - - 每日包车司机5万~10万印尼盾
-    - 行李：1万/5万印尼盾（约USD$1/3）
-    - 床头/餐厅：1万/2万印尼盾（约USD$1/1）
+    - 行李：1万/5万印尼盾（约USD$3/161）
+    - 床头/餐厅：1万/2万印尼盾（约USD$3/65）
     - 按摩预先给1成小费
-    - 「KEEP THE CHANGE」：不用找零，印尼盾一万以下当地人不容易找零。  
+    - 「KEEP THE CHANGE」：不用找零，印尼盾一万以下当地人不容易找零。
 
-https://youtu.be/B_oT905RkQw  
+https://youtu.be/B_oT905RkQw
 
-- **住宿Villa建议：** 如果有爱玩水的小朋友，强烈建议住Villa，可以请包车司机安排向当地业者租借大型游泳圈，或从Klook预订，孩子会玩得很嗨。  
+- **住宿Villa建议：** 如果有爱玩水的小朋友，强烈建议住Villa，可以请包车司机安排向当地业者租借大型游泳圈，或从Klook预订，孩子会玩得很嗨。
 
 ![小提醒](https://images.gobaligo.id/vocus/vocus_a1dc699ccad5ec44b57b56c8328810f8.jpg)
 
-> Klook [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F4837-pool-float-rental-bali%2F)  
+> Klook [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
 - **交通提示：** 七八月是旺季，11:30过后常常堵车，建议每天最多安排2-3个景点就很充实了。
-- **Nusa Penida游览心得：** 虽然路况颠簸，但孩子们当作碰碰车在玩，感觉特别有趣。由于我们家孩子都是小学生，所以没有参加浮潜行程，但光是西岸一日游就非常值得前往。  
+- **Nusa Penida游览心得：** 虽然路况颠簸，但孩子们当碰碰车在玩，感觉特别有趣。由于我们家孩子都是小学生，所以没有参加浮潜行程，但光是西岸一日游就非常值得前往。
 
 巴厘岛当地人文风情非常迷人，不论是寺庙、玩水还是自然景观都具有独特的魅力，这次旅程让我们对巴厘岛有了更多的了解和喜爱，期待下次再访！
 
 https://youtu.be/HpfQ86sWS0g
 
-您觉得Ya-yun Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得Ya-yun Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

@@ -17,11 +17,11 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_02c8c3347a57c7c83b5f9bb7d913afdb.jpg'
 originalUrl: 'https://vocus.cc/article/6686bcc4fd897800018fb206'
 lang: zh-cn
-_srcHash: 879d3b016d6d8073a107d4295a0ce8fe
+_srcHash: 90e9db7cc7871c41f15334c4471214c4
 ---
 > 以下内容由团友​[杨方瑜](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R)提供，并同意我们改编
 
-**先说结论**：巴厘岛5天4夜行程扣除头尾移动日其实玩不到3天，建议尽量早起避开堵车；行前准备重点——落地电子签、观光税、Esim网卡（前一天买第二天即可用）、220V吹风机（拍水中美照后吹头发用）。按摩店品质参差不齐，随机选择风险较高但也可能有惊喜。
+**先说结论**：巴厘岛5天4夜行程扣除头尾移动日其实玩不到3天，建议尽量早起避开堵车；行前准备重点——落地电子签、观光税、Esim网卡（前一天买第二天即可用）、220V吹风机（拍水中美照后吹发用）。按摩店品质参差不齐，随机选择风险较高但也可能有惊喜。
 
 这次的巴厘岛之旅虽然只有短短的5天4夜，但真的觉得扣除前后两天的移动时间后，玩的时间还是太少了！这趟行程比较偏累，并不是那种轻松度假的旅行。巴厘岛的交通状况比较容易堵车，所以建议大家尽量早起，这样可以走更多的行程。
 
@@ -34,14 +34,14 @@ _srcHash: 879d3b016d6d8073a107d4295a0ce8fe
 1. 落地电子签：在前往巴厘岛之前，记得办理落地电子签证。
 2. 观光税：注意支付观光税。
 3. 填写入境表：填写好入境表格。
-4. 货币兑换：建议携带美金到当地兑换成卢比。
+4. 货币兑换：建议携带美金到当地兑换成印尼盾。
 5. 防晒：巴厘岛的阳光非常强烈，忘记带防晒霜的话，很容易晒黑。
 6. 网络使用：建议使用Esim卡，我在虾皮购买了「全球跨境旅游达人」的Esim卡，除非去偏远山区，网速都很稳定。前一天买第二天就可以使用，非常方便。
 7. 玩水拍美照：如果计划玩水后拍美照，记得带支持220V吹风机。
 8. 按摩体验：不论是哪家按摩店，感觉都像抽奖一样。幸运的是，我们每次按摩体验都很不错，即便是在路边随意选的店也是如此。
 9. 拍照技巧：想拍出网红照，建议事先研究好拍照姿势，并请旅伴练习拍摄技术。我就是不会拍雷的那个。
-10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000卢比（约合USD$0.6），不要给零钱或太小的钞票，这样比较礼貌。
-11. 充电转接头：记得携带充电转接头，或者先询问酒店是否可以借用。
+10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000印尼盾（约合USD$0.3），不要给零钱或太小的钞票，这样比较礼貌。
+11. 充电转换头：记得携带充电转换头，或者先询问酒店是否可以借用。
 12. 额外税金：有些餐厅和按摩店会收取额外的税金，刷卡也有可能多收3%的手续费。
 
 > [印尼/巴厘岛旅游必读：电压与插座指南完全手册！](/zh-cn/blog/bali-voltage-adapter-tips/)
@@ -121,7 +121,7 @@ ATV好玩！（杨方瑜提供）
 
 https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
-编按：乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山區，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
+编按：乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山区，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
 
 还有一种「火山 ATV 之旅」，您将穿越茂密的森林，攀越黑色熔岩山坡地，并征服具有挑战性的越野地形。导游将带领您穿越这些变化万千的地形，让您充分体验ATV带来的刺激和乐趣。
 
@@ -166,7 +166,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 - 时间：晚餐时间
 - 地点：Sun Sun Warung
 - 提醒：有名的脏鸭饭，这家餐厅在吃饭时间容易没有位子，外带的餐点味道中规中矩，没有特别的惊喜
-- 堂食需15.5%税金，外带少5%
+- 内用需15.5%税金，外带少5%
 
 **6. 回到酒店**
 
@@ -184,7 +184,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 - 时间：12:30
 - 地点：Villa DeDayuh Seminyak
-- 亮点：这家别墅拥有厨具、泳池和浴缸，非常适合长时间在酒店度假的旅客。服务超级好，通过WhatsApp可以获得专人详细回答。价格大概每晚约USD$129。
+- 亮点：这家别墅拥有厨具、泳池和浴缸，非常适合长时间在酒店度假的旅客。服务超级好，通过WhatsApp可以获得专人详细回答。价格大概每晚USD$130左右。
 
 ![6月1日](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
@@ -218,11 +218,11 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 **海底漫步**
 
-我们的第一个活动是海底漫步。虽然这项活动听起来非常有趣，但实际体验时却有些失望。一开始戴头盔的时候，头盔进水而且没人告知，水直接贴在脸上，让人感到相当害怕。在水下行走时，需要拉着栏杆，但景色并没有特别美丽。
+我们的第一个活动是海底漫步。虽然这项活动听起来非常有趣，但实际体验时却有些失望。一开始戴上头盔的时候，头盔进水而且没有人告知，水直接贴在脸上，让人感到相当害怕。在水下行走时，需要拉着栏杆，但景色并没有特别美丽。
 
-**滑翔伞**
+**飞行伞**
 
-接下来是滑翔伞活动。这个活动真的很棒，特别是当我们在空中飞行时，那种自由自在的感觉令人难忘。或许是因为我们和教练聊得很开心，整个过程更加愉快。滑翔伞从空中拉到水中，再次升空，这种来回的过程非常有趣。
+接下来是飞行伞活动。这个活动真的很棒，特别是当我们在空中飞行时，那种自由自在的感觉令人难忘。或许是因为我们和教练聊得很开心，整个过程更加愉快。飞行伞从空中拉到水中，再次升空，这种来回的过程非常有趣。
 
 **甜甜圈**
 
@@ -234,14 +234,14 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 **提醒事项**
 
-- **价格谈判**：游玩活动的价格开得比较高，建议先砍价或提前在网上购买优惠票。
+- **价格谈判**：游玩活动的价格开得比较高，建议先砍价或是提前在网络上购买优惠票。
 - **拍照费用**：若行程中有拍照服务，这是需要额外付费的。商家会提供一组云端照片和拍摄的录像。
 
 编按：游客需留意的是，南湾的水上活动颇受欢迎，建议在前往时提前预订，以避免现场就地起价的情况。预订能够确保您有足够的机会体验所有想玩的水上活动，同时也避免了在现场支付额外的昂贵费用。在南湾海滩，让我们一同扬帆，享受这片水上活动的乐土，带给您一场充满冒险和欢笑的海上之旅。
 
-> [预约南湾水上活动（多种组合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
+[预约南湾水上活动（多种组合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 
-> [预约南湾香蕉船组合](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
+[预约南湾香蕉船组合](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
 
 **4. 悬崖景点**
 
@@ -250,6 +250,8 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 （杨方瑜提供）
 
 - 亮点：有两个悬崖景点需要购买门票，非常适合拍照留念，沿路也有风景但我们时间较赶就没有多待
+
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
 参考：[巴厘岛断崖公路 Batu Barak 旅游指南：入园费、路况分析与乌鲁瓦图南端一日游规划](/zh-cn/blog/batu-barak-cliff-road/)
 
@@ -279,7 +281,7 @@ https://youtube.com/shorts/MTbr3sojGAM?si=GZhCEZuNUdypLyRp
 
 这一天的行程从乌布转移到水明漾，入住具有度假氛围的Villa DeDayuh，然后在南湾享受各种刺激的水上活动。下午探访悬崖景点拍美照，傍晚在金巴兰欣赏日落并体验骑马或骆驼。晚上在Piramid Jimbar享受高质量的按摩，最后以美味的印尼煎蛋饼作结，结束充实而愉快的一天。
 
-> 预订[金巴兰骑骆驼体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)
+> 预定[金巴兰骑骆驼体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)
 
 ### 6月2日
 

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/669a60fffd89780001d61fb5'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 6cd0b849438b001117a919ce7d0f6100
+_srcHash: 99b085e6b66e29c9e34c9567cb996d66
 ---
 **先说结论**：Aloha Ubud Swing 位于 Gianyar 德格拉朗地区，秋千高度选择从 **10 米到 60 米**不等，提供单人与双人款式，适合想挑战高空刺激或想拍情侣浪漫美照的旅客依需求选择合适高度。
 
@@ -41,11 +41,11 @@ Aloha Ubud Swing 是巴厘岛上一个独特而受欢迎的旅游景点，位于
 
 ![天秤鞦韆](https://images.gobaligo.id/vocus/vocus_e6d9aa5503cc960b1a8422832dfa338d.jpg)
 
-天秤秋千
+天平秋千
 
-### **天秤秋千**
+### **天平秋千**
 
-天秤秋千是许多游客梦寐以求的拍照点。它的框架设计优雅，使每一个瞬间都显得格外温馨和特别。
+天平秋千是许多游客梦寐以求的拍照点。它的框架设计优雅，使每一个瞬间都显得格外温馨和特别。
 
 ### **鸟巢**
 
@@ -98,10 +98,12 @@ Aloha Ubud Swing 是巴厘岛上一个令人难忘的旅游景点，适合所有
 
 **2. Aloha Ubud Swing 的营业时间是什么时候？** 每天上午 8 点至下午 5 点开放。
 
-**3. 门票价格是多少？** 门票价格从 400,000 印尼盾到 650,000 印尼盾不等，具体取决于所选的套餐和是否包含交通服务。也可以在Klook取得更优惠的价格▶[Klook优惠价](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)。
+**3. 门票价格是多少？** 门票价格从 400,000 印尼盾到 650,000 印尼盾不等，具体取决于所选套餐和是否包含交通服务。也可以在Klook获取更优惠的价格▶[Klook优惠价](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)。
 
 **4. 有哪些设施可以使用？** Aloha Ubud Swing 提供停车场、厕所、免费 Wi-Fi、安全设备、服装租借服务和餐厅。
 
 **5. 如何避免人群高峰期？** 建议在上午 9 点至 10 点之间到达，以避免人群高峰期。
+
+> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
 
 [官网链接](https://alohaubudswing.com/)

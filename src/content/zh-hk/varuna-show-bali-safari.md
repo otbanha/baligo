@@ -2,8 +2,8 @@
 slug: varuna-show-bali-safari
 title: 峇里島海洋公園 Varuna Show 指南：水下劇場票價、交通建議同 Bali Safari 一日遊排法
 description: >-
-  帶細路去峇里島必睇嘅國際級演出！詳細講解位於吉安雅 (Gianyar) 嘅 Varuna Show 入園流程。整理好水下劇場嘅場次時間，同 Bali
-  Safari 陸上探險嘅完美行程組合。提供親子觀賞嘅小貼士同園內用餐嘅細節，令你嘅親子之旅既有教育意義又充滿感官驚喜。
+  帶細路去峇里島必睇嘅國際級演出！詳解位於吉安雅 (Gianyar) 嘅 Varuna Show 入園流程。整理水下劇場嘅場次時間、同 Bali Safari
+  陸上探險嘅完美行程組合。提供親子觀賞貼士同園內用餐細節，令你嘅親子之旅既有教育意義又充滿感官驚喜。
 pubDate: 2025-06-08T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
@@ -24,38 +24,38 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-hk
-_srcHash: d3efa5eca689077e2698ea411303337c
+_srcHash: 0625ac03e3dcaeeca5d3104a7e36563e
 ---
-**先講結論**：Varuna Show 係 2025 年開幕就引起話題嘅水下劇場表演，位於吉安雅嘅 Marine Safari Bali，同隔籬嘅 Bali Safari Park 合稱「Bali Safari and Marine Park」（一個目的地兩個世界），好適合安排一日遊行程串聯陸上動物園同水下劇場兩種體驗。
+**先講結論**：Varuna Show 係 2025 年開幕即引起話題嘅水下劇場表演，位於吉安雅嘅 Marine Safari Bali，同隔籬嘅 Bali Safari Park 合稱「Bali Safari and Marine Park」（一個目的地兩個世界），適合安排一日遊行程串聯陸上動物園同水下劇場兩種體驗。
 
-今次嘅峇里島之行，最令我難忘嘅就係喺 Marine Safari Bali 體驗嘅《Varuna Show》喇！呢個結合魔幻、燈光同特技嘅水下劇場，完全顛覆咗我對海洋公園表演嘅想像。
+今次峇里島之行，最令我難忘嘅就係喺 Marine Safari Bali 體驗嘅《Varuna Show》喇！呢個結合魔幻、燈光同特技嘅水下劇場，完全顛覆咗我對海洋公園表演嘅想像。
 
 ![2025年開幕即轟動，印尼的時代雜誌也介紹過](https://images.gobaligo.id/vocus/vocus_b7affae461c64b52b610dcb3c036bdb5.jpg)
 
-2025年開幕就轟動，連印尼嘅時代雜誌都有介紹過
+2025年開幕即轟動，印尼嘅時代雜誌都有介紹過
 
 ## 🚗 交通同入園
 
-位於 Gianyar 嘅 Marine Safari Bali 隔籬就係好出名嘅 Bali Safari Park，而家兩個園區一齊叫做「[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)」，即係官方所講嘅「一個目的地，兩個世界」
+位於 Gianyar 嘅 Marine Safari Bali 隔籬就係出名嘅 Bali Safari Park，而家兩個園區一齊叫做「[Bali Safari and Marine Park](https://www.balisafarimarinepark.com/)」，即係官方所講嘅「一個目的地，兩個世界」
 
 ![交通與入園](https://images.gobaligo.id/vocus/vocus_a852c7ca33d5bd372e588be693151a71.jpg)
 
-由於位置唔喺鬧區，建議大家包車過去。園區比想像中仲要大，一入門口就俾熱帶風情嘅造景同歡樂嘅氣氛感染到。我哋提前喺 Klook 買咗 [Day Varuna Premium 套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，雖然價錢唔平，但絕對物超所值！
+由於位置唔係喺鬧區，建議大家包車過去。園區比想像中更大，一入門口就俾熱帶風情嘅造景同歡樂氣氛感染。我哋提前喺 Klook 買咗 [Day Varuna Premium 套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，雖然價錢唔平，但絕對物超所值！
 
 ## 🍽 海底主題餐廳嘅驚喜
 
-套票包埋嘅午餐係喺一個精心設計嘅「海底世界」主題餐廳享用。成個餐廳以藍色調為主，牆身裝飾住珊瑚、海草等海洋元素，搭配特別燈光效果，令人好似置身海底宮殿咁。餐點係精緻嘅西式套餐，特別推薦佢哋嘅峇里島特色飲品，啲細路對造型得意嘅甜品都愛不釋手。
+套票包埋嘅午餐係喺一個精心設計嘅「海底世界」主題餐廳享用。成個餐廳以藍色調為主，牆身裝飾住珊瑚、海草等海洋元素，搭配特殊燈光效果，令人好似置身海底宮殿。餐點係精緻嘅西式套餐，特別推薦佢哋嘅峇里島特色飲品，細路對造型得意嘅甜品都愛不釋手。
 
 ![海底主題餐廳的驚喜](https://images.gobaligo.id/vocus/vocus_dde920a2ff3ff6a19c243c058206babf.jpg)
 
 ## 🎭 Varuna Show 震撼登場
 
-我哋Premium座位喺中央區域，視野超正。燈光一暗，成個劇場即刻變身成一個巨大嘅海底世界。
+我哋Premium座位喺中央區域，視野超正。當燈光熄咗，成個劇場即刻變身成一個巨型嘅海底世界。
 
-表演以Varuna呢位海底守護者嘅冒險故事做主線，最令人驚嘆嘅係嗰啲精心設計嘅舞台效果：
+表演以Varuna呢個海底守護者嘅冒險故事做主線，最令人驚嘆嘅係啲精心設計嘅舞台效果：
 
 - 水幕投影創造出深海幻境
-- 特技演員喺「水入面」優雅起舞（其實係靠特殊服裝同燈光效果）
+- 特技演員喺「水中」優雅起舞（其實係透過特殊服裝同燈光效果）
 - 舞台機關瞬間轉換場景，由珊瑚礁到深海峽谷一氣呵成
 - 環繞音效令人好似置身其中
 
@@ -67,40 +67,42 @@ _srcHash: d3efa5eca689077e2698ea411303337c
 
 ## 📸 同演員影相
 
-表演完咗之後，工作人員帶我哋去影相區。啲細路好興奮咁同著住靚衫嘅演員影相，呢啲相成為咗我哋今次旅程最珍貴嘅紀念品之一。
+表演完咗之後，工作人員帶我哋去拍照區。小朋友好興奮咁同著住華麗戲服嘅演員影相，呢啲相成為我哋呢次旅程最珍貴嘅紀念品之一。
 
 ## 🐬 其他精彩活動
 
-睇完Varuna Show之後，我哋仲體驗咗Premium套票入面包埋嘅：
+睇完Varuna Show之後，我哋仲體驗咗Premium套票入面嘅嘢：
 
-- Jungle Odyssey：近距離觀察野生動物（大約一個鐘多少少，建議一開門就入去可以避開人潮，影到靚相）
-- Fun Zone：有啲遊樂設施可以俾大人細路一齊玩
+- Jungle Odyssey：近距離睇野生動物（大約一個鐘多少少，建議一開門就入去避開人潮，影到靚相）
+- Fun Zone：有啲遊樂設施俾大人細路一齊玩
 - 海獅同海豚表演：互動性超強（15:00）
 - Pachamaya火焰秀：充滿原始力量嘅震撼表演（12:00 & 15:30）
 
-> ▶購買 [Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
+> ▶買 [Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
 **快速參考：**[【峇里島親子旅遊景點海洋公園】Marine Safari Bali 峇里島海洋野生動物園攻略](/zh-hk/blog/marine-safari-bali-guide/)
 
 ## 💡 實用建議
 
-1. [喺Klook買Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已經包埋入場門票
-2. Premium座位值得投資，觀賞體驗提升好多，餐點好唔錯，包喺套票入面嘅表演同體驗都夠多
-3. 園區營業時間係9:00~17:00，建議一早嚟，先周圍行吓、搭專車遊園、玩吓Fun Zone嘅遊樂設施
-4. 表演12:30開始，可以早啲入場揀位
+1. [喺Klook買Varuna Show](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)，已經包埋入園門票
+2. Premium座位值得投資，觀賞體驗提升好多，餐點唔錯，套票入面嘅表演/體驗都夠多
+3. 園區營業時間係9:00~17:00，建議一早嚟，先周圍行吓、搭專車遊園、玩吓Fun Zone遊樂設施
+4. 秀12:30開始，可以提早入場揀位
 5. 表演期間唔俾影相，但完咗之後有充足時間影相
 6. 園區有儲物櫃可以放隨身物品
+
+> 出發前想計住預算？**[峇里島門票票價總表](/zh-hk/tickets/)** 收錄晒全站熱門景點嘅即時參考票價，方便比較 Klook／Trip.com 嘅優惠。
 
 ![Premium票的觀賞位置最好](https://images.gobaligo.id/vocus/vocus_ce0f0c44030644cd9191e3c141ffdb76.jpg)
 
 Premium飛嘅觀賞位置最好
 
-《Varuna Show》將劇場藝術同海洋主題完美結合，創造出獨一無二嘅視覺饗宴。呢場表演唔單止令小朋友睇到眼都唔眨，連我哋大人見到都嘩嘩聲。如果你正喺度計劃峇里島之旅，千祈唔好錯過呢個精彩絕倫嘅水下奇幻劇場！
+《Varuna Show》將劇場藝術同海洋主題完美結合，創造出獨一無二嘅視覺饗宴。呢場表演唔單止令細路睇到眼都唔眨，連我哋大人睇完都忍唔住讚嘆。如果你正喺度計劃峇里島之旅，千祈唔好錯過呢個精彩絕倫嘅水下奇幻劇場！
 
 > ▶購買 [Day Varuna Premium套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063961&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5cf91e78e5%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D)
 
 **快速參考：**
-[巴里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點樣玩、夜宿攻略](/zh-hk/blog/bali-safari-night-stay/)
+[峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點樣玩樂、夜宿攻略](/zh-hk/blog/bali-safari-night-stay/)
 
 {{block:ubud}}
 
@@ -109,9 +111,9 @@ Premium飛嘅觀賞位置最好
 - 🐘 **峇里動物園（Bali Zoo）**：提供貼近自然嘅動物觀賞體驗，匯集咗來自印尼同世界各地嘅多種生物，適合家庭一日遊（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F1240-bali-zoo-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D43e2032265)）
 - 🦁 **峇里野生動物與海洋公園（Bali Safari & Marine Park）**：
 - 踏上野生動物園之旅，遇見各式各樣嘅動物，甚至係瀕臨絕種嘅物種。可以搭野生動物巴士觀賞獅子同斑馬（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd53092f046)）
-- 🦚**峇里島鳥園**：充滿異國風情嘅熱帶天堂，匯聚全球珍奇鳥類同沉浸式自然景觀。呢度結合精彩鳥類表演同互動體驗，好啱親子同遊（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8555ce542e)）
-- 🎭 **峇里島爬行公園**：觀賞東南亞最齊全嘅爬行動物，了解佢哋嘅各種知識（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d7be6c50c)）
-- 🛍️ **瑪森大象公園（Mason Elephant Park）**：探索峇里島唯一嘅專業大象救援園區，同蘇門答臘象親密互動。欣賞園區內嘅大象表演，並透過餵食活動同呢啲溫柔嘅巨獸建立連結（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903)）
+- 🦚**峇里島鳥園**：充滿異國風情嘅熱帶天堂，匯聚全球珍奇雀鳥同沉浸式自然景觀。呢度結合精彩雀鳥表演同互動體驗，非常適合親子同遊（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8555ce542e)）
+- 🎭 **峇里島爬行公園**：睇東南亞最齊全嘅爬行動物，學吓佢哋嘅各種知識（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F37955-bali-reptile-park-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d7be6c50c)）
+- 🛍️ **瑪森大象公園（Mason Elephant Park）**：探索峇里島唯一嘅專業大象救援園區，同蘇門答臘象親密互動。欣賞園區入面嘅大象表演，仲可以透過餵食活動同呢啲溫柔嘅巨獸建立連結（[Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1148651&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24353-mason-elephant-park-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1c4e1cc903)）
 
 ***
 

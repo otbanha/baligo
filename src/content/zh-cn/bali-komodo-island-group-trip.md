@@ -16,9 +16,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a24c85b34f64e559336545041ad6337.jpg'
 originalUrl: 'https://vocus.cc/article/66efc051fd89780001433018'
 lang: zh-cn
-_srcHash: cda7e43a9581e8165e2e41b8514e8c7b
+_srcHash: PENDING_RETRY_af6d805b526b844a4e607760c249bb3e
+_translateAttempts: 1
 ---
-**重点摘要**：六人行巴厘岛＋科莫多岛 6 天 5 夜实测心得——① **闹区塞车严重**（下午 1 点到晚上 7 点半，乌鲁瓦图/乌布/金巴兰尤其夸张，Google Maps 预估时间要乘以 2.5-3 倍）；② **机场 Wi-Fi 弱**，建议备漫游或当地 SIM 卡（Telkomsel 约 USD$10-16 含 14G）；③ 领行李可能耗时将近 1 小时，比通关本身还久；④ 全员一度肠胃炎，备妥肠胃药很重要。
+**重点摘要**：六人行巴厘岛＋科莫多岛 6 天 5 夜实测心得——① **闹区塞车严重**（下午 1 点到晚上 7 点半，乌鲁瓦图/乌布/金巴兰尤其夸张，Google Maps 预估时间要乘以 2.5-3 倍）；② **机场 Wi-Fi 弱**，建议备漫游或当地 SIM 卡（Telkomsel 约 USD$10-16 含 14G）；③ 领行李可能耗时将近 1 小时，比通关本身还久；④ 全员一度肠胃炎，备好肠胃药很重要。
 
 > 以下内容改编自团友 [Sandra Yun](https://www.facebook.com/share/p/R9sqkkpWfnrB6Bzr/) 分享游记：
 
@@ -40,7 +41,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 ## 3. 机场Wi-Fi弱到爆！
 
-我们一到巴厘岛机场就发现那里的Wi-Fi实在太弱了，感觉是因为当时连接的人太多。幸好同行的朋友有中华电信的漫游服务，否则真不知道该如何联络我们的司机。如果你打算购买当地的Telkomsel SIM卡，价格大约在10到16美元之间，包含14G流量，但在某些偏远地区（例如Labuan Bajo跳岛区）信号依然不强就是。
+我们一到巴厘岛机场就发现那里的Wi-Fi实在太弱了，感觉是因为当时连接的人太多。幸好同行的朋友有中华电信的漫游服务，否则真不知道该如何联络我们的司机。如果你打算购买当地的Telkomsel SIM卡，价格大约在USD$10到USD$16之间，包含14G流量，但在某些偏远地区（例如Labuan Bajo跳岛区）信号依然不强就是。
 
 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
@@ -60,11 +61,13 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 由于我们这次行程还包括跳岛，因此在巴厘岛的时间只有三天。但我们却选择了三个不同的区域去游览，结果每天都在堵车中度过。如果你想要多逛一些地方，建议选择在同一区域待1-2天，这样才不会把宝贵的时间浪费在路上。
 
-> 编按：尽量小区域的移动才是巴厘岛旅游的王道啊！请看「[巴厘岛分区攻略](/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8C%BA%E6%94%BB%E7%95%A5)」
+> 編按：盡量小區域的移動才是峇里島旅遊的王道啊！請看「[峇里島分區攻略](/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5)」
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
 [乌鲁瓦图火舞的门票可以在网上先买好（Sandra Yun提供）](/zh-cn/blog/kecak-fire-dance-bali/)
+
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
 ## 7. 水上活动价差大
 
@@ -110,7 +113,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 Klook有数十种科莫多行程可以选择，[请看这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=920722&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dkomodo%26spm%3DHome.TopNavigation.SearchInput%26clickId%3D4685c48829)。
 
-> 编者按：我们也有提供专业的旅行社套装好的行程，提供参考
+> 编按：我们也有提供专业的旅行社套装好的行程，提供参考
 
 - [巴厘岛+科莫多岛全包轻奢行程](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
@@ -120,13 +123,13 @@ Klook有数十种科莫多行程可以选择，[请看这里](https://affiliate.
 
 https://youtu.be/GivvqCXp11A
 
-> 编按：这六位小姐姐是专业的护理人员，他们自备处方药。一般人买上面视频提到的成药即可。
+编按：这六位小姐姐是专业的护理人员，他们自备处方药。一般人买上面视频提到的成药即可。
 
 ## 13. 骑士骗局要小心！
 
 在乌布我们遇到了一些喊价的骑士（摩的，motor taxi），当时预订了两段车程，结果他们把我们载错地方，并在到达正确地点时又收了一次费用。这种情况很可能是网友们提到的白牌机车骗局，大家一定要小心，事前确认好路线和价格。
 
-> 编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
+编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/zh-cn/blog/gojek-bali-guide/)
 
 ![13. 騎士騙局要小心！](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 

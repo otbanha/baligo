@@ -23,7 +23,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781582245855-tirta_empul.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: zh-cn
-_srcHash: 190adada1362575756a4e0583411c27f
+_srcHash: PENDING_RETRY_fc50973f5ed08f37a968a0b150f8e548
+_translateAttempts: 1
 ---
 **先说结论**：Tirta Empul（圣泉寺）位于 Gianyar 的 Tampaksiring 村，最大亮点是**依次通过 26 座喷泉的 Melukat 净化仪式**——**非印度教徒也能参加**，只要尊重当地礼仪（穿纱笼、遵守参拜顺序）即可。适合想体验巴厘岛最地道宗教文化、顺路排入乌布周边行程的旅人。
 
@@ -44,7 +45,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ![Melukat 淨化儀式是什麼？非印度教徒可以參加嗎？](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
-Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26 座喷泉，借由泼水与祈祷净化心灵。
+Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26 座喷泉，通过泼水与祈祷净化心灵。
 
 非印度教徒也可参与，只要尊重文化与礼仪即可。
 
@@ -61,35 +62,35 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26
 
 圣泉净化仪式看似简单，但其实有一定的顺序与规矩，请务必依循：
 
-1. **着装与准备**：更换好传统绿色 Sarong（沙龙）与腰带，将随身物品放入储物柜后前往圣泉池区。
-2. **开始净化流程**：面对圣泉池时，**请从左侧水池**开始，按照出水口的顺序逐一进行祈祷与净化。
-3. **跳过两个特定出水口（Tirta Pengentas）**：请**略过左侧水池倒数第二与第三个出水口**，这两个是专为亡者的净灵仪式设置，非丧事者不应使用。
+1. **著裝與準備**：更換好傳統綠色 Sarong（沙龍）與腰帶，將隨身物品放入置物櫃後前往聖泉池區。
+2. **開始淨化流程**：面對聖泉池時，**請從左側水池**開始，按照出水口的順序逐一進行祈禱與淨化。
+3. **跳過兩個特定出水口（Tirta Pengentas）**：請**略過左側水池倒數第二與第三個出水口**，這兩個是專為亡者的淨靈儀式設置，非喪事者不應使用。
+4. **完成左側水池後，前往右側水池**：右邊的聖泉池只需進行第一個出水口的淨化儀式即可，不必逐一進行。
+5. **每個出水口的淨化步驟如下：**
+6. - 雙手合十，面對出水口默念心中願望或祈求。
+
+- 2. **开始净化流程**：面对圣泉池时，**请从左侧水池**开始，按照出水口的顺序逐一进行祈祷与净化。
+- 3. **跳过两个特定出水口（Tirta Pengentas）**：请**略过左侧水池倒数第二与第三个出水口**，这两个是专为亡者的净灵仪式设置，非丧事者不应使用。
+
 4. **完成左侧水池后，前往右侧水池**：右边的圣泉池只需进行第一个出水口的净化仪式即可，不必逐一进行。
-5. **每个出水口的净化步骤如下：**
-6. - 双手合十，面对出水口默念心中愿望或祈求。
 
-- 用泉水泼湿头发，象征清除杂念与疲惫。
-- 将圣水洒于全身，以求内外净化与精神重生。
-
-清凉透彻的泉水流过全身，仿佛洗去旅途的疲劳与心头的烦忧。这样一场身心灵的仪式，不仅让人感觉到内在平静，也是一种深刻且难忘的文化体验，绝对值得一试！
-
-> [参加 Klook 数十个与圣泉寺组合的好评一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [參加 Klook 數十個與聖泉寺組合的好評一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
 ***
 
-## Tirta Empul 的三大区域介绍
+6. - 双手合十，面对出水口默念心中愿望或祈求。
 
-**外院（Jaba Pura）**
+用泉水泼湿头发，象征清除杂念与疲惫。
 
 ![Tirta Empul 的三大區域介紹](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
-进入庙门后即抵达外院，有静谧的鲤鱼池与绿植环绕，非常适合静心冥想。
+将圣水洒于全身，以求内外净化与精神重生。
 
-**中庭（Jaba Tengah）**
+清凉透彻的泉水流过全身，仿佛洗去旅途的疲劳与心头的烦忧。这样一场身心灵的仪式，不仅让人感觉到内在平静，也是一种深刻且难忘的文化体验，绝对值得一试！
 
 ![Tirta Empul 的三大區域介紹](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
-为净化仪式的主区，拥有两大池与26座泉眼，每一眼水源代表不同的心灵祈愿。
+> [参加 Klook 数十个与圣泉寺组合的好评一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
 **重要泉眼代表意义：**
 
@@ -97,13 +98,13 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26
 - Tirta Penglukatan：去除负能量
 - Tirta Panegtegan：增强勇气与信心
 
-注意：部分泉水（如Tirta Pengentas）仅供死亡仪式，旅客请勿误用。
+注意：部分泉水（如 Tirta Pengentas）仅供死亡仪式，旅客请勿误用。
 
 **内殿（Jeroan）**
 
 ![Tirta Empul 的三大區域介紹](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
-最神圣的区域，有主神殿与泉水源头，是结束Melukat仪式后静坐与祈愿的场所。一般非印度教徒不要随便进入。
+最神圣的区域，有主神殿与泉水源头，是结束 Melukat 仪式后静坐与祈愿的场所。一般非印度教徒不要随便进入。
 
 ***
 
@@ -111,23 +112,23 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26
 
 **最佳时间建议：**
 
-- 早上 8 点前人最少，适合静心净化
+- 早上8点前人潮最少，适合静心净化
 - 满月与新月（Purnama、Tilem）适合灵性仪式
-- 节庆日如 Galungan、Kuningan 热闹非凡
+- 节庆日如Galungan、Kuningan热闹非凡
 
 **建议停留时间：**
 
-- 快速参观：30–60 分钟
-- 参与 Melukat：1.5–2 小时
+- 快速参观：30–60分钟
+- 参与Melukat：1.5–2小时
 - 若想拍照与静坐，可安排半日行程
 
-> [参加 Klook 数十个与圣泉寺组合的好评一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [参加Klook数十个与圣泉寺组合的好评一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
 ***
 
-## Tirta Empul 的位置与门票信息
+## Tirta Empul的位置与门票信息
 
-地址：Tampaksiring 区，Gianyar，巴厘岛
+地址：Tampaksiring区，Gianyar，巴厘岛
 
 **交通方式建议：**
 
@@ -143,6 +144,8 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26
 - 成人：Rp 75,000
 - 儿童（5–12 岁）：Rp 50,000
 - 幼童：免费
+
+> 巴厘岛景点门票每年都会调整，出发前建议先到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认 Tirta Empul 最新价格（进去后点「🛕 寺庙」），同一页还有乌鲁瓦图神庙、海神庙等其他寺庙的即时参考价。
 
 **开放时间：**
 
@@ -165,20 +168,20 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依次通过 26
 
 - 女性月经期间不可入主殿
 - 不得踩踏神坛或供桌
-- 保持安静、尊重进行仪式的人
+- 保持安静，尊重进行仪式的人
 - 禁止随地丢垃圾或喧哗行为
 
 > [参加 Klook 数十个与圣泉寺组合的好评一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
-## 其他隐秘的圣泉寺
+## 其他隐匿的圣泉寺
 
 ![Dalem Pingit聖泉有著圖左的瀑布灌頂/Pura Gunung Kawi聖泉有壯觀的石壁雕刻](https://images.gobaligo.id/vocus/vocus_a0e641fa72cd5443fbfe00f02e4c1894.jpg)
 
 Dalem Pingit圣泉有着图左的瀑布灌顶/Pura Gunung Kawi圣泉有壮观的石壁雕刻
 
-一般的旅游网志只会介绍乌布一个最有名的圣泉寺 Pura Tirta Empul，其实就我所知，乌布的圣泉寺最少有三个喔！
+一般的旅游博客只会介绍乌布一个最有名的圣泉寺 Pura Tirta Empul，其实就我所知，乌布的圣泉寺最少有三个哦！
 
-在乌布除了众所皆知的Pura Tirta Empul圣泉寺外，还有两个隐藏在幽静角落的寺庙，相隔都不会太远，等待着探索者的到来。这两处圣泉寺不仅让您体验到巴厘岛独特的宗教文化，更能在相对清幽的环境中享受一场真诚而宁静的沐浴体验。
+在乌布除了众所周知的Pura Tirta Empul圣泉寺外，还有两个隐藏在幽静角落的寺庙，相隔都不会太远，等待着探索者的到来。这两处圣泉寺不仅让您体验到巴厘岛独特的宗教文化，更能在相对清幽的环境中享受一场真诚而宁静的沐浴体验。
 
 以下是我们推荐给你们的另外两个圣泉寺：
 
@@ -204,7 +207,7 @@ Dalem Pingit圣泉有着图左的瀑布灌顶/Pura Gunung Kawi圣泉有壮观的
 
 ### 2. 入场是否提供 Sarong？
 
-是的。入庙时会免费提供 Sarong 与腰带，不须自行携带。
+是的。入庙时会免费提供 Sarong 与腰带，不需自行携带。
 
 ### 3. 泉水可以饮用吗？
 
@@ -212,10 +215,10 @@ Dalem Pingit圣泉有着图左的瀑布灌顶/Pura Gunung Kawi圣泉有壮观的
 
 ### 4. 可否自行参观，不请导览？
 
-可以。但若希望深入了解泉水含义与仪式流程，建议请当地导游。
+可以。但如果希望深入了解泉水含义与仪式流程，建议请当地导游。
 
-### 5. 是否能在寺内拍照？
+### 5. 是否能在寺庙内拍照？
 
-可拍照，但请避开仪式进行中的人员，并避免打扰祈祷中的信徒。
+可以拍照，但请避开仪式进行中的人员，并避免打扰祈祷中的信徒。
 
 {{block:klook}}

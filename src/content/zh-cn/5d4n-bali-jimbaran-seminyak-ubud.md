@@ -5,7 +5,7 @@ description: >-
   五天四夜巴厘岛自由行下集，分享水明漾与乌布行程，包括 Kilo Kitchen、Bintang Supermarket、Seminyak
   Village、Sangeh Monkey Forest、乌布美食、SPA、Villa住宿及包车司机推荐，完整记录旅游心得与花费。
 pubDate: 2026-07-23T00:00:00.000Z
-pubHour: 18
+pubHour: 17
 category:
   - 遊記分享
 tags:
@@ -38,9 +38,9 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-07-21T00:00:00.000Z
+updatedDate: 2026-07-23T00:00:00.000Z
 lang: zh-cn
-_srcHash: 85f0b41cc2805eb2bee11eae78b555fa
+_srcHash: 1367d730124fe75f9215888629a173c5
 ---
 
 **重点摘要**：这是巴厘岛五天四夜游记的下半场，路线是**水明漾 → 乌布 → 水明漾**。实测值得收藏的点：水明漾 **Kilo Kitchen**（餐厅）、**Bintang Supermarket**（伴手礼采购）、Berry Amour 浪漫 Villa；乌布 **Sangeh Monkey Forest**（猴子森林）、Sun Sun Warung 与 Pak Malen 烤猪饭（地道美食）、Ubud Traditional Spa。前两天的金巴兰路线与机场入境请看[上集](https://gobaligo.id/zh-cn/blog/2026-03-29-092243/)。
@@ -83,7 +83,7 @@ _srcHash: 85f0b41cc2805eb2bee11eae78b555fa
 
 逛完水明漾后，接着就是今天最期待的行程之一——入住第二间酒店！
 
-这次入住的是 **Berry Amour Romantic Villas**，一晚房价约七百多元美金。这间主打浪漫度假氛围，很适合情侣、夫妻或蜜月旅行入住。
+这次入住的是 **Berry Amour Romantic Villas**，一晚房价约 USD$226。这家主打浪漫度假氛围，很适合情侣、夫妻或蜜月旅行入住。
 
 办理 Check-in 时，酒店先安排了一个很有仪式感的小迎宾活动，工作人员请我们互相替对方戴上手链，还准备了皇冠让我们戴上拍照，虽然有点害羞，但也让入住多了一份特别的回忆。
 
@@ -113,15 +113,15 @@ Villa 一样配有私人泳池、小厨房，旁边还有一座小型泡澡池�
 
 ![第三天](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
-Berry Amour Romantic Villas是一处获得五星评级的浪漫风格别墅区，共有20间villa，仅接受情侣及16岁以上客人入住。[这里](https://gobaligo.id/zh-cn/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas)有详细介绍。
+Berry Amour Romantic Villas 是一处获得五星评级的浪漫风格别墅区，共有 20 间 villa，仅接受情侣及 16 岁以上客人入住。[这里](https://gobaligo.id/zh-cn/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas)有详细介绍。
 
-> Berry Amour Romantic Villas房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=444466) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981717&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zszFJMEk9YCZY1LfmywhRgOLiUKOhbZc1xcfmuDgefirRkx_0RSHAJ4ZjFe_Wq9gZNzI2H8IKFif67CDkekAI9MJxr36C5hm7PjMeoqFmeMExyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKz-b0Pu2e-WLTbiUdpZTU4mSgEJCVmJtfmlcCZJuaWOgZGABFShIrPFOUrMx1lJITc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrtXBdPnTRfOeNux5vqKVOJebUNvlhsS43LA29hELU3TsJxaGXywMTawMXawMk1iZOfbq72Jlc_Y3iXIKkVI0NDAwMDI1NTLXNUi0TASCJF0TSxNjAwtdQ2MjEwtjM43WsxtnPDU2spZinXLg-TR2BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWyGpsauRqZRNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WsyhwS6G4IRmIO0QaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoAOORmMs4CAAA&masterhotelid_tracelogid=100025527-0a9aaaab-494308-1324836&detailFilters=17%7C1~17~1*31%7C981717~31~981717*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/mGE2HtVB)
+> Berry Amour Romantic Villas 房价 & 空房查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=444466) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981717&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zszFJMEk9YCZY1LfmywhRgOLiUKOhbZc1xcfmuDgefirRkx_0RSHAJ4ZjFe_Wq9gZNzI2H8IKFif67CDkekAI9MJxr36C5hm7PjMeoqFmeMExyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKz-b0Pu2e-WLTbiUdpZTU4mSgEJCVmJtfmlcCZJuaWOgZGABFShIrPFOUrMx1lJITc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrtXBdPnTRfOeNux5vqKVOJebUNvlhsS43LA29hELU3TsJxaGXywMTawMXawMk1iZOfbq72Jlc_Y3iXIKkVI0NDAwMDI1NTLXNUi0TASCJF0TSxNjAwtdQ2MjEwtjM43WsxtnPDU2spZinXLg-TR2BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWyGpsauRqZRNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WsyhwS6G4IRmIO0QaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoAOORmMs4CAAA&masterhotelid_tracelogid=100025527-0a9aaaab-494308-1324836&detailFilters=17%7C1~17~1*31%7C981717~31~981717*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/mGE2HtVB)
 
 晚上我们没有再特地出门，而是直接用 **Grab** 点外卖，在 Villa 悠闲享受晚餐。这次点了披萨、Pad Thai（泰式炒河粉）和冬阴功汤，不仅送餐速度快，价格也比想象中便宜不少，而且味道都很不错。
 
 ![第三天](https://images.gobaligo.id/images/2026-06/1782548454843-pizza.jpg)
 
-（黄医师提供）
+（黄医生提供）
 
 编按：来巴厘岛真的要尝尝这里的pizza，每一家都好吃！
 
@@ -153,13 +153,15 @@ Berry Amour Romantic Villas是一处获得五星评级的浪漫风格别墅区�
 
 这次门票约折合美金 **10 元**，另外我们也购买了一张园区拍摄的纪念照片，再加上给导览人员的小费，大约又花了 **6 美元**。以整体体验来说，我们觉得相当值得，也是这趟旅程中印象最深刻的景点之一。
 
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
+
 https://youtube.com/shorts/tpPWsvsH-Eo
 
 离开 **Sangeh Monkey Forest** 后，我们继续往这趟旅程最受欢迎的区域之一——乌布前进。
 
 中午先来到 **Sun Sun Warung** 用餐，这是一间许多旅客推荐的平价印尼料理餐厅。餐厅环境虽然简单，但餐点相当有水准，而且价格非常亲民。
 
-我们点了招牌的 **脏鸭饭** 和 **印尼炒面（Mie Goreng）**，两道都让人很满意。脏鸭外皮炸得酥脆，肉质依然保有嫩度，搭配印尼辣椒酱一起吃更有层次；印尼炒面则充满浓浓的南洋香气，咸香够味却不会过于油腻。两个人吃下来大约只花了 **16 美元**，以乌布来说性价比真的很高，如果喜欢地道印尼料理，很推荐安排来吃看看。
+我们点了招牌的 **脏鸭饭** 和 **印尼炒面（Mie Goreng）**，两道都让人很满意。脏鸭外皮炸得酥脆，肉质依然保有嫩度，搭配印尼辣椒酱一起吃更有层次；印尼炒面则充满浓浓的南洋香气，咸香够味却不会过于油腻。两个人吃下来大约只花了 **16 美元**，以乌布来说 CP 值真的很高，如果喜欢地道印尼料理，很推荐安排来吃看看。
 
 {{block:美食}}
 
@@ -171,9 +173,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 这次我们点了 **椰子冰、椰子柠檬饮和美式咖啡**，冰冰凉凉的椰子系列饮品喝起来非常清爽，瞬间把暑气赶走。如果大家在乌布逛到满头大汗，很推荐进来坐一下，补充水分也顺便休息。
 
-[【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/zh-cn/blog/ubud-royal-palace-tour-guide/)
+> [【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](https://gobaligo.id/zh-cn/blog/ubud-royal-palace-tour-guide/)
 
-休息完后，我们又发现了一间售卖 **麝香猫咖啡（Kopi Luwak）** 的店家。最特别的是，这里竟然可以近距离和真正的麝香猫互动！
+休息完后，我们又发现了一家售卖 **麝香猫咖啡（Kopi Luwak）** 的店。最特别的是，这里竟然可以近距离和真正的麝香猫互动！
 
 ![第四天](https://images.gobaligo.id/images/2026-06/1782548311880-luwak.jpg)
 
@@ -189,9 +191,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 （黄医师提供）
 
-按摩师的力道虽然没有我们前几天体验的 SPA 那么到位，不过整体服务、环境和价格都很不错，以乌布市区的价格来说 CP 值算是相当高。如果刚好安排一整天在乌布逛街、走景点，最后来按摩放松一下，再回酒店休息，我觉得是很舒服的行程安排。
+按摩师的力道虽然没有我们前几天体验的SPA那么到位，不过整体服务、环境和价格都很不错，以乌布市区的价格来说性价比算是相当高。如果刚好安排一整天在乌布逛街、走景点，最后来按摩放松一下，再回酒店休息，我觉得是很舒服的行程安排。
 
-> [【精华篇】巴厘岛好评SPA推荐、到府按摩大集合 用区域划分更方便查找](https://gobaligo.id/zh-cn/blog/spa/)
+> [【精华篇】巴厘岛好评SPA推荐、上门按摩大集合 用区域划分更方便查找](https://gobaligo.id/zh-cn/blog/spa/)
 
 {{block:ubud}}
 
@@ -211,9 +213,9 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 这天没有安排太多行程，退房后，我们请司机 **Benny** 带我们到他推荐的在地小吃店 **Warung Babi Guling Pak Malen**。
 
-这是一间相当有名的烤乳猪餐厅，接近中午时几乎座无虚席，可以看得出深受当地人和游客喜爱。
+这是一间相当有名的烤乳猪餐厅，接近中午时几乎座无虚席，可以看出深受当地人和游客喜爱。
 
-我们点了一份招牌烤乳猪饭，第一眼看到时，让我联想到台湾的嘉义火鸡肉饭，一样都是简单的一盘饭配上切好的肉和配菜。一份不到 **3 美元**，价格真的很便宜。
+我们点了一份招牌烤乳猪饭，第一眼看到时，让我联想到台湾的嘉义火鸡肉饭，一样都是简单的一盘饭配上切好的肉和配菜。一份不到 **3 美金**，价格真的很便宜。
 
 不过这次我们吃到的肉稍微有点放凉了，所以口感没有想象中那么好，整体没有特别惊艳。当然，每个人的感受不同，如果刚好在附近，还是可以来体验看看这间很有名的在地餐厅。
 
@@ -233,7 +235,7 @@ Arak 传统上是以椰子花蜜等原料经过发酵、蒸馏制成，喝起来
 
 回头看看，这五天其实只探索了巴厘岛的一小部分，却已经让我们深深喜欢上这座岛屿。
 
-这里的美食让人一吃就想再回味，SPA 按摩依旧是高 CP 值的享受，猴子森林和麝香猫互动也都非常有趣；入住的两间 Villa 各有特色，都很值得推荐。
+这里的美食让人一吃就想再回味，SPA 按摩依旧是高性价比的享受，猴子森林和麝香猫互动也都非常有趣；入住的两间 Villa 各有特色，都很值得推荐。
 
 ![第五天](https://images.gobaligo.id/images/2026-06/1782548632198-benny.jpg)
 
