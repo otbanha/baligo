@@ -5,9 +5,9 @@ title: >-
 slug: ''
 description: >-
   This is the second page of recommended Bali private car drivers, focusing on
-  those who can communicate in Chinese. Each driver's sharing links can be
-  clicked to verify the original Facebook group posts. Includes 2026 pricing and
-  information to provide when contacting.
+  those who can communicate in Chinese. Each driver's sharing links below can be
+  clicked to verify the original Facebook group posts. Includes 2026 car hire
+  rates and information to provide when contacting.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -23,38 +23,38 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-12T00:00:00.000Z
+updatedDate: 2026-08-15T00:00:00.000Z
 lang: en
-_srcHash: 14a0ff5837abd389c2878fb8969243fe
+_srcHash: 3f00a105c3ce21bf88416e6a2f7eed46
 ---
 
-Update: 08/10/2026
+Update: August 10, 2026
 
-**What This Page Is**: The **second page** of recommended Bali private car drivers, primarily featuring Chinese-speaking drivers. It includes **19 drivers and 258 ride-sharing posts** made by group members in the Facebook community. The numbers below each driver are links to the original posts, which you can click to verify.
+**What This Page Is**: The **second page** of recommended Bali private car drivers, primarily featuring Chinese-speaking drivers. It includes **19 drivers and 258 ride-sharing posts from group members in the Facebook community**. The numbers below each driver are direct links to the original posts—feel free to click and verify.
 
-Charter rates are approximately **Rp 600,000–800,000 / 10 hours / 5-seater** (per car, not per person, for areas south of Ubud). Starting July 1, 2026, there will be an additional fuel surcharge (Rp 50,000 for half-day, Rp 100,000 for full-day). Information on cross-zone surcharges, overtime fees, and booking procedures is all organized on [Page 1](/en/blog/bali-private-car-drivers-guide/).
+Car hire rates are approximately **Rp 600,000–800,000 / 10 hours / 5-seater** (per car, not per person, south of Ubud). Starting July 1, 2026, there is an additional fuel surcharge (Rp 50,000 for half-day, Rp 100,000 for full-day). Cross-zone surcharges, overtime fees, and booking procedures are all detailed on [Page 1](/en/blog/bali-private-car-drivers-guide/).
 
-> When contacting a driver, please provide all details at once: **date, number of days, number of people and luggage, pick-up and drop-off locations, and the attractions you want to visit**. Also, ask for the total amount including any cross-zone surcharges. ⚠️ On Line, you cannot add friends across regions using an ID; you need to **scan the QR Code**.
+> When contacting a driver, provide all details at once: **date, number of days, number of people and luggage, pick-up and drop-off locations, and places you want to visit**. Also ask for the total amount including any cross-zone surcharges. ⚠️ On Line, you cannot add friends across regions using an ID—you need to **scan the QR Code**.
 
 **👉 Page 1 features another 24 drivers (including 9 Chinese-speaking drivers):** [**Recommended Bali Private Car Drivers (Page 1)**](/en/blog/bali-private-car-drivers-guide/)
 
 ## Overview of the 19 Drivers on This Page
 
-The order **does not indicate ranking**; a higher number of shares only means longer accumulated reputation. Click on a name to jump to that driver's sharing links.
+The order **does not indicate ranking**; a higher number of shares simply means longer accumulated reputation. Click on a name to jump to that driver's sharing links.
 
-| Driver | Number of User Shares |
+| Driver | Number of Community Shares |
 | --- | --- |
 | [Jimmi Liu](#jimmi-liu) | 9 |
 | [Betty Pinsky & Xiao Wu](#betty-pinsky--xiao-wu) | 25 |
-| [Any](#any) | 31 |
+| [Any Anni](#any-anni) | 31 |
 | [Komang WikaSutresna](#komang-wikasutresna) | 13 |
-| [Fery Kyo](#fery-kyo) | 17 |
+| [Fery Kyo](#fery-kyo) | 18 |
 | [Gede Ari](#gede-ari) | 9 |
 | [Benny Surya Pragosa](#benny-surya-pragosa) | 12 |
 | [Satrya Gede](#satrya-gede) | 9 |
 | [Ok Bali](#ok-bali) | 22 |
 | [Maday](#maday) | 5 |
-| [Dody](#dody) | 16 |
+| [Dody](#dody) | 17 |
 | [Vina](#vina) | 13 |
 | [Iwayan Suantara (Brother Kang)](#iwayan-suantara-brother-kang) | 20 |
 | [Kadek Puri](#kadek-puri) | 6 |
@@ -94,7 +94,7 @@ The order **does not indicate ranking**; a higher number of shares only means lo
 
 ![Fery Kyo](https://images.gobaligo.id/images/2026-03/1774787651434-ferry_new.jpg)
 
-👍 **17 Verified Reviews from Travelers** (Click numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) [2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) [3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) [4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) [5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) [7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) [8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) [9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) [10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) [11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) [12](https://www.facebook.com/share/p/1LRZUxJSof/) [13](https://www.facebook.com/share/p/16ti13tia3/) [14](https://www.facebook.com/share/p/16qQgKgrQp/) [15](https://www.facebook.com/share/p/18vHZPZk7U/) [16](https://www.facebook.com/share/p/14TkJXfNWnZ/) [17](https://www.facebook.com/share/p/1Ftwd7LbNj/)
+👍 **18 Verified Reviews from Travelers** (Click numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) [2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) [3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) [4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) [5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) [7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) [8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) [9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) [10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) [11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) [12](https://www.facebook.com/share/p/1LRZUxJSof/) [13](https://www.facebook.com/share/p/16ti13tia3/) [14](https://www.facebook.com/share/p/16qQgKgrQp/) [15](https://www.facebook.com/share/p/18vHZPZk7U/) [16](https://www.facebook.com/share/p/14TkJXfNWnZ/) [17](https://www.facebook.com/share/p/1Ftwd7LbNj/) [18](https://www.facebook.com/share/p/1CvXAPDEe6/)
 
 ## Gede Ari
 
@@ -124,61 +124,61 @@ The order **does not indicate ranking**; a higher number of shares only means lo
 
 ![Maday](https://images.gobaligo.id/images/2026-03/1774787915089-maday_new.jpg)
 
-👍 **5 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1ZAH5Hd7nB/) [2](https://www.facebook.com/share/p/18DJzD9WRR/) [3](https://www.facebook.com/share/p/15dpkWJEPn/) [4](https://www.facebook.com/share/p/1Xm2rzrEee/) [5](https://www.facebook.com/share/p/16t1D7TaMU/)
+👍 **5 community-tested reviews** (click numbers for original posts): [1](https://www.facebook.com/share/p/1ZAH5Hd7nB/) [2](https://www.facebook.com/share/p/18DJzD9WRR/) [3](https://www.facebook.com/share/p/15dpkWJEPn/) [4](https://www.facebook.com/share/p/1Xm2rzrEee/) [5](https://www.facebook.com/share/p/16t1D7TaMU/)
 
 ## Dody
 
 ![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍 **16 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/)
+👍 **17 community-tested reviews** (click numbers for original posts): [1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/) [17](https://www.facebook.com/share/p/1BnoV3UZFM/)
 
 ## Vina
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍 **13 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1ALefWHdMF/) [2](https://www.facebook.com/share/p/19K4zEzd5E/) [3](https://www.facebook.com/share/p/1CNDuc9iDz/) [4](https://www.facebook.com/share/p/19quQXbPKN/) [5](https://www.facebook.com/share/p/1J3RUkQCu7/) [6](https://www.facebook.com/share/p/1FvFgCvpwQ/) [7](https://www.facebook.com/share/p/1G75rquYe4/) [8](https://www.facebook.com/share/p/1BLkuF2sBC/) [9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) [10](https://www.facebook.com/share/p/17nCf6g5RC/) [11](https://www.facebook.com/share/p/18mL44rk89/) [12](https://www.facebook.com/share/p/1UCWrJKutL/) [13](https://www.facebook.com/share/p/1FWDiN8vP8/)
+👍 **13 community-tested reviews** (click numbers for original posts): [1](https://www.facebook.com/share/p/1ALefWHdMF/) [2](https://www.facebook.com/share/p/19K4zEzd5E/) [3](https://www.facebook.com/share/p/1CNDuc9iDz/) [4](https://www.facebook.com/share/p/19quQXbPKN/) [5](https://www.facebook.com/share/p/1J3RUkQCu7/) [6](https://www.facebook.com/share/p/1FvFgCvpwQ/) [7](https://www.facebook.com/share/p/1G75rquYe4/) [8](https://www.facebook.com/share/p/1BLkuF2sBC/) [9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) [10](https://www.facebook.com/share/p/17nCf6g5RC/) [11](https://www.facebook.com/share/p/18mL44rk89/) [12](https://www.facebook.com/share/p/1UCWrJKutL/) [13](https://www.facebook.com/share/p/1FWDiN8vP8/)
 
 ## Iwayan Suantara (Kang Ge)
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
-👍 **20 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) [2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) [3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) [4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) [5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) [6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) [7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) [8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) [9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) [10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) [11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) [12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) [13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) [14](https://www.facebook.com/share/p/19eYb9HkPn/) [15](https://www.facebook.com/share/p/18sj6jAcV3/) [16](https://www.facebook.com/share/p/16LwXDKR1H/) [17](https://www.facebook.com/share/p/1EW8DqQ7ex/) [18](https://www.facebook.com/share/p/1P1ABiSqn6/) [19](https://www.facebook.com/share/p/1FtxCvDbr9/) [20](https://www.facebook.com/share/p/17TuGZieHU/)
+👍 **20 community-tested reviews** (click numbers for original posts): [1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) [2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) [3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) [4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) [5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) [6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) [7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) [8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) [9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) [10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) [11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) [12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) [13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) [14](https://www.facebook.com/share/p/19eYb9HkPn/) [15](https://www.facebook.com/share/p/18sj6jAcV3/) [16](https://www.facebook.com/share/p/16LwXDKR1H/) [17](https://www.facebook.com/share/p/1EW8DqQ7ex/) [18](https://www.facebook.com/share/p/1P1ABiSqn6/) [19](https://www.facebook.com/share/p/1FtxCvDbr9/) [20](https://www.facebook.com/share/p/17TuGZieHU/)
 
 ## Kadek Puri
 
 ![Kadek Puri](https://images.gobaligo.id/images/2026-03/1774788060634-kadek_puri_new.jpg)
 
-👍 **6 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) [2](https://www.facebook.com/groups/baligo/permalink/1496555740891666/) [3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) [4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) [5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) [6](https://www.facebook.com/share/p/1KdjNhGDoh/)
+👍 **6 community-tested reviews** (click numbers for original posts): [1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) [2](https://www.facebook.com/groups/baligo/permalink/1496555740891666/) [3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) [4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) [5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) [6](https://www.facebook.com/share/p/1KdjNhGDoh/)
 
 ## Dwik
 
 ![Dwik](https://images.gobaligo.id/images/2026-03/1774788094653-dwik_new.jpg)
 
-👍 **4 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1491494108064496/) [2](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [3](https://www.facebook.com/groups/baligo/permalink/1581822932364946/) [4](https://www.facebook.com/share/p/tLizdprLDSi7C2PB/)
+👍 **4 Real Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1491494108064496/) [2](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [3](https://www.facebook.com/groups/baligo/permalink/1581822932364946/) [4](https://www.facebook.com/share/p/tLizdprLDSi7C2PB/)
 
 ## Odon
 
 ![Odon](https://images.gobaligo.id/images/2026-03/1774788129506-odon_new.jpg)
 
-👍 **6 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
+👍 **6 Real Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
 ## Gung Bali Wangzi
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍 **19 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
+👍 **19 Real Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
 
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍 **6 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1ENRDfkjEw/) [2](https://www.facebook.com/share/p/17qogSzHU1/) [3](https://www.facebook.com/share/p/1FVRdBgbNL/) [4](https://www.facebook.com/share/p/1Kw5mTbHAa/) [5](https://www.facebook.com/share/p/1JYmnQC1w9/) [6](https://www.facebook.com/share/p/1CwwL8mTrC/)
+👍 **6 Real Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/share/p/1ENRDfkjEw/) [2](https://www.facebook.com/share/p/17qogSzHU1/) [3](https://www.facebook.com/share/p/1FVRdBgbNL/) [4](https://www.facebook.com/share/p/1Kw5mTbHAa/) [5](https://www.facebook.com/share/p/1JYmnQC1w9/) [6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
-👍 **17 Verified Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
+👍 **17 Real Reviews from Travelers** (Click the numbers to see original posts in the group): [1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
 
 {{block:klook}}
 
