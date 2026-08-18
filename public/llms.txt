@@ -1,6 +1,6 @@
 # Go Bali Go 峇里島旅遊攻略
 
-> 由長住峇里島的站長「小傑爸」（YouTube 頻道「小傑印尼」）維護的峇里島旅遊內容站，850 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。
+> 由長住峇里島的站長「小傑爸」（YouTube 頻道「小傑印尼」）維護的峇里島旅遊內容站，856 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。
 
 每一個頁面都有 markdown 版本：帶 `Accept: text/markdown` 請求，或在網址後面加 `.md`
 （例如 `https://gobaligo.id/blog/{slug}.md`）。回應會帶 `x-markdown-tokens` 供估算長度。
@@ -148,6 +148,8 @@
 
 ## 家庭親子
 
+- [峇里島海豚體驗推薦｜Bali Exotic Marine Park門票、海豚互動、親子攻略](https://gobaligo.id/blog/wks-bali-exotic-marine-park/): 峇里島 Bali Exotic Marine Park 海豚體驗完整攻略！介紹海豚互動方案、親子適合年齡、門票、注意事項與行程安排，還有優惠訂票連結。
+- [峇里島 Safari 夜宿值不值？｜Bali Safari Night Safari、住宿與門票](https://gobaligo.id/blog/bali-safari-stay-experience/): 峇里島 Bali Safari 夜宿完整攻略！住進 Mara River Safari Lodge，體驗 Night Safari、Safari Journey、餵斑馬、看獅子與親子活動，附住宿與門票訂購資訊。
 - [【峇里島親子景點】Bali Farm House 攻略：峇里島山區歐洲莊園、草泥馬互動與門票避雷指南](https://gobaligo.id/blog/Bali-Farm-House/): 不用飛歐洲，在熱帶島嶼也能親近草泥馬！2026 峇里島中北部山區爆紅新景點 Bali Farm House（峇里島農家樂）完全攻略。一文詳解：阿爾卑斯山歐式莊園建築、零距離餵食羊駝與迷你馬、最新門票與園區餐飲抵用券資訊，以及高山防寒與交通包車防坑必看指南！
 - [【峇里島親子景點】Bali Reptile Park 攻略：近距離看科莫多龍、巨蟒親密互動、門票價格與親子避雷指南](https://gobaligo.id/blog/Bali-Reptile-Park/): 不用飛離島！2026 峇里島爬行動物公園（Bali Reptile Park）終極全攻略。一文帶您直擊印尼國寶「科莫多龍」的史前震撼、觸摸溫馴巨蟒與變色龍的零距離互動體驗。完整打包最新門票價格、園區必看餵食秀時間表，是您暑假防曬避暑、親子獵奇探險的頂級私房備案！
 - [【峇里島親子景點】十大親子樂園完全攻略：野生動物園、海豚共舞、水上樂園與全家避雷行程指南](https://gobaligo.id/blog/top-10-kids-attractions-in-bali/): 帶娃出遊不踩雷！2026 最新峇里島十大親子樂園終極指南。誠實拆解：Bali Safari 獅子飯店、BEMP 海豚樂園、亞洲第一 Waterbom 水上樂園、高空樹冠冒險等十大明星景點。附上詳細的分齡適合度、門票防坑套票比較與現場必備裝備，帶全家玩轉最絲滑的島嶼度假！
@@ -166,8 +168,6 @@
 - [峇里島海洋公園 Varuna Show 指南：水下劇場票價、交通建議與 Bali Safari 一日遊排法](https://gobaligo.id/blog/varuna-show-bali-safari/): 帶小孩去峇里島必看的國際級演出！詳解位於吉安雅 (Gianyar) 的 Varuna Show 入園流程。整理水下劇場的場次時間、與 Bali Safari 陸上探險的完美行程組合。提供親子觀賞撇步與園內用餐細節，讓您的親子之旅既有教育意義又充滿感官驚喜。
 - [【峇里島親子旅遊景點】Nuanu Creative City 的魔法花園 Magic Garden](https://gobaligo.id/blog/nuanu-magic-garden-bali/): 位於海神廟附近的 Magic Garden（魔法花園） 是2024年11月新開幕的自然公園，非常適合家庭與親子遊。這座佔地3600平方米的景點擁有豐富的植物和多樣的互動體驗，既有教育意義又充滿樂趣。
 - [【峇里島親子景點】Jungle Kids Bali | Nuanu 的 Kids Club：最適合孩子的遊樂與學習空間](https://gobaligo.id/blog/jungle-kids-bali-nuanu-playground/): 在峇里島的 Nuanu Creative City 裡，有一個專為兒童設計的空間 （Kids Club）——Jungle Kids。這不只是個普通的遊樂場，而是一個結合探索、學習和創意體驗的多功能場所。這裡提供多樣化的遊樂設施，從戶外繩索公園到室內遊戲區，讓孩子在遊戲中學習...
-- [峇里島超夯室內冒險：25種攀岩牆玩到嗨的Clip 'n Climb](https://gobaligo.id/blog/clip-n-climb-sanur-bali/): Clip 'n Climb Bali（沙努爾攀岩樂園） 是印尼峇里島首個Clip 'n Climb室內攀岩中心，位於沙努爾（Sanur），提供適合全年齡層的趣味攀岩體驗。 Clip 'n Climb Bali結合運動與娛樂，是峇里島新興的室內冒險景點，無論初學者或高手都能找到樂趣！ 1. 特色
-- [【長輩+小孩的峇里島家庭旅遊】美食、Villa、按摩全攻略，輕鬆玩轉峇里島！](https://gobaligo.id/blog/bali-family-travel-guide-3/): 分享一下這次帶著長輩和小孩到峇里島過年的旅行心得。這是我第三次造訪峇里島，很巧的是，我發現自己每十年就會來一次，而這次的旅行感受更偏向於家族旅遊
 
 ## 旅行技巧
 
@@ -207,6 +207,8 @@
 
 ## 遊記分享
 
+- [峇里島海豚體驗推薦｜Bali Exotic Marine Park門票、海豚互動、親子攻略](https://gobaligo.id/blog/wks-bali-exotic-marine-park/): 峇里島 Bali Exotic Marine Park 海豚體驗完整攻略！介紹海豚互動方案、親子適合年齡、門票、注意事項與行程安排，還有優惠訂票連結。
+- [峇里島 Safari 夜宿值不值？｜Bali Safari Night Safari、住宿與門票](https://gobaligo.id/blog/bali-safari-stay-experience/): 峇里島 Bali Safari 夜宿完整攻略！住進 Mara River Safari Lodge，體驗 Night Safari、Safari Journey、餵斑馬、看獅子與親子活動，附住宿與門票訂購資訊。
 - [Kummel阿毛峇里島自由行｜Canggu、Ubud、Jimbaran真實體驗](https://gobaligo.id/blog/Kummel-bali/): Kummel阿毛第一次來峇里島，從 Jimbaran、Canggu 到 Ubud，體驗 villa、當地美食、Gojek、Sound Healing 與 Ogoh-Ogoh，看她如何感受峇里島的真實一面。
 - [峇里島10天9夜自由行｜佩尼達島、吉利T島潛水、烏布火山完整遊記與行程分享](https://gobaligo.id/blog/bali-nusa-penida-gili-itinerary/): 第一次前往峇里島，實際走訪佩尼達島、吉利T島與烏布，分享10天9夜自由行完整行程、水肺潛水、鬼蝠魟、巴杜爾火山日出、住宿、美食與交通心得，並整理最後一天行程安排建議，提供第一次到峇里島旅行的朋友參考。
 - [【峇里島親子遊記】6天5夜母女旅行｜羅威納追海豚、Waterbom、烏布，包車讓旅程輕鬆又難忘](https://gobaligo.id/blog/Bali-with-kids-lovina-waterbom/): 帶著 8 歲女兒展開峇里島 6 天 5 夜親子自由行！分享 Waterbom 水樂園、羅威納追海豚、Alas Harum 梯田、烏布雷貢舞等實際體驗，以及親子包車心得、行程安排與旅遊建議。
@@ -225,8 +227,6 @@
 - [【峇里島親子8日遊攻略遊記分享】八天玩遍大半個峇里島](https://gobaligo.id/blog/bali-family-8-day-itinerary/): 峇里島親子八天七夜遊記，玩遍金巴蘭、烏魯瓦圖、藍夢島、沙努爾、烏布、巴杜爾日出、海神廟、水明漾...
 - [騎機車遊峇里島：夫妻8天7夜的真實體驗與遊記、心得](https://gobaligo.id/blog/ljs-travel-with-scooter-bali/): 在峇里島租機車是最省錢又自由的交通方式，但同時也存在風險。對於有經驗、熟悉東南亞道路的人來說，機車旅行方便又能避免被抬高交通費，缺點就是曝曬太陽。不過在異國若發生意外，不論是被撞或撞到人，後續醫療費與賠償都可能高得嚇人...
 - [烏布一日深度遊｜貓屎咖啡體驗×絕美梯田打卡×震撼火舞秀｜避雷攻略＆私房路線全分享！](https://gobaligo.id/blog/ubud-coffee-rice-terrace-tour/): 從德格拉朗梯田的晨光，到咖啡莊園裡麝香貓睏倦的哈欠；從暴雨中倉皇躲進的火舞祭典，到烏布市場裡和攤主為了藤編包價格的攻防戰...這24小時的烏布濃縮體驗，會讓你忘記「度假」的陳腔濫調，反而像闖入一部活著的南洋民俗誌
-- [💑 沒有小孩的峇里島旅行超爽！爸媽的六天五夜浪漫逃脫計畫](https://gobaligo.id/blog/bali-romantic-getaway-plan/): 這趟旅程對我們來說，真的是久違的二人世界！👫 在把孩子交給岳母大人照顧後，我和太太幾乎是用「迫不及待」的速度打包好行李，準備搭上飛往峇里島的班機。對於久沒出國放風的爸媽來說，這樣的放鬆假期格外珍貴，期待值直接拉滿
-- [從日出火山到夕陽海邊，這是我夢寐以求的峇里島旅程🌺](https://gobaligo.id/blog/bali-trip-itinerary/): 這趟峇里島自由行，從火山日出、滑翔傘、浮潛，到無邊際泳池與經典美食，行程豐富又節奏剛好。無論是在烏布的稻田鞦韆拍美照，還是在佩妮達島與魚群共游，每一天都有驚喜與感動。住宿涵蓋Villas與五星級度假村，讓旅程更添質感。文中詳細記錄每一站行程亮點、注意事項與私藏心得，適合首次規劃峇里島旅行的你參考！
 
 ## 工具與主題頁
 
