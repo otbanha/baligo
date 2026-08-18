@@ -185,9 +185,29 @@ const categories = Array.from(allCats).sort();
     let viewsMap = {}; // slug → views
     let sortMode = 'latest'; // 'latest' | 'popular'
 
+    // ── 簡體/日式異體字 → 繁體標準字，避免「税」對不上「稅」──────────────────────
+    let s2tConverter = null;
+    (function loadOpenCC() {
+      const s = document.createElement('script');
+      s.src = 'https://cdn.jsdelivr.net/npm/opencc-js@1.0.5/dist/umd/full.js';
+      s.onload = () => {
+        try {
+          s2tConverter = OpenCC.Converter({ from: 'cn', to: 'tw' });
+        } catch (e) {
+          console.error('OpenCC load failed', e);
+        }
+        applyFilter();
+      };
+      document.head.appendChild(s);
+    })();
+
+    function toTw(s) {
+      return s2tConverter ? s2tConverter(s) : s;
+    }
+
     // ── Combined filter ────────────────────────────────────────────────────────
     function applyFilter() {
-      const q = searchInput.value.toLowerCase();
+      const q = toTw(searchInput.value.toLowerCase());
       const cat = catFilter.value;
       rows.forEach(row => {
         const matchSearch = !q || row.dataset.title.includes(q);
