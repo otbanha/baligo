@@ -1,13 +1,13 @@
 ---
 title: >-
-  ⭐⭐【No Surcharge for Chinese New Year & Holidays】Bali Luxury 6-Day, 5-Night
+  ⭐⭐【No Surcharge for Chinese New Year & Holidays】Luxury 6-Day, 5-Night Bali
   Trip｜AYANA + Wildlife Park + Ubud Villa｜Early Bird USD$801⭐⭐
 slug: family-ayana-tour
 description: >-
-  Experience a luxurious 6-day, 5-night Bali itinerary featuring stays at AYANA
-  Resort, a wildlife park hotel, and a private pool villa in Ubud. Enjoy curated
-  experiences including sunsets, volcanoes, rice terraces, and spa treatments.
-  Early bird offer at USD$801 per person, with no surcharge during holidays!
+  Experience a luxurious 6-day, 5-night Bali itinerary featuring stays at AYANA,
+  a wildlife park hotel, and a private pool villa in Ubud. Enjoy curated
+  experiences like sunsets, volcanoes, rice terraces, and SPA. Early bird rate
+  at USD$801 per person, with no surcharge during holidays!
 pubDate: 2026-08-08T00:00:00.000Z
 updatedDate: 2026-08-08T00:00:00.000Z
 pubHour: 22
@@ -35,36 +35,36 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 7418600e6e7b6c071255dfbbf6658ff1
+_srcHash: 5fa5c829b3ff4f21284db20679e24ed0
 ---
 
-# Bali Luxury 6 Days 5 Nights｜AYANA × Wildlife Park × Ubud Private Pool Villa
+# Luxury 6-Day, 5-Night Bali Trip｜AYANA × Wildlife Park × Ubud Private Pool Villa
 
-## 🐦 Early Bird Exclusive｜Book Now at USD$801 per Person
+## 🐦 Limited-Time Early Bird Offer｜Book Now at USD$801 per Person
 
-Want to enjoy stays at AYANA Resort, a wildlife park hotel, and a private pool villa in Ubud at a better price?
+Want to enjoy stays at AYANA, a wildlife park hotel, and a private pool villa in Ubud at a better price?
 
-We're now offering an **early bird exclusive**!
+We're now offering an **exclusive early bird deal**!
 
-If you're looking for a Bali getaway that doesn't require rushing from one spot to another but still offers highlights every day, this **6-day, 5-night luxury trip** is definitely worth considering.
+If you're looking for a Bali getaway that doesn't require rushing from place to place but still offers highlights every day, this **6-day, 5-night luxury trip** is definitely worth considering.
 
-From Bali's most renowned luxury resort to a unique overnight stay with wildlife, and a private pool villa surrounded by Ubud's tropical rainforest, this journey brings together **beaches, sunsets, wildlife, waterfalls, volcanoes, rice terraces, spa treatments, and culinary delights** all in one.
+From Bali's most renowned luxury resort to a unique overnight stay with wildlife, and a private pool villa surrounded by tropical rainforest in Ubud, this journey brings together **beaches, sunsets, wildlife, waterfalls, volcanoes, rice terraces, SPA, and gourmet dining** all in one.
 
-Plus, there's no need to wake up early every day to rush through attractions—you can truly enjoy the feeling of being on vacation in Bali.
+Plus, there's no need to wake up early every day to rush through attractions—you can truly savor the feeling of 'being on vacation in Bali.'
 
 > ※ The order of attractions and activities below is for reference only; actual arrangements may be adjusted flexibly based on local traffic, weather, and site conditions.
 
-## 🏨 Three Distinct Luxury Stays, Experiencing Bali from Every Angle
+## 🏨 Three Distinct Luxury Stays: Experience Bali from Every Angle
 
-One of the highlights of this trip is checking into three completely different accommodation experiences.
+One of the highlights of this trip is staying in three completely different accommodations.
 
 ### 🌴 AYANA Resort｜Classic Balinese Luxury
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173578272-c64e66d592a7be20d6c9cf2f79c26bd5.jpg)
 
-A trip to Bali wouldn't be complete without a stay at the renowned **AYANA Resort**.
+No trip to Bali is complete without a stay at the renowned **AYANA Resort**.
 
-Perched on the coast of Jimbaran, this sprawling resort is famous for its stunning ocean views, private beach, multiple pools, and top-notch facilities.
+Perched along the Jimbaran coastline, this sprawling resort is famous for its stunning ocean views, private beach, multiple pools, and top-tier facilities.
 
 During your stay, you can take time for yourself without feeling the need to venture out constantly.
 
@@ -72,35 +72,35 @@ Spend your days enjoying the resort's rich amenities, pools, and beach, then hea
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173673189-rock-bar-sunset.jpg)
 
-If you believe that 'staying at the hotel is part of the journey itself,' AYANA is definitely a major highlight of this trip.
+If you believe that 'staying at the hotel is part of the journey itself,' AYANA is undoubtedly a major highlight of this trip.
 
 ### 🦁 Bali Safari & Marine Park Hotel｜Step into a Fantastical Wild World
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173757836-1774321934411.jpg)
 
-Next up, a completely different travel experience awaits.
+Next up is a completely different travel experience.
 
-Staying at the **Bali Safari & Marine Park Hotel** isn't just about accommodation—it's about turning the entire wildlife park into your vacation backdrop.
+Staying at the **Bali Safari & Marine Park Hotel** is more than just a hotel stay—it turns the entire wildlife park into your vacation backdrop.
 
-By day, you can hop on a safari tram to explore the park, catch animal shows, and even cool off at the water park. At night, opt for the Night Safari to experience the thrill of spotting wildlife after dark.
+By day, you can hop on a safari tram to explore the park, enjoy animal shows, and even cool off at the water park. At night, opt for the Night Safari to experience the thrill of spotting wildlife after dark.
 
-If your budget allows, consider upgrading to special experiences like getting up close—and even feeding—big cats.
+If your budget allows, consider upgrading to special experiences like getting up close with—or even feeding—big cats.
 
 Alternatively, you can choose the **Varuna Deluxe Package**, which combines an aquarium visit, a scenic dinner, and a themed show all in one.
 
-This 'see animals by day, sleep beside the park by night' experience is especially appealing for families with kids.
+This 'see animals by day, sleep beside the park by night' experience is especially appealing for families.
 
-### 🌿 Ubud Starlit Private Pool Villa｜Save the Last Few Nights for Yourself
+### 🌿 Ubud Starlit Private Pool Villa｜Save Your Last Few Nights for Yourself
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786173803582-642076904.jpg)
 
-From the lively coast and wildlife park, head into the lush greenery of Ubud.
+From the lively coast and wildlife park, head to the lush greenery of Ubud.
 
 Check into a **private pool villa** surrounded by nature and soak in a completely different side of Bali.
 
-No bustling mega-resorts here—just your own private sanctuary.
+No hustle and bustle of large resorts—just your own private space.
 
-Sleep in, enjoy breakfast by the pool, and take a morning swim. In the evening, arrange a poolside BBQ or indulge in an in-villa Aroma SPA.
+Sleep in, enjoy breakfast by the pool, and take a swim in the morning. In the evening, arrange a poolside BBQ or treat yourself to an in-villa Aroma SPA.
 
 This is why I think this itinerary is beautifully designed—the first half is packed with excitement, while the second half gradually slows down.
 
@@ -108,21 +108,21 @@ This is why I think this itinerary is beautifully designed—the first half is p
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786175282916-kuta-beach1.webp)
 
-Upon arriving in Bali, start with the most classic island resort experience.
+Upon arriving in Bali, start with the most classic island vacation mode.
 
 After airport pickup, a private car will help with currency exchange before heading to the Kuta area to browse the art market and stroll along the beach.
 
-If the timing coincides with sunset, Kuta Beach is a perfect spot for a sunset walk.
+If the timing coincides with sunset, Kuta Beach is a perfect spot for a leisurely walk and sunset viewing.
 
-For dinner, you can arrange a giant seafood feast to instantly immerse yourself in Bali's vacation vibe from the very first night.
+For dinner, you can arrange a giant seafood feast to instantly immerse yourself in the Bali vacation vibe on the very first night.
 
-After the meal, you can drop by a supermarket to stock up on snacks, drinks, and other travel essentials before heading back to AYANA for a good rest.
+After the meal, you can conveniently stop by a supermarket to stock up on snacks, drinks, and other travel essentials before returning to AYANA for a good rest.
 
-## 🍹 AYANA Full-Day Resort Stay + Rock Bar Sunset
+## 🍹 Full Day at AYANA Resort + Rock Bar Sunset
 
-If you're staying at AYANA, there's really no need to pack your schedule with sightseeing every day.
+If you're staying at AYANA, there's really no need to pack your schedule with attractions every day.
 
-This itinerary intentionally leaves plenty of free time so you can fully enjoy the resort.
+This itinerary deliberately includes plenty of free time so guests can fully enjoy the resort.
 
 Multiple pools, a private beach, and various resort facilities can all be enjoyed at your own pace.
 
@@ -132,7 +132,7 @@ Perched on a cliff with ocean views, watching the sun slowly sink into the India
 
 https://www.instagram.com/reel/Dacl3-jzsmx/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
-Meal costs can be arranged based on personal needs.
+Meal costs can be arranged according to personal needs.
 
 > Quick Reference: [A Complete Guide to Ayana Bali's Highlights](https://gobaligo.id/en/blog/ayana-resort-bali-guide/)
 
@@ -140,9 +140,9 @@ Meal costs can be arranged based on personal needs.
 
 Beyond the accommodation, the safari park is a standout stop on this trip.
 
-During the day, you can explore the park on a safari tram, enjoy exciting animal shows, and when the weather gets hot, head to the water park.
+During the day, you can explore the park on a safari tram, enjoy exciting animal shows, and when the weather heats up, head to the water park.
 
-To make the experience even more special, consider adding on the **Night Safari exploration tour**.
+To make the experience even more special, consider adding on the **Night Safari adventure**.
 
 > Quick Reference: [Bali Safari Park Guide](https://gobaligo.id/en/blog/bali-safari-night-experience/)
 
@@ -164,85 +164,85 @@ Another option is:
 
 https://www.instagram.com/reel/DahPwPDxUpq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
-**Adults USD$58 / Children (under 12) USD$39**
+**Adult USD$58 / Child (under 12) USD$39**
 
 Includes:
 
-- Aquarium entrance
-- Scenic dinner
-- Themed spectacular show
+- Aquarium entry
+- Dinner with a view
+- Spectacular themed show
 
-If you're traveling with kids, I'd recommend fully experiencing the wildlife safari, as this kind of activity isn't easy to arrange on a typical Bali free-and-easy trip.
+For family trips, I'd recommend going all-in on the wildlife park experience, as this kind of itinerary is not easy to arrange on a typical Bali free-and-easy trip.
 
-## 💦 Waterfall Hidden Gem + Ubud Cultural Tour
+## 💦 Hidden Waterfall & Ubud Cultural Tour
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174070701-omma.webp)
 
-When you're in Ubud, you can't just stay in your villa the whole time.
+When you're in Ubud, you can't just stay cooped up in your villa.
 
-Tegenungan Waterfall is one of Bali's most popular waterfall spots, with plenty of great viewpoints for photos.
+Tegenungan Waterfall is one of Bali's most popular waterfall spots, with plenty of great photo vantage points nearby.
 
-Right next to it, **Omma Dayclub Bali** combines the waterfall scenery with a resort vibe, where you can sit back, grab a bite, or try the swing experience at your own expense.
+The adjacent **Omma Dayclub Bali** combines waterfall views with a resort vibe, where you can sit back, grab a bite, or try the swing experience at your own expense.
 
 https://youtube.com/shorts/BBIXmPYUPZo
 
-Afterward, head into Ubud town to explore **Ubud Palace and Ubud Traditional Market**, soaking in Bali's art and traditional culture.
+Then head into Ubud town to explore the **Ubud Palace and Ubud Traditional Market**, soaking in Bali's art and cultural heritage.
 
-In the evening, return to your private villa for a poolside BBQ prepared by your personal chef.
+Back at your private villa in the evening, enjoy a poolside BBQ prepared by your personal chef.
 
-From waterfalls and culture to a private villa dinner, you can experience a completely different side of Bali in just one day.
+From waterfalls and culture to a private villa dinner, you can experience completely different sides of Bali in a single day.
 
 ## 🌋 Mount Batur + Rice Terrace Jungle Pool
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174277169-569875423.jpg)
 
-Bali isn't just about beaches.
+Bali is more than just beaches.
 
 Head to the Kintamani area to take in stunning volcano and lake views from above, enjoying lunch while soaking up Bali's most iconic mountain scenery.
 
-Then, make your way to **Alas Harum Bali / Cretya Ubud** to combine rice terraces, a pool, and the jungle all in one stop.
+Then make your way to **Alas Harum Bali / Cretya Ubud**, where you can pack 'rice terraces, pool, and jungle' all into one stop.
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786174441284-cretyaubud_into-the-pool-and.jpg)
 
-This spot is perfect for photos and a relaxing afternoon.
+This spot is perfect for photos and a laid-back afternoon.
 
-Back at the villa, you can enjoy a **60-minute Aroma SPA**.
+After returning to the villa, you can enjoy a **60-minute Aroma SPA**.
 
-If you've already visited plenty of attractions in the previous days, a SPA session like this will make the whole trip feel much more rejuvenating.
+If you've already visited quite a few attractions in the previous days, a SPA session at this point will truly make the entire trip much more relaxing.
 
-# ✈️ Last Day | Sleep In, Shop for Souvenirs, Then Head to the Airport
+# ✈️ Last Day｜Sleep In, Shop for Souvenirs, Then Head to the Airport
 
-On the final day of the trip, keep the schedule light and unhurried.
+On the final day of the trip, no tight schedule is planned.
 
-In the morning, you can sleep in and slowly enjoy the facilities of your private pool villa before checking out.
+In the morning, you can sleep in, slowly enjoy the facilities of your private pool villa, and then check out.
 
-Then head to the newly opened **Icon Mall Bali** for shopping and lunch.
+Afterward, head to the newly opened **Icon Mall Bali** for shopping and lunch.
 
-Finally, a private transfer will take you to Ngurah Rai International Airport, ready to return home with a suitcase full of memories and souvenirs.
+Finally, a private transfer will take you to Ngurah Rai International Airport, ready to return home with fond memories and souvenirs.
 
-> ※ Icon Mall arrangements are subject to adjustment based on traffic, operating hours, and itinerary conditions on the day; lunch expenses are at your own cost.
+> ※ The actual arrangement for Icon Mall will be flexibly adjusted based on traffic, business hours, and itinerary conditions on the day; lunch expenses are not included.
 
 # ✨ One Trip, Three Ways to Experience Bali
 
-The highlight of this 6-day, 5-night itinerary isn't how many attractions you visit, but how it weaves together Bali's most iconic travel styles.
+The biggest highlight of this 6-day, 5-night itinerary isn't 'how many attractions you visit,' but rather how it weaves together several of Bali's most iconic travel styles into one seamless journey.
 
-🌴 **AYANA Resort** — Indulge in a top-tier ocean-view resort
+🌴 **AYANA Resort** — Enjoy a top-tier ocean-view resort experience
 
 🦁 **Wildlife Safari Hotel** — Experience a magical stay sleeping alongside wild animals
 
 🌿 **Ubud Private Pool Villa** — Enjoy your own private space amidst the jungle
 
-🌅 **Kuta Beach + Rock Bar** — Savor Bali's classic sunset
+🌅 **Kuta Beach + Rock Bar** — Watch Bali's classic sunset
 
-💦 **Waterfalls + Jungle Pool** — Immerse yourself in Bali's natural landscapes
+💦 **Waterfall + Jungle Pool** — Immerse yourself in Bali's natural landscapes
 
-🌋 **Mount Batur** — Take in the majestic mountain views
+🌋 **Mount Batur** — Take in the stunning mountain views
 
 💆 **Villa Aroma SPA** — Let your journey truly slow down
 
-🍖 **Villa Chef's BBQ** — Enjoy a private dinner by your own pool
+🍖 **Villa Chef's BBQ** — Enjoy a private dinner by your pool
 
-If what you're after isn't a packed itinerary from dawn till dusk, but rather **great accommodation, delicious food, stunning scenery, and a few special experiences**, this kind of arrangement makes for a wonderfully relaxing Bali getaway.
+If what you're after isn't a packed itinerary from morning till night, but rather **great stays, great food, beautiful scenery, plus a few unique experiences**, this kind of arrangement makes for a wonderfully relaxing Bali trip.
 
 ## 🎉 Early Bird Special｜USD$801/person
 
@@ -250,21 +250,23 @@ If what you're after isn't a packed itinerary from dawn till dusk, but rather **
 
 **Valid Travel Period:** Now through **December 2027**
 
-🔥 **Long validity, no surcharge on holidays!**
+🔥 **Extended validity, no surcharge on holidays!**
 
-※ Early bird offers are limited. Actual availability and room types are subject to confirmation at the time of booking.
+Early bird offers are limited; actual bookable dates and room types are subject to availability at the time of booking.
 
-## 📌 Special Services & Package Details
+## 📌 Attentive Services & Package Details
 
-This package is priced from **USD$801 per person**, including private car charter, itinerary arrangements, and discounted accommodation rates. **International airfare is not included.** You may purchase your own tickets or have our customer service team assist with booking at no extra charge.
+This package is priced from **USD$801 per person**, including private car charter, itinerary arrangements, and discounted accommodation rates. **International airfare is not included.** You can book your own flights, or our customer service team can assist with booking free of charge.
 
-This price is based on a **cash discount for two travelers**; special rates are available for different group sizes or children sharing a bed—please contact us for a customized quote.
+This price is a **cash discount rate for two travelers**; for different group sizes or children not requiring a bed, please contact us for a customized offer.
 
-⚠️ **Accommodation bookings are non-refundable and cannot be changed after confirmation.** Car charter, attractions, tickets, and some itinerary items can be adjusted flexibly based on your needs, subject to availability, traffic, and weather conditions.
+⚠️ **Accommodation bookings cannot be canceled or modified after confirmation**; private car charter, attractions, tickets, and some itinerary items can be flexibly adjusted based on your needs, with actual arrangements subject to booking availability, traffic, and weather conditions.
 
-### ✈️ Want to Grab Early Bird Deals?
+> 💰 Want more reference prices for attractions? Check out the **[Bali Ticket Price Guide](/en/tickets/)** for real-time prices on 49 popular spots, plus comparison links for Klook and Trip.com.
 
-**Spots are limited—fill out the registration form below, and our team will help confirm your travel dates and best offers! 👇**
+### ✈️ Ready to Grab the Early Bird Deal?
+
+**Spots are limited. Fill out the registration form below, and let our customer service team confirm your travel dates and offer! 👇**
 
 <iframe src="/forms/luxury-family-trip-form.html" width="100%" style="border:none; min-height:1400px;" title="Bali Luxury Family Trip"></iframe>
 

@@ -21,7 +21,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_05a9ca325c235fc34066e54b056498c7.png'
 originalUrl: 'https://vocus.cc/article/67061b07fd897800012f87b5'
 lang: zh-cn
-_srcHash: cff1402a302bc82684df64e9ff8f2ade
+_srcHash: PENDING_RETRY_e34084e5b8331aa17b028cf83000633d
+_translateAttempts: 1
 ---
 
 巴厘岛的「武吉半岛（Bukit Peninsula）」可能很多人没有听过，最简单的区分法就是只要是巴厘岛国际机场以南的这一块，都叫做武吉半岛。
@@ -32,7 +33,7 @@ _srcHash: cff1402a302bc82684df64e9ff8f2ade
 
 机场以南的这个区域就是武吉半岛
 
-武吉半岛有着无数值得探索的角落，游客甚至可以在这里度过整个假期。如果你对巴厘岛地图下方这颗小珍珠充满好奇，那么现在正是你了解这片区域所有热门景点的好时机。无论你是计划一场超值度假，还是想进行一次经济实惠的短期旅行，武吉半岛绝对是目前最受欢迎的旅游地点之一，等着你去发掘。
+武吉半岛有着无数值得探索的角落，游客甚至可以在这里度过整个假期。如果你对巴厘岛地图下方这颗小珍珠充满好奇，那么现在正是你了解这片区域所有热门景点好时机。无论你是计划一场超值度假，还是想进行一次经济实惠的短期旅行，武吉半岛绝对是目前最受欢迎的旅游地点之一，等着你去发掘。
 
 对于巴厘岛人民来说，武吉半岛一直具有重要的精神和文化意义。这里是岛上著名的乌鲁瓦图寺 (Pura Luhur Uluwatu) 的所在地，这座建于悬崖上的寺庙俯瞰着印度洋，风景壮丽。据说该寺庙建于11世纪，是巴厘岛六大方向性寺庙之一，对岛上的信仰生活具有深远影响。
 
@@ -164,7 +165,7 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 
 午餐时间，建议您到海滩附近的咖啡馆或海景餐厅享用新鲜的当地海鲜，放松一下身心，为接下来的行程补充能量。
 
-上面视频的Suluban Beach我们有详细的攻略,请看[这里](/zh-cn/blog/suluban-beach-hidden-gem/)
+上面视频的Suluban Beach我们有详细的攻略，请看[这里](/zh-cn/blog/suluban-beach-hidden-gem/)
 
 ### **下午：SPA与海滩俱乐部的美好时光**
 
@@ -201,6 +202,8 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 - [巴厘岛顶级南部海滩一日游(含火舞&金巴兰海滩晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [乌鲁瓦图火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 
+> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
+
 {{block:klook}}
 
 ***
@@ -217,29 +220,29 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 
 早上的后半段，建议您参观**Garuda Wisnu Kencana文化公园 (GWK Park神鹰广场)，并在这里午餐。这里矗立着世界上最高的雕像之一——Garuda Wisnu Kencana神像**。这座文化公园展示了巴厘岛丰富的文化遗产，是了解印度教神话与巴厘岛文化的好去处。您还可以在这里观看到传统的舞蹈和音乐表演，体验当地浓厚的文化气息。
 
-> Klook优惠券：
+> Klook優惠券：
 
-> [巴厘岛神鹰广场门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
-> [巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)
-
-### 下午：SPA放松
+> [峇里島神鷹廣場門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
+> [峇里島海灘＆神鷹廣場＆烏魯瓦圖神廟日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)
 
 金巴兰地区提供各种豪华SPA度假村和水疗中心，为游客提供一个绝佳的休闲和疗愈之旅。
 
-> Klook优惠券：
-
-> [金巴兰Hua Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022)
-> [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
-> [Ayutaya 花浴 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
-> [上门服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
+金巴蘭地區提供各種豪華SPA度假村和水療中心，為遊客提供一個絕佳的休閒和療癒之旅。
 
 还有时间的话，可以前往现在乌鲁瓦图旅游的大热点「Batu Barak」，号称蓝色公路的热门打卡点参观参观。
 
-![下午：SPA放鬆](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
-
-> [Batu Barak 蓝色公路最新介绍](/zh-cn/blog/pandawa-beach-traffic-policy/)
+> [金巴蘭Hua Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022)
+> [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
+> [Ayutaya 花浴 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
+> [到府服務 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
 
 ### **傍晚：在金巴兰沙滩享用海鲜午餐**
+
+![下午：SPA放鬆](https://images.gobaligo.id/vocus/vocus_46d76bd229be43ff141a38c7465377ec.jpg)
+
+> [Batu Barak 藍色公路最新介紹](/zh-cn/blog/pandawa-beach-traffic-policy/)
+
+### **傍晚：在金巴蘭沙灘享用海鮮午餐**
 
 来到金巴兰，日落时分当然不能错过在沙滩上享用浪漫晚餐的机会。随着太阳慢慢沉入海平面，您可以在沙滩上的餐厅享受烛光海鲜晚餐，品尝当地最鲜美的龙虾、鱼类和贝类等。伴随着海浪声和日落的绚丽景色，这将是您在巴厘岛最难忘的晚餐之一。
 
@@ -253,6 +256,6 @@ Bali Collection 是努沙杜瓦的精品购物中心，拥有许多当地和国�
 
 武吉半岛以其壮丽的悬崖美景、悠闲的冲浪小镇氛围和神秘的寺庙文化为旅客带来了难忘的体验。无论是从乌鲁瓦图寺俯瞰印度洋的无边海景，还是在沙滩上迎接迷人的夕阳，这片半岛都充满了巴厘岛最独特的自然与文化风情。
 
-如果你热爱探索大自然，追求悠闲的度假方式，或是享受结合冒险与放松的旅程，武吉半岛会是完美的选择。武吉半岛的魅力在于其多元性，每一处风景、每一片海滩都蕴藏着独一无二的故事，等待每一位旅人去亲身体验并留下美好的回忆。
+若你热爱探索大自然，追求悠闲的度假方式，或是享受结合冒险与放松的旅程，武吉半岛会是完美的选择。武吉半岛的魅力在于其多元性，每一处风景、每一片海滩都蕴藏着独一无二的故事，等待每一位旅人去亲身体验并留下美好的回忆。
 
 {{block:攻略}}

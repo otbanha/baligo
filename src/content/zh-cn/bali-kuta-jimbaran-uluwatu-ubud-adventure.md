@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3ab35a264fd828315cb7d2e460674afd.jpg'
 originalUrl: 'https://vocus.cc/article/668b6804fd89780001a19257'
 lang: zh-cn
-_srcHash: 80d8a5ce6981f4d5c2cb18dbd1a408cb
+_srcHash: 49235e735f645376e7d9b583c65f3aea
 ---
 
 > 以下内容由团友 [叶庭瑜](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i) 提供
@@ -36,7 +36,7 @@ _srcHash: 80d8a5ce6981f4d5c2cb18dbd1a408cb
 
 **停留时间：2.5小时**
 
-金巴兰海滩拥有“世界十大夕阳海滩”之一的美誉，这里的美景确实无可挑剔，无论是海景还是夕阳，都美得令人惊叹。然而，这里的餐厅价位却让人有些难以接受。这是我们下飞机后的第一餐，三个人竟然吃到了5000多台币（约合USD$161），让人不禁感叹价格之高。
+金巴兰海滩拥有“世界十大夕阳海滩”之一的美誉，这里的美景确实无可挑剔，无论是海景还是夕阳，都美得令人惊叹。然而，这里的餐厅价位却让人有些难以接受。这是我们下飞机后的第一餐，三个人竟然吃到了5000多台币（约合161美元），让人不禁感叹价格之高。
 
 坐在沙滩上用餐时，晚上会有乐队在座位周围演奏并要求打赏，这让人感觉有些情感勒索的意味。因此，如果你打算来这里用餐，建议事先查好餐厅的评价再决定是否进入。金巴兰海滩的美景值得一看，但在选择餐厅时需要更加谨慎。
 
@@ -56,7 +56,7 @@ https://www.instagram.com/reel/C6_hnL-J86g/?utm_source=ig_web_button_share_sheet
 
 **停留时间：3小时**
 
-GWK神鹰文化公园是一个非常值得一游的景点。从机场就能看到那座雄伟的毗湿奴神像，这座神像比自由女神还高出30米，让人印象深刻。整个公园壮阔庄严，漫步其中，感受到一种宁静与尊崇。在这里，边喝椰子汁边逛公园是一种非常惬意的享受。公园内的纪念品店规模很大，商品丰富，非常适合喜爱购物的游客。此外，公园旁边的厕所装有冷气，让人在炎热的天气里感到一丝清凉。GWK神鹰文化公园不仅景色壮丽，而且设施齐全，是一个不可错过的旅游胜地。
+GWK神鹰文化公园是一个非常值得一游的景点。从机场就能看到那座雄伟的毗湿奴神像，这座神像比自由女神还高出30米，让人印象深刻。整个公园壮阔庄严，漫步其中，感受到一种宁静与尊崇。在这里，边喝椰子汁边逛公园是一种非常惬意的享受。公园内的纪念品店规模很大，商品丰富，非常适合喜爱购物的游客。此外，公园旁边的厕所装有冷气，让人们在炎热的天气里感到一丝清凉。GWK神鹰文化公园不仅景色壮丽，而且设施齐全，是一个不可错过的旅游胜地。
 
 https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
@@ -65,6 +65,8 @@ https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 > 神鹰广场攻略：[巴厘岛 Garuda Wisnu Kencana GWK神鹰广场/神鹰文化公园全攻略](/zh-cn/blog/gwk-cultural-park-bali/)
 
 > Klook特价票：[神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
+
+> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
 
 ### 乌鲁瓦图庙卡恰火舞
 
@@ -97,7 +99,7 @@ Oneeighty Day Club（叶庭瑜提供）
 
 **停留时间：3.5小时**
 
-Oneeighty Club悬崖酒吧是一个建在悬崖上的浮夸场所，其特色泳池非常适合拍照，光是拍照就可以花上2小时。这里的入场费还可以抵扣消费，让人感觉物有所值。酒吧的食物在乌鲁瓦图区算是相当美味的，非常值得一试。
+Oneeighty Club悬崖酒吧是一个建在悬崖上的浮夸场所，其特色泳池非常适合拍照，光是拍照就可以花上2小时。这里的入场费还可以折抵消费，让人感觉物有所值。酒吧的食物在乌鲁瓦图区算是相当美味的，非常值得一试。
 
 然而，在下水后记得要洗手再拿食物吃，不然很容易感染到“Bali Belly”（巴厘岛腹泻），这是我在这里的亲身经历，教训深刻。
 
@@ -129,7 +131,7 @@ Monkey Forest（叶庭瑜提供）
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：乌布不知道怎么逛吗？来看我们的乌布攻略地图
+> 延伸阅读：Ubud乌布不知道怎么逛吗？来看我们的乌布攻略地图
 
 ### 乌布彭里普兰村庄
 
@@ -153,13 +155,13 @@ https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
 **Klook特惠行程**
 
-> [巴厘岛彭丽普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
+> [巴厘岛彭里普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
 
 > [Penglipuran乡村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
 
-> [巴厘岛彭丽普兰村＆乌布＆大自然＆寺庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
+> [巴厘岛彭里普兰村＆乌布＆大自然＆寺庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
 
-### 乌布德哥拉朗梯田
+### 乌布德格拉朗梯田
 
 ![Tegallalang Rice Field（葉庭瑜提供）](https://images.gobaligo.id/vocus/vocus_273e9bca32d9e28d429843236d543aab.jpg)
 
@@ -187,7 +189,7 @@ https://www.instagram.com/reel/C79YeY6plqw/?utm_source=ig_web_button_share_sheet
 
 在乌布，有许多麝香猫咖啡种植园。我们选择了司机推荐的一家种植园，这里提供了一次品尝16杯不同口味的茶和咖啡的体验。当时的品尝体验确实不错，让人能够一次尝试到多种不同风味的饮品。
 
-然而，回国后经过一些资料查询，发现这些种植园存在不少差评。主要问题在于他们售卖的产品与试喝的产品不一致。因此，建议大家在前往这些咖啡种植园之前，一定要先做好功课，查询相关评价，避免不愉快的购物体验。
+然而，回国后经过一些资料查询，发现这些种植园存在不少负面评价。主要问题在于他们销售的产品与试喝的产品不一致。因此，建议大家在前往这些咖啡种植园之前，一定要先做好功课，查询相关评价，避免不愉快的购物体验。
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
@@ -199,7 +201,7 @@ https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
 **停留时间：1.5小时**
 
-乌布瓦帕迪酒店内的丛林健身房提供了一个极为独特的健身体验，享有360度全景的乌布自然景观。这里隐身于稻田和丛林之间，让你能够在自然美景中运动，这样的体验个人认为非常难得！
+乌布瓦帕迪酒店内的丛林健身房提供了一个极为独特的健身体验，享有360度全景的乌布自然景观。这里隐身在稻田和丛林之间，让你能够在自然美景中运动，这样的体验个人认为非常难得！
 
 虽然健身器材不多，但由于人流不多，你几乎可以包场，享受一个私密且宁静的健身空间。这种独特的氛围感让整个健身过程更加舒适和专注。
 
@@ -227,7 +229,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ## 巴厘岛行程总整理
 
-### 4/15 （4/15-4/17 Uluwatu)
+### 4/15 （4/15-4/17 Uluwatu)（4/15-4/17 乌鲁瓦图）
 
 **DPS机场到达**
 
@@ -253,7 +255,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **超市采购**
 
-地点：在附近的超市购买一些日常用品和零食。
+地点：附近的超市购买一些日常用品和零食。
 
 > 延伸阅读：[【印尼/巴厘岛旅游】超市/便利店买什么？](https://youtu.be/UoGlRyAdyB8)
 
@@ -277,7 +279,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **午餐**
 
-地点：One Eighty Day Club这里的悬崖景观让你享受美食的同时，还能欣赏到壮丽的海景。
+地点：One eighty Day Club这里的悬崖景观让你享受美食的同时，还能欣赏到壮丽的海景。
 
 > 延伸阅读：[探索Oneeighty Day Club](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
@@ -285,9 +287,9 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 参观巴厘岛著名的悬崖寺庙，感受当地的宗教文化。
 
-**卡洽日落火舞**
+**卡恰日落火舞**
 
-观看乌鲁瓦图庙的传统卡洽舞和火舞表演。
+观看乌鲁瓦图寺庙的传统卡恰舞和火舞表演。
 
 > 延伸阅读：[卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/zh-cn/blog/kecak-fire-dance-bali/)
 
@@ -361,7 +363,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **巴龙舞**
 
-观赏巴龙舞表演，了解巴厘岛的传统文华。
+观赏巴龙舞表演，了解巴厘岛的传统文化。
 
 **蜡染村**
 
@@ -409,7 +411,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 地点：Penglipuran Village参观这个保存完好的传统村落，了解当地的生活方式。
 
-> 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
+> 延伸阅读：[穿越时空的Penglipuran村庄：体验巴厘古老的魅力](/zh-cn/blog/penglipuran-village-bali-experience/)
 
 **洞穴感秘境瀑布**
 
@@ -425,9 +427,9 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 地点：Tegalalang Rice Terrace欣赏美丽的梯田景观，并拍照留念。
 
-**网红秋千拍照**
+**网美秋千拍照**
 
-地点：德哥拉朗
+地点：德格拉朗
 
 **乌布按摩**
 
@@ -447,11 +449,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4/24 (Padang Bai Kuta)
+### 4/24 (八丹拜 库塔)
 
 **抵达港口**
 
-地点：Padang Bai (Ekajaya Fast Ferry)时间：13:30
+地点：八丹拜 (Ekajaya Fast Ferry)时间：13:30
 
 **午餐**
 
@@ -465,11 +467,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 参观这个大花园，欣赏各种雕像和美丽的花园景观。
 
-> 延伸阅读：[沙努尔50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
+> 延伸阅读：[Sanur 50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
 
 **晚餐**
 
-地点：Naughty Nuri's Warung, 沙努尔
+地点：Naughty Nuri's Warung, Sanur
 
 > [沙努尔Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
 
@@ -503,7 +505,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **库塔沙滩**
 
-享受库塔海滩的阳光和海滩活动。
+享受库塔海滩的阳光和沙滩活动。
 
 > 延伸阅读：[巴厘岛库塔冲浪推荐｜小杰的巴厘岛学冲浪初体验](https://youtu.be/gECdNvG16ww)
 
@@ -525,9 +527,9 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 因为Bali Belly，只去了早上的Blue Point Beach，之后就回酒店休息了。
 
-关于巴厘岛自由行有任何问题或是想跟我们拿完整行程的朋友，都欢迎私讯我们的IG或留言唷！希望有帮到大家！
+关于巴厘岛自由行有任何问题或是想跟我们要完整行程的朋友，都欢迎私讯我们的IG或留言哦！希望能帮到大家！
 
-您觉得叶庭瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+你觉得叶庭瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿你的行程哦！
 
 {{block:遊記}}
 

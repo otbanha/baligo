@@ -1,12 +1,12 @@
 ---
 slug: bali-family-8-day-itinerary
 title: >-
-  【Bali 8 Hari Family Trip: Catatan Perjalanan & Tips】Delapan Hari Menjelajahi
-  Sebagian Besar Bali
+  【Bali 8 Hari Trip Keluarga: Panduan & Cerita Perjalanan】Delapan Hari
+  Menjelajahi Sebagian Besar Bali
 description: >-
-  Catatan perjalanan 8 hari 7 malam di Bali bersama keluarga, menjelajahi
-  Jimbaran, Uluwatu, Nusa Lembongan, Sanur, Ubud, Sunrise Gunung Batur, Tanah
-  Lot, Seminyak...
+  Cerita perjalanan 8 hari 7 malam keluarga di Bali, menjelajahi Jimbaran,
+  Uluwatu, Nusa Lembongan, Sanur, Ubud, Sunrise Gunung Batur, Tanah Lot,
+  Seminyak...
 pubDate: 2025-11-10T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 category:
@@ -26,71 +26,71 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: id
 _srcHash: PENDING_RETRY_c9575cb555bb563e84934c2b41d6613c
-_translateAttempts: 1
+_translateAttempts: 2
 ---
-Anggota grup Facebook [Mei Chen](https://www.facebook.com/mei.co.nz/) dan keluarganya berbagi catatan perjalanan 8 hari 7 malam di Bali, khusus untuk kami edit dan bagikan:
+Anggota grup Facebook [Mei Chen](https://www.facebook.com/mei.co.nz/) bersama keluarganya berbagi cerita perjalanan 8 hari 7 malam di Bali, khusus untuk kami edit/bagikan:
 
 ***
 
-**Ringkasan Penting**: Ini adalah catatan perjalanan nyata dari grup 6 dewasa + 1 balita (2 tahun) selama 8 hari 7 malam, dengan rute mencakup **Jimbaran, Uluwatu, Nusa Lembongan, Sanur, Ubud, Sunrise Gunung Batur, Tanah Lot, Seminyak**. Dua pelajaran berharga: ① Visa on Arrival (VOA) lebih aman daripada e-Visa (takut salah isi data kena denda, antre di lokasi cuma sekitar 10 menit, tapi bayar pakai kartu kena biaya tambahan 2%); ② **Ambil bagasi bisa lebih lama dari urus visa** (mereka nunggu hampir 2 jam, sampai ketinggalan sunset di Jimbaran), jadi rencanakan行程 dengan waktu cadangan.
+**Ringkasan Penting**: Ini adalah catatan perjalanan nyata 8 hari 7 malam dari keluarga 6 dewasa + 1 balita (2 tahun), rutenya meliputi **Jimbaran, Uluwatu, Nusa Lembongan, Sanur, Ubud, Sunrise Gunung Batur, Tanah Lot, Seminyak**. Dua pelajaran berharga: ① Visa on Arrival (VoA) lebih aman daripada e-Visa (takut salah isi data kena denda, antre di lokasi cuma sekitar 10 menit, tapi kalau bayar pakai kartu kena biaya tambahan 2%); ② **Ambil bagasi bisa lebih lama dari urus visa** (mereka nunggu hampir 2 jam, sampai ketinggalan sunset di Jimbaran), jadi rencanakan perjalanan dengan waktu cadangan.
 
-Terima kasih untuk grup Facebook "[Go Bali Go](https://www.facebook.com/groups/baligo)" yang bantu sebelum berangkat, semoga info saya juga berguna buat kalian.
+Terima kasih kepada "[Grup Facebook Go Bali Go](https://www.facebook.com/groups/baligo)" yang membantu sebelum perjalanan, semoga info saya juga berguna buat kalian.
 
-## Info Perjalanan & Persiapan
+## Info Perjalanan & Persiapan Sebelum Berangkat
 
 Tanggal perjalanan: 18 Mei - 25 Mei
 
-Trip kali ini adalah liburan keluarga, total 6 dewasa dan 1 anak kecil (balita laki-laki usia 2 tahun).
+Trip Bali kali ini adalah liburan keluarga, total 6 dewasa dan 1 anak kecil (balita laki-laki usia 2 tahun).
 
 ### Tiket Pesawat
 
-Kami pilih penerbangan langsung China Airlines, harga tiket PP sekitar USD$419 per orang. Karena pesan lebih dari 3 bulan sebelumnya, dapet diskon lumayan.
+Kami pilih penerbangan langsung China Airlines, harga tiket pulang-pergi sekitar USD$419 per orang. Karena pesan lebih dari 3 bulan sebelumnya, dapet diskon yang lumayan.
 
 ### Visa
 
-Kami pilih visa on arrival (VOA). Kalau bayar pakai kartu, kena biaya tambahan 2%. Awalnya sempat kepikiran bikin e-visa, tapi harus isi banyak data. Apalagi lihat ada yang kena denda gara-gara nulis 'TAIWAN' pas isi formulir — takut salah, jadinya ambil VOA aja. Proses VOA di Bandara Bali lumayan gampang, banyak antrean di konter, tiap baris sekitar 5 orang. Beruntung banget, kami cuma nunggu 10-15 menit buat urus visa. Tapi pas ambil bagasi, hoki-nya ilang — hampir 2 jam nunggu koper, jadinya kelewatan momen lihat sunset di Jimbaran.
+Kami pilih Visa on Arrival (VoA), pakai kartu kredit kena biaya tambahan 2%. Awalnya sempat kepikiran bikin e-Visa, tapi harus isi data panjang, apalagi lihat ada yang kena denda karena nulis 'TAIWAN' — takut salah, jadinya ambil VoA aja. Proses VoA di Bali lumayan gampang, banyak counter antre, tiap antrean cuma sekitar 5 orang. Beruntung banget, cuma nunggu 10-15 menit selesai. Tapi pas ambil bagasi, hoki-nya ilang — nunggu hampir 2 jam, jadinya kelewatan lihat sunset di Jimbaran.
 
 > [Panduan Lengkap 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/id/blog/bali-all-indonesia-arrival-guide/)
 
 ### Kartu Internet
 
-Kami udah beli dua kartu XL dari seller dengan rating terbaik di Shopee. Tapi katanya sinyal XL emang jelek, jadi kami siapin budget tambahan buat beli kartu lain di sana. Ternyata bener, sinyal XL parah banget — hampir gak bisa dipakai internet. Akhirnya beli kartu Telkomsel lokal, 24GB sekitar USD$12, dan baru dapet koneksi stabil.
+Kami beli dua kartu XL dari seller rating tertinggi di Shopee. Tapi katanya sinyal XL jelek, jadi siapin budget buat beli kartu lain di sana. Ternyata bener, XL sinyalnya parah banget, nyaris gak bisa dipakai. Akhirnya beli Telkomsel lokal, 24GB sekitar USD$12, baru deh internet stabil.
 
 ### Penukaran Uang
 
-Kami tukar dulu ke USD di Taiwan, baru nanti di Bali dituker ke Rupiah. Pilih money changer resmi yang kasih struk dan punya sertifikasi. Sebenarnya kurs di semua money changer resmi hampir sama, cuma yang gak kasih struk biasanya kurs-nya lebih bagus. Tapi takut ketipu, jadi kami tetap pilih yang resmi. Dari pengamatan, kurs paling oke antara jam 12 siang sampai jam 3 sore. Kadang kalau udah sore, kurs-nya bisa jelek.
+Kami tukar dulu ke USD di Taiwan, baru ganti ke Rupiah pas di Bali. Pilih money changer resmi yang kasih kuitansi dan bersertifikat. Sebenarnya rate-nya hampir sama semua, cuma yang gak kasih kuitansi rate-nya lebih oke, tapi takut ketipu, jadi tetap pilih yang resmi. Dari pengamatan, rate paling bagus antara siang sampai jam 3 sore, kadang sore udah mulai jelek.
 
-Cara pilih money changer resmi? Baca: [Panduan Lengkap Tukar Uang di Bali/Indonesia](/id/blog/bali-currency-exchange-guide/)
+Cara pilih money changer resmi? Cek: [Panduan Lengkap Tukar Uang di Bali/Indonesia](/id/blog/bali-currency-exchange-guide/)
 
-### Dari Bandara ke Hotel Jimbaran
+### Bandara ke Hotel Jimbaran
 
-Kami panggil dua mobil lewat Grab, nunggu sekitar 20 menit. Pas cek harga, Grab lebih murah daripada Gojek, dan juga lebih murah dari jemput bandara yang udah dipesen di Klook (mobil Hiace sekitar USD$23). Karena khawatir VOA bikin molor, kami pilih panggil mobil langsung di tempat. Dua mobil Grab total sekitar USD$13, tapi harus nunggu di lokasi — pertimbangkan sendiri. Bandingin, jemput bandara pakai mobil sewaan adalah pilihan termahal, karena sopir cuma anter sekali jalan plus sewa mobil, dan gak bisa ambil order lain. Kecuali kamu ada rencana ke tempat lain di hari yang sama, gak worth it pakai layanan sewa mobil.
+Kami panggil dua mobil lewat Grab, nunggu sekitar 20 menit. Pas cek harga, Grab lebih murah dari Gojek, dan lebih murah dari jemput bandara yang dipesen di Klook (mobil Hiace sekitar USD$23). Karena VoA bisa molor, mending pesan langsung di tempat. Dua mobil Grab total sekitar USD$13, tapi harus nunggu di lokasi — pertimbangkan sendiri. Bandingin, jemput bandara pakai sewa mobil itu paling mahal, soalnya sopir cuma anter sekali jalan plus sewa mobil, gak bisa ambil order lain. Kecuali hari itu ada tujuan lain, gak worth it sih.
 
 ### Rute Perjalanan
 
-Karena kami ingin mengunjungi semua tempat terkenal, jadwal perjalanan sudah direncanakan dari jauh-jauh hari, baru kemudian mencari sopir sewaan yang cocok dengan rencana kami.
+Karena kami ingin mengunjungi semua tempat terkenal, jadwal perjalanan sudah direncanakan dari jauh-jauh hari, baru kemudian cari supir sewaan yang cocok dengan rencana kami.
 
 ***
 
 ## Sabtu, 18 Mei | Hari 1: Eksplorasi Jimbaran
 
-Pesawat take-off dari Taiwan jam 09:10 pagi, setelah terbang lebih dari lima jam, tiba di Bali jam 14:40 siang.
+Pesawat take-off dari Taiwan jam 9:10 pagi, setelah terbang lebih dari lima jam, sampai di Bali jam 14:40 sore.
 
 ### Hotel FOX Hotel Jimbaran Beach
 
-Setelah sampai, kami langsung menuju FOX Hotel Jimbaran Beach untuk menaruh barang. Hotel ini dekat banget sama Pantai Jimbaran, jalan kaki aja nyampe. Di lantai atas ada kolam renang infinity dan area bermain anak-anak, cocok banget buat liburan keluarga.
+Sesampainya di sana, kami langsung menuju FOX Hotel Jimbaran Beach untuk menaruh barang. Hotel ini dekat banget sama Pantai Jimbaran, jalan kaki aja sampai. Di lantai atas ada kolam renang infinity, plus area bermain anak-anak, cocok banget buat liburan keluarga.
 
 ### Pantai Jimbaran
 
-Awalnya mau lihat sunset di Pantai Jimbaran, tapi karena lama nunggu bagasi di bandara, jadi kelewatan momen sunset yang indah. Meski gitu, pemandangan di pantai tetap bikin betah, plus ada jagung bakar khas lokal yang bisa dicoba. Jagung bakarnya manis, pakai butter, enak banget dan bikin nagih.
+Awalnya mau lihat sunset di Pantai Jimbaran, tapi karena terlalu lama nunggu bagasi di bandara, akhirnya kelewatan momen sunset yang indah. Meski gitu, pemandangan di pantai tetap bikin betah, ada juga jagung bakar khas lokal yang bisa dicoba. Jagung bakarnya manis, pakai butter, enak banget dan bikin nagih.
 
 ### Makan Malam - Lia Cafe
 
-Untuk makan malam, kami pilih Lia Cafe. Tempat ini kena biaya layanan 10% tambahan, dan bisa bayar pakai kartu. Pas nunggu makanan, ada grup musisi lokal yang nyanyi sesuai negara asal kamu, tapi mereka maksa minta tip. Kalau kasih dikit, mereka kelihatan gak senang, agak ganggu pengalaman makan sih. (Catatan redaksi: Mereka bukan bagian dari restoran. Kalau grup musik biasa nyanyi, kasih tip sekitar 50,000 Rupiah aja udah cukup bikin semua senang!)
+Untuk makan malam, kami pilih Lia Cafe. Tempat ini kena biaya layanan 10% tambahan, dan bisa bayar pakai kartu. Pas nunggu makanan, ada grup musisi lokal yang nyanyi lagu sesuai negara asal kamu, tapi mereka maksa minta tip. Kalau kasih dikit, mereka mukanya cemberut, bikin pengalaman makan jadi kurang nyaman. (Catatan redaksi: Bukan band resmi restoran. Kalau mereka nyanyi, kasih tip 50,000 Rupiah aja udah cukup kok!)
 
-[Baca Juga: 11 Rekomendasi Restoran Seafood di Jimbaran, Bali](/id/blog/jimbaran-seafood-restaurants-list/)
+> Baca juga: [11 Rekomendasi Restoran Seafood di Jimbaran, Bali](/id/blog/jimbaran-seafood-restaurants-list/)
 
-### Destinasi yang Terlewat - Cuca Restaurant
+### Rencana yang Gagal - Cuca Restaurant
 
 Awalnya mau mampir ke Cuca Restaurant buat nyobain dessert-nya, tapi karena jadwal molor akhirnya batal. Katanya sih dessert di sini enak banget, jadi next trip wajib dicoba deh.
 
@@ -98,11 +98,11 @@ Awalnya mau mampir ke Cuca Restaurant buat nyobain dessert-nya, tapi karena jadw
 
 ### Coco Supermarket Jimbaran
 
-Abis makan malam, kami mampir ke Coco Supermarket Jimbaran yang dekat situ buat beli cemilan dan buah-buahan. Dalam perjalanan ke supermarket, lihat banyak toko jual kartu SIM. Kami cari yang paling murah, sekalian mampir ke money changer buat tukar duit.
+Abis makan malam, kita mampir ke Coco Supermarket Jimbaran yang dekat situ, beli cemilan dan buah-buahan. Di jalan menuju supermarket, banyak banget lapak jual kartu SIM. Kita cari yang paling murah, sekalian mampir ke tempat penukaran uang buat ganti duit.
 
 ### Penginapan - FOX Hotel Jimbaran Beach
 
-Kami nginep di FOX Hotel Jimbaran Beach. Lokasinya strategis banget, tinggal jalan kaki ke Pantai Jimbaran. Di lantai atas ada kolam renang infinity dan area bermain anak-anak, bikin liburan makin seru.
+Kita nginep di FOX Hotel Jimbaran Beach. Lokasi hotel ini strategis banget, tinggal jalan kaki ke Pantai Jimbaran. Di lantai atas ada kolam renang infinity dan area bermain anak-anak, bikin liburan makin seru.
 
 ![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658009-231356395.jpeg)
 ![Penginapan - FOX Hotel Jimbaran Beach](https://images.gobaligo.id/images/2026-04/1776002658483-514336253.jpeg)
@@ -117,55 +117,55 @@ Kami nginep di FOX Hotel Jimbaran Beach. Lokasinya strategis banget, tinggal jal
 
 {{block:jim}}
 
-## Minggu, 19 Mei — DAY 2: Petualangan ke Uluwatu
+## Minggu, 19 Mei DAY 2 Petualangan Uluwatu
 
-### Sarapan — Bull's Coffee Jimbaran
+### Sarapan - Bull's Coffee Jimbaran
 
-Pertama kita mampir ke Bull's Coffee Jimbaran, pengen nyobain avocado sandwich andalannya. Sayang banget hari itu nggak ada stok. Kafenya bisa bayar pakai kartu, suasananya nyaman, cocok buat ngawali hari.
+Destinasi pertama kita adalah Bull's Coffee Jimbaran, mau cobain roti lapis alpukat mereka yang terkenal, tapi sayangnya hari itu nggak tersedia. Kafe ini bisa bayar pakai kartu, suasananya nyaman banget, cocok buat ngawali hari.
 
-### Sarapan — Warung Nasi Ayam Ibu Oki
+### Sarapan - Warung Nasi Ayam Ibu Oki
 
-Abis itu, kita sarapan lagi — nasi ayam khas Bali di Warung Nasi Ayam Ibu Oki. Nasi ayamnya enak banget dan autentik, bikin kita impressed banget.
+Setelah itu, kita sarapan lagi—nasi ayam khas Bali di Warung Nasi Ayam Ibu Oki. Nasi ayam di sini enak banget dan autentik, bikin kita terkesan banget.
 
 ![Mei Chen提供，左至右：Pantai Batu Barak/Pandawa Beach/Oneeighty](https://images.gobaligo.id/vocus/vocus_80fde13911e7805a8faa34c5e34bfc1d.jpg)
 
-Dokumentasi Mei Chen, dari kiri ke kanan: Pantai Batu Barak / Pandawa Beach / Oneeighty
+Dokumentasi Mei Chen, dari kiri ke kanan: Pantai Batu Barak/Pandawa Beach/Oneeighty
 
 ### Pantai Batu Barak
 
-Setelah sarapan, kita mampir ke Pantai Batu Barak. Tempatnya keren banget buat foto-foto. Pemandangan alamnya cantik, wajib banget dicek buat hunting foto.
+Setelah sarapan, kita mampir ke Pantai Batu Barak, tempat yang kece buat foto-foto. Pemandangan alamnya cantik banget, pas banget buat hunting foto.
 
 ### Pandawa Beach
 
-Lanjut, kita ke Pandawa Beach. Meskipun pantainya biasa aja, nggak terlalu istimewa, tapi seru banget bisa nyobain naik kano — bikin makin asik petualangannya.
+Lanjut, kita menuju Pandawa Beach. Meskipun pantainya nggak terlalu istimewa, tapi bisa seru-seruan naik kano, jadi makin asik.
 
-### One Eighty Bali Cliff Bar
+### One Eighty Bali 懸崖酒吧
 
-Untuk makan siang, kami memilih One Eighty Bali Cliff Bar. Harga makanan di sini relatif murah, kami pesan banyak menu sampai habis minimum spend. Selain makanan enak, ada juga infinity pool yang bikin kamu bisa makan sambil menikmati pemandangan. Saran: booking dulu ya, dan di sini bisa bayar pakai kartu.
+午餐我們選擇了One Eighty Bali懸崖酒吧，這裡的食物價格相對便宜，我們點了很多餐點才把低消用完。這裡除了美味的食物，還有無邊際泳池，可以邊吃邊享受美景。建議提前預訂，並且這裡可以刷卡支付。
 
-> Baca juga: [Oneeighty Day Club: Kolam Renang Tepi Tebing Bali yang Super Indah](/id/blog/oneeighty-dayclub-uluwatu-pool/)
+> 延伸閱讀：[Oneeighty Day Club介紹：峇里島懸崖邊的游泳池極致美景](/id/blog/oneeighty-dayclub-uluwatu-pool/)
 
-### Pura Uluwatu / Tari Kecak
+### 烏魯瓦圖廟/火舞表演
 
 ![Mei Chen提供：烏魯瓦圖廟和卡洽火舞表演](https://images.gobaligo.id/vocus/vocus_9fa7169092dff9f357a2a5ebfed8f6d6.jpg)
 
-Mei Chen memberikan info: Pura Uluwatu dan Tari Kecak
+Mei Chen提供：烏魯瓦圖廟和卡洽火舞表演
 
-Sore harinya, kami ke Pura Uluwatu buat lihat sunset dan pertunjukan Tari Kecak. Saran: beli tiket dulu lewat Klook atau KKday, soalnya kalau antre di tempat belum tentu bisa lihat pertunjukan jam enam. Monyet di sini super aktif, hati-hati sama topi dan kacamata biar nggak dirampas.
+下午，我們前往烏魯瓦圖廟觀看夕陽和火舞表演。建議先在Klook或KKday購買門票，否則現場排隊不一定能看到六點的表演。這裡的猴子非常活躍，要特別小心自己的帽子和眼鏡，防止被猴子搶走。
 
-> 💰 Mau tahu referensi harga tiket tempat wisata lainnya? **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** sudah merangkum referensi harga real-time dari 49 tempat populer, lengkap dengan link perbandingan harga Klook / Trip.com.
+> 💰 想知道更多景點的參考票價嗎？**[峇里島門票票價總表](/id/tickets/)** 整理了 49 個熱門景點的即時參考價，並附 Klook／Trip.com 比價連結。
 
-> Baca juga: [Tari Kecak: Pertunjukan Spektakuler Wajib Nonton di Bali (Lengkap Info Tiket)](/id/blog/kecak-fire-dance-bali/)
+> 延伸閱讀：[Kecak Fire Dance卡恰火舞秀 峇里島必看的震撼表演（附訂票資訊）](/id/blog/kecak-fire-dance-bali/)
 
 ### Rekomendasi Editor
 
-**Tur VW Convertible Uluwatu**
+**Tur VW Convertible Pemandangan Uluwatu**
 
 ![編輯推薦](https://images.gobaligo.id/images/2026-04/1775996096488-vw.jpeg)
 
-Jelajahi Bali Selatan naik VW convertible! Singgah di Pantai Padang-Padang dan Pandawa buat nikmatin pemandangan, lanjut ke Pura Uluwatu lihat sunset, lalu dinner seafood di Jimbaran. Paket sudah termasuk jemputan, sopir, dan bensin — tinggal duduk manis dan nikmatin serunya Bali!
+Naik VW convertible keliling Bali Selatan! Mampir ke Pantai Padang-Padang dan Pandawa buat nikmatin pemandangan, sampai di Pura Uluwatu buat lihat sunset, lalu dinner seafood di Jimbaran. Paket ini udah termasuk jemputan, sopir, dan bensin — tinggal duduk manis dan nikmatin serunya Bali!
 
-[Tur VW Convertible Uluwatu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
+> [Tur VW Convertible Uluwatu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
 
 {{block:uluwatu}}
 
@@ -187,15 +187,15 @@ Jelajahi Bali Selatan naik VW convertible! Singgah di Pantai Padang-Padang dan P
 
 ![住宿 - Prime Plaza Hotel Sanur](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
 
-Malamnya, kita nginep di Prime Plaza Hotel Sanur - Bali. Hotel ini cocok banget buat yang besoknya mau island hopping, karena tinggal jalan kaki beberapa menit aja udah sampai pelabuhan baru Sanur. Kolam renangnya ada area anak-anak, jadi pas buat keluarga yang bawa bocil. Tapi pas check out, kita ninggalin pelampung renang di kamar. Tiga jam kemudian pas nanya, katanya nggak ada yang lihat. Agak kecewa sih, pelayanan hotel di bagian ini perlu ditingkatkan.
+Malamnya kita nginep di Prime Plaza Hotel Sanur - Bali. Hotel ini cocok banget buat yang besoknya mau island hopping, karena cuma jalan kaki beberapa menit udah sampai pelabuhan baru Sanur. Kolam renangnya ada area anak-anak, jadi pas buat keluarga. Tapi pas check-out, kita ninggalin pelampung renang di kamar, dan pas nanya tiga jam kemudian, katanya nggak ada. Agak kecewa sih, pelayanan hotel di sini perlu ditingkatkan.
 
-> ▶[Link Booking Prime Plaza Hotel Sanur](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-840723/prime-plaza-hotel-sanur-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KPN8NJqU)
+> ▶[Link booking Prime Plaza Hotel Sanur](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-840723/prime-plaza-hotel-sanur-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KPN8NJqU)
 
-## 20 Mei Senin DAY 3 Snorkeling Nusa Lembongan / Sanur
+## 20 Mei, Senin DAY 3 Snorkeling di Nusa Lembongan / Sanur
 
 ### Sarapan - Prime Plaza Hotel
 
-Pagi harinya kita sarapan prasmanan di Prime Plaza Hotel. Macem-macem makanannya bikin pagi kita makin semangat.
+Pagi-pagi kita sarapan prasmanan di Prime Plaza Hotel. Macem-macem makanannya bikin hari kita makin semangat!
 
 ### Pembagian Grup
 
@@ -203,37 +203,28 @@ Hari ini kita bagi jadi dua grup:
 
 ![Mei Chen提供：藍夢島浮潛](https://images.gobaligo.id/vocus/vocus_38be435f57f96f8f4e2f2e0915a6c236.jpg)
 
-Disediakan oleh Mei Chen: Snorkeling Nusa Lembongan
+Mei Chen cerita: Snorkeling di Nusa Lembongan
 
-1. **Snorkeling Island Hopping di Nusa Lembongan** Kelompok pertama pergi snorkeling island hopping di Nusa Lembongan. Pagi-pagi jalan kaki ke pelabuhan, waktu snorkeling dari 08:45 sampai 15:15. Kami pesan paket ini di KKday karena harganya lebih murah daripada Klook, dan pas ulang tahun bulan Mei ada kupon diskon, plus dapat foto dan video gratis.
-2. **Istirahat di Hotel** Kelompok kedua yang nggak ikut snorkeling santai di hotel, menikmati tidur siang dan main air. Check-out jam 12 siang, mereka titip barang lalu jalan-jalan ke Pantai Sanur. 
-▶[Pesan paket Nusa Lembongan di KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
-▶[Pesan paket Nusa Lembongan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
-__VID0__
-### Makan Siang - Warung Mak Beng
-Kami makan siang di Warung Mak Beng, Sanur. Ikan di sini enak banget, jaraknya jalan kaki dari hotel, jadi pilihan yang pas.
-### Kumpul
-Setelah snorkeling selesai, kami kumpul dan naik Grab sendiri-sendiri ke tempat nginep berikutnya.
-### Menginap - RV Hotel Kutus Kutus
-Malam ini kami nginep di RV Hotel Kutus Kutus, Ubud. Harga per kamar sekitar USD$13, belum termasuk sarapan karena tambah sarapan lebih mahal dari harga kamar—bikin kami ngakak. Kamarnya baru banget, di lantai atas ada kolam renang infinity dan area bermain anak. Satu-satunya kekurangan adalah kedap suara kamar yang kurang bagus, tapi dengan harga segitu, worth it banget. Buat yang susah tidur, mungkin perlu diperhatikan.
+1. **Snorkeling Island Hopping Nusa Lembongan**
+Grup pertama pergi snorkeling island hopping ke Nusa Lembongan. Pagi-pagi jalan kaki ke pelabuhan, waktu snorkeling dari jam 08:45 sampai 15:15. Kami booking paket ini di KKday karena harganya lebih murah dari Klook, apalagi pas ulang tahun bulan Mei ada kupon diskon, plus dapat foto dan video gratis.
 
-▶[Pesan paket wisata Nusa Lembongan via KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
+▶[訂購KKday的藍夢島行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
 
 ▶[Pesan paket Nusa Lembongan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
-https://youtu.be/SpcgZ4iK7qs
+▶[Pesan paket Nusa Lembongan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
+
+__VID0__
 
 ### Makan Siang - Warung Mak Beng
 
-Kami makan siang di Warung Mak Beng, Sanur. Ikan di sini enak banget, jaraknya tinggal jalan kaki dari penginapan, worth it banget buat dicoba.
-
 {{block:sanur}}
 
-### 集合
+Kami makan siang di Warung Mak Beng, Sanur. Ikan di sini enak banget, tinggal jalan kaki dari hotel, worth it banget.
 
-Setelah snorkeling selesai, kami kumpul dan naik Grab sendiri ke tempat nginep berikutnya.
+### Kumpul
 
-### Akomodasi - RV Hotel Kutus Kutus
+Abis snorkeling, kami kumpul dan naik Grab sendiri-sendiri ke tempat nginep berikutnya.
 
 ![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996479076-480073976.jpeg)
 
@@ -251,49 +242,49 @@ Setelah snorkeling selesai, kami kumpul dan naik Grab sendiri ke tempat nginep b
 
 ![住宿 - RV Hotel Kutus Kutus](https://images.gobaligo.id/images/2026-04/1775996483008-478166879.jpeg)
 
-Malam ini kita nginep di RV Hotel Kutus Kutus di Ubud, harga per kamar sekitar USD$13, belum termasuk sarapan — soalnya harga tambah sarapan lebih mahal dari harga kamarnya, bikin kita ketawa sendiri. Kamarnya masih baru banget, di lantai atas ada infinity pool, plus area bermain air buat anak-anak. Satu-satunya kekurangan adalah dinding kamar kurang kedap suara, tapi dengan harga segini sih masih worth it banget. Buat yang susah tidur, mungkin perlu diperhatiin.
+Malam ini kita nginep di RV Hotel Kutus Kutus di Ubud, harga per kamar sekitar USD$13, belum termasuk sarapan. Soalnya kalau ditambah sarapan, biayanya malah lebih mahal dari harga kamar — bikin kita ketawa sendiri. Kamarnya baru banget, di lantai atas ada kolam renang infinity dan area bermain anak. Satu-satunya kekurangan adalah kedap suara kamar yang kurang bagus, tapi dengan harga segini sih masih worth it banget. Buat yang tidurnya ringan, mungkin perlu diperhatikan.
 
-> ▶[Link Pemesanan RV Hotel Kutus Kutus](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45418503)
+> ▶[Link booking RV Hotel Kutus Kutus](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45418503)
 
-### Makan Malam - Pasar Senggol Gianyar Night Market
+### Makan Malam - Pasar Senggol Gianyar
 
-Malam harinya, kami pergi ke Pasar Senggol Gianyar Night Market. Ini pasar malam yang sering dikunjungi warga lokal, ukurannya cukup besar dan seru banget. Kami naik Gojek untuk 6 orang ke sana, ongkosnya sekitar USD$1. Di pasar malam, kami nyobain berbagai jajanan lokal dan merasakan langsung 'nightlife Bali' yang sesungguhnya.
+Malam harinya, kita pergi ke Pasar Senggol Gianyar, pasar malam yang sering dikunjungi warga lokal. Ukurannya lumayan besar dan seru banget. Kita naik Gojek untuk 6 orang, ongkosnya sekitar USD$1. Di pasar, kita cobain berbagai jajanan lokal dan ngerasain langsung 'nightlife Bali' yang sesungguhnya.
 
 Xiao Jie pernah ke pasar malam terbesar lainnya di Bali:
 
 https://youtu.be/FphhiUzB7gM
 
-## 21 Mei Selasa HARI 4 Eksplorasi Ubud
+## 21 Mei, Selasa - Hari 4: Eksplorasi Ubud
 
 ![Mei Chen提供。由左至右：Tegenungan瀑布/Penglipuran村/百沙基母廟](https://images.gobaligo.id/vocus/vocus_4592f154b99afdb70a8a7ec6ed72678d.jpg)
 
-Dokumentasi Mei Chen. Dari kiri ke kanan: Air Terjun Tegenungan / Desa Penglipuran / Pura Besakih
+Dokumentasi dari Mei Chen. Dari kiri ke kanan: Air Terjun Tegenungan / Desa Penglipuran / Pura Besakih
 
 ### Air Terjun Tegenungan
 
-Perhentian pertama kami adalah Air Terjun Tegenungan, salah satu air terjun terkenal di Bali. Berdiri di depannya, mendengar gemuruh air dan merasakan percikan kabut, bikin hati adem dan pikiran fresh.
+Destinasi pertama kita adalah Air Terjun Tegenungan, salah satu air terjun terkenal di Bali. Berdiri di depannya, denger suara gemuruh air dan percikan kabut yang beterbangan — bikin hati adem dan pikiran fresh.
 
-### Makan Siang - Babi Guling Pande Bangli
+### Lunch - Babi Guling Pande Bangli
 
 https://youtube.com/shorts/sVxycGvyT9w
 
-Untuk makan siang kita pilih Babi Guling Pande Bangli, ini tempat jual nasi babi guling khas Bali. Rasanya enak sih, tapi sayangnya kita lihat tikus juga, jadi pengalaman makannya jadi kurang menyenangkan banget.
+Untuk lunch, kita milih Babi Guling Pande Bangli, tempat yang jual nasi babi guling khas Bali. Rasanya sih oke, tapi sayang banget kita lihat tikus di sana, jadi pengalaman makannya jadi kurang menyenangkan.
 
 ### Desa Penglipuran
 
-Terus kita lanjut ke Desa Penglipuran. Di sini harga tasnya paling murah dibanding tempat lain, cocok banget buat belanja. Meskipun harganya sudah murah, kamu tetap bisa tawar-menawar, lho.
+Lanjut, kita dateng ke Desa Penglipuran. Harga tas di sini paling murah dibanding tempat lain, cocok banget buat belanja. Meskipun harganya udah murah, kamu masih bisa tawar-menawar, lho!
 
 > Baca juga: [Desa Penglipuran yang Abadi: Rasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
 
 ### Pura Besakih
 
-Kita sempat mampir ke Pura Besakih. Tiket masuknya lumayan mahal, sekitar USD$10 (karena sudah termasuk biaya pemandu yang wajib). Setelah selesai menjelaskan, pemandunya bakal minta tip, padahal biaya tip pemandu sudah termasuk dalam harga tiket. Di sini kita juga lihat banyak pedagang jual buah manggis, harganya murah banget. Kalau di supermarket luar biasanya sekitar 35k per kilo, tapi di sini pas lihat kita nggak minat, mereka nawarin 10k per kilo!
+Kita sempat mampir ke Pura Besakih. Tiket masuknya lumayan mahal, sekitar USD$10 (soalnya udah termasuk biaya pemandu yang wajib). Setelah selesai menjelaskan, pemandunya bakal minta tip, padahal biaya tip udah termasuk di harga tiket. Di sini, kita juga lihat banyak pedagang jual manggis. Harganya murah banget, di supermarket luar biasanya sekitar 35k per kilo, tapi pas lihat kita nggak minat, mereka langsung nawarin 10k per kilo!
 
-### Makan Malam - AKASA Specialty Coffee
+### Dinner - AKASA Specialty Coffee
 
-Untuk makan malam kita pergi ke AKASA Specialty Coffee di Kintamani. Ini kafe dengan pemandangan, harga makanannya masih cukup terjangkau, dan bisa bayar pakai kartu. Sambil menikmati makanan enak, kita juga bisa lihat pemandangan yang indah.
+Untuk dinner, kita mampir ke AKASA Specialty Coffee di Kintamani. Ini kafe dengan pemandangan keren, harga makanannya juga masih terjangkau, dan bisa bayar pakai kartu. Sambil nikmatin makanan enak, kita juga bisa menikmati pemandangan yang indah.
 
-> [13 Rekomendasi Kafe & Restoran dengan Pemandangan Gunung Api di Kintamani, Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
+[Rekomendasi 13 Kafe & Restoran dengan Pemandangan Gunung Berapi di Kintamani, Bali 🌄☕](/id/blog/kintamani-volcano-cafes-restaurants/)
 
 ### Akomodasi - Batur view Homestay
 
@@ -313,77 +304,77 @@ Untuk makan malam kita pergi ke AKASA Specialty Coffee di Kintamani. Ini kafe de
 
 ![住宿 - Batur view Homestay](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
 
-> ▶[Link Booking Batur view Homestay](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
+▶ [Link Booking Batur view Homestay](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
 
-Malam ini kita nginep di Batur view Homestay. Balkon kamarnya langsung menghadap ke pemandangan gunung — barisan depan banget, pemandangannya super cantik. Karena ini homestay, fasilitas kamarnya cukup standar, harga per kamar sekitar USD$32. Kalau kamu lebih mementingkan fasilitas hotel, bisa coba Oculus Bali, tapi katanya pemandangan dari balkonnya nggak sebagus ini, harus naik ke atap dulu baru bisa lihat.
+Malam ini kita nginep di Batur view Homestay. Balkon kamarnya langsung menghadap pemandangan gunung, keren banget. Karena ini homestay, fasilitas kamarnya standar aja, harga per malam sekitar USD$32. Kalau kamu lebih mementingkan fasilitas hotel, bisa coba Oculus Bali, tapi katanya pemandangan dari balkonnya nggak sebagus ini, harus ke rooftop dulu baru bisa lihat.
 
 ![Oculus Bali 的 view 也不錯啊！](https://images.gobaligo.id/vocus/vocus_0ec49bc00a52aa3cae7c5b4bf4a9bb21.png)
 
-View Oculus Bali juga oke sih!
+View dari Oculus Bali juga oke sih!
 
-> ▶[Link Booking Oculus Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-99118073/desa-oculus/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
+▶ [Link Booking Oculus Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-99118073/desa-oculus/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
 
-## Rabu, 22 Mei — HARI KE-5: Sekitar Ubud
+## Rabu, 22 Mei - HARI KE-5: Sekitar Ubud
 
 ### Matahari Terbit di Gunung Batur
 
 ![Mei Chen提供：民宿的雲海](https://images.gobaligo.id/vocus/vocus_306755b27e346d34805e3a4972f5c538.jpg)
 
-Mei Chen berbagi: Lautan awan dari homestay
+Foto dari Mei Chen: Lautan awan dari homestay
 
-Pagi-pagi kita udah di balkon homestay nikmatin pemandangan Gunung Batur, saksikan sunrise yang megah dan lautan awan yang indah banget. Ini salah satu spot paling recommended sepanjang trip, worth it banget buat dilihat.
+Pagi-pagi kita udah di balkon kamar nikmatin pemandangan Gunung Batur, saksikan sunrise yang spektakuler dan lautan awan yang cantik banget. Ini salah satu spot paling recommended sepanjang trip, wajib banget dilihat.
 
-Kamu juga bisa ikut:
+Kamu juga bisa ikutan:
 
-▶[Pesan paket Gunung Batur di KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=25072)
+▶ [Pesan tur Gunung Batur via KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=25072)
 
-▶[Pesan paket Gunung Batur di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
+▶ [Pesan tur Gunung Batur via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
 ### Restoran Batur view Homestay
 
-Setelah lihat sunrise dari balkon kamar, kami sarapan di restoran Batur view Homestay. Restorannya pakai sistem a la carte, satu menu utama plus satu minuman, dan pemandangan gunung serta lautan awannya bikin hati adem banget.
+Setelah lihat sunrise dari balkon kamar, kami sarapan di restoran Batur view Homestay. Restorannya pakai sistem à la carte, satu menu utama plus satu minuman, dan kamu bisa nikmatin pemandangan gunung serta lautan awan — bikin hati adem banget.
 
 ![Mei Chen提供](https://images.gobaligo.id/vocus/vocus_50c7d642d4634f14fb0227ffc221b81b.jpg)
 
-Dokumentasi Mei Chen
+Dokumentasi: Mei Chen
 
 ### Pura Tirta Empul
 
-Selanjutnya kita menuju Pura Tirta Empul, salah satu tempat ikonik di Bali. Kalau cuma mau foto-foto aja sih gak perlu turun ke air, tapi kalau mau ikut ritual mandi, siap-siap antre lumayan lama.
+Selanjutnya kita menuju Pura Tirta Empul, salah satu tempat wisata terkenal di Bali. Kalau cuma mau foto-foto aja, nggak perlu turun ke air. Tapi kalau mau ikut ritual mandi, siap-siap antre lumayan lama.
 
-> [【Pura Tirta Empul Bali】Panduan Lengkap: Ritual Penyucian Air Suci Berusia Ribuan Tahun, Pantangan & Hal Wajib Dilihat](/id/blog/tirta-empul-temple-guide/)
+> [【Pura Tirta Empul Bali】Panduan Lengkap: Prosesi Penyucian Air Suci, Pantangan & Hal Wajib Dilihat](/id/blog/tirta-empul-temple-guide/)
 
 ### Cantik
 
-Kami mampir ke Cantik, tempat tur kopi luwak yang bisa cobain gratis berbagai teh, kopi, dan kakao. Tapi catat, harga jual di sini lumayan mahal — misalnya teh manggis harganya tiga kali lipat dari supermarket. Bisa bayar pakai kartu kredit.
+Kami sempat mampir ke Cantik, tempat tur kopi luwak yang juga bisa cobain gratis berbagai teh, kopi, dan kakao. Tapi catat ya, harga barang di sini lumayan mahal — misalnya teh manggis harganya tiga kali lipat dari supermarket. Bisa bayar pakai kartu kredit.
 
 https://youtube.com/shorts/NEnIZjZnrTk
 
 ### Terasering Tegallalang
 
-Meskipun buat orang Indonesia mungkin nggak terlalu wow, tapi sebagai warisan budaya sih worth it buat dikunjungi. Kami sengaja mampir buat foto-foto.
+Meskipun buat orang Indonesia mungkin nggak terlalu wow, tapi sebagai warisan budaya sih worth it buat dikunjungi. Kami sengaja ke sini buat foto-foto.
 
-> [【Panduan Sawah Terasering Bali】Tegallalang vs. Jatiluwih: Tiket, Musim Terbaik & Spot Foto Lengkap (Plus Rekomendasi Itinerary)](/id/blog/bali-rice-terraces-comparison/)
+> [【Panduan Sawah Terasering Bali】Tegallalang vs. Jatiluwih: Tiket, Musim Terbaik & Spot Foto Terbaik (Lengkap Tips Itinerary)](/id/blog/bali-rice-terraces-comparison/)
 
 ### Tebasari Resto, Bar & Lounge
 
-Untuk makan siang kami pilih Tebasari Resto, Bar & Lounge. Di sini bebek goreng dan iga babi-nya terkenal banget, tapi harganya agak mahal. Soal rasa, iga babi-nya mirip saus tomat ala Taiwan, wajib coba sih.
+Untuk makan siang kami pilih Tebasari Resto, Bar & Lounge. Nasi bebek goreng dan iga babi di sini terkenal banget, tapi harganya agak mahal. Soal rasa, iga babinya mirip saus tomat ala Indonesia — wajib coba sih.
 
-Boleh juga cobain bebek goreng dari grup yang sama, Bebek Tebasari Resto ya:
+Bisa juga cobain bebek goreng kotor dari grup restoran yang sama, Bebek Tebasari Resto:
 
 ![Tebasari Resto, Bar & Lounge](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
 
-▶Klook [Promo Makan di Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
+▶Klook: [Promo Makan di Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
-▶[KKday Paket Promo Tebasari Resto](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
+▶[KKday: Paket Menu Tebasari Resto](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
 
-### Check-in Hotel, Main Air & Ngopi Sore
+### Check-in Hotel + Main Air + Sore Teh
 
-Setelah kembali ke hotel, kami check-in dan menikmati fasilitas hotel, termasuk kolam renang dan teh sore. Kami menginap di salah satu hotel paling worth it selama perjalanan ini, dengan banyak layanan dan fasilitas gratis yang benar-benar recommended.
+Balik ke hotel, kita check-in dan nikmatin fasilitas hotel, termasuk kolam renang dan sore teh. Kita nginep di salah satu hotel paling worth it selama trip ini, banyak layanan dan fasilitas gratis yang ditawarin, beneran recommended banget.
 
 ### Makan Malam - Warung Makan Bu Rus
 
-Untuk makan malam, kami pergi ke Warung Makan Bu Rus. Harga di sini sangat ramah di kantong, dan rasa makanannya juga enak. Tapi, menu panggangnya cenderung asin, jadi perlu diperhatikan.
+Makan malam kita ke Warung Makan Bu Rus, harga di sini ramah banget di kantong, rasa makanannya juga enak. Tapi, menu bakar-bakaran cenderung asin, jadi perlu diperhatiin.
 
 ### Akomodasi - Dwaraka The Royal Villas
 
@@ -396,31 +387,31 @@ Untuk makan malam, kami pergi ke Warung Makan Bu Rus. Harga di sini sangat ramah
 ![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
 ![Akomodasi - Dwaraka The Royal Villas](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
 
-Malam ini kami menginap di Dwaraka The Royal Villas. Harga kamar sudah termasuk sarapan, teh sore, pijat kaki gratis, antar-jemput ke pusat kota setiap jam, plus ada kue kering, buah, dan minuman gratis di dalam kamar. Hotel ini benar-benar worth it banget, dengan berbagai fasilitas dan layanan yang bikin kamu merasa seperti tinggal di istana Ubud! Pasti jadi rekomendasi akomodasi terbaik selama perjalanan ini. Harga kamar sekitar USD$65, kalau pilih villa dua lantai untuk empat orang dengan kolam renang pribadi, harganya sekitar USD$130. Ada juga dua kolam renang umum, area bermain anak, dan kids club — cocok banget buat keluarga.
+Malam ini kita nginep di Dwaraka The Royal Villas, harga kamar udah termasuk sarapan, sore teh, pijat kaki gratis, antar-jemput ke pusat kota setiap jam, plus di kamar ada kue kering, buah, dan minuman gratis. Hotel ini beneran worth it banget, fasilitas dan layanannya lengkap, rasanya kayak tinggal di istana Ubud! Pasti jadi rekomendasi akomodasi paling oke selama trip ini. Harga kamar sekitar dua jutaan, kalau pilih villa dua lantai buat 4 orang plus kolam renang pribadi, harganya sekitar USD$130. Ada juga dua kolam renang umum, area bermain anak, dan kids club, cocok banget buat keluarga.
 
 ▶[Link Booking Dwaraka The Royal Villas](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-3913616/dwaraka-the-royal-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/48vW2DzN)
 
 {{block:ubud}}
 
-## 23 Mei Kamis - Hari ke-6 Pusat Kota Ubud
+## 23 Mei 2024 Kamis DAY 6 Pusat Kota Ubud
 
 ### Sarapan di Dwaraka The Royal Villas
 
-Kami menikmati sarapan di Dwaraka The Royal Villas. Ini adalah sarapan ala carte yang super lengkap, mulai dari kopi/teh, jus, hidangan pembuka, menu utama, sampai dessert. Kenyang banget, sampai siang aja masih kenyang.
+Kami sarapan di Dwaraka The Royal Villas, menu à la carte yang super lengkap — ada kopi/teh, jus, appetizer, main course, dan dessert. Kenyang banget sampai siang pun nggak kerasa lapar.
 
 ### Ubud Royal Palace
 
-Lanjut kita ke Ubud Royal Palace, ini istana kuno yang penuh sejarah, worth it banget buat dikunjungi.
+Lanjut ke Ubud Royal Palace, istana kuno yang penuh sejarah. Worth it banget buat dikunjungi.
 
-> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
+> [【Wajib Kunjungi di Ubud】Ubud Royal Palace: Permata Sejarah dan Budaya Bali｜Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 ### Tukies Coconut Shop
 
-Di Ubud kita juga mampir ke Tukies Coconut Shop, es krim kelapanya enak banget, bisa bayar pakai kartu kredit.
+Di Ubud kami juga mampir ke Tukies Coconut Shop, es krim kelapanya enak banget. Bisa bayar pakai kartu kredit.
 
-### Pasar Tradisional Ubud, Pasar Seni
+### Pasar Tradisional Ubud & Pasar Seni
 
-Kita jalan-jalan ke pasar tradisional dan pasar seni di Ubud. Harga barang di sana gila-gilaan sih, tapi kamu bisa coba tawar, kadang bisa dapet diskon sampai 70-80% loh.
+Kami jalan-jalan ke pasar tradisional dan pasar seni Ubud. Harga barangnya gila-gilaan, tapi kamu bisa tawar — kadang bisa dapet diskon sampai 70-80% loh.
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
@@ -430,70 +421,70 @@ https://youtu.be/JtxZHtijEkE
 
 ### Yeh Pulu Spa
 
-Sore itu kami mampir ke Yeh Pulu Spa, ambil paket pijat khas Bali — 90 menit cuma sekitar USD$13, bisa pakai kartu kredit. Emang bukan spa mewah sih, tapi review-nya oke banget, apalagi lokasinya dekat pusat kota. Kami booking sehari sebelumnya.
+Sore harinya kita mampir ke Yeh Pulu Spa, ambil paket pijat khas Bali 90 menit — cuma sekitar USD$13 aja, dan bisa bayar pakai kartu kredit. Memang bukan spa mewah, tapi ratingnya lumayan, lokasinya juga dekat pusat kota. Kita booking sehari sebelumnya.
 
-**Booking Spa Mid-Range Lain di Ubud:**
+**Booking spa kelas menengah lain di Ubud:**
 
-* [Svaha Spa Bisma — Pemandian & Pijat dengan View Hutan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
-* [Svaha Spa Kenderan — Pemandian & Pijat dengan View Lembah](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
+* [Svaha Spa Bisma — Spa & Pijat dengan Pemandangan Hutan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
+* [Svaha Spa Kenderan — Spa & Pijat dengan Pemandangan Lembah](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
 * [Radha Spa di Sankara Resort](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
 * [Mekar Ubud Jungle Spa — Pengalaman Pijat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
 * [Sungai Spa di Nandini Jungle Resort](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76292-sungai-spa-nandini-jungle-resort-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddc4550500f)
-* [Padma Spa di Plataran Ubud — Pijat & Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
-* [Chapung Wellness Spa — Pengalaman Pijat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
+* [Padma Spa Experience di Plataran Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
+* [Pengalaman Spa Chapung Wellness](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
 
-**Booking Spa Bintang Lima di Ubud:**
+**Pesan SPA bintang lima di Ubud:**
 
 * [Spa Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587) di Tanah Gajah
 * [Radha Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322) di The Sankara Suites & Villas
 * [Serayu Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57) di The Kayon Jungle Resort
-* [Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7) Experience
+* [Pengalaman Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7)
 
 ### Penginapan yang Wajib Dihindari - CLV Hotel and Villa
 
-Malam ini kami menginap di CLV Hotel and Villa. Kami pesan tiga villa, masing-masing dengan tiga kamar. Awalnya kami booking tiga villa, satu kamar per villa. Tapi anehnya, mereka mengunci dua villa lainnya dan cuma kasih kami satu villa dengan tiga kamar untuk dipakai berenam, yaitu Villa C1. Kondisi villa ini parah banget, dindingnya ada jamur dan noda hitam, seprai lembap, bahkan lihat dua kecoa, perabotannya juga kotor, lingkungannya bikin nggak betah. Kami lapor ke penginapan minta lihat dua villa lainnya, tapi mereka bilang sudah penuh. Ini hotel terburuk yang pernah kami tinggali, nggak recommended sama sekali.
+Malam ini kami menginap di CLV Hotel and Villa. Kami memesan tiga villa, masing-masing dengan tiga kamar. Awalnya kami booking tiga villa, masing-masing satu kamar. Tapi anehnya, mereka mengunci dua villa lainnya dan cuma ngasih satu villa tiga kamar untuk kami berenam pakai bareng, yaitu Villa C1. Tapi kondisi kamar ini parah banget, temboknya ada jamur dan noda hitam, seprai lembap, bahkan lihat dua kecoa, perabotannya juga kotor, suasananya bikin nggak tahan. Kami udah komplain ke penginapan minta lihat dua villa lainnya, tapi mereka malah bilang kamar udah penuh. Ini penginapan terburuk yang pernah kami tinggali seumur hidup, jelas nggak recommended.
 
-Catatan redaksi: Lebih dari 300 rekomendasi penginapan di Bali dari kami adalah langkah pertama biar kamu nggak salah pilih tempat menginap!
+Catatan redaksi: Lebih dari 300 rekomendasi penginapan di Bali dari kami adalah filter pertama biar kamu nggak salah pilih tempat menginap!
 
 {{block:住宿}}
 
-## Jumat, 24 Mei DAY 7 Meninggalkan Pegunungan / Menginap di Seminyak
+## Jumat, 24 Mei HARI 7 Meninggalkan daerah pegunungan/Menginap di Seminyak
 
 ### Sarapan di CLV Hotel
 
-Sarapan hari ini di CLV Hotel, disajikan dalam bentuk prasmanan. Mungkin ini satu-satunya hal yang lumayan dari hotel ini...
+Hari ini sarapan di CLV Hotel, disajikan dalam bentuk prasmanan. Mungkin ini satu-satunya hal yang lumayan dari hotel ini...
 
 ![Mei Chen提供。左：布拉坦水神廟；右：海神廟](https://images.gobaligo.id/vocus/vocus_a81faba5c271d98cc3e68e89b483eb22.jpg)
 
-Mei Chen提供。Kiri: Pura Ulun Danu Bratan; Kanan: Pura Tanah Lot
+Dokumentasi Mei Chen. Kiri: Pura Ulun Danu Bratan; Kanan: Pura Tanah Lot
 
 ### Pura Ulun Danu Bratan
 
-Kami lanjut ke Pura Ulun Danu Bratan, ini salah satu pura penting di Bali, worth it banget buat dikunjungi.
+Kami pergi ke Pura Ulun Danu Bratan, ini adalah salah satu pura penting di Bali, worth it banget buat dikunjungi.
 
-### Makan Durian Pinggir Jalan
+### Makan Durian di Pinggir Jalan
 
-Di perjalanan, kami sempat cobain durian lokal yang dijual di pinggir jalan. Rasanya nggak terlalu menyengat, malah cukup enak di mulut. Meskipun harganya lumayan (satu buah sekitar 3 kg seharga USD$15), tapi cobain kuliner lokal tuh seru banget sih.
+Di perjalanan, kami nyobain durian lokal di pinggir jalan. Rasanya tuh jenis yang nggak terlalu menyengat, cukup enak di mulut. Meskipun harganya nggak murah (satu buah tiga kilogram sekitar USD$15), tapi cobain kuliner lokal juga seru banget.
 
-> [🥥Panduan Lengkap Musim Durian Bali｜Kapan Paling Wangi dan Murah?](/id/blog/2026-04-07-065104/)
+> [🥥Panduan Lengkap Musim Durian Bali｜Kapan Paling Wangi dan Termurah?](/id/blog/2026-04-07-065104/)
 
 ### Pura Tanah Lot
 
-Setelah turun dari pegunungan, kami lanjut ke Pura Tanah Lot di Canggu. Sayangnya lagi pasang, jadi nggak bisa nyebrang buat lihat pura dari dekat. Agak nyesel sih.
+Setelah meninggalkan daerah pegunungan, kami lanjut ke Pura Tanah Lot di Canggu. Sayangnya karena air laut sedang pasang, kami nggak bisa jalan ke arah pura, jadi agak nyesel sih.
 
-> Baca Juga: [Destinasi Wajib di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
+> Baca juga: [Wisata Wajib di Bali: Panduan Lengkap Pura Tanah Lot, Pasang Surut & Tempat Sekitar](/id/blog/bali-tanah-lot-guide/)
 
 ### Kurnia Seafood Bali
 
-Untuk makan siang kami memilih Kurnia Seafood Bali. Nasi goreng dan mie gorengnya enak banget, rasanya mirip masakan Taiwan, dan bisa bayar pakai kartu kredit.
+Untuk makan siang, kami memilih Kurnia Seafood Bali. Nasi goreng dan mie goreng di sini enak banget, rasanya mirip masakan Taiwan, dan bisa bayar pakai kartu kredit.
 
 ### Bintang Supermarket
 
-Sore harinya kami pergi ke Bintang Supermarket di Seminyak, beli oleh-oleh dan camilan. Harga camilan di sini lumayan murah, tapi suvenirnya relatif lebih mahal.
+Sore harinya, kami mampir ke Bintang Supermarket di Seminyak buat beli oleh-oleh dan camilan. Harga camilan di sini lumayan murah, tapi suvenirnya relatif lebih mahal.
 
 ### Potato Head Suites & Studios
 
-Malamnya kami check-in di Potato Head Suites & Studios, hotel peringkat ke-40 di dunia. Kami sengaja pilih ini buat ngerasain langsung. Ukuran kamarnya agak kecil dibanding hotel mewah lainnya, mungkin karena hotel ini pakai material ramah lingkungan — itu juga salah satu alasan kenapa mereka terkenal. Pas check-in dikasih tumbler gratis, dan pas check-out dikasih gelang. Hotel ini lebih cocok buat anak muda yang suka clubbing dan suasana ramai, karena di dekat sini ada Potato Head Beach Club yang terkenal. Kalau liburan keluarga, mungkin bisa pertimbangkan pilihan lain. Tapi di sini ada infinity pool dan area bermain anak, jadi buat beberapa keluarga juga oke.
+Malamnya kami menginap di Potato Head Suites & Studios, hotel peringkat ke-40 di dunia. Kami sengaja pilih ini buat ngerasain sensasinya. Ukuran kamarnya agak kecil dibanding hotel mewah biasa, mungkin karena hotel ini dibangun dengan material ramah lingkungan — itu juga salah satu alasan kenapa hotel ini terkenal. Saat check-in, kami dikasih botol minum gratis, dan pas check-out dikasih gelang. Hotel ini cocok banget buat anak muda yang suka clubbing dan suasana ramai, karena di dekat sini ada Potato Head Beach Club yang terkenal. Kalau liburan keluarga, mungkin bisa cari opsi lain, tapi di sini juga ada kolam renang infinity dan area bermain anak, jadi tetap oke buat sebagian keluarga.
 
 ![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
 ![Potato Head Suites & Studios](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
@@ -504,57 +495,57 @@ Malamnya kami check-in di Potato Head Suites & Studios, hotel peringkat ke-40 di
 
 {{block:smk}}
 
-## 25 Mei, Sabtu — DAY 8 Seminyak / Meninggalkan Bali
+## 25 Mei, Sabtu — HARI KE-8: Seminyak / Pulang dari Bali
 
 ### Pesawat
 
-Hari ini adalah hari terakhir kami meninggalkan Bali. Pesawat kami take-off jam 15:40 siang, terbang ke Taiwan, dan diperkirakan tiba jam 21:05.
+Hari ini adalah hari terakhir kita meninggalkan Bali. Pesawat kami take-off jam 15:40, tujuan Taiwan, dan diperkirakan tiba jam 21:05.
 
 ![Mei Chen提供](https://images.gobaligo.id/vocus/vocus_41699a71a59038671388efc08150974f.jpg)
 
-Disediakan oleh Mei Chen
+Dokumentasi Mei Chen
 
 ### Sarapan di Potato Head
 
-Buat nutup perjalanan seru ini, kami sarapan di Potato Head. Tempat ini pakai sistem all-you-can-eat, jadi kami bisa nikmatin makanan sambil main air di kolam renang infinity. Dari jam 7 pagi sampai jam 11 siang, benar-benar pesta kuliner yang super mewah, hampir kekenyangan sampai mau muntah.
+Untuk menutup perjalanan indah ini, kami sarapan di Potato Head. Tempat ini pakai sistem all-you-can-eat, jadi kami bisa menikmati makanan sambil main air di kolam renang infinity. Dari jam 7 pagi sampai jam 11, kami berpesta kuliner — benar-benar super mewah, sampai hampir muntah karena kekenyangan.
 
-### Check Out dan Berangkat ke Bandara
+### Check-out dan Berangkat ke Bandara
 
-Jam 12 siang, kami check out dan berangkat ke bandara, menutup petualangan seru di Bali.
+Jam 12 siang, kami check-out dan berangkat ke bandara, mengakhiri petualangan seru di Bali.
 
 ### Dari Hotel Seminyak ke Bandara
 
-Di hari terakhir meninggalkan Bali, kami pilih naik Grab ke bandara. Kami pesan dua mobil, masing-masing nunggu sekitar 10 menit. Berangkat sekitar jam 12.30 siang, sampai bandara sekitar jam 1.40 siang. Lalu lintas lumayan lancar, total biaya dua mobil kurang dari USD$13. Kalau dibandingin, harga Klook setara sama harga sewa mobil ke Jimbaran.
+Di hari terakhir meninggalkan Bali, kami naik Grab ke bandara. Kami pesan dua mobil, masing-masing nunggu sekitar 10 menit. Berangkat sekitar jam 12:30, sampai bandara kira-kira jam 13:40. Lalu lintas lumayan lancar, total biaya dua mobil kurang dari USD$13. Sebagai perbandingan, harga Klook setara dengan harga sewa mobil ke Jimbaran.
 
 ![Mei Chen提供，水明漾沙灘的父子倆](https://images.gobaligo.id/vocus/vocus_d85b6fe42e11ab0550715b7817cd1e94.jpg)
 
-Mei Chen提供, ayah dan anak di Pantai Seminyak
+Dokumentasi Mei Chen, ayah dan anak di Pantai Seminyak
 
-### Sopir Sewa Mobil
+### Sopir Sewaan (Private Driver)
 
-Selama perjalanan kami beberapa kali sewa mobil, termasuk tanggal 19 Mei dan 21-24 Mei. Awalnya kami cari rekomendasi sopir sewa mobil di internet, tapi kebanyakan cuma nyediain mobil kecil. Karena kami bertujuh plus barang bawaan, butuh mobil yang lebih besar. Setelah posting rencana perjalanan di forum bahasa Inggris tentang Bali, akhirnya dapet sopir yang nawarin layanan 12 jam dengan harga lebih murah dari sopir lain yang cuma 8 jam. Harganya udah termasuk semua biaya: sopir, bensin, tol, parkir, dan setiap hari dikasih air minum satu botol per orang. Sopirnya ramah banget, punya pengalaman 15 tahun, nyetirnya jago banget—bahkan di jalan sempit pun dia bisa bawa mobil dengan lancar. Bahasa Inggrisnya bagus, bisa jawab pertanyaan kami tapi nggak maksa ngobrol terus, profesional banget. Kami puas banget sama pelayanannya, di hari terakhir kami minta kontaknya dan dia kasih dengan senang hati. Dia bahkan bilang kalau perlu, dia bisa kenalin sopir lain yang bisa bahasa Mandarin. Untuk [sopir Gdbokink](https://www.facebook.com/Bokink/), ini pertama kalinya dia bawa tamu yang ganti daerah wisata tiap hari, tapi kami puas banget sama pelayanannya.
+Selama perjalanan, kami beberapa kali menyewa mobil, termasuk tanggal 19 Mei dan 21–24 Mei. Awalnya kami cari-cari rekomendasi sopir sewaan di internet, tapi kebanyakan hanya punya mobil kecil. Karena kami bertujuh plus barang bawaan, butuh mobil yang lebih besar. Setelah posting itinerary di grup Facebook berbahasa Inggris tentang Bali, akhirnya ketemu satu sopir yang nawarin layanan 12 jam dengan harga lebih murah dari sopir lain yang cuma 8 jam. Harganya sudah all-in: biaya sopir, bensin, tol, parkir, plus setiap hari dikasih air mineral satu botol per orang. Sopirnya ramah banget, udah 15 tahun pengalaman, nyetirnya jago banget—bahkan di jalanan super sempit pun dia bisa bawa mobil dengan mulus. Bahasa Inggrisnya bagus, bisa jawab pertanyaan kami, tapi nggak banyak ngobrol—sangat profesional. Kami puas banget sama jasanya. Di hari terakhir, kami minta kontaknya dan dia kasih dengan senang hati. Malah dia bilang kalau perlu, bisa juga kenalin sopir lain yang bisa bahasa Mandarin. Untuk [sopir Gdbokink](https://www.facebook.com/Bokink/), ini pertama kalinya dia bawa tamu yang ganti zona tiap hari, tapi kami sangat puas sama pelayanannya.
 
 {{block:包車}}
 
-## Catatan Perjalanan & Kesan Akhir
+## Catatan Perjalanan & Kesan
 
-Perjalanan kali ini mostly buat orang dewasa, tapi tiap hari tetap ada waktu main air buat anak-anak dan dewasa. Kami nggak milih nginep di villa atau resort mewah, karena jadwalnya padat banget, nggak sempat menikmati, jadi nggak mau buang-buang duit! Kami pilih hotel yang ratingnya bagus dan worth it aja.
+Trip ini mostly buat orang dewasa, tapi tiap hari tetap ada waktu bermain air buat anak-anak dan dewasa. Kami nggak milih nginep di villa atau resort mewah karena jadwal padat banget—nggak sempat menikmati, jadi mending nggak buang-buang duit. Kami pilih hotel dengan rating bagus dan value for money.
 
-Kalau kamu nggak terlalu tertarik sama pura, bisa pertimbangkan buat ngurangin beberapa itinerary terkait, biar ada lebih banyak waktu buat nikmatin pijat, main air, dan jalan-jalan. Tapi, kami sih mikirnya ini mungkin cuma sekali seumur hidup, jadi maksain semua tempat terkenal masuk ke jadwal. Overall, ini perjalanan yang super seru dan nggak terlupakan. 😆
+Kalau kamu nggak terlalu tertarik sama pura, bisa pertimbangkan untuk ngurangin beberapa itinerary terkait, biar ada lebih banyak waktu buat pijat, main air, dan jalan-jalan belanja. Tapi kami sih mikirnya mungkin cuma sekali seumur hidup, jadi maksain masukin semua tempat terkenal—hasilnya perjalanan yang super kaya dan nggak terlupakan. 😆
 
-**Kesan Keluarga yang Ikut**: Lalu lintas di Bali beneran macet banget. Meskipun kali ini hampir semua tempat terkenal udah dikunjungi, jadwalnya jangan terlalu padat. Selain nginep di 'rumah hantu', sisanya oke-oke aja. Ke depannya, bisa dipertimbangkan buat ngurangin itinerary ke pura dan ganti dengan aktivitas yang lebih santai. Soal belanja, rasanya harga awal terlalu tinggi terus ditawar itu nggak terlalu enak.
+**Kesan keluarga** : Lalu lintas di Bali macet banget. Meskipun hampir semua tempat terkenal udah dikunjungi, jadwal nggak boleh terlalu padat. Selain nginep di 'rumah hantu', sisanya oke semua. Ke depannya bisa kurangin kunjungan ke pura dan ganti dengan aktivitas yang lebih santai. Soal belanja, agak kurang sreg sama sistem harga buka tinggi lalu ditawar.
 
-**Apakah Bakal ke Bali Lagi?**: Pantai di Bali emang cantik, tapi kalo dibandingin sama pantai di pulau lain, masih kalah dikit. Tapi, pemandangan budaya Bali yang unik banget tetap worth it buat dikunjungi! Namun, dunia ini luas banget, kami pengen explore berbagai sudut dunia, mungkin nggak bakal balik lagi ke Bali. Tapi kenangan di Bali bakal tetap di hati kami.
+**Mau balik lagi ke Bali?** : Pantai di Bali emang cantik, tapi kalah sama pantai di pulau lain. Namun, pemandangan budaya yang unik di Bali tetap worth it buat dikunjungi! Tapi, dunia ini luas, kami pengin jelajahi berbagai sudut dunia—mungkin nggak akan balik lagi ke Bali, tapi kenangan di Bali bakal selalu di hati.
 
-Terakhir, nih, saya kasih peta tempat-tempat yang udah kami kunjungi:
+Terakhir, saya lampirkan peta tempat-tempat yang udah kami kunjungi:
 
 ![Mei Chen 提供的景點地圖](https://images.gobaligo.id/vocus/vocus_99c54e60fb93d0e6a3dc9b989881ed30.jpg)
 
 {{block:親子}}
 
-Artikel ini diadaptasi dari postingan grup Facebook '[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)', link aslinya ada di [sini](https://www.facebook.com/groups/baligo/permalink/1548615585685681/)
+Tulisan ini diadaptasi dari postingan grup Facebook '[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)', link aslinya ada di [sini](https://www.facebook.com/groups/baligo/permalink/1548615585685681/)
 
-Kamu pikir itinerary-nya Mei Chen seru? Yuk, atur liburan Bali versi kamu sendiri! Jangan lupa kirim juga itinerary kamu ke grup ya!
+Menurut kamu, itinerary Mei Chen seru nggak? Yuk, rencanakan liburan bebasmu ke Bali sekarang! Juga, jangan lupa kirim itinerary kamu ke grup ya!
 
 {{block:遊記}}
 

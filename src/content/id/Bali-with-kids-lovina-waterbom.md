@@ -1,11 +1,13 @@
 ---
-title: 【峇里島親子遊記】6天5夜母女旅行｜羅威納追海豚、Waterbom、烏布，包車讓旅程輕鬆又難忘
+title: >-
+  【Bali Trip Bareng Bocil】6 Hari 5 Malam Liburan Ibu & Anak｜Kejar Lumba-lumba di
+  Lovina, Waterbom, Ubud, Sewa Mobil Biar Trip Makin Seru & Gak Lupa
 slug: Bali-with-kids-lovina-waterbom
 description: >-
-  Bawa anak perempuan 8 tahun liburan keluarga 6 hari 5 malam ke Bali! Share
-  pengalaman seru di Waterbom waterpark, kejar lumba-lumba di Lovina, Alas Harum
-  rice terrace, tari Legong di Ubud, plus tips sewa mobil keluarga, itinerary,
-  dan saran traveling.
+  Ajak putriku yang 8 tahun liburan seru ke Bali 6 hari 5 malam! Share
+  pengalaman asli main di Waterbom water park, kejar lumba-lumba di Lovina,
+  nikmati sawah terasering Alas Harum, nonton Tari Legong Ubud, plus tips sewa
+  mobil keluarga, itinerary, dan saran traveling.
 pubDate: 2026-08-06T00:00:00.000Z
 pubHour: 18
 category:
@@ -33,55 +35,54 @@ shuffle_h2: false
 embeds: []
 updatedDate: 2026-07-12T00:00:00.000Z
 lang: id
-_srcHash: PENDING_RETRY_7439e56fde0e9949ce5cfd1871492f98
-_translateAttempts: 1
+_srcHash: 7439e56fde0e9949ce5cfd1871492f98
 ---
 
-> 以下原文內容為 [Jean Chen](https://www.facebook.com/share/p/19NcRf4AR8/) 提供
+> Konten asli di bawah ini disediakan oleh [Jean Chen](https://www.facebook.com/share/p/19NcRf4AR8/)
 
-一直很想帶女兒來一趟只有我們兩個人的旅行，在她即將滿 8 歲的這個暑假，我們終於完成了這個小小的心願。
+Udah lama banget pengen ajak putriku jalan berdua aja. Di liburan musim panas pas dia mau 8 tahun, akhirnya mimpi kecil ini kesampaian.
 
-這次在峇里島待了 6 天 5 夜（6/27～7/2），沒有安排太多「一定要去」的景點，而是希望用舒服、不趕路的節奏，好好享受母女一起探索世界的時光。我們玩了 Waterbom 水樂園、到羅威納追海豚、漫步烏布梯田，也欣賞了充滿文化魅力的雷貢舞，每一天都有不同的驚喜與回憶。
+Kali ini di Bali 6 hari 5 malam (27 Juni - 2 Juli), gak pasang target tempat wajib dikunjungin. Lebih pengen santai, gak buru-buru, nikmatin waktu ibu-anak eksplor dunia bareng. Kita main Waterbom, kejar lumba-lumba di Lovina, jalan-jalan di sawah terasering Ubud, dan nonton Tari Legong yang penuh budaya. Setiap hari ada kejutan dan kenangan baru.
 
-出發前，我也參考了許多社團裡前輩們分享的經驗，因此這次旅行結束後，也想把自己的實際心得整理成一篇遊記，希望能提供給之後準備前往峇里島自由行，尤其是親子旅行的朋友一些參考。
+Sebelum berangkat, aku baca-baca pengalaman senior di grup. Makanya setelah trip ini, aku mau tulis catatan perjalanan versiku sendiri, semoga bisa jadi referensi buat yang mau liburan ke Bali, apalagi yang bawa anak.
 
 ***
 
-## Day 1–2｜先住庫塔，不急著趕行程
+## Hari 1–2｜Menginap Dulu di Kuta, Santai Aja
 
-抵達峇里島後，我們先入住庫塔（Kuta）連住兩晚，第二天安排到 Waterbom 水樂園玩了一整天。
+Sesampainya di Bali, kita nginep dua malam di Kuta. Hari kedua kita full main di Waterbom water park.
 
-> [【峇里島親子必玩】Waterbom Bali 水上樂園全攻略：全亞洲第一、滑水道分級與購票省錢建議](/id/blog/waterbom-bali-water-park-guide/)
+> [【Wajib Coba Buat Liburan Keluarga】Panduan Lengkap Waterbom Bali Water Park: Nomor 1 di Asia, Zona Seluncuran & Tips Hemat Tiket](/id/blog/waterbom-bali-water-park-guide/)
 
-考量到搭飛機後容易疲累，加上帶著小朋友同行，我刻意把前兩天安排得比較輕鬆，選擇住在機場附近，不但往返交通方便，也能讓身體慢慢適應旅遊節奏，不用一落地就長途拉車，旅程從一開始就輕鬆不少。
+Karena abis naik pesawat pasti capek, apalagi bawa anak kecil, aku sengaja bikin dua hari pertama santai. Pilih nginep dekat bandara, selain gampang aksesnya, badan juga bisa adaptasi sama ritme liburan. Gak perlu langsung perjalanan jauh, dari awal trip udah terasa nyaman.
 
-Kalau dipikir-pikir sekarang, pengaturan perjalanan ini cocok banget buat liburan keluarga. Anak-anak punya waktu istirahat yang cukup, orang tua juga nggak langsung pusing di awal, malah bisa lebih menikmati hari-hari selanjutnya.
+Sekarang kalau dipikir lagi, susunan acara kayak gini emang cocok banget buat liburan keluarga. Anak-anak punya waktu istirahat yang cukup, orang tua juga nggak langsung pusing dari awal, malah jadi lebih bisa menikmati hari-hari berikutnya.
 
 {{block:kuta}}
 
 ***
 
-## Day 3｜Dari Kuta sampai Lovina, sewa mobil adalah keputusan paling worth it
+## Day 3｜Dari Kuta sampai Lovina, pakai mobil sewaan adalah keputusan paling worth it
 
-29 Juni, kami resmi memulai perjalanan ke utara, dari Kuta menuju Lovina.
+29 Juni, kami resmi mulai perjalanan ke utara, dari Kuta menuju Lovina.
 
-Karena perjalanan ini cukup panjang, kami memutuskan untuk sewa mobil. Lewat rekomendasi grup, kami dapat Ani, dan menyewa mobil selama dua hari — dari Lovina di utara sampai Ubud di tengah. Kalau diingat-ingat lagi, ini salah satu keputusan paling worth it sepanjang perjalanan.
+Karena perjalanannya lumayan panjang, kami mutusin buat sewa mobil. Lewat rekomendasi grup, kami dapet Ani, sewa mobil dua hari — dari Lovina di utara sampai Ubud di tengah. Sekarang diinget lagi, ini beneran salah satu keputusan paling worth it sepanjang perjalanan.
 
-Selain nggak repot ganti kendaraan, kami juga bisa atur itinerary sesuai ritme sendiri, nggak perlu khawatir kejar-kejaran waktu. Apalagi bawa anak-anak, bisa istirahat dan berhenti kapan aja, beneran lebih praktis.
+Selain nggak repot gonta-ganti kendaraan, kami juga bisa atur jadwal sesuai keinginan sendiri, nggak perlu khawatir kejar-kejaran waktu. Apalagi bawa anak-anak, bisa istirahat atau mampir kapan aja, beneran lebih praktis.
 
-Sepanjang jalan, Ani banyak cerita tentang sejarah Bali, kepercayaan, budaya hidup, dan kisah sehari-hari warga lokal. Jadi perjalanan ini nggak cuma kunjungi tempat wisata, tapi di setiap perjalanan mobil, kami perlahan-lahan mengenal pulau ini.
+Sepanjang jalan, Ani cerita banyak soal sejarah Bali, kepercayaan, budaya hidup, dan kisah sehari-hari warga lokal. Jadi perjalanan ini bukan cuma datengin tempat wisata, tapi di setiap perjalanan mobil, kami perlahan-lahan kenal sama pulau ini.
 
 ***
 
-## Day 4｜Kejar lumba-lumba di Lovina, Alas Harum — pemandangannya lebih keren dari yang dibayangkan
+## Day 4｜Kejar lumba-lumba di Lovina, Alas Harum — pemandangannya lebih keren dari yang dibayangin
 
-30 Juni pagi-pagi buta, kami sudah berlayar ke laut sebelum matahari terbit untuk kejar lumba-lumba.
+30 Juni pagi-pagi buta, kami udah berlayar buat kejar lumba-lumba sebelum matahari terbit.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783767974106-lovina2.jpeg)
 
 (Dok. Jean Chen)
 
-Beruntung, kami nggak cuma lihat kawanan lumba-lumba melompat di permukaan laut, tapi juga nikmati sunrise yang indah di laut. Saat sinar pertama muncul dari cakrawala dan mewarnai langit jadi keemasan, momen itu beneran bikin kita merasa — bangun sepagi ini pun worth it.
+Beruntung banget, kami nggak cuma liat kawanan lumba-lumba yang loncat-loncat di permukaan laut, tapi juga nikmatin sunrise yang indah di laut. Pas sinar matahari pertama muncul dari cakrawala, warnain langit jadi keemasan — momen itu beneran bikin kita ngerasa, bangun sepagi apapun itu worth it.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783768010278-mixcollage-11-jul-2026-06-01-pm-6034.jpg)
 
@@ -91,103 +92,103 @@ Beruntung, kami nggak cuma lihat kawanan lumba-lumba melompat di permukaan laut,
 
 Tapi, hari itu ada sedikit insiden.
 
-Pas naik perahu, aku nggak sengaja ngerusak power bank. Mikir masih ada beberapa hari ke depan, dan HP harus dipakai buat navigasi, foto, dan komunikasi, bikin panik banget.
+Pas naik perahu, aku nggak sengaja ngerusak power bank. Mikir masih ada beberapa hari ke depan, HP harus dipakai buat navigasi, foto, dan komunikasi, bikin panik sih saat itu.
 
-Nggak nyangka Ani tahu, langsung bantuin cari toko dan ngomong sama pemiliknya. Akhirnya dapet power bank yang harganya masuk akal dan sesuai aturan penerbangan. Hal kecil ini bikin aku ngerasa banget perhatian dan kebaikannya.
+Nggak nyangka Ani tahu, langsung bantuin cari toko, bahkan inisiatif ngomong sama pemiliknya, akhirnya dapet power bank yang harganya masuk akal dan sesuai aturan penerbangan. Hal kecil yang kelihatannya sepele ini bikin aku banget ngerasain perhatian dan kebaikannya.
 
 Setelah ninggalin Lovina, kami lanjut ke selatan menuju Ubud.
 
-Di perjalanan, anakku minta mampir ke Alas Harum Rice Terrace. Jujur, awalnya aku nggak berekspektasi banyak, cuma mikir anak pengen, ya udah coba aja.
+Di perjalanan, anakku minta mampir ke Alas Harum Rice Terrace. Jujur, awalnya aku nggak berekspektasi tinggi, cuma mikir ya udah anak mau, coba aja.
 
-Nggak taunya cuaca pas banget cerah, sinar matahari menyinari terasering sawah, lembahnya hijau banget kayak lukisan. Beneran, jepret aja udah kayak kartu pos.
+Nggak taunya cuaca pas banget cerah, sinar matahari jatuh di terasering sawah, lembahnya hijau banget kayak lukisan. Beneran, jepret aja udah kayak kartu pos.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783768368173-mixcollage-11-jul-2026-05-59-pm-751.jpg)
 
 (Dokumentasi Jean Chen)
 
-Apalagi skill foto Ani patut diacungi jempol. Bukan cuma pencet tombol, tapi beneran ngerti cari angle, mainin cahaya, dan ngajarin anakku pose. Jadinya dapet banyak foto bareng yang biasanya susah diambil sendiri.
+Apalagi skill foto Ani patut diacungi jempol. Bukan cuma pencet tombol, tapi beneran ngerti cari angle, mainin cahaya, bahkan ngajarin anakku pose. Jadinya banyak banget foto bareng yang biasanya susah dapet sendiri.
 
-Selain itu, area Alas Harum ternyata lebih luas dari yang aku bayangkan. Bukan cuma sawah teraseringnya, tapi keseluruhan lingkungannya juga tertata dengan nyaman banget. Setelah menyusuri seluruh area, cuma satu kata yang terlintas di pikiranku:
+Selain itu, area Alas Harum ternyata lebih luas dari yang aku bayangkan. Bukan cuma terasering sawahnya, tapi keseluruhan lingkungannya juga tertata dengan nyaman banget. Setelah menyusuri seluruh area, yang ada di pikiranku cuma satu kalimat:
 
-**「Untung aja sempat mampir ke sini.»**
+**「Untung aja aku sempetin ke sini.»**
 
-Oh iya, sedikit info tambahan — dulu sesi mencicipi teh di Alas Harum itu gratis, tapi sekarang udah berbayar. Sebelum sampai, Ani udah proaktif ngasih tahu soal sistem bayaran terbaru ini, dan juga nawarin pilihan lain. Sepanjang acara nggak ada paksaan sama sekali, semua keputusan kita yang tentuin sendiri, bikin rasanya nyaman banget.
+Oh iya, sedikit info tambahan — dulu sesi mencicipi teh di Alas Harum gratis, tapi sekarang udah berbayar. Sebelum sampai, Ani udah proaktif ngasih tahu soal sistem bayaran terbaru ini, dan juga nawarin pilihan lain. Sepanjang acara nggak ada paksaan sama sekali, semua keputusan kita yang tentuin sendiri, jadi rasanya nyaman banget.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783768416618-mixcollage-11-jul-2026-06-02-pm-5218.jpg)
 
-(Dokumentasi Jean Chen. Foto di sebelah kanan adalah kopi luwak yang terkenal itu)
+(Dokumentasi Jean Chen. Foto sebelah kanan itu kopi luwak yang terkenal banget)
 
 > Pesan berbagai pengalaman di Alas Harum: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26search_scope%3Dmain_search) | [Trip](https://hk.trip.com/travel-guide/attraction/bali/alas-harum-bali-136165081/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
 
 https://youtube.com/shorts/NEnIZjZnrTk
 
-Dan setiap kali selesai dari satu tempat, dia udah tepat waktu menunggu di pintu keluar. Nggak perlu cari kendaraan, nggak perlu nunggu — seluruh perjalanan tersambung dengan sangat mulus.
+Dan setiap kali selesai dari satu tempat wisata, dia udah tepat waktu nunggu di pintu keluar. Nggak perlu cari kendaraan, nggak perlu nunggu — seluruh perjalanan tersambung dengan mulus banget.
 
 {{block:親子}}
 
 ***
 
-## Hari ke-5｜Menginap di Ubud, Menikmati Tari Legong Paling Ikonik
+## Day 5｜Menginap di Ubud, Menyaksikan Tari Legong Paling Ikonik
 
-Dua malam terakhir perjalanan, kami menginap di Ubud, kawasan yang penuh dengan seni, budaya, dan nuansa spiritual.
+Dua malam terakhir perjalanan, kami menginap di Ubud yang penuh dengan nuansa seni, budaya, dan spiritual.
 
-Kalau kamu ke Ubud, aku sangat merekomendasikan untuk menyempatkan satu malam menonton Tari Legong di Puri Ubud (Ubud Palace).
+Kalau kamu ke Ubud, aku sangat rekomendasikan untuk menyempatkan satu malam nonton Tari Legong di Ubud Palace.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783768573781-mixcollage-11-jul-2026-06-00-pm-2889.jpg)
 
 (Dokumentasi Jean Chen)
 
-> Tiket pertunjukan tari api spektakuler di Pura Ubud setiap Kamis bisa dipesan di sini: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21)
+> Pesan tiket pertunjukan tari api besar setiap Kamis di Puri Ubud: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21)
 
-> Mau bandingin harga tiket tempat wisata lain? Cek aja **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** — 49 tempat populer lengkap dengan link pemesanan Klook/Agoda/Trip.com.
+> Mau bandingin harga tiket tempat wisata lain? Cek **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** — 49 tempat populer lengkap dengan link pemesanan Klook/Agoda/Trip.com.
 
-Biasanya di musim ramai, pertunjukan mulai jam 7:30 malam dan selesai sekitar jam 9:00, harga tiket Rp100.000 per orang. Kali ini aku beli langsung di pintu masuk Pura Ubud.
+Biasanya mulai jam 19:30 setiap malam di musim ramai, selesai sekitar jam 21:00. Tiket masuk 100K IDR per orang. Kali ini aku beli tiket langsung di pintu masuk keraton.
 
-> Tiket pertunjukan Legong Dance setiap hari saat musim ramai di Ubud Royal Palace: [Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
+> Pertunjukan Legong Dance setiap hari saat musim ramai di Ubud Royal Palace: [Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
 
-Saran: datang minimal 30 menit lebih awal biar bisa duduk di barisan depan atau dapat spot dengan pemandangan yang oke.
+Saran: datang minimal 30 menit lebih awal biar bisa duduk di depan atau dapet spot dengan pemandangan bagus.
 
-Diiringi orkestra gamelan, gerakan mata yang detail, gestur tangan yang elegan, dan kostum yang megah dari para penari benar-benar menampilkan kekayaan budaya Bali yang dalam. Meskipun nggak ngerti ceritanya, kamu tetap bisa larut dalam atmosfer pertunjukan yang kental. Worth it banget!
+Diiringi alunan gamelan, gerakan mata penari yang detail, gestur tangan yang anggun, dan kostum yang mewah — semuanya menggambarkan kekayaan budaya Bali yang dalam. Meskipun nggak ngerti jalan ceritanya, kamu tetap bisa tenggelam dalam atmosfer pertunjukan yang kental. Worth it banget buat dicoba!
 
-> [【Destinasi Wajib di Ubud】Puri Ubud: Permata Budaya dan Sejarah Bali｜Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](/id/blog/ubud-royal-palace-tour-guide/)
+> [【Destinasi Wajib Kunjung di Ubud】Purí Ubud: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Wisata Sekitar, Rekomendasi Trip Sehari](/id/blog/ubud-royal-palace-tour-guide/)
 
 {{block:ubud}}
 
 ***
 
-## Hal paling beruntung dari perjalanan ini: ketemu guide yang bisa dipercaya
+## Hal paling beruntung dari perjalanan ini: bertemu pemandu yang bisa dipercaya
 
-Kalau dipikir-pikir, dua hari pakai mobil sewaan ini nggak cuma berhasil mengunjungi tempat-tempat yang agak jauh kayak Lovina dan Ubud, tapi yang lebih penting, aku dan putriku nggak cuma 'pernah ke Bali', tapi benar-benar mulai mengenal pulau ini.
+Kalau dipikir-pikir lagi perjalanan dua hari pakai mobil sewaan ini, bukan cuma berhasil mengunjungi tempat-tempat yang agak jauh kayak Lovina dan Ubud, tapi yang lebih penting, aku dan putriku nggak cuma 'pernah ke Bali', tapi benar-benar mulai mengenal pulau ini.
 
-Pemandangan sepanjang jalan, cerita budaya, dan orang-orang yang kami temui selama perjalanan bikin trip ini terasa lebih hangat.
+Pemandangan, cerita budaya, dan orang-orang yang kami temui di sepanjang perjalanan — semuanya bikin trip ini terasa lebih hangat.
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783768608873-driver.jpg)
 
-(Dokumentasi dari Jean Chen)
+(Dokumentasi Jean Chen)
 
-Makasih juga buat Ani dan pak sopir yang sudah menjaga kami sepanjang jalan. Mulai dari atur itinerary, bantu foto, cerita-cerita di perjalanan, sampai bantu saat ada situasi darurat — semuanya bikin kami ngerasa diperhatikan dan profesional banget.
+Terima kasih juga buat Ani dan pak sopir yang sudah menjaga kami sepanjang jalan. Mulai dari atur itinerary, bantu foto, berbagi cerita selama perjalanan, sampai bantuan saat ada situasi darurat — semuanya bikin kami ngerasa diperhatikan dengan detail dan profesional.
 
-Kalau kamu juga lagi rencanain liburan mandiri ke Bali, apalagi mau ke Lovina, Ubud, atau daerah lain yang agak jauh, atau bawa anak-anak, aku bakal dengan senang hati merekomendasikan Ani.
+Kalau kamu juga lagi merencanakan liburan mandiri ke Bali, apalagi mau atur perjalanan lintas daerah kayak Lovina dan Ubud, atau traveling bareng anak, aku dengan senang hati bakal rekomendasiin Ani.
 
-## (Pemandu Wisata Berbahasa Mandarin) Ani Si Febri
+## (Pemandu Wisata Mandarin) Ani Si Febri 安妮
 
 ![](https://images.gobaligo.id/vocus/vocus_da313eec958216453bae20d6d64fe17c.jpg)
 
 👍🏼[Rekomendasi Netizen 1](https://www.facebook.com/groups/baligo/permalink/1575099593037280/) 👍🏼[Rekomendasi Netizen 2](https://www.facebook.com/groups/baligo/permalink/1566915673855672/) 👍🏼[Rekomendasi Netizen 3](https://www.facebook.com/groups/baligo/permalink/1492057241341516/) 👍🏼[Rekomendasi Netizen 4](https://www.facebook.com/groups/baligo/permalink/1567883643758875/) 👍🏼[Rekomendasi Netizen 5](https://www.facebook.com/groups/baligo/permalink/1560802997800273/) 👍🏼[Rekomendasi Netizen 6](https://www.facebook.com/groups/baligo/permalink/1542004513013455/) 👍🏼[Rekomendasi Netizen 7](https://www.facebook.com/share/p/Gc81dBW8jdwMmmra/) 👍🏼[Rekomendasi Netizen 8](https://www.facebook.com/share/p/uRRLhTrkTgEjeVrE/) 👍🏼[Rekomendasi Netizen 9](https://www.facebook.com/share/p/GgaSMJFvfpv7HKxC/) 👍🏼[Rekomendasi Netizen 10](https://www.facebook.com/share/p/LzzZRmh3FSe9RXAY/) 👍🏼[Rekomendasi Netizen 11](https://www.facebook.com/share/p/j46dv9mvGxAnZoh7/) 👍🏼[Rekomendasi Netizen 12](https://www.facebook.com/share/p/15hEbWiEqV/) 👍🏼[Rekomendasi Netizen 13](https://www.facebook.com/share/p/183gQBZ1dC/) 👍🏼[Rekomendasi Netizen 14](https://www.facebook.com/share/p/1A5ikGcciD/) 👍🏼[Rekomendasi Netizen 15](https://www.facebook.com/share/p/1AAS7saeGk/) 👍🏼[Rekomendasi Netizen 16](https://www.facebook.com/share/p/19xLkRvvDA/) 👍🏼[Rekomendasi Netizen 17](https://www.facebook.com/share/p/1U2hSkcDiT/) 👍🏼[Rekomendasi Netizen 18](https://www.facebook.com/share/p/1A92VHjU1G/) 👍🏼[Rekomendasi Netizen 19](https://www.facebook.com/share/p/18hQwdPnw5/) 👍🏼[Rekomendasi Netizen 20](https://www.facebook.com/share/p/1Fd5YbFNkp/) 👍🏼[Rekomendasi Netizen 21](https://www.facebook.com/share/p/1ABN6UeXcz/) 👍🏼[Rekomendasi Netizen 22](https://www.facebook.com/share/p/1ArjMD6xDD/) 👍🏼[Rekomendasi Netizen 23](https://www.facebook.com/share/p/1B6TxHz4Hs/) 👍🏼[Rekomendasi Netizen 24](https://www.facebook.com/share/p/19KKDTFsys/) 👍🏼[Rekomendasi Netizen 25](https://www.facebook.com/share/p/19EiKnk7Wj/) 👍🏼[Rekomendasi Netizen 26](https://www.facebook.com/share/p/1EBf9P6VGA/) 👍🏼[Rekomendasi Netizen 27](https://www.facebook.com/share/p/19mrC6ZkZd/) 👍🏼[Rekomendasi Netizen 28](https://www.facebook.com/share/p/14LJ5KULPXf/) 👍🏼[Rekomendasi Netizen 29](https://www.facebook.com/share/p/1BqPpJbg7F/) 👍🏼[Rekomendasi Netizen 30](https://www.facebook.com/share/p/1DPjCRKYX9/) 👍🏼[Rekomendasi Netizen 31](https://www.facebook.com/share/p/1Bv18A6Kvf/) 👍🏼[Rekomendasi Netizen 32](https://www.facebook.com/share/p/1CaaS9w67x/) 👍🏼[Rekomendasi Netizen 33](https://www.facebook.com/share/p/17pyM47NNV/) 👍🏼[Rekomendasi Netizen 34](https://www.facebook.com/share/p/1JExhvPyXT/)
 
-Tapi perlu diingat ya, jadwal Ani itu super padat banget, saran sih booking minimal 6 bulan sebelumnya. Aku beruntung banget kali ini, bisa dapet dua hari terakhir yang masih kosong. Tadinya mau tambah sehari lagi, tapi sayangnya udah nggak ada waktu. 😊
+Tapi perlu diingat ya, jadwal Ani itu super padat banget, saran sih booking minimal 6 bulan sebelumnya. Aku beruntung banget kali ini, kebetulan dapet dua hari terakhir yang kosong. Tadinya mau nambah satu hari lagi, sayangnya udah nggak ada waktu. 😊
 
 ***
 
 ## Perjalanan udah selesai, tapi kenangannya baru dimulai
 
-Perjalanan enam hari lima malam berasa cepet banget, tapi yang bener-bener dibawa pulang bukan cuma foto-foto di HP, melainkan setiap momen yang kita lewatin bareng.
+Perjalanan enam hari lima malam berlalu begitu cepat, tapi yang benar-benar dibawa pulang bukan cuma foto-foto di HP, melainkan setiap momen yang kita lewati bersama.
 
-Mulai dari pertama kali ngeliat lumba-lumba di laut, main di Waterbom sampai males balik hotel, jalan-jalan di sawah terasering yang hijau, nonton tari Legong, sampai saling jagain satu sama lain dan ngatasin masalah kecil di perjalanan — momen-momen sederhana kayak gini yang bakal jadi kenangan paling berharga kalau diinget-inget lagi.
+Mulai dari pertama kali kejar lumba-lumba di laut, main di Waterbom sampai malas balik hotel, jalan-jalan di sawah terasering yang hijau, nonton Tari Legong, sampai saling jagain satu sama lain dan ngatasin masalah kecil di perjalanan — momen-momen sederhana kayak gini yang bakal jadi kenangan paling berharga kalau diingat lagi nanti.
 
-Makna perjalanan mungkin bukan cuma soal berapa banyak tempat yang dikunjungi, tapi lebih ke gimana kita saling nemenin, lihat dunia yang lebih luas bareng, dan ninggalin cerita kita sendiri.
+Makna perjalanan mungkin bukan cuma soal berapa banyak tempat wisata yang dikunjungi, tapi lebih ke gimana kita saling menemani, melihat dunia yang lebih luas bersama, dan meninggalkan cerita kita sendiri.
 
-Terakhir, mau bilang makasih lagi buat setiap anggota grup yang udah mau berbagi pengalaman. Berkat info yang kalian kasih dengan tulus, kita jadi nggak banyak buang waktu di jalan yang salah, dan bikin perjalanan ibu-anak ini makin lancar.
+Terakhir, mau bilang makasih lagi buat setiap anggota grup yang udah rela berbagi pengalaman. Berkat info-info yang kalian kasih dengan tulus, kita jadi nggak banyak buang waktu di jalan yang salah, dan bikin perjalanan ibu-anak ini makin lancar.
 
 Semoga catatan perjalanan ini bisa jadi referensi berguna buat traveler lain yang mau ke Bali. Kalau kamu juga lagi rencanain liburan keluarga, semoga kalian bisa ninggalin kenangan indah di Bali juga ya.
 
