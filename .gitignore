@@ -1,5 +1,12 @@
 # build output
 dist/
+
+# 建置產物：由 npm run generate（build / dev 前自動執行）從 src/content 重新產生，
+# 不進版控以免每次 build 都產生 diff。
+public/article-index.json
+public/hero-map.json
+public/llms.txt
+public/.well-known/agent-skills/index.json
 # generated types
 .astro/
 
