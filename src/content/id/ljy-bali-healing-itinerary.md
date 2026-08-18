@@ -1,14 +1,14 @@
 ---
 title: >-
-  Panduan Liburan ke Bali｜Liburan Ulang Tahun yang Menenangkan: Ngopi Sore di
+  Panduan Liburan ke Bali | Liburan Ulang Tahun yang Menenangkan: Ngopi Sore di
   Tepi Pantai, Spa, dan Kegiatan Sosial
 slug: ljy-bali-healing-itinerary
 description: >-
-  Liburan ke Bali kali ini nggak ada tempat foto-foto hits yang lagi viral. Yang
-  ada cuma ngopi sore dengan pemandangan laut, Beach Club, Spa, kunjungan
-  sosial, dan hidup santai di Sanur. Aku mau bagi-bagi itinerary liburan ulang
-  tahun yang menenangkan, penginapan di Seminyak dan Sanur, e-Visa, pajak turis,
-  dan pengalaman traveling yang sebenarnya.
+  Liburan ke Bali kali ini nggak ada tempat foto-foto hits yang biasa kamu lihat
+  di Instagram. Yang ada cuma ngopi sore dengan pemandangan laut, Beach Club,
+  Spa, kunjungan sosial, dan hidup santai di Sanur. Aku bakal cerita itinerary
+  liburan ulang tahun yang menenangkan, akomodasi di Seminyak dan Sanur, eVisa,
+  pajak turis, dan pengalaman traveling yang sebenarnya.
 pubDate: 2026-06-24T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: 18
@@ -31,89 +31,86 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: ac4b130d97c05ff921ad637d80680473
+_srcHash: PENDING_RETRY_28f5fc45a35d077dafa18f7e62c87dbc
+_translateAttempts: 1
 ---
 
-> Dari pakar komunitas yang baik hati [Foto & Tulisan Lai Jiaying](https://www.facebook.com/share/p/1JXiVYHAdi/)
+> Kontribusi dari pakar komunitas yang baik hati [Gambar dan tulisan Lai Jiaying](https://www.facebook.com/share/p/1JXiVYHAdi/)
 
-Awalnya cuma pengen kabur ke Bali dadakan, males banget riset itinerary 😆
-Akhirnya pasang postingan 'Proyek Blind Box Itinerary Ulang Tahun' di grup, biar orang lain yang atur perjalananku.
+Awalnya cuma pengin kabur ke Bali aja, males banget riset itinerary 😆 Akhirnya pasang postingan 'Proyek Blind Box Itinerary Ulang Tahun' di grup, biar orang lain yang atur perjalananku.
 
 ❤️ 16, 17, 18, 19, 20 Mei — Proyek Blind Box Itinerary Ulang Tahun
 【Kebutuhan Blind Box Ulang Tahun】
-Aku kasih budget, kamu yang atur semuanya — kejutan itinerary.
+Aku kasih budget, kamu yang atur semuanya — kejutan!
 
-❤️ Budget termasuk: biaya mobil, bensin, tiket masuk, makan kamu, dan semua pengeluaranku hari itu (makan & aktivitas).
-❤️ Selera jelas: nggak suka tempat wisata mainstream yang cuma buat foto-foto. Dibanding tempat hits, aku lebih suka pemandangan laut yang cantik banget, tempat yang agak spiritual dan menenangkan, serta kuliner lokal yang berkualitas dan nggak terlalu komersial.
+❤️ Budget termasuk: biaya mobil, bensin, tiket masuk, makan kamu, dan semua pengeluaranku hari itu (makan dan aktivitas).
+❤️ Selera jelas: nggak suka tempat wisata mainstream yang cuma buat foto-foto. Lebih suka pemandangan laut yang cantik, tempat yang agak spiritual dan menenangkan, serta kuliner lokal yang berkualitas dan nggak terlalu komersial.
 
-Eh, ternyata proyek blind box itinerary ulang tahun beneran kejadian 🤣
-Dan isinya banyak banget. Pas balik lihat foto-foto, baru sadar banyak tempat yang bahkan bukan 'tempat wisata' — lebih ke tempat yang biasa dikunjungi warga lokal atau tempat yang terkenal dari mulut ke mulut sesama traveler. Tapi justru karena itu, kenangan dari perjalanan ini terasa lebih dalam.
+> 💗 Mau tahu harga tiket tempat wisata lainnya? **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** udah ngumpulin harga referensi 49 tempat hits, lengkap dengan link perbandingan Klook/Trip.com.
 
-Update dulu untuk Day 1.
+Eh nggak taunya, proyek blind box ulang tahun beneran jadi 🤣 Dan isinya banyak banget! Sekarang lagi lihat-lihat foto, baru sadar banyak tempat yang bahkan nggak bisa disebut 'tempat wisata' — lebih ke tempat yang biasa dikunjungi warga lokal atau tempat yang cuma dikenal dari mulut ke mulut sesama traveler. Tapi justru karena itu, kenangan dari perjalanan ini terasa lebih dalam.
 
-***
-
-## Day 1｜Terbang dari Taoyuan ke Bali, Langsung ke Pantai Lihat Sunset 🌅
-
-Kali ini terbang dari Bandara Taoyuan naik China Airlines CI771 kelas ekonomi.
-Awalnya ekonomi biasa, tapi pas check-in aku upgrade ke premium economy bayar tambahan sekitar USD$84.
-
-Jujur, buat jarak penerbangan segini, menurutku value for money-nya oke banget 👍
-Ruangan duduknya lebih lega, makanan dan pengalaman terbangnya juga beda. Buat yang begitu landing langsung pengen jalan-jalan, kondisi mentalnya tuh beda banget.
+Update dulu untuk Hari 1.
 
 ***
 
-### 🛂 Proses Imigrasi Lebih Mulus dari yang Dibayangin
+## Hari 1｜Terbang dari Taoyuan ke Bali, langsung ke pantai lihat matahari terbenam 🌅
+
+Kali ini terbang dari Bandara Taoyuan naik China Airlines CI771 kelas ekonomi. Awalnya ekonomi biasa, tapi pas check-in upgrade ke ekonomi premium dengan bayar tambahan sekitar USD$84.
+
+Jujur sih, kalau lihat durasi penerbangan segini, menurutku value for money-nya oke banget 👍
+Ruangan duduknya lebih lega, makanan dan pengalaman terbangnya juga beda. Buat kamu yang begitu landing langsung pengen jalan-jalan, kondisi fisik dan mentalnya tuh jauh lebih oke.
+
+***
+
+### 🛂 Proses Imigrasi Lebih Mulus dari yang Dibayangkan
 
 Kali ini hampir semua urusan udah diurus online sebelum berangkat, jadi proses masuknya cepet banget sampai agak nggak masuk akal.
 
 #### 1️⃣ Visa Elektronik (B1)
 
-Aku apply visa elektronik sebelum berangkat, biayanya sekitar USD$32.
-Setelah landing langsung lewat jalur pemeriksaan elektronik, proses bea cukai cuma butuh 1 menit, nggak antre sama sekali.
+Sebelum berangkat, aku udah urus visa elektronik dulu, biayanya sekitar USD$32.
+Setelah mendarat, langsung lewat jalur pemeriksaan elektronik, proses bea cukai cuma butuh 1 menit, nggak antre sama sekali.
 
-Kalau lagi musim ramai ke Bali, aku saranin banget urus visa elektronik dulu. Antre VOA di lapangan kadang bikin frustrasi 😆
+Kalau kamu datang ke Bali pas musim ramai, aku saranin banget urus visa elektronik dulu. Antre VOA di lapangan kadang bikin frustrasi banget 😆
 
-#### 2️⃣ Formulir Deklarasi Bea Cukai Elektronik
+#### 2️⃣ Formulir Deklarasi Pabean Elektronik
 
 Ini juga saran diisi duluan.
-Tiga hari sebelum berangkat udah bisa lapor online, nanti tinggal screenshot QR Code di HP, pas di lokasi tinggal scan aja selesai.
+Tiga hari sebelum berangkat udah bisa lapor online, nanti tinggal screenshot QR Code-nya di HP, pas di lapangan tinggal scan langsung beres.
 
 #### 3️⃣ Pajak Wisatawan
 
 Pajak wisatawan juga aku bayar online duluan, sekitar USD$10.
-Sekarang banyak proses di Bali udah perlahan digital, urus duluan bener-bener ngirit waktu.
+Sekarang banyak proses di Bali yang perlahan digital, urus duluan bener-bener ngirit banyak waktu.
 
-[> [2025 Bali Perubahan Masuk Dipahami dalam Satu Menit: Proses Masuk Indonesia/Bali - Proses dari Turun Pesawat/Melewati Bea Cukai hingga Mengambil Bagasi](/id/blog/2025-bali-immigration-process/)
-
-***
-
-### 🍫 Belum mulai main, di jalan udah dapet kejutan kecil
-
-Di tengah perjalanan malah dikasih satu cokelat Dubai dari Heavenly Chocolate Bali.
-
-Bisa dibilang, bagian paling seru dari blind box ulang tahun itu — kamu nggak pernah tahu apa yang bakal muncul di detik berikutnya 🤣
-Kadang bukan soal barangnya yang mahal, tapi lebih ke 'ada seseorang yang diam-diam nyiapin sesuatu buat kamu' — kejutan kecil kayak gitu yang bikin mood sepanjang perjalanan langsung naik drastis.
+> [2025 Bali Perubahan Masuk dalam Satu Menit Paham: Prosedur Masuk Indonesia/Bali - Dari Turun Pesawat/Melewati Imigrasi/Sampai Ambil Bagasi](/id/blog/2025-bali-immigration-process/)
 
 ***
 
-### 🌅 Langsung gas ke Jimbaran buat lihat sunset
+### 🍫 Belum Mulai Jalan-jalan, Udah Dapet Kejutan di Jalan
 
-Sesampainya di sana, gak buang waktu sama sekali, langsung gas ke Jimbaran.
+Di perjalanan malah dikasih satu cokelat Dubai dari Heavenly Chocolate Bali.
+
+Pokoknya, serunya blind box ulang tahun itu—kamu nggak pernah tahu apa yang bakal muncul selanjutnya 🤣
+
+***
+
+Kadang bukan soal barang mahal, tapi kejutan kecil kayak 'ada yang diam-diam nyiapin sesuatu buat kamu' itu yang bikin mood perjalanan langsung naik drastis.
+
+### 🌅 Destinasi Pertama Langsung ke Jimbaran Lihat Sunset
+
+Sesampainya di sana, nggak buang waktu sama sekali, langsung gas ke Jimbaran.
 
 https://youtube.com/shorts/Rd0qfDV72bM
 
 Disediakan oleh Lai Jiaying
 
-Bali punya banyak spot buat lihat sunset, tapi pemandangan di Jimbaran yang 'langit jingga kemerahan plus pesawat landing rendah' itu emang ikonik banget.
-Apalagi kalau duduk di pasir, lihat langit dari biru terang perlahan jadi keemasan, jingga, lalu membara sampai ke garis cakrawala — rasanya kayak: 'Ah, akhirnya aku beneran sampai di Bali.'
-
-Kalau kamu naik China Airlines dengan jadwal ini, sebenarnya masih sempat ngebut ke Seminyak buat lihat sunset.
-Tapi kalau naik EVA Air, karena waktu sampai lebih malam lagi, menurutku lebih aman stay di Jimbaran aja, soalnya perjalanan ke Seminyak gampang banget kena macet jam sibuk.
+Bali punya banyak tempat buat lihat sunset, tapi pemandangan 'langit jingga-merah plus pesawat mendarat rendah' di Jimbaran itu benar-benar ikonik.
 
 ***
 
-## 🏠 Hari 1 Akomodasi｜Pelangi Bali Hotel & Spa di Seminyak
+## 🏠 Hari 1 Menginap｜Pelangi Bali Hotel & Spa di Seminyak
 
 Malam pertama nginep di Seminyak, tepatnya di Pelangi Bali Hotel & Spa.
 
@@ -122,13 +119,13 @@ Malam pertama nginep di Seminyak, tepatnya di Pelangi Bali Hotel & Spa.
 Foto oleh Lai Jiaying
 
 Dua orang semalem cuma sekitar USD$65-an, menurutku worth it banget buat lokasinya.
-Keunggulan terbesarnya — setelah taruh barang, tinggal jalan kaki ke pantai.
+Keunggulan utamanya — setelah taruh koper, bisa langsung jalan kaki ke pantai.
 
 ![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014649179-695071414_17950095120159785_7534116028163351902_n.webp)
 
 Foto oleh Lai Jiaying
 
-Gak perlu panggil taksi, gak perlu pindah-pindah, malemnya jalan-jalan ke restoran tepi pantai buat makan malam, denger suara ombak, nikmatin angin laut — rasanya "perjalanan beneran dimulai", bikin nyaman banget.
+Gak perlu panggil taksi lagi, gak perlu pindah-pindah, malemnya jalan-jalan ke restoran pinggir pantai buat dinner, denger suara ombak, nikmatin angin laut — rasanya "perjalanan beneran dimulai" tuh, bikin nyaman banget.
 
 ![Day 1 住宿｜水明漾 Pelangi Bali Hotel & Spa](https://images.gobaligo.id/images/2026-06/1781014682478-700224347_17950095102159785_6229290711436180316_n.webp)
 
@@ -160,21 +157,21 @@ Cek ketersediaan kamar & harga: [Agoda](https://www.agoda.com/partners/partnerse
 
 {{block:smk}}
 
-## Hari 2｜Jalan pagi di pantai, Beach Club, kunjungan amal, sampai akhirnya hari yang santai di Sanur 🌊
+## Hari 2｜Jalan pagi di pantai, Beach Club, kunjungan sosial, sampai akhirnya hari yang santai di Sanur 🌊
 
-Irama hari kedua, benar-benar pola Bali impianku. Nggak ada acara memaksakan diri ke tempat wisata, juga nggak dikejar-kejar dari pagi sampai malam. Malah asyik berganti-ganti antara pantai, coffee bar, ruang publik, dan ritme santai Sanur.
+Irama hari kedua, benar-benar pola Bali impianku. Nggak ada acara maksa ke tempat wisata, juga nggak dikejar-kejar dari pagi sampai malam. Malah asyik berganti-ganti antara pantai, kafe-bar, ruang sosial, dan ritme santai Sanur.
 
 ***
 
-### 🌞 Pagi di Pantai Seminyak, lebih memesona dari siang hari
+### 🌞 Pantai Seminyak di pagi hari, lebih memesona daripada siang hari
 
-Sekitar jam enam pagi, langsung jalan dari pintu belakang hotel udah nyampe pantai.
+Sekitar jam enam pagi, langsung jalan dari pintu belakang hotel ke pantai.
 
-Ini juga alasan kenapa aku suka banget nginep di hotel pinggir pantai. Nggak perlu repot atur itinerary, cukup bangun pagi dan langsung bisa jalan-jalan di pasir pantai, udah worth it banget.
+Ini juga alasan kenapa aku suka banget nginep di hotel pinggir pantai. Nggak perlu atur itinerary khusus, cukup bangun pagi dan langsung jalan-jalan di pasir pantai, udah worth it banget.
 
-Pantai Seminyak pagi hari beda banget sama malam hari. Nggak ada musik bising, juga nggak penuh turis. Cuma ada suara ombak, orang jogging pagi, dan sekelompok bule yang udah mulai surfing.
+Pantai Seminyak pagi hari beda banget sama malam hari. Nggak ada musik bising, juga nggak penuh turis. Cuma ada suara ombak, orang jogging pagi, dan beberapa bule yang udah mulai surfing.
 
-Dan harus diakui, 'kepadatan cowok ganteng surfing' di Seminyak pagi hari emang tinggi banget 🤣 Banyak yang udah turun ke air sebelum matahari terbit, vibe pantainya super chill. Lihat mereka bawa papan selancar ke laut, rasanya: 'Ini nih keseharian Bali.'
+Dan nggak bisa dipungkiri, 'kepadatan cowok ganteng surfing' di Seminyak pagi hari emang tinggi banget 🤣 Banyak yang udah turun ke air sebelum matahari terbit, vibe pantainya super chill. Lihat mereka bawa papan selancar ke laut, rasanya: 'Ini baru namanya keseharian Bali.'
 
 ***
 
@@ -188,27 +185,31 @@ Atlas Beach Club (foto oleh Lai Jiaying)
 
 Tempat ini punya julukan 'Beach Club terbesar di dunia', dan pas lihat langsung, skalanya beneran bikin kaget. Ruangannya super luas, dari kolam renang, area DJ, restoran, sampai area sofa, hampir kayak resort mini.
 
-Kali ini karena kerja sama dengan TUL BLUE BERAWA, kalau kamu menginap di tipe suite ke atas bisa masuk gratis, plus langsung dapat tempat duduk di sofa area depan dan satu welcome drink. Area depan itu beda banget, kamu bisa langsung menghadap ke laut, lihat ombak, musik, orang-orang, dan sunset — suasananya dapet banget.
+Kali ini karena kerja sama dengan TUL BLUE BERAWA, kalau kamu menginap di tipe suite ke atas bisa masuk gratis, plus langsung dapat tempat duduk di sofa area paling depan dan satu welcome drink. 
+Area depan itu beda banget, kamu bisa langsung menghadap ke laut, lihat ombak, musik, orang-orang, dan sunset — suasananya dapet banget.
 
-Tapi menurutku pribadi, Atlas itu lebih cocok disebut 'Beach Club tipe pesta seru'. Kalau kamu suka musik, suasana ramai, dan tempat yang aesthetic buat foto, ini cocok banget. Tapi kalau kamu lebih suka chill santai sambil menikmati ketenangan, mungkin lebih cocok cari beach club lain.
+Tapi menurutku pribadi, Atlas itu lebih cocok disebut 'Beach Club tipe pesta seru'. 
+Kalau kamu suka musik, keramaian, dan tempat yang estetik buat foto-foto, ini cocok banget. Tapi kalau kamu lebih suka suasana tenang dan santai, mungkin lebih cocok cari beach club lain.
 
 ***
 
 ### 🍰 Nusa Dua Afternoon Tea di Kempinski｜Pemandangan lautnya bikin nilai plus banget
 
-Sore-sore aku mampir ke Kempinski di Nusa Dua buat afternoon tea.
+Sore-sore mampir ke Kempinski di Nusa Dua buat afternoon tea.
 
 ![Nusa Dua 凱賓斯基下午茶｜海景真的加很多分](https://images.gobaligo.id/images/2026-06/1781014825527-kemp1.jpg)
 
 The Apurva Kempinski Bali — foto oleh Lai Jiaying
 
-Aku sangat rekomendasiin buat reservasi kursi dengan pemandangan laut. Duduk langsung menghadap laut itu rasanya beda dunia sama duduk di dalam ruangan biasa.
+Aku sangat rekomendasiin pesan tempat duduk dengan pemandangan laut dari jauh-jauh hari. 
+Duduk di posisi menghadap laut itu benar-benar beda dunia sama duduk di dalam ruangan biasa.
 
-Sambil minum teh, lihat Samudra Hindia — semuanya jadi terasa lebih slow. Ditambah arsitektur Kempinski sendiri megah banget, perpaduan elemen tradisional Bali dengan sentuhan modern. Banyak sudut yang oke banget buat foto.
+Sambil minum teh, lihat Samudra Hindia — semuanya jadi terasa lebih slow. 
+Dan arsitektur Kempinski sendiri megah banget, perpaduan elemen tradisional Bali dengan gaya modern. Banyak sudut yang worth it buat difoto.
 
-Harga afternoon tea sekitar USD$23 per orang. Menurutku sih worth it banget untuk kualitas hotel dan pemandangan yang ditawarkan.
+Harga afternoon tea sekitar USD$23 per orang. Menurutku, dengan kualitas hotel dan pemandangan segini, masih terbilang wajar.
 
-> [【Afternoon Tea Mewah di Bali】The Apurva Kempinski — Selasar Deli: Arsitektur Istana, Seni Ukir Kayu, dan Sore yang Mimpi Banget](/id/blog/kempinski-selasar-deli-afternoon-tea/)
+> [【Afternoon Tea Mewah di Bali】Kempinski (The Apurva Kempinski) Selasar Deli: Arsitektur Istana, Seni Ukir Kayu, dan Sore yang Impian](/id/blog/kempinski-selasar-deli-afternoon-tea/)
 
 ***
 
@@ -218,22 +219,22 @@ Yang paling berkesan di sore hari sebenarnya bukan tempat wisatanya, melainkan k
 
 https://youtube.com/shorts/ljVgfCUTOyg
 
-Dokumentasi: Lai Jiaying – Bali Life Foundation
+Dokumentasi: Bali Life Foundation (Lai Jiaying)
 
-Yayasan ini buka untuk kunjungan预约 setiap hari Jumat pukul 16.00–19.00.
+Yayasan ini buka untuk kunjungan dengan reservasi setiap hari Jumat pukul 16.00–19.00.
 Area yayasannya nggak terlalu besar, saat ini menampung sekitar 50 anak.
 
-Pas kami sampai, lagi siap-siap nurunin beras dan minyak goreng yang mau didonasikan.
-Eh, tiba-tiba beberapa anak laki-laki langsung lari dan bantu angkut.
+Pas kami sampai, mereka lagi bersiap menurunkan beras dan minyak goreng yang kami bawa untuk donasi.
+Eh, tiba-tiba beberapa anak laki-laki langsung lari dan membantu.
 
-Yang paling bikin aku kaget —
-anak-anak itu umurnya mungkin baru 5–6 tahun, tapi mereka bisa angkut sendiri karung beras 10 kg.
+Yang paling bikin saya syok —
+anak-anak itu umurnya mungkin baru 5–6 tahun, tapi mereka bisa angkat sendiri karung beras 10 kg.
 
 Adegan itu cukup mengena banget.
-Kamu jadi sadar, ada anak-anak yang tumbuh di lingkungan yang benar-benar beda dari dunia yang biasa kita kenal.
+Kamu jadi sadar, ada anak-anak yang tumbuh di lingkungan yang benar-benar berbeda dari dunia yang biasa kita kenal.
 
-Tapi di sisi lain, mereka nggak kelihatan sedih.
-Malah terus ketawa, ngobrol, dan bahkan dengan inisiatif bantu menyambut tamu.
+Tapi di sisi lain, mereka nggak terlihat menderita.
+Malah terus ketawa, ngobrol, bahkan inisiatif bantu menyambut tamu.
 
 ![Bali Life Foundation｜這趟旅程最深刻的一站](https://images.gobaligo.id/images/2026-06/1781014986137-bali_life_foundation2.jpg)
 
@@ -243,24 +244,24 @@ Yayasan ini makan malam bareng jam 18.00, dan pengunjung juga boleh ikut makan.
 Dibanding sekadar 'tur', rasanya lebih seperti ikut masuk ke dalam keseharian mereka sebentar.
 
 Mereka juga mengelola sebuah TK, yang menyediakan layanan penitipan anak dari setengah hari hingga full day.
-Banyak orang tua bule yang datang ke Bali untuk surfing atau kerja, mereka menitipkan anak-anaknya di sini. Pendapatan dari sini juga ikut membantu operasional yayasan.
+Banyak orang tua bule yang datang ke Bali untuk surfing atau kerja, mereka menitipkan anak-anaknya di sini. Pendapatan dari sini juga ikut menyokong operasional yayasan.
 
-Aku pribadi suka banget model kayak gini.
+Aku pribadi suka banget sama model seperti ini.
 Nggak sepenuhnya bergantung pada donasi, tapi berusaha membangun siklus yang bisa berjalan jangka panjang.
 
 ***
 
-### 🏠 Malamnya Check-in Hotel Tepi Pantai di Sanur
+### 🏠 Malamnya Check-in Hotel di Pinggir Pantai Sanur
 
-Malamnya pindah ke Sanur, check-in di Respati Beach Hotel.
+Malam harinya pindah ke Sanur, check-in di Respati Beach Hotel.
 
 Hotel ini tipikal hotel pantai khas Sanur banget.
 Nggak norak-norak amat, tapi lokasinya super nyaman.
 
-Dua orang semalem sekitar USD$65, pas keluar hotel udah langsung pantai, jalan kaki sekitar lima menit juga udah sampai mall, jadi urusan sehari-hari gampang banget.
+Dua orang semalam sekitar USD$65, langsung di pinggir pantai, jalan kaki sekitar lima menit juga bisa ke mall, fasilitas sehari-hari gampang banget.
 
-Sanur tuh beda banget sama Seminyak atau Canggu. Ritmenya jauh lebih slow.
-Nggak ada vibe party, lebih cocok buat jalan santai, ngelamun, dan nikmatin hidup pelan-pelan.
+Sanur dibanding Seminyak atau Canggu, ritmenya jauh lebih slow.
+Nggak ada vibe party, lebih cocok buat jalan santai, ngelamun, dan hidup pelan-pelan.
 
 ### Respati Beach Hotel - Lokasinya Super Strategis
 
@@ -296,64 +297,64 @@ Setelah menaruh koper, kami jalan-jalan lagi ke Icon Bali Mall.
 
 ICON Bali Mall (dok. Lai Jiaying)
 
-Ini salah satu mal baru yang lagi banyak dibicarain di Sanur. Keunggulan utamanya adalah 'pemandangan laut'.
+Ini salah satu mal baru yang lagi banyak dibicarain di Sanur. Yang paling khas adalah 'pemandangan laut'-nya.
 
-Banyak spot yang langsung ngadep laut, ditambah ruangannya masih baru banget dan AC-nya juga dingin (haha), sekarang udah jadi tempat yang banyak orang mampir kalau ke Sanur.
+Banyak spot yang langsung ngadep laut, ditambah ruangannya masih baru banget dan AC-nya juga dingin (haha), sekarang udah jadi tempat yang sering dimasukin orang ke itinerary pas ke Sanur.
 
 ![Icon Bali Mall｜最近很紅的海景商場](https://images.gobaligo.id/images/2026-06/1781015168659-secret_garden.jpg)
 
 Kali ini aku juga beli wewangian dari Secret Garden. (dok. Lai Jiaying) Sebenarnya banyak brand wewangian di Indonesia yang harganya oke, beberapa aromanya juga khas tropis, cocok banget dibawa pulang sebagai oleh-oleh.
 
-## Day 3｜Slow down di Sanur, lembut banget sampai bikin ogah pergi 🌿
+## Day 3｜Hari yang Santai di Sanur, Lembut Banget Sampai Gak Rela Perggi 🌿
 
-Hari ketiga gak ada rencana yang dipaksain. Bangun tidur natural, lalu mutusin buat menghabiskan seharian di Sanur.
+Hari ketiga gak ada rencana yang dipaksain. Bangun tidur sampai puas, lalu mutusin buat menghabiskan seharian di Sanur.
 
 ![Day 3｜在沙努爾慢下來的一天，溫柔到讓人捨不得離開](https://images.gobaligo.id/images/2026-06/1781015212224-sanur1.jpg)
 
 (dok. Lai Jiaying)
 
-Banyak orang yang pertama kali ke Bali biasanya fokus ke Seminyak, Canggu, Ubud, tapi sebenernya aku selalu suka Sanur yang punya 'suasana pantai yang santai'. Gak terlalu ramai, juga gak terlalu terasa seperti tempat wisata, malah lebih kayak tempat yang beneran bisa dihuni.
+Banyak orang yang pertama kali ke Bali biasanya fokus ke Seminyak, Canggu, Ubud, tapi sebenernya aku selalu suka Sanur yang punya 'nuansa pantai yang pelan'. Gak terlalu ramai, juga gak terlalu terasa seperti tempat wisata, malah lebih kayak tempat yang beneran bisa dihuni.
 
 ***
 
-### 🌅 Jalan-jalan di Pantai Sanur｜Angin laut pagi yang benar-benar lembut
+### 🌅 Jalan-jalan di Pantai Sanur｜Angin laut pagi hari benar-benar lembut
 
 Pagi-pagi langsung jalan-jalan ke Sanur Beach.
 
-Pantai Sanur punya vibe yang beda banget sama pantai di pesisir barat Bali.
+Pantai Sanur tuh beda banget sama pantai di pesisir barat Bali.
 Ombaknya lebih tenang, apalagi pas subuh, permukaan lautnya kayak cermin gitu.
 
-Gak ada musik dari Beach Club, juga gak rame-rame banget.
-Cuma ada orang jalan kaki, naik sepeda, dan yang duduk santai sambil bengong di pinggir pantai.
+Gak ada musik dari Beach Club, juga gak rame penuh orang.
+Cuma ada yang jalan kaki, naik sepeda, dan duduk termenung di pinggir pantai.
 
 Aku suka banget sama udara pagi di Sanur.
-Angin lautnya gak kencang, tapi lembut dan nyaman, bikin kamu jadi pelan-pelan tanpa sadar.
+Angin lautnya gak kencang, tapi lembut dan nyaman, bikin kamu gak sadar jadi melambat.
 
-Kadang momen paling healing dalam perjalanan bukan soal berapa banyak tempat yang dikunjungi, tapi saat kamu gak ngapa-ngapain, cuma duduk di pinggir pantai sambil ngeliatin garis cakrawala.
+Kadang momen paling healing dalam perjalanan bukan soal berapa banyak tempat yang dikunjungi, tapi saat gak ngapa-ngapain, cuma duduk di pantai sambil ngeliat garis cakrawala.
 
 ***
 
 ### 🧸 Toko Senyum｜Lebih dari Sekadar Belanja
 
-Kali ini aku sengaja bawa boneka dari Taiwan buat donasi.
+Kali ini aku sengaja bawa beberapa boneka dari Taiwan buat donasi.
 
-Toko Senyum ini sebenarnya adalah toko barang bekas amal yang dijalankan oleh Yayasan Senyum Bali.
+Toko Senyum ini sebenarnya toko barang bekas amal yang dijalankan oleh Yayasan Senyum Bali.
 
 ![微笑商店｜比購物更有意義的一站](https://images.gobaligo.id/images/2026-06/1781015250988-smile_shop.jpg)
 
 Yayasan Senyum Bali – Foto oleh Lai Jiaying
 
-Yayasan ini udah lama bantu anak-anak Indonesia yang lahir dengan bibir sumbing dan kelainan wajah, lewat penggalangan dana medis dan operasi, supaya mereka bisa senyum lagi.
+Yayasan ini udah lama bantu anak-anak Indonesia yang lahir dengan bibir sumbing dan kelainan wajah, dengan menggalang dana medis dan mengatur operasi, supaya mereka bisa tersenyum lagi.
 
 Aku pribadi selalu kagum sama organisasi nonprofit kayak gini. Soalnya yang mereka lakukan bukan cuma bantuan jangka pendek, tapi benar-benar bisa memengaruhi masa depan seorang anak.
 
-Terus pas kamu datang ke sini, suasananya ternyata hangat banget, nggak bikin orang merasa tertekan. Lebih kayak bentuk dukungan yang sederhana dan tulus.
+Dan pas kamu datang ke sini, suasananya ternyata hangat banget, nggak bikin orang merasa tertekan. Lebih kayak bentuk dukungan yang sederhana.
 
 ***
 
-### 🧶 Acara Merajut Lintas Negara yang Hangat Banget
+### 🧶 Pertemuan Merajut Lintas Negara yang Penuh Kehangatan
 
-Kebetulan kali ini aku ikut juga acara merajut lintas negara yang spesial banget.
+Kebetulan kali ini aku ikut juga dalam pertemuan merajut lintas negara yang cukup spesial.
 
 Orang-orang dari berbagai negara berkumpul, menjahit 'payudara prostetik' satu per satu.
 
@@ -361,53 +362,53 @@ Orang-orang dari berbagai negara berkumpul, menjahit 'payudara prostetik' satu p
 
 Dokumentasi: Lai Jiaying
 
-Payudara prostetik rajutan tangan ini nantinya bakal disumbangkan seluruhnya ke asosiasi terkait, buat digunakan oleh wanita pasca operasi kanker payudara. Dibandingkan payudara prostetik biasa, yang rajutan ini lebih ringan, lebih lembut, dan lebih nyaman di kulit.
+Payudara prostetik rajutan tangan ini nantinya akan disumbangkan seluruhnya ke asosiasi terkait, untuk digunakan oleh wanita pasca operasi kanker payudara. Dibandingkan prostetik biasa, yang rajutan ini lebih ringan, lebih lembut, dan lebih nyaman di kulit.
 
-Suasana di sana sebenarnya cukup hening. Semua orang menunduk fokus merajut, ada yang ngobrol, ada yang berbagi cerita, tanpa kata-kata yang berlebihan, tapi rasa kelembutannya perlahan menumpuk.
+Suasana di sana cukup hening. Semua orang menunduk fokus merajut, ada yang ngobrol, ada yang berbagi cerita, tanpa kata-kata yang terlalu dramatis, tapi rasa lembutnya perlahan menumpuk.
 
-Kadang kenangan paling berharga dalam perjalanan bukanlah mengunjungi tempat wisata yang keren banget, melainkan momen kecil dan nyata kayak gini yang menghubungkan antarmanusia.
+Kadang kenangan paling berharga dalam perjalanan bukanlah tempat wisata yang keren banget, melainkan momen kecil dan nyata seperti ini—koneksi antarmanusia.
 
 ***
 
-### 💆‍♀️ Spa yang Hampir Selalu Aku Kunjungi Setiap ke Sanur
+### 💆‍♀️ Spa Langganan Setiap ke Sanur
 
 Sorenya ya pasti diisi pijat lagi lah 🤣
 
-Kali ini aku balik lagi ke The Nest Boutique Spa, tempat yang hampir selalu aku kunjungi setiap ke sini.
+Kali ini aku balik lagi ke The Nest Boutique Spa, tempat yang hampir selalu aku kunjungi setiap ke Bali.
 
 ![‍ 每次來沙努爾幾乎都會按的 Spa](https://images.gobaligo.id/images/2026-06/1781015307241-spa.jpg)
 
-The Nest Boutique Spa disediakan oleh Lai Jiaying
+The Nest Boutique Spa (dok. Lai Jiaying)
 
-> Termasuk dalam [【Edisi Spesial】Rekomendasi SPA Terbaik di Bali & Pijat ke Kamar Lengkap, Dibagi per Area Biar Gampang Dicari](/id/blog/spa/)
+> Termasuk dalam [【Edisi Spesial】Rekomendasi SPA Terbaik di Bali & Pijat ke Villa Lengkap, Dibagi per Area Biar Gampang Cari](/id/blog/spa/)
 
-Sanur emang banyak banget tempat pijat, tapi yang ini menurutku kualitasnya selalu stabil. Suasananya nyaman, tekanannya juga pas — bukan yang asal-asalan kayak di kawasan turis.
+Sanur emang banyak banget tempat pijat, tapi yang satu ini menurutku kualitasnya konsisten banget. Suasananya nyaman, tekanannya juga pas — bukan yang asal-asalan kayak di kawasan turis.
 
-Apalagi pas liburan di Bali, kadang pijat itu wajib banget. Setiap hari jalan kaki, kena panas, naik kendaraan — abis dipijat langsung fresh lagi.
+Apalagi pas liburan di Bali, pijat tuh kadang wajib banget. Setiap hari jalan kaki, kena panas, naik kendaraan — abis dipijat, badan langsung balik bugar.
 
 ***
 
 ### 🛍️ Abis Pijat, Langsung Mode Belanja
 
-Selesai pijat, badan rasanya enak banget, langsung gas ke mal lanjut shopping 🤣
+Selesai pijat, badan terasa enteng, langsung gas ke mal lanjut shopping 🤣
 
 ![按完直接開啟補貨模式](https://images.gobaligo.id/images/2026-06/1781015463514-icon.jpg)
 
-Disediakan oleh Lai Jiaying
+(dok. Lai Jiaying)
 
-Sanur sekarang makin nyaman. Dulu banyak yang bilang 'agak jadul', tapi sekarang mall besar, restoran, dan kafe makin banyak, tapi suasananya masih santai kayak dulu.
+Sanur sekarang makin nyaman. Nggak kayak dulu yang banyak orang bilang 'agak tua', sekarang mall besar, restoran, kafe makin banyak, tapi suasananya santai ala Sanur masih terasa.
 
 ***
 
-### 💡 Makin cinta sama Sanur, ini alasannya
+### 💡 Alasan kenapa aku makin suka Sanur
 
 Hotel yang aku tinggali kali ini lokasinya juara banget.
 
-Pijat, pantai, mal, tempat penukaran uang — semuanya bisa dijangkau dalam 3 menit jalan kaki 👍👍
+Pijat, pantai, mall, tempat penukaran uang — semuanya bisa dijangkau dalam 3 menit jalan kaki 👍👍
 
 Kenyamanan kayak gini tuh penting banget di Bali.
 
-Karena banyak tempat yang keliatannya dekat, tapi aslinya bisa macet parah bikin frustrasi.
+Karena banyak tempat yang keliatannya dekat, tapi aslinya bisa macet parah bikin stres.
 
 Nah, Sanur punya kelebihan besar —
 
@@ -415,120 +416,127 @@ Nah, Sanur punya kelebihan besar —
 
 fasilitas sehari-hari lengkap, tapi suasananya tetap adem dan nyaman.
 
-Apalagi kalau kamu bukan pertama kali ke Bali, mulai males keliling objek wisata tiap hari, dan cuma pengen cari tempat nyaman buat santai, jalan-jalan, makan, dan pijat — aku bakal banget rekomendasiin kamu nginep beberapa hari di Sanur.
+Apalagi kalau kamu bukan pertama kali ke Bali, mulai males muter-muter tempat wisata, dan cuma pengen cari tempat enak buat santai, jalan-jalan, makan, dan pijat — aku bakal banget rekomendasiin kamu ngabisin beberapa hari di Sanur.
 
-## Day 4｜Naik motor lewati jalan pegunungan, dari Pura Tirta Empul sampai Ubud dan Sanur 🛵
+## Day 4｜Naik motor lewatin jalan pegunungan, dari Pura Tirta Empul sampai Ubud dan Sanur 🛵
 
 Hari keempat langsung mode road trip pakai motor.
 
 ***
 
-### 🙏 Pura Tirta Empul｜Datang pagi-pagi banget bedanya jauh
+### 🙏 Pura Tirta Empul｜Pagi-pagi banget bedanya jauh banget
 
-Langsung gas ke Pura Tirta Empul.
+Destinasi pertama langsung gas ke Pura Tirta Empul.
 
 ![聖泉寺｜一大早來真的差很多](https://images.gobaligo.id/images/2026-06/1781015518073-tirta_empul_3.jpg)
 
-Pura Tirta Empul – foto oleh Lai Jiaying
+Tirta Empul Temple (dok. Lai Jiaying)
 
-Kami sampai pagi banget, jadi pengunjung belum terlalu ramai.
-Dulu sering lihat foto-foto online yang penuh antrean panjang, tapi kalau datang pagi tuh jauh lebih nyaman, baik buat foto maupun buat ikut ritual pemurnian, rasanya beda banget.
+Kita sampai pagi banget, jadi pengunjung belum terlalu ramai.
+Dulu sering lihat foto-foto di internet yang penuh antrean panjang, tapi kalau datang pagi rasanya jauh lebih nyaman, baik buat foto-foto maupun buat ikut ritual pemurnian — vibes-nya beda banget.
 
 Yang paling terkenal dari Pura Tirta Empul adalah air suci untuk pemurnian.
 Banyak penduduk lokal dan turis yang antre di setiap pancuran untuk melakukan ritual pembersihan diri.
 
-Suasananya di sana tuh sebenarnya cukup hening.
-Meskipun turisnya lumayan banyak, tetap terasa energi yang sangat tenang.
+Suasananya di sana ternyata cukup hening.
+Meskipun turisnya lumayan banyak, tetap terasa energi yang tenang banget.
 
-Tapi aku harus kasih warning serius nih:
+Tapi aku harus kasih tahu satu hal penting:
 
 ⭐️ Nggak ada hair dryer.
 ⭐️ Nggak ada hair dryer.
 ⭐️ Nggak ada hair dryer.
 
-Rambut basah cuma bisa kering angin aja 🤣
-Untung aku bawa handuk sendiri, kalau nggak, naik motor kena angin pasti super stress.
+Rambut basah cuma bisa dikeringin alami 🤣
+Untung aku bawa handuk sendiri, kalau nggak, naik motor kena angin pasti super stres.
 
-> [【Pura Tirta Empul Bali】Panduan Lengkap: Prosesi Penyucian Air Suci Berusia Ribuan Tahun, Pantangan, & Hal Wajib Dilihat](/id/blog/tirta-empul-temple-guide/)
+> [【Panduan Lengkap Pura Tirta Empul Bali】Prosesi Ritual Pemurnian Air Suci, Pantangan & Hal Wajib Dilihat](/id/blog/tirta-empul-temple-guide/)
 
 ***
 
-### 🧱 Desa Penglipuran｜Desa tradisional yang terasa banget kehidupan sehari-harinya
+### 🧱 彭利普蘭村｜很有生活感的傳統村莊
 
 Lanjut naik motor ke utara, sampai di Desa Penglipuran.
 
 ![彭利普蘭村｜很有生活感的傳統村莊](https://images.gobaligo.id/images/2026-06/1781015614405-pengli1.jpg)
 
-Penglipuran Village — foto oleh Lai Jiaying
+Desa Penglipuran — foto oleh Lai Jiaying
 
-Desa ini terkenal sebagai 'salah satu desa terbersih di dunia'. Lingkungannya benar-benar tertata rapi dan bersih, plus masih mempertahankan banyak arsitektur tradisional Bali.
+Tempat ini punya julukan sebagai 'salah satu desa terbersih di dunia'. 
+Lingkungannya bener-bener tertata rapi dan bersih banget, plus masih mempertahankan banyak arsitektur tradisional Bali asli.
 
-Bedanya sama tempat wisata biasa, ini masih kampung yang benar-benar dihuni. Banyak rumah yang buka warung kecil di depan, jual minuman, camilan, suvenir kecil — vibesnya sederhana banget.
+Yang beda dari tempat wisata biasanya, di sini tuh masih jadi kampung beneran yang dihuni penduduk lokal.
+Banyak rumah yang buka warung kecil di depannya, jual minuman, cemilan, souvenir kecil-kecilan — vibesnya sederhana banget.
 
-Aku pribadi suka banget ritme di sini. Nggak perlu ngapa-ngapain, cukup jalan santai sambil menikmati pemandangan.
+Aku pribadi suka banget sama ritme di sini.
+Nggak perlu ngapa-ngapain, cukup jalan santai dan nikmatin pemandangan.
 
-Beberapa warung juga jual jajanan lokal. Kalau capek naik motor, cocok banget mampir duduk istirahat.
+Beberapa toko juga jual jajanan lokal kecil-kecilan. Kalau kamu capek naik motor, cocok banget mampir duduk santai di sana.
 
-> [Menembus Waktu di Desa Penglipuran: Rasakan Pesona Kuno Bali](/id/blog/penglipuran-village-bali-experience/)
+> [穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](/id/blog/penglipuran-village-bali-experience/)
 
 ***
 
-### ☕ Terasering Tegallalang｜Pemandangan di TIS Cafe Beneran Gila
+### ☕ Terasering Tegallalang｜TIS Cafe, pemandangannya bener-bener gila sih
 
-Setelah keluar desa, lanjut naik motor melewati jalan pegunungan menuju arah Terasering Tegallalang. Kali ini langsung mampir ke TIS Cafe yang lagi hits banget buat foto-foto.
+Setelah meninggalkan desa, lanjutkan perjalanan menyusuri jalan pegunungan menuju arah Terasering Tegallalang. Kali ini langsung gas ke TIS Cafe yang jadi favorit banyak orang buat foto-foto.
 
 ![德哥拉朗梯田｜TIS Cafe 看景真的很誇張](https://images.gobaligo.id/images/2026-06/1781015660578-tis_3.jpg)
 
-TIS Cafe — foto oleh Lai Jiaying
+TIS Cafe (foto oleh Lai Jiaying)
 
-Banyak yang bilang ini kafe estetik buat foto, tapi jujur aja, pemandangannya emang juara banget.
-Duduk di spot yang menghadap sawah bertingkat, liat hamparan hijau lembah yang bertumpuk-tumpuk, bikin kamu gampang melamun.
+Banyak yang bilang ini 'cafe hits di Instagram', tapi jujur, pemandangannya emang juara banget.
+Duduk di kursi yang menghadap sawah terasering, liat hamparan hijau lembah yang bertumpuk-tumpuk, bikin kamu gampang melamun.
 
-Belum lagi angin di atas gunung tuh sepoi banget.
+Belum lagi angin sepoi dari atas gunung tuh seger banget.
 Beda banget sama angin pantai yang panas dan lengket.
 
-Menurutku sih, tempat kayak gini cocok banget diselipin di tengah perjalanan naik motor.
-Sambil ngopi, lihat pemandangan gunung, sekalian istirahatin pantat 🤣
+Menurutku, tempat kayak gini cocok banget diselipin di tengah perjalanan naik motor.
+Sambil ngopi, nikmatin pemandangan gunung, sekalian istirahatin pantat 🤣
 
 ***
 
-### 🍛 Makan Siang Klasik Ubud｜Bebek Tepi Sawah (Bebek Hitam)
+### 🍛 Makan Siang Klasik Ubud｜Bebek Tepi Sawah (Bebek Goreng Kotor)
 
-Siang langsung gas ke Bebek Tepi Sawah yang legendaris di Ubud.
+Siang langsung gas ke Ubud buat cobain bebek goreng kotor yang legendaris.
 
 ![烏布經典午餐｜Bebek Tepi Sawah 髒鴨飯](https://images.gobaligo.id/images/2026-06/1781015721087-bebek.jpg)
 
 Bebek Tepi Sawah (foto oleh Lai Jiaying)
 
-Crispy Duck-nya juara banget.
-Kulitnya digoreng super renyah, dagingnya nggak kering, bahkan sampai ke tulangnya pun masih wangi.
+Crispy Duck-nya di sini tuh juara banget.
+Kulitnya digoreng super renyah, dagingnya nggak kering, bahkan sampai ke tulang-tulangnya masih wangi.
 
-Dimakan bareng sambal Indonesia, bener-bener menggoda banget.
+Ditambah sambal pedas khas Indonesia, bikin nagih banget.
 
 ![烏布經典午餐｜Bebek Tepi Sawah 髒鴨飯](https://images.gobaligo.id/images/2026-06/1781015694382-bebek_4.jpg)
 
 Foto oleh Lai Jiaying
 
-Tapi aku kasih tahu dulu —
-sambalnya pedas banget 🤣🤣
+Tapi aku harus bilang dulu —
+Sambelnya beneran pedas 🤣🤣
 
-Buat yang biasanya cuma makan pedas level rendah, saran pelan-pelan aja dulu cobainnya, kalau nggak nanti sepanjang jalan cari minum terus.
+Buat yang biasanya cuma makan pedas level rendah, saran sih coba pelan-pelan dulu, kalau nggak nanti sepanjang jalan cari air minum terus.
 
 ***
 
-### 💦 Air Terjun Tegenungan｜Turunnya seru, naiknya capek banget🤣
+### 💦 Air Terjun Tegenungan｜Turunnya asyik, naiknya capek 🤣
 
-Setelah kenyang, lanjut perjalanan pulang ke selatan, mampir sebentar ke Air Terjun Tegenungan.
+Setelah kenyang, lanjut perjalanan ke selatan, mampir sebentar ke Air Terjun Tegenungan.
 
-Air terjun ini termasuk salah satu yang paling gampang dijangkau di Bali. Nggak perlu trek jauh di gunung, tapi tetap harus jalan turun ke lembah.
+Air terjun ini termasuk salah satu yang paling gampang dijangkau di Bali.
+Nggak perlu trekking jauh di gunung, tapi tetap harus turun ke lembah.
 
-Pas pertama deket air terjun, rasa air yang langsung nyamperin itu beneran bikin merinding. Suara air terjunnya kencang banget, hampir nggak kedengeran kalau ngobrol di sampingnya.
+Pas pertama deket air terjun, sensasi uap air yang langsung nyamperin itu beneran bikin merinding.
+Suara air terjunnya keras banget, hampir nggak kedengeran kalau ngobrol di sampingnya.
 
-Dan yang unik dari air terjun Bali—banyak yang bukan tipe 'ramping panjang', tapi debit airnya tebal dan penuh tenaga.
+Dan yang unik dari air terjun di Bali —
+Banyak yang bukan tipe 'tipis dan panjang', tapi debit airnya tebal dan penuh tenaga.
 
-Satu-satunya masalah adalah…
+Satu-satunya masalah…
 
-Naiknya beneran capek sih😆 Apalagi abis makan bebek hitam terus naik tangga, rasanya kayak lagi diuji hidup.
+Naiknya lumayan capek sih 😆
+Apalagi abis makan Bebek Betutu terus naik tangga, rasanya kayak lagi diuji hidup.
 
 https://youtube.com/shorts/MmqfkXw211k
 
@@ -536,35 +544,35 @@ https://youtube.com/shorts/MmqfkXw211k
 
 ***
 
-### 🍦 Es Krim Massimo｜Antreannya nggak pernah sepi
+### 🍦 Gelato Massimo｜Antreannya nggak pernah sepi
 
-Malamnya balik ke Sanur, ya pasti makan lagi dong🤣
+Malamnya pas balik ke Sanur, ya pasti makan lagi dong🤣
 
-Kali ini aku nyobain es krim Massimo.
+Kali ini nyobain beli es krim Massimo.
 
 ![Massimo 冰淇淋｜永遠都在排隊](https://images.gobaligo.id/images/2026-06/1781016426600-mismo.jpg)
 
-Massimo Italian Restaurant — recommended banget sama Lai Jiaying.
+Massimo Italian Restaurant (foto oleh Lai Jiaying)
 
-Tempatnya emang selalu antri terus.
-Siang atau malam, depan tokonya selalu penuh orang.
+Tempatnya tuh selalu antre terus.
+Pagi atau malam, depan pintu pasti penuh orang.
 
-Tapi harus diakui, emang ada alasan kenapa seramai itu.
+Tapi harus diakui, emang ada kelebihannya sih.
 Rasanya banyak banget!
 
-Intinya:
+Yang penting:
 
-Murah, porsinya gede, rasanya juga creamy.
+Murah, porsinya gede, rasanya juga kuat.
 
-Pas pesen mikirnya 'aku satu scoop aja deh', eh ujung-ujungnya jadi dua scoop 🤣
+Gampang banget pas mau pesan mikir 'aku cukup satu scoop aja', eh ujung-ujungnya jadi dua scoop 🤣
 
 https://youtube.com/shorts/EF8o5BgXtjg
 
 ***
 
-### 🛍️ Balik hotel mandi, malamnya lanjut mode belanja lagi
+### 🛍️ Balik hotel mandi, malemnya lanjut mode jastip lagi
 
-Balik hotel mandi, ganti baju, terus malamnya jalan kaki lagi ke Icon Bali Mall di sebelah.
+Balik ke hotel mandi, ganti baju, malemnya jalan kaki lagi ke Icon Bali Mall di sebelah.
 
 https://youtu.be/hdIKOX5wghU
 
@@ -573,61 +581,60 @@ ICON Bali Mall
 Beberapa hari ini hampir tiap hari mampir 🤣
 Langsung masuk mode 'jastip online'.
 
-Sanur sekarang makin nyaman banget.
+Sanur sekarang makin praktis banget.
 Banyak barang nggak perlu repot ke Kuta atau Seminyak, di sini udah lengkap banget.
 
 Dan yang paling penting —
 nggak macet.
-Ini sih poin krusial banget.
+Ini sih poin paling krusial.
 
-## Day 5｜Kejar lumba-lumba subuh, kasih makan monyet di jalan, ditutup sempurna sama Cuca 🐬
+## Day 5｜Subuh kejar lumba-lumba, di jalan kasih makan monyet, ditutup sempurna sama Cuca 🐬
 
 Beberapa hari sebelumnya masih slow travel,
-tapi Day 5 benar-benar 'hari bakar diri' 🤣
+Tapi Day 5 bener-bener 'hari yang menguras tenaga' 🤣
 
-Berangkat jam 3 subuh dari Sanur, langsung gas ke utara menuju Lovina.
-Meski capek sampai mikir 'ini hidup apa ujian', begitu lihat lumba-lumba, langsung ngerasa: 'Oke, worth it.'
+Jam 3 subuh udah berangkat dari Sanur, langsung gas ke utara menuju Lovina.
+Meski capeknya sampe bikin ragu hidup, pas liat lumba-lumba muncul, langsung ngerasa: 'Oke, worth it banget.'
 
 ***
 
-### 🐬 Kejar Lumba-lumba Subuh｜Sunrise di Lovina Beach beneran magical
+### 🐬 Subuh kejar lumba-lumba｜Sunrise di Laut Lovina bener-bener magical
 
-Langit masih gelap, kita udah sampai Lovina Beach.
+Malam belum sepenuhnya gelap, kami sudah sampai di Lovina Beach.
 
 https://youtu.be/XRR7ddLAiV4
 
-Dokumentasi: Lai Jiaying
+Dokumentasi Lai Jiaying
 
-Lanjut naik perahu laba-laba tradisional lokal (Jukung) buat cari lumba-lumba di laut.
+Lalu naik perahu tradisional khas lokal bernama Jukung untuk berburu lumba-lumba di laut.
 
-Jujur, awalnya bangun subuh itu bener-bener nyiksa. Apalagi perjalanan tengah malam naik mobil ke Bali Utara, rasanya kayak lagi melayang.
+Jujur, awalnya bangun subuh itu benar-benar menyiksa banget. Apalagi perjalanan tengah malam naik mobil sampai ke Bali Utara, di perjalanan rasanya jiwa udah melayang.
 
-Tapi begitu perahu jalan sebentar, tiba-tiba lumba-lumba mulai muncul.
+Tapi begitu perahu melaju sebentar, tiba-tiba lumba-lumba mulai muncul.
 
-Dan bukan cuma satu-dua. Sekawanan langsung loncat-loncat di samping perahu.
+Dan bukan cuma satu dua ekor. Mereka langsung muncul dalam kelompok besar di samping perahu, melompat-lompat ke permukaan air.
 
-Semua orang di perahu langsung teriak kegirangan 🤣 Adegan itu beneran bikin langsung melek.
+Semua orang di tempat itu hampir bersamaan mulai berteriak kegirangan 🤣 Adegan itu bikin kamu langsung melek seketika.
 
-Ditambah sunrise yang perlahan naik di cakrawala, langit berubah dari biru tua ke oranye kemerahan, suasananya terasa nggak nyata banget.
+Ditambah lagi sunrise yang perlahan naik dari garis cakrawala, langit berubah dari biru gelap jadi jingga kemerahan, suasananya terasa nggak nyata banget.
 
-Tapi wajib diingat:
+Tapi ada satu hal yang harus diingat:
 
-🌊 Bawa baju dan celana ganti. Ombaknya beneran bisa nyembur masuk ke perahu.
+🌊 Jangan lupa bawa baju ganti sama celana ganti. Ombaknya beneran bisa nyembur langsung ke dalam perahu.
 
-Apalagi yang duduk di depan, basah kuyupnya hampir pasti 🤣
+Apalagi yang duduk di barisan depan, basahnya hampir pasti banget 🤣
 
 ***
 
-### 🐒 Ngasih Makan Monyet di Jalan Gunung｜Monyet di sini lebih jinak
+### 🐒 Kasih Makan Monyet di Jalan Gunung｜Monyet di sini lebih kalem
 
 Di perjalanan pulang, mampir sebentar ke tempat kasih makan monyet di pinggir jalan gunung.
 
-Di Bali banyak tempat yang ada monyetnya, tapi monyet di sini jelas lebih kalem. 
-Beda sama yang di Uluwatu, ada yang suka langsung rebut kacamata, rebut HP 🤣
+Di Bali banyak banget tempat ada monyet, tapi monyet di sini jelas lebih kalem. Nggak kayak di Uluwatu yang kadang ada monyet langsung rebut kacamata, rebut hape 🤣
 
 Di lokasi dikenakan biaya masuk (tapi aku lupa berapa sih 😆), bisa beli makanan buat kasih mereka.
 
-Bahkan ada monyet yang duduk manis nunggu dikasih makan, beda banget sama 'gerombolan preman monyet' di Uluwatu.
+Beberapa monyet bahkan duduk manis nunggu dikasih makan, beda banget sama monyet-monyet di Uluwatu yang kayak preman.
 
 ***
 
@@ -635,26 +642,25 @@ Bahkan ada monyet yang duduk manis nunggu dikasih makan, beda banget sama 'gerom
 
 Lanjut perjalanan pulang, mampir lagi ke sebuah taman kopi di pegunungan buat istirahat.
 
-Taman kopi model gini lumayan banyak di daerah pegunungan Bali, 
-keunggulannya hampir semua teh dan kopi bisa dicoba gratis.
+Taman kopi kayak gini sebenarnya banyak di daerah pegunungan Bali, yang paling khas adalah hampir semua jenis teh dan kopi bisa dicoba gratis.
 
-Mulai dari jahe, teh vanilla, sampai aneka kopi rasa ada semua.
+Mulai dari jahe, teh herbal, sampai berbagai kopi rasa ada semua.
 
 ![山裡的咖啡公園｜回程中的休息站](https://images.gobaligo.id/images/2026-06/1781016873612-luwak3.jpg)
 
 Disediakan oleh Lai Jiaying
 
-Yang paling terkenal tentu saja kopi luwak. Satu cangkir sekitar 50,000 IDR.
+Yang paling terkenal ya kopi luwak. Satu cangkir sekitar 50.000 IDR.
 
-Di tempat ini kamu juga bisa lihat langsung proses pengolahan biji kopi, plus ada banyak teh dan kopi yang bisa dibeli langsung.
+Di sini juga bisa lihat langsung proses pengolahan kopi, plus ada banyak teh dan kopi yang bisa dibeli langsung.
 
-Menurutku tempat kayak gini cocok banget jadi tempat singgah pas perjalanan jauh. Duduk santai, nikmatin angin sepoi-sepoi sambil lihat pemandangan gunung, badan langsung terasa lebih segar.
+Menurutku tempat kayak gini cocok banget jadi tempat singgah pas perjalanan jauh. Duduk santai, nikmatin angin dan pemandangan gunung, badan langsung terasa lebih enak.
 
 ***
 
 ### 🍫 Jungle Gold Bali｜Surganya pecinta cokelat
 
-Lanjut lagi, kita mampir ke pabrik cokelat 🤣
+Lanjut lagi, nyampe di pabrik cokelat 🤣
 
 Jungle Gold Bali
 
@@ -662,95 +668,95 @@ Bagian paling berbahayanya adalah —
 
 Semua cokelat bisa dicoba gratis 😆😆
 
-Dan bukan coba asal-asalan, lho. Banyak rasa yang khas tropis banget, kayak kelapa, garam laut, dan aneka rempah.
+Dan bukan sekadar nyicip gratisan biasa, lho.
 
-Hasilnya awalnya cuma mau 'masuk lihat-lihat', eh malah keluar bawa satu kantong 🤣
+Banyak rasa yang bikin vibe tropis banget, kayak kelapa, garam laut, dan rempah-rempah.
 
-> Termasuk dalam [【Rekomendasi Netizen】Enam Kategori, Lebih dari 20 Pilihan Oleh-Oleh Bali: Pilihan Terbaik untuk Menyimpan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
+> Disertakan dalam [【Rekomendasi Netizen】Panduan Oleh-oleh Bali: Enam Kategori, Lebih dari 20 Pilihan untuk Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
 ***
 
-### 🍛 Babi Guling yang Ditemukan Acak di Pinggir Jalan
+> Disimpan di [【Rekomendasi Teman】Enam Kategori, Lebih dari 20 Panduan Oleh-Oleh Bali: Pilihan Terbaik untuk Mengabadikan Kenangan Berharga](/id/blog/bali-souvenirs-gift-guide/)
 
-Siang ini nggak sengaja cari tempat terkenal, malah berhenti di satu tempat Babi Guling acak di pinggir jalan.
+### 🍛 Babi Guling yang Ketemu Random di Pinggir Jalan
+
+Siang itu nggak sengaja cari tempat legendaris, malah berhenti di satu lapak Babi Guling pinggir jalan.
 
 Babi Guling
 
-Kadang makanan terenak di Bali emang nggak selalu ada di tempat dengan rating Google Maps tinggi.
+Kadang makanan terenak di Bali emang nggak selalu ada di tempat rating tinggi Google Maps.
 
-Kulit babi renyah, daging cincang yang juicy, ditambah sambal pedas, bener-bener menggoda banget.
+Kulit babi garing, daging cincang yang juicy, ditambah sambal pedas — bener-bener guilty pleasure banget.
 
-Dan tempat kayak gini biasanya sangat lokal.
-Orang-orang yang duduk di sebelah makan hampir semuanya warga lokal, jadi ada perasaan 'hari ini beneran bukan di kawasan turis'.
-
-https://youtube.com/shorts/sVxycGvyT9w
+Dan biasanya warung kayak gini tuh lokal banget.
 
 ***
 
-### 💤 Langsung Tumbang di Hotel
+### 💤 Balik ke hotel langsung tumbang
 
-Setelah balik ke Sanur, hal pertama yang dilakukan adalah mandi.
+Sampai di Sanur, hal pertama yang kulakukan adalah mandi.
 
-Setelah membilas garam laut, keringat, dan rasa lelah seharian terkena angin dan panas matahari, langsung tidur nyenyak.
+Setelah garam laut, keringat, dan capek seharian kena angin & panas hilang, langsung tidur nyenyak.
 
-Bukan lebay sih.
+Bukan lebay, sih.
 Ini tuh level 'begitu baring langsung pingsan' 🤣
 
-Sore hari gak ada rencana apa-apa, murni buat memulihkan badan yang sudah kelelahan beberapa hari ini.
+Sorenya gak ada rencana apa-apa, pure buat recovery badan yang udah begadang beberapa hari ini.
 
 ***
 
 ### 🍽️ Cuca｜Setiap ke Bali tetap bikin kagum
 
-Setelah cukup tidur, jam enam sore tepat berangkat.
+Setelah cukup tidur, jam enam malam tepat berangkat.
 
 Makan malam puncak malam ini adalah Cuca, tempat yang hampir setiap aku ke Bali pasti pengin balik lagi.
 
 ![Cuca｜每次來峇里島都還是會驚艷](https://images.gobaligo.id/images/2026-06/1781016745897-cuca1.jpg)
 
-Cuca Restaurant Bali disediakan oleh Lai Jiaying
+Cuca Restaurant Bali — foto oleh Lai Jiaying
 
-Bukan fine dining yang norak gitu,
-tapi bikin kamu merasa: 'Setiap hidangan beneran didesain dengan serius.'
+Bukan fine dining yang norak,
+tapi bikin kamu ngerasa: 'setiap menu tuh beneran didesain dengan serius.'
 
-Kreasi menu, koktail, dan dessert mereka semuanya berkualitas banget.
+Kreasi masakan, koktail, dan dessert mereka benar-benar berkualitas banget.
 
-Dan suasananya nyaman banget.
-Gak terlalu kaku, tapi tetap terasa elegan.
+Dan suasananya juga nyaman banget.
+Nggak terlalu kaku, tapi tetap terasa elegan.
 
-[Promo Makan di Restoran Cuca](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D96a4421d89k.com)
+> [Promo Makan di Cuca Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D96a4421d89k.com)
 
-Setelah begadang ngejar lumba-lumba, perjalanan jauh, dan capek di jalan pegunungan, akhirnya ditutup dengan makan malam yang sedikit mabuk, rasanya seperti titik akhir yang sempurna untuk perjalanan blind box ulang tahun ini.
+Setelah begadang demi lumba-lumba, perjalanan jauh, dan jalanan pegunungan yang berliku, akhirnya ditutup dengan makan malam yang sedikit mabuk, rasanya seperti titik akhir yang sempurna untuk trip blind box ulang tahun ini.
 
-Sekarang kalau lihat ke belakang Day 5, rasanya kayak:
+Sekarang kalau lihat lagi Day 5, rasanya kayak:
 
-「Gimana sih aku bisa bertahan hari itu🤣」.
+"Gimana sih hari ini bisa bertahan hidup 🤣"
 
-## Day 6｜Penyucian Air Suci, Makan Siang di Sawah, Mampir ke Rumah Sopir, dan Kejutan Upgrade Ulang Tahun 🎂
+## Day 6｜Penyucian Air Suci, Makan Siang di Sawah, Mampir ke Rumah Sopir, dan Kejutan Upgrade Kamar Ultah 🎂
 
-Hari keenam, ritme perjalanan benar-benar beda lagi dari hari-hari sebelumnya.
+Sampailah di hari keenam, ritme perjalanannya benar-benar beda lagi dari hari-hari sebelumnya.
 
-Kalau hari-hari sebelumnya kayak lagi menjelajahi Bali, hari ini lebih terasa seperti perlahan-lahan masuk ke kehidupan orang Bali.
+Kalau hari-hari sebelumnya tuh kayak lagi eksplorasi Bali,
+maka hari ini lebih terasa seperti perlahan-lahan masuk ke kehidupan sehari-hari orang Bali.
 
-Pagi berangkat dari Sanur, naik ke daerah pegunungan tengah, lalu turun lagi ke selatan menuju Jimbaran — ini hari perpindahan penting dalam perjalanan.
+Pagi berangkat dari Sanur, naik ke daerah pegunungan tengah, lalu turun lagi ke selatan menuju Jimbaran — ini bisa dibilang hari perpindahan penting dalam perjalanan ini.
 
 ***
 
-### 👋 Check-out, Pamit dari Sanur yang Udah Ditempatin Beberapa Hari
+### 👋 Check-out, pamit dari Sanur yang udah ditempatin beberapa hari
 
 Setelah sarapan santai, resmi check-out.
 
-Beberapa hari ini nginep di Sanur bener-bener nyaman banget, pantai, mal, tempat pijat, restoran semuanya hampir dalam jarak jalan kaki.
+Beberapa hari di Sanur beneran nyaman banget, pantai, mall, tempat pijat, restoran semuanya dalam jarak jalan kaki.
 
-Setelah barang-barang masuk mobil, artinya masa slow living ini selesai untuk sementara.
+Barang langsung naik ke mobil, artinya masa slow living ini selesai.
 
-Selanjutnya siap-siap balik ke alam, lanjutin itinerary healing hari ini.
+Sekarang siap balik ke alam, lanjutin itinerary healing hari ini.
 
 ***
 
 ### 🧘‍♀️ Taman Beji Griya Waterfall｜Ritual Penyucian Air Suci Lima Tahap
 
-Destinasi pertama sampai di tempat penyucian yang lagi populer beberapa tahun terakhir — Taman Beji Griya Waterfall.
+Destinasi pertama sampai di tempat penyucian yang lagi populer—Taman Beji Griya Waterfall.
 
 ![‍ Taman Beji Griya Waterfall｜五階段聖水淨化儀式](https://images.gobaligo.id/images/2026-06/1781016977848-beji.jpg)
 
@@ -758,81 +764,81 @@ Taman Beji Griya Waterfall (foto oleh Lai Jiaying)
 
 Yang paling terkenal di sini adalah 'Ritual Penyucian Air Suci Lima Tahap (Melukat)'.
 
-Beda sama air terjun biasa yang bisa dikunjungi sendiri, di sini seluruh prosesnya dipandu oleh petugas, mulai dari berdoa, membersihkan diri, sampai mandi air suci di setiap tahap — semuanya terasa sakral banget.
+Beda sama air terjun yang bisa dikunjungi sendiri, seluruh prosesnya dipandu oleh petugas, dari berdoa, membersihkan diri, sampai mandi air suci di setiap tahap, semuanya terasa sakral banget.
 
-Meskipun kamu bukan penganut agama tertentu, tetap bisa merasakan betapa pentingnya penyucian dan berkah dalam budaya Bali.
+Meskipun bukan penganut agama tertentu, kamu pasti bisa merasakan betapa pentingnya ritual pembersihan dan berkah dalam budaya Bali.
 
-Kalau kamu cewek dan mau ikut ritual, saran aku langsung pakai baju renang di dalam biar lebih praktis.
+Kalau kamu perempuan mau ikut upacara, saran sih langsung pakai baju renang di dalam biar lebih praktis.
 
-Selain Melukat, di area ini juga ada berbagai pengalaman penyembuhan khas Bali lainnya, seperti upacara pemberkatan, terapi energi, dan lain-lain. Tapi kebanyakan bayar tambahan ya.
+Selain Melukat, di area ini juga ada berbagai pengalaman penyembuhan khas Bali lainnya, seperti ritual pemberkatan, terapi energi, dan lain-lain. Tapi kebanyakan perlu bayar tambahan ya.
 
 > [Taman Beji Griya # Retret Jiwa & Pengalaman Penyembuhan Diri](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1299850&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F75759-retreat-self-healing-purification-trip-bali-aga-taman-beji-griya%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Df36411cfec)
 
-Suasananya dikelilingi hijau, ditambah suara air terjun dan gemericik air, bikin kita benar-benar merasa jauh dari hiruk-pikuk kota.
+Suasananya dikelilingi oleh pepohonan hijau, ditambah suara air terjun dan gemericik air, bikin kamu benar-benar merasa jauh dari hiruk-pikuk kota.
 
 ***
 
 ### 🍚 Catavaca Jatiluwih｜Makan Siang di Tengah Sawah Terasering Warisan Dunia
 
-Setelah upacara pemurnian selesai, kita lanjut perjalanan ke daerah pegunungan.
+Setelah ritual pembersihan selesai, perjalanan dilanjutkan ke daerah pegunungan.
 
-Siang ini kita makan di restoran dengan pemandangan Catavaca, yang terletak di dekat sawah terasering Jatiluwih.
+Siang harinya, makan siang di restoran dengan pemandangan sawah terasering Jatiluwih, namanya Catavaca.
 
 ![Catavaca Jatiluwih｜世界文化遺產梯田中的午餐](https://images.gobaligo.id/images/2026-06/1781016946446-jatiluwih.jpg)
 
 Catavaca Jatiluwih (foto oleh Lai Jiaying)
 
-Di depan mata terbentang sawah terasering Jatiluwih yang sudah diakui sebagai Warisan Dunia UNESCO.
+Di depan mata langsung terhampar sawah terasering Jatiluwih yang sudah diakui sebagai Warisan Dunia.
 
 Jatiluwih Rice Terraces
 
-Dibandingkan dengan Tegallalang, tempat ini jauh lebih sedikit sentuhan komersialnya, dan terasa lebih luas serta tenang.
+Dibandingkan Tegallalang, tempat ini jauh lebih sedikit fasilitas komersialnya, tapi lebih luas dan tenang.
 
-Sawah terasering ini membentang sampai ke kaki gunung di kejauhan, kelihatan seperti karpet hijau raksasa banget.
+Sawah terasering ini membentang sampai ke kaki gunung di kejauhan, kelihatan seperti karpet hijau raksasa.
 
 Hari ini aku pesan bubur khas Indonesia.
 
-Awalnya nggak berekspektasi tinggi, eh ternyata enak banget 😋
+Awalnya nggak berekspektasi banyak, tapi ternyata enak banget 😋
 
-Teksturnya lembut, pas dimakan bareng lauk-pauknya terasa pas di lidah — masakan yang kelihatan simpel tapi bikin nagih terus.
+Teksturnya lembut, pas dimakan bareng lauk-pauknya terasa pas banget di mulut—masakan yang kelihatan simpel tapi bikin nagih.
 
-Kadang kejutan kuliner paling seru di perjalanan bukan dari restoran terkenal, melainkan temuan kecil yang nggak terduga kayak gini.
+Kadang kejutan kuliner paling seru di perjalanan bukan dari restoran terkenal, tapi dari penemuan kecil yang nggak terduga kayak gini.
 
 ***
 
-### 🏠 Kejutan Dadakan｜Diundang Mampir ke Rumah Sopir
+### 🏠 Kejutan Seru｜Diundang Mampir ke Rumah Sopir
 
 Destinasi selanjutnya bisa dibilang salah satu pengalaman paling spesial sepanjang perjalanan.
 
 Sopirku tiba-tiba dengan antusias ngajak aku mampir ke rumahnya.
 
-Jujur, kalau ini pertama kali ke Bali, mungkin aku nggak bakal berani nerima ajakan kayak gini.
+Jujur sih, kalau ini pertama kali ke Bali, gue mungkin nggak bakal berani iya-in. 
 
-Tapi karena udah akrab selama beberapa hari ini, akhirnya aku putuskan buat ikut lihat-lihat.
+Tapi karena udah beberapa hari bareng-bareng dan udah cukup akrab, akhirnya gue mutusin ikut aja lihat-lihat. 
 
-Setelah sampai, baru sadar ini bukan pengalaman yang bisa didapat turis biasa. 
+Pas sampai di sana, baru sadar kalau ini bukan pengalaman yang gampang dijangkau turis biasa. 
 
-Sopirnya ngajak aku lihat tata ruang rumah tradisional Bali, jelasin tentang tempat sembahyang keluarga, halaman, dan ruang tinggal anggota keluarga. 
+Supirnya ngajak gue keliling rumah tradisional Bali, nunjukin tempat sembahyang keluarga, halaman, dan ruang tinggal anggota keluarga. 
 
-Bener-bener beda sama Bali yang dilihat di hotel atau tempat wisata. 
+Bener-bener beda banget sama Bali yang biasa dilihat di hotel atau tempat wisata. 
 
 Ini kehidupan asli. 
 
-Ibu si sopir jualan toko kecil. 
+Mama dari supir itu jualan di warung kecil. 
 
-Begitu lihat tamu datang, langsung keluarin minuman dan camilan buat traktir. 
+Begitu lihat ada tamu datang, langsung keluarin minuman dan camilan buat disuguhin. 
 
-Meskipun bahasa nggak terlalu nyambung, tetap bisa ngerasain keramahan yang luar biasa. 
+Meskipun bahasa nggak terlalu nyambung, tapi keramahannya berasa banget. 
 
-Yang lebih bikin kaget, mereka malah ngajak aku makan malam bareng. 
+Yang lebih bikin kaget, mereka malah ngajak gue buat makan malam bareng.
 
-Sikap ramah tamah yang tanpa pamrih itu bikin aku terharu banget. 
+Sikap ramah yang tulus banget itu bikin hati tersentuh.
 
-Kadang kenangan paling berharga saat traveling bukan dari tempat wisata, tapi dari orang-orangnya sih.
+Kadang kenangan paling berharga saat traveling bukan soal tempat, tapi orang-orangnya.
 
 ***
 
-### 🐟 Warung Ikan Legendaris di Kuta｜Sederhana tapi Bikin Kangen
+### 🐟 Sup Ikan Legendaris Kuta｜Sederhana Tapi Bikin Nagih
 
 Sebelum makan malam, mampir dulu ke Kuta buat nyobain sup ikan di warung legendaris lokal.
 
@@ -842,69 +848,69 @@ Disediakan oleh Lai Jiaying
 
 Sup ikan khas Bali beda banget sama yang biasa kita temui di Indonesia.
 
-Dimasak dengan berbagai rempah lokal, jadi nggak ada amisnya sama sekali.
+Dimasak dengan berbagai rempah lokal, sama sekali nggak amis.
 
-Kaldunya manis alami, ada sensasi asam pedas di akhir — bikin nagih dan buka selera.
+Kaldunya manis gurih, ada aftertaste sedikit asam pedas, bikin selera makan langsung naik.
 
-Setelah seharian keliling, nyeruput semangkuk sup ikan hangat tuh kayak ngecas ulang tenaga dalam sekejap.
+Setelah seharian keliling, minum semangkuk sup ikan hangat tuh rasanya kayak badan langsung dicharge penuh.
 
 ***
 
 ### 🛍️ Belanja Terakhir｜Waktunya Borong Oleh-Oleh
 
-Menjelang akhir perjalanan, pasti nggak lengkap tanpa sesi belanja terakhir.
+Menjelang akhir perjalanan, pastinya nggak boleh ketinggalan belanja terakhir.
 
-Sekalian balik ke Kuta, buruan mampir ke toko langganan buat nambah stok oleh-oleh.
+Sambil balik ke Kuta, buruan mampir ke toko langganan buat restock.
 
 ![最後衝刺｜伴手禮補貨時間](https://images.gobaligo.id/images/2026-06/1781017192760-709578614_17952267126159785_222582433305496374_n.jpg)
 
-Disediakan oleh Lai Jiaying
+Dokumentasi: Lai Jiaying
 
-Semua jenis camilan, mi instan, kopi, bumbu dapur — semuanya masuk ke koper.
+Mulai dari aneka camilan, mi instan, kopi, sampai bumbu dapur — semuanya masuk koper.
 
-Setiap kali ke Bali, aku pikir udah cukup belanja.
+Setiap kali ke Bali, aku selalu merasa udah cukup belanja.
 
-Tapi pas mau pulang, tetap aja nggak tahan buat beli lagi 🤣
+Tapi pas mau pulang, tetap aja nggak tahan buat belanja lagi 🤣
 
 ***
 
-### 🏨 Kejutan Ultah｜Free Upgrade ke Kamar Sea View Super Besar
+### 🏨 Kejutan Ultah｜Naik Kelas Gratis ke Kamar Sea View Super Besar
 
-Malamnya check-in di Prabhu Jimbaran Bay Beach Resort.
+Malamnya nginep di Prabhu Jimbaran Bay Beach Resort.
 
 Jimbaran Bay Beach Resort & Spa by Prabhu
 
-Awalnya proses check-in biasa aja.
+Awalnya cuma check-in biasa aja.
 
 ![生日驚喜｜免費升等超大正海景房](https://images.gobaligo.id/images/2026-06/1781017265904-709707450_17952267105159785_2782423296135553890_n.jpg)
 
 Disediakan oleh Lai Jiaying
 
-Nggak taunya, pas resepsionis lihat paspor, tiba-tiba senyum dan bilang ke aku:
+Gak nyangka, pas resepsionis liat paspor, tiba-tiba dia senyum dan bilang ke aku:
 
-"Happy Birthday!"
+「Happy Birthday！」
 
-Terus dikasih tahu kalau hotelnya naikkan tipe kamar gratis.
+Terus ngasih tahu kalau hotelnya ngasih upgrade kamar gratis.
 
-Waktu itu udah seneng banget sih.
+Waktu itu aku udah seneng banget.
 
-Tapi pas beneran buka pintu kamar, kejutannya baru dimulai.
+Tapi pas pintu kamar beneran dibuka, kejutannya baru dimulai.
 
-Saat dorong pintu balkon, di depan mata langsung terhampar pemandangan laut tanpa penghalang.
+Saat dorong pintu balkon, di depan mata langsung kebentang pemandangan laut tanpa halangan.
 
 Matahari terbenam perlahan turun ke garis cakrawala.
 
-Warna oranye, pink, emas berpadu di langit dan permukaan laut.
+Warna oranye, pink, emas bercampur di langit dan permukaan laut.
 
-Saat itu rasanya beneran:
+Saat itu rasanya bener-bener:
 
-"Kado ulang tahun ini gede banget, ya."
 
-Perasaannya 🧡❤️
 
-Dan petualangan kejutan ulang tahun ini pun berakhir dengan senja terindah yang tak terduga.
+Ini kado ulang tahun yang gede banget sih.
 
-### Jimbaran Bay Beach Resort & Spa by Prabhu
+rasanya 🧡❤️
+
+Dan perjalanan blind box ulang tahun ini, di tengah kejutan yang nggak terduga, akhirnya menyambut senja yang paling indah.
 
 ![Jimbaran Bay Beach Resort & Spa by Prabhu](https://images.gobaligo.id/images/2026-05/1780130124419-591154787.jpg)
 
@@ -932,23 +938,23 @@ Dan petualangan kejutan ulang tahun ini pun berakhir dengan senja terindah yang 
 
 Cek ketersediaan kamar & harga: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5895863/jimbaran-bay-beach-resort-and-spa-by-prabhu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HdNQ95Gy)
 
-## Day 7｜Hari Santai di Jimbaran, Nggak Ada yang Dikejar 🌅
+Cek ketersediaan kamar & harga: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1195948) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5895863/jimbaran-bay-beach-resort-and-spa-by-prabhu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HdNQ95Gy)
 
-Sampailah di hari ketujuh, akhirnya nggak ada alarm, nggak ada buru-buru, dan nggak ada itinerary yang harus dipenuhi.
+## Day 7｜Hari santai di Jimbaran tanpa buru-buru 🌅
 
-Hari ini hampir sepenuhnya dihabiskan di Jimbaran, bener-bener masuk mode liburan.
+Sampailah di hari ketujuh, akhirnya nggak ada alarm, nggak ada kejar-kejaran, juga nggak ada itinerary yang harus dipenuhi.
 
 ![Day 7｜什麼都不趕的金巴蘭放空日](https://images.gobaligo.id/images/2026-06/1781017310221-709755031_17952267267159785_2854568791993111431_n.jpg)
 
-Dokumentasi: Lai Jiaying
+Hari ini hampir sepenuhnya dihabiskan di Jimbaran, bener-bener masuk mode liburan.
 
 ***
 
-### 🌅 Jalan-jalan di Pantai & Sarapan dengan Pemandangan Laut
+Dokumentasi: Lai Jiaying
 
-Pagi-pagi jalan-jalan di pantai, menikmati laut yang tenang dan matahari yang perlahan naik.
+Pagi-pagi jalan-jalan ke pantai, lihat laut yang tenang dan matahari yang perlahan naik.
 
-Balik ke hotel, sarapan sambil menikmati pemandangan laut — jarang-jarang bisa nggak mikir apa-apa, cuma pengin santai aja.
+Balik ke hotel sambil sarapan dan nikmatin pemandangan laut, jarang banget bisa gak mikir apa-apa, cuma pengin santai aja.
 
 ![海灘散步 ＆ 海景早餐](https://images.gobaligo.id/images/2026-06/1781017353975-hotel.jpg)
 
@@ -956,132 +962,132 @@ Disediakan oleh Lai Jiaying
 
 ***
 
-### 🔮 Pijat & Ngobrol dengan Pemangku Adat
+### 🔮 Pijat & Ngobrol dengan Pendeta Tradisional
 
-Awalnya pesan pijat relaksasi satu jam, lalu lanjut ketemu dan ngobrol sama pemangku adat setempat.
+Pertama-tama ambil pijat relaksasi satu jam, lalu mampir ngobrol sama pendeta tradisional setempat.
 
 Dia bilang:
 
-> "Kamu kebanyakan numpuk energi kacau, pikiran dan ide campur aduk, hati dan otak nggak selaras."
+> "Kamu terlalu banyak menumpuk energi kacau, pikiran dan ide, hati dan otak gak selaras."
 
 Terus dia nambahin lagi:
 
 > "Bukan kamu yang milih Bali, bukan juga Bali yang milih kamu, tapi jiwamu yang emang milik Bali."
 
-Pas denger itu langsung nggak kuat nahan ketawa 🤣🤣
+Denger itu langsung ketawa gak tahan 🤣🤣
 
-Tapi kalau dipikir-pikir, udah berkali-kali ke Bali, kayaknya ada benarnya juga sih.
+Tapi kalau dipikir-pikir lagi, udah berkali-kali ke Bali, sepertinya ada benarnya juga sih.
 
 ***
 
 ### 🏊 Sore Santai di Pool Bar
 
-Balik ke hotel, langsung ngumpet di pool bar sambil bengong.
+Balik ke hotel, langsung rebahan di pool bar sambil bengong.
 
 Sekalian ngobrol santai sama dua bule ganteng di sebelah, bahas traveling dan kehidupan.
 
-Tanpa rencana, tanpa tujuan — rasa santai kayak gini baru namanya liburan beneran.
+Tanpa rencana, tanpa tujuan — rasa santai kayak gini baru namanya liburan sejati.
 
 ***
 
-### 🌄 Lihat Sunset & Pesawat dari Atap
+### 🌄 Lihat Sunset dan Pesawat dari Atap
 
-Sore-sore naik ke rooftop hotel buat nikmatin welcome drink gratis dari hotel.
+Sore harinya naik ke rooftop hotel buat nikmatin welcome drink gratis dari hotel.
 
-Sambil lihat sunset Jimbaran, sambil ngeliatin pesawat take off dan landing.
+Sambil lihat sunset di Jimbaran, sambil terus ngamatin pesawat take off dan landing.
 
 ![頂樓看夕陽與飛機](https://images.gobaligo.id/images/2026-06/1781017390408-sunset.jpg)
 
-Disediakan oleh Lai Jiaying
+Dokumentasi: Lai Jiaying
 
-Setiap kali lihat pesawat landing atau take off, aku selalu ngucap dalam hati:
+Setiap kali lihat pesawat mendarat atau lepas landas, aku selalu ngomong dalam hati:
 
 **Safe landing.**
 **Safe flight.**
 
-Ini udah kayak kebiasaan kecilku setiap ke Bali sih.
+Ini udah kayak jadi kebiasaan kecilku setiap ke Bali.
 
 https://youtu.be/LUMJ11GGmUg
 
-Dokumentasi Lai Jiaying
+Dokumentasi: Lai Jiaying
 
 ***
 
 ### 🍜 Makan Malam Ultah di Bakmi Akiu
 
-Malam itu, teman lokal sengaja naik motor dari rumahnya untuk merayakan makan malam ulang tahunku bareng.
+Malam itu, temen lokal sengaja naik motor dari rumahnya buat rayain makan malam ultah bareng.
 
-Baru sadar setelah ngobrol, ternyata perjalanan pulang-perginya butuh lebih dari empat jam.
+Setelah ngobrol, baru tahu kalau perjalanan pulang-perginya butuh lebih dari empat jam.
 
-Denger gitu, bikin meleleh banget sih 🥹
+Denger itu, beneran terharu banget sih 🥹
 
 ![Bakmi Akiu 生日晚餐](https://images.gobaligo.id/images/2026-06/1781017412891-713503823_17952447456159785_4819854100701852452_n.jpeg)
 
-Dokumentasi Lai Jiaying
+Dokumentasi: Lai Jiaying
 
-Makan malamnya di Bakmi Akiu, pesan mi daging. Berdua habis sekitar seratus ribuan IDR (kira-kira USD$3), sederhana tapi terasa hangat banget.
+Makan malemnya di Bakmi Akiu, pesen mi daging. Berdua habis sekitar seratus ribuan IDR (sekitar USD$6), sederhana tapi terasa banget kehangatannya.
 
-Abis makan, lanjut ngopi di Kopi Kenangan seberang jalan sambil ngobrol, biar momen langka ini terasa lebih lama.
+Setelah makan, kami lanjut ngopi di Kopi Kenangan seberang sambil ngobrol, memperpanjang momen kebersamaan yang langka ini.
 
 ***
 
 ### 🍹 Selamat malam, Jimbaran
 
-Balik ke hotel, duduk di balkon sambil pesan minuman.
+Balik ke hotel, sendirian di balkon sambil pesan minuman.
 
 https://youtu.be/tAU6seMhMUA
 
 Dokumentasi Lai Jiaying
 
-Sambil ngelamun nikmatin angin laut, tiba-tiba langit malam meledak dengan kembang api tanpa aba-aba.
+Sambil ngelamun diterpa angin laut, tiba-tiba langit malam meledak dengan kembang api tanpa aba-aba.
 
-Nonton satu per satu kembang api mekar dan lenyap di atas garis pantai, hati jadi agak campur aduk.
+Melihat satu per satu kembang api mekar dan lenyap di atas garis pantai, hatiku jadi agak campur aduk.
 
-Perjalanan ini hampir berakhir.
+Perjalanan ini hampir usai.
 
-Dan aku tahu, hari-hari meninggalkan Bali mulai dihitung mundur lagi. 🌴✨
+Dan aku sadar, hari-hari meninggalkan Bali mulai dihitung mundur lagi. 🌴✨
 
-## Day 8｜Pulang dengan penuh kehangatan, siap balik 🤍
+## Day 8｜Bawa pulang kehangatan, siap pulang 🤍
 
-Tanpa terasa, trip blind box ulang tahun ini udah sampai di hari terakhir.
+Gak terasa, perjalanan blind box ulang tahun ini udah sampai di hari terakhir.
 
-Dibanding hari-hari sebelumnya yang penuh petualangan dan eksplorasi, hari ini lebih kayak perpisahan yang pelan-pelan.
+Kalau dibandingin sama hari-hari sebelumnya yang penuh perjalanan dan eksplorasi, hari ini lebih terasa seperti perpisahan yang pelan.
 
 ![Day 8｜帶著滿滿的溫暖，準備回家](https://images.gobaligo.id/images/2026-06/1781018347318-714084897_17952467418159785_6469494201020115694_n.webp)
 
-Disediakan oleh Lai Jiaying
+Foto oleh Lai Jiaying
 
 ***
 
-### 🍳 Sarapan dengan Pemandangan Laut Terakhir
+### 🍳 Sarapan dengan pemandangan laut yang terakhir
 
-Pagi ini sarapan bareng Kak Vicky.
+Pagi ini aku sarapan bareng Kak Vicky.
 
-Sambil makan, ngobrolin pengalaman seru yang terjadi beberapa hari ini, dan perubahan perasaan yang nggak terduga selama perjalanan.
+Sambil makan, kita ngobrolin pengalaman seru yang terjadi beberapa hari ini, dan perubahan perasaan yang gak terduga selama perjalanan.
 
-Ada hal-hal yang saat itu belum tentu ada jawabannya, tapi kalau dilihat ke belakang, pasti ada alasan kenapa hal-hal itu muncul dalam hidup.
+Ada beberapa hal yang saat itu belum tentu ada jawabannya, tapi pas dilihat ke belakang, selalu ada alasan kenapa hal-hal itu muncul dalam hidup.
 
 ***
 
-### 🌅 Melihat Garis Pantai Jimbaran Sekali Lagi
+### 🌅 Pandang sekali lagi garis pantai Jimbaran
 
-Setelah membereskan barang, sengaja naik lagi ke atap hotel.
+Setelah membereskan barang, aku sengaja naik lagi ke atap hotel.
 
-Melihat garis pantai Jimbaran yang sudah familiar, tiba-tiba jadi agak berat hati.
+Melihat garis pantai Jimbaran yang udah akrab di mata, tiba-tiba jadi agak berat buat ninggalin.
 
-Setiap kali ke Bali rasanya begini.
+Setiap kali ke Bali, rasanya selalu begini.
 
-Padahal belum pergi, tapi udah mulai kangen.
+Padahal belum pergi, udah mulai kangen.
 
 ***
 
 ### ☕ Secangkir Kopi, Sebuah Kehangatan yang Berlanjut
 
-Setelah check-out dari hotel, aku mampir ke kafe buat ketemu [Kak Candy, orang Taiwan](https://www.threads.com/@risingsunbali) yang punya sekolah surfing di Kuta.
+Setelah check out dari hotel, aku mampir ke kafe untuk ketemu [Kak Candy, orang Taiwan](https://www.threads.com/@risingsunbali) yang punya sekolah surfing di Kuta.
 
 Aku kasih langsung baju-baju yang sengaja kubawa dari Taiwan.
 
-Melihat baju-baju ini nantinya bisa jadi dukungan nyata buat warga lokal, rasanya ada kepuasan yang nggak bisa diungkapkan dengan kata-kata.
+Melihat baju-baju ini nantinya bisa jadi dukungan dan bantuan buat warga lokal, rasanya ada kepuasan yang nggak bisa diungkapkan dengan kata-kata.
 
 ![一杯咖啡，一份溫暖的延續](https://images.gobaligo.id/images/2026-06/1781018538958-713644445_17952467292159785_4041356232763675411_n.jpeg)
 
@@ -1089,58 +1095,58 @@ Dokumentasi: Lai Jiaying
 
 Sambil ngopi dan ngobrol, nggak ada rencana khusus.
 
-Tapi interaksi tulus antarmanusia kayak gini justru jadi penutup paling manis dari perjalanan ini.
+Tapi interaksi tulus antarmanusia kayak gini justru jadi penutup paling indah di perjalanan kali ini.
 
 ***
 
-### 🛫 Dadah, Bali
+### 🛫 Sampai jumpa lagi, Bali
 
-Sesampainya di bandara dan selesai check-in, aku masih duduk di dekat jendela sambil lihat pesawat take-off dan landing.
+Setelah sampai di bandara dan selesai check-in, aku tetap duduk di dekat jendela sambil melihat pesawat lepas landas dan mendarat.
 
-Pesawat satu per satu perlahan naik ke angkasa.
+Pesawat-pesawat itu perlahan naik ke angkasa.
 
-Pesawat-pesawat mendarat dengan selamat satu per satu.
+Pesawat-pesawat itu mendarat dengan selamat.
 
-Tetap aja nggak tahan buat motret mereka, sambil dalam hati bilang:
+Masih saja nggak tahan buat motret mereka, sambil dalam hati bilang:
 
 **Safe landing.**
 **Safe flight.**
 
 https://youtu.be/zYqmBggP_Lk
 
-Disediakan oleh Lai Jiaying
+Dokumentasi pribadi Lai Jiaying
 
 ***
 
-## ✨ Catatan Perjalanan 8 Hari Blind Box Ulang Tahun
+## ✨ Catatan Perjalanan 8 Hari Kejutan Ulang Tahun
 
-Selama 8 hari ini, yang paling berharga sebenarnya bukan tempat-tempat wisatanya.
+Selama 8 hari ini, yang paling banyak aku dapatkan sebenarnya bukan tempat wisatanya.
 
-Melainkan orang-orang yang ditemui di sepanjang jalan.
+Melainkan orang-orang yang kutemui di sepanjang jalan.
 
-Sopir ibu-ibu yang nyempitin tanganku dengan camilan dan minuman;
-Teman yang rela naik motor bolak-balik lebih dari 4 jam cuma buat nemenin aku makan mie ulang tahun;
-Dan kembang api ulang tahun yang tiba-tiba muncul di luar balkon tanpa ada rencana sama sekali.
+司機媽媽塞滿我雙手的零食和飲料；
+朋友願意騎車來回 4 個多小時，只為陪我吃一碗生日麵；
+還有那場毫無預警出現在陽台外的生日煙火。
 
-Sekarang kalau dipikir-pikir lagi, mungkin aku mulai paham sedikit maksud kata-kata pendeta itu.
+Teman rela naik motor bolak-balik 4 jam lebih, cuma demi nemenin aku makan mie ulang tahun;
 
-Bukan aku yang memilih Bali.
+Dan juga kembang api ulang tahun yang tiba-tiba muncul di luar balkon tanpa ada rencana sama sekali.
 
-Tapi keramahan orang-orang di sini yang bikin aku balik lagi dan lagi.
+Sekarang kalau aku lihat ke belakang, mungkin aku mulai paham apa yang dimaksud sama pendeta itu.
+
+apalagi karena pulau ini selalu membuatku bertemu banyak orang yang tulus dan hangat.
 
 Aku suka Bali, bukan cuma karena pemandangan laut, makanan enak, atau sunset-nya.
 
-Tapi lebih karena pulau ini selalu mempertemukanku dengan banyak orang yang tulus dan hangat.
-
-Yang tersisa dari perjalanan bukan cuma foto dan kenangan.
+Tapi lebih karena pulau ini selalu mempertemukan aku dengan orang-orang yang tulus dan hangat.
 
 ![8 天生日盲盒旅行後記](https://images.gobaligo.id/images/2026-06/1781018772429-713524159_17952467349159785_3829794102158038383_n.webp)
 
-Tapi juga momen-momen di mana kebaikan menyambutku.
+Yang tersisa dari perjalanan bukan cuma foto dan kenangan.
+
+Tapi juga momen-momen di mana aku ditampung dengan kebaikan.
 
 Dokumentasi: Lai Jiaying
-
-Makasih, Bali.
 
 {{block:遊記}}
 

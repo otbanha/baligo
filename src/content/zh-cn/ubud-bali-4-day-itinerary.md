@@ -15,8 +15,8 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: PENDING_RETRY_c0f09de00c15b637da6fc20e574299a2
-_translateAttempts: 2
+_srcHash: c0f09de00c15b637da6fc20e574299a2
+_translateIncomplete: true
 ---
 ![峇里島同一個地方待四天能玩什麼？四天烏布之旅程紀錄](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)
 
@@ -36,9 +36,9 @@ _translateAttempts: 2
 
 > [猴子森林优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dce3208bb81)
 
-[> 乌布猴子森林 & 德格拉朗私人游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
+> [乌布猴子森林 & 德格拉朗私人游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
 
-[> 乌布猴子森林＆秘境瀑布之旅（含专业拍摄服务）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
+> [乌布猴子森林＆秘境瀑布之旅（含专业拍摄服务）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
 
 ## 乡间漫游
 
@@ -54,7 +54,7 @@ _translateAttempts: 2
 
 最后一站，他们参观了巴厘岛最神圣的圣泉寺 Tirta Empul。正值满月之夜，庙内涌进大量当地教徒前来沐浴洁净，体现了独特的印度教信仰。在这个拥有千年历史的古迹中，他们被那份虔诚的氛围深深折服，更被庙方供应免费糖果水果的热情好客打动。
 
-[> Tirta Empul Temple身心洗礼 & 乌布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
+> [Tirta Empul Temple身心洗礼 & 乌布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
 
 > 人少很多的圣泉[乌布心灵之旅 & 净化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)）
 

@@ -5,7 +5,7 @@ description: >-
   YouTuber terkenal asal Hong Kong baru-baru ini pergi liburan ke Bali. Dia
   tinggal di sana selama lebih dari sepuluh hari dan mencoba berbagai aktivitas
   seru. Dalam videonya, dia merangkum lima hal wajib yang harus dilakukan di
-  Bali. Yuk, ikuti langkahnya dan rasakan pesona unik Pulau Dewata...
+  Bali. Yuk, ikuti langkahnya dan rasakan pesona unik Pulau Bali...
 pubDate: 2024-04-03T00:00:00.000Z
 pubHour: null
 category:
@@ -20,15 +20,14 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 update: 2026/05/22
 lang: id
-_srcHash: PENDING_RETRY_5be6d5e9cb41fd3e65e8d7224c55a774
-_translateAttempts: 1
+_srcHash: 5be6d5e9cb41fd3e65e8d7224c55a774
 ---
 
-YouTuber terkenal Hong Kong "[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)" baru-baru ini pergi liburan ke Bali. Dia tinggal di sana selama lebih dari sepuluh hari dan mencoba berbagai aktivitas seru. Dalam videonya, dia merangkum lima hal wajib yang harus dilakukan di Bali. Yuk, ikuti langkahnya dan rasakan pesona unik Pulau Dewata.
+YouTuber terkenal Hong Kong "[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)" baru-baru ini pergi liburan ke Bali. Dia tinggal di sana selama lebih dari sepuluh hari dan mencoba berbagai aktivitas seru. Dalam videonya, dia merangkum lima hal wajib yang harus dilakukan di Bali. Yuk, ikuti langkahnya dan rasakan pesona unik Pulau Bali.
 
 ## Pertama: Cobain Surfing
 
-Hal pertama yang wajib dilakukan adalah mencoba surfing. Mereka bertiga ambil les surfing di Canggu. Selain dapat les surfing selama dua jam, mereka juga bisa menikmati sunset Bali yang super cantik. Dia bilang sunset yang warna-warni itu susah banget dideskripsikan, gradasi warnanya jelas banget, dan ini sunset terindah yang pernah dia lihat.
+Hal pertama yang wajib dilakukan adalah mencoba surfing. Mereka bertiga ambil les surfing di Canggu. Selain dapat les selama dua jam, mereka juga bisa menikmati sunset Bali yang super cantik. Dia bilang sunset warna-warni itu susah banget dideskripsikan, gradasi warnanya jelas banget, dan ini adalah sunset paling indah yang pernah dia lihat.
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_20ce49c6aabeb8e1f730fc55e5760509.jpg)
 
@@ -40,65 +39,65 @@ Cuplikan video Crazy with YU芳婷
 
 ## Kedua: Check-in ke Pulau Lain
 
-Aktivitas kedua yang diperkenalkan adalah pergi ke pulau lepas Bali, Nusa Penida. Biar lebih cepat sampai ke Nusa Penida, mereka sengaja nginep di Sanur karena di sana ada dermaga, cuma butuh 30 menit naik kapal. Keesokan paginya, mereka ikut tur sehari penuh ke Nusa Penida. Destinasi pertama, Crystal Bay, adalah surga tersembunyi tanpa Wi-Fi yang benar-benar terisolasi. Mereka berniat menikmati surga dunia ini sepuasnya, melupakan semuanya untuk sementara. Setelah sampai, awalnya mereka kira rombongannya cuma 30-40 orang, tapi ternyata ada lebih dari 150 orang yang naik ke darat, kayak sekawanan bebek yang berhamburan. Tapi di luar dugaan, mereka malah dikasih mobil wisata kecil sendiri, empat orang per grup, jadi makin santai dan nyaman.
+Aktivitas kedua yang diperkenalkan adalah pergi ke pulau lepas Bali, Nusa Penida. Biar lebih cepat sampai ke Nusa Penida, mereka sengaja nginep di Sanur karena di sana ada dermaga, cuma butuh 30 menit naik kapal. Besok paginya, mereka ikut tur sehari penuh ke Nusa Penida. Destinasi pertama, Crystal Bay, adalah surga tersembunyi tanpa Wi-Fi yang benar-benar terisolasi. Mereka berniat menikmati surga dunia ini sepuasnya, sementara melupakan hiruk pikuk dunia. Sesampainya di sana, awalnya mereka kira rombongannya cuma 30-40 orang, tapi ternyata ada lebih dari 150 orang yang naik ke darat, kayak sekawanan bebek yang berhamburan. Namun, di luar dugaan, mereka dikasih mobil wisata kecil pribadi, satu grup berempat, jadi terasa lebih santai dan nyaman.
 
-> __BLOCK1__
+> {{block:penidaklook}}
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_1b9233724099bee74e549e2ed5f2f02f.jpg)
 
-Crazy with YU芳婷視頻截圖
+Cuplikan video Crazy with YU芳婷
 
-到了佩妮達島後,在Crystal Bay的沙灘上,她們優哉自在地吃著早餐、喝啤酒、與流浪狗玩耍。雖然她認為那裡的沙灘風景並不出眾,但水質清澈如同浪茄灣。接著,他們前往其他知名景點Angels Billabong和Broken Beach,雖然遊客眾多,但那邊的地質景觀依然十分震撼動人。最後,他們來到一處恐龍造型的寶藍色海灘,那兒的海水呈現漂亮的深淺漸層,使人不禁為之讚嘆。
+Sampai di Nusa Penida, di pantai Crystal Bay, mereka santai banget sarapan, minum bir, dan main sama anjing liar. Meskipun menurutnya pemandangan pantai di sana biasa aja, tapi airnya jernih banget kayak Long Ke Wan (浪茄灣). Lanjut, mereka ke tempat hits lain kayak Angels Billabong sama Broken Beach. Walaupun turisnya rame, formasi batunya tetap keren abis. Terakhir, mereka mampir ke pantai biru toska berbentuk dinosaurus — gradasi airnya cantik banget, bikin siapa aja pasti takjub.
 
 {{block:penidaguide}}
 
-## Menginap di Bamboo Villa Ketiga
+## 3. Nginep di Bamboo Villa
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_7f7af582f8b346ecfdebe57145ede528.jpg)
 
-Cuplikan video YU Fangting yang kocak banget
+Cuplikan video Crazy with YU芳婷
 
-Di Bali, cobain nginep di akomodasi yang beda dari biasanya juga wajib banget. Mereka nginep di vila bambu ala natural di Ubud, semalem cuma USD$258 udah dapet kolam renang pribadi, dapur, dan dua kamar tidur — super worth it! Desain vilanya unik banget, pas masuk langsung lihat kolam renang pribadi, ada area sofa di samping kolam yang bisa dipakai buat party kecil-kecilan. Lantai dua ada kamar mandi sendiri dengan kaca besar yang langsung menghadap ke area mandi outdoor, suasananya adem dan bikin betah. Dari balkon bisa lihat pemandangan gunung, tempat yang pas buat santai sambil ngopi atau minum-minum.
+Ngomongin liburan ke Bali, cobain nginep di tempat unik juga wajib sih. Mereka nginep di villa bambu ala-ala di Ubud, semalem cuma USD$258 udah dapet kolam renang pribadi, dapur, dan dua kamar tidur — worth it banget! Desain villanya kreatif, pas masuk langsung lihat kolam renang pribadi, ada area sofa di samping kolam yang cocok buat party kecil. Lantai dua punya kamar mandi sendiri dengan jendela kaca besar yang langsung ngadep ke area mandi alami — suasananya tenang dan bikin betah. Dari balkon bisa lihat pemandangan gunung, tempat asik buat ngopi atau minum-minum santai.
 
-> [Jelajahi 10 Villa Tree House/Bamboo Villa di Ubud yang Bikin Kamu Terpukau](/id/blog/ubud-treehouse-bamboo-villa-stays/)
+> [Jelajahi 10 Tree House / Bamboo Villa di Ubud yang Bikin Melongo](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
-## Keempat: Ayunan Bali
+## 4. Main Ayunan di Bali
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_34c80e7c49fa6780e9392935db7bcd05.jpg)
 
-Crazy with YU芳婷視頻截圖
+Cuplikan video Crazy with YU芳婷
 
-除欣賞美景,體驗盪鞦韆也是峇里必做之事。他們前往Aloha Ubud,那裡共有6個供人盪鞦韆拍照的打卡點,每個人只需200港幣的門票費用,更可租借各色婚紗裙拍攝夢幻婚紗照。工作人員會悉心指導姿勢和角度,務求捕捉最美一刻。雖然女生可以盪更久拍照,但男生只能短暫幾下,生怕發生危險。不過,安全繩會確保旅客的人身安全。
+Selain nikmatin pemandangan, cobain ayunan juga jadi aktivitas wajib di Bali. Mereka dateng ke Aloha Ubud, di sana ada 6 spot ayunan buat foto-foto. Tiket masuknya cuma USD$6 per orang, dan bisa sewa gaun pengantin warna-warni buat bikin foto prewedding impian. Stafnya bakal ngajarin pose dan sudut terbaik biar dapet momen paling cakep. Cewek bisa main ayunan lebih lama buat foto, tapi cowok cuma dikasih beberapa detik aja — takut kenapa-kenapa. Tapi tenang, tali pengaman udah pasti bikin aman.
 
-> 💰 想知道更多景點的參考票價嗎？**[峇里島門票票價總表](/id/tickets/)** 整理了 49 個熱門景點的即時參考價，並附 Klook／Trip.com 比價連結。
+> 💀 Mau tau harga tiket tempat wisata lainnya? **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** udah ngumpulin 49 harga referensi tempat hits, lengkap sama link perbandingan Klook / Trip.com.
 
 8 tempat ayunan paling terkenal di Bali:
 
-> [8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto & Panduan Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
+> [8 Rekomendasi Ayunan Hutan Terindah: Tips Sewa Gaun, Sudut Foto, dan Cara Hindari Keramaian](/id/blog/ubud-jungle-swings-photo-guide/)
 
-## Kelima: Air Terjun Hits
+## Kelima  Air Terjun Hits
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_d8055c47f3c5d016b36cdd1708e918f6.jpg)
 
-Cuplikan video dari Crazy with YU Fangting
+Cuplikan video Crazy with YU芳婷
 
-Perhentian terakhir adalah air terjun tersembunyi yang terkenal di Ubud. Mereka harus berjalan kaki melewati jalur kecil untuk melihat pemandangan air terjun yang megah, dan tempat itu penuh dengan orang yang berfoto. Namun, tempat ini menyediakan fasilitas dasar seperti loker, toilet, dan ruang ganti — sangat membantu. Hanya perlu 5 menit untuk sampai ke area foto air terjun. Staf di air terjun sangat profesional, mereka akan memandu sudut dan pose foto. Dia dengan senang hati memberi tip untuk mendapatkan sudut terbaik. Tips untuk foto berikutnya: jangan lupa bawa baju ganti, karena setelah berenang di air terjun bakal kedinginan.
+Perhentian terakhir adalah air terjun tersembunyi yang terkenal di Ubud. Mereka harus berjalan kaki melewati jalan setapak kecil untuk melihat pemandangan air terjun yang megah, dan tempat itu penuh dengan orang yang berfoto. Namun, tempat ini menyediakan fasilitas dasar seperti loker, toilet, dan ruang ganti, sangat membantu. Hanya butuh 5 menit untuk sampai ke area foto air terjun. Staf di air terjun sangat profesional, mereka akan mengarahkan sudut dan pose foto. Dia dengan senang hati memberi tip untuk mendapatkan sudut terbaik. Lain kali kalau foto, dia saranin bawa baju ganti, soalnya abis main air di air terjun bakal kedinginan.
 
 https://youtube.com/shorts/w-gzis-G6OI
 
-Ubud nggak cuma terkenal sama budaya dan seninya, tapi juga punya pemandangan alam yang bikin speechless — salah satunya air terjun yang wajib dikunjungi. Tiga air terjun terkenal di sekitar Ubud: Tegenungan, Kanto Lampo, dan Tukad Cepung. Cek [panduan lengkap tiga air terjun terkenal di sekitar Ubud di sini](/id/blog/ubud-waterfalls-guide/)
+Ubud nggak cuma terkenal sama budaya dan seninya, tapi juga punya pemandangan alam yang bikin speechless, salah satunya air terjun yang wajib dikunjungi. Tiga air terjun terkenal di sekitar Ubud: Air Terjun Tegenungan, Air Terjun Kanto Lampo, dan Air Terjun Tukad Cepung. Cek [panduan tiga air terjun terkenal di sekitar Ubud di sini](/id/blog/ubud-waterfalls-guide/)
 
-Air terjun adalah tempat yang pas buat eksplorasi keindahan alam sekaligus dapetin foto IG yang aesthetic. Jauh dari hiruk-pikuk kota, jalan setapak di tengah hutan hijau bikin kamu serasa masuk ke dunia rahasia. Berdiri di depan air terjun, percikan air dan derasnya aliran bikin kamu merasakan kekuatan alam yang luar biasa.
+Air terjun adalah tempat yang pas buat eksplorasi keindahan alam atau hunting foto IG yang kece. Jauh dari hiruk-pikuk kota, jalan-jalan di jalur setapak yang dikelilingi hutan hijau bikin kamu serasa masuk ke dunia rahasia. Berdiri di depan air terjun, percikan air dan derasnya aliran bikin kamu ngerasa kekuatan alam yang luar biasa.
 
-> [Hidden Canyon & Tegenungan Waterfall Adventure Day Trip](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F28599-hidden-canyon-tegenungan-waterfall-goa-gajah-full-day-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D41c518ada3)
+> [Petualangan Sehari Hidden Canyon & Air Terjun Tegenungan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F28599-hidden-canyon-tegenungan-waterfall-goa-gajah-full-day-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D41c518ada3)
 
-> [Tukad Cepung Waterfall Day Trip & Jungle Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16085-tukad-cepung-waterfall-jungle-swing-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6d4374e95)
+> [Tur Sehari Air Terjun Tukad Cepung & Ayunan Hutan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16085-tukad-cepung-waterfall-jungle-swing-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6d4374e95)
 
-> 彭[里普蘭村＆Kanto Lampo 瀑布一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
+> [Penglipuran Village & Kanto Lampo Waterfall Day Trip](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
 
 {{block:ubud}}
 
-Lewat tur seru dan penuh warna di Bali ini, Crazy with YU芳婷 nggak cuma nyobain surfing dan lihat pemandangan alam yang keren, tapi juga nginep di villa kece, main ayunan buat foto prewedding yang estetik — itinerary-nya padat dan seru banget. Dia juga ngasih bocoran, di episode selanjutnya bakal ajak kamu intip dunia bawah laut yang memukau, diving eksplor kapal karam dan patung Buddha. Dijamin, sharing seru ini bakal bikin makin banyak orang pengen liburan ke Bali.
+Lewat tur seru dan penuh warna di Bali ini, Crazy with YU芳婷 nggak cuma nyobain surfing dan lihat pemandangan alam yang keren, tapi juga nginep di villa kece, main ayunan buat foto prewedding yang aesthetic. Jadwalnya padat tapi seru banget! Dia juga ngasih bocoran, di episode selanjutnya bakal ajak kamu intip dunia bawah laut yang mempesona, diving lihat bangkai kapal dan patung Buddha. Dijamin, cerita seru ini bakal bikin makin banyak orang pengen liburan ke Bali.
 
 ## Konten Video Crazy with YU芳婷:
 

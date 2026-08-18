@@ -1,7 +1,7 @@
 ---
 title: >-
   Bali 5 Hari 4 Malam Trip Bebas (Bagian 2): Seminyak, Ubud, Kuliner, Villa,
-  Hutan Monyet Catatan Lengkap
+  Monkey Forest Cerita Lengkap
 slug: 5d4n-bali-jimbaran-seminyak-ubud
 description: >-
   Trip bebas Bali 5 hari 4 malam bagian kedua, sharing itinerary Seminyak dan
@@ -44,25 +44,24 @@ shuffle_h2: false
 embeds: []
 updatedDate: 2026-07-23T00:00:00.000Z
 lang: id
-_srcHash: PENDING_RETRY_1367d730124fe75f9215888629a173c5
-_translateAttempts: 2
+_srcHash: 1367d730124fe75f9215888629a173c5
 ---
 
-**Ringkasan Penting**: Ini adalah bagian kedua dari catatan perjalanan Bali 5 hari 4 malam, rutenya **Seminyak → Ubud → Seminyak**. Poin-poin yang worth it untuk dicatat: **Kilo Kitchen** (restoran) di Seminyak, **Bintang Supermarket** (belanja oleh-oleh), Berry Amour Villa romantis; **Sangeh Monkey Forest** (hutan monyet) di Ubud, Sun Sun Warung dan Pak Malen Babi Guling (kuliner autentik), Ubud Traditional Spa. Untuk rute Jimbaran dua hari pertama dan imigrasi bandara, cek [bagian pertama](https://gobaligo.id/id/blog/2026-03-29-092243/).
+**Ringkasan Penting**: Ini bagian kedua dari catatan perjalanan Bali 5 hari 4 malam, rutenya **Seminyak → Ubud → Seminyak**. Titik-titik yang worth it untuk dicatat: Seminyak **Kilo Kitchen** (restoran), **Bintang Supermarket** (belanja oleh-oleh), Berry Amour villa romantis; Ubud **Sangeh Monkey Forest** (hutan monyet), Sun Sun Warung dan Pak Malen Babi Guling (kuliner autentik), Ubud Traditional Spa. Untuk rute Jimbaran dua hari pertama dan masuk bandara, cek [bagian 1](https://gobaligo.id/id/blog/2026-03-29-092243/).
 
 > Catatan perjalanan berikut diadaptasi dari postingan [YiShawn Huang](https://www.facebook.com/share/p/1DGMfZ4ZNV/)
 
-Kalau belum baca postingan sebelumnya, saran sih baca dulu **《**[**Bali 5 Hari 4 Malam Trip Bebas (Bagian 1)**](https://gobaligo.id/id/blog/2026-03-29-092243/)**》**, mulai dari tiba di Bali, sharing imigrasi bandara, penginapan Jimbaran, kuliner, sunset pantai, SPA, dan itinerary hari pertama & kedua, biar lebih nyambung bacanya.
+Kalau belum baca bagian sebelumnya, saran sih baca dulu **《**[**Bali 5 Hari 4 Malam Trip Bebas (Bagian 1)**](https://gobaligo.id/id/blog/2026-03-29-092243/)**》**, mulai dari tiba di Bali, sharing masuk bandara, penginapan Jimbaran, kuliner, sunset pantai, SPA, dan itinerary hari pertama dan kedua, biar lebih nyambung bacanya.
 
 ![峇里島五天四夜自由行（下）：水明漾、烏布、美食、Villa、猴子森林完整遊記](https://images.gobaligo.id/images/2026-06/1782646762456-_2026-06-28_18.38.54.png)
 
-[Klik sini buat lihat pengalaman menginap di Four Seasons Jimbaran bagian 1](https://gobaligo.id/id/blog/2026-03-29-092243/)
+[Klik saya untuk lihat pengalaman menginap di Four Seasons Jimbaran bagian 1](https://gobaligo.id/id/blog/2026-03-29-092243/)
 
-Bagian sebelumnya mostly jalan di rute **Jimbaran**, nginep di private Villa, nikmatin pemandangan laut, pijat, dan restoran khas, ritmenya santai banget, dan resmi memulai trip Bali yang udah ditunggu-tunggu ini.
+Bagian sebelumnya mostly jalan di rute **Jimbaran**, nginep di private villa, nikmatin pemandangan laut, pijat, dan restoran khas, ritmenya santai banget, dan resmi memulai perjalanan Bali yang udah ditunggu-tunggu ini.
 
 Nah, bagian ini adalah paruh kedua perjalanan.
 
-Kita bakal **pindah dari Jimbaran ke Seminyak**, nyobain banyak restoran khas yang bikin kagum, belanja oleh-oleh di **Bintang Supermarket**, lalu check-in di private Villa yang romantis. Abis itu lanjut ke **Sangeh Monkey Forest** buat interaksi dekat sama monyet, jalan-jalan di Ubud, nyobain masakan Indonesia asli, experience SPA, dan balik lagi ke Seminyak buat tutup trip bebas Bali 5 hari 4 malam ini dengan sempurna.
+Kita bakal **pindah dari Jimbaran ke Seminyak**, nyobain banyak restoran khas yang bikin kagum, belanja oleh-oleh di **Bintang Supermarket**, lalu check-in villa romantis private. Terus lanjut ke **Sangeh Monkey Forest** buat interaksi dekat sama monyet, jalan-jalan di Ubud, nyobain masakan Indonesia autentik, experience SPA, dan balik lagi ke Seminyak buat tutup trip bebas Bali 5 hari 4 malam ini dengan sempurna.
 
 Kalau kamu lagi rencanain **trip bebas Bali 5 hari 4 malam**, atau cari inspirasi itinerary **Seminyak, Ubud, kuliner, Villa, SPA**, semoga catatan perjalanan ini bisa kasih referensi yang berguna.
 
@@ -70,33 +69,33 @@ Lanjutan trip Bali 5 hari 4 malam! 🌴
 
 ## Hari Ketiga
 
-Kami meninggalkan Jimbaran menuju Seminyang yang ramai dan penuh vibe时尚. Hari ini nggak banyak tempat wisata, lebih fokus ke kuliner, belanja, dan jalan-jalan santai buat ngerasain pesona Seminyak yang beda banget dari area lain.
+Kami meninggalkan Jimbaran, menuju Seminyak yang ramai dan penuh vibe时尚. Hari ini nggak banyak tempat wisata, lebih fokus ke kuliner, belanja, dan jalan-jalan santai, biar bisa ngerasain pesona Seminyak yang beda banget dari area lain.
 
-Siangnya kita mampir ke **Kilo Kitchen** buat makan siang. Restoran fusion yang cukup terkenal ini menggabungkan elemen masakan Eropa, Amerika Latin, dan Asia dengan apik — tiap hidangan punya ciri khas sendiri.
+Siangnya kita makan di **Kilo Kitchen**, restoran fusion yang cukup terkenal. Mereka menggabungkan elemen masakan Eropa, Amerika Latin, dan Asia dengan apik, setiap hidangan punya ciri khas sendiri.
 
-Favorit kita adalah **Crab Dumplings** — kulitnya tipis lembut, isinya kayak pasta udang yang manis dan kenyal, teksturnya juara banget, wajib pesen pokoknya. Selain itu, **Taco Lidah Sapi** juga memorable banget, lidah sapi dimasak sampai empuk banget, dipadu tortilla jadi kaya rasa; **Risotto Cumi Hitam** dengan aroma seafood yang kuat, dan **Pasta Rendang Sapi** yang menggabungkan rempah rendang khas Indonesia dengan pasta — ternyata cocok banget. Kalau kamu suka coba-coba rasa unik, menurutku Kilo Kitchen worth it buat dicoba.
+Yang paling kita suka adalah **Crab Dumplings**, kulitnya tipis lembut, isinya kayak pasta udang yang manis dan kenyal, teksturnya bikin nagih, wajib pesen sih. Selain itu, **Taco Lidah Sapi** juga berkesan banget, lidah sapi dimasak sampai empuk, dipadu tortilla jadi kaya rasa; **Risotto Cumi Hitam** punya aroma seafood yang kuat, dan **Pasta Daging Rendang** menggabungkan rempah khas rendang Indonesia dengan pasta, ternyata cocok banget. Kalau kamu suka coba rasa beda, Kilo Kitchen worth it buat dicoba.
 
-Setelah kenyang, kita lanjut ke **Bintang Supermarket** buat beli oleh-oleh. Supermarket ini selalu jadi rekomendasi para backpacker, koleksi barangnya lengkap banget — dari snack, kopi, bumbu masak, sampai kebutuhan sehari-hari semua ada.
+Kenyang-kenyang, kita mampir ke **Bintang Supermarket** buat beli oleh-oleh. Tempat ini sering direkomendasiin traveler bebas, barangnya lengkap banget, dari snack, kopi, bumbu dapur, sampai kebutuhan sehari-hari ada semua.
 
-Kali ini kita beli **cokelat Woca**, bir Indonesia, **keripik kelapa Marubali**, kopi luwak, mi instan Indonesia, dan barang populer lainnya. Intinya, kalau waktu terbatas, di sini aja udah bisa borong semua oleh-oleh, nggak perlu muter-muter ke tempat lain — praktis banget buat itinerary.
+Kali ini kita beli **cokelat Woca**, bir Indonesia, **keripik kelapa Marubali**, kopi luwak, mi instan Indonesia, dan barang populer lainnya. Habis keliling, kesimpulannya: kalau waktu terbatas, di sini bisa borong sebagian besar oleh-oleh, nggak perlu muter-muter ke tempat lain, praktis banget buat atur jadwal.
 
-Lanjut ke **Seminyak Village** buat jalan-jalan. Meski nggak sebesar mal, tempatnya nyaman dan brand-brandnya berkualitas, cocok buat ngabisin sore santai.
+Lanjut jalan ke **Seminyak Village**. Walaupun nggak segede mal, tapi suasananya nyaman, brand-brandnya juga berkualitas, cocok buat sore santai.
 
-Di **Sensatia Botanicals** kita beli scrub wajah dan sabun cuci muka — produk perawatan alami mereka emang banyak direkomendasiin traveler, brand Bali yang populer. Abis itu mampir ke beberapa toko baju, lalu cari kafe buat istirahat sambil ngopi, nikmatin AC, dan beres-beres barang belanjaan.
+Di **Sensatia Botanicals** kita beli scrub wajah dan sabun cuci muka. Produk perawatan alami mereka udah banyak direkomendasiin traveler, jadi brand Bali yang populer. Abis itu mampir ke beberapa toko baju, lalu cari kafe buat istirahat, ngopi sambil AC-an, sambil beresin barang belanjaan.
 
-Kalau nggak berniat belanja gila-gilaan, **1–1,5 jam** di Seminyak Village udah cukup. Bisa santai keliling toko, ngopi, dan nikmatin suasana liburan Seminyak yang santai tapi tetap stylish.
+Kalau niatnya bukan belanja heboh, **1–1,5 jam** di Seminyak Village udah cukup. Bisa santai keliling toko, ngopi, dan nikmatin vibe Seminyak yang santai tapi tetap stylish.
 
-Setelah puas jalan-jalan di Seminyak, lanjut ke salah satu agenda yang paling aku tunggu-tunggu hari ini — check-in hotel kedua!
+Setelah puas jalan-jalan di Seminyak, lanjut ke salah satu agenda yang paling aku tunggu — check-in hotel kedua!
 
-Kali ini aku nginep di **Berry Amour Romantic Villas**, harga per malamnya sekitar USD$230. Villa ini memang didesain buat suasana romantis, cocok banget buat pasangan, suami-istri, atau yang lagi honeymoon.
+Kali ini aku nginep di **Berry Amour Romantic Villas**, harga per malam sekitar USD$230. Villa ini memang didesain buat suasana romantis, cocok banget buat pasangan, suami-istri, atau yang lagi honeymoon.
 
-Pas proses check-in, pihak hotel ngadain sambutan kecil yang penuh makna. Stafnya minta kita saling memasangkan gelang di tangan, dan juga nyiapin mahkota buat kita pakai sambil foto-foto. Walaupun agak malu-maluin, tapi bikin momen check-in jadi lebih berkesan.
+Pas check-in, pihak hotel ngasih sambutan kecil yang penuh makna. Stafnya minta kita saling memasangkan gelang, dan disediain mahkota buat foto-foto. Walaupun agak malu-maluin, momen ini bikin pengalaman check-in jadi lebih berkesan.
 
-Setelah semua urusan beres, stafnya anter kita naik golf cart menuju villa masing-masing. Dari pertama masuk kamar, udah langsung kerasa banget suasana liburan yang terisolasi dari dunia luar.
+Setelah urusan beres, staf anter kita naik golf cart menuju villa masing-masing. Dari pertama masuk kamar, udah langsung kerasa banget suasana liburan yang terisolasi dari dunia luar.
 
-Villa-nya juga punya kolam renang pribadi, dapur kecil, dan di sampingnya ada bak rendam kecil buat santai. Yang paling bikin puas, kamar mandinya ada di dalam ruangan — beda sama villa sebelumnya yang semi outdoor. Jadi nggak perlu khawatir kena angin, hujan, atau nyamuk pas mandi. Jauh lebih nyaman!
+Villa-nya juga punya kolam renang pribadi, dapur kecil, dan ada bak rendam kecil di sampingnya buat santai. Yang paling bikin puas, kamar mandinya ada di dalam ruangan — beda sama villa sebelumnya yang semi outdoor. Jadi mandi nggak perlu khawatir kena angin, hujan, atau nyamuk. Jauh lebih nyaman!
 
-Kalau harus milih satu dari dua villa yang kita tinggali selama trip ini, secara pribadi kita lebih suka **Berry Amour Romantic Villas**. Tata ruang, kenyamanan, dan suasananya lebih cocok sama selera kita.
+Kalau harus milih antara dua villa yang kita tinggali selama trip ini, secara pribadi kita lebih suka **Berry Amour Romantic Villas**. Tata ruang, kenyamanan, dan suasana romantisnya lebih cocok sama selera kita.
 
 ![第三天](https://images.gobaligo.id/images/2026-03/1774366773073-496455867.jpg)
 
@@ -118,143 +117,143 @@ Kalau harus milih satu dari dua villa yang kita tinggali selama trip ini, secara
 
 ![第三天](https://images.gobaligo.id/images/2026-03/1774366776561-496470436.jpg)
 
-Berry Amour Romantic Villas adalah kompleks villa bergaya romantis dengan rating bintang lima, total ada 20 villa, dan hanya menerima tamu pasangan serta tamu di atas 16 tahun. [Di sini](https://gobaligo.id/id/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) ada penjelasan lengkapnya.
+Berry Amour Romantic Villas adalah kompleks villa bergaya romantis dengan rating bintang lima, total 20 villa, dan hanya menerima tamu pasangan serta tamu di atas 16 tahun. [Di sini](https://gobaligo.id/id/blog/seminyak-private-villas-guide/#berry-amour-romantic-villas) ada info lengkapnya.
 
 > Cek harga & ketersediaan kamar Berry Amour Romantic Villas [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=444466) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981717&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zszFJMEk9YCZY1LfmywhRgOLiUKOhbZc1xcfmuDgefirRkx_0RSHAJ4ZjFe_Wq9gZNzI2H8IKFif67CDkekAI9MJxr36C5hm7PjMeoqFmeMExyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKz-b0Pu2e-WLTbiUdpZTU4mSgEJCVmJtfmlcCZJuaWOgZGABFShIrPFOUrMx1lJITc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrtXBdPnTRfOeNux5vqKVOJebUNvlhsS43LA29hELU3TsJxaGXywMTawMXawMk1iZOfbq72Jlc_Y3iXIKkVI0NDAwMDI1NTLXNUi0TASCJF0TSxNjAwtdQ2MjEwtjM43WsxtnPDU2spZinXLg-TR2BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWyGpsauRqZRNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WsyhwS6G4IRmIO0QaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoAOORmMs4CAAA&masterhotelid_tracelogid=100025527-0a9aaaab-494308-1324836&detailFilters=17%7C1~17~1*31%7C981717~31~981717*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/mGE2HtVB)
 
-Malam itu kita nggak keluar lagi, langsung aja pesan pakai **Grab** delivery, santap malam santai di villa. Kali ini pesan pizza, Pad Thai, dan tom yum. Selain antar cepat, harganya juga lebih murah dari yang dibayangin, dan rasanya enak-enak semua.
+Malam itu kami nggak keluar lagi, langsung aja pesan pakai **Grab** dan dinner santai di villa. Kami pesan pizza, Pad Thai, dan tom yum. Selain antar cepat, harganya juga lebih murah dari perkiraan, dan rasanya enak-enak semua.
 
 ![第三天](https://images.gobaligo.id/images/2026-06/1782548454843-pizza.jpg)
 
 (Dok. dr. Huang)
 
-Catatan editor: Kalau ke Bali, wajib banget cobain pizza di sini — tiap tempat rasanya enak semua!
+Catatan editor: Kalau ke Bali, wajib banget cobain pizza di sini. Tiap tempat jualan, semuanya enak!
 
-Kadang traveling nggak harus selalu ke tempat wisata. Diam di villa, berenang, makan enak, ngobrol santai — itu juga cara liburan yang nyaman banget. Buat kami, malam yang santai kayak gini malah jadi salah satu kenangan paling rileks selama perjalanan ke Bali.
+Kadang traveling nggak harus terus-terusan datengin tempat wisata. Diam di Villa, berenang, makan enak, santai sambil ngobrol—itu juga cara liburan yang nyaman banget. Buat kita, malam yang santai kayak gini malah jadi salah satu kenangan paling rileks selama perjalanan ke Bali.
 
 {{block:smk}}
 
 ## Hari Keempat
 
-Hari keempat, kami booking mobil seharian buat eksplorasi daerah tengah Bali. Tapi sebelum berangkat, pastinya nggak boleh skip floating breakfast dari villa!
+Hari keempat, kita booking mobil sewaan seharian, siap-siap eksplorasi tempat-tempat seru di tengah Bali. Tapi sebelum berangkat, jangan sampai kelewatan Floating Breakfast yang disediain Villa!
 
-Meskipun sarapan di villa ini secara keseluruhan nggak seenak villa sebelumnya, tapi kalau nginep di villa, tetap recommended buat nyobain floating breakfast sekali. Nampan makanan ditaruh di kolam renang, sambil sarapan dan foto-foto — bener-bener ada vibe liburannya. Tapi kalau soal rasa, yang paling kami suka malah buburnya — rasanya lumayan enak dan bikin sarapan ini makin worth it.
+Meskipun sarapan di Villa ini secara keseluruhan nggak seenak Villa sebelumnya, tapi kalau udah nginep di Villa, wajib coba sekali pengalaman floating breakfast. Naro piring di atas kolam renang, sambil sarapan dan foto-foto—bikin liburan makin berasa. Tapi kalau soal rasa, yang paling kita suka malah buburnya. Rasanya ternyata enak banget, bikin sarapan ini makin worth it.
 
-Setelah kenyang, kita mulai perjalanan hari ini.
+Setelah kenyang, kita mulai perjalanan hari ini dengan mobil sewaan.
 
-Pertama, mampir ke **Sangeh Monkey Forest (Hutan Monyet Sangeh)**.
+Pertama, kita mampir ke **Sangeh Monkey Forest (Hutan Monyet Sangeh)**.
 
-Bicara soal hutan monyet di Bali, kebanyakan turis pasti langsung kepikiran Sacred Monkey Forest di Ubud. Tapi kali ini kami sengaja pilih Sangeh Monkey Forest. Keunggulan utamanya? Pengunjungnya lebih sedikit, jadi nggak terlalu ramai dan bisa lebih santai berinteraksi sama monyet-monyetnya.
+Bicara soal hutan monyet di Bali, kebanyakan turis pasti langsung kepikiran Sacred Monkey Forest di Ubud. Tapi kali ini kita sengaja pilih Sangeh Monkey Forest. Keunggulan terbesarnya adalah pengunjungnya relatif lebih sedikit, jadi nggak terlalu ramai dan bisa lebih santai berinteraksi sama monyet-monyetnya.
 
-Begitu masuk area, ada pemandu lokal yang nemenin. Mereka kasih kita satu bungkus kacang, lalu ajak kita jalan-jalan ke dalam hutan. Pemandunya nggak cuma anter, tapi juga ngajarin cara kasih makan monyet yang benar, jelasin kebiasaan mereka, dan bagi-bagi tips penting soal interaksi sama monyet.
+Begitu masuk area, ada pemandu lokal yang nemenin. Mereka kasih kita satu bungkus kacang, lalu ngajak kita jalan-jalan masuk ke dalam hutan. Nggak cuma jadi penunjuk jalan, mereka juga ngajarin cara kasih makan monyet yang benar, jelasin kebiasaan hidup monyet, dan bagi-bagi tips penting soal interaksi sama mereka.
 
-Yang paling seru, pemandu sesekali bersuara khas buat narik perhatian monyet. Nggak lama, monyet-monyet langsung lompat ke pundak, lengan, atau pohon di dekat kita — jadi makin banyak kesempatan buat interaksi dan foto. Prosesnya alami banget, dan keliatan kalau pemandunya udah akrab banget sama kawanan monyet di sini.
+Yang paling seru, pemandu sesekali ngeluarin suara khusus buat narik perhatian monyet. Nggak lama, monyet-monyet langsung lompat ke pundak, lengan, atau pohon di dekat kita—bikin momen interaksi dan foto makin banyak. Semuanya terasa alami, dan keliatan banget kalau pemandu udah akrab banget sama kawanan monyet ini.
 
 ![第四天](https://images.gobaligo.id/images/2026-06/1782548550073-mixcollage-27-jun-2026-03-16-pm-9129.jpg)
 
-(Dokter Huang menyediakan)
+(Dok. dr. Huang)
 
-Kami benar-benar suka banget sama paket wisata ini. Seluruh pengalamannya sekitar satu jam, nggak terlalu lama dan juga nggak bikin buru-buru. Kalau kamu mau menghindari keramaian di Ubud Monkey Forest, menurutku tempat ini worth it banget buat dipertimbangkan.
+Kami benar-benar suka banget sama itinerary ini, total pengalaman sekitar satu jam, nggak terlalu lama, juga nggak bikin terburu-buru. Kalau kamu mau menghindari keramaian di Monkey Forest Ubud, menurutku tempat ini worth it banget buat dipertimbangkan.
 
-Tiket masuk kali ini sekitar **USD$10**, dan kami juga beli satu foto kenang-kenangan yang diambil di area taman, plus kasih tip ke pemandu, total habis sekitar **USD$6**. Secara keseluruhan, kami rasa pengalaman ini sangat sepadan dan jadi salah satu tempat yang paling berkesan selama perjalanan.
+Tiket masuk kali ini kira-kira setara USD **10**, terus kami juga beli satu foto kenang-kenangan yang diambil di area taman, plus kasih tip ke pemandu, total habis sekitar **USD 6** lagi. Secara keseluruhan, kami rasa pengalaman ini sangat worth it, dan jadi salah satu spot paling berkesan di perjalanan ini.
 
-> Mau cek budget dulu sebelum berangkat? **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** berisi harga tiket referensi real-time untuk tempat-tempat populer, biar gampang bandingin diskon Klook / Trip.com.
+> Mau hitung budget dulu sebelum berangkat? **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** udah ngumpulin referensi harga tiket terbaru dari spot-spot populer, biar gampang bandingin promo Klook / Trip.com.
 
 https://youtube.com/shorts/tpPWsvsH-Eo
 
 Setelah meninggalkan **Sangeh Monkey Forest**, kami lanjut menuju salah satu kawasan paling populer di perjalanan ini — Ubud.
 
-Siang hari kami mampir makan di **Sun Sun Warung**, restoran Indonesia murah yang direkomendasikan banyak wisatawan. Suasana restorannya sederhana, tapi makanannya berkualitas dan harganya ramah banget di kantong.
+Siang hari kami mampir makan di **Sun Sun Warung**, restoran Indonesia murah meriah yang banyak direkomendasikan traveler. Suasana restorannya sederhana, tapi makanannya berkualitas dan harganya ramah banget di kantong.
 
-Kami pesan **nasi bebek goreng** andalan mereka dan **Mie Goreng**, dua-duanya bikin puas. Bebek gorengnya renyah di luar, dagingnya tetap empuk, makin enak kalau dimakan bareng sambal Indonesia; Mie Goreng-nya penuh aroma khas Nusantara, gurih dan pas tanpa terlalu berminyak. Berdua aja habis sekitar **USD$16**, buat ukuran Ubud sih CP-nya tinggi banget. Kalau kamu suka masakan Indonesia asli, wajib coba ke sini.
+Kami pesan **Nasi Bebek Goreng** andalan dan **Mie Goreng**, dua-duanya bikin puas. Bebek gorengnya kulitnya renyah, dagingnya tetap empuk, makin mantap kalau dicocol sambal Indonesia; Mie Goreng-nya penuh aroma khas Nusantara, gurih dan sedap tanpa terlalu berminyak. Berdua aja habis sekitar **USD 16**, buat ukuran Ubud sih CP-nya tinggi banget. Kalau kamu suka masakan Indonesia autentik, wajib coba deh.
 
 {{block:美食}}
 
-Setelah kenyang, kami jalan-jalan santai di pusat kota Ubud, menyusuri jalanan ramai sambil mampir ke **Puri Ubud** yang terkenal. Jalanan Ubud dipenuhi toko unik, kerajinan tangan, dan kafe, suasananya bikin liburan makin terasa.
+Setelah kenyang, kami jalan-jalan santai di pusat Ubud, menyusuri jalanan ramai sambil lihat-lihat, sekalian mampir ke **Ubud Palace** yang terkenal. Jalanan Ubud dipenuhi toko-toko unik, kerajinan tangan, dan kafe, suasananya bikin liburan makin terasa.
 
 Tapi, cuaca hari itu panas banget, nggak lama jalan kami langsung mutusin cari tempat buat ngadem.
 
-Kami mampir ke **Tukies Coconut Shop**, toko dessert kelapa yang cukup terkenal. Meskipun nggak ada AC, mereka punya berbagai minuman dan makanan manis berbahan kelapa, cocok banget buat istirahat di siang yang terik.
+Kami mampir ke **Tukies Coconut Shop**, toko dessert kelapa yang cukup terkenal. Meskipun nggak ada AC, mereka menyediakan berbagai minuman dan dessert berbahan dasar kelapa, cocok banget buat istirahat siang yang panas.
 
-Kali ini kami pesan **es kelapa, minuman kelapa lemon, dan Americano**. Minuman seri kelapa yang dingin-dingin ini rasanya super segar, langsung ngusir panas. Kalau kamu lagi jalan-jalan di Ubud dan udah berkeringat, mampir aja ke sini buat ngisi cairan sambil istirahat.
+Kali ini kami pesan **Es Kelapa, Lemon Kelapa, dan Americano**, minuman kelapa yang dingin-dingin bikin segar langsung, panas langsung hilang. Kalau kamu jalan-jalan di Ubud sampai keringetan, mampir sini dulu buat isi cairan dan istirahat.
 
-> [【Ubud Wajib Dikunjungi】Puri Ubud: Permata Budaya dan Sejarah Bali | Jam Buka, Tiket Masuk, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](https://gobaligo.id/id/blog/ubud-royal-palace-tour-guide/)
+> [【Wajib Kunjungi di Ubud】Ubud Palace: Permata Sejarah dan Budaya Bali｜Jam Buka, Tiket, Jadwal Pertunjukan, Tempat Sekitar, Rekomendasi Tur Sehari](https://gobaligo.id/id/blog/ubud-royal-palace-tour-guide/)
 
-Setelah istirahat, kami menemukan sebuah toko yang menjual **Kopi Luwak**. Yang paling spesial, di sini kami bisa berinteraksi langsung dengan musang luwak asli!
+Setelah istirahat, kami nemu lagi satu tempat yang jual **Kopi Luwak**. Yang paling spesial, di sini kita bisa interaksi langsung sama luwak aslinya!
 
 ![第四天](https://images.gobaligo.id/images/2026-06/1782548311880-luwak.jpg)
 
-Musang luwak di toko ini ukurannya lebih besar dari yang dibayangkan, sekitar **10 kg**. Stafnya bahkan mengizinkan kami menggendongnya untuk berfoto, benar-benar pengalaman yang unik.
+Luwak di sini ukurannya lebih gede dari yang dibayangin, sekitar **10 kilogram**. Stafnya juga ngajak kita foto sambil gendong luwak — pengalaman yang cukup unik banget.
 
-Tentu saja, karena sudah sampai, kami pun memesan secangkir Kopi Luwak untuk dicoba. Rasanya sangat lembut di mulut, rasa pahitnya tidak terlalu kuat, secara keseluruhan sangat enak. Ini juga jadi salah satu pengalaman yang banyak orang ingin coba saat ke Bali.
+Ya iyalah, udah sampai sini, kita pesan secangkir Kopi Luwak buat dicoba. Rasanya super smooth, pahitnya nggak berlebihan, overall enak banget di mulut. Ini kayak salah satu hal yang wajib dicoba pas di Bali.
 
-Setelah jalan-jalan, kaki mulai terasa pegal. Akhirnya kami mampir ke **Ubud Traditional Spa** di dekat sini untuk relaksasi.
+Jalan-jalan terus, kaki mulai protes. Akhirnya kita mampir ke **Ubud Traditional Spa** yang ada di dekat situ buat relaksasi.
 
-Kali ini kami memilih paket **Rice Farmer Massage**, yang terdiri dari **60 menit Rice Farmer Massage** ditambah **30 menit pijat kaki**. Harganya sekitar **USD$26** per orang.
+Kali ini kita ambil paket **Rice Farmer Massage**, isinya **60 menit Rice Farmer Massage** plus **30 menit pijat kaki**. Harganya sekitar **USD$26** per orang.
 
 ![第四天](https://images.gobaligo.id/images/2026-06/1782548370433-spa.jpg)
 
 (Dok. Dr. Huang)
 
-Tekanan pijatnya memang tidak sejitu SPA yang kami coba beberapa hari sebelumnya, tapi secara keseluruhan pelayanan, suasana, dan harganya cukup oke. Untuk standar harga di pusat kota Ubud, value for money-nya lumayan tinggi. Kalau kebetulan kamu punya rencana seharian penuh jalan-jalan dan keliling Ubud, diakhiri dengan pijat relaksasi lalu kembali ke hotel, menurutku itu itinerary yang sangat nyaman.
+Tekanan pijatnya emang nggak sedalam SPA yang kita coba beberapa hari lalu, tapi secara keseluruhan pelayanan, suasana, dan harganya oke banget. Buat standar di pusat Ubud, ini worth it banget. Kalau kamu rencanain sehari penuh jalan-jalan dan lihat tempat wisata di Ubud, ditutup dengan pijat relaksasi lalu balik ke hotel, menurutku ini itinerary yang nyaman banget.
 
-> [【Ringkasan】Rekomendasi SPA Terbaik di Bali, Pijat ke Kamar Lengkap, Dibagi Berdasarkan Area Biar Lebih Gampang Cari](https://gobaligo.id/id/blog/spa/)
+> [【Rangkuman】Rekomendasi SPA Terbaik di Bali, Pijat ke Kamar Lengkap — Dibagi per Area Biar Gampang Cari](https://gobaligo.id/id/blog/spa/)
 
 {{block:ubud}}
 
-Setelah selesai dengan agenda di Ubud, kami kembali ke Seminyak, siap menutup hari yang padat ini dengan makanan enak.
+Setelah selesai urusan di Ubud, kita balik ke Seminyak, siap-siap tutup hari yang padat ini dengan makanan enak.
 
-Makan malam kali ini pilih **Pison**, restoran western yang lagi hits banget. Menunya variatif, malem-malem ada live band juga. Suasananya santai banget, cocok buat dinner santai sama temen atau pasangan.
+Makan malam kita pilih **Pison**, restoran Western yang lagi hits banget. Menu variatif, malem-malem ada live music band, suasananya santai banget. Cocok buat dinner bareng teman atau pasangan.
 
-Begitu duduk, kita langsung pesan minuman andalan mereka, **Avocado Espresso**. Awalnya agak bingung gimana rasanya alpukat dicampur espresso, tapi pas nyobain, wih, bikin kaget! Alpukatnya creamy dan kopinya ternyata cocok banget. Wajib coba, sih, kalau ke sini.
+Begitu duduk, kami langsung pesan minuman andalan di sini, **Avocado Espresso**. Awalnya agak susah membayangkan kombinasi alpukat sama espresso, tapi begitu dicoba, beneran bikin kaget. Alpukat yang creamy dan lembut ternyata cocok banget sama aroma kopinya. Wajib coba kalau ada kesempatan!
 
-Untuk main course, kita pesen **Steak dengan Saus Jamur Truffle** dan **Pasta Carbonara dengan Kuning Telur Truffle**. Dua-duanya juara! Aroma truffle-nya kuat tapi nggak berlebihan, rasanya berlapis-lapis. Ditambah penampilan live band, bikin makan malam ini makin asyik dan jadi salah satu momen paling berkesan di perjalanan ini.
+Untuk menu utama, kami pesan **Steak dengan Saus Truffle Jamur** dan **Pasta Carbonara dengan Telur dan Truffle**. Dua-duanya berkualitas banget, aroma truffle-nya kuat tapi nggak berlebihan, rasanya penuh lapisan. Ditambah ada penampilan band live, bikin makan malam ini terasa super santai dan jadi salah satu momen paling berkesan di perjalanan ini.
 
 ***
 
 ## Hari Kelima
 
-Nggak terasa, udah sampai di hari terakhir liburan di Bali.
+Tanpa terasa, sampailah di hari terakhir perjalanan ke Bali.
 
-Hari ini nggak banyak rencana. Setelah check-out, kita minta sopir **Benny** buat bawa kita ke warung lokal rekomendasinya, **Warung Babi Guling Pak Malen**.
+Hari ini nggak ada rencana banyak. Setelah check-out, kami minta sopir **Benny** untuk bawa kami ke warung lokal rekomendasinya, **Warung Babi Guling Pak Malen**.
 
-Ini warung babi guling yang terkenal banget. Pas siang, hampir penuh terus, keliatan banget disukai sama lokal dan turis.
+Ini adalah restoran babi guling yang cukup terkenal. Menjelang siang, tempatnya penuh banget, keliatan banget kalau tempat ini disukai sama penduduk lokal maupun turis.
 
-Kita pesen satu porsi nasi babi guling andalan. Pas liat pertama, jadi inget nasi ayam khas Chiayi di Taiwan — sama-sama sepiring nasi simpel pake potongan daging dan lauk. Harganya kurang dari **USD$3**, murah banget.
+Kami pesan satu porsi nasi babi guling andalan. Pas lihat pertama kali, ini bikin saya ingat sama nasi ayam bakar khas Chiayi di Taiwan—sama-sama sepiring nasi sederhana dengan potongan daging dan lauk. Harganya kurang dari **USD 3**, murah banget.
 
-Tapi sayangnya, daging yang kita makan agak dingin, jadi teksturnya nggak sesuai ekspektasi. Overall sih biasa aja, nggak bikin wow. Tapi ya, setiap orang beda-beda. Kalau lagi di dekat situ, boleh dicoba buat ngerasain sendiri warung legendaris ini.
-
-***
-
-Di perjalanan menuju bandara, Benny sengaja ngasih kita nyobain minuman tradisional Indonesia favoritnya, **Arak**.
-
-Pas liat minuman ini dikemas dalam botol plastik, reaksi pertama sih agak curiga sama asal-usulnya (haha), tapi Benny bilang ini minuman tradisional yang umum banget, buatan lokal.
-
-Arak secara tradisional dibuat dari fermentasi dan distilasi nira kelapa atau bahan lainnya. Rasanya ada sedikit aroma beras dan alkohol yang ringan. Menurutku mirip sama tuak khas Taiwan, masuknya enak, nggak terlalu keras, ternyata lumayan enak juga. Ini jadi cara seru buat ngerasain budaya lokal Bali.
+Tapi kali ini dagingnya agak dingin, jadi teksturnya nggak sesuai ekspektasi, dan keseluruhan rasanya biasa aja. Tentu aja, setiap orang punya selera berbeda. Kalau kebetulan lagi di dekat sini, boleh sih mampir buat cobain restoran lokal yang terkenal ini.
 
 ***
 
-Trip **lima hari empat malam ke Bali** ini bener-bener ninggalin banyak kenangan indah buat kami.
+Dalam perjalanan ke bandara, Benny sempat ngeluarin minuman tradisional Indonesia yang dia rekomendasikan banget, namanya **Arak**, buat kami coba.
 
-Meskipun kami pergi di **musim hujan bulan Desember**, tapi selama perjalanan cuma satu hari aja hujan deras, nggak terlalu ganggu itinerary. Kali ini juga nggak sengaja nge-padetin jadwal tiap hari, malah banyak waktu santai, jadi liburannya terasa lebih nyaman.
+Pas lihat dikemas dalam botol plastik, reaksi pertama sih agak curiga sama asal-usulnya (haha). Tapi Benny bilang ini arak buatan lokal yang umum banget dan sering diminum.
 
-Kalau dilihat lagi, lima hari ini cuma menjelajah sebagian kecil dari Bali, tapi udah bikin kami jatuh cinta banget sama pulau ini.
+Arak tradisional dibuat dari fermentasi dan distilasi nira kelapa, rasanya ada sedikit aroma beras dan alkohol. Menurutku mirip tuak khas Taiwan — masuknya lembut, nggak terlalu keras, ternyata enak banget. Ini juga jadi cara seru buat merasakan budaya lokal Bali.
 
-Makanan di sini bikin pengen balik lagi, SPA dan pijatnya masih worth it banget, interaksi sama monyet di Monkey Forest dan luwak juga seru banget; dua Villa yang kami tinggali punya ciri khas masing-masing, semuanya recommended.
+***
+
+Liburan **5 hari 4 malam di Bali** ini bener-bener ninggalin banyak kenangan indah buat kami.
+
+Meskipun kami datang di **musim hujan bulan Desember**, selama perjalanan cuma satu hari aja hujan deras, jadi nggak terlalu ganggu itinerary. Kali ini kami juga nggak sengaja bikin jadwal padat, malah banyak waktu santai, jadi liburannya terasa lebih nyaman.
+
+Kalau dilihat lagi, 5 hari ini cuma menjelajah sebagian kecil Bali, tapi udah bikin kami jatuh cinta banget sama pulau ini.
+
+Makanannya bikin pengin balik lagi, SPA dan pijat masih worth it banget, interaksi sama monyet di Monkey Forest dan luwak juga seru; dua villa yang kami tinggali punya ciri khas masing-masing, semuanya recommended.
 
 ![第五天](https://images.gobaligo.id/images/2026-06/1782548632198-benny.jpg)
 
-(Dok. Dr. Huang)
+(Dok. dr. Huang)
 
-Terakhir, pengen banget rekomendasiin supir kami selama perjalanan, **Benny**. Selain antar-jemput yang aman, dia juga banyak cerita soal budaya dan kehidupan lokal, plus rekomendasi makanan dan pengalaman yang cuma diketahui warga lokal. Sepanjang perjalanan, kita bisa ngerasain perhatian dan tanggung jawabnya. Makanya, kami juga udah rekomendasiin dia ke beberapa teman buat sewa mobil, dan respon mereka semua bagus.
+Terakhir, aku juga mau rekomendasiin sopir kami selama perjalanan, **Benny**. Selain antar-jemput aman, dia juga cerita banyak soal budaya dan kehidupan lokal, plus rekomendasi makanan dan pengalaman yang cuma diketahui warga lokal. Sepanjang jalan, kita bisa lihat dia teliti dan bertanggung jawab. Makanya, kami juga udah rekomendasiin dia ke beberapa teman buat sewa mobil, dan semua kasih review bagus.
 
-Makasih udah baca sampai akhir, dan makasih juga udah ikut bernostalgia bareng kami lewat catatan perjalanan lima hari empat malam di Bali ini.
+Makasih udah baca sampai akhir, dan makasih juga udah ikut bernostalgia bareng catatan perjalanan 5 hari 4 malam di Bali ini.
 
-Kalau mau liat lebih banyak visualnya, jangan lupa tonton **video YouTube** kami, yang ngerekam lengkap destinasi, kuliner, akomodasi, dan proses perjalanan ini. Lebih dari foto, video ini bisa ngegambarin suasana liburan santai di Bali, dan pastinya bikin kamu makin paham soal trip ini.
+Kalau mau lihat lebih banyak visual, tonton juga **video YouTube** kami, yang lengkap merekam tempat wisata, kuliner, akomodasi, dan proses perjalanan. Lebih terasa suasana liburan santai Bali daripada foto aja. Dijamin bikin kamu makin paham soal trip ini.
 
-[https://youtu.be/9WZR6HlhByY?si=EnUK338-Hu5uKWTB](https://youtu.be/9WZR6HlhByY?si=EnUK338-Hu5uKWTB) Semoga catatan perjalanan ini bisa kasih inspirasi buat kamu yang lagi merencanakan liburan seru ke Bali. Nggak sabar nunggu petualangan berikutnya, kita eksplor lagi sudut-sudut cantik Bali yang lain. 🌴
+[https://youtu.be/9WZR6HlhByY?si=EnUK338-Hu5uKWTB](https://youtu.be/9WZR6HlhByY?si=EnUK338-Hu5uKWTB)
 
-希望這篇遊記，能為正在規劃峇里島自由行的你帶來一些靈感，也期待下一次，我們能一起探索更多峇里島不同角落的美好風景。🌴
+Semoga catatan perjalanan ini bisa kasih inspirasi buat kamu yang lagi merencanakan liburan seru ke Bali. Nggak sabar juga buat next trip, kita eksplor lagi spot-spot cantik di berbagai sudut Bali bareng-bareng. 🌴
 
 {{block:遊記}}
 

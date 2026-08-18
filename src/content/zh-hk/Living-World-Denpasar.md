@@ -32,13 +32,12 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: PENDING_RETRY_aa06a6265f5d16c02df1fcd6474c6b28
-_translateAttempts: 1
+_srcHash: aa06a6265f5d16c02df1fcd6474c6b28
 ---
 
 如果你對峇里島嘅印象仲停留喺海灘、Villa 同咖啡廳，咁 **Living World Denpasar** 絕對值得排入行程。
 
-呢個位於登巴薩（Denpasar）嘅大型購物中心，係近年峇里島最受矚目嘅新商場之一。同傳統觀光商場唔同，佢更加貼近當地人嘅日常生活，唔單止集齊好多國際品牌、印尼人氣品牌、特色餐廳、咖啡館同大型超市，仲規劃咗唔少親子娛樂空間，所以無論係遇到落雨、想歎冷氣行街，定係旅程中需要補貨，都好適合安排半日到一日嘅行程。
+呢個位於登巴薩（Denpasar）嘅大型購物中心，係近年峇里島最受注目嘅新商場之一。同傳統觀光商場唔同，佢更加貼近當地人嘅日常生活，唔單止集齊好多國際品牌、印尼人氣品牌、特色餐廳、咖啡館同大型超市，仲規劃咗唔少親子娛樂空間，所以無論係遇到落雨、想嘆冷氣行街，定係旅程中需要補貨，都好適合安排半日到一日嘅行程。
 
 ***
 
@@ -46,15 +45,15 @@ _translateAttempts: 1
 
 Living World Denpasar 位於登巴薩西側，交通位置相當方便。
 
-由各個熱門旅遊區過去嘅大約車程：
+由各個熱門旅遊區去嘅大約車程：
 
 - 水明漾（Seminyak）：約 15–20 分鐘
 - 坎古（Canggu）：約 25–35 分鐘
-- 庫塔（Kuta）：約 20 分鐘
+- 庫塔（Kuta）：大約 20 分鐘
 - 沙努爾（Sanur）：大約 20–25 分鐘
 - 烏布（Ubud）：大約 45–60 分鐘
 
-如果係包車旅行，中午安排嚟呢度食午餐、買嘢，再繼續下晝行程，係唔少自由行旅客會採用嘅方式。
+如果係包車旅行，中午安排嚟呢度食午餐、買嘢，再繼續下晝行程，係唔少自由行旅客會用嘅方式。
 
 ## 商場特色
 
@@ -70,17 +69,17 @@ Living World Denpasar 位於登巴薩西側，交通位置相當方便。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783486900257-fecwbmepei_xzduz67eqj7b72i5dlplgg7m0jb33dtg-0zqachdrhi7axoxb5tlhnx8jzlxjz-anwajfhpfisjyz0fvqioe5kbwxfihwv5h9ddndflfemsklu9_sulc0eh7myofzkxv9pgg83gxoifmd3li28dlrbgtky4ne2bgykmdbsciabgfwngutdr-q.jpeg)
 
-Living World Denpasar 嘅設計採用現代化開放式空間，大面積採光配綠色植物，行起上嚟比好多傳統百貨更加舒服。
+Living World Denpasar 嘅設計採用現代化開放式空間，大面積採光搭配綠色植物，行起上嚟比好多傳統百貨更加舒服。
 
-整體動線闊落，就算假日人多，都唔會覺得好逼。
+整體動線闊落，就算假日人潮唔少，都唔會覺得好逼。
 
-好多旅客都覺得，佢嘅環境比部分老牌購物中心更新穎，仲更加符合而家後生仔鍾意影相打卡嘅風格。
+好多旅客都覺得，佢嘅環境比部分較老牌嘅購物中心更新穎，仲更加符合而家年輕人鍾意影相打卡嘅風格。
 
 ***
 
 ### 2. 國際品牌同印尼品牌一次過行晒
 
-商場入面進駐咗唔少知名品牌，包括：
+商場入面有好多出名牌子，包括：
 
 - UNIQLO
 - H&M
@@ -92,27 +91,27 @@ Living World Denpasar 嘅設計採用現代化開放式空間，大面積採光�
 - Miniso
 - Watsons
 
-除此之外，仲有好多印尼本地服飾品牌，好啱想買啲同台灣唔同款嘅旅客。
+另外，仲有好多印尼本地服飾品牌，好啱想買啲同台灣唔同款嘅旅客。
 
-如果啱啱撞正印尼大型折扣季，成日都買到靚價。
+如果啱啱撞正印尼大減價季節，成日都買到好抵嘅價錢。
 
 ***
 
-### 3. 美食選擇多到爆
+### 3. 美食選擇豐富
 
-唔止係購物，Living World Denpasar 嘅餐飲都係一大亮點。
+唔止購物，Living World Denpasar 嘅餐飲都係一大亮點。
 
 呢度集合咗：
 
 - 印尼菜
 - 日本菜
 - 韓國菜
-- 中國菜
+- 中式料理
 - 意大利餐廳
-- 漢堡店
+- 漢堡舖
 - 牛扒館
 - 手搖飲品
-- 甜品舖
+- 甜品店
 - 咖啡店
 
 無論係家庭旅行、帶住細路，定係唔想日日食印尼菜，都好容易搵到啱自己嘅餐廳。
@@ -123,7 +122,7 @@ Living World Denpasar 嘅設計採用現代化開放式空間，大面積採光�
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783486949687-hvxfn-ww2rjaimp1p8ps44swh3i9c-xlypcz2ovllcb0v2thca6fkxz4yoz_czdyfj6l9pjr4442koomewha4hyorrf4p2yrs6sqqwtk_n02n8-nfdabwko08zbfig7vpackakvazf0oadknff7aykwv83mvz4nrdpymfxyfx9v11x6loby89t72tt9hpezu.jpeg)
 
-旅行最常見嘅情況，就係想補充：
+旅行最常遇到嘅情況，就係想補充：
 
 - 零食
 - 即食麵
@@ -133,9 +132,9 @@ Living World Denpasar 嘅設計採用現代化開放式空間，大面積採光�
 - 生活用品
 - 手信
 
-Living World Denpasar 裡面嘅大型超市可以一次過買齊。
+Living World Denpasar 入面嘅大型超市可以一次過買齊。
 
-如果住 Villa，要自己買餸，都好方便。
+如果入住 Villa，需要自己買食材，都好方便。
 
 ***
 
@@ -150,7 +149,7 @@ Living World Denpasar 裡面嘅大型超市可以一次過買齊。
 - 廁所乾淨
 - 泊車方便
 
-如果撞正雨季，呢度都係一個好嘅後備景點。
+如果撞正雨季，呢度都係一個好好嘅後備景點。
 
 ***
 
@@ -162,29 +161,29 @@ Living World Denpasar 裡面嘅大型超市可以一次過買齊。
 - 食飯加購物：大約 3–4 個鐘
 - 成家慢慢行：大約半日
 
-如果你本身鍾意行街，好容易唔覺唔覺就留低半日。
+如果你本身鍾意行街，好容易唔覺唔覺就留咗半日。
 
 ***
 
-同其他購物中心比較
+## 同其他購物中心比較
 
-| 商場 | 適合邊啲人 | 特色 |
+| 商場 | 適合邊類人 | 特色 |
 | --- | --- | --- |
-| Living World Denpasar | 一家大細、自由行 | 新淨、多牌子、多美食 |
-| Beachwalk Shopping Center | 第一次嚟峇里島 | 近沙灘，觀光氣氛好濃 |
-| Mall Bali Galeria | 想一次過辦事、買嘢 | 老字號大型商場，牌子齊全 |
+| Living World Denpasar | 成家大小、自由行 | 新淨、品牌多、美食多 |
+| Beachwalk Shopping Center | 第一次嚟峇里島 | 近海灘，觀光氣氛濃厚 |
+| Mall Bali Galeria | 想一次過辦事、購物 | 老字號大型商場，品牌齊全 |
 | ICON Bali | 沙努爾住宿旅客 | 新商場，可以睇海景 |
 
-如果你住喺水明漾、坎古或者烏布附近，Living World Denpasar 係一個幾值得安排嘅新選擇。
+如果住喺水明漾、坎古或者烏布附近，Living World Denpasar 係一個好值得安排嘅新選擇。
 
 ***
 
-## Living World Denpasar 必玩體驗
+## 旅遊小提醒
 
-- 建議平日上午前往，人潮較少。
+- 建議平日上午去，人潮會少啲。
 - 假日下午同夜晚係當地居民最常行街嘅時段，泊車同餐廳可能要排隊。
-- 大部分商店可使用信用卡，也支援印尼常見的電子支付。
-- 商場冷氣比較大，怕凍嘅人可以帶定件薄外套。
+- 大部分商店可以用信用卡，亦支援印尼常見嘅電子支付。
+- 商場冷氣比較凍，怕凍嘅人可以帶件薄外套。
 
 ## Living World Denpasar 必玩體驗
 
@@ -200,11 +199,11 @@ Living World Denpasar 裡面嘅大型超市可以一次過買齊。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783486999441-bu9brbqkj4cx0h4d7o9wpeqttetj97ikv2d7kfrl-ysebculp5midohmnxuatxyz-blugkzq4p_z6bvaxbtu4hll5nlbldjvnedyt8ugbv0h3ygacvbynakqgovobsmlfoct1azltpvgfbmxn34zwdbl_jky9rrft0axcbfycqprfukrzl9faizuefk6dl9x.jpeg)
 
-如果係帶住幼兒或者小學嘅細路嚟峇里島，**Kidzlandia** 係好受歡迎嘅室內遊樂空間。
+如果係帶住幼兒或者小學嘅小朋友嚟峇里島，**Kidzlandia** 係好受歡迎嘅室內遊樂空間。
 
-園區入面有大型波波池、滑梯、攀爬設施、角色扮演區同埋各式互動遊戲，唔受天氣影響，無論係雨季定係炎熱嘅下午，都可以俾細路盡情放電。
+園區入面有大型波波池、滑梯、攀爬設施、角色扮演區同埋各種互動遊戲，唔受天氣影響，無論係雨季定係炎熱嘅下午，都可以俾小朋友盡情放電。
 
-家長就可以趁細路玩嘅時候，去附近咖啡廳唞一陣，係好多親子旅客鍾意安排嘅景點。
+家長就可以趁小朋友玩嘅時候，去附近咖啡廳唞一唞，係唔少親子旅客鍾意安排嘅景點。
 
 > 👉 [Klook 預訂門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1331615&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F179669-kidzlandia-living-world-denpasar-bali-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dddf48e9cef)
 
@@ -220,7 +219,7 @@ Living World Denpasar 裡面嘅大型超市可以一次過買齊。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783487033376-sdordghzygivb4bh9fauy3dtcvn4vmapajjwojd28lmu7b3hu2a5ipucsgeyss8smavbvcqayotoeqeez5c1eay3rz7es3szejrofghdmkf46oxxl7cjngrc5mwxcgmdtyjoxqys6iugzmssmbwhcaq5orpvvuhrgzqzpy_7lvqdnjwbrpqa6_gdtsr2oaim.jpeg)
 
-如果屋企有大啲嘅細路，或者情侶、朋友同行，**Funworld** 都係唔錯嘅娛樂選擇。
+如果屋企有大啲嘅細路，或者情侶、朋友一齊去，**Funworld** 都係唔錯嘅娛樂選擇。
 
 呢度集合咗好多遊樂設施，包括：
 
@@ -243,30 +242,30 @@ Living World Denpasar 裡面嘅大型超市可以一次過買齊。
 
 行街行到攰，都可以去 **Meiso Reflexology** 好好放鬆吓。
 
-Meiso 係印尼出名嘅連鎖按摩品牌，以平價、舒服同環境乾淨見稱，提供多種療程，例如：
+Meiso 係印尼好出名嘅連鎖按摩品牌，以平價、舒服同環境乾淨見稱，提供好多唔同療程，例如：
 
-- 足部按摩
+- 腳底按摩
 - 全身按摩
 - 肩頸放鬆
 - 香薰精油按摩
 
-如果行程排得比較緊湊，未必有時間專程去SPA，趁住行街空檔享受一個鐘按摩，都係唔錯嘅選擇。
+如果行程排得比較緊湊，未必有時間專登去 SPA，趁住行街空檔享受一個鐘按摩，都係一個唔錯嘅選擇。
 
 > 👉[Klook 預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1331615&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F179198-meiso-reflexology-at-living-world-mall-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db4cab09375)
 
 ***
 
-# 順路推介：探索登巴薩嘅文化魅力
+# 順便推介：探索登巴薩嘅文化魅力
 
 好多旅客會直接將登巴薩當做交通中轉站，其實呢度保留咗唔少峇里島嘅歷史同生活文化。
 
-如果上午安排市區文化之旅，下晝再去Living World Denpasar食飯、購物，係好順路嘅一日遊行程。
+如果上晝安排市區文化之旅，下晝再去 Living World Denpasar 食飯、買嘢，係好順路嘅一日遊行程。
 
 ## 登巴薩文化與美食巡禮
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783487153948-5-1.jpeg)
 
-登巴薩文化導覽通常會帶旅客行勻當地嘅重要景點，例如：
+登巴薩文化導覽通常會帶旅客行勻當地重要景點，例如：
 
 - Bali Museum，認識峇里島嘅歷史、宗教同傳統文化。
 - Jagatnatha Temple，欣賞充滿峇里風格嘅寺廟建築。
@@ -291,22 +290,22 @@ Meiso 係印尼出名嘅連鎖按摩品牌，以平價、舒服同環境乾淨�
 
 ⬇️
 
-**15:30** 小朋友去 Kidzlandia 或者 Funworld 玩，大人可以飲咖啡或者行街
+**15:30** 細路去 Kidzlandia 或者 Funworld 玩，大人可以飲咖啡或者行街
 
 ⬇️
 
-**17:00** Meiso Reflexology 按摩放鬆
+**17:00** Meiso Reflexology 按摩鬆一鬆
 
 ⬇️
 
 **18:30** 食完晚餐返酒店
 
-咁樣安排唔單止可以兼顧文化體驗、購物、美食同休閒，仲可以避開中午最熱嘅時段，無論係親子家庭、情侶定自由行旅客都好啱使。
+咁樣安排唔單止可以兼顧文化體驗、購物、美食同休閒，仲可以避開中午最熱嘅時段，無論係親子家庭、情侶定自由行旅客都好啱。
 
 ![](https://images.gobaligo.id/vocus/vocus_f2221d446da58c692559cd133adbacab.png)
 
 [登巴薩攻略地圖](/map/denpasar/)
 
-以上嘅景點位置都已經收集喺「登巴薩攻略地圖」，撳[呢度](/map/denpasar/)儲存落你手機啦！
+以上嘅景點位置都已經收錄喺「登巴薩攻略地圖」，撳[呢度](/map/denpasar/)儲存落你手機啦！
 
 {{block:親子}}

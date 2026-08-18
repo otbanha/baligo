@@ -1,7 +1,7 @@
 ---
-title: 六人行 巴厘岛与科摩多岛6天5夜行程必知事项
+title: 六人行 巴厘岛与科莫多岛6天5夜行程必知事项
 slug: bali-komodo-island-group-trip
-description: 六个女生的巴厘岛与科摩多岛自由行旅游心得
+description: 六个女生的巴厘岛与科莫多岛自由行旅游心得
 pubDate: 2024-09-23T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
@@ -16,14 +16,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a24c85b34f64e559336545041ad6337.jpg'
 originalUrl: 'https://vocus.cc/article/66efc051fd89780001433018'
 lang: zh-cn
-_srcHash: PENDING_RETRY_af6d805b526b844a4e607760c249bb3e
-_translateAttempts: 2
+_srcHash: af6d805b526b844a4e607760c249bb3e
+_translateIncomplete: true
 ---
-**重点摘要**：六人行巴厘岛＋科摩多岛 6 天 5 夜实测心得——① **闹区塞车严重**（下午 1 点到晚上 7 点半，乌鲁瓦图/乌布/金巴兰尤其夸张，Google Maps 预估时间要乘以 2.5-3 倍）；② **机场 Wi-Fi 弱**，建议备漫游或当地 SIM 卡（Telkomsel 约 USD$10-16 含 14G）；③ 领行李可能耗时将近 1 小时，比通关本身还久；④ 全员一度肠胃炎，备好肠胃药很重要。
+**重点摘要**：六人行巴厘岛＋科莫多岛 6 天 5 夜实测心得——① **闹区塞车严重**（下午 1 点到晚上 7 点半，乌鲁瓦图/乌布/金巴兰尤其夸张，Google Maps 预估时间要乘以 2.5-3 倍）；② **机场 Wi-Fi 弱**，建议备漫游或当地 SIM 卡（Telkomsel 约 USD$10-16 含 14G）；③ 领行李可能耗时将近 1 小时，比通关本身还久；④ 全员一度肠胃炎，备妥肠胃药很重要。
 
 > 以下内容改编自团友 [Sandra Yun](https://www.facebook.com/share/p/R9sqkkpWfnrB6Bzr/) 分享游记：
 
-这次是我们六个女生的旅游，选在2023年9月来到巴厘岛与科摩多岛，原本满心期待着一趟充实的假期，却没想到旅途中充满了惊喜与挑战。虽然只有短短的6天5夜，行程也没有全部跑完，但每个人都玩得非常开心。可惜在第4天，全员集体中招肠胃炎，让我们的战斗力瞬间下降，接近20：00我们只能在床上休息。即便如此，这趟旅程还是让大家收获满满。以下就来分享一些我们的实际经验，希望对即将前往的旅客有帮助！
+这次是我们六个女生的旅游，选在2023年9月来到巴厘岛与科莫多岛，原本满心期待着一趟充实的假期，却没想到旅途中充满了惊喜与挑战。虽然只有短短的6天5夜，行程也没有全部跑完，但每个人都玩得非常开心。可惜在第4天，全员集体中招肠胃炎，让我们的战斗力瞬间下降，接近20：00我们只能在床上休息。即便如此，这趟旅程还是让大家收获满满。以下就来分享一些我们的实际经验，希望对即将前往的旅客有帮助！
 
 ## 1. 包车司机推荐：Gede Arimbawa
 
@@ -41,7 +41,7 @@ Gede 在社团拥有超多好评！[请参考这里](/zh-cn/blog/bali-private-ca
 
 ## 3. 机场Wi-Fi弱到爆！
 
-我们一到巴厘岛机场就发现那里的Wi-Fi实在太弱了，感觉是因为当时连接的人太多。幸好同行的朋友有中华电信的漫游服务，否则真不知道该如何联络我们的司机。如果你打算购买当地的Telkomsel SIM卡，价格大约在10到16美元之间，包含14G流量，但在某些偏远地区（例如Labuan Bajo跳岛区）信号依然不强就是。
+我们一到巴厘岛机场就发现那里的Wi-Fi实在太弱了，感觉是因为当时连接的人太多。幸好同行的朋友有中华电信的漫游服务，否则真不知道该如何联络我们的司机。如果你打算购买当地的Telkomsel SIM卡，价格大约在USD$10到USD$16之间，包含14G流量，但在某些偏远地区（例如Labuan Bajo跳岛区）信号依然不强就是。
 
 延伸阅读：[【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡?](/zh-cn/blog/bali-sim-card-esim-roaming-guide/)
 
@@ -79,9 +79,9 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 > [预约南湾水上活动（多种组合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 
-[> [预约南湾香蕉船组合](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
+[> 预约南湾香蕉船组合](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
 
-## 8. Rock Bar的天气与排队状况
+## 8. Rock Bar的天气与排队情况
 
 如果你想去Rock Bar体验，记得要关注天气！我们去的那天刚好有些阴天，虽然看不到夕阳，但却让我们几乎不用排队。当天我们1800到，发现还有很多空位，让我们能够安静地享受海景。即使没看到夕阳，那片美丽的海景依然让人陶醉。
 
@@ -91,7 +91,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 ## 9. 关于小费的观察
 
-在巴厘岛，我们发现很多餐厅都会把我们第一次给的小费退还，直到我们第二次再给他们才会收下。但如果是给房务人员、行李员或者活动教练一点小费，他们会非常开心！
+在巴厘岛，我们发现很多餐厅都会把我们第一次给的小费退还，直到我们第二次再给他们才会收下。但如果是给客房服务人员、行李员或者活动教练一点小费，他们会非常开心！
 
 > 延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/zh-cn/blog/bali-tipping-guide-driver-spa/)
 

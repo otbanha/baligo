@@ -2,7 +2,7 @@
 slug: bali-kuta-jimbaran-uluwatu-ubud-adventure
 title: '[圖+文+短片]峇里島探險記：由庫塔、金巴蘭、到烏魯瓦圖、烏布嘅自由行體驗'
 description: >-
-  為期11日嘅自由行，去峇里島同龍目島。呢次旅程到而家都仲係好難忘。計劃呢次旅行嗰陣，我參考咗好多前輩嘅遊記同建議，知道計劃行程唔係易事。所以，我想藉呢個機會分享吓我哋去過嘅峇里島景點推介，同埋每個景點嘅短片，等大家更感受到當地嘅氣氛，幫大家決定係咪要將呢啲景點收歸自己嘅收藏
+  為期11日嘅自由行，去峇里島同龍目島。呢次旅程到而家都仲令我難以忘懷。計劃呢次旅行嗰陣，我參考咗好多前輩嘅遊記同建議，知道計劃行程唔係易事。所以，我想藉呢個機會分享吓我哋去過嘅峇里島景點推薦，同埋每個景點嘅短片，等大家更感受到當地嘅氣氛，幫大家決定係咪要將呢啲景點加入自己嘅收藏
 pubDate: 2024-07-15T00:00:00.000Z
 category:
   - 遊記分享
@@ -15,14 +15,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3ab35a264fd828315cb7d2e460674afd.jpg'
 originalUrl: 'https://vocus.cc/article/668b6804fd89780001a19257'
 lang: zh-hk
-_srcHash: 80d8a5ce6981f4d5c2cb18dbd1a408cb
+_srcHash: 49235e735f645376e7d9b583c65f3aea
 ---
 
 > 以下內容由團友 [葉庭瑜](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i) 提供
 
-喺四月底，我哋開始咗一場為期11日嘅自由行，去峇里島同龍目島。呢次旅程到而家都仲係好難忘。計劃呢次旅行嗰陣，我參考咗好多前輩嘅遊記同建議，知道計劃行程唔係易事。所以，我想藉呢個機會分享吓我哋去過嘅景點推介，同埋每個景點嘅短片，等大家更感受到當地嘅氣氛，幫大家決定係咪要將呢啲景點納入自己嘅行程入面。
+喺四月底，我哋開始咗一場為期11日嘅自由行，去峇里島同龍目島。呢次旅程到而家都仲令我難以忘懷。計劃呢次旅行嗰陣，我參考咗好多前輩嘅遊記同建議，知道計劃行程唔係易事。所以，我想藉呢個機會分享吓我哋去過嘅景點推薦，同埋每個景點嘅短片，等大家更感受到當地嘅氣氛，幫大家決定係咪要將呢啲景點加入自己嘅行程入面。
 
-我哋呢次旅程總共探訪咗五個主要區域：金巴蘭（Jimbaran）、烏魯瓦圖（Uluwatu）、烏布（Ubud）、吉利群島（Gili Islands）同庫塔（Kuta）。喺呢篇文章入面，我會重點介紹頭三個區域——金巴蘭、烏魯瓦圖同烏布嘅景點推介同個人評論（呢啲推介同評論純屬個人觀感，如果有唔同意見，歡迎大家討論交流）。
+我哋呢次旅程總共探訪咗五個主要區域：金巴蘭（Jimbaran）、烏魯瓦圖（Uluwatu）、烏布（Ubud）、吉利群島（Gili Islands）同庫塔（Kuta）。喺呢篇文章入面，我會重點介紹頭三個區域——金巴蘭、烏魯瓦圖同烏布嘅景點推薦同個人評論（呢啲推薦同評論純粹係個人觀感，如果有唔同意見，歡迎大家討論交流）。
 
 ## 峇里島推薦景點
 
@@ -36,9 +36,9 @@ _srcHash: 80d8a5ce6981f4d5c2cb18dbd1a408cb
 
 **停留時間：2.5小時**
 
-金巴蘭海灘有「世界十大夕陽海灘」嘅美譽，呢度嘅景色真係無得彈，無論係海景定係夕陽，都靚到令人嘩一聲。不過，呢度嘅餐廳價錢就有啲難頂。呢餐係我哋落機之後嘅第一餐，三個人竟然食咗成5000幾蚊台幣（約USD$161），真係令人慨嘆價錢咁高。
+金巴蘭海灘有「世界十大夕陽海灘」嘅美譽，呢度嘅景色真係冇得彈，無論係海景定係夕陽，都靚到令人嘩一聲。不過，呢度嘅餐廳價錢就有啲難頂。呢餐係我哋落機之後嘅第一餐，三個人竟然食咗成5000幾蚊台幣（約USD$161），真係令人慨嘆價錢咁貴。
 
-坐喺沙灘食飯嗰陣，夜晚會有樂隊喺座位周圍演奏，仲會要求打賞，感覺有啲似情感勒索。所以，如果你打算嚟呢度食飯，建議事先睇定餐廳嘅評價先決定入唔入去。金巴蘭海灘嘅美景值得一睇，但揀餐廳就要小心啲。
+坐喺沙灘食飯嘅時候，夜晚會有樂隊喺座位周圍演奏，仲會要求打賞，感覺有啲似情感勒索。所以，如果你打算嚟呢度食飯，建議事先睇定餐廳嘅評價先決定入唔入去。金巴蘭海灘嘅美景值得一睇，但揀餐廳就要小心啲。
 
 https://www.instagram.com/reel/C7hDmUmpeU4/?utm_source=ig_web_button_share_sheet
 
@@ -56,7 +56,7 @@ https://www.instagram.com/reel/C6_hnL-J86g/?utm_source=ig_web_button_share_sheet
 
 **停留時間：3個鐘**
 
-GWK神鷹文化公園係一個好值得去嘅景點。由機場已經可以見到嗰座宏偉嘅毗濕奴神像，呢座神像比自由女神仲要高30米，令人印象深刻。成個公園壯闊莊嚴，行喺入面，感受到一種寧靜同尊崇。喺呢度，邊飲椰子汁邊行公園係一種好寫意嘅享受。公園入面嘅紀念品店規模好大，商品豐富，好啱鍾意購物嘅遊客。另外，公園旁邊嘅廁所裝咗冷氣，喺炎熱嘅天氣入面令人覺得涼爽。GWK神鷹文化公園唔單止景色壯麗，而且設施齊全，係一個唔可以錯過嘅旅遊勝地。
+GWK神鷹文化公園係一個好值得去嘅景點。由機場已經可以見到嗰座宏偉嘅毗濕奴神像，呢座神像比自由神像仲要高30米，令人印象深刻。成個公園壯觀莊嚴，行喺入面，感受到一種寧靜同尊崇。喺度，邊飲椰青水邊行公園係一種好寫意嘅享受。公園入面嘅紀念品店好大，貨品又多，好啱鍾意購物嘅遊客。另外，公園旁邊嘅廁所裝咗冷氣，喺咁熱嘅天氣入面令人覺得涼爽。GWK神鷹文化公園唔單止景色壯麗，而且設施齊全，係一個唔可以錯過嘅旅遊勝地。
 
 https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
@@ -65,6 +65,8 @@ https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 > 神鷹廣場攻略：[峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/zh-hk/blog/gwk-cultural-park-bali/)
 
 > Klook特價飛：[神鷹文化公園門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
+
+> 想比較更多景點門票？可以去 **[峇里島門票票價總表](/zh-hk/tickets/)** 睇下，49個熱門景點都附Klook／Agoda／Trip.com訂飛連結。
 
 ### 烏魯瓦圖廟卡恰火舞
 
@@ -76,16 +78,16 @@ Kecak Fire Dance
 
 **停留時間：1.5個鐘**
 
-烏魯瓦圖廟嘅卡恰火舞表演講述咗峇里島嘅神話故事，呢場表演吸引咗近2000名觀眾，場面相當壯觀。睇呢場表演嘅時候，你可以一邊欣賞精彩嘅舞蹈，一邊睇住壯麗嘅血色夕陽，呢種視覺同文化嘅雙重享受真係令人難以忘懷。
+烏魯瓦圖廟嘅卡恰火舞表演講述峇里島嘅神話故事，呢場表演吸引咗近2000名觀眾，場面相當壯觀。睇呢場表演嘅時候，你可以一邊欣賞精彩嘅舞蹈，一邊睇住壯麗嘅血色夕陽，呢種視覺同文化嘅雙重享受真係令人難以忘懷。
 
-建議喺睇之前先了解吓故事嘅大綱，咁樣會更容易投入情境，否則可能會因為睇唔明而覺得悶。要留意嘅係，火舞嘅部分淨係喺最後嘅高潮位持續大約5分鐘，千祈唔好同台灣街頭藝人嘅火舞表演撈亂咗。
+建議睇之前先了解吓個故事大綱，咁會容易投入啲，唔係嘅話可能會因為睇唔明而覺得悶。要留意嘅係，火舞得最後高潮位嗰5分鐘左右，唔好同台灣街頭藝人嘅火舞表演撈亂。
 
-烏魯瓦圖廟嘅卡恰火舞表演係一場結合文化同自然美景嘅視覺盛宴，雖然火舞部分唔多，但整體氣氛同演出質素都值得睇。
+烏魯瓦圖廟嘅卡恰火舞表演係一場結合文化同自然美景嘅視覺盛宴，雖然火舞部分唔多，但整體氣氛同演出質素都值得一睇。
 
 https://www.instagram.com/reel/C7oyY74JU3L/?utm_source=ig_web_button_share_sheet
 
 > 延伸閱讀：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
-> [峇里島六大必睇卡恰火舞（Kecak Fire Dance）地點：一場視覺同文化嘅饗宴](/zh-hk/blog/bali-kecak-fire-dance-locations/)
+> [峇里島六大必睇卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化嘅饗宴](/zh-hk/blog/bali-kecak-fire-dance-locations/)
 
 ### 烏魯瓦圖Oneeighty Club懸崖酒吧
 
@@ -95,13 +97,13 @@ Oneeighty Day Club（葉庭瑜提供）
 
 **推薦指數：🌟🌟🌟🌟**
 
-**停留時間：3.5個鐘**
+**停留時間：3.5小時**
 
-Oneeighty Club懸崖酒吧係一個起喺懸崖上嘅浮誇場所，佢嘅特色泳池好啱影相，淨係影相都可以用上2個鐘。呢度嘅入場費仲可以折抵消費，令人覺得物有所值。酒吧嘅食物喺烏魯瓦圖區算係幾好味，好值得一試。
+Oneeighty Club懸崖酒吧係一個起喺懸崖上嘅浮誇地方，佢嘅特色泳池好啱影相，淨係影相都可以用咗2個鐘。呢度嘅入場費仲可以扣返消費，令人覺得物有所值。酒吧嘅食物喺烏魯瓦圖區算係幾好食，好值得一試。
 
-不過，落水之後記得要洗手先攞食物食，如果唔係好易感染到“Bali Belly”（峇里島肚瀉），呢個係我喺呢度嘅親身經歷，教訓好深刻。
+不過，落水之後記得要洗手先攞食物食，如果唔係好易中「Bali Belly」（峇里島肚痾），呢個係我喺呢度嘅親身經歷，教訓好深刻。
 
-Oneeighty Club懸崖酒吧以佢獨特嘅地理位置同優質嘅食物吸引咗好多遊客，係一個可以放鬆又可以影靚相嘅好地方，但都要注意衛生，以免影響旅遊體驗。
+Oneeighty Club懸崖酒吧因為佢獨特嘅地理位置同優質嘅食物吸引咗好多遊客，係一個可以放鬆又可以影到靚相嘅好地方，不過都要注意衛生，唔係就會影響旅遊體驗。
 
 https://www.instagram.com/reel/C7MW0hVpkiz/?utm_source=ig_web_button_share_sheet
 
@@ -119,13 +121,13 @@ Monkey Forest（葉庭瑜提供）
 
 **推薦指數：🌟🌟🌟🌟**
 
-**停留時間：2個鐘**
+**停留時間：2小時**
 
-聖猴森林係一個充滿古色古香嘅景點，成個園區入面有各式各樣嘅藝術雕像、山洞同圖騰，令人覺得好似喺度探險咁。呢度嘅猴子數量仲多過遊客，佢哋行為好奔放，我哋仲親眼見到抽煙猴、可樂猴同嗑藥猴嘅奇景。
+聖猴森林係一個充滿古色古香嘅景點，成個園區入面有各種藝術雕像、山洞同圖騰，令人覺得好似喺度探險咁。呢度嘅猴子數量甚至比遊客仲多，佢哋行為自由奔放，我哋仲親眼見到抽煙猴、可樂猴同嗑藥猴嘅奇特景象。
 
-參觀聖猴森林嗰陣，一定要跟足園區嘅猴林守則，咁先可以避免俾猴子攻擊。另外，呢度仲有個得意嘅服務，你可以畀USD$3叫猴子揸住手機幫你自拍，雖然係錯位效果，但啲相睇落好逼真，為旅程加咗唔少樂趣。
+參觀聖猴森林嗰陣，一定要跟足園區嘅猴林守則，咁先唔會俾馬騮襲擊。另外，呢度仲有個得意服務，你可以畀3蚊美金（約100台幣）叫馬騮揸住手機幫你自拍，雖然係錯位效果，但啲相睇落好逼真，為旅程加咗唔少樂趣。
 
-聖猴森林係一個既有文化氣息又充滿驚奇嘅地方，好啱鍾意動物同探險嘅遊客嚟參觀。
+聖猴森林係一個既有文化氣息又充滿驚喜嘅地方，好啱鍾意動物同探險嘅遊客嚟參觀。
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
@@ -141,15 +143,15 @@ https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
 **停留時間：2個鐘**
 
-朋里普蘭村莊俾人譽為世界上最乾淨嘅村落，呢度每家每戶都對外開放，遊客可以入去參觀，深入了解當地人嘅日常生活同純樸風貌。村莊裏面嘅建築同街景好有特色，隨手一影都係風景，特別係村內嘅陰陽門，更加係唔可以錯過嘅打卡景點。
+朋里普蘭村莊被譽為世界上最乾淨嘅村落，呢度每戶人家都開放俾遊客入去參觀，可以深入了解當地人嘅日常生活同純樸風貌。村莊嘅建築同街景好有特色，隨手影都係風景，尤其係村內嘅陰陽門，更加係唔可以錯過嘅打卡位。
 
-因為嚟參觀嘅多數係本地人，呢度冇太多商業氣息，保持咗原汁原味嘅當地風情。村民好友善好客，令人感受到濃厚嘅人情味。
+因為嚟參觀嘅多數係本地人，呢度冇太多商業氣息，保留咗原汁原味嘅當地風情。村民好友善好客，令人感受到濃厚嘅人情味。
 
-彭里普蘭村莊係一個好值得去嘅地方，唔單止可以享受美麗嘅自然景觀，仲可以體驗到真實嘅當地文化，係一次豐富又難忘嘅旅行經歷。
+彭里普蘭村係一個好值得去嘅地方，唔單止可以欣賞到靚嘅自然景觀，仲可以體驗到地道嘅當地文化，係一次豐富又難忘嘅旅行經歷。
 
 https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
-> 延伸閱讀：[穿越時空嘅 Penglipuran 村莊：體驗峇里古老魅力](/zh-hk/blog/penglipuran-village-bali-experience/)
+> 延伸閱讀：[穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](/zh-hk/blog/penglipuran-village-bali-experience/)
 
 **Klook特惠行程**
 
@@ -169,9 +171,9 @@ Tegallalang Rice Field（葉庭瑜提供）
 
 **停留時間：2.5個鐘**
 
-德哥拉朗梯田距離烏布市區只需20分鐘車程，係被列為世界文化遺產嘅壯麗景點。呢度除咗可以欣賞到層層疊疊嘅靚梯田，仲可以體驗到刺激嘅鞦韆活動。雖然得2分鐘嘅鞦韆體驗要成差唔多USD$13，但係着住長裙喺度影出嚟嘅靚相，真係令人覺得物有所值。
+德哥拉朗梯田距離烏布市區只需20分鐘車程，係被列為世界文化遺產嘅壯麗景點。呢度除咗可以欣賞到層層疊疊嘅靚梯田，仲可以玩到刺激嘅鞦韆活動。雖然得2分鐘嘅鞦韆體驗要成差唔多USD$13，但係着住長裙喺度影出嚟嘅靚相，真係令人覺得物有所值。
 
-另外，呢度仲有好多其他影相位，例如鳥巢同心形裝飾，都好啱打卡影相。不過要注意嘅係，因為呢度濕氣比較重，行得耐可能會覺得頭痛，所以建議大家適時休息，補充水分。
+另外，呢度仲有好多其他影相位，例如鳥巢同心形裝飾，都好啱打卡影相。不過要留意嘅係，因為呢度濕氣比較重，行得耐可能會覺得頭痛，所以建議大家適時休息，補充水分。
 
 德哥拉朗梯田唔單止景色壯麗，仲提供咗豐富嘅體驗活動，係一次結合自然同冒險嘅絕佳旅程，好值得去玩。
 
@@ -183,11 +185,11 @@ https://www.instagram.com/reel/C79YeY6plqw/?utm_source=ig_web_button_share_sheet
 
 **推薦指數：🌟🌟🌟**
 
-**停留時間：1小時**
+**停留時間：1個鐘**
 
-喺烏布，有好多麝香貓咖啡種植園。我哋揀咗司機推薦嘅一間種植園，呢度提供咗一次品嚐16杯唔同口味嘅茶同咖啡嘅體驗。當時嘅品嚐體驗的確唔錯，令人可以一次試到多種唔同風味嘅飲品。
+喺烏布，有好多麝香貓咖啡種植園。我哋揀咗司機推薦嘅一間種植園，呢度提供咗一次試飲16杯唔同口味嘅茶同咖啡嘅體驗。當時嘅試飲體驗的確唔錯，可以一次過試到好多種唔同風味嘅飲品。
 
-不過返到香港之後，查咗啲資料，發現呢啲種植園有唔少負評。主要問題係佢哋賣嘅產品同試飲嘅產品唔一致。所以建議大家去呢啲咖啡種植園之前，一定要先做好功課，查清楚相關評價，避免唔愉快嘅購物體驗。
+不過返到香港之後查咗啲資料，發現呢啲種植園有唔少負評。主要問題係佢哋賣嘅產品同試飲嘅產品唔一致。所以建議大家去呢啲咖啡種植園之前，一定要做好功課，查清楚相關評價，避免唔愉快嘅購物體驗。
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
@@ -197,19 +199,19 @@ https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
 **推薦指數：🌟🌟🌟🌟**
 
-**停留時間：1.5個鐘**
+**停留時間：1.5小時**
 
-烏布瓦帕迪酒店入面嘅叢林健身房，提供咗一個超獨特嘅健身體驗，可以睇到360度全景嘅烏布自然景觀。呢度匿埋喺稻田同叢林之間，令你可以喺大自然美景入面做運動，呢種體驗我個人覺得真係好難得！
+烏布瓦帕迪酒店入面嘅叢林健身房提供咗一個極之獨特嘅健身體驗，可以睇到360度全景嘅烏布自然景觀。呢度隱身喺稻田同叢林之間，令你可以喺自然美景入面做運動，呢種體驗我覺得真係好難得！
 
-雖然健身器材唔多，但係因為人流唔多，你幾乎可以包場，享受一個私密又寧靜嘅健身空間。呢種獨特嘅氛圍令成個健身過程更加舒服同專注。
+雖然健身器材唔多，但因為人流唔多，你幾乎可以包場，享受一個私密又寧靜嘅健身空間。呢種獨特嘅氛圍令成個健身過程更加舒服同專注。
 
-烏布瓦帕迪酒店嘅叢林健身房唔單止提供健身設施，仲可以令你喺自然環境入面放鬆身心，係一個遠離喧囂、搵到平靜嘅理想地方。
+烏布瓦帕迪酒店嘅叢林健身房唔單止提供健身設施，仲可以令你喺自然環境入面放鬆身心，係一個遠離喧囂、尋找平靜嘅理想地方。
 
 https://www.instagram.com/reel/C7rTe1ypa9_/?utm_source=ig_web_button_share_sheet
 
-## 小插曲 & 結語
+## 小插曲同結語
 
-另外我哋喺旅行途中遇到啲意料之外嘅事，我哋都剪咗短片同大家分享：
+另外我哋喺旅行途中發生咗啲意料之外嘅事，我哋都剪咗短片同大家分享：
 
 **1.Grab陰濕坑人套路：**
 
@@ -221,23 +223,23 @@ https://www.instagram.com/reel/C7UJZKbp4lZ/?utm_source=ig_web_button_share_sheet
 
 https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
-> 延伸閱讀：台灣嘅風筒喺峇里島用得嗎？請睇[峇里島旅遊必讀：電壓與插座指南完全手冊！](/zh-hk/blog/bali-voltage-adapter-tips/)
+> 延伸閱讀：台灣嘅吹風機喺峇里島用得嗎？請睇[峇里島旅遊必讀：電壓同插座指南完全手冊！](/zh-hk/blog/bali-voltage-adapter-tips/)
 
 ***
 
 ## 峇里島行程總整理
 
-### 4/15 （4/15-4/17 Uluwatu)
+### 4/15 （4/15-4/17 Uluwatu)  __VID0__
 
 **DPS機場到達**
 
 時間：09:10-14:40
 
-**唱錢**
+**換錢**
 
-地點：機場入面嘅找換店
+地點：機場入面嘅貨幣兌換處
 
-> 延伸閱讀：[印尼/峇里島旅遊唱錢懶人包](/zh-hk/blog/bali-currency-exchange-guide/)
+> 延伸閱讀：[印尼/峇里島旅遊換錢懶人包](/zh-hk/blog/bali-currency-exchange-guide/)
 
 **金巴蘭海灘日落晚餐**
 
@@ -247,13 +249,13 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **推薦按摩**
 
-地點：The Calma Spa喺度享受放鬆嘅按摩，舒緩旅途嘅疲勞。
+地點：The Calma Spa喺度享受放鬆嘅按摩，舒緩吓旅途嘅疲勞。
 
-> 延伸閱讀：[【精華篇】峇里島好評SPA推薦大集合 用區域劃分更方便搵](/zh-hk/blog/spa/)
+> 延伸閱讀：[【精華篇】峇里島好評SPA推薦大集合 用區域劃分更方便查找](/zh-hk/blog/spa/)
 
 **超市掃貨**
 
-地點：去附近嘅超市買啲日常用品同零食。
+地點：附近嘅超市買啲日常用品同零食。
 
 > 延伸閱讀：[【印尼/峇里島旅遊】超市/便利商店買咩好？](https://youtu.be/UoGlRyAdyB8)
 
@@ -273,7 +275,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **神鷹廣場文化公園**
 
-參觀出名嘅Garuda Wisnu Kencana文化公園，欣賞壯觀嘅雕像同靚到爆嘅園區。
+參觀出名嘅Garuda Wisnu Kencana文化公園，欣賞壯觀嘅雕像同靚靚園區。
 
 **午餐**
 
@@ -289,7 +291,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 睇烏魯瓦圖廟嘅傳統卡洽舞同火舞表演。
 
-> 延伸閱讀：[卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
+> 延伸閱讀：[卡恰火舞秀 峇里島必睇嘅震撼表演（附訂飛資訊）](/zh-hk/blog/kecak-fire-dance-bali/)
 
 **晚餐**
 
@@ -311,23 +313,23 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **衝浪沙灘**
 
-地點：Blue Point Beach適合初學同專業衝浪者嘅絕佳地方。
+地點：Blue Point Beach適合初學同專業衝浪嘅絕佳地方。
 
 > 延伸閱讀：[峇里島烏魯瓦圖旅遊景點之秘境沙灘 Uluwatu Blue Point](https://youtu.be/hQbBTktqEqY)
 
-**海灘靚景**
+**沙灘美景**
 
-地點：Thomas Beach呢個海灘好啱放鬆同影相。
+地點：Thomas Beach呢度嘅沙灘好啱放鬆同影相。
 
-> 延伸閱讀：[峇里島嘅隱世秘境 6個峇里島秘境沙灘攻略/點樣查潮汐？](/zh-hk/blog/bali-hidden-beaches-guide/)
+> 延伸閱讀：[峇里島嘅無人秘境 6個峇里島秘境沙灘攻略/點樣查潮汐？](/zh-hk/blog/bali-hidden-beaches-guide/)
 
 **午餐**
 
 地點：Alchemy Uluwatu
 
-**懸崖靚景**
+**懸崖美景**
 
-地點：Happy Sunset Batujaran欣賞壯觀嘅海景同日落。
+地點：Happy Sunset Batujaran，睇到超靚嘅海景同日落。
 
 **纜車海灘俱樂部**
 
@@ -335,7 +337,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 > 延伸閱讀：[烏魯瓦圖攻略](/zh-hk/blog/uluwatu-guide/)
 
-**秘境沙灘**
+**秘境海灘**
 
 地點：Greenbowl Beach
 
@@ -365,7 +367,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **蠟染村**
 
-地點：Bali Bidadari Batik 參觀蠟染村，體驗當地嘅手工藝。
+地點：Bali Bidadari Batik參觀蠟染村，體驗當地嘅手工藝。
 
 **午餐**
 
@@ -373,19 +375,19 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **烏布藝術市集**
 
-喺呢度可以買到各種手工藝品同紀念品。
+喺呢度可以買到各式各樣嘅手工藝品同紀念品。
 
 延伸閱讀：[烏布探索嘅100個方式](/zh-hk/blog/ubud-guide/)
 
 **烏布猴子森林**
 
-去猴子森林行吓，同當地啲馬騮互動下。
+去猴子森林參觀，同當地嘅猴子互動。
 
 **烏布皇宮**
 
 地點：Peliatan Royal Palace
 
-> 延伸閱讀：[【烏布必訪景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推薦](/zh-hk/blog/ubud-royal-palace-tour-guide/)
+> 延伸閱讀：[【烏布必去景點】烏布皇宮：峇里島文化歷史嘅瑰寶｜開放時間、門票、表演時間、周邊景點、一日遊推介](/zh-hk/blog/ubud-royal-palace-tour-guide/)
 
 **晚餐**
 
@@ -399,7 +401,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4月19號
+### 4/19
 
 **早餐**
 
@@ -415,7 +417,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 地點：Tukad Cepung Waterfall
 
-> 延伸閱讀：[峇里島嘅呢個仙境瀑布值得去嗎？Tukad Cepung Waterfall](https://youtu.be/Z7yPLNwrOrQ)
+> 延伸閱讀：[峇里島呢個仙境瀑布值唔值得去？Tukad Cepung Waterfall](https://youtu.be/Z7yPLNwrOrQ)
 
 **午餐**
 
@@ -423,9 +425,9 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **德哥拉朗梯田**
 
-地點：Tegalalang Rice Terrace，睇靚靚嘅梯田景觀，順便影相留念。
+地點：Tegalalang Rice Terrace 欣賞靚靚嘅梯田景觀，順便影相留念。
 
-**網美鞦韆打卡**
+**網美鞦韆影相**
 
 地點：德哥拉朗
 
@@ -447,11 +449,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4/24 (Padang Bai Kuta)
+### 4月24號 (Padang Bai Kuta)
 
 **到達港口**
 
-地點：Padang Bai (Ekajaya Fast Ferry)時間：13:30
+地點：Padang Bai (Ekajaya Fast Ferry) 時間：13:30
 
 **午餐**
 
@@ -459,11 +461,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **印度廟**
 
-地點：Goa Lawah Temple (蝙蝠洞穴)
+地點：Goa Lawah Temple (蝙蝠洞)
 
 **Big Garden Corner**
 
-參觀呢個大花園，欣賞各式雕像同靚靚嘅花園景觀。
+參觀呢個大花園，欣賞唔同嘅雕像同靚靚花園景觀。
 
 > 延伸閱讀：[Sanur 50項吃喝玩樂攻略](/zh-hk/blog/sanur-guide/)
 
@@ -475,11 +477,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **Upside Down World Bali**
 
-參觀呢個有趣嘅上下顛倒世界，影相留念。
+參觀呢個好玩嘅上下顛倒世界，影相留念。
 
 > 延伸閱讀：[庫塔必訪50個景點攻略](/zh-hk/blog/kuta-guide/)
 
-**入住飯店**
+**入住酒店**
 
 地點：Episode Kuta Bali
 
@@ -491,7 +493,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4/25
+### 4月25號
 
 **早餐**
 
@@ -515,7 +517,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **DPS機場**
 
-時間：15:40返程航班，結束愉快嘅峇里島之旅。
+時間：15:40返程航班，結束開心嘅峇里島之旅。
 
 ***
 
@@ -523,11 +525,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **4/17 記錄**
 
-因為Bali Belly，只去咗朝早嘅Blue Point Beach，之後就返酒店休息喇。
+因為Bali Belly，淨係去咗朝早嘅Blue Point Beach，之後就返酒店休息。
 
-關於峇里島自由行有咩問題，或者想同我哋拎完整行程嘅朋友，都歡迎DM我哋嘅IG或者留言啦！希望幫到大家！
+關於峇里島自由行有咩問題或者想同我哋拎完整行程嘅朋友， 歡迎私訊我哋嘅IG或者留言啦！希望幫到大家！
 
-你覺得葉庭瑜佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
+你覺得葉庭瑜佢哋嘅行程精唔精彩呀？快啲安排屬於你嘅峇里島自由行啦！仲歡迎大家去社團投稿你嘅行程㗎！
 
 {{block:遊記}}
 
