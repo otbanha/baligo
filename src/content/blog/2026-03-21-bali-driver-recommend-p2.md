@@ -1,7 +1,7 @@
 ---
-title: 峇里島包車司機推薦名單（第二頁）｜中文司機為主．社團真實分享
+title: 峇里島包車司機推薦名單（第二頁）｜社團真實分享
 slug: ''
-description: 峇里島包車司機推薦名單第二頁，以可中文溝通的司機為主，每位司機底下的分享連結都能點開查證原始社團貼文。附 2026 包車行情與聯繫時該提供的資訊。
+description: 峇里島包車司機推薦名單第二頁，每位司機底下的分享連結都能點開查證原始社團貼文。附 2026 包車行情與聯繫時該提供的資訊。
 pubDate: 2026-01-01
 pubHour: null
 category:
@@ -30,31 +30,9 @@ Update: 2026/08/10
 
 **👉 第一頁還有另外 24 位司機（含 9 位中文司機）：**[**峇里島包車司機推薦名單（第一頁）**](/blog/bali-private-car-drivers-guide/)
 
-## 本頁 19 位司機一覽表
+## 本頁 20 位司機一覽表
 
-順序**不代表排名**，則數多只表示口碑累積得久。點名字可跳到該位司機的分享連結。
-
-| 司機 | 網友分享則數 |
-| --- | --- |
-| [Jimmi Liu 吉米劉](#jimmi-liu-吉米劉) | 9 |
-| [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 25 |
-| [Any 安妮](#any-安妮) | 31 |
-| [Komang WikaSutresna](#komang-wikasutresna) | 13 |
-| [Fery Kyo](#fery-kyo) | 18 |
-| [Gede Ari](#gede-ari) | 9 |
-| [Benny Surya Pragosa](#benny-surya-pragosa) | 12 |
-| [Satrya Gede](#satrya-gede) | 9 |
-| [Ok Bali](#ok-bali) | 22 |
-| [Maday](#maday) | 5 |
-| [Dody](#dody) | 17 |
-| [Vina](#vina) | 13 |
-| [Iwayan Suantara 康哥](#iwayan-suantara-康哥) | 20 |
-| [Kadek Puri](#kadek-puri) | 6 |
-| [Dwik](#dwik) | 4 |
-| [Odon](#odon) | 6 |
-| [Gung Bali Wangzi 王子](#gung-bali-wangzi-王子) | 19 |
-| [Gede Mahendra](#gede-mahendra) | 6 |
-| [Manx Liega](#manx-liega) | 17 |
+順序**不代表排名**，
 
 <!-- shuffle-start -->
 
@@ -171,6 +149,12 @@ Update: 2026/08/10
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
 👍 **17 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
+
+## Gede John (UD Sadana)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
+
+👍 **5 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
