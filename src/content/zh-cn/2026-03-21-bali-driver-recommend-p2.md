@@ -1,7 +1,7 @@
 ---
-title: 巴厘岛包车司机推荐名单（第二页）｜中文司机为主·社团真实分享
+title: 巴厘岛包车司机推荐名单（第二页）｜社团真实分享
 slug: ''
-description: 巴厘岛包车司机推荐名单第二页，以可中文沟通的司机为主，每位司机底下的分享链接都能点开查证原始社团贴文。附2026包车行情与联系时该提供的信息。
+description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,9 +17,9 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-15T00:00:00.000Z
+updatedDate: 2026-08-19T00:00:00.000Z
 lang: zh-cn
-_srcHash: 3f00a105c3ce21bf88416e6a2f7eed46
+_srcHash: 94f092e2aecf47f78cec35e920168b6a
 ---
 
 Update: 2026/08/10
@@ -32,31 +32,9 @@ Update: 2026/08/10
 
 **👉 第一页还有另外 24 位司机（含 9 位中文司机）：**[**巴厘岛包车司机推荐名单（第一页）**](/zh-cn/blog/bali-private-car-drivers-guide/)
 
-## 本页 19 位司机一览表
+## 本页 20 位司机一览表
 
-顺序**不代表排名**，则数多只表示口碑积累得久。点名字可跳到该位司机的分享链接。
-
-| 司机 | 网友分享则数 |
-| --- | --- |
-| [Jimmi Liu 吉米刘](#jimmi-liu-吉米刘) | 9 |
-| [Betty Pinsky & 小吴](#betty-pinsky--小吴) | 25 |
-| [Any 安妮](#any-安妮) | 31 |
-| [Komang WikaSutresna](#komang-wikasutresna) | 13 |
-| [Fery Kyo](#fery-kyo) | 18 |
-| [Gede Ari](#gede-ari) | 9 |
-| [Benny Surya Pragosa](#benny-surya-pragosa) | 12 |
-| [Satrya Gede](#satrya-gede) | 9 |
-| [Ok Bali](#ok-bali) | 22 |
-| [Maday](#maday) | 5 |
-| [Dody](#dody) | 17 |
-| [Vina](#vina) | 13 |
-| [Iwayan Suantara 康哥](#iwayan-suantara-康哥) | 20 |
-| [Kadek Puri](#kadek-puri) | 6 |
-| [Dwik](#dwik) | 4 |
-| [Odon](#odon) | 6 |
-| [Gung Bali Wangzi 王子](#gung-bali-wangzi-王子) | 19 |
-| [Gede Mahendra](#gede-mahendra) | 6 |
-| [Manx Liega](#manx-liega) | 17 |
+顺序**不代表排名**，
 
 <!-- shuffle-start -->
 
@@ -94,31 +72,31 @@ Update: 2026/08/10
 
 ![Gede Ari](https://images.gobaligo.id/images/2026-03/1774787742788-new.jpg)
 
-👍 **9 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/qPecBumSKb19n61H/) [2](https://www.facebook.com/share/p/vSz6uDCaHkXa5C7i/) [3](https://www.facebook.com/share/p/z1LKhZJsymmzh8cP/) [4](https://www.facebook.com/share/p/YNkX9QPboM4WAaFf/) [5](https://www.facebook.com/share/p/MN4UgdQoviK2guhC/) [6](https://www.facebook.com/share/p/15g2iwHiRi/) [7](https://www.facebook.com/share/p/18pEtoE38n/) [8](https://www.facebook.com/share/p/1778WSPqsX/) [9](https://www.facebook.com/share/p/1AZpuDq2AR/)
+👍 **9 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/qPecBumSKb19n61H/) [2](https://www.facebook.com/share/p/vSz6uDCaHkXa5C7i/) [3](https://www.facebook.com/share/p/z1LKhZJsymmzh8cP/) [4](https://www.facebook.com/share/p/YNkX9QPboM4WAaFf/) [5](https://www.facebook.com/share/p/MN4UgdQoviK2guhC/) [6](https://www.facebook.com/share/p/15g2iwHiRi/) [7](https://www.facebook.com/share/p/18pEtoE38n/) [8](https://www.facebook.com/share/p/1778WSPqsX/) [9](https://www.facebook.com/share/p/1AZpuDq2AR/)
 
 ## Benny Surya Pragosa
 
 ![Benny Surya Pragosa](https://images.gobaligo.id/images/2026-03/1774787781378-banny_new.jpg)
 
-👍 **12 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/JUg9QjCMDG7K75nr/) [2](https://www.facebook.com/share/p/s39xGpq4cVsh9bjG/) [3](https://www.facebook.com/share/p/t3EHqhCL5htfXfVQ/) [4](https://www.facebook.com/share/p/5egs8Vg4Ud9e6cyW/) [5](https://www.facebook.com/share/p/CqraR8WkCsspJLvb/) [6](https://www.facebook.com/share/p/r9ftMBeDm9Cgumhs/) [7](https://www.facebook.com/share/p/dPAw1ahmB7PcpktD/) [8](https://www.facebook.com/share/p/1Gcd2DLgiS/) [9](https://www.facebook.com/share/p/169eEJ8G1q/) [10](https://www.facebook.com/share/p/1Ch6jkpijW/) [11](https://www.facebook.com/share/p/18rmP59Es5/) [12](https://www.facebook.com/share/p/19MbmtqtFT/)
+👍 **12 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/JUg9QjCMDG7K75nr/) [2](https://www.facebook.com/share/p/s39xGpq4cVsh9bjG/) [3](https://www.facebook.com/share/p/t3EHqhCL5htfXfVQ/) [4](https://www.facebook.com/share/p/5egs8Vg4Ud9e6cyW/) [5](https://www.facebook.com/share/p/CqraR8WkCsspJLvb/) [6](https://www.facebook.com/share/p/r9ftMBeDm9Cgumhs/) [7](https://www.facebook.com/share/p/dPAw1ahmB7PcpktD/) [8](https://www.facebook.com/share/p/1Gcd2DLgiS/) [9](https://www.facebook.com/share/p/169eEJ8G1q/) [10](https://www.facebook.com/share/p/1Ch6jkpijW/) [11](https://www.facebook.com/share/p/18rmP59Es5/) [12](https://www.facebook.com/share/p/19MbmtqtFT/)
 
 ## Satrya Gede
 
 ![Satrya Gede](https://images.gobaligo.id/images/2026-03/1774787820408-satrya_gede_new.jpg)
 
-👍 **9 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) [2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) [3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) [4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) [5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) [6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) [7](https://www.facebook.com/share/18Ya4FGwZX/) [8](https://www.facebook.com/share/p/19u7ydTkaB/) [9](https://www.facebook.com/share/p/1AyrDVV6WG/)
+👍 **9 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) [2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) [3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) [4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) [5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) [6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) [7](https://www.facebook.com/share/18Ya4FGwZX/) [8](https://www.facebook.com/share/p/19u7ydTkaB/) [9](https://www.facebook.com/share/p/1AyrDVV6WG/)
 
 ## Ok Bali
 
 ![Ok Bali](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
-👍 **22 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/15mCz3P1kY/) [2](https://www.facebook.com/share/p/1SRP58oXXu/) [3](https://www.facebook.com/share/p/1BFVR9i9Uq/) [4](https://www.facebook.com/share/p/12DosfnXN2x/) [5](https://www.facebook.com/share/p/12FmFcPRLSk/) [6](https://www.facebook.com/share/p/19KS4osEn7/) [7](https://www.facebook.com/share/p/17VpLVZLeg/) [8](https://www.facebook.com/share/p/1AqLpg8w3P/) [9](https://www.facebook.com/share/p/1AUBSD62BY/) [10](https://www.facebook.com/share/p/16oadyoLab/) [11](https://www.facebook.com/share/p/17LGecvBqa/) [12](https://www.facebook.com/share/p/16Xti3BogQ/) [13](https://www.facebook.com/share/p/1FvfUX1Uaf/) [14](https://www.facebook.com/share/p/17sY8L42wu/) [15](https://www.facebook.com/share/p/1FhxnKv2zq/) [16](https://www.facebook.com/share/p/1P1HdctcH5/) [17](https://www.facebook.com/share/p/1MkMRMSnyn/) [18](https://www.facebook.com/share/p/14ceo2DYRKU/) [19](https://www.facebook.com/share/p/14dHRKTTwCJ/) [20](https://www.facebook.com/share/p/1b4HP8SvMa/) [21](https://www.facebook.com/share/v/18nfjeP9AX/) [22](https://www.facebook.com/share/p/191ENxgyVP/)
+👍 **22 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/15mCz3P1kY/) [2](https://www.facebook.com/share/p/1SRP58oXXu/) [3](https://www.facebook.com/share/p/1BFVR9i9Uq/) [4](https://www.facebook.com/share/p/12DosfnXN2x/) [5](https://www.facebook.com/share/p/12FmFcPRLSk/) [6](https://www.facebook.com/share/p/19KS4osEn7/) [7](https://www.facebook.com/share/p/17VpLVZLeg/) [8](https://www.facebook.com/share/p/1AqLpg8w3P/) [9](https://www.facebook.com/share/p/1AUBSD62BY/) [10](https://www.facebook.com/share/p/16oadyoLab/) [11](https://www.facebook.com/share/p/17LGecvBqa/) [12](https://www.facebook.com/share/p/16Xti3BogQ/) [13](https://www.facebook.com/share/p/1FvfUX1Uaf/) [14](https://www.facebook.com/share/p/17sY8L42wu/) [15](https://www.facebook.com/share/p/1FhxnKv2zq/) [16](https://www.facebook.com/share/p/1P1HdctcH5/) [17](https://www.facebook.com/share/p/1MkMRMSnyn/) [18](https://www.facebook.com/share/p/14ceo2DYRKU/) [19](https://www.facebook.com/share/p/14dHRKTTwCJ/) [20](https://www.facebook.com/share/p/1b4HP8SvMa/) [21](https://www.facebook.com/share/v/18nfjeP9AX/) [22](https://www.facebook.com/share/p/191ENxgyVP/)
 
 ## Maday
 
 ![Maday](https://images.gobaligo.id/images/2026-03/1774787915089-maday_new.jpg)
 
-👍 **5 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1ZAH5Hd7nB/) [2](https://www.facebook.com/share/p/18DJzD9WRR/) [3](https://www.facebook.com/share/p/15dpkWJEPn/) [4](https://www.facebook.com/share/p/1Xm2rzrEee/) [5](https://www.facebook.com/share/p/16t1D7TaMU/)
+👍 **5 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1ZAH5Hd7nB/) [2](https://www.facebook.com/share/p/18DJzD9WRR/) [3](https://www.facebook.com/share/p/15dpkWJEPn/) [4](https://www.facebook.com/share/p/1Xm2rzrEee/) [5](https://www.facebook.com/share/p/16t1D7TaMU/)
 
 ## Dody
 
@@ -148,31 +126,37 @@ Update: 2026/08/10
 
 ![Dwik](https://images.gobaligo.id/images/2026-03/1774788094653-dwik_new.jpg)
 
-👍 **4 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/groups/baligo/permalink/1491494108064496/) [2](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [3](https://www.facebook.com/groups/baligo/permalink/1581822932364946/) [4](https://www.facebook.com/share/p/tLizdprLDSi7C2PB/)
+👍 **4 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/groups/baligo/permalink/1491494108064496/) [2](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) [3](https://www.facebook.com/groups/baligo/permalink/1581822932364946/) [4](https://www.facebook.com/share/p/tLizdprLDSi7C2PB/)
 
 ## Odon
 
 ![Odon](https://images.gobaligo.id/images/2026-03/1774788129506-odon_new.jpg)
 
-👍 **6 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
+👍 **6 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
 ## Gung Bali Wangzi 王子
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍 **19 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
+👍 **19 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
 
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍 **6 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1ENRDfkjEw/) [2](https://www.facebook.com/share/p/17qogSzHU1/) [3](https://www.facebook.com/share/p/1FVRdBgbNL/) [4](https://www.facebook.com/share/p/1Kw5mTbHAa/) [5](https://www.facebook.com/share/p/1JYmnQC1w9/) [6](https://www.facebook.com/share/p/1CwwL8mTrC/)
+👍 **6 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1ENRDfkjEw/) [2](https://www.facebook.com/share/p/17qogSzHU1/) [3](https://www.facebook.com/share/p/1FVRdBgbNL/) [4](https://www.facebook.com/share/p/1Kw5mTbHAa/) [5](https://www.facebook.com/share/p/1JYmnQC1w9/) [6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
-👍 **17 则网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
+👍 **17 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
+
+## Gede John (UD Sadana)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
+
+👍 **5 条网友实测分享**（点数字看社团原贴文）：[1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 

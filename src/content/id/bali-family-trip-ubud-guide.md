@@ -1,12 +1,12 @@
 ---
 slug: bali-family-trip-ubud-guide
 title: >-
-  【Dua Dewasa Dua Anak di Bali】Liburan Keluarga Seru! Itinerary Keluarga
+  【Dua Dewasa Dua Anak di Bali】Liburan Keluarga Seru! Itinerary Keluarga ke
   Bali｜Enam Hari di Ubud: Rekomendasi Kuliner, Tempat Wisata, Akomodasi, dan
   Eksplorasi Gunung Berapi
 description: >-
-  Liburan keluarga ke Bali kali ini, kami merencanakan enam hari bermain di Ubud
-  dan sekitarnya
+  Liburan keluarga ke Bali kali ini, kami merencanakan enam hari di Ubud dan
+  sekitarnya
 pubDate: 2024-12-17T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
@@ -20,21 +20,20 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bb2fa691f835fe4223ba3f58eb11eec4.jpg'
 originalUrl: 'https://vocus.cc/article/674bb924fd8978000120ac11'
 lang: id
-_srcHash: PENDING_RETRY_beb00be3ffb74248c681432bcd0d1d0b
-_translateAttempts: 1
+_srcHash: beb00be3ffb74248c681432bcd0d1d0b
 ---
 > Kakak dari Vietnam yang tinggal di Taiwan pergi liburan ke Bali bersama keluarganya.
-> Artikel ini diadaptasi/diterbitkan ulang dengan izin dari pemilik "[Let's Play and Eat 胡志明市](https://www.facebook.com/profile.php?id=100068951930592)"
-> Tulisan asli dimuat di grup Facebook "[Bali/Indonesia吃喝玩樂 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)"
+> Artikel ini diadaptasi/diterbitkan ulang dengan izin dari pemilik '[Let's Play and Eat Ho Chi Minh City](https://www.facebook.com/profile.php?id=100068951930592)'
+> Tulisan asli dimuat di grup Facebook '[Bali/Indonesia吃喝玩樂 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)'
 > Diambil dari grup, dan dikembalikan lagi ke grup
 
-**Ringkasan Penting**: Ini adalah catatan perjalanan keluarga dua dewasa dua anak selama enam hari di Ubud — dua hari pertama menginap di Aloft Kuta sambil mengunjungi GWK Garuda Wisnu Kencana dan objek wisata Uluwatu, mulai hari ketiga pindah ke Ubud. Itinerary mencakup restoran pemandangan air terjun Tegenungan Omma Bali, eksplorasi gunung berapi, kuliner lokal, dan akomodasi. Sepanjang perjalanan menggunakan mobil sewaan. Cocok untuk keluarga yang ingin referensi proporsi dan pengaturan waktu perjalanan keluarga yang realistis.
+**Ringkasan Penting**: Ini adalah catatan perjalanan keluarga dua dewasa dua anak selama enam hari di Ubud — dua malam pertama menginap di Aloft Kuta untuk menjangkau GWK Garuda Wisnu Kencana dan objek wisata Uluwatu, lalu mulai hari ketiga pindah ke Ubud. Itinerary mencakup restoran pemandangan air terjun Tegenungan Omma Bali, eksplorasi gunung berapi, kuliner lokal, dan akomodasi,全程 menggunakan mobil sewaan. Cocok untuk keluarga yang ingin referensi proporsi dan pengaturan waktu perjalanan keluarga yang realistis.
 
 ## Latar Belakang
 
-Dua hari pertama setelah tiba di Bali, kami memilih menginap di Aloft Kuta yang terletak di dalam Beachwalk Shopping Center, dibuka pada April 2022. Hotel ini adalah merek muda dari Marriott, dengan desain simpel dan nyaman, harga relatif terjangkau namun tetap menjaga kualitas Marriott. Pelayanannya ramah, fasilitasnya baru, dan rasanya benar-benar enak (mantap)! Kamar twin dengan dua tempat tidur besar juga cocok untuk kebutuhan keluarga kami berempat, dua dewasa dan dua anak.
+Dua hari pertama setelah tiba di Bali, kami memilih menginap di Aloft Kuta yang berlokasi di dalam 'Beachwalk Shopping Center' dan dibuka pada April 2022. Hotel ini adalah merek muda di bawah Marriott, dengan desain simpel dan nyaman, harga relatif terjangkau namun tetap menjaga kualitas Marriott, pelayanan ramah, dan fasilitas secara keseluruhan baru — pokoknya puas banget! Kamar twin dengan dua tempat tidur besar juga cocok untuk kebutuhan keluarga kami yang terdiri dari dua dewasa dan dua anak.
 
-Klik di sini untuk lihat: [Review Menginap di Aloft Kuta, Beachwalk Shopping Center](/id/blog/bali-family-trip-aloft-kuta/)
+Klik di sini untuk lihat: [Review Menginap di Aloft Kuta & Beachwalk Shopping Center](/id/blog/bali-family-trip-aloft-kuta/)
 
 Hari kedua itinerary kami: [GWK Garuda Wisnu Kencana, Pantai Gratis Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu](/id/blog/bali-family-trip-aloft-kuta/)
 
@@ -44,15 +43,15 @@ Selanjutnya, kita mulai petualangan enam hari di Ubud!
 
 ## Hari Ketiga:
 
-### 《Bali/Tegenungan Waterfall》- Kenikmatan Maksimal di Samping Air Terjun 《Omma Bali》
+### 《Bali/Tegenungan Waterfall》-  Air Terjun Tegenungan & Sensasi Mewah di Tepiannya 《Omma Bali》
 
-🌈 Cara main di Bali tuh di luar dugaan banget. Mau pantai yang tenang atau air terjun yang megah, setiap kali pasti kasih pengalaman baru. Kali ini kita pilih **Tegenungan Waterfall**, dan dipadu sama restoran dengan pemandangan《Omma Bali》, buat liburan santai sambil lihat air terjun.
+🌈 Cara main di Bali tuh di luar dugaan banget. Mau pantai yang tenang atau air terjun yang spektakuler, setiap kali pasti kasih pengalaman baru. Kali ini kita milih **Tegenungan Waterfall**, dan langsung cobain restoran dengan pemandangan《Omma Bali》, buat liburan santai sambil nikmatin air terjun.
 
 🌊 **Info Dasar Tegenungan Waterfall**
 
 📍**Lokasi**: Tegenungan Waterfall
 
-💰**Biaya Masuk Area Wisata**:
+💰**Biaya Masuk Kawasan**:
 
 - Dewasa: 20,000 IDR (sekitar USD$1)
 - Anak-anak: 10,000 IDR (sekitar USD$0.5)
@@ -79,28 +78,28 @@ Selanjutnya, kita mulai petualangan enam hari di Ubud!
 
 🏞️ **Kenapa Pilih《Omma Bali》?**
 
-Kebanyakan tempat air terjun harus jalan kaki buat sampai. Tapi《Omma Bali》beda banget karena kemudahannya:
+Kebanyakan tempat air terjun harus jalan kaki dulu buat nyampe. Tapi《Omma Bali》beda banget karena kemudahannya:
 
-1. **Lift khusus langsung ke Day Club**: Nggak perlu capek turun gunung, cocok buat yang males atau liburan keluarga.
-2. **Pemandangan kece**: Duduk di restoran aja udah bisa lihat air terjun yang megah, nikmatin alam dengan santai.
-3. **Banyak cara main**: Bisa pilih masuk kolam renang (ada minimum order), lihat air terjun, atau jalan kaki ke bawah buat foto-foto.
+1. **Lift khusus langsung ke Day Club**: Gak perlu capek turun gunung, cocok buat yang males atau liburan sama keluarga.
+2. **Pemandangan kece**: Duduk di restoran aja udah bisa liat air terjun megah, nikmatin alam dengan santai.
+3. **Banyak cara main**: Bisa pilih masuk kolam renang (ada minimum order), liat air terjun, atau jalan kaki ke bawah buat foto-foto.
 
 https://youtu.be/MmqfkXw211k?si=lRF-nUKK6GXJ-wKm
 
 🍹 **Info Harga di Omma Bali**
 
-- Harga minuman non-alkohol dan makanan tergolong standar dan oke, tapi minuman beralkohol lumayan mahal 🍸.
+- Minuman non-alkohol dan makanan harganya masih oke, tapi minuman beralkohol lumayan mahal 🍸.
 - **Aturan minimum pemesanan**: makin dekat kursi ke kolam renang atau air terjun, makin tinggi minimum pemesanannya. Kalau cuma mampir sebentar, ada juga kursi biasa tanpa minimum pemesanan.
 
 👣 **Tips Santai Lihat Air Terjun**
 
-Dari Omma Bali jalan kaki ke air terjun cuma 2-3 menit, super gampang. Kalau males gerak, dari kursi di restoran juga udah bisa lihat air terjun utuh, gemericik airnya bikin adem banget 💦.
+Dari Omma Bali cuma jalan 2-3 menit ke air terjun, gampang banget. Kalau males gerak, dari kursi restoran juga udah bisa lihat air terjun utuh, pemandangan air terjun yang deras bikin adem dan segar 💦.
 
 ***
 
 ### Restoran Taman Bali, Nikmati Bebek Kriuk 🍗 Laka Leke Restaurant
 
-Kalau kamu lagi di Ubud dan cari tempat makan yang bisa nikmatin makanan khas Bali sambil jauh dari keramaian, Laka Leke Restaurant wajib banget kamu coba. Dari luar keliatannya biasa aja, tapi di dalemnya ada taman Bali yang luas, suasana makannya nyaman, dan bebek kriuk andalannya bikin ngiler.
+Kalau kamu lagi di Ubud dan nyari tempat yang bisa nikmatin makanan khas Bali sambil jauhin keramaian, Laka Leke Restaurant wajib banget kamu coba. Dari luar keliatannya low profile, tapi di dalamnya ada taman Bali yang luas, suasana makannya nyaman, dan bebek kriuk andalannya juara banget.
 
 ![峇里島庭園餐廳 悠悠品味脆皮鴨 《Laka Leke Restaurant》](https://images.gobaligo.id/images/2026-04/1776693671363-298772165_612239383592412_8414755404080700716_n.jpg)
 
@@ -122,58 +121,58 @@ Kalau kamu lagi di Ubud dan cari tempat makan yang bisa nikmatin makanan khas Ba
 
 ![峇里島庭園餐廳 悠悠品味脆皮鴨 《Laka Leke Restaurant》](https://images.gobaligo.id/images/2026-04/1776693676630-299656022_612239943592356_6524207959937672702_n.jpg)
 
-Restoran taman ini dekat banget sama tempat nginep kita di **Bali Bohemia Huts**, jalan kaki sekitar 100 meter aja. Kalau kebetulan habis dari Monkey Forest, bisa langsung ke sini dari Gate 3, gampang banget jalannya.
+Restoran taman ini dekat dengan penginapan kami **Bali Bohemia Huts**, tinggal jalan kaki sekitar 100 meter. Kalau kebetulan habis dari Monkey Forest, bisa lewat Gate 3 langsung ke sini, gampang banget.
 
-🏡 **Keunikan & Suasana Restoran**
+🏡 **Suasana & Keunikan Restoran**
 
-- **Taman & Suasana:** Restoran ini terbagi menjadi area duduk indoor bergaya 'rumah panggung tradisional' dan area outdoor di belakang. Dari area belakang, kamu bisa menikmati pemandangan sawah bertingkat yang hijau banget — suasananya tenang, bikin rileks maksimal.
-- **Tradisi & Hiburan:** Kadang-kadang ada pertunjukan tari tradisional Bali dan kelas memasak (Cooking Class) di sini. Tapi jadwalnya nggak tetap, jadi mending konfirmasi dulu ke pihak restoran sebelum datang.
-- **Hindari Keramaian:** Kalau kamu nggak suka antrean panjang di restoran hits Ubud kayak 'Bebek Bengil', mending ke sini aja. Suasananya lebih adem dan tenang, cocok buat nikmatin bebek goreng tanpa stres.
+- **Desain Taman:** Restoran ini terbagi menjadi area duduk indoor bergaya rumah panggung tradisional dan area outdoor di belakang. Dari bagian belakang, kamu bisa menikmati pemandangan sawah hijau yang bikin rileks banget.
+- **Tradisi & Hiburan:** Kadang-kadang ada pertunjukan tari tradisional Bali dan kelas memasak (Cooking Class) di sini, tapi jadwalnya nggak tetap — mending tanya langsung ke pihak restoran buat info terbaru.
+- **Hindari Keramaian:** Kalau kamu nggak suka antrean panjang di restoran hits Ubud kayak Bebek Bengil, mending ke sini aja buat nikmatin bebek goreng yang lebih tenang dan nyaman.
 
 🍴 **Rekomendasi Menu: Bebek Goreng Kriuk (Crispy Duck)**
 
-- **Keistimewaan:**
-   Setengah ekor bebek yang sudah dimarinasi bumbu rahasia, lalu digoreng sampai kulitnya keemasan dan super renyah. Begitu digigit, bunyinya kriuk-kriuk — lemaknya pas, nggak bikin enek. Bahkan tulangnya pun bisa dikunyah sampai lumat, bikin nagih!
-- **Tekstur Daging:**
-   Meskipun dagingnya agak kering (agak alot), tapi pas dicocol sama tiga saus buatan sendiri, rasanya makin kaya. Masing-masing saus punya level pedas yang beda, segar dan enak — bikin kamu nggak sadar jilat-jilat jari.
+- **Keunikan:**
+   Setengah ekor bebek yang sudah dimarinasi bumbu rahasia, digoreng sampai kulitnya keemasan dan super renyah — bunyi kriuk-kriuk pas digigit. Minyaknya pas, nggak bikin enek. Bahkan tulangnya pun gampang dikunyah, bikin nagih!
+- **Tekstur Daging Bebek:**
+   Meskipun dagingnya agak kering, tapi pas dicocol tiga saus buatan sendiri, rasanya makin kaya. Masing-masing saus punya level pedas yang beda, segar dan enak banget — dijamin bikin jilat jari!
 
-🌟 **Pilihan Menu Lain yang Nggak Kalah Enak**
+🌟 **Pilihan Menu Lainnya**
 
-Meskipun bebek goreng kriuk jadi andalan, menu-menu lainnya juga oke punya:
+Meskipun restoran ini paling terkenal dengan bebek garingnya, menu lainnya juga nggak kalah enak:
 
-1. **Lemon Chicken（檸檬雞肉）：**
-   Dagingnya empuk banget, dipadu saus lemon yang asam segar, plus kentang bola yang lembut — enak dan bikin kenyang.
-2. **Spaghetti Carbonara（奶醬義大利麵）：**
-   Sausnya creamy, rasa susunya kuat, tekstur pastanya pas — simpel tapi bikin puas.
-3. **Nasi Campur（印尼雜菜飯）：**
-   Hidangan klasik Indonesia dengan campuran aneka lauk tradisional. Katanya versi di sini rasanya autentik banget, wajib coba.
+1. **Lemon Chicken:**
+   Dagingnya empuk banget, dipadu saus lemon yang asam segar, plus kentang tumbuk yang lembut — dijamin kenyang dan puas.
+2. **Spaghetti Carbonara:**
+   Sausnya creamy, rasa susunya kuat, pastanya matang pas — sederhana tapi bikin nagih.
+3. **Nasi Campur:**
+   Hidangan klasik Indonesia dengan campuran aneka lauk tradisional. Katanya versi di sini rasanya autentik banget, wajib coba!
 
 🍹 **Rekomendasi Minuman**
 
-- **Mango Smooth（芒果奶昔）：** Rasa buahnya pekat, teksturnya lembut — sempurna buat ngilangin haus.
-- **Coconut Juice（椰子汁）：** Kelapa segar asli, bikin seger dan adem.
-- **Ice Tea（冰茶）：** Segar dan ngilangin enek, cocok dipadu sama menu apa pun.
+- **Mango Smoothie:** Rasa buahnya pekat, teksturnya lembut — pelepas dahaga yang sempurna.
+- **Coconut Juice:** Kelapa segar asli, langsung bikin adem dan segar.
+- **Ice Tea:** Segar dan bikin lidah kembali netral, cocok dipadu dengan menu apa pun.
 
 💰 **Perkiraan Harga**
 
-- **Crispy Duck（脆皮鴨餐）**：140,000 IDR（sekitar USD$9）
-- **Lemon Chicken（檸檬雞肉）**：60,000 IDR（sekitar USD$4）
-- **Spaghetti Carbonara 奶醬義大利麵**：60,000 IDR（約 120 TWD）
-- **Mango Smooth（芒果奶昔）**：35,000 IDR（sekitar USD$2）
-- **Coconut Juice**：27,000 IDR（sekitar USD$2）
-- **Ice Tea**：18,000 IDR（sekitar USD$1）
+- **Crispy Duck (Bebek Garing):** 140,000 IDR (sekitar USD$9)
+- **Lemon Chicken:** 60,000 IDR (sekitar USD$4)
+- **Spaghetti Carbonara:** 60,000 IDR (sekitar USD$4)
+- **Mango Smooth**：35,000 IDR (sekitar USD$2)
+- **Coconut Juice**：27,000 IDR (sekitar USD$1)
+- **Ice Tea**：18,000 IDR (sekitar USD$1)
 
-《Laka Leke Restaurant》 adalah restoran yang memadukan pesona taman tradisional Bali dengan hidangan klasik yang lezat. Mulai dari ruang makan yang luas dan nyaman, desain khas rumah panggung tradisional, hingga kerenyahan bebek goreng andalannya — semuanya bikin tempat ini wajib kamu kunjungi.
+《Laka Leke Restaurant》adalah restoran yang memadukan nuansa taman tradisional Bali dengan hidangan klasik yang sempurna. Mulai dari ruang makan yang luas dan nyaman, desain khas rumah panggung tradisional, hingga kerenyahan bebek goreng andalannya — semuanya worth it buat dikunjungi.
 
-Kalau kamu mau menghindari keramaian restoran populer di Ubud tapi tetap ingin mencicipi cita rasa klasik Bali, segera catat restoran low-key tapi bikin speechless ini ke itinerary-mu!
+Kalau kamu mau menghindari keramaian restoran populer di Ubud tapi tetap nggak mau ketinggalan cita rasa khas Bali, segera catat restoran low-key tapi bikin terkesan ini ke itinerary kamu!
 
 📍**Alamat & Tips Transportasi:**
 
-Terletak di dekat Bali Bohemia, hanya 100 meter jalan kaki dari Monkey Forest Gate 3. Saran: habiskan pagi hari jalan-jalan di Monkey Forest, lalu langsung jalan kaki ke sini untuk makan siang.
+Terletak di dekat Bali Bohemia, hanya 100 meter jalan kaki dari Monkey Forest Gate 3. Saran: habiskan pagi hari jalan-jalan di Monkey Forest, terus langsung jalan kaki ke sini buat makan siang.
 
-### 🏨 **Rekomendasi Menginap Hari Ketiga: 《Bali Bohemia Huts》**—— Surga Budget yang Seru dan Tenang 🐒
+### 🏨 **Rekomendasi Menginap Hari Ketiga：《**Bali Bohemia Huts**》**——Surga Budget yang Seru dan Tenang 🐒
 
-Menginap di 《Bali Bohemia Huts》 yang berada di pinggir pusat Ubud, kamu bisa merasakan hiruk-pikuk kota sekaligus ketenangan di sekitar Monkey Forest. Bikin perjalananmu seimbang antara ramai dan damai.
+Menginap di 《Bali Bohemia Huts》 yang ada di pinggiran pusat Ubud, kamu bisa merasakan hiruk-pikuk kota sekaligus ketenangan di sekitar Monkey Forest — bikin perjalananmu seimbang antara ramai dan santai.
 
 **《Bali Bohemia Huts》Highlight:**
 
@@ -197,60 +196,60 @@ Menginap di 《Bali Bohemia Huts》 yang berada di pinggir pusat Ubud, kamu bisa
 
 ![第三天住宿推薦：《Bali Bohemia Huts》——熱鬧與寧靜兼具的小資天堂](https://images.gobaligo.id/images/2026-04/1776693752326-298840732_611499150333102_4838958671659319336_n.jpg)
 
-- 🛏 **Rekomendasi Tipe Kamar:** Deluxe Mezzanine Room with Balcony.
-- 💵 **Harga kamar:** 690,000 IDR per malam (sekitar USD$45), belum termasuk sarapan.
-- 🍴 **Mudah cari makan:** Ada restoran di depan, buka untuk sarapan, makan siang, dan makan malam; dari jendela restoran kamu bisa lihat monyet jalan-jalan, seru banget.
-- 🛋 **Kelebihan kamar:** Ruangannya luas, value for money banget, cocok buat backpacker atau traveler yang suka simpel.
+- 🛏 **Rekomendasi Tipe Kamar:** Deluxe Mezzanine Room with Balcony。
+- 💵 **Harga Kamar:** 690,000 IDR per malam (sekitar USD$45), belum termasuk sarapan.
+- 🍴 **Makan Praktis:** Ada restoran di depan yang buka untuk sarapan, makan siang, dan makan malam; dari jendela restoran kamu bisa lihat monyet jalan-jalan, seru banget.
+- 🛋 **Kelebihan Kamar:** Ruangannya luas, value for money banget, cocok buat backpacker atau traveler yang suka simpel.
 
 **Lokasi:**
 
 - Jalan kaki ke pintu utama Monkey Forest: 5 menit.
-- Jalan kaki ke Ubud Palace: 25~30 menit (jalan kecil di malam hari gelap tanpa lampu, saran bawa senter).
+- Jalan kaki ke Ubud Palace: 25~30 menit (jalan kecil di malam hari nggak ada lampu, saran bawa senter).
 
-[**▶Link Booking Bali Bohemia Huts**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2520262)
+[**▶ Link Booking Bali Bohemia Huts**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2520262)
 
-**Tempat Wisata di Sekitar:**
+**Tempat Wisata Sekitar:**
 
 - 🐒 **Monkey Forest Sacred Monkey Forest Sanctuary**: Pilihan pas buat liburan keluarga, monyetnya jinak dan jarang agresif.
-- 🌙 **Pasar Malam Ubud & Pertunjukan:** Di Ubud Palace dan Water Palace (gang samping Starbucks) setiap Senin malam ada pertunjukan tari tradisional, tiket 100,000 IDR, wajib coba buat nikmatin budaya Bali.
-- 🛍 **Ubud Market**：tempat yang pas buat beli oleh-oleh khas Bali.
-- 🍯 **Kou Cuisine Selai Buah Tangan:** kualitasnya oke dan bungkusnya lucu, cocok buat oleh-oleh atau buat sendiri.
+- 🌙 **Ubud Night Market & Pertunjukan:** Di Ubud Palace dan Water Palace (gang samping Starbucks) setiap Senin malam ada pertunjukan tari tradisional, tiket 100,000 IDR, cocok buat ngerasain keindahan budaya Bali. 
+- 🛍 **Ubud Market:** Tempat yang oke buat beli oleh-oleh khas. 
+- 🍯 **Kou Cuisine Selai Buah Tangan:** Kualitasnya bagus dan lucu banget buat oleh-oleh, cocok dikasih ke orang atau buat sendiri. 
 
-**Penemuan tak sengaja:**
+**Penemuan Tak Terduga:** 
 
-- **《Opini Kopi Garden》Restoran Kekinian:** harganya ramah di kantong, jusnya asli tanpa campuran, suasananya nyaman banget, worth it buat dikunjungi.
+- **Kafe Kekinian 《Opini Kopi Garden》:** Harganya ramah di kantong, jusnya asli tanpa campuran, suasananya nyaman banget, worth it buat dikunjungi. 
 
-⚠️ Perhatian:
+⚠️ Catatan: 
 
-- Malam hari jalan kecil di Ubud agak gelap, jadi senter HP wajib dibawa!
-- Dari sekitar penginapan nggak bisa langsung masuk ke pintu utama Monkey Forest, tapi jalan kaki beberapa menit aja sampai.
+- Malam hari jalan kecil di Ubud agak gelap, jadi senter HP wajib banget dibawa! 
+- Dari penginapan nggak bisa langsung masuk ke pintu utama Monkey Forest, tapi jalan kaki beberapa menit aja sampai. 
 
 ***
 
 ## Hari Keempat
 
-### 《Bali/Ubud》- Seru-seruan Selfie sama Monyet di《Sacred Monkey Forest Sanctuary》
+### 《Bali/Ubud》— Selfie Seru Bareng Monyet di Sacred Monkey Forest Sanctuary
 
-🌞**Hidup santai di samping Monkey Forest**
+🌞**Hidup Santai di Samping Hutan Monyet**
 
-Memilih nginep di deket Sacred Monkey Forest Sanctuary (Hutan Monyet) itu enak banget buat nikmatin pagi dengan santai. Sarapan pelan-pelan, ngopi dulu, terus jalan kaki ke taman — siap-siap aja buat kencan seru sama para monyet 🐒.
+Keuntungan terbesar nginep di dekat Sacred Monkey Forest Sanctuary? Kamu bisa menikmati pagi dengan santai. Sarapan pelan-pelan, ngopi dulu, lalu jalan kaki ke taman — siap-siap aja buat kencan seru sama para monyet.
 
-💡 Rekomendasi: **Monkey Cave Expresso**
+💡Rekomendasi: **Monkey Cave Expresso**
 
-Deket taman ada kafe dengan rating Google 4.8 bintang, cocok banget buat nikmatin pagi Ubud yang adem sebelum main ke Hutan Monyet ☕.
+Ada kafe dekat taman yang rating Google-nya 4.8 bintang — cocok banget buat nikmatin pagi Ubud yang adem sebelum masuk hutan monyet ☕.
 
-🌳 **Info Penting Hutan Monyet**
+🌳 **Info Penting Monkey Forest**
 
-📍**Lokasi**: Cari **Sacred Monkey Forest Sanctuary** di maps, pintu masuknya langsung ketemu.
+📍**Lokasi**: Cari **Sacred Monkey Forest Sanctuary** di Google Maps, pintu masuk utama langsung ketemu
 
 🕘**Jam Buka**: 09:00 - 18:00 (masuk terakhir jam 17:00)
 
-💰**Harga Tiket**: (Catatan: April 2026 [sudah naik](/id/blog/2026-04-09-152047/))
+💰**Harga Tiket**: (Catatan: per April 2026 [sudah naik](/id/blog/2026-04-09-152047/))
 
-> Harga tiket tempat-tempat ini bisa berubah tergantung musim, jadi mending cek **[Daftar Harga Tiket Masuk Bali](/id/tickets/)** sebelum berangkat biar dapet info terbaru.
+> Harga tiket tempat kayak gini bisa berubah tergantung musim ramai. Mending cek **[Daftar Harga Tiket Bali](/id/tickets/)** sebelum berangkat biar dapat info terbaru.
 
-- Dewasa: 80.000 IDR (sekitar USD$5)
-- Anak-anak: 60.000 IDR (sekitar USD$4)
+- Dewasa: 80,000 IDR (sekitar USD$5)
+- Anak-anak: 60,000 IDR (sekitar USD$4)
 
 ![《Bali峇里島/Ubud 烏布》- 與猴子自拍趣《Sacred Monkey Forest Sanctuary 猴子森](https://images.gobaligo.id/images/2026-04/1776693804409-298700981_611944463621904_5418019092753314827_n.jpg)
 
@@ -272,32 +271,32 @@ Deket taman ada kafe dengan rating Google 4.8 bintang, cocok banget buat nikmati
 
 ![《Bali峇里島/Ubud 烏布》- 與猴子自拍趣《Sacred Monkey Forest Sanctuary 猴子森](https://images.gobaligo.id/images/2026-04/1776693809800-298559853_611948730288144_1072167431885588765_n.jpg)
 
-❗**Catatan Penting**: Pas masuk, kamu bisa ambil peta panduan cetak dalam berbagai bahasa (termasuk Mandarin). Jalan kaki keliling taman butuh sekitar 30-60 menit. Pagi hari lebih sepi, monyetnya banyak — cocok banget buat kunjungan pagi.
+❗**Catatan Penting**: Setelah masuk, kamu bisa ambil peta panduan cetak dalam berbagai bahasa (termasuk Mandarin). Jalan kaki keliling area butuh waktu sekitar 30-60 menit. Pagi hari lebih sepi pengunjung, tapi banyak monyet — cocok banget buat dikunjungi pas subuh.
 
-🐒 **Tips Berinteraksi dengan Monyet**
+🐒 **Tips Akrab sama Monyet**
 
-Meskipun monyet-monyet di Monkey Forest relatif jinak, kamu tetap harus patuh pada aturan berikut:
+Meskipun monyet di Monkey Forest ini relatif jinak, tetap ada aturan yang harus dipatuhi:
 
 1. **Jangan tatap langsung mata monyet**
 2. **Jangan bawa kantong plastik atau botol plastik** (nanti direbut monyet)
 3. **Jangan sentuh atau ganggu monyet**
-4. **Dilarang memberi makan monyet**
+4. **Dilarang kasih makan monyet**
 
-Kalau mendongak, kamu bisa lihat monyet-monyet melompat di antara ranting pohon. Di bawah kaki, ada jalan setapak hutan yang dipenuhi pohon beringin, dikelilingi pura Hindu yang sakral. Harmoni antara monyet dan pura ini bikin suasana terasa sangat menenangkan.
+Kalau lihat ke atas, kamu bisa lihat monyet-monyet lompat di antara ranting pohon. Di bawah kaki, ada jalan setapak hutan yang dipenuhi pohon beringin. Di sekelilingnya, ada pura Hindu yang sakral. Harmoni antara monyet dan pura ini bikin hati tenang banget.
 
 🏛️ **Pura Kuno Abad ke-17**
 
-Di dalam kawasan ini ada sebuah pura Hindu yang dibangun pada abad ke-17. Meskipun nggak bisa masuk ke dalam, pemandangan lumut yang menutupi tembok pura aja udah cukup bikin kamu takjub.
+Di dalam area ini ada pura Hindu yang dibangun pada abad ke-17. Meskipun nggak bisa masuk ke dalam, pemandangan lumut yang menutupi tembok pura aja udah cukup bikin kamu takjub.
 
 📸 **Rahasia Selfie Bareng Monyet**
 
-Staf di sini menyediakan jasa foto profesional sambil memberi makan monyet. Kamu perlu beli tiket foto tambahan seharga 50.000 IDR (sekitar USD$2). Staf akan bantu ambil momen seru kayak monyet loncat ke pundak atau saat kamu kasih makan. Aman, cepat, dan worth it banget buat dicoba.
+Staf di area taman menyediakan jasa foto feeding monyet profesional, kamu perlu membeli tiket foto seharga 50,000 IDR (sekitar USD$2). Staf akan bantu mengabadikan momen seru seperti monyet melompat ke pundak, feeding, dan lainnya — aman dan efisien, worth it banget buat dicoba.
 
 **⚠️Catatan: Jangan kasih makan monyet sendiri ya, hindari tindakan berbahaya!**
 
-### 🌾 **TIS Cafe** — **Terasering Telaga Waja Rice Terrace** — Rekomendasi kafe dengan pemandangan super worth it ✨
+### 🌾 《TIS Cafe》**Terasering Telaga Waja** — Rekomendasi Kafe dengan Pemandangan Super Worth It ✨
 
-「德哥拉朗梯田」是烏布周邊不可錯過的景點之一，壯麗的層層梯田與盪鞦韆的刺激體驗，是許多遊客的首選，但也因商業化程度較高，讓旅程多了些「行動提款機」的感覺。💸
+「Terasering Telaga Waja」adalah salah satu spot wajib dikunjungi di sekitar Ubud. Pemandangan terasering yang megah dan sensasi ayunan yang seru jadi favorit banyak turis. Tapi sayangnya, karena udah terlalu komersial, perjalanan ke sini kadang terasa kayak 'ATM berjalan'. 💸
 
 ![《TIS Cafe》德哥拉朗梯田 Telaga Waja Rice Terrace——超值景觀咖啡廳推薦](https://images.gobaligo.id/images/2026-04/1776694045486-298573484_612851943531156_8450296040605444790_n.jpg)
 
@@ -319,31 +318,31 @@ Staf di sini menyediakan jasa foto profesional sambil memberi makan monyet. Kamu
 
 ![《TIS Cafe》德哥拉朗梯田 Telaga Waja Rice Terrace——超值景觀咖啡廳推薦](https://images.gobaligo.id/images/2026-04/1776694050668-299653259_612851480197869_2183461741274349301_n.jpg)
 
-**梯田收費情況：**
+**Situasi Biaya di Terasering:**
 
-1. 某些咖啡廳需要支付入場費；
-2. 踏入梯田的土地可能需要支付地主費；
-3. 每片梯田的土地分屬不同地主，收費各自獨立。
+1. Beberapa kafe mewajibkan biaya masuk;
+2. Kalau masuk ke area terasering, mungkin kena biaya ke pemilik lahan;
+3. Setiap petak terasering punya pemilik beda, biayanya juga terpisah.
 
-為了避免踩到這些「費用陷阱」，建議選擇環境優美、收費合理的《TIS Cafe》。這裡不僅免入場費，還能欣賞到一樣迷人的梯田美景，適合不愛大排長龍、不追求網紅打卡的你！😊
+Biar nggak kena jebakan biaya kayak gitu, mending pilih 《TIS Cafe》 yang tempatnya oke dan harganya masuk akal. Di sini nggak cuma gratis masuk, tapi pemandangan teraseringnya juga sama indahnya. Cocok banget buat kamu yang nggak suka antre panjang atau nggak kejar foto viral! 😊
 
-**《TIS Cafe》特色：**
+**Keunggulan 《TIS Cafe》:**
 
-- ✅ **免入場費**，而且風景不輸知名景點。
-- 💰 **盪鞦韆價格友善**，一次只需 50,000 IDR（約新台幣 100 元）。
-- 🌊 **小孩可使用泳池**，低消僅需 100,000 IDR/人（約新台幣 200 元）。
-- 🍽 餐點美味、價格親民，服務人員熱情友好。
-- 👣 **梯田捐獻自由**，一次性支付 10,000 IDR 即可進入多片梯田拍照（地主也非常友善）。
-- 📸 Ada fasilitas foto estetik gratis kayak hammock gantung, worth it banget! 
+- ✅ **Gratis masuk**, dan pemandangannya nggak kalah sama spot terkenal.
+- 💰 **Harga ayunan ramah di kantong**, sekali ayun cuma 50,000 IDR (sekitar USD$2).
+- 🌊 **Kolam renang bisa dipakai anak-anak**, minimum pemakaian cuma 100,000 IDR/orang (sekitar USD$6).
+- 🍽 Makanan enak, harga ramah di kantong, stafnya ramah banget.
+- 👣 **Donasi ke sawah bebas**, bayar sekali 10,000 IDR udah bisa masuk ke beberapa petak sawah buat foto-foto (pemilik tanahnya juga super ramah).
+- 📸 Ada fasilitas foto estetik gratis kayak hammock gantung, worth it banget!
 
 ⚠️ Saran:
 
-- Hindari jam sibuk biar suasana lebih tenang.
-- Pas berkunjung, hormati adat setempat. Donasi nggak wajib, tapi bawa uang kecil Rupiah sebagai tanda hormat.
+- Hindari jam sibuk biar dapet suasana lebih tenang.
+- Pas berkunjung, hormati adat setempat, donasi terserah kamu, tapi bawa uang kecil IDR sebagai tanda terima kasih.
 
-### **Warung Lokal Kece 《Van Sheva Waroeng》✨**
+### **Restoran Lokal 《Van Sheva Waroeng》✨**
 
-Pengen cobain cita rasa asli Bali? Cuma 200 meter dari penginapan, 《Van Sheva Waroeng》 murah meriah dan kamu bisa makan sambil lihat sawah luas — serasa jadi warga lokal.
+Mau cobain cita rasa asli Bali? Cuma 200 meter dari penginapan kita, 《Van Sheva Waroeng》 selain murah dan enak, kamu juga bisa makan dengan pemandangan sawah luas, serasa jadi bagian dari keseharian warga lokal.
 
 ![Local風味餐廳《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694109439-298799470_614174913398859_4711273031592294543_n.jpg)
 
@@ -365,32 +364,32 @@ Pengen cobain cita rasa asli Bali? Cuma 200 meter dari penginapan, 《Van Sheva 
 
 ![Local風味餐廳《Van Sheva Waroeng》](https://images.gobaligo.id/images/2026-04/1776694114765-300383176_614183043398046_540984758012209425_n.jpg)
 
-**🍴Keunggulan Warung**
+**🍴Sorotan Restoran**
 
-- **Harga lokal banget**: Harganya cuma seperlima restoran di pusat kota, tapi rasa dan pelayanannya juara.
-- **Dikelilingi sawah**: Ada area duduk di sawah, cocok buat sarapan atau makan malam sambil nikmatin pemandangan alam.
-- **Masak fresh**: Dikelola pasutri, masakannya homemade, hangat, dan sederhana.
+- **Harga Lokal Banget**: Harganya cuma seperlima dari restoran di pusat kota, tapi rasa dan pelayanannya tetap juara.
+- **Dikelilingi Sawah**: Resto ini punya area duduk di sawah, cocok datang pagi atau sebelum makan malam buat nikmatin pemandangan alam yang beda-beda.
+- **Dimasak Pas Dipesan**: Dikelola pasutri, masakan homemade-nya hangat dan sederhana.
 
-**🌟 Rekomendasi Menu**
+**🌟Menu Rekomendasi**
 
-1. **Iga Bakar**：40,000 IDR (sekitar USD$1)
-2. **Bebek Bakar**：40,000 IDR (sekitar USD$1)
-3. **Mie Goreng Ayam**：20,000 IDR (sekitar USD$1)
-4. **Spaghetti Carbonara**：30,000 IDR (sekitar USD$1)
-5. **Pisang Goreng Kribo**：15,000 IDR (sekitar USD$0)
+1. **Iga Bakar**: 40,000 IDR (sekitar USD$1)
+2. **Bebek Bakar**: 40,000 IDR (sekitar USD$1)
+3. **Mie Goreng Ayam**: 20,000 IDR (sekitar USD$1)
+4. **Spaghetti Carbonara**: 30,000 IDR (sekitar USD$1)
+5. **Pisang Goreng Kribo**: 15,000 IDR (sekitar USD$0)
 
-➡️ Selain itu, kentang goreng, sosis ayam, Pancake, dan lainnya juga wajib dicoba, pesan apa aja dijamin nggak bakal kecewa!
+➡️ Selain itu, kentang goreng, sosis ayam, pancake, dan lainnya juga wajib dicoba, pesen apa aja dijamin gak bakal kecewa!
 
-**🍽 Tips Kecil**
+**🍽Tips Kecil**
 
-- **Waktu tunggu agak lama**：Saat jam makan, ada sedikit delay, bisa dimanfaatin buat foto-foto di panggung sawah 📸
-- **Rekomendasi tambahan**：Dari **Madani Villa** jalan kaki sekitar 5 menit ada **Green Kubu** restoran terasering sawah, harganya juga ramah di kantong, dan cocok banget buat foto estetik!
+- **Waktu Nunggu Agak Lama**: Pas jam makan mungkin ada delay, mumpung bisa foto-foto di panggung sawah 📸
+- **Rekomendasi Tambahan**: Sekitar 5 menit jalan kaki dari **"Madani Villa"**, ada restoran terasering **"Green Kubu"** yang harganya juga ramah kantong dan cocok banget buat foto estetik!
 
-💡 Di pedalaman Ubud, cobain pengalaman makan yang bikin kamu merasa 'kaya raya'! 🎉
+💡 Coba sensasi makan dengan gaya "bebas finansial" di pedalaman Ubud! 🎉
 
-### 《Rekomendasi Penginapan Hari Keempat 🏡》 - Tinggal di Sebelah Terasering Sawah 🌾 Nikmati Ketenangan Tanpa Batas 🤫 《Madani Antique Private Pool Villas》✨
+### 《Rekomendasi Menginap Hari Ke-4 🏡》 - Tetanggaan Sama Sawah Terasering 🌾 Nikmati Ketenangan Tanpa Batas 🤫 《Madani Antique Private Pool Villas》✨
 
-Mau kabur dari keramaian dan tenggelam dalam keindahan sawah yang tenang? 《Madani Antique Private Pool Villas》 bakal jadi pilihan penginapan impianmu! 🌿 Terletak di Ubud yang hijau dan asri, villa dengan kolam renang pribadi ini nggak cuma harganya bersahabat, tapi juga bikin kamu benar-benar rileks dan menikmati liburan tanpa gangguan.
+Kalau kamu pengin banget kabur dari keramaian dan tenggelam dalam keindahan sawah terasering yang tenang, 《Madani Antique Private Pool Villas》 bakal jadi pilihan menginap yang kayak mimpi! 🌿 Terletak di Ubud yang hijau banget, villa dengan kolam renang pribadi ini nggak cuma ramah di kantong, tapi juga bikin kamu benar-benar rileks dan menikmati liburan tanpa gangguan.
 
 ![《第四天住宿推薦》 - 與梯田比鄰而居 享受無限的寧靜平和 《Madani Antique Private Pool V](https://images.gobaligo.id/images/2026-04/1776694182686-299919089_613473876802296_550726569359159188_n.jpg)
 
@@ -414,40 +413,40 @@ Mau kabur dari keramaian dan tenggelam dalam keindahan sawah yang tenang? 《Mad
 
 **💰 Harga Kejutan**
 
-Menginap untuk dua orang dengan paket Double hanya **1,400,000 IDR/malam (sekitar USD$45)**!
+Paket berdua untuk dua orang cuma **1.400.000 IDR/malam (sekitar USD$45)**!
 
-Harga ini sudah termasuk: ✔️ Seluruh Villa pribadi dengan kolam renang✔️ Gratis teh sore 🫖✔️ Sarapan terapung yang estetik 🍳, mandi kelopak bunga romantis 🛁, atau sewa sepeda 🚲 — pilih salah satu
+Harga ini sudah termasuk: ✔️ Seluruh villa dengan kolam renang pribadi ✔️ Gratis teh sore 🫖 ✔️ Pilih salah satu: sarapan terapung yang keren 🍳, mandi kelopak bunga romantis 🛁, atau sewa sepeda 🚲
 
-⚠️ **Catatan**: Opsi tambahan tempat tidur memang tersedia, tapi harus bayar 600,000 IDR (sekitar USD$19), dan cuma kasur sofa biasa, bukan tambahan ranjang terpisah.
+⚠️ **Catatan**: Meskipun ada opsi tambahan tempat tidur, tapi bayar 600.000 IDR (sekitar USD$19), dan itu cuma sofa bed, bukan kasur tambahan.
 
 **🏡 Keunikan Ruangan**
 
-Seluruh Villa terletak di tengah sawah terasering hijau, dengan desain ruang semi-terbuka:
+Seluruh villa berada di tengah sawah terasering yang hijau, dengan desain ruang semi-terbuka:
 
-- **Bale Santai Semi-Outdoor**: Cocok banget buat makan atau sekadar rebahan, santai dan rileks 💤
-- **Kolam Renang + Kursi Santai di Tepi Kolam**: Langsung menghadap sawah, pemandangannya bikin betah ✨
-- **Tempat Tidur Besar di Kamar**: Begitu rebahan, langsung bisa lihat hamparan hijau tanpa batas 🛌
-- **Kamar Mandi Semi-Terbuka**: Bathtub menghadap sawah, nuansa Bali banget 🛁
+- **Gazebo semi-outdoor**: Cocok banget buat makan atau sekadar ngelamun, santai dan bikin betah 💤
+- **Kolam renang + kursi santai di tepi kolam**: Langsung menghadap sawah terasering, pemandangannya bikin betah banget ✨
+- **Kasur besar di kamar tidur**: Begitu rebahan, langsung bisa lihat hamparan hijau tanpa halangan 🛌
+- **Kamar mandi semi terbuka**: Bathtub menghadap sawah terasering, nuansa Bali-nya kental banget 🛁
 
-Saat check-in, kami pilih tipe kamar 'Antique 907', dengan bale santai yang menghadap sawah — pemandangannya bikin lupa napas. Kalau mau kolam renang langsung menghadap sawah, bisa pilih kamar sebelahnya, 'Antique 906'. 🌾
+Pas check-in, kami pilih tipe kamar **"Antique 907"**, desain bale santai yang menghadap sawah terasering — cantiknya bikin lupa napas. Kalau mau kolam renang langsung dengan view sawah, bisa pilih kamar sebelahnya, **"Antique 906"**. 🌾
 
-**📍Peringatan Zona Menginap**
+**📍Pengingat area menginap**
 
-《Madani Antique Private Pool Villas》terbagi menjadi **dua zona menginap**:
+**《Madani Antique Private Pool Villas》** terbagi jadi **dua area menginap**:
 
-1️⃣ **Zona 1**: Ada staf hotel yang jaga, pelayanan lebih gampang.
+1️⃣ **Area pertama**: Ada staf hotel yang jaga, pelayanan lebih gampang.
 
-2️⃣ **Zona 2**: Zona khusus menginap, cuma ada tiga villa dan sawah terasering, nggak ada staf di lokasi.
+2️⃣ **Area kedua**: Area khusus nginep, cuma ada tiga Villa sama sawah, nggak ada staf di lokasi.
 
-⚠️ Kalau kamu nginep di Zona 2, jangan lupa konfirmasi dulu sama hotel soal check-in. Pas kita sampai, sopir sewaan **Gede** langsung bantu hubungi staf hotel, 5 menit kemudian staf hotel datang naik motor, masalah cepet beres, proses check-in juga lancar.
+⚠️ Kalau kamu nginep di area kedua, jangan lupa koordinasi sama hotel soal check-in. Hari itu pas kami sampai, supir sewaan **Gede** langsung bantu hubungi staf hotel. 5 menit kemudian, staf hotel datang naik motor, urusan beres cepet, proses check-in pun lancar.
 
-**✨Catatan Penting**
+**✨Catatan penting**
 
-- **Air panas kurang deras**: Bak mandi emang romantis, tapi kapasitas air panas nggak cukup buat isi penuh.
-- **Komunikasi di lokasi**: Lebih efektif kalau kebutuhan nginep disampaikan lewat aplikasi chat ke staf hotel.
-- **Bebas DP**: Ramah buat turis asing, booking bisa bayar pas hari check-in.
+- **Air panas kurang deras**: Bathtub-nya romantis sih, tapi kapasitas air panas nggak cukup buat isi penuh sekali.
+- **Komunikasi langsung**: Lebih efisien hubungi staf hotel lewat aplikasi chat buat urusan akomodasi.
+- **Bebas DP**: Ramah buat turis asing, booking bisa bayar pas check-in.
 
-▶**Madani Antique Villas masuk dalam daftar**[**22 villa Ubud yang bikin takjub**](/id/blog/ubud-villa-pool-guide/)
+▶**Madani Antique Villas masuk dalam**[**22 villa Ubud yang bikin melongo**](/id/blog/ubud-villa-pool-guide/)
 
 ***
 
@@ -455,9 +454,9 @@ Saat check-in, kami pilih tipe kamar 'Antique 907', dengan bale santai yang meng
 
 ### Pura Tirta Empul – Pengalaman Sakral Mandi Spiritual
 
-**Mata Air Suci di Tengah Ketenangan: Ritual Penyucian Jiwa**
+**Mata Air Suci di Tengah Ketenangan: Ritual Sakral Pembersihan Jiwa**
 
-Di hari kelima, kami mengunjungi **Pura Tirta Empul**, pura yang terkenal dengan mata air sucinya dan menjadi simbol penting religi dan budaya Bali. Melewati jalan kecil di antara rimbunnya pohon kelapa, kami disambut oleh bangunan batu kuno dan air jernih yang mengalir, membuat kita serasa melangkah ke lorong waktu. Mata air suci di sini dianggap sebagai tempat penyucian jiwa oleh penduduk setempat, dan selama ribuan tahun telah menarik banyak umat untuk berdoa dan menjalani ritual pembersihan spiritual.
+Di hari kelima, kami mengunjungi **Pura Tirta Empul**, pura yang terkenal dengan mata air sucinya dan jadi simbol penting budaya serta religi Bali. Begitu masuk lewat jalan kecil di antara pohon kelapa yang hijau, langsung terlihat bangunan batu kuno dengan air jernih yang mengalir—bikin kita serasa melangkah ke lorong waktu. Mata air suci ini dipercaya warga lokal sebagai tempat pemurnian jiwa, dan selama berabad-abad menarik banyak umat yang datang buat berdoa dan membersihkan hati.
 
 ![聖泉寺 Pura Tirta Empul – 心靈沐浴的神聖體驗](https://images.gobaligo.id/images/2026-04/1776694240116-300376254_615096553306695_8235781790348974718_n.jpg)
 
@@ -479,64 +478,64 @@ Di hari kelima, kami mengunjungi **Pura Tirta Empul**, pura yang terkenal dengan
 
 ![聖泉寺 Pura Tirta Empul – 心靈沐浴的神聖體驗](https://images.gobaligo.id/images/2026-04/1776694245545-300351188_615109116638772_3636812258707032200_n.jpg)
 
-**Sekilas Pura Tirta Empul: Mata Air Suci dan Kepercayaan Kuno**
+**Sekilas Pura Tirta Empul: Air Suci dan Kepercayaan Kuno**
 
-Pura Tirta Empul dinamai dari mata air suci yang mengelilinginya. Di dalam pura terdapat lebih dari sepuluh pancuran air, masing-masing melambangkan makna doa yang berbeda, seperti: 'membersihkan jiwa', 'menghilangkan bencana', 'mengusir penyakit', dan 'mengusir mimpi buruk'. Umat setempat biasanya melakukan ritual mandi penyucian jiwa sebelum masuk ke pura untuk berdoa, menunjukkan ketulusan hati mereka kepada para dewa.
+Pura ini dinamai dari mata air suci yang mengelilinginya. Di dalamnya ada lebih dari sepuluh pancuran, masing-masing punya makna doa yang berbeda, misalnya: 'membersihkan jiwa', 'menghilangkan musibah', 'mengusir penyakit', dan 'mengusir mimpi buruk'. Umat lokal biasanya melakukan ritual mandi pemurnian jiwa dulu, baru masuk ke pura untuk berdoa—menunjukkan ketulusan mereka pada para dewa.
 
-**Informasi Kunjungan dan Biaya**
+**Informasi & Biaya Kunjungan**
 
-Pengunjung perlu membeli tiket untuk masuk ke Pura Tirta Empul, dengan harga yang cukup terjangkau:
+Wisatawan yang masuk ke Pura Tirta Empul wajib beli tiket masuk, harganya ramah banget di kantong:
 
-- **Tiket dewasa: 50.000 IDR** (sekitar USD$2)
-- **Tiket anak-anak: 25.000 IDR** (sekitar USD$1)
+- **Tiket dewasa: 50,000 IDR** (sekitar USD$2)
+- **Tiket anak-anak: 25,000 IDR** (sekitar USD$1)
 
-Tiket sudah termasuk peminjaman sarung tradisional warna-warni (Sarong), yang wajib dipakai saat masuk ke pura. Tapi perlu diingat, sarung warna-warni ini nggak boleh dipakai untuk turun ke air. Kalau kamu mau ikut **upacara pemurnian di air suci**, ada biaya tambahan yang perlu dibayar:
+Tiket sudah termasuk peminjaman sarung tradisional warna-warni (Sarong), ini wajib dipakai saat masuk pura. Tapi ingat, sarung warna-warni ini nggak boleh dipakai untuk turun ke air. Kalau kamu mau coba **ritual pembersihan di mata air suci**, ada biaya tambahan:
 
-- Sewa sarung hijau: 10.000 IDR (sekitar USD$1)
-- Sewa loker: 15.000 IDR (sekitar USD$1)
+- Sewa sarung hijau: 10,000 IDR (sekitar USD$0.3)
+- Sewa loker: 15,000 IDR (sekitar USD$0.5)
 
-Biaya kecil ini worth it banget, selain murah, kamu juga bisa merasakan langsung tradisi unik yang otentik.
+Biaya kecil ini worth it banget, bisa bikin kamu merasakan langsung tradisi unik ini.
 
-**Gimana cara ikut upacara pemurnian air suci?**
+**Gimana cara ikut ritual pembersihan Tirta Empul?**
 
-Upacaranya keliatan simpel, tapi sebenarnya ada urutan dan aturan tertentu:
+Ritual pembersihan di Tirta Empul keliatannya simpel, tapi sebenarnya ada urutan dan aturan tertentu:
 
-1. **Siapkan sarung hijau dan loker**, ganti baju, lalu menuju ke kolam air suci.
-2. Hadap ke kolam, mulai dari **kolam sebelah kiri**, urut dari pancuran pertama untuk pemurnian.
-3. **Lewati pancuran kedua dan ketiga dari terakhir** (khusus untuk doa arwah).
-4. Setelah selesai di sisi kiri, pindah ke **kolam sebelah kanan**.
-5. Di sisi kanan, cukup berdoa di pancuran pertama aja.
+1. **Siapkan sarung hijau dan loker**, ganti baju lalu menuju ke kolam suci.
+2. Hadap ke kolam suci, mulai dari **kolam sebelah kiri**, urut dari pancuran pertama untuk bersuci.
+3. **Lewati pancuran kedua terakhir dan ketiga terakhir** (keduanya khusus untuk pemujaan arwah).
+4. Setelah selesai bersuci di pancuran kiri, pindah ke **kolam sebelah kanan**.
+5. Di kolam kanan, cukup sembahyang di pancuran pertama saja.
 
-Di setiap pancuran, kamu harus melakukan langkah-langkah doa berikut:
+Di setiap pancuran, kamu perlu melakukan langkah-langkah doa berikut:
 
-- Tangan bersedekap, menghadap pancuran, dan berdoa/berharap.
-- Basahi rambut dengan air suci, lalu guyurkan air ke seluruh tubuh.
+- Tangan bersedekap menghadap pancuran sambil berdoa.
+- Basahi rambut dengan air suci, lalu guyurkan ke seluruh tubuh.
 
-Air segar langsung menghanyutkan penat perjalanan, bikin tubuh dan pikiran terasa ringan. Ini pengalaman budaya yang benar-benar baru, wajib coba banget!
+Air segar langsung menghapus rasa lelah perjalanan, bikin badan dan pikiran terasa ringan. Ini pengalaman budaya baru yang wajib banget dicoba!
 
-**Tetap ramah meski sudah jadi tempat wisata**
+**Meski wisata, keramahan lokal tetap terasa**
 
-Walaupun Pura Tirta Empul udah jadi destinasi wisata populer, kolamnya penuh turis Barat pakai sarung hijau buat ritual penyucian — pemandangannya seru sih. Tapi pura ini masih punya nuansa lokal yang ramah. Stafnya hangat dan bersahabat, nggak ada biaya tambahan yang mahal, bikin kamu merasa disambut dengan senyum dan kebaikan.
+Walaupun Pura Tirta Empul sudah jadi destinasi wisata populer, kolamnya penuh turis Barat pakai sarung hijau buat ritual pemurnian — pemandangannya seru banget. Tapi pura ini masih jaga keramahan asli penduduk setempat. Stafnya ramah dan nggak ada biaya tambahan yang mahal, bikin kamu ngerasa penuh senyum dan kebaikan.
 
-⚠️ **Pengingat: Hormati budaya setempat**
+⚠️ **Pengingat: Hormati budaya lokal**
 
-Pas ikut ritual penyucian, jaga sikap dan hormat ya. Soalnya masih banyak penduduk lokal yang sembahyang dan mandi dengan khusyuk. Jangan kebanyakan foto sampai ganggu mereka.
+Saat ikut ritual pemurnian, jaga sikap hormat karena masih banyak umat lokal yang berdoa dan mandi dengan khusyuk. Jangan terlalu banyak foto sampai ganggu mereka.
 
-**Rekomendasi tempat lanjutan: Pura Gunung Kawi**
+**Rekomendasi tempat wisata lanjutan: Pura Gunung Kawi**
 
-Kalau waktunya cukup, mampir aja ke **Pura Gunung Kawi** yang nggak jauh dari Pura Tirta Empul. Ada ukiran batu yang megah dan pemandangan lembah yang indah — situs budaya di dekat Ubud yang worth it banget.
+Kalau waktunya cukup, mampir juga ke **Candi Gunung Kawi (Pura Gunung Kawi)** yang nggak jauh dari Pura Tirta Empul. Tempat ini punya ukiran batu yang megah dan pemandangan lembah yang cantik banget — cocok buat kamu yang suka eksplorasi budaya di sekitar Ubud.
 
-Ngomong-ngomong, Pura Tirta Empul juga dekat banget sama penginapan favoritku selama trip ini, **Sebatu Sanctuary Eco-Resort**. Kalau nginep di sini, itinerary jadi gampang diatur. Recommended banget!
+Ngomong-ngomong, Pura Tirta Empul juga dekat banget sama penginapan favoritku selama trip ini, **Sebatu Sanctuary Eco-Resort**. Kalau kamu nginep di sini, urusan jalan-jalan jadi lebih gampang. Highly recommended! ✨
 
-**Rasakan pembersihan jiwa ala Bali**
+**Merasakan Pembersihan Spiritual di Bali**
 
-Pura Tirta Empul bukan cuma tempat foto-foto di Bali, tapi juga tempat spiritual yang bisa bikin kamu lebih dekat sama budaya lokal. Ikut ritual penyucian, berendam di air jernih — selain bikin badan dan pikiran rileks, juga kasih makna sakral tersendiri buat liburanmu di Bali.
+Pura Tirta Empul bukan cuma tempat foto-foto hits di Bali, tapi juga tempat spiritual yang dalem banget buat nyelami budaya lokal. Ikut ritual pembersihan di sini, mandi di air jernih yang suci — bikin badan dan pikiran rileks, plus perjalananmu di Bali jadi terasa lebih sakral dan bermakna.
 
-✨ **Coba deh rasain sendiri pengalaman mandi jiwa ini, biar liburan kamu nggak cuma jalan-jalan doang!**
+✨ **Coba deh langsung rasain mandi spiritual ini, biar liburanmu nggak cuma lewat doang!**
 
-### Tur Kopi Termahal di Dunia: Cicipi Secangkir Kopi Luwak Pertama dalam Hidup
+### Petualangan Ngopi Termahal di Dunia: Cicipi Kopi Luwak Pertama dalam Hidup
 
-Di perjalanan ke Ubud, kami memulai petualangan eksplorasi kopi **Kopi Luwak**. Kopi yang dijuluki paling mahal di dunia ini, karena proses pembuatan dan rasanya yang unik, jadi salah satu pengalaman yang wajib dicoba saat liburan ke Bali. Kali ini kami memilih mengunjungi perkebunan **Satria Agrowisata** di Bali, untuk melihat langsung proses lahirnya kopi legendaris ini.
+Di perjalanan keliling Ubud, kami nyobain petualangan ngopi yang unik: **Kopi Luwak** (Civet Coffee). Kopi ini dijuluki sebagai kopi termahal di dunia karena proses pembuatannya yang beda sendiri, dan jadi salah satu pengalaman yang wajib dicoba pas di Bali. Kali ini kami mampir ke **Satria Agrowisata** di Bali, buat lihat langsung gimana kopi legendaris ini dibuat.
 
 ![全球最昂貴的咖啡之旅：品味人生第一杯麝香貓咖啡](https://images.gobaligo.id/images/2026-04/1776694308230-299973082_615597813256569_7604480419000190401_n.jpg)
 
@@ -560,45 +559,45 @@ Di perjalanan ke Ubud, kami memulai petualangan eksplorasi kopi **Kopi Luwak**. 
 
 **Cerita di Balik Kopi Luwak**
 
-Kopi Luwak, dalam bahasa Indonesia disebut **Kopi Luwak**, dalam bahasa Inggris **Civet Coffee**. Keunikan kopi ini adalah proses pembuatannya di mana luwak (musang) memakan buah kopi, lalu setelah melalui proses enzim pencernaan, biji kopi yang sudah diproses khusus dikeluarkan. Makanya, kopi ini sering disebut 'kopi kotoran musang'.
+Kopi Luwak, dalam bahasa Inggris disebut **Civet Coffee**. Keunikannya ada di prosesnya: luwak (sejenis musang) makan buah kopi, lalu biji kopinya difermentasi secara alami di dalam sistem pencernaannya, dan akhirnya dikeluarkan lagi. Makanya, kopi ini sering dijuluki 'kopi kotoran luwak'.
 
-Bali sebagai salah satu daerah penghasil utama Kopi Luwak, punya banyak perkebunan wisata yang bisa dikunjungi untuk melihat dan mencicipi. Sebagian besar perkebunan tidak memungut biaya masuk, dan menyediakan sampel kopi dan teh gratis untuk dicicipi. Tur semacam ini biasanya disebut **Coffee/Tea Plantation Tour**. Tapi gratis itu seringkali ada konsekuensinya — selama tur, staf dengan antusias menawarkan produk mereka, bikin agak tertekan.
+Bali sebagai salah satu daerah penghasil utama Kopi Luwak punya banyak kebun wisata yang bisa kamu kunjungi buat lihat prosesnya dan nyobain langsung. Sebagian besar kebun nggak narik biaya masuk, malah kasih sampel kopi dan teh gratis — biasanya disebut **Coffee/Tea Plantation Tour**. Tapi ingat, gratisan ini kadang ada 'harganya': selama tur, stafnya bakal nawarin produk mereka dengan semangat banget, bikin agak sungkan sih.
 
-**Jelajahi Perkebunan Satria: Seru dan Penuh Pengetahuan**
+**Jelajahi Santria Farm: Seru dan Penuh Ilmu**
 
-Sesampainya di **Satria Agrowisata**, pintu masuknya adalah taman botani yang hijau, dipenuhi berbagai pohon buah, kopi, dan rempah-rempah, seperti manggis (Mangosteen), kopi Arabika (Arabica Coffee), jahe (Ginger), dan lainnya. Area ini bikin kami paham dasar-dasar bahan baku kopi.
+Sesampainya di **Satria Agrowisata**, pintu masuknya adalah taman botani yang hijau banget, penuh dengan berbagai pohon buah, kopi, dan tanaman rempah seperti manggis, kopi Arabika, jahe, dan lainnya. Area ini bikin kita punya gambaran awal soal bahan baku kopi.
 
-Selanjutnya, staf perkebunan akan memperkenalkan proses pembuatan Kopi Luwak, menjelaskan cara memilih dan membersihkan biji kopi dari kotoran luwak. Yang mengejutkan, meskipun cuma satu atau dua pengunjung, staf tetap sabar menjelaskan, ramah banget.
+Terus, staf kebunnya bakal jelasin proses pembuatan kopi luwak, mulai dari cara milih dan bersihin biji kopi dari kotoran luwak. Yang bikin kaget, meskipun cuma satu atau dua pengunjung, mereka tetap sabar jelasin, ramah banget.
 
-**Kejutan Nikmat dari 13 Minuman Gratis**
+**13 Minuman Gratis yang Bikin Pengalaman Makin Seru**
 
-Setelah dikasih penjelasan singkat soal proses bikin kopi, stafnya langsung nyajiin **13 jenis minuman** buat kita cicip gratis — mulai dari aneka kopi, teh, sampai minuman spesial. Tiap gelas punya rasa dan khasiat yang beda. Duduk santai di bawah rindangnya pepohonan sambil nyeruput, rasanya bukan cuma lidah yang dimanjain, mata juga ikut seger. Bikin rileks banget.
+Setelah ngerti sedikit soal proses pembuatan kopi, stafnya langsung nyuguhin **13 jenis minuman** buat kita cicip gratis, mulai dari aneka kopi, teh, sampai minuman khas. Masing-masing punya rasa dan manfaat unik. Duduk di bawah rindangnya pepohonan sambil ngopi, rasanya nikmat banget, bikin rileks.
 
-**Salah satu highlight: Bali CatPoo Chino**
+**Salah Satu Highlight: Bali CatPoo Chino**
 
-Di lereng bukit, ada papan besar bertuliskan 'Bali CatPoo Chino' yang lucu banget — ini salah satu item utama kopi luwak! Nama ini plesetan dari 'cappuccino': (cat=kucing, poo=kotoran). Kreatif banget, kan? Kami pesan satu gelas kopi luwak, harganya **50,000 IDR** (sekitar USD$2), langsung nyobain rasa legendarisnya. Tapi buat kami yang awam kopi, rasanya nggak jauh beda sama kopi hitam biasa. Ya, bisa dibilang pengalaman yang unik aja sih.
+Di lereng bukit, ada papan tanda keren bertuliskan 'Bali CatPoo Chino' — ini salah satu item utama kopi luwak! Plesetan dari cappuccino: (cat=kucing, poo=kotoran). Lucu banget. Kami pesan satu cangkir kopi luwak, harganya **50,000 IDR** (sekitar USD$2), buat nyobain rasa legendarisnya. Tapi buat kami yang kurang paham kopi, rasanya mirip kopi hitam biasa, ya bisa dibilang pengalaman unik aja.
 
-**Zona belanja & tips belanja**
+**Area Toko dan Tips Belanja**
 
-Pas udah mau keluar, kita bakal masuk ke area jualan. Rak-raknya penuh banget sama produk kayak bubuk kopi, teh rempah, manisan buah, dan lain-lain — bikin mata bingung mau lihat yang mana. Walaupun dari review online udah tahu kalau rasa produk yang dibawa pulang nggak seenak yang diminum langsung di tempat, tetep aja kita kerayu sama staf yang ramah banget nawarin. Akhirnya beli satu bungkus kopi bubuk alpukat seharga **130,000 IDR** (sekitar USD$4). Anggap aja ini tiket masuk 'gratis' buat tur tadi, deh!
+Pas udah mau selesai, kita bakal masuk ke area jualan. Rak-raknya penuh dengan produk kayak bubuk kopi, teh rempah, buah kering, dan lain-lain, bikin mata bingung milih. Walaupun dari review online udah tahu kalau rasa produk yang dibawa pulang mungkin nggak seenak yang dicicip langsung, tapi tetap aja tergoda sama rayuan staf yang ramah. Akhirnya beli satu bungkus bubuk kopi alpukat seharga **130,000 IDR** (sekitar USD$4). Anggap aja ini biaya masuk buat tur 'gratis'!
 
-**Saran spesial: alternatif lain**
+**Saran Spesial: Alternatif Lain**
 
-Kalau kamu nggak nyaman sama suasana belanja yang agak 'nempel' gini, bisa coba mampir ke **Bali Pulina**. Kata info online, tempat ini punya tiket masuk **100,000 IDR** (sekitar USD$3). Selain bisa nyicip kopi dan teh, mereka juga kasih camilan. Suasananya lebih santai dan adem. Katanya pemandangannya juga cantik banget — cocok buat pengalaman yang beda.
+Kalau kamu nggak nyaman dengan suasana belanja yang terlalu 'nempel' terus, mending mampir ke **Bali Pulina**. Kata info di internet, biaya masuknya **100,000 IDR** (sekitar USD$3), udah termasuk cicip kopi dan teh plus camilan. Suasananya santai banget, cocok buat rileks. Katanya pemandangannya juga cantik, jadi pengalaman yang beda dari biasanya.
 
-**Sekelumit kenangan dari secangkir kopi luwak**
+**Secangkir Kopi Luwak yang Bikin Kenangan**
 
-Mampir di tengah perjalanan buat nyobain kopi luwak — walaupun buat kami yang 'awam kopi' rasanya agak susah dibedain, tapi lihat langsung proses pembuatannya dan denger cerita di balik biji kopinya tuh seru banget. Pengalaman yang worth it. Secangkir 'kopi termahal di dunia' ini bukan cuma soal rasa, tapi juga bagian dari budaya unik Bali.
+Pas perjalanan, mampir deh buat nyobain kopi luwak. Walaupun buat kita yang 'awam kopi' mungkin rasanya susah dibedain, tapi lihat langsung proses pembuatannya dan denger cerita di balik biji kopinya itu udah jadi pengalaman yang berharga. Kopi yang katanya 'termahal di dunia' ini nggak cuma soal rasa, tapi juga bagian dari budaya unik Bali.
 
-☕ **Penasaran juga sama rasa kopi ini? Kalau lagi di Ubud, cobain langsung aja, dijamin seru!**
+☕ **Penasaran nggak sih sama rasa kopi ini? Pas di Ubud, cobain langsung aja!**
 
-### Hari Kelima Nginep: **Homestay Pemandian Air Panas Cuma 4 Kamar di Dekat Gunung Berapi🏡** **《The Lava Bali and Hot Spring》✨**
+### Hari Kelima Nginep: **Penginapan Pemandian Air Panas Cuma 4 Kamar di Dekat Gunung Berapi🏡** **《The Lava Bali and Hot Spring》✨**
 
-🚘 Melaju ke utara, kita sampai di area 'Kintamani' yang paling ujung utara Bali. Pemandangan gunung berapi di sini bikin takjub, nggak bakal terlupakan 😌.
+🚘 Kita lanjut ke utara, sampai di daerah **Kintamani** yang ada di ujung utara Bali. Pemandangan gunung apinya bikin speechless, nggak bakal lupa deh 😌.
 
-🌋 Gunung Batur adalah gunung berapi aktif terbesar kedua di Bali. Meskipun nggak setinggi 'Gunung Agung' yang nomor satu, pemandangan alam di sini jauh lebih memikat daripada kesan dingin dan megahnya Gunung Agung 💗. Yang lebih bikin penasaran, ada **'pemandian air panas alami tanpa warna dan bau'♨️** yang bikin tubuh dan pikiran rileks total, dikelilingi panorama indah 'Kintamani'.
+🌋 Gunung Batur adalah gunung berapi aktif terbesar kedua di Bali. Walaupun nggak setinggi Gunung Agung yang nomor satu, tapi pemandangan alam di sini jauh lebih indah dan bikin adem daripada Gunung Agung yang terkesan dingin dan megah 💗. Yang bikin makin menarik, ada **pemandian air panas alami yang nggak berbau dan nggak berwarna♨️**, bikin rileks total sambil menikmati keindahan Kintamani.
 
-✖️ Kita skip dua taman pemandian air panas yang populer, milih homestay cozy yang cuma punya **4 kamar** yaitu **《The Lava Bali and Hot Spring》**. Suasananya simpel tapi nyaman, penuh dengan nuansa yang bikin pengin berlama-lama dengan tenang 💕.
+✖️ Kita skip dua tempat pemandian air panas yang lagi hits, dan milih penginapan kecil yang cuma punya **4 kamar** aja, namanya **《The Lava Bali and Hot Spring》**. Suasananya simpel tapi nyaman, bikin pengen berlama-lama di sini💕.
 
 ![第五天住宿： 火山旁只有 4 間房的溫泉民宿 《The Lava Bali and Hot Spring》](https://images.gobaligo.id/images/2026-04/1776694374540-301009583_616145276535156_903526056195682687_n.jpg)
 
@@ -620,63 +619,63 @@ Mampir di tengah perjalanan buat nyobain kopi luwak — walaupun buat kami yang 
 
 ![第五天住宿： 火山旁只有 4 間房的溫泉民宿 《The Lava Bali and Hot Spring》](https://images.gobaligo.id/images/2026-04/1776694380585-300570958_616147889868228_8824639950336020904_n.jpg)
 
-⬆️ Duduk di depan pintu kamar homestay sambil melamun, kosongin pikiran, rasa santainya langsung meledak-ledak 😊; naik tangga, sampai ke area kolam air panas di titik tertinggi homestay👣, berendam di air hangat, di depan mata ada panorama Gunung Batur yang megah, cantiknya bikin nahan napas✨.
+⬆️ Duduk di depan kamar sambil ngelamun, kosongin pikiran, rasa nyamannya langsung terasa😊; naik tangga ke kolam air panas di titik tertinggi penginapan👣, berendam di air hangat sambil lihat pemandangan Gunung Batur yang megah, bikin nafas tertahan✨.
 
-❄️ Pagi atau sore hari, udara sejuk bikin kehangatan kolam air panas makin terasa nyaman🔥, ditambah lagi suasananya sepi karena jarang turis, benar-benar pengalaman unik di Bali yang terasa milik sendiri👏.
+❄️ Pagi atau sore hari, udara sejuk bikin hangatnya air panas makin terasa nikmat🔥, ditambah lagi suasananya sepi dari turis, bener-bener jadi pengalaman unik di Bali versi kita sendiri👏.
 
-🏡 **Pengalaman Nginep di Homestay**
+🏡 **Pengalaman Menginap di Homestay**
 
-Meskipun nginep di 《The Lava Bali and Hot Spring》 nggak mewah, tapi setiap sudut menunjukkan perhatian pemiliknya ❤️:
+Menginap di *The Lava Bali and Hot Spring* memang nggak mewah, tapi di setiap sudutnya terlihat banget perhatian pemiliknya ❤️:
 
-- Kamar simpel tapi ada sentuhan desain, detail kecil bikin nilai plus.
-- Kamar mandi luas, air panasnya melimpah.
-- Tuan rumahnya lancar bahasa Inggris, jadi kalau ada pertanyaan bisa cepat dijawab 👍.
+- Kamarnya simpel tapi penuh desain, detail kecilnya bikin nilai plus.
+- Kamar mandi luas, air panasnya lancar jaya.
+- Pemiliknya fasih bahasa Inggris, cepat banget bantu tamu yang punya masalah 👍.
 
-💰 **Harga & Fasilitas Penginapan**
+💰 **Harga & Layanan Homestay**
 
-🔹 600,000 IDR /kamar /malam (sekitar USD$39)
+🔹 600,000 IDR / kamar / malam (sekitar USD$39)
 
-🔹 150,000 IDR /extra bed /malam (sekitar USD$10) ©️Harga **belum termasuk sarapan✖️🍽**
+🔹 150,000 IDR / extra bed / malam (sekitar USD$10) ©️ Harga **belum termasuk sarapan✖️🍽**
 
-Meskipun penginapan ini nggak nyediain makanan, tenang aja soal cari makan:
+Meski homestay ini nggak nyediain makanan, jangan khawatir soal cari makan:
 
-- **Di depan penginapan ada minimarket**, jadi bisa beli camilan dan minuman kapan aja, super praktis 💯.
-- Di sekitar banyak warung lokal dengan harga yang ramah di kantong 🫶.
-- Kali ini kami juga nyobain **'JFC KFC ala Indonesia'** di dekat situ dan jajanan khas **'Terang Bulan Martabak Manis'** (rekomen rasa: kacang, cokelat, wijen, dan keju).
+- **Ada minimarket tepat di depan homestay**, kapan aja bisa beli camilan atau minuman, super praktis 💯.
+- Di sekitar sini ada banyak warung lokal, harganya ramah banget di kantong 🫶.
+- Kali ini kami juga nyobain 'JFC Indonesian KFC' di dekat situ dan jajanan khas **'Terang Bulan'** (rasa rekomendasi: kacang, cokelat, wijen, dan keju).
 
-Gaya nginep yang jauh dari keramaian turis ini bikin kita bisa lebih santai menikmati kehidupan Bali yang beda, sederhana tapi indah banget 😊.
+Cara nginep kayak gini, jauh dari area turis yang rame, bikin kita lebih rileks dan bisa ngerasain kehidupan Bali yang beda — sederhana tapi indah banget 😊.
 
 ▶[**Link Booking The Lava Bali and Hot Spring**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=30504045)
 
 ***
 
-## Hari Keenam Itinerary
+## Hari Keenam
 
-### 《Bali/Kintamani》Petualangan Gunung Berapi 🌋
+### 《Bali / Kintamani》Petualangan Gunung Berapi 🌋
 
-**—Dekat dengan gunung berapi aktif, saksikan matahari terbit yang megah, jelajahi pemandangan lahar hitam—**
+**—Deket banget sama gunung berapi aktif, lihat sunrise spektakuler, eksplorasi pemandangan lahar hitam—**
 
-Saat sinar pertama pagi menyinari Gunung Batur, cahaya matahari terbit memantul di puncak yang megah, pemandangan itu bikin kamu nggak bakal bosan lihatnya 💗. Tur matahari terbit di Gunung Batur, Kintamani, bikin kamu merasakan koneksi murni dengan alam. Mau kamu tipe petualang yang suka trekking atau traveler yang santai, pasti ada cara buat menikmati keindahan gunung berapi aktif ini!
+Saat sinar pertama pagi menyinari Gunung Batur, cahaya matahari terbit memantul di puncak yang megah, pemandangan itu bikin kamu nggak bakal bosen lihatnya 💗. Tur sunrise Gunung Batur di Kintamani bikin kamu ngerasain koneksi murni sama alam. Mau kamu tipe yang suka trekking seru atau traveler santai, pasti ada cara yang pas buat nikmatin keindahan gunung berapi aktif ini!
 
-**Dua Pilihan Petualangan Gunung Berapi**
+**Dua Cara Nikmatin Petualangan Gunung Berapi**
 
-🔥 **1. Kelompok Pendaki: Trekking Matahari Terbit yang Seru**
+🔥 **1. Grup Pendaki Tangguh: Petualangan Sunrise Mendaki Gunung Berapi**
 
-Buat kamu yang punya tenaga berlebih dan jiwa petualang, cobain tantangan **trekking matahari terbit** naik ke kawah gunung buat saksikan pemandangan matahari terbit yang spektakuler. Perjalanan ini seru banget dan bikin puas, cocok banget buat kamu yang suka petualangan dan tantangan ekstrem ❤️‍🔥.
+Buat kamu yang penuh energi dan semangat membara, bisa coba tantangan **mendaki gunung berapi saat sunrise**. Sampai di puncak kawah, kamu bakal disuguhi pemandangan matahari terbit yang spektakuler. Perjalanan ini seru banget dan bikin puas, cocok banget buat kamu yang doyan petualangan dan tantangan ekstrem❤️‍🔥.
 
-🚜 **2. Kelompok Santai: Tur Matahari Terbit Pakai Jeep**
+🚜 **2. Grup Santai: Sunrise Tour Pakai Jeep**
 
-Kalau kamu termasuk 'rombongan tua, lemah, perempuan, dan anak-anak' 🤣, atau cuma pengin santai nikmatin pemandangan, sewa jeep keren dan ikut **Black Lava Tour** yang santai adalah pilihan terbaik!
+Kalau kamu termasuk 'rombongan ibu-ibu, bapak-bapak, anak-anak, atau yang kurang fit' 🤣, atau sekadar pengin menikmati pemandangan dengan santai, sewa jeep keren dan ikut **Black Lava Tour** adalah pilihan terbaikmu!
 
-⏰ Perkiraan Jadwal Perjalanan:
+⏰ Perkiraan jadwal perjalanan:
 
-- **05:00** Jeep jemput di tempat menginap, siap berangkat 🚜
-- Melewati jalan pegunungan yang berkelok (sekitar 40-50 menit)
-- Sampai di gazebo, siap-siap nikmati sunrise yang spektakuler ☀️
-- Sambil lihat matahari terbit, nikmati teh hangat, kopi, dan sarapan ☕️🍳
-- Kunjungi pemandangan lahar hitam (Black Lava) dan pasir hitam (Black Sand) yang unik 🪨
-- Mampir ke pura di tengah danau, Pura Segara Ulun Danu Batur 🙏
-- **10:00** Kembali ke tempat menginap 🏡
+- **05:00** Jeep jemput di tempat menginap, langsung berangkat🚜
+- Naik lewat jalan pegunungan yang berkelok (sekitar 40-50 menit)
+- Sampai di gazebo, siap-siap nikmati sunrise yang indah☀️
+- Sambil lihat sunrise, nikmati teh hangat, kopi, dan sarapan☕️🍳
+- Kunjungi pemandangan keren Black Lava (lava hitam) dan Black Sand (pasir hitam)🪨
+- Mampir ke Pura Segara Ulun Danu Batur 🙏
+- **10:00** Kembali ke penginapan 🏡
 
 ![《Bali峇里島/Kintamani金塔馬尼》火山之旅](https://images.gobaligo.id/images/2026-04/1776694429772-301089915_616587369824280_4014730414452593818_n.jpg)
 
@@ -698,38 +697,38 @@ Kalau kamu termasuk 'rombongan tua, lemah, perempuan, dan anak-anak' 🤣, atau 
 
 ![《Bali峇里島/Kintamani金塔馬尼》火山之旅](https://images.gobaligo.id/images/2026-04/1776694435060-300794608_616588519824165_8376344951813746036_n.jpg)
 
-🛻 **Highlight Jeep Tour**
+🛻 **Highlight Tur Jeep**
 
-1. **Sunrise yang Super Cantik:**
-   Gazebo di puncak punya view yang juara, panorama Gunung Batur kelihatan full. Sopirnya juga jadi fotografer dadakan, siap bantu kamu ambil foto siluet romantis sunrise sama gunung 📸, semuanya worth it buat feed Instagram!
-2. **Eksplorasi Lahar Hitam:**
-   Setelah sunrise, petualangan di lahar terasa makin seru. Jeep melaju di medan bebatuan vulkanik yang terjal, kadang naik-turun bikin deg-degan, tangan makin erat pegang, jantung ikut berpacu 💥.
+1. **Sunrise Spektakuler:**
+    Gazebo di puncak punya view yang juara, panorama Gunung Batur kelihatan full tanpa halangan. Sopirnya juga jadi fotografer dadakan, bikin kamu dapet foto siluet romantis pas sunrise sama gunung 📸, tiap jepretan worth it banget buat feed IG!
+2. **Jelajah Lava Hitam:**
+    Petualangan di lahar setelah sunrise seru abis, Jeep melaju di medan lava vulkanik yang terjal, naik turun bikin deg-degan sambil pegangan erat 💥.
 3. **Pasir Hitam Kayak Gurun:**
-   Pemandangan Black Sand tuh kayak miniatur gurun, pas Jeep lewati bukit pasir, rasanya kayak di dunia lain, bikin kamu hanyut dalam luasnya alam 👀.
-4. **Kunjungan ke Pura di Danau:**
-   Perhentian terakhir, Pura Segara Ulun Danu Batur. Meski nggak setenar Pura Ulun Danu Bratan, tapi suasananya lebih tenang dan alami, bikin hati adem. Masuknya gratis, cukup donasi seikhlasnya 🙏.
+    Pemandangan Black Sand mirip gurun mini, Jeep melintasi bukit pasir bikin kamu serasa di dunia lain, bikin larut dalam luasnya alam 👀.
+4. **Kunjungan Pura di Tengah Danau:**
+    Stop terakhir, Pura Segara Ulun Danu Batur, meski nggak setenar Pura Ulun Danu Bratan, tapi punya nuansa tenang dan polos yang bikin adem. Gratis masuk, cuma perlu ngasih sumbangan seikhlasnya 🙏.
 
-![Petualangan Gunung di Bali/Kintamani](https://images.gobaligo.id/images/2026-04/1776695571175-299428228_616592063157144_5757712501947169729_n.jpg)
-![Petualangan Gunung di Bali/Kintamani](https://images.gobaligo.id/images/2026-04/1776695571609-299576050_616585723157778_3296485439477737473_n.jpg)
-![Petualangan Gunung di Bali/Kintamani](https://images.gobaligo.id/images/2026-04/1776695572016-300657358_616591816490502_7055402599969369536_n.jpg)
-![Petualangan Gunung di Bali/Kintamani](https://images.gobaligo.id/images/2026-04/1776695572769-300801494_616591906490493_3344607197251244775_n.jpg)
+![Tur Gunung Kintamani Bali](https://images.gobaligo.id/images/2026-04/1776695571175-299428228_616592063157144_5757712501947169729_n.jpg)
+![Tur Gunung Kintamani Bali](https://images.gobaligo.id/images/2026-04/1776695571609-299576050_616585723157778_3296485439477737473_n.jpg)
+![Tur Gunung Kintamani Bali](https://images.gobaligo.id/images/2026-04/1776695572016-300657358_616591816490502_7055402599969369536_n.jpg)
+![Tur Gunung Kintamani Bali](https://images.gobaligo.id/images/2026-04/1776695572769-300801494_616591906490493_3344607197251244775_n.jpg)
 
-💰 **Referensi Biaya Sewa Jeep**
+💰 **Referensi Biaya Tur Jeep**
 
-- **Harga Daftar**: 800,000 IDR/mobil (tanpa sarapan) atau 850,000 IDR/mobil (dengan sarapan sederhana 🍽)
-- **Tips Nego Harga:**
-   Minta bantuan pemilik penginapan atau driver sewaan untuk tawar harga, biasanya bisa ditekan hingga **700,000 IDR - 750,000 IDR/mobil** (tanpa sarapan).
-- Setiap mobil maksimal **tiga dewasa satu anak** atau **dua dewasa dua anak**.
+- **Harga standar**: 800,000 IDR/mobil (tanpa sarapan) atau 850,000 IDR/mobil (dengan sarapan sederhana 🍽)
+- **Tips negosiasi:**
+   Minta bantuan pemilik penginapan atau sopir sewaan buat tawar, biasanya bisa ditekan sampai **700,000 IDR - 750,000 IDR/mobil** (tanpa sarapan).
+- Maksimal **tiga dewasa satu anak** atau **dua dewasa dua anak** per mobil.
 
-❄️ **Tips: Bawa Pakaian Hangat**
+❄️ **Pengingat: Bawa pakaian hangat**
 
-Tur matahari terbit di Gunung Batur harus berangkat pagi-pagi, suhu di pegunungan cukup dingin. Disarankan bawa jaket, topi wol, syal 🧥🧢🧣, kalau nggak, pas nunggu matahari terbit bisa gemeteran kedinginan.
+Pendakian Gunung Batur untuk melihat matahari terbit harus berangkat pagi-pagi, suhu di pegunungan cukup dingin. Disarankan bawa pakaian hangat (seperti jaket, kupluk, syal) 🧥🧢🧣, kalau nggak, pas nunggu matahari terbit bisa gemeteran kedinginan.
 
-### **Eksplorasi Kafe Kintamani: Restoran Romantis dengan Pemandangan Gunung Berapi**
+### **Jelajahi Kafe Kintamani: Restoran Romantis dengan Pemandangan Gunung Berapi**
 
-Kintamani nggak cuma terkenal sama pemandangan gunung berapinya yang megah, belakangan ini juga muncul banyak kafe estetik yang hits di media sosial ☕️, bikin kamu bisa nikmatin makanan sambil terpesona sama pemandangan.
+Kintamani nggak cuma terkenal dengan pemandangan gunung berapinya yang megah, belakangan ini juga muncul banyak kafe pemandangan hits ☕️, bikin kamu bisa nikmatin makanan sambil tenggelam dalam keindahan alam.
 
-🌟 **Rekomendasi Pribadi: 《Akasa Kintamani Coffee》**
+🌟 **Rekomendasi pribadi: Akasa Kintamani Coffee**
 
 ![金塔馬尼咖啡廳探秘：浪漫的火山景觀餐廳](https://images.gobaligo.id/images/2026-04/1776694517636-299902128_616996306450053_5237196238726407165_n.jpg)
 
@@ -747,24 +746,24 @@ Kintamani nggak cuma terkenal sama pemandangan gunung berapinya yang megah, bela
 
 ![金塔馬尼咖啡廳探秘：浪漫的火山景觀餐廳](https://images.gobaligo.id/images/2026-04/1776694521737-300507570_616995679783449_8623213883880201880_n.jpg)
 
-- **Pemandangan Gunung Berapi 180° Tanpa Halangan:**
-  Setiap kursi langsung menyuguhkan panorama Gunung Batur yang bikin speechless, betah banget sampai ogah pulang 💯.
-- **Makanan Ramah di Kantong & Enak:**
-  Meski kafe pemandangan, harga makanannya terjangkau, rasa minuman dan makanan oke punya, platingnya juga cantik, worth it buat dinikmati pelan-pelan 👏.
-- **Server Jago Fotografi:**
-  Staf di sini bukan cuma ramah dan sigap, tapi juga jago motret ala profesional. Dalam hitungan detik, mereka bisa kasih kamu sederet 'foto epik gunung berapi' — salut banget ✨.
+- **Pemandangan gunung berapi 180 derajat tanpa sudut mati:**
+  Setiap kursi bisa langsung lihat panorama penuh Gunung Batur, indahnya bikin nahan napas, bener-bener nggak mau pergi 💯.
+- **Makanan terjangkau dan enak:**
+  Meskipun kafe pemandangan, harga makanannya ramah di kantong, rasa minuman dan makanan juga nggak mengecewakan, platingnya cantik, worth it buat dinikmati pelan-pelan 👏.
+- **Pelayan jago fotografi:**
+Pelayan di sini nggak cuma sopan dan perhatian, tapi juga jago banget motretin kamu sampai keliatan profesional. Dalam hitungan detik, mereka bisa kasih lo serangkaian 'foto gunung berapi epik' yang bikin kita melongo kagum ✨.
 
-📍 **Daftar Kafe Lain yang Direkomendasikan**
+📍 **Daftar Kafe Lain yang Wajib Dicoba**
 
-- [13 Kafe Pemandangan Gunung Berapi Terbaik di Kintamani, Bali](/id/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
+- [13 Kafe dengan Pemandangan Gunung Berapi Terbaik di Kintamani, Bali](/id/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
-Baik itu sunrise di gunung berapi atau sekadar nongkrong di kafe pemandangan, Gunung Batur di Kintamani selalu kasih pengalaman dan pemandangan yang nggak terlupakan. Alamnya murni dan megah, serunya naik jeep, dramatisnya sunrise dan lahar, plus nikmatnya ngopi santai — semua jadi satu kenangan di Bali yang wajib kamu alami 🌋☀️.
+Baik itu sunrise di gunung berapi atau sekadar nongkrong di kafe dengan pemandangan, Gunung Batur di Kintamani bakal kasih lo pemandangan dan pengalaman yang nggak terlupakan. Alamnya murni dan megah, serunya naik jeep, sunrise bareng lahar yang gagah, plus secangkir kopi yang santai — semua itu jadi kenangan di Bali yang sayang banget dilewatkan 🌋☀️.
 
-Kalau kamu lagi rencanain trip Bali berikutnya, jangan lupa masukin **Petualangan Gunung Batur di Kintamani** ini ke itinerary-mu ya!
+Kalau lo lagi rencanain trip Bali berikutnya, jangan lupa masukin **petualangan ke Gunung Batur di Kintamani** ini ke dalam itinerary lo ya!
 
 ### Rekomendasi Menginap Hari Keenam: Sebatu Sanctuary Eco-resort
 
-**Desa Sebatu**, terletak di utara Ubud, jauh dari keramaian dan hiruk-pikuk, bagaikan markas rahasia yang tersembunyi di luar peta. Saat traveler lain memilih villa dengan kolam renang pribadi di Ubud, kami memutuskan untuk melangkah lebih jauh dan menginap di **pohon bambu mewah di antara pepohonan — petualangan seru yang dekat dengan alam!**
+「Desa Sebatu」, yang terletak di utara Ubud, jauh dari keramaian dan hiruk-pikuk, kayak markas rahasia yang tersembunyi dari peta. Sementara traveler lain nginep di villa pribadi dengan kolam renang di Ubud, kita milih jalan lebih jauh dan nginep di rumah pohon bambu mewah di antara pepohonan — **petualangan seru buat deket sama alam!**
 
 ![第六天住宿推薦《Sebatu Sanctuary Eco-resort》](https://images.gobaligo.id/images/2026-04/1776694560182-298255889_609332360549781_1268412654775479789_n.jpg)
 
@@ -786,123 +785,121 @@ Kalau kamu lagi rencanain trip Bali berikutnya, jangan lupa masukin **Petualanga
 
 ![第六天住宿推薦《Sebatu Sanctuary Eco-resort》](https://images.gobaligo.id/images/2026-04/1776694565888-299032805_609336023882748_8399785905067922649_n.jpg)
 
-🏡 **Kesan Pertama Tree House: Perpaduan Sempurna antara Alam dan Kemewahan**
+🏡 **Kesan Pertama Rumah Pohon: Perpaduan Sempurna antara Alam dan Kemewahan**
 
-Sebatu Sanctuary Eco-resort adalah hotel ramah lingkungan terkenal di Bali. Desainnya penuh dengan konsep 'keberlanjutan', setiap detail menyatu dengan alam. Traveler Eropa dan Amerika sudah menjadikannya **daftar wajib menginap** di Bali, tapi turis Asia masih jarang yang tahu tempat ini.
+Sebatu Sanctuary Eco-resort adalah hotel ramah lingkungan terkenal di Bali. Desainnya penuh konsep 'keberlanjutan', setiap detail menyatu dengan alam. Traveler Eropa dan Amerika udah masukin tempat ini ke **daftar wajib nginep** di Bali, tapi turis Asia masih jarang yang tahu.
 
-Begitu sampai, kamu langsung bisa merasakan profesionalisme dan keramahan mereka:
+Begitu sampai, lo langsung bisa ngerasain profesionalisme dan perhatian mereka:
 
-- **Sambutan Tamu:** Staf sudah hafal namamu sejak awal, langsung kasih jus, kopi, atau bir — bikin rileks seketika.
-- **Butler Pribadi:** Mereka bikin grup WhatsApp khusus buat kamu, semua permintaan bisa diurus lewat HP, kayak pesan sarapan, aktivitas, atau layanan kamar — super efisien.
-- **Perhatian pada Detail:** Setiap sudut kamar dihias tanaman hijau atau bunga yang ditata rapi, entah di kepala tempat tidur, pinggir tangga, atau di kamar mandi — bikin kamu merasa hangat.
+- **Sambutan spesial:** Staf udah hafal namamu dari awal, langsung kasih jus, kopi, atau bir — bikin langsung rileks.
+- **Pribadi asisten:** Dibikinin grup WhatsApp khusus, semua kebutuhan lewat HP aja, kayak pesan sarapan, aktivitas, atau room service — super efisien!
+- **Perhatian ke detail:** Setiap sudut kamar dihias tanaman hijau atau bunga cantik, entah di samping tempat tidur, pinggir tangga, atau di kamar mandi — bikin kamu merasa hangat banget.
 
-🌟 **Tipe Kamar Wajib Coba: Tree House Bambu 'Two-story Bamboo Pod'**
+🌟 **Kamar wajib coba: Treehouse Bambu Dua Lantai 《Two-story Bamboo Pod》**
 
-Kali ini kami pilih tipe tree house bambu dua lantai — kemewahannya maksimal banget!
+Kali ini aku pilih tipe kamar treehouse bambu dua lantai — kemewahannya maksimal!
 
-1. **Lantai Bawah:**
-2. - Desain terbuka, langsung menghadap ke hutan, dilengkapi dengan tempat rebahan yang luas.
+1. **Lantai bawah:**
+2. - Desain terbuka, langsung lihat hutan, ada dipan santai yang luas.
 
-- Kamar mandi sepenuhnya terbuka, air panas stabil, privasinya juga oke banget. Buat kamu yang pengen mandi di alam terbuka, pasti bakal suka!
+- Kamar mandi outdoor full terbuka, air panas stabil, privasi oke — cocok banget buat yang pengalaman mandi di alam!
 
-3. **Lantai Atas:**
-4. - Jendela panorama 360 derajat, di luar jendela langsung pucuk-pucuk pohon. Berada di dalamnya terasa seperti mimpi.
+3. **Lantai atas:**
+4. - Jendela 360 derajat, pemandangan langsung ke pucuk pohon — serasa di mimpi.
 
-- Ada juga tempat tidur gantung yang melayang, wajib banget foto-foto buat feed Instagram!
+- Ada juga hammock gantung, wajib banget foto-foto buat feed Instagram!
 
-💎 **Kejutan kecil:** Minuman di kulkas (bir, soda), keripik premium semuanya gratis, kopi dan teh juga lengkap banget!
+💎 **Kejutan kecil:** Minuman di kulkas (bir, soda), keripik premium — semuanya gratis! Kopi dan teh juga lengkap banget!
 
-🍽 **Pengalaman Makan: Kelezatan di Surga**
+🍽 **Pengalaman Kuliner: Surga Rasa di Tengah Alam**
 
 1. **Sarapan:**
-2. - Bisa pilih makan di restoran, diantar ke kamar, atau nikmati floating breakfast di kolam renang — tanpa biaya tambahan, tinggal reservasi aja.
-3. **Makan Malam:**
-4. - Menu restoran di hotel bervariasi, bahan-bahannya segar, harganya masuk akal. Pilihan tepat buat menikmati cita rasa Bali.
+2. - Bisa pilih makan di restoran, diantar ke kamar, atau nikmati floating breakfast di kolam renang — semuanya gratis, tinggal reservasi aja sebelumnya.
 
-🌿 **Rekomendasi Aktivitas: Waktu Intim dengan Alam**
+🌿 **Rekomendasi Aktivitas: Waktu Berkualitas Bareng Alam**
 
-Selain menginap yang sudah jadi pengalaman tersendiri, Sebatu Sanctuary juga punya banyak aktivitas seru yang dekat dengan alam:
+🌿 **Rekomendasi Aktivitas: Waktu Berkualitas Bareng Alam**
 
-1. **Piknik di Hutan (Romantic Picnic for 2):**
-2. - Ikut管家 jalan kaki 1,5 km ke dalam hutan, nikmati keranjang piknik yang disiapkan chef, di sampingnya ada kolam renang air terjun alami. Dua jam ini benar-benar terisolasi dari dunia, cocok banget buat me-time!
-3. **Pengalaman SPA:**
-4. - Harganya ramah di kantong, meja pijat langsung dipasang di kamar atau di luar ruangan. Dengan angin alami dan suara serangga serta burung, badan udah rileks sebelum pijat dimulai.
+1. **林中野餐（Romantic Picnic for 2）：**
+2. - Ikut pemandu jalan kaki 1,5 km ke dalam hutan, nikmati keranjang piknik yang disiapkan chef spesial, di sampingnya ada kolam air terjun alami. Dua jam ini benar-benar terisolasi dari dunia, cocok banget buat melepas penat!
+3. **Pengalaman SPA：**
+4. - Harganya ramah banget di kantong, meja pijat langsung dipasang di dalam kamar atau outdoor, ditemani angin alami dan suara serangga serta kicauan burung, sebelum dipijat pun badan udah rileks total.
 
-💰 **Referensi Harga Kamar:**
+💰 **Referensi Harga Tipe Kamar:**
 
-- **Two-story Bamboo Pod**: 2.400.000 IDR/malam
-- **Extra bed (termasuk 2 sarapan)**: 250.000 IDR
+- **Two-story Bamboo Pod**：2,400,000 IDR/malam
+- 💰 **Referensi Harga Kamar:**
 
-PS: Sebaiknya booking 1–2 bulan sebelumnya, karena tempat ini populer banget di kalangan turis Eropa-Amerika. Total kamar cuma 8 unit, sering sold out!
+**Two-story Bamboo Pod**: 2.400.000 IDR/malam
 
-📌 **Tips Transportasi & Booking**
+**Extra bed (termasuk 2 porsi sarapan)**: 250.000 IDR
 
-1. **Booking lewat website resmi hotel:**
+1. **Pesan Langsung dari Website Hotel:**
    [Sebatu Sanctuary Eco-resort](https://www.sebatu-sanctuary.com)
-2. **Rekomendasi tipe kamar:**
-3. - Two-story Bamboo Pod (2 unit)
+2. **Rekomendasi Tipe Kamar:**
+3. - Two-story Bamboo Pod (2 kamar)
 
-- Tented Villa Forest View (2 unit)
-- Hobbit Treehouse (1 unit)
+- Tented Villa Forest View (2 kamar)
+- Hobbit Treehouse (1 kamar)
 
-4. **Lokasi & akses:** Sebatu ada di utara Ubud, bisa dicapai pakai mobil sewaan atau motor. Karena letaknya di tengah hutan, suasananya tenang dan privat, cocok buat kamu yang pengin kabur dari keramaian.
+4. **Lokasi & Akses:** Sebatu ada di utara Ubud, bisa dicapai pakai mobil sewaan atau motor. Karena letaknya di tengah hutan, suasananya tenang dan privat banget — cocok buat kamu yang pengin kabur dari keramaian.
 
 📝 **Pengalaman Pribadi**
 
-Sebatu Sanctuary Eco-resort adalah tempat yang bikin kamu benar-benar rileks dan kembali ke alam. Ini bukan sekadar tempat menginap, tapi lebih seperti perjalanan penyembuhan untuk alam dan jiwa. Meskipun lokasinya agak terpencil, pelayanannya yang penuh perhatian, desain yang detail, serta tipe kamar dan aktivitas yang dekat dengan alam semuanya layak untuk dijelajahi oleh setiap traveler.
+Sebatu Sanctuary Eco-resort adalah tempat yang bikin kamu benar-benar rileks dan balik ke alam. Ini bukan sekadar nginep, tapi kayak perjalanan penyembuhan buat jiwa dan raga. Meskipun agak terpencil, pelayanannya yang perhatian, desainnya yang detail, serta tipe kamar dan aktivitas yang dekat sama alam, semuanya worth it buat dijelajahi.
 
-Kalau kamu juga pengen pengalaman intim dengan hutan, langsung aja booking sekarang! 🌲💚
+Kalau kamu juga kangen pengalaman seru di tengah hutan, langsung aja booking! 🌲💚
 
 ![第六天住宿推薦《Sebatu Sanctuary Eco-resort》](https://images.gobaligo.id/vocus/vocus_b80d9684405aba0db01f6d3e125e98b5.jpg)
 
-▶[**Lihat 9 villa bambu (bamboo villa) lainnya yang bikin speechless**](/id/blog/ubud-treehouse-bamboo-villa-stays/)
+▶[**Lihat 9 villa bambu (bamboo villa) lainnya yang bikin melongo**](/id/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ***
 
-## Hari Ketujuh / Hari Kedelapan
+## Itinerary Hari Ketujuh / Hari Kedelapan
 
-### **《Menginap di Safari Park》 - Kontak langsung dengan zebra 🦓, gajah 🐘, singa 🐅!**
+### **《Nginap di Kebun Binatang》 - Kontak Langsung dengan Zebra🦓, Gajah🐘, Singa🐅!**
 
-🌙 Menginap di 《Mara River Safari Lodge》, tinggal di kamar keluarga Kifaru, nikmati ruang nyaman dengan dua kamar tidur, dan bisa kasih makan zebra dari dekat, ketemu gajah, bahkan sarapan bareng singa di restoran!
+🌙 Nginap di 《Mara River Safari Lodge》, stay di kamar keluarga Kifaru, dapet ruang dua kamar tidur yang nyaman, plus bisa kasih makan zebra dari dekat, ketemu gajah, bahkan sarapan bareng singa di restoran!
 
 ![《夜宿野生動物園》 - 與斑馬、大象、獅子的零距離接觸！](https://images.gobaligo.id/vocus/vocus_d4b372474f21819999f8a11e41ec4ee7.jpg)
 
 ✨ **Highlight:**
 
-1️⃣ **Menginap dapat akses bebas masuk kawasan selama dua hari**, bisa balik ke kamar kapan aja buat istirahat, super praktis!
+1️⃣ **Akomodasi kasih akses masuk taman gratis dua hari**, bisa balik kamar kapan aja, super praktis!
 
-2️⃣ Makan di 「Tsavo Lion Restaurant」 sambil lihat singa dari balik kaca, pengalaman yang unik banget. 3️⃣ Di jam tertentu bisa interaksi langsung dengan hewan, foto gratis 📸!
+2️⃣ Makan di 「Tsavo Lion Restaurant」 sambil lihat singa di balik kaca, pengalaman yang unik banget. 3️⃣ Di jam tertentu bisa interaksi langsung sama hewan, foto gratis📸!
 
-🎢 Wajib lihat: pertunjukan satwa, gajah mandi, pertunjukan kucing besar, dan ekspedisi malam 'Night Safari', itinerary-nya super seru!
+🎢 Wajib coba: pertunjukan satwa, gajah mandi, pertunjukan kucing besar, plus ekspedisi malam 「Night Safari」, itinerary-nya padat banget!
 
 💡 Saran: langsung nginep aja, lebih worth it daripada beli tiket doang, pengalamannya lebih lengkap!
 
-👉 Klik untuk info lebih lanjut [pengalaman kami nginep di kebun binatang plus detail akomodasi](/id/blog/bali-safari-night-stay/)!
+👉 Klik buat info lebih lanjut [pengalaman kita nginep di kebun binatang plus detail akomodasi](/id/blog/bali-safari-night-stay/)!
 
 ***
 
-## **Layanan Sewa Mobil yang Kami Rekomendasikan Banget**
+## **Layanan Sewa Mobil yang Kami Rekomendasiin Banget**
 
-Kalau kamu liburan di Bali, wajib coba layanan sewa mobil dari Gede! Gede itu supir yang profesional banget dan sabar, baik buat liburan keluarga atau jalan-jalan biasa, dia selalu kasih pelayanan yang oke.
+Kalau kamu lagi liburan di Bali, wajib banget coba pakai jasa sewa mobil Gede! Gede itu sopir yang profesional banget dan super sabar. Mau liburan keluarga atau jalan-jalan biasa, pelayanannya pasti bikin nyaman.
 
 ![我們大力推薦的包車服務](https://images.gobaligo.id/vocus/vocus_44fc7398e88b59cba7815abcb689d3a4.jpg)
 
 📋 **Keunggulan Layanan:**
 
 - Datang tepat waktu (bahkan lebih awal) dari janji
-- Kalau ada keterlambatan (macet), pasti kabarin dari jauh-jauh hari
-- Utamakan keselamatan, pas naik/turun mobil juga dibantuin tutup pintu
-- Pas sampai hotel, selalu duluan bantuin konfirmasi
-- Siap bantu apa aja yang kamu tanyain (kehilangan barang, belanja, sharing info)
-- Kalau kamu mau beli paket wisata, dia juga bantu tanya-tanya temennya, biar dapet harga terbaik buat kamu
-- Urusan setelah turun pesawat juga diurusin semua: jemput bandara, beli SIM card lokal (bisa pakai WiFi gratis bandara dulu buat kontak), dan tukar uang (di exchange center resmi yang nggak nipu)
-- Tempat wisata yang harganya nggak masuk akal bakal dilarang buat didatengin (Gede nggak ambil komisi, jadi beberapa tempat populer kadang nggak boleh nemenin tamu masuk)
-- Beberapa tempat wisata Gede bakal ikut masuk (karena lokal gratis tiket masuk), jadi sekalian jadi pemandu dadakan, ceritain sejarah/cerita tempat itu
-- Pas ke Pura Uluwatu / tebing / sunset, Gede setia nemenin kita, bantu foto-foto, dan waspada biar barang kita nggak diambil monyet, matanya awas ke mana-mana
-- Ingat! Jadi turis yang baik, Gede itu sopir sewaan, bukan pemandu wisata. Kalau dia nggak ikut masuk tempat wisata, itu wajar banget, jangan banyak menuntut, saling pengertian aja
-- Sepanjang trip ini, kita nggak pernah maksa Gede buat ikut lihat-lihat plus jelasin, semuanya natural aja. Kalau dia mau nemenin lebih, kita bersyukur, kalau enggak, ya wajar dan normal
-- Soal makan / ngopi sore / kafe dengan pemandangan, tempat yang dikunjungi turis kayak kamu dan aku, harganya pasti nggak murah. Biasanya Gede anter sampe tempat, terus pergi, nunggu dipanggil lagi
-- Buat Gede yang penghasilannya pas-pasan, tempat-tempat itu mahal banget. Karena kita udah kayak temen akrab, kita malah suka ngajak Gede ikut (tapi Gede selalu nolak buat makan bareng, pura-pura udah kenyang, kadang-kadang minum bareng, tapi selalu pilih yang termurah)
+- Kalau ada keterlambatan (macet), pasti kabarin duluan
+- Utamakan keselamatan, pas naik/turun mobil juga dibantuin buka pintu sambil lindungin dari kendaraan lain
+- Sesampainya di hotel, selalu duluan bantuin konfirmasi
+- Semua pertanyaan dibantu semaksimal mungkin (barang hilang, belanja, info tempat)
+- Kalau mau beli paket wisata, dia juga bantu tanya temannya buat dapetin harga terbaik
+- Urusan setelah turun pesawat juga diurusin rapi: jemput bandara, beli SIM card di toko lokal (bisa pakai WiFi gratis bandara dulu buat kontak), dan tukar uang di tempat resmi yang aman
+- Tempat wisata yang suka 'menguras kantong', biasanya bakal disarankan untuk nggak usah didatangi (Gede nggak ambil komisi, jadi beberapa tempat hits kadang nggak ngizinin dia masuk bareng tamu)
+- Beberapa tempat wisata, Gede akan ikut masuk (beberapa tempat, penduduk lokal gratis tiket masuk), jadi sekalian jadi pemandu dadakan, cerita sejarah dan kisah di balik tempat tersebut
+- Di Uluwatu Temple / tebing / sunset, Gede setia menemani kita, bantu foto-foto, dan waspada banget biar barang bawaan kita nggak diambil monyet, matanya awas ke mana-mana
+- Ingat! Jadi traveler yang baik, Gede itu sopir sewaan, bukan pemandu wisata. Kalau dia nggak ikut masuk area wisata, itu wajar banget, jangan terlalu banyak menuntut, ya, saling pengertian
+- Sepanjang trip ini, aku nggak pernah minta Gede harus selalu ikut masuk + jelasin, semuanya santai aja. Kalau dia mau nemenin lebih, kita bersyukur; kalau nggak, ya wajar dan normal
+- Soal makan / ngopi sore / kafe dengan pemandangan, tempat-tempat yang biasa dikunjungi turis kayak kamu dan aku, harganya nggak murah-murah amat. Biasanya Gede anter kita ke lokasi, terus pergi, nunggu kabar aja
+- Buat Gede yang penghasilannya pas-pasan, tempat-tempat itu mahal banget. Karena hubungan kita sama Gede udah kayak teman, kita malah suka ngajak dia ikut (tapi Gede selalu nolak masuk restoran, bilang udah kenyang, kadang-kadang ikut minum, tapi selalu pilih yang termurah)
 
 📍 **Kontak:**
 
@@ -910,34 +907,34 @@ Kalau kamu liburan di Bali, wajib coba layanan sewa mobil dari Gede! Gede itu su
 
 - LINE ID : Bopeas29
 - WhatsApp : +62 8786 2004 094
-- Telepon: +62 81237 811 841
+- Telepon : +62 81237 811 841
 
 Kalau kamu butuh driver yang bisa diandalkan dan perhatian, Gede jelas pilihan terbaik! Info lebih detail tentang driver ini ada di [sini](/id/blog/Gede-Arimbawa/).
 
-PS Di Indonesia itu negara yang biasa kasih tip, jadi jangan pelit ya kasih tip lebih buat Gede, karena dia emang layak! (10% dari total biaya sewa mobil itu standar banget, 20%–30% lebih bagus, aku atas nama Gede makasih banget)
+PS: Indonesia itu negara yang biasa kasih tip, jadi jangan pelit ya buat ngasih lebih buat Gede, karena dia beneran worth it! (10% dari total biaya sewa mobil itu standar banget, 20%–30% itu udah luar biasa, aku atas nama Gede makasih banget)
 
 ***
 
 ## Pulang
 
-Setelah menyelesaikan perjalanan keluarga ke Bali ini, yang kita bawa pulang bukan cuma pemandangan indah di sepanjang jalan, pengalaman budaya yang tak terlupakan, tapi juga kenangan berharga yang kita ciptakan bareng anak-anak. Dari tawa kejar-kejaran di sawah Ubud, sampai dekat-dekat dengan alam di kebun binatang, lalu jalan-jalan sambil pegangan tangan di pantai saat matahari terbenam — setiap momen terasa hangat dan penuh kebahagiaan. Bali bukan cuma surga liburan yang bikin rileks, tapi juga tempat yang bikin keluarga makin dekat satu sama lain. Di sini, waktu serasa berjalan lebih lambat, bikin kita bisa benar-benar merasakan kehadiran satu sama lain dan menghargai momen quality time bersama anak-anak yang unik ini. Ke mana pun kita pergi nanti, gambar-gambar dan kenangan tentang Bali ini bakal selalu bersinar di hati kita. ✨ (**Harga-harga yang disebut di atas adalah harga referensi bulan Agustus 2022, buat referensi kalian saat merencanakan perjalanan.**)
+Setelah menyelesaikan perjalanan keluarga ke Bali ini, yang kita bawa pulang bukan cuma pemandangan indah di sepanjang jalan, pengalaman budaya yang nggak terlupakan, tapi juga kenangan berharga yang kita ciptakan bareng anak-anak. Dari tawa kejar-kejaran di sawah Ubud, sampai dekat-dekat dengan alam di kebun binatang, dan jalan-jalan sambil gandengan tangan di pantai saat matahari terbenam — setiap momen penuh kehangatan dan kebahagiaan. Bali bukan cuma surga liburan buat santai, tapi juga tempat yang bikin keluarga makin dekat satu sama lain. Di sini, waktu serasa berjalan lebih lambat, bikin kita bisa benar-benar merasakan kebersamaan dan menghargai momen unik quality time bersama anak. Ke mana pun kita pergi nanti, gambar-gambar dan kenangan tentang Bali ini bakal selalu bersinar di hati kita. ✨ (**Harga-harga yang disebut di atas adalah harga referensi Agustus 2022, buat referensi rencana perjalanan kalian.**)
 
-### Sharing itinerary lengkap:
+### Cerita perjalanan lengkap:
 
-- [**Hari 1: Nginep di dalam shopping mall! Tips akomodasi keluarga 2 dewasa 2 anak**](/id/blog/bali-family-trip-aloft-kuta/)
+- [**Hari 1: Nginep di dalam shopping mall! Pengaturan akomodasi keluarga dua dewasa dua anak**](/id/blog/bali-family-trip-aloft-kuta/)
 - [**Hari 2: GWK Garuda Wisnu Kencana, Beach Club gratis di Uluwatu, Pura Uluwatu, Tari Kecak Uluwatu**](/id/blog/bali-family-trip-gwk-beach-club/)
-- **Day 3-7: Lima Hari di Ubud: Rekomendasi Kuliner, Tempat Wisata, Akomodasi, & Eksplorasi Gunung Berapi**
-- [**Day 8: Cara Seru Main di Bali Safari & Tips Menginap**](/id/blog/bali-safari-night-stay/)
+- **Hari 3-7: Lima hari di Ubud: rekomendasi kuliner, tempat wisata, akomodasi, dan eksplorasi gunung berapi**
+- [**Hari 8: Cara main di Bali Safari & tips nginep di sana**](/id/blog/bali-safari-night-stay/)
 
 ***
 
-Kamu pikir itinerary dari [Let's Play and Eat 胡志明市](https://www.facebook.com/profile.php?id=100068951930592) seru banget? Yuk, langsung atur rencana liburanmu ke Bali! Jangan lupa juga join grup dan kirim itinerary kamu ya!
+Kamu pikir itinerary dari [Let's Play and Eat Ho Chi Minh City](https://www.facebook.com/profile.php?id=100068951930592) seru banget? Yuk, rencanain liburan seru ke Bali sekarang! Jangan lupa juga kirim itinerary kamu di grup ya!
 
 ![完整遊記分享：](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
-Klik di sini buat lihat lebih banyak cerita seru tentang Bali
+Klik di sini buat lihat lebih banyak cerita seru dari Bali
 
-Mau nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Menulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar ceritamu makin kece!
+Mau nulis cerita perjalanan tapi bingung mulai dari mana? Cek dulu panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」 biar ceritamu makin kece!
 
 {{block:ubud}}
 

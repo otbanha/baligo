@@ -1,7 +1,7 @@
 ---
-title: 峇里島包車司機推薦名單（第二頁）｜中文司機為主．社團真實分享
+title: 峇里島包車司機推薦名單（第二頁）｜社團真實分享
 slug: ''
-description: 峇里島包車司機推薦名單第二頁，以可以中文溝通嘅司機為主，每個司機底下嘅分享連結都可以㩒開去睇返原始社團貼文。附2026包車行情同埋聯絡時要提供嘅資訊。
+description: 峇里島包車司機推薦名單第二頁，每位司機底下嘅分享連結都可以㩒開查證原始社團貼文。附2026包車行情同聯絡時要提供嘅資訊。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,46 +17,24 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-15T00:00:00.000Z
+updatedDate: 2026-08-19T00:00:00.000Z
 lang: zh-hk
-_srcHash: 3f00a105c3ce21bf88416e6a2f7eed46
+_srcHash: 94f092e2aecf47f78cec35e920168b6a
 ---
 
 Update: 2026/08/10
 
-**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，以可以中文溝通嘅司機為主，收錄 **19 位司機、258 則團友喺Facebook社團自己出文嘅搭車分享**。每個司機底下嗰排數字都係原始貼文連結，可以自己㩒開去查證。
+**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，以可以用中文溝通嘅司機為主，收錄 **19 位司機、258 則團友喺Facebook社團自己出嘅搭車分享**。每位司機底下嗰排數字都係原始貼文連結，可以自己㩒開查證。
 
-包車行情大約 **Rp 600,000–800,000／10 小時／五人座**（計車唔計人頭，烏布以南），2026 年 7 月 1 日起另外加燃油費補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加價、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
+包車行情大約 **Rp 600,000–800,000／10 小時／五人座**（計車唔計人頭，烏布以南），2026 年 7 月 1 日起另加油費補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加價、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
 
-> 聯絡司機嘅時候請一次過講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，同埋問清楚包跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
+> 聯絡司機時請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，仲要問清楚包跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
 
 **👉 第一頁仲有另外 24 位司機（包括 9 位中文司機）：**[**峇里島包車司機推薦名單（第一頁）**](/zh-hk/blog/bali-private-car-drivers-guide/)
 
-## 呢頁 19 位司機一覽表
+## 呢頁 20 位司機一覽表
 
-順序**唔代表排名**，則數多只係表示口碑累積得耐。㩒個名可以跳到嗰位司機嘅分享連結。
-
-| 司機 | 網友分享則數 |
-| --- | --- |
-| [Jimmi Liu 吉米劉](#jimmi-liu-吉米劉) | 9 |
-| [Betty Pinsky & 小吳](#betty-pinsky--小吳) | 25 |
-| [Any 安妮](#any-安妮) | 31 |
-| [Komang WikaSutresna](#komang-wikasutresna) | 13 |
-| [Fery Kyo](#fery-kyo) | 18 |
-| [Gede Ari](#gede-ari) | 9 |
-| [Benny Surya Pragosa](#benny-surya-pragosa) | 12 |
-| [Satrya Gede](#satrya-gede) | 9 |
-| [Ok Bali](#ok-bali) | 22 |
-| [Maday](#maday) | 5 |
-| [Dody](#dody) | 17 |
-| [Vina](#vina) | 13 |
-| [Iwayan Suantara 康哥](#iwayan-suantara-康哥) | 20 |
-| [Kadek Puri](#kadek-puri) | 6 |
-| [Dwik](#dwik) | 4 |
-| [Odon](#odon) | 6 |
-| [Gung Bali Wangzi 王子](#gung-bali-wangzi-王子) | 19 |
-| [Gede Mahendra](#gede-mahendra) | 6 |
-| [Manx Liega](#manx-liega) | 17 |
+順序**唔代表排名**，
 
 <!-- shuffle-start -->
 
@@ -66,7 +44,7 @@ Update: 2026/08/10
 
 👍 **9 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) [2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) [3](https://www.facebook.com/share/p/15fjFWAbXM/) [4](https://www.facebook.com/share/p/15nNA4aGZz/) [5](https://www.facebook.com/share/p/15iBddik33/) [6](https://www.facebook.com/share/p/17nFfb2u9j/) [7](https://www.facebook.com/share/p/17gKzp4xNs/) [8](https://www.facebook.com/share/p/1ERGJqTW86/) [9](https://www.facebook.com/share/p/183DMoePq4/)
 
-## Betty Pinsky 同小吳
+## Betty Pinsky & 小吳
 
 ![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
@@ -124,25 +102,25 @@ Update: 2026/08/10
 
 ![Dody](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍 **17 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/) [17](https://www.facebook.com/share/p/1BnoV3UZFM/)
+👍 **17 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1VXqNsk4dP/) [2](https://www.facebook.com/share/p/15s61pbqgP/) [3](https://www.facebook.com/share/p/12FP8bmqqKV/) [4](https://www.facebook.com/share/p/1BrE9Bwfc3/) [5](https://www.facebook.com/share/p/18uBBsVQ54/) [6](https://www.facebook.com/share/p/1Acxiogodn/) [7](https://www.facebook.com/share/p/1ErBNVZgiL/) [8](https://www.facebook.com/share/p/19u4bKB5qN/) [9](https://www.facebook.com/share/p/17aye3oM8x/) [10](https://www.facebook.com/share/p/1C6r8pfDsG/) [11](https://www.facebook.com/share/p/1DXoxBorWJ/) [12](https://www.facebook.com/share/p/1FgemyygNF/) [13](https://www.facebook.com/share/p/1JqpWvJjBy/) [14](https://www.facebook.com/share/p/1E4mrmKxYV/) [15](https://www.facebook.com/share/p/18cZXfUcjA/) [16](https://www.facebook.com/share/p/1GzLCXzvpw/) [17](https://www.facebook.com/share/p/1BnoV3UZFM/)
 
 ## Vina
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍 **13 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1ALefWHdMF/) [2](https://www.facebook.com/share/p/19K4zEzd5E/) [3](https://www.facebook.com/share/p/1CNDuc9iDz/) [4](https://www.facebook.com/share/p/19quQXbPKN/) [5](https://www.facebook.com/share/p/1J3RUkQCu7/) [6](https://www.facebook.com/share/p/1FvFgCvpwQ/) [7](https://www.facebook.com/share/p/1G75rquYe4/) [8](https://www.facebook.com/share/p/1BLkuF2sBC/) [9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) [10](https://www.facebook.com/share/p/17nCf6g5RC/) [11](https://www.facebook.com/share/p/18mL44rk89/) [12](https://www.facebook.com/share/p/1UCWrJKutL/) [13](https://www.facebook.com/share/p/1FWDiN8vP8/)
+👍 **13 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1ALefWHdMF/) [2](https://www.facebook.com/share/p/19K4zEzd5E/) [3](https://www.facebook.com/share/p/1CNDuc9iDz/) [4](https://www.facebook.com/share/p/19quQXbPKN/) [5](https://www.facebook.com/share/p/1J3RUkQCu7/) [6](https://www.facebook.com/share/p/1FvFgCvpwQ/) [7](https://www.facebook.com/share/p/1G75rquYe4/) [8](https://www.facebook.com/share/p/1BLkuF2sBC/) [9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) [10](https://www.facebook.com/share/p/17nCf6g5RC/) [11](https://www.facebook.com/share/p/18mL44rk89/) [12](https://www.facebook.com/share/p/1UCWrJKutL/) [13](https://www.facebook.com/share/p/1FWDiN8vP8/)
 
 ## Iwayan Suantara 康哥
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
-👍 **20 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) [2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) [3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) [4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) [5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) [6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) [7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) [8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) [9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) [10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) [11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) [12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) [13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) [14](https://www.facebook.com/share/p/19eYb9HkPn/) [15](https://www.facebook.com/share/p/18sj6jAcV3/) [16](https://www.facebook.com/share/p/16LwXDKR1H/) [17](https://www.facebook.com/share/p/1EW8DqQ7ex/) [18](https://www.facebook.com/share/p/1P1ABiSqn6/) [19](https://www.facebook.com/share/p/1FtxCvDbr9/) [20](https://www.facebook.com/share/p/17TuGZieHU/)
+👍 **20 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) [2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) [3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) [4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) [5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) [6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) [7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) [8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) [9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) [10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) [11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) [12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) [13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) [14](https://www.facebook.com/share/p/19eYb9HkPn/) [15](https://www.facebook.com/share/p/18sj6jAcV3/) [16](https://www.facebook.com/share/p/16LwXDKR1H/) [17](https://www.facebook.com/share/p/1EW8DqQ7ex/) [18](https://www.facebook.com/share/p/1P1ABiSqn6/) [19](https://www.facebook.com/share/p/1FtxCvDbr9/) [20](https://www.facebook.com/share/p/17TuGZieHU/)
 
 ## Kadek Puri
 
 ![Kadek Puri](https://images.gobaligo.id/images/2026-03/1774788060634-kadek_puri_new.jpg)
 
-👍 **6 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) [2](https://www.facebook.com/groups/baligo/permalink/1496555740891666/) [3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) [4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) [5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) [6](https://www.facebook.com/share/p/1KdjNhGDoh/)
+👍 **6 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) [2](https://www.facebook.com/groups/baligo/permalink/1496555740891666/) [3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) [4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) [5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) [6](https://www.facebook.com/share/p/1KdjNhGDoh/)
 
 ## Dwik
 
@@ -154,25 +132,31 @@ Update: 2026/08/10
 
 ![Odon](https://images.gobaligo.id/images/2026-03/1774788129506-odon_new.jpg)
 
-👍 **6 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
+👍 **6 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1AMUy8XQJC/) [2](https://www.facebook.com/share/p/186Vs8hbsD/) [3](https://www.facebook.com/share/1ED9boaUC7/) [4](https://www.facebook.com/share/p/1AK9XoQjiH/) [5](https://www.facebook.com/share/p/15tr79GCtL/) [6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
 ## Gung Bali Wangzi 王子
 
 ![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍 **19 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
+👍 **19 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
 
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍 **6 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1ENRDfkjEw/) [2](https://www.facebook.com/share/p/17qogSzHU1/) [3](https://www.facebook.com/share/p/1FVRdBgbNL/) [4](https://www.facebook.com/share/p/1Kw5mTbHAa/) [5](https://www.facebook.com/share/p/1JYmnQC1w9/) [6](https://www.facebook.com/share/p/1CwwL8mTrC/)
+👍 **6 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1ENRDfkjEw/) [2](https://www.facebook.com/share/p/17qogSzHU1/) [3](https://www.facebook.com/share/p/1FVRdBgbNL/) [4](https://www.facebook.com/share/p/1Kw5mTbHAa/) [5](https://www.facebook.com/share/p/1JYmnQC1w9/) [6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
-👍 **17 則網友實測分享**（撳數字睇社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
+👍 **17 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) [2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) [3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) [4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) [5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) [6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) [7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) [8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) [9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) [10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) [11](https://www.facebook.com/share/p/1WtJZjUnVs/) [12](https://www.facebook.com/share/p/15kvdyEiQN/) [13](https://www.facebook.com/share/p/18ztpws3cC/) [14](https://www.facebook.com/share/p/1CGq8uAZaX/) [15](https://www.facebook.com/share/p/1LawWCzFjz/) [16](https://www.facebook.com/share/p/17HEkRf24L/) [17](https://www.facebook.com/share/p/1CWDjmBc14/)
+
+## Gede John (UD Sadana)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
+
+👍 **5 個網友實測分享**（㩒數字睇社團原貼文）：[1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
@@ -180,6 +164,6 @@ Update: 2026/08/10
 
 ***
 
-👈 **返到峇里島自由行終極指南**
+👈 **返去峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要準備啲乜。
