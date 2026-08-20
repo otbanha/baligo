@@ -1,10 +1,9 @@
 ---
-title: 巴厘岛住宿推荐：坎古Top 19 你不能错过的住宿推荐
+title: 巴厘岛住宿推荐：坎古 20+ 你不能错过的住宿推荐
 slug: canggu-top-hotels-guide
 description: >-
   巴厘岛住宿推荐：在坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古以其独特的波希米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。
 pubDate: 2025-06-02T00:00:00.000Z
-updatedDate: 2026-07-25T00:00:00.000Z
 pubHour: null
 category:
   - 住宿推薦
@@ -20,21 +19,26 @@ tags:
   - '#cangguvilla'
   - '#cangguvilla推薦'
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-08-20T00:00:00.000Z
 update: 2026/05/24
 lang: zh-cn
-_srcHash: 236f420e567eee5e09767d7ab8449a06
+_srcHash: b76670de2c5d7ded435e10ec07e98aca
 ---
+
 ![峇里島住宿推薦：Canggu Top 18 你不能錯過的住宿推薦](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
 
-**先说结论**：坎古位于巴厘岛西南部，以波希米亚氛围与咖啡文化闻名，本文精选 **19 间住宿**涵盖奢华与平价选项，适合喜欢海滨漫步、异国小巷风情，同时想住在潮流生活圈内的旅客依预算挑选。
+**先讲结论**：坎古（Canggu）位于巴厘岛西南部，以波希米亚氛围与咖啡文化闻名，本文精选 **20+住宿**涵盖奢华与平价选项，适合喜欢海滨漫步、异国小巷风情，同时想住在潮流生活圈内的旅客依预算挑选。
 
-当您计划前往印尼巴厘岛的坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古位于巴厘岛的西南部，以其壮观的海滨美景、独特的波希米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。为了帮助您轻松选择理想的住宿，我们特别整理了坎古的前19家住宿推荐，让您在这个迷人的度假胜地中度过难忘的时光。无论您是一位崇尚奢华的旅行者，还是追求舒适和放松的度假者，这份推荐清单都将帮助您找到最适合的住宿选择。
+当您计划前往印尼巴厘岛的坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古位于巴厘岛的西南部，以其壮观的海滨美景、独特的波希米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。为了帮助您轻松选择理想的住宿，我们特别整理了坎古的前20家住宿推荐，让您在这个迷人的度假胜地中度过难忘的时光。无论您是一位崇尚奢华的旅行者，还是追求舒适和放松的度假者，这份推荐清单都将帮助您找到最适合的住宿选择。
 
 ### 你一定也想看：
 
-> ▶[坎古攻略上集](/zh-cn/blog/canggu-surf-food-guide/)
-> ▶[坎古攻略下集](/zh-cn/blog/canggu-bali-travel-guide/)
+> ▶[Canngu攻略上集](/zh-cn/blog/canggu-surf-food-guide/)
+> ▶[Canggu攻略下集](/zh-cn/blog/canggu-bali-travel-guide/)
 
 ### 【别错过这些坎古购票优惠】
 
@@ -46,7 +50,7 @@ _srcHash: 236f420e567eee5e09767d7ab8449a06
 * 坎古[烹饪课程文化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
 * 坎古 [Spa & Yoga高级体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 * 坎古 [按摩SPA不踩雷推荐](/zh-cn/blog/spa/)
-* 坎古 [到府按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+* 坎古 [上门按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
 让我们开始探索坎古的顶级住宿吧，为您的旅程增添更多精彩回忆！最底下还有这16间住宿推荐的地理位置图。
 
@@ -56,9 +60,9 @@ _srcHash: 236f420e567eee5e09767d7ab8449a06
 
 COMO Uma Canggu的位置绝对令人惊叹。酒店坐落紧邻海滩，为游客提供了壮观的海滨美景，欣赏着夕阳美景。
 
-COMO Uma Canggu本身也是一个美不胜收的建筑物。酒店设计简约而现代，融合了巴厘岛的当地风格和国际化的设计元素。同时这里以其一流的设施而闻名，让您感受到极致的舒适和放松。
+COMO Uma Canggu本身也是一个美不胜收的建筑。酒店设计简约而现代，融合了巴厘岛的当地风格和国际化的设计元素。同时这里以其一流的设施而闻名，让您感受到极致的舒适和放松。
 
-> ▶[Agoda优惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23070744) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-15772747/como-uma-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/IILBFWDi)
+[> ▶[Agoda优惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23070744) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-15772747/como-uma-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/IILBFWDi)
 
 ## 2.Hotel Tugu Bali
 
@@ -72,7 +76,7 @@ COMO Uma Canggu本身也是一个美不胜收的建筑物。酒店设计简约�
 
 ![3.Eastin Ashta Resort Canggu](https://images.gobaligo.id/vocus/vocus_66c8fa5ae00eb7eba575766b1899ee68.jpg)
 
-Eastin Ashta Resort Canggu位于巴厘岛的坎古地区，是一家令人印象深刻的现代度假胜地，以亲子导向提供一系列出色的住宿和设施，为游客带来难忘的度假体验。该度假村自豪地获选为Tripadvisor网站2023年Travellers' Choice，住过的游客一致推荐喔！
+Eastin Ashta Resort Canggu位于巴厘岛的坎古地区，是一家令人印象深刻的现代度假胜地，以亲子导向提供一系列出色的住宿和设施，为游客带来难忘的度假体验。该度假村自豪地获选为Tripadvisor网站2023年Travellers' Choice，住过的游客一致推荐哦！
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5263211) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-22155082/eastin-ashta-resort-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/YkbegL2I)
 
@@ -88,7 +92,7 @@ La Reserve 1785 Canggu Beach是一家于2022年开幕的全新度假胜地，坐
 
 ![5.ZIN Canggu Resort & Villas](https://images.gobaligo.id/vocus/vocus_00517035bd0e2005c3cff58ed044eb83.jpg)
 
-坎古地区的四星级精品度假胜地ZIN Canggu Resort & Villas于2018年开业，有着惊人的好评。度假村位于Nelayan Beach，距离Echo Beach和Batu Bolong Beach仅几步之遥。度假村内除了一般的旅馆房型，还有私密的泳池别墅可供选择。
+坎古地区的四星级精品度假胜地ZIN Canggu Resort & Villas于2018年开业，好评如潮。度假村位于Nelayan Beach，距离Echo Beach和Batu Bolong Beach仅几步之遥。度假村内除了普通的酒店房型，还有私密的泳池别墅可供选择。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34850151) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-23962763/zin-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/v8XYuX6B)
 
@@ -96,7 +100,7 @@ La Reserve 1785 Canggu Beach是一家于2022年开幕的全新度假胜地，坐
 
 ![6.Shore Amora Canggu](https://images.gobaligo.id/vocus/vocus_1315dcd66d00182c5b058e83bfb555e5.jpg)
 
-Shore Amora Canggu是坎古区一个极具吸引力的优质住宿选择。坐落在一片绿意盎然、椰树婆娑的稻田中，同时距离海滩仅几步之遥。从疫情之前到现在都一直是本区最热门的住宿选项之一。
+Shore Amora Canggu是坎古区一个极具吸引力的优质住宿选择。坐落在一片绿意盎然、椰树婆娑的稻田中，同时距离海滩仅几步之遥。从疫情之前到现在一直是本区最热门的住宿选项之一。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7223142) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-40708610/shore-amora-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Dso8adAE)
 
@@ -104,7 +108,7 @@ Shore Amora Canggu是坎古区一个极具吸引力的优质住宿选择。坐�
 
 ![7.Theanna Villa and Spa Canggu](https://images.gobaligo.id/vocus/vocus_42aad205d506c218ae03d6ee72e297aa.jpg)
 
-如果您正在寻找一个可以放松身心，享受度假的完美之地，那么Theanna Villa and Spa Canggu绝对值得一试。Theanna Villa and Spa Canggu 度假村距海滩仅 5 分钟步行路程。度假村共有 25 间别墅，每间别墅都设有私人泳池、阳台和室外淋浴。荣获 tripadvisor Travellers' Choice 2023年 "**Best of the Best**" 殊荣。是享受宁静和放松假期的理想场所。
+如果您正在寻找一个可以放松身心、享受度假的完美之地，那么Theanna Villa and Spa Canggu绝对值得一试。Theanna Villa and Spa Canggu度假村距海滩仅5分钟步行路程。度假村共有25间别墅，每间别墅都设有私人泳池、阳台和室外淋浴。荣获tripadvisor Travellers' Choice 2023年"**Best of the Best**"殊荣。是享受宁静和放松假期的理想场所。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1203712) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-7596238/theanna-eco-villa-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/gaREzIJE)
 
@@ -136,7 +140,7 @@ Swarga Suites Bali Berawa 是一家位于巴厘岛坎古的超高评价豪华度
 
 ![11.Holiday Inn Resort Bali Canggu](https://images.gobaligo.id/vocus/vocus_2819fc39af6ba26d94deac761bbf5f7f.jpg)
 
-Holiday Inn Resort Bali Canggu于2024年8月正式开业，成为巴厘岛南岸坎古地区的高端住宿选择。度假村拥有时尚设计、顶级设施及先进科技，并提供令人惊艳的无边泳池，俯瞰壮丽的印度洋。这里距离Batu Bolong海滩和坎古热闹街区步行可达，融合现代设计与传统巴厘岛风情。度假村提供144间精心设计的客房，分为标准房、套房及适合家庭的儿童套房。设施包括健身中心、儿童俱乐部及全天候餐厅，让宾客享受难忘的假期。
+Holiday Inn Resort Bali Canggu于2024八月正式开幕，成为巴厘岛南岸坎古地区的高级住宿选择。度假村拥有时尚设计、顶级设施及先进科技，并提供令人惊艳的无边际泳池，俯瞰壮丽的印度洋。这里距离Batu Bolong海滩和坎古热闹街区步行可达，融合现代设计与传统巴厘岛风情。度假村提供144间精心设计的客房，分为标准房、套房及适合家庭的儿童套房。设施包括健身中心、儿童俱乐部及全天候餐厅，让宾客享受难忘的假期。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-113562229/holiday-inn-resort-bali-canggu-by-ihg/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/KVi2lfgC)
 
@@ -144,9 +148,9 @@ Holiday Inn Resort Bali Canggu于2024年8月正式开业，成为巴厘岛南岸
 
 ![12.TUI BLUE Berawa Hotel and Villas](https://images.gobaligo.id/vocus/vocus_d6bfb73b55940f19cd26d940526bbfbd.jpg)
 
-**TUI Blue Berawa 酒店与别墅**于2024年12月13日在巴厘岛坎古开业，成为德国旅游巨头TUI集团在巴厘岛的首个旗舰项目。酒店位于热闹的Berawa区，周边汇聚了坎古的知名景点。
+**TUI Blue Berawa 酒店与别墅**于 2024 年 12 月 13 日在巴厘岛坎古开业，成为德国旅游巨头 TUI 集团在巴厘岛的首个旗舰项目。酒店位于热闹的 Berawa 区，周边汇聚了坎古的知名景点。
 
-酒店拥有 **119 间客房与套房**及 **14 栋私人泳池别墅**，设施包括健身中心、瑜伽室、共享办公空间及高级餐厅，还与印尼顶级巧克力品牌RR Chocolate合作，为客人提供独特体验。无论是家庭、蜜月旅客，还是寻求奢华与舒适的游客，都能找到满足需求的住宿选择。
+酒店拥有 **119 间客房与套房**及 **14 栋私人泳池别墅**，设施包括健身中心、瑜伽室、共享办公空间及高级餐厅，还与印尼顶级巧克力品牌 RR Chocolate 合作，为客人提供独特体验。无论是家庭、蜜月旅客，还是寻求奢华与舒适的游客，都能找到满足需求的住宿选择。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=61670353) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-123784342/tui-blue-berawa-hotel-and-villas/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/4eoziH0p)
 
@@ -154,9 +158,9 @@ Holiday Inn Resort Bali Canggu于2024年8月正式开业，成为巴厘岛南岸
 
 ![13.Oshom Bali](https://images.gobaligo.id/vocus/vocus_f7670907705e51bad1bd83b39e8f8eb9.jpg)
 
-2024年11月开业的Oshom Bali是一间仅有11间客房的精品旅馆，坐落于巴厘岛塔巴南的Nuanu创意城市内，背倚悬崖，面朝黑沙海滩。旅馆还拥有七座红树林树屋、盐水泳池、精致餐厅，以及即将开放的粉橘色屋顶酒吧。房内设计极简奢华，配备全景落地窗、智能设备及印尼传统手工艺品，并提供每日睡前故事与静心冥想空间，让旅人彻底放松。此外，旅馆创办人Daisy Angus策划了绘画工作坊与「床边对谈」等创意活动，激发灵感与创造力。
+2024/11月开业的 Oshom Bali 是一间仅有 11 间客房的精品旅馆，坐落于巴厘岛塔巴南的 Nuanu 创意城市内，背倚悬崖，面朝黑沙海滩。旅馆还拥有七座红树林树屋、盐水泳池、精致餐厅，以及即将开放的粉橘色屋顶酒吧。房内设计极简奢华，配备全景落地窗、智能设备及印尼传统手工艺品，并提供每日睡前故事与静心冥想空间，让旅人彻底放松。此外，旅馆创办人 Daisy Angus 策划了绘画工作坊与「床边对谈」等创意活动，激发灵感与创造力。
 
-Oshom周边设施丰富，距离全球最大的木火蒸气疗愈穹顶Lumeira温泉疗养馆仅需短程车程，提供芬兰传统桑拿等疗愈体验。旅馆餐厅供应巴厘岛传统与西式美食，步行1分钟即可抵达[Luna Beach Club](/zh-cn/blog/canggu-guide/)，享受泳池、酒吧与海滩派对。Oshom结合艺术、自然与灵感，是追求独特度假体验的理想选择。
+Oshom 周边设施丰富，距离全球最大的木火蒸气疗愈穹顶 Lumeira 温泉疗养馆仅需短程车程，提供芬兰传统桑拿等疗愈体验。旅馆餐厅供应巴厘岛传统与西式美食，步行 1 分钟即可抵达 [Luna Beach Club](/zh-cn/blog/canggu-guide/)，享受泳池、酒吧与海滩派对。Oshom 结合艺术、自然与灵感，是追求独特度假体验的理想选择。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64716205) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-117153593/oshom-bali-at-nuanu-creative-city/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/zXbwVorS)
 
@@ -214,14 +218,14 @@ Leafy Lofts Canggu 提供单卧室&双卧室的选项，其时尚的设计、完
 
 ![15.Belajar Bali Boutique Hotel & Retreat](https://images.gobaligo.id/images/2026-03/1774413504253-411389892.jpg)
 
-Belajar Bali Boutique Hotel and Retreat 距离 Batu Bolong 海滩 仅 2.8 公里，是一间融合宁静与奢华的 5 星级精品度假酒店。
+Belajar Bali Boutique Hotel and Retreat 距离 Batu Bolong 海滩仅 2.8 公里，是一间融合宁静与奢华的 5 星级精品度假酒店。
 
 **特色与设施：**
 
 * 户外泳池：客房设有私人露台，可欣赏泳池景观，营造放松的度假氛围。
-* 贴心服务：24 小时前台、行李寄存，并提供共用厨房，方便旅客使用。
+* 贴心服务：24 小时前台、行李寄存，并提供 共用厨房，方便旅客使用。
 * 设计风格：每间客房均配备空调、书桌、保险箱及私人卫浴，简约中展现巴厘岛风情。
-* 交通便利：距离坎古海滩同样 2.8 公里，前往佩蒂滕格特寺约 8.4 公里，距伍拉·赖国际机场仅 17 公里。
+* 交通便利：距离坎古海滩同样2.8公里，前往佩蒂滕格特寺约8.4公里，距伍拉·赖国际机场仅17公里。
 
 Belajar Bali 结合自然与现代化设施，适合追求隐逸假期或深度体验坎古波西米亚风情的旅客。
 
@@ -285,9 +289,9 @@ MAJA Canggu 这家5星级度假酒店，主打精致设施与悠闲氛围。酒�
 
 ![17. Regent Bali Canggu](https://images.gobaligo.id/images/2026-04/1777370906090-675862491.jpg)
 
-坎古一直缺一间真正的顶级酒店。2025年11月，这个空缺被填补了！
+坎古一直缺一间真正的顶级酒店。2025年11月，这个空缺被填上了！
 
-IHG旗下的Regent品牌选在Batu Bolong海岸开业，这是Regent进入印尼的第一家，也是目前坎古硬件规格最高的住宿。
+IHG旗下Regent品牌选在Batu Bolong海岸开业，这是Regent进入印尼的第一间，也是目前坎古硬件规格最高的住宿。
 
 直接面对黑沙滩，步行可达Echo Beach和Batu Bolong Beach。150间海景或花园景套房与Villa，全部King bed标准。入门房就附无限洗衣和全日早餐，柚木浴缸。顶级Penthouse有30坪私人无边泳池。
 
@@ -297,9 +301,9 @@ IHG旗下的Regent品牌选在Batu Bolong海岸开业，这是Regent进入印尼
 
 最适合：蜜月旅客、想在长滩住顶级的旅客、喜欢冲浪又不想妥协住宿品质的人。
 
-> [Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41693391) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-112891526/regent-bali-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+[> [Agoda 优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41693391) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-112891526/regent-bali-canggu/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)](#) ## 18. Dune Seseh 巴厘岛隐世精品小旅馆
 
-## 18. Dune Seseh 巴厘岛隐世精品小旅馆
+2024 年才开幕的 Dune Seseh，藏在坎古以北约 20 分钟的 Seseh 村，全馆只有 12 间客房，主打的就是那种「人不多、有设计感、离海近」的精品体验。
 
 ![18. Dune Seseh 峇里島隱世精品小旅館](https://images.gobaligo.id/images/2026-05/1780070675908-083c1734b8efd896da90a5d9bae535f9.webp)
 
@@ -319,17 +323,17 @@ IHG旗下的Regent品牌选在Batu Bolong海岸开业，这是Regent进入印尼
 
 ![18. Dune Seseh 峇里島隱世精品小旅館](https://images.gobaligo.id/images/2026-05/1780070682867-unnamed1.webp)
 
-2024年才开业的Dune Seseh，藏在坎古以北约20分钟的Seseh村，全馆只有12间客房，主打的就是那种“人不多、有设计感、离海近”的精品体验。
-
-旅馆就在 Pantai Seseh 黑沙海滩旁，步行几分钟可到海边，Tanah Lot 寺庙、Berawa Beach 都在15分钟车程内。整体设计以沙漠色系与海岛风格混搭，石灰水洗墙面、手工瓷砖、红色水泥浴室——细节很到位，拍照也好看。户外游泳池是全馆的灵魂，池边有吊床、躺椅，不少住客说每天都在池里泡到舍不得出门。
+旅馆就在 Pantai Seseh 黑沙海滩旁，步行几分钟可到海边，海神庙、Berawa Beach 都在 15 分钟车程内。整体设计以沙漠色系与海岛风格混搭，石灰水洗墙面、手工瓷砖、红色水泥浴室——细节很到位，拍照也好看。户外游泳池是全馆的灵魂，池边有吊床、躺椅，不少住客说每天都在池里泡到舍不得出门。
 
 房型分为带阳台的 Garden Room 与泳池景观套房，每间都配备浴缸并附赠巴厘岛当地浴盐，洗完一整天的疲劳绰绰有余。餐厅供应巴厘岛融合料理，早餐为单点制，有住客特别称赞咖啡水准很高。
 
-Agoda 住客评分 9.0、Trip.com 9.2，这种分数对才开业没多久的小旅馆来说，相当不容易。想要远离人群、又不想妥协品质的旅客，值得考虑。
+Agoda 住客评分 9.0、Trip.com 9.2，这种分数对才开幕没多久的小旅馆来说，相当不容易。想要远离人群、又不想妥协品质的旅客，值得考虑。
 
 > 👉 点此查看 Dune Seseh 最新房价与空房：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=53768541) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-118505353/dune-seseh-garden-suite/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://www.booking.com/hotel/id/dune-seseh.html)
 
-## 19. La Mewali Resort & Spa Canggu by Ini Vie Hospitality
+> 👉 点此查看 Dune Seseh 最新房价与空房：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=53768541) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-118505353/dune-seseh-garden-suite/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://www.booking.com/hotel/id/dune-seseh.html)
+
+**La Mewali Resort & Spa Canggu** 是坎古（Canggu）2026 年最新开幕的精品度假村，也是近期最受瞩目的新饭店之一。由 Ini Vie Hospitality 打造，以 **Modern Cave Retreat（现代洞穴风）** 为设计概念，结合流线建筑、雕塑感陶土墙面、天然石材与木质元素，营造出宛如现代岩洞般的静谧空间，在一片热带 Villa 中展现截然不同的风格。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783152234664-la-mewali-resort-spa-canggu-2-1.jpg)
 
@@ -345,13 +349,47 @@ Agoda 住客评分 9.0、Trip.com 9.2，这种分数对才开业没多久的小�
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783152237789-71189c197948f44e81ed6a543e510883.webp)
 
-**La Mewali Resort & Spa Canggu** 是坎古（Canggu）2026 年最新开幕的精品度假村，也是近期最受瞩目的新饭店之一。由 Ini Vie Hospitality 打造，以 **Modern Cave Retreat（现代洞穴风）** 为设计概念，结合流线建筑、雕塑感陶土墙面、天然石材与木质元素，营造出宛如现代岩洞般的静谧空间，在一片热带 Villa 中展现截然不同的风格。
+度假村最大的亮点，是全新推出的 **洞穴风泳池 Villa**。房内采用大量弧形线条与柔和自然光，搭配私人 Plunge Pool、直通潟湖的 Lagoon Access，以及充满包覆感的空间设计，打造兼具隐私与设计美学的住宿体验，无论情侣、蜜月旅行或喜欢特色旅宿的旅客，都相当值得体验。
 
-度假村最大的亮点，是全新推出的 **洞穴风泳池 Villa**。房内采用大量弧形线条与柔和自然光，搭配私人 Plunge Pool、直通泻湖的 Lagoon Access，以及充满包覆感的空间设计，打造兼具隐私与设计美学的住宿体验，无论情侣、蜜月旅行或喜欢特色旅宿的旅客，都相当值得体验。
+度假村最大的亮点，是全新推出的 **洞穴风泳池别墅**。房内采用大量弧形线条与柔和自然光，搭配私人小型泳池、直通泻湖的潟湖通道，以及充满包裹感的空间设计，打造兼具隐私与设计美学的住宿体验，无论情侣、蜜月旅行或喜欢特色旅宿的旅客，都相当值得体验。
 
-除了极具辨识度的房型，La Mewali 还拥有环绕园区的泻湖泳池、沉入式泳池酒吧、屋顶餐厅、现代印尼料理餐厅，以及结合水疗与声疗概念的 Svaha Spa。对于想入住巴厘岛最新设计旅宿、体验不同于传统度假村氛围的旅客来说，La Mewali 无疑是今年最值得关注的新选择之一。
+除了极具辨识度的房型，La Mewali 还拥有环绕园区的潟湖泳池、下沉式泳池酒吧、屋顶餐厅、现代印尼料理餐厅，以及结合水疗与声疗概念的 Svaha Spa。对于想入住巴厘岛最新设计旅宿、体验不同于传统度假村氛围的旅客来说，La Mewali 无疑是今年最值得关注的新选择之一。
 
 > 订房链接：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=87068445) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-134294957/la-mewali-resort-spa-canggu-by-ini-vie-hospitality/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) | [Booking](https://booking.tpm.li/FO15wODW)
+
+## 20. Citadines Berawa Beach Bali Resort（馨乐庭度假酒店）
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239164255-0eed7e1f558ba70520f523ba20af113d.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239165054-1.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239165470-6f1a460f82921fb96009e7b244dc10b3.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239165983-1303efffe15fab4f2df9975d9c42782d.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239166465-513461979.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239167142-513470932.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239167530-513471162.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239167967-513471349.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239168350-a32a1430885482ac433597f323d50d60.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787239168756-decf0d251e96c42f86aa852a927ab3d8.webp)
+
+四星级公寓式酒店，完美融合海滩度假与城市便利。224间客房，2024-2025年获Exquisite Awards、国际旅游奖与World Travel Awards多项肯定。
+
+**位置**｜酒店距Berawa Beach仅3分钟步行距离，位于Berawa-Canggu心脏位置。周边咖啡厅、餐厅、冲浪点聚集，步行即达Finns酒吧。距机场约30分钟，交通极为便利。
+
+**设施**｜屋顶泳池和水疗设施是度假亮点，一楼泳池边设台球桌、国际象棋等娱乐设施。另有健身中心、儿童游乐场、免费洗衣机、24小时房间服务。入住享迎宾饮料与小点，宠物友善设屋顶宠物游乐场。早餐加购值得，有现做蛋料理、汤面、松饼与现烤肉丸。
+
+**客房**｜Studio Executive（31m²）至总统套房（223m²）多种选择。所有客房配备迷你厨房、微波炉、冰箱、平面电视及私人浴室。连通房宽敞，配大阳台可远眺海景，附餐桌与流理台，最适合带小孩家庭。
+
+**评价**｜总体评分8.9分，清洁度、地理位置与员工服务均获8.9-9.1分高评。住客盛赞性价比高、员工友善亲切、设施完善。口碑推荐：「绝对会再回来！早餐很好吃，距Finns酒吧步行可达」、「新酒店设施完善，迷你厨房、健身房、洗衣房与游泳池，爱不释手」。
+
+> 订房链接：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22310516) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-71098912/citadines-berawa-beach-bali-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D19371816) | [Booking](https://booking.tpm.li/m518nkTH)
 
 ## 地理位置图
 
