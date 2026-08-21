@@ -1,9 +1,11 @@
 ---
-slug: bali-top-landmarks-guide
 title: 【2026 巴厘岛必去】十大标志性景点全攻略：世界遗产、断崖火舞与火山日出
+slug: bali-top-landmarks-guide
 description: >-
   第一次去巴厘岛怎么玩？深度整理全岛十大必访地标：从神圣的海神庙、乌鲁瓦图断崖火舞到壮阔的贾提鲁维梯田。本篇结合交通接送建议、最佳拍照时间与高效率的一日游行程串联，带您在短时间内深入体验巴厘岛的文化灵魂与自然魅力。
 pubDate: 2025-03-22T00:00:00.000Z
+updatedDate: 2026-08-21T00:00:00.000Z
+pubHour: null
 category:
   - 美食景點活動
   - 遊記分享
@@ -19,12 +21,15 @@ tags:
   - Top 10 landmarks in Bali 2026
   - Bali itinerary 5 days 4 nights guide
 heroImage: 'https://images.gobaligo.id/vocus/vocus_37074e1d1a21b1fd29d645049b4cd60e.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65fd4f9cfd8978000157e5ff'
+source: ''
+sourceUrl: ''
 lang: zh-cn
-_srcHash: a8cc34393dc46070866692a0cb193f3c
+_srcHash: 18ce64a4660950530232ecb84ac6fe49
 ---
 
-我们前不久才发了一篇「[巴厘岛500个热门景点](/zh-cn/blog/bali-top-500-attractions/)」，有读者来信说我们这篇介绍的景点数量太惊人，能不能发一篇精华版的？最好能在一趟巴厘岛之旅就能跑遍的精华景点，标志性地标。
+我们前不久才发了一篇「[巴厘岛500个热门景点](/zh-cn/blog/bali-top-500-attractions/)」，有读者来信说我们这篇介绍的景点数量太惊人，能不能发一篇精华版的？最好能在一趟巴厘岛之旅就能跑遍的精华景点，标志性景点。
 
 ![【2026 峇里島必去】十大標誌性地標景點全攻略：世界遺產、斷崖火舞與火山日出](https://images.gobaligo.id/vocus/vocus_0c670bcc975ce84fdace5189970104b0.jpg)
 
@@ -40,9 +45,9 @@ GWK Culture Park是巴厘岛极为少数受到政府支持发展的热门景点�
 
 > Klook优惠券：
 > [巴厘岛神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
-> [[巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)
+> [巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)
 
-> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
+> 这类景点的门票行情会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
 
 ## Penglipuran Village 彭里普兰村
 
@@ -102,7 +107,7 @@ GWK Culture Park是巴厘岛极为少数受到政府支持发展的热门景点�
 
 ## Tirta Empul Temple 圣泉寺
 
-![Tirta Empul Temple 聖泉寺](https://images.gobaligo.id/vocus/vocus_2671370a86c84863c3c5f1ca502e8e1e.jpg)
+https://youtube.com/shorts/fiYs5GKdINU
 
 巴厘岛除了最有名的圣泉寺 Pura Tirta Empul之外，还有两个隐藏在幽静角落的圣泉寺，相隔都不会太远，等待着探索者的到来。这两处圣泉寺不仅让您体验到巴厘岛独特的宗教文化，更能在相对清幽的环境中享受一场真诚而宁静的沐浴体验。
 
@@ -149,7 +154,7 @@ GWK Culture Park是巴厘岛极为少数受到政府支持发展的热门景点�
 
 最佳捕捉梯田美景的时间是在清晨初晓，当太阳刚升起时。这一刻，金黄的阳光洒在梯田上，勾勒出层次丰富的阴影，呈现出令人陶醉的光影效果。这是摄影爱好者和游客们最爱的时刻，因为这时候的梯田仿佛沉浸在一片金色的梦幻中。
 
-[> [巴厘岛中部一日游：德格拉朗梯田＆圣猴森林公园＆象洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F10810-tegalalang-monkey-forest-tour-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc33480c5f6)
+> [巴厘岛中部一日游：德格拉朗梯田＆圣猴森林公园＆象洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F10810-tegalalang-monkey-forest-tour-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc33480c5f6)
 
 > [Jatiluwih 梯田电动自行车之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F33428-jatiluwih-rice-terraces-electric-bike-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3124496931)
 

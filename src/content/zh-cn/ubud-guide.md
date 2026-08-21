@@ -19,15 +19,17 @@ tags:
   - Ubud Bali complete guide 2026
   - 烏布 網美咖啡廳 逛街地圖
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781334616518-index_new.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/655054b1fd897800011d4d2c'
-updatedDate: 2026-07-25T00:00:00.000Z
+source: ''
+sourceUrl: ''
+updatedDate: 2026-08-21T00:00:00.000Z
 update: 2026/05/22
 lang: zh-cn
-_srcHash: 3ad737274303fbe0f79ede80420f68bb
-_translateIncomplete: true
+_srcHash: 0eae0625b4721be59635b62d2772d913
 ---
 
-**先讲结论**：乌布早在**公元8世纪**便已成村落，本文完整攻略收录超过**100个景点与活动**，包含40多个美食推荐、3家丛林泳池俱乐部、10多个亲子活动，适合作为规划乌布深度旅游的主力参考地图。
+**先说结论**：乌布早在**公元8世纪**便已成村落，本文完整攻略收录超过**100个景点与活动**，包含40多个美食推荐、3家丛林泳池俱乐部、10多个亲子活动，适合作为规划乌布深度旅游的主力参考地图。
 
 乌布位于巴厘岛中部，是其旅游和文化的核心。这里历史悠久，早在公元八世纪便已成村落。如今，乌布成为巴厘岛最知名的旅游胜地之一。
 
@@ -49,7 +51,7 @@ _translateIncomplete: true
 
 乌布皇宫门票、开放时间等详细信息，请看[这里](/zh-cn/blog/ubud-royal-palace-tour-guide/)。
 
-> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
+> 这类景点的门票行情会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
 
 ![烏布中心地圖。小傑的視頻帶你徒步逛一圈！](https://images.gobaligo.id/vocus/vocus_c6fdef7285695a13059f6b83b709d9a1.png)
 
@@ -63,7 +65,7 @@ https://youtu.be/JtxZHtijEkE
 
 乌布水皇宫（Pura Taman Saraswati）坐落在离乌布皇宫仅三分钟的路程，是一个隐藏在星巴克后面的角落，常常被游客忽略，却拥有令人叹为观止的美景。相较于乌布皇宫，这座寺庙更加幽静而神秘，提供了一个绝佳的摄影场所，让你能够捕捉到独特而精致的瞬间。
 
-乌布水皇宫以其独特的水景而闻名，它坐落在莲花水池步道的尽头，乌布水皇宫的建筑也充满着巴厘岛特有的艺术风格，神秘的石刻和建筑展现了当地文化的深厚底蕴。在这里漫步，仿佛穿越时空，感受到古老神话和宗教信仰的熏陶。
+乌布水皇宫以其独特的水景而闻名，它坐落在一个莲花水池步道的尽头，乌布水皇宫的建筑也充满着巴厘岛特有的艺术风格，神秘的石刻和建筑展现了当地文化的深厚底蕴。在这里漫步，仿佛穿越时空，感受到古老神话和宗教信仰的熏陶。
 
 2026国际旅客的票价与拍照方案整理，给大家参考👇
 
@@ -90,7 +92,7 @@ https://youtu.be/JtxZHtijEkE
 
 乌布皇宫卡恰火舞表演时间、票价等详细信息，请看[这里](/zh-cn/blog/ubud-royal-palace-tour-guide/)。
 
-> 乌布皇宫每周四盛大的火舞表演门票预订：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21) 
+> 乌布皇宫每周四盛大的火舞表演门票预订：[Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1336040&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2835b3f21)
 
 > 乌布皇宫旺季每天的雷贡舞表演：[Trip](https://hk.trip.com/things-to-do/detail/108153384?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18620695)
 
@@ -106,13 +108,13 @@ https://youtu.be/JtxZHtijEkE
 
 > [乌布猴子森林＆秘境瀑布之旅（含专业拍摄服务）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
 
-### 乌布艺术市集
+### 乌布艺术集市
 
 ![烏布藝術市集](https://images.gobaligo.id/vocus/vocus_67fb13bc56e5bc20ca5def2d59d70a41.jpg)
 
-乌布的艺术市集不仅有知名的「Ubud Art Market」！想要探索在地文化与艺术之美，这些隐藏版市集绝对值得一访。让我们带您走访四个各具特色、由在地艺术家经营的市集，体验最地道的乌布艺术风情。从手工艺品到绘画作品，每个市集都蕴藏着独特的宝藏等您发掘。
+乌布的艺术集市不仅有知名的「Ubud Art Market」！想要探索在地文化与艺术之美，这些隐藏版集市绝对值得一访。让我们带您走访四个各具特色、由在地艺术家经营的集市，体验最地道的乌布艺术风情。从手工艺品到绘画作品，每个集市都蕴藏着独特的宝藏等您发掘。
 
-请看：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
+请看：[推荐乌布五大艺术集市完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
 ### Folk Pool & Gardens 隐藏在乌布闹区中的幽静Pool Club
 
@@ -120,7 +122,7 @@ https://youtu.be/JtxZHtijEkE
 
 在巴厘岛的乌布闹区，除了有数不完的商店、逛不完的特色艺品、好吃又健康的各国风味美食、舒展身心灵的Yoga和Spa... 之外，居然还隐藏了一个与世隔绝的世外桃源：Folk Pool & Garden
 
-这不是像一般的餐厅一样，人们通常就只是吃饭然后离开。 它与众不同，独特而宽敞。 你可以在 这里度过一整天， 是一个很棒的拍照地点喔！
+这不是像一般的餐厅一样，人们通常就只是吃饭然后离开。 它与众不同，独特而宽敞。 你可以在这里度过一整天， 是一个很棒的拍照地点喔！
 
 这个地方可以安排为用一天的时间徒步漫游/逛街乌布闹区的最后一站，来这里放松休息，拍拍美照。这里晚上还有露天电影院播放电影哩！
 
@@ -376,7 +378,7 @@ https://youtu.be/ZEkv46_-_mM
 
 https://youtu.be/Ay_Dkm2gbnc
 
-想要以更快的速度探索乌布的自然之美吗？骑乘ATV（全地形车）是一个极富挑战性和刺激的选择。乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山區，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
+想要以更快的速度探索乌布的自然之美吗？骑乘ATV（全地形车）是一个极富挑战性和刺激的选择。乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎嶇的山區，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。
 
 还有一种「火山 ATV 之旅」，您将穿越茂密的森林，攀越黑色熔岩山坡地，并征服具有挑战性的越野地形。导游将带领您穿越这些变化万千的地形，让您充分体验ATV带来的刺激和乐趣。
 
@@ -408,7 +410,7 @@ https://youtube.com/shorts/zlhzXPIxv7A
 
 https://youtu.be/_Lvp9cIVYz8
 
-在乌布，即使是荡秋千也能成为一种富有异国风情的体验。在乌布的一些专门的地方，你会发现各种各样独特而精心设计的秋千，悬挂在绿树间或面对迷人的水景。荡秋千不仅是一种玩乐的方式，更是一种在宁静中欣赏乌布美景的绝佳方式。尽情荡动，让心随着微风摇曳，感受一份轻松和惬意。
+在乌布，即使是荡秋千都能成为一种富有异国风情的体验。在乌布的一些专门的地方，你会发现各种各样独特而精心设计的荡秋千，悬挂在绿树间或者面对迷人的水景。荡秋千不仅是一种玩乐的方式，更是一种在宁静中欣赏乌布美景的绝佳方式。尽情荡动，让心随着微风摇曳，感受一份轻松和惬意。
 
 > [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) （[这里](/zh-cn/blog/aloha-ubud-swing-guide/)有专文介绍）
 
@@ -436,19 +438,19 @@ https://youtu.be/_Lvp9cIVYz8
 
 [> [乌布热气球体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16274-hot-air-balloon-experience-meals-tanah-gajah-ubud%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D17c42ff55b)
 
-### 空中滑索&空中腳踏車活動
+### 空中滑索&空中自行车活动
 
 ![空中滑索&空中腳踏車活動](https://images.gobaligo.id/vocus/vocus_9463ace45d906d0629a44128f0abeebb.jpg)
 
 在乌布体验冒险的Zipline或Sky Bike，欣赏美丽的梯田景色。这两种活动都为初学者提供安全的体验，因为运营商提供高质量的安全设备。在空中尽情滑翔或骑行，将巴厘岛独特的地形一览无余，带给你一场高空冒险的难忘体验。
 
-> [各種活動任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82850-zipline-sky-bike-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9af1f6f8a9)
+[> [各种活动任选](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82850-zipline-sky-bike-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9af1f6f8a9)
 
-### 越野吉普車日出體驗
+### 越野吉普车日出体验
 
 ![越野吉普車日出體驗](https://images.gobaligo.id/vocus/vocus_76ca2a47f4c5c29841e4377ac301df0a.jpg)
 
-早晨，當陽光初現地平線，來參與一場越野吉普車日出體驗吧！早早起床，乘坐4x4吉普車穿越特魯揚山（Trunyan Hill），不需徒步旅行即可欣賞到令人驚嘆的日出。吉普車沿著山麓探索這片獨特的景觀，讓你親身見證黑色熔岩所營造出的美麗奇觀。探險之旅包括便捷的酒店接送服務，確保安全又舒適的往返。
+清晨，当阳光初现地平线，来参加一场越野吉普车日出体验吧！早早起床，乘坐4x4吉普车穿越特鲁扬山（Trunyan Hill），无需徒步即可欣赏到令人惊叹的日出。吉普车沿着山麓探索这片独特的景观，让你亲身见证黑色熔岩所营造出的美丽奇观。探险之旅包括便捷的酒店接送服务，确保安全又舒适的往返。
 
 [金塔马尼 Trunyan 吉普车日出体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77109-trunyan-hill-trekking-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da93007e25e)
 
@@ -532,9 +534,9 @@ https://youtu.be/_Lvp9cIVYz8
 
 > [乌布瑜伽中心瑜伽课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
 
-> [乌布丛林日出瑜伽＆冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
+> [乌布丛林日出瑜伽与冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
 
-> [The Yoga Barn 瑜伽体验＆美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
+> [The Yoga Barn 瑜伽体验与美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
 
 ### Beji Guwang隐秘峡谷 （👉🏼地图：[乌布周边热门景点](/map/ubud/)）
 
@@ -612,7 +614,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 ***
 
-## 【沉浸山水美景】
+## 【沉浸山水美景的用餐地点】
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
@@ -666,45 +668,23 @@ Cretya Ubud 开放时间为每天上午 8 点至晚上 9 点。请继续参考�
 
 > [官网自行选位，有低消](https://alasharum.com/cretya-ubud/day-club/)
 
-### Bebek Bengil享受美食脏鸭饭 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
+### Bebek Bengil 享受美食脏鸭饭 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
 ![Bebek Bengil享受美食髒鴨飯 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
 
-巴厘岛三大特色美食之中，不可错过的一道佳肴就是「脏鸭饭」，当地俗称Bebek Bengil。这道美食以其独特的烹调方式而闻名，外皮酥脆，内里多汁鲜嫩。在乌布的Bebek Bengil餐厅，你可以享受这道美味的脏鸭饭，同时感受当地的美食文化。
+巴厘岛三大特色美食之中，不可错过的一道佳肴就是「脏鸭饭」，当地俗称 Bebek Bengil。这道美食以其独特的烹调方式而闻名，外皮酥脆，内里多汁鲜嫩。在乌布的 Bebek Bengil 餐厅，你可以享受这道美味的脏鸭饭，同时感受当地的美食文化。
 
 > [享用脏鸭餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91304-bebek-bengil-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D77b8965c77)
 
-### 丛林中的Spa体验
+### 
 
-![叢林中的Spa體驗](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
+### Bebek Tebasari 发呆亭用餐 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
-在乌布的热带雨林中，沉浸在Spa的愉悦体验中。度假村和水疗中心提供各种丰富的Spa选择，从传统的巴厘岛按摩到丰富的芳香疗法，让你在大自然的拥抱中感受身心灵的平静。聆听着风吹拂树叶的声音，感受着雨林的清新空气，这将是一场令人陶醉的疗愈之旅。
+来巴厘岛有名的发呆亭用餐吧！Bebek Tebasari 是乌布地区的一家备受瞩目的餐厅，以其特色菜"bebek betutu"而闻名，这是一道传统的巴厘岛烤鸭菜肴。这家餐厅提供了一种独特的用餐体验，因其位于一个被稻田和水池环绕的美丽环境中。
 
-> Google评价4.9颗星。[Svaha Spa Bisma 森林景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
+在 Bebek Tebasari，你可以坐在宁静的露天区域，欣赏着周围稻田的青翠风光。这种绝佳的用餐环境结合了传统的巴厘岛建筑和轻松的氛围，使其成为当地人和游客喜爱的用餐胜地。这里不仅提供了美味的当地佳肴，还能让你在宁静的环境中放松身心，品味当地文化的深度。Bebek Tebasari 绝对是一个值得花时间品味的餐厅，让你在乌布的旅程中增添一份美好的回忆。
 
-> Google评价5颗星。[Svaha Spa Kenderan 山谷景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
-
-> Google评价4.8颗星。[桑卡拉度假村Radha Spa体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
-
-> Google评价4.8颗星。[Mekar Ubud Jungle Spa 按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
-
-> Google评价4.9颗星。[Kamalini按摩水疗体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
-
-> Google评价4.8颗星。[Chapung Wellness Spa按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
-
-> [Sanctoo Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F101338-sanctoo-spa-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daa99e346be)
-> Google评价4.7颗星。坐落在巴厘岛动物园的一角，周围环绕着郁郁葱葱的绿色植物和瀑布中按摩，保证让您在按摩后精神焕发！
-
-> [Ayusha Wellness Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F131955-balinese-holistic-spa-at-ayusha-wellness-in-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f74b94c07)
-> Google评价5颗星！在丛林河谷旁的spa放松身心，焕发活力! 享受Ayusha 巴厘岛按摩、冷热石按摩或情侣按摩
-
-### Bebek Tebasari发呆亭用餐 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
-
-来巴厘岛有名的发呆亭用餐吧！Bebek Tebasari是乌布地区的一家备受瞩目的餐厅，以其特色菜"bebek betutu"而闻名，这是一道传统的巴厘岛烤鸭菜肴。这家餐厅提供了一种独特的用餐体验，因其位于一个被稻田和水池环绕的美丽环境中。
-
-在Bebek Tebasari，你可以坐在宁静的露天区域，欣赏着周围稻田的青翠风光。这种绝佳的用餐环境结合了传统的巴厘岛建筑和轻松的氛围，使其成为当地人和游客喜爱的用餐胜地。这里不仅提供了美味的当地佳肴，还能让你在宁静的环境中放松身心，品味当地文化的深度。Bebek Tebasari绝对是一个值得花时间品味的餐厅，让你在乌布的旅程中增添一份美好的回忆。
-
-> [Bebek Tebasari用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daf35424019)
+[Bebek Tebasari用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daf35424019)
 
 ### The Sayan House 用餐体验 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
@@ -732,7 +712,7 @@ Bebek Tepi Sawah 是一家位于乌布的知名餐厅，其名字意为「稻田
 
 此外，餐厅内部的装潢也展现了巴厘岛的传统风格，结合了当地的建筑元素和艺术品，营造出舒适惬意的用餐环境。Bebek Tepi Sawah 提供了一个融合美食、自然和文化的完美场所，让您享受美好的用餐体验。
 
-> [Bebek Tepi Sawah用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)”“### Boni Bali Restaurant梯田美景餐厅 （👉🏼地图：[沉浸山水美景](/map/ubud/)）”“一边眺望德格拉郎梯田的美景，一边享用印尼传统美食，是巴厘岛旅游的一大乐趣。”“德格拉郎梯田位于巴厘岛东北部，是世界文化遗产。梯田总面积达2,500公顷，由数千个阶梯状的稻田组成，层层叠叠，绵延至天际。梯田在阳光的照耀下，呈现出金黄、绿色、棕色等多彩的色彩，美不胜收。”“Boni Bali Restaurant位在德格拉郎梯田的边上，提供印尼传统美食。游客可以在这里品尝到 Nasi Goreng、Sate Ayam 和 Rendang 等经典菜肴。”“> [Boni巴厘岛餐厅用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90187-dining-experience-boni-bali-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D95e0a37ff0)”“### The Cafe Lotus Ubud（👉🏼地图：[沉浸山水美景](/map/ubud/)）”“在乌布水皇宫的莲花池畔享受美食，以独特的漂浮式早餐体验开启您的一天！在迷人的乌布水宫旁享受一顿宁静的莲花池畔早餐体验，并在周围漫步。如果是选择在这里晚餐，还可以观赏精彩绝伦的传统巴厘舞蹈表演哦！”“> [The Cafe Lotus Ubud用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845943&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113807-dining-experience-at-the-cafe-lotus-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0eddafd05b)”“### The Jungle Club Ubud（👉🏼地图：[沉浸山水美景](/map/ubud/)）
+> [Bebek Tepi Sawah用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)
 
 ### Boni Bali Restaurant梯田美景餐厅 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
@@ -742,15 +722,15 @@ Bebek Tepi Sawah 是一家位于乌布的知名餐厅，其名字意为「稻田
 
 德格拉朗梯田位于巴厘岛东北部，是世界文化遗产。梯田总面积达2,500公顷，由数千个阶梯状的稻田组成，层层叠叠，绵延至天际。梯田在阳光的照耀下，呈现出金黄、绿色、棕色等多彩的色彩，美不胜收。
 
-Boni Bali Restaurant位于德格拉朗梯田边上，提供印尼传统美食。游客可以在这里品尝到Nasi Goreng、Sate Ayam和Rendang等经典菜肴。
+Boni Bali Restaurant位在德格拉朗梯田的边上，提供印尼传统美食。游客可以在这里品尝到 Nasi Goreng、Sate Ayam 和 Rendang 等经典菜肴。
 
-[在Boni巴厘岛餐厅用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90187-dining-experience-boni-bali-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D95e0a37ff0)
+> [Boni巴厘岛餐厅用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90187-dining-experience-boni-bali-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D95e0a37ff0)
 
 ### The Cafe Lotus Ubud（👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
 ![The Cafe Lotus Ubud（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
 
-在乌布水皇宫的莲花池畔享受美食，以独特的漂浮式早餐体验开启您的一天！在迷人的乌布水宫旁享受一顿宁静的莲花池畔早餐体验，并在周围漫步。如果选择在这里晚餐，还可以观赏精彩绝伦的传统巴厘岛舞蹈表演哦！
+在乌布水皇宫的莲花池畔享受美食，以独特的漂浮式早餐体验开启您的一天！在迷人的乌布水宫旁享受一顿宁静的莲花池畔早餐体验，并在周围漫步。如果是选择在这里晚餐，还可以观赏精彩绝伦的传统巴厘舞蹈表演喔！
 
 > [The Cafe Lotus Ubud用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845943&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113807-dining-experience-at-the-cafe-lotus-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0eddafd05b)
 
@@ -766,7 +746,7 @@ Klook提供比票面价格还高的餐饮抵扣，[点这里](https://affiliate.
 
 ![Kenran Resort（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
 
-Google评价4.3颗星。在巴厘岛乌布的 Grand Kenran Resort，您将体验到无与伦比的用餐享受。这座度假村座落于宁静的稻田之间，周围是绿意盎然的丛林，并伴随着佩塔努河的潺潺流水声，让您彻底沉浸在大自然的怀抱中。无论是享用漂浮早餐、悠闲午餐、悠然下午茶，还是浪漫烛光晚餐，您都可以在 T'dung 餐厅一边品尝美食，一边欣赏乌布那如画的景致。这里四周环绕着生机勃勃的绿植，是放松身心、犒赏自己的理想之地。
+Google评价4.3颗星。在巴厘岛乌布的 Grand Kenran Resort，您将体验到无与伦比的用餐享受。这座度假村坐落于宁静的稻田之间，周围是绿意盎然的丛林，并伴随着佩塔努河的潺潺流水声，让您彻底沉浸在大自然的怀抱中。无论是享用漂浮早餐、悠闲午餐、悠然下午茶，还是浪漫烛光晚餐，您都可以在 T'dung 餐厅一边品尝美食，一边欣赏乌布那如画的景致。这里四周环绕着生机勃勃的绿植，是放松身心、犒赏自己的理想之地。
 
 > [Klook优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935232&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124212-grand-kenran-resort-dining-experience-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2a45b1be38)
 
@@ -784,7 +764,7 @@ Google评价4.9颗星。在 Birdhill 餐厅享受非凡的美食体验，这里�
 
 Google评价4.8颗星。Wedja 餐厅是乌布最适合拍照打卡的热门餐厅之一！餐厅四周环绕着迷人的荷花池，让您在美丽的自然景致中享受惬意的用餐时光。这里提供多种巴厘岛及印尼美食选择，满足您的味蕾。同时，Wedja 也拥有多处绝佳的拍照打卡点，是享用美食与捕捉美丽瞬间的完美结合地。
 
-[> Wedja 用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F126692-dining-voucher-at-wedja-restaurant-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f28f649ae)
+> [Wedja 用餐优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F126692-dining-voucher-at-wedja-restaurant-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f28f649ae)
 
 ### Sans Indian Cuisine（👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
@@ -834,7 +814,7 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 ![浪漫遊船野餐](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
 
-想要在巴厘岛乌布的丛林中享受一段宁静又浪漫的时光吗？「乌布浪漫游船野餐」将带您和挚爱、朋友、同事或家人，搭乘精心装饰的木船，航行于乌布丛林环绕的静谧湖面上，度过难忘的一小时。这不仅是情侣共创美好回忆的完美选择，也是与亲友共享独特体验的绝佳机会！船上还提供精致野餐篮，内含美味的三明治、蔬菜鹰嘴豆泥蘸酱、新鲜水果、酸奶谷物，以及一瓶气泡酒，让您边赏景边享用美食。
+想要在巴厘岛乌布的丛林中享受一段宁静又浪漫的时光吗？「乌布浪漫游船野餐」将带您和挚爱、朋友、同事或家人，搭乘精心装饰的木船，航行于乌布丛林环绕的静谧湖面上，度过难忘的一小时。这不仅是为情侣创造美好回忆的完美选择，也是与亲友共享独特体验的绝佳机会！船上还提供精致野餐篮，内含美味的三明治、蔬菜鹰嘴豆泥蘸酱、新鲜水果、酸奶谷物，以及一瓶气泡酒，让您边赏景边享用美食。
 
 乌布丛林的壮丽景观与湖面的宁静氛围，为您打造一个独特而亲密的体验。无论是庆祝特别日子，还是单纯想逃离日常喧嚣，这项活动都能为您带来无与伦比的回忆。强烈建议聘请专业摄影师，捕捉这难得的浪漫时刻，留下令人惊艳的照片！快来乌布，与挚爱一同沉浸在这片自然美景中吧！
 
@@ -848,19 +828,19 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 这里的菜单以巴厘岛当季食材为本，揉合亚洲与地中海风味，搭配特调的低酒精鸡尾酒。白昼时分，人们慵懒地躺在日光椅上，享受从树叶间洒落的阳光；入夜后，空间渐渐转为活跃，偶尔会有异国乐音在微风中飘荡。
 
-不同于乌布常见的喧闹夜店，Tuju更像是一处让人能安静对话，或独自发呆的所在。那些竹编灯饰、原生植栽与粗犷的石材地面，都透露着对自然材质的坚持。当你在午后雷雨时分坐在这里，听着雨滴敲打蕉叶的声音，或许会突然理解，什么叫做「热带的宁静」。
+不同于乌布常见的喧闹夜店，Tuju更像是一处能让人安静对话，或独自发呆的所在。那些竹编灯饰、原生植栽与粗犷的石材地面，都透露着对自然材质的坚持。当你在午后雷雨时分坐在这里，听着雨滴敲打蕉叶的声音，或许会突然理解，什么叫做「热带の宁静」。
 
 > [Klook优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051341&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D642cf000dc)
 
-### Sari Timbul By Kubu Bali/ST玻璃工厂 （👉🏼地图：[沉浸山水美景](/map/ubud/)）
+### Sari Timbul By Kubu Bali/ST玻璃工厂（👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
 ![Sari Timbul By Kubu Bali/ST玻璃工廠 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
 这是位于巴厘岛德格拉朗（Tegallalang）的复合式景观餐厅，结合美食、艺术与自然体验，打造出如童话般的梦幻空间。餐厅被翠绿丛林与梯田环绕，提供印尼传统料理、西式、墨西哥及印度风味等多国菜系，摆盘精致且风味独特。园区内设有高空秋千、丛林泳池和玻璃艺术装置、梦幻干冰等打卡热点，门票已包含摄影服务，让游客轻松拍出绝美照片。
 
-这里不仅是美食天堂，更是沉浸式的自然艺术空间。工作人员服务亲切，能协助游客在秋千上捕捉精彩瞬间，搭配流水声与热带花卉布置，营造出仙气十足的氛围。无论是想享受浪漫餐点、体验刺激秋千，还是单纯放松赏景，Sari Timbul 都能满足需求，成为德格拉朗地区不可错过的特色景点。
+这里不仅是美食天堂，更是沉浸式的自然艺术空间。工作人员服务亲切，能协助游客在秋千上捕捉精彩瞬间，搭配流水声与热带花卉布置，营造出仙气十足的氛围。无论想享受浪漫餐点、体验刺激秋千，还是单纯放松赏景，Sari Timbul 都能满足需求，成为德格拉朗地区不可错过的特色景点。
 
-[> 参加包含 Sari Timbul的超值乌布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1046276&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd57b760724)
+> [参加包含 Sari Timbul的超值乌布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1046276&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd57b760724)
 
 ### Kamandalu Ubud 双人船上用餐（👉🏼地图：[沉浸山水美景](/map/ubud/)）
 
@@ -868,7 +848,7 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 在卡曼达鲁度假村的静谧锦鲤漂流河中央，与挚爱享受独一无二的船上用餐体验。两人乘坐在传统木船上，被翠绿热带花园环绕，色彩斑斓的锦鲤在清澈水波间悠游，创造出绝美的浪漫场景。度假村主厨特别设计丰盛的五星级双人套餐，精选当季新鲜食材，融合印尼传统风味与国际烹饪手法，搭配精选气泡酒与特色调饮，让味蕾与视觉同步享受。
 
-专业摄影团队将为您捕捉这珍贵时刻，无需分心摆拍，自然流露的幸福神情将成为永恒纪念。无论是蜜月旅行、周年纪念，或是单纯想给爱人惊喜，这60分钟的梦幻体验都将成为巴厘岛之旅中最闪亮的回忆。这里有[进一步的介绍](/zh-cn/blog/kamandalu-ubud-koi-river-dining/)。
+专业摄影团队将为您捕捉这珍贵时刻，无需分心摆拍，自然流露的幸福神情将成为永恒纪念。无论是蜜月旅行、周年纪念，还是单纯想给爱人惊喜，这60分钟的梦幻体验都将成为巴厘岛之旅中最闪亮的回忆。这里有[进一步的介绍](/zh-cn/blog/kamandalu-ubud-koi-river-dining/)。
 
 > [Klook预订优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
@@ -886,9 +866,17 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 ![Titi Batu Ubud Club（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
-Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐部。这里拥有健身房、篮球场、壁球场、滑板公园、游泳池、SPA、舞蹈教室、瑜伽教室、桑拿、餐厅与儿童游乐设施，无论想运动流汗、放松身心，或是带着小朋友一起玩水，都能在这里找到合适的空间。由于环境宽敞舒适，氛围带点乌布独有的自然气息，也吸引不少长居巴厘岛的外籍家庭，成为他们日常生活的一部分，是大人和小朋友的天堂。
+Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐部。这里拥有健身房、篮球场、壁球场、滑板公园、游泳池、SPA、舞蹈教室、瑜伽教室、三温暖、餐厅与儿童游乐设施，无论想运动流汗、放松身心，或是带着小朋友一起玩水，都能在这里找到合适的空间。由于环境宽敞舒适，氛围带点乌布独有的自然气息，也吸引不少长居巴厘岛的外籍家庭，成为他们日常生活的一部分，是大人和小朋友的天堂。
 
 > [一日通票优惠，可使用所有设施](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141599-titi-batu-ubud-club-day-pass-ticket%2F)
+
+### Pohgading Cafe
+
+https://www.instagram.com/reel/DcN9PiWT9Ln/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==
+
+**Pohgading Cafe** 位于巴厘岛吉安雅县（Gianyar）的 Kemenuh 村，距离乌布市区约 20 分钟车程。这家咖啡馆最大的特色是直接坐落于 **Poh Gading 瀑布**旁的溪谷中，让顾客能一边用餐，一边近距离俯瞰水帘瀑布与满目青翠的热带丛林景致。
+
+店内提供现磨意式咖啡、印尼在地风味餐点（如印尼辣酱鸡肉饭 Sambal Matah、炸香蕉）及西式简餐。整体氛围静谧自然，环境清幽且步道相对平缓好走，是不少旅客避开热门大景点人潮、享受悠闲下午茶的隐藏版秘境。
 
 ***
 
@@ -898,13 +886,13 @@ Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐
 
 我们的攻略地图标注了20几家网友推荐的必吃美食餐厅
 
-乌布的美食真的很精彩，不仅仅是当地的传统印尼料理，还有各式各样的国际美食等待着你去探索。我们的攻略地图标注了20几家网友推荐的必吃美食餐厅，从舒适的咖啡馆到特色餐饮，每一家都有其独特的魅力。无论你是想品尝地道的巴厘岛风味，还是寻找异国风情的佳肴，乌布都能满足你的味蕾。请参考[我们的乌布攻略地图](/map/ubud/)，一起展开一场美食之旅吧！
+乌布的美食真的很精彩，不仅仅是当地的传统印尼料理，还有各式各样的国际美食等待着你去探索。我们的攻略地图标注了20多家网友推荐的必吃美食餐厅，从舒适的咖啡馆到特色餐饮，每一家都有其独特的魅力。无论你是想品尝地道的巴厘岛风味，还是寻找异国风情的佳肴，乌布都能满足你的味蕾。请参考[我们的乌布攻略地图](/map/ubud/)，一起展开一场美食之旅吧！
 
 ### 品味美味且经济实惠的当地美食
 
 ![品味美味且經濟實惠的當地美食](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
-来到巴厘岛当然要尝试看看当地美食！而巴厘岛有哪些当地美食呢？请看看小杰介绍的「[巴厘岛十大当地美食](/zh-cn/blog/bali-travel-tips/)」，这将是一场美食的冒险之旅。
+来到巴厘岛当然要尝试一下当地美食！而巴厘岛有哪些当地美食呢？请看小杰介绍的「[巴厘岛十大当地美食](/zh-cn/blog/bali-travel-tips/)」，这将是一场美食的冒险之旅。
 
 ***
 
@@ -918,7 +906,7 @@ Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐
 
 ![峇里島水神廟 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_bf3c1b5963a5c33d38b37b9e3375ccf4.jpg)
 
-特别的是，这个巴厘岛的水神庙，还被印在印尼国币上，是目前印尼流通的货币中面额第二大的，50,000印尼盾折合美金约为1.6美元。
+特别的是，这个巴厘岛的水神庙，还被印在印尼国币上，是目前印尼流通的货币中面额第二大的，50,000印尼盾折合台币约为100元。
 
 > [巴厘岛北部赏日出＆汉达拉门＆布拉坦水神庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F158-northern-nature-bali%2F%3Fspm%3DActivity.TranslateThisPagePopup%26clickId%3Da6d54e3cdd%26translation%3D0)
 
@@ -936,7 +924,7 @@ Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐
 
 巴厘岛身为一个火山岛，其中最有名的一个温泉就是Toya Devasya。这个温泉水上乐园建在巴杜尔湖畔，是该岛最受欢迎的景点之一。它以其天然温泉、水上乐园和壮丽的湖景而闻名。
 
-温泉水上乐园占地 2.5 公顷，拥有七个不同温度的温泉池。温泉水来自巴杜尔火山，含有丰富的矿物质，据信具有治疗功效。水上乐园设有各种滑水道、游泳池和其他水上活动。游客可以在这里享受放松的泡汤时光，也可以在水上乐园尽情玩乐。
+温泉水上乐园占地2.5公顷，拥有七个不同温度的温泉池。温泉水来自巴杜尔火山，含有丰富的矿物质，据信具有治疗功效。水上乐园设有各种滑水道、游泳池和其他水上活动。游客可以在这里享受放松的泡汤时光，也可以在水上乐园尽情玩乐。
 
 ![Toya Devasya溫泉的游泳池與巴杜爾湖完美連接](https://images.gobaligo.id/vocus/vocus_ce94d3e14914ce887875855cca2ff7cd.jpg)
 
@@ -950,9 +938,9 @@ Toya Devasya温泉水上乐园是游览巴厘岛乌布以北的理想场所。�
 
 百沙基母庙（Pura Besakih）是巴厘岛最大和最神圣的印度教寺庙之一，位于阿贡火山的斜坡上。这座寺庙被认为是巴厘岛宗教的核心，也被尊称为“母庙”。寺庙拥有多个神殿和祭坛，主要供奉不同的神祇。
 
-这个宏伟的庙宇群坐落在美丽的山谷和绿意盎然的稻田之间，景色壮丽。游客可以在此感受到悠久的宗教氛围，探索复杂的寺庙建筑和神圣的氛围。百沙基母庙承担了许多巴厘岛的宗教和文化活动，如庆典和仪式。
+这个宏伟的寺庙群坐落在美丽的山谷和绿意盎然的稻田之间，景色壮丽。游客可以在此感受到悠久的宗教氛围，探索复杂的寺庙建筑和神圣的氛围。百沙基母庙承担了许多巴厘岛的宗教和文化活动，如庆典和仪式。
 
-1963年，阿贡火山爆发，造成1700人死亡，然而火山岩浆却在几米之外流过寺庙，百沙基母庙幸免于难。这被巴厘岛人视为神迹，认为是神明展示其威力但不摧毁信仰的旨意。这座寺庙蕴含着深厚的宗教意义和文化价值，吸引着来自世界各地的游客前来参观。游客需要遵守相应的装束规定，并尊重当地的宗教礼仪，以展现对这个宗教圣地的尊重。
+1963年，阿贡火山爆发，造成1700人死亡，然而火山岩浆却在几米之外流过寺庙，百沙基母庙幸免于难。这被巴厘岛人视为神迹，认为是神明展示其威力但不摧毁信仰的旨意。这座寺庙蕴含着深厚的宗教意义和文化价值，吸引着来自世界各地的游客前来参观。游客需要遵守相应的着装规定，并尊重当地的宗教礼仪，以展现对这个宗教圣地的尊重。
 
 ***
 
@@ -996,17 +984,41 @@ https://youtu.be/zePMt3KSwTo
 
 新兴秘境 Lahangan Sweet，等你一起来捕捉梦幻美照！
 
-这个IG超夯新景点，零距离远眺神圣阿贡火山，享受360度无敌山景，最重要的是 - 完全不用人挤人啊！😍
+这个IG超火新景点，零距离远眺神圣阿贡火山，享受360度无敌山景，最重要的是 - 完全不用人挤人啊！😍
 
 想知道拍出媲美天空之门的仙气美照吗？这里的门票多少？如何聘用专业摄影师？请看这里的详细介绍：「[Lahangan Sweet ─ 绝美的阿贡山景观点](/zh-cn/blog/lahangan-sweet-volcano-view/) 🌄」
 
 ***
 
+## 【丛林中的Spa体验】
+
+![](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
+
+在乌布的热带雨林中，沉浸在Spa的愉悦体验中。度假村和水疗中心提供各种丰富的Spa选择，从传统的巴厘岛按摩到丰富的芳香疗法，让你在大自然的拥抱中感受身心灵的平静。聆听着风吹拂树叶的声音，感受着雨林的清新空气，这将是一场令人陶醉的疗愈之旅。
+
+> Google评价4.9颗星。[Svaha Spa Bisma 森林景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
+
+> Google评价5颗星。[Svaha Spa Kenderan 山谷景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
+
+> Google评价4.8颗星。[桑卡拉度假村Radha Spa体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
+
+> Google评价4.8颗星。[Mekar Ubud Jungle Spa 按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
+
+> Google评价4.9颗星。[Kamalini按摩水疗体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
+
+> Google评价4.8颗星。[Chapung Wellness Spa按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
+
+> [Sanctoo Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F101338-sanctoo-spa-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daa99e346be)
+> Google评价4.7颗星。坐落在巴厘岛动物园的一角，周围环绕着郁郁葱葱的绿色植物和瀑布中按摩，保证让您在按摩后精神焕发！
+
+> [Ayusha Wellness Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F131955-balinese-holistic-spa-at-ayusha-wellness-in-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f74b94c07)
+> Google评价5颗星！在丛林河谷旁的spa放松身心，焕发活力! 享受Ayusha 巴厘岛按摩、冷热石按摩或情侣按摩
+
 ## 【在旅馆内享受宁静的大自然】
 
 ![【在旅館內享受寧靜的大自然】](https://images.gobaligo.id/vocus/vocus_a8a800870e5d4dde0de0e5abdc92693c.jpg)
 
-在乌布的旅馆内，您可以沉浸在宁静的大自然中。这些旅馆通常位于郁郁葱葱的热带丛林或绿意盎然的稻田之间，为您提供一种融入自然的舒适体验。您可以在宽敞的露台上欣赏晨曦中升起的太阳，或在凉爽的泳池中放松身心。
+在乌布的旅馆内，您可以沉浸在宁静的大自然中。这些旅馆通常位于郁郁葱葱的热带丛林或绿意盎然的稻田之间，提供您一种融入自然的舒适体验。您可以在宽敞的露台上欣赏晨曦中升起的太阳，或是在凉爽的泳池中放松身心。
 
 许多乌布旅馆提供宁静的花园和绿意盎然的庭院，您可以在其中漫步，感受到植物的香气和微风的抚慰。一些豪华的旅馆提供私人别墅或独栋小屋，让您置身于自然中，同时享受高品质的服务和便利设施。
 
@@ -1056,11 +1068,11 @@ https://youtu.be/zePMt3KSwTo
 
 ![10家bamboo villa推薦](https://images.gobaligo.id/vocus/vocus_b96e9d765ccf52dae074554359f07d08.png)
 
-10[家bamboo villa推荐](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+10+[bamboo villa推荐](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
-> [探索乌布10家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+> [探索乌布10+令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
-### 乌布私人泳池villa
+### 乌布私人泳池别墅
 
 ![18間烏布私人泳池別墅推薦](https://images.gobaligo.id/vocus/vocus_8ed3633db6e0cf72382b29c543916d60.jpg)
 
@@ -1074,7 +1086,7 @@ https://youtu.be/zePMt3KSwTo
 
 [乌布瑜伽住宿推荐](/zh-cn/blog/ubud-yoga-retreats-bali/)
 
-[> 乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/zh-cn/blog/ubud-yoga-retreats-bali/)
+> [乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/zh-cn/blog/ubud-yoga-retreats-bali/)
 
 ### 露营地
 
