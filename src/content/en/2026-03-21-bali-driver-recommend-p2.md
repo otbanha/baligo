@@ -139,10 +139,9 @@ The order **does not indicate ranking**,
 
 ## Gung Bali Wangzi (Prince)
 
-![Gung Bali Wangzi 王子](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
+![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
 👍 **19 verified reviews from travelers** (click numbers for original posts): [1](https://www.facebook.com/share/p/1Cd1X626mG/) [2](https://www.facebook.com/share/p/1JciR5VxMg/) [3](https://www.facebook.com/share/p/1E7DvWs6xZ/) [4](https://www.facebook.com/share/p/17fp8NSmsP/) [5](https://www.facebook.com/share/p/1NudQpposu/) [6](https://www.facebook.com/share/p/1DrCn85wh6/) [7](https://www.facebook.com/share/p/18kDiE3w2r/) [8](https://www.facebook.com/share/p/1BP7AELXeB/) [9](https://www.facebook.com/share/p/1DvCnKCrA7/) [10](https://www.facebook.com/share/p/17i5s3LAJF/) [11](https://www.facebook.com/share/p/1D6AWxdR57/) [12](https://www.facebook.com/share/p/1BYaLyET5w/) [13](https://www.facebook.com/share/p/18d6a34JTF/) [14](https://www.facebook.com/share/p/1D8QNjhKF6/) [15](https://www.facebook.com/share/p/18hwbDNCPh/) [16](https://www.facebook.com/share/p/1AsUcdwar2/) [17](https://www.facebook.com/share/p/1Q6GLc2v7v/) [18](https://www.facebook.com/share/p/19VN7exSjF/) [19](https://www.facebook.com/share/p/19RU8MBhTG/)
-
 ## Gede Mahendra
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
