@@ -150,7 +150,7 @@ Update: 2026/08/10
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍 **5 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1DKfhiZWRu/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1G9hdFE9Up/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/18MAFMbc4m/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1JgMwhqdGu/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
