@@ -1,6 +1,6 @@
 ---
 title: 峇里島包車司機推薦名單（第二頁）｜社團真實分享
-slug: ''
+slug: bali-drivers-recommendations-2
 description: 峇里島包車司機推薦名單第二頁，每位司機底下的分享連結都能點開查證原始社團貼文。附 2026 包車行情與聯繫時該提供的資訊。
 pubDate: 2026-01-01
 pubHour: null
@@ -132,7 +132,7 @@ Update: 2026/08/10
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/1AMUy8XQJC/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[網友推薦3](https://www.facebook.com/share/1ED9boaUC7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1AK9XoQjiH/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15tr79GCtL/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
-## 
+##
 
 ## Gede Mahendra
 
@@ -150,13 +150,27 @@ Update: 2026/08/10
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1DKfhiZWRu/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1G9hdFE9Up/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/18MAFMbc4m/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1JgMwhqdGu/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍 **5 則網友實測分享**（點數字看社團原貼文）：[1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
 {{block:包車}}
 
+## **（中文司機）Yoga Setiawan**
+
+![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
+
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/19Jg1L5WjX/)
+
+## Gede Mahema
+
+![](https://images.gobaligo.id/vocus/vocus_b7880431d7ebd0564f47b379a0e30127.png)
+
+👍🏼[網友推薦1](https://www.facebook.com/share/p/STuNxqR73ZZFPK2u/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/Xm5jTtnPQPBo6oqG/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/KJwUVWbP99bC7Wnw/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/Rv5XSyAEKuedtWi6/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/RDyarvBUSycxdh3y/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/Xsfw3sEeD7u4Nngu/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15aJF3dLmK/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/16HTnwHGFi/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ABia4u9MD/) 👍🏼[網友推薦10](https://www.facebook.com/share/v/1BoUyc4YfZ/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1QLAmoxkox/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/19XBo22eSd/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1Ceax3HyFr/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1AAVGjw14V/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/185JM5bBCA/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1BJni5S98k/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1KZ89irDsf/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/19J6zyoa3B/)
+
 ***
+
+<!-- no-shuffle -->
 
 👈 **回到峇里島自由行終極指南**
 
