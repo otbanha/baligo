@@ -22,6 +22,25 @@ const { area } = Astro.props;
   <div id="cat-bar" class="hidden">
     <div id="cat-pills"></div>
   </div>
+  <button id="layers-btn" class="hidden" aria-label="地圖圖層" aria-expanded="false" aria-controls="layers-panel">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <polygon points="12 2 2 7 12 12 22 7 12 2"/>
+      <polyline points="2 17 12 22 22 17"/>
+      <polyline points="2 12 12 17 22 12"/>
+    </svg>
+    <span class="layers-label">圖層</span>
+  </button>
+  <aside id="layers-panel" class="hidden" aria-label="地圖圖層">
+    <div class="lp-head">
+      <span class="lp-title">地圖圖層</span>
+      <button id="lp-close" aria-label="關閉圖層面板">✕</button>
+    </div>
+    <div class="lp-actions">
+      <button class="lp-act" data-all="show">全部顯示</button>
+      <button class="lp-act" data-all="hide">全部隱藏</button>
+    </div>
+    <div id="lp-list"></div>
+  </aside>
   <div id="search-bar">
     <span id="search-icon" aria-hidden="true">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -36,7 +55,7 @@ const { area } = Astro.props;
 
 
 
-<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+<link rel="stylesheet" href="/vendor/maplibre/maplibre-gl.css" />
 
 <style>
   #map-container {
@@ -59,7 +78,7 @@ const { area } = Astro.props;
     z-index: 2;
     transition: opacity 0.3s;
   }
-  [data-dark] #map-loading { background: #1a1f1a; }
+  :global([data-dark]) #map-loading { background: #1a1f1a; }
   #map-loading.hidden { opacity: 0; pointer-events: none; }
 
   .spinner {
@@ -80,10 +99,10 @@ const { area } = Astro.props;
     box-shadow: 0 4px 20px rgba(0,0,0,0.18) !important;
     min-width: 260px;
   }
-  [data-dark] :global(.maplibregl-popup-content) {
+  :global([data-dark]) :global(.maplibregl-popup-content) {
     background: #242424 !important;
   }
-  [data-dark] :global(.maplibregl-popup-tip) {
+  :global([data-dark]) :global(.maplibregl-popup-tip) {
     border-top-color: #242424 !important;
   }
   :global(.maplibregl-popup-close-button) {
@@ -132,12 +151,12 @@ const { area } = Astro.props;
     font-size: 15px; font-weight: 700;
     color: #1a1a1a; margin-bottom: 4px; line-height: 1.3;
   }
-  [data-dark] :global(.map-popup h3) { color: #f0f0f0; }
+  :global([data-dark]) :global(.map-popup h3) { color: #f0f0f0; }
 
   :global(.map-popup p) {
     font-size: 12px; color: #666; line-height: 1.5; margin-bottom: 10px;
   }
-  [data-dark] :global(.map-popup p) { color: #aaa; }
+  :global([data-dark]) :global(.map-popup p) { color: #aaa; }
 
   :global(.nav-btn) {
     display: block; background: #1a73e8; color: #fff !important;
@@ -161,7 +180,7 @@ const { area } = Astro.props;
   :global(.gmaps-link) {
     font-size: 12px; color: #2d8653; font-weight: 600; text-decoration: none;
   }
-  [data-dark] :global(.gmaps-link) { color: #4caf8a; }
+  :global([data-dark]) :global(.gmaps-link) { color: #4caf8a; }
   :global(.popup-action-btns) { display: flex; gap: 6px; }
   :global(.fav-btn), :global(.itin-btn) {
     background: none; border: none;
@@ -179,10 +198,10 @@ const { area } = Astro.props;
     box-shadow: 0 2px 12px rgba(0,0,0,0.18);
     z-index: 500; white-space: nowrap;
   }
-  [data-dark] #nearby-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
+  :global([data-dark]) #nearby-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
   #nearby-bar.hidden { display: none; }
   #nearby-label { font-size: 13px; font-weight: 600; color: #1a1a1a; }
-  [data-dark] #nearby-label { color: #f0f0f0; }
+  :global([data-dark]) #nearby-label { color: #f0f0f0; }
   #radius-pills { display: flex; gap: 4px; }
   .radius-pill {
     background: #f0f0f0; border: none; border-radius: 12px;
@@ -190,7 +209,7 @@ const { area } = Astro.props;
     cursor: pointer; color: #555; font-family: inherit;
     -webkit-tap-highlight-color: transparent; transition: background 0.15s;
   }
-  [data-dark] .radius-pill { background: #3a3a3a; color: #ccc; }
+  :global([data-dark]) .radius-pill { background: #3a3a3a; color: #ccc; }
   .radius-pill.active { background: #2d8653; color: #fff; }
   #nearby-close {
     background: none; border: none; font-size: 14px; color: #aaa;
@@ -210,9 +229,9 @@ const { area } = Astro.props;
     flex-direction: row-reverse;
   }
   #search-bar.open { width: min(260px, calc(100vw - 80px)); flex-direction: row; }
-  [data-dark] #search-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
+  :global([data-dark]) #search-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
   #search-icon { display: flex; align-items: center; justify-content: center; flex-shrink: 0; cursor: pointer; color: #555; }
-  [data-dark] #search-icon { color: #aaa; }
+  :global([data-dark]) #search-icon { color: #aaa; }
   #search-input {
     border: none; outline: none; background: transparent;
     font-size: 13px; font-family: inherit; color: #1a1a1a;
@@ -220,7 +239,7 @@ const { area } = Astro.props;
     transition: width 0.25s;
   }
   #search-bar.open #search-input { width: 100%; }
-  [data-dark] #search-input { color: #f0f0f0; }
+  :global([data-dark]) #search-input { color: #f0f0f0; }
   #search-input::placeholder { color: #aaa; }
   #search-clear {
     background: none; border: none; font-size: 13px; color: #aaa;
@@ -228,6 +247,102 @@ const { area } = Astro.props;
     -webkit-tap-highlight-color: transparent;
   }
   #search-clear.hidden { display: none; }
+
+  /* ── 圖層面板（對應 Google My Maps 左側的圖層清單）────────── */
+  #layers-btn {
+    position: absolute; top: 64px; left: 12px; z-index: 500;
+    display: flex; align-items: center; gap: 7px;
+    height: 44px; padding: 0 14px 0 11px;
+    background: #fff; border: none; border-radius: 22px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    font-size: 13px; font-weight: 600; color: #333; font-family: inherit;
+    cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  #layers-btn.hidden { display: none; }
+  #layers-btn svg { flex-shrink: 0; }
+  :global([data-dark]) #layers-btn { background: #1e1e1e; color: #ccc; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+  @media (max-width: 767px) {
+    #layers-btn { width: 44px; padding: 0; border-radius: 50%; justify-content: center; }
+    #layers-btn .layers-label { display: none; }
+  }
+
+  #layers-panel {
+    position: absolute; top: 0; left: 0; bottom: 0; z-index: 700;
+    width: min(300px, 84%);
+    background: #fff;
+    box-shadow: 2px 0 16px rgba(0,0,0,0.18);
+    display: flex; flex-direction: column;
+    transition: transform 0.22s ease;
+    font-family: inherit;
+  }
+  #layers-panel.hidden { transform: translateX(-102%); box-shadow: none; }
+  :global([data-dark]) #layers-panel { background: #1c1c1c; box-shadow: 2px 0 16px rgba(0,0,0,0.6); }
+
+  .lp-head {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 12px 10px 14px;
+    border-bottom: 1px solid #ececec;
+  }
+  :global([data-dark]) .lp-head { border-bottom-color: #333; }
+  .lp-title { font-size: 14px; font-weight: 700; color: #1a1a1a; }
+  :global([data-dark]) .lp-title { color: #f0f0f0; }
+  #lp-close {
+    background: none; border: none; font-size: 15px; color: #999;
+    cursor: pointer; padding: 2px 4px; line-height: 1;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .lp-actions { display: flex; gap: 6px; padding: 10px 14px; }
+  .lp-act {
+    flex: 1; background: #f4f4f4; border: none; border-radius: 8px;
+    padding: 6px 0; font-size: 12px; font-weight: 600; color: #555;
+    cursor: pointer; font-family: inherit;
+    -webkit-tap-highlight-color: transparent;
+  }
+  :global([data-dark]) .lp-act { background: #2c2c2c; color: #bbb; }
+
+  #lp-list { flex: 1; overflow-y: auto; padding: 0 6px 16px; -webkit-overflow-scrolling: touch; }
+
+  /* 以下的節點是 KML 解析完才用 JS 建出來的，拿不到 Astro 的 scope 屬性，
+     必須走 :global()（跟既有的 .cat-pill 同樣理由） */
+  :global(.lp-layer) { border-bottom: 1px solid #f2f2f2; }
+  :global([data-dark]) :global(.lp-layer) { border-bottom-color: #2a2a2a; }
+  :global(.lp-row) {
+    display: flex; align-items: center; gap: 8px;
+    padding: 9px 8px; cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  :global(.lp-row input) { width: 16px; height: 16px; accent-color: #2d8653; flex-shrink: 0; cursor: pointer; margin: 0; }
+  :global(.lp-dot) {
+    width: 24px; height: 24px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; flex-shrink: 0;
+  }
+  :global(.lp-name) {
+    flex: 1; font-size: 13px; font-weight: 600; color: #333;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  :global([data-dark]) :global(.lp-name) { color: #ddd; }
+  :global(.lp-row input:not(:checked) ~ .lp-name) { color: #aaa; font-weight: 500; }
+  :global(.lp-count) { font-size: 11px; color: #999; flex-shrink: 0; }
+  :global(.lp-expand) {
+    background: none; border: none; color: #bbb; font-size: 15px;
+    cursor: pointer; padding: 4px 6px; flex-shrink: 0; line-height: 1;
+    transition: transform 0.18s; -webkit-tap-highlight-color: transparent;
+  }
+  :global(.lp-expand[aria-expanded="true"]) { transform: rotate(90deg); }
+
+  :global(.lp-places) { list-style: none; margin: 0; padding: 0 0 8px 40px; }
+  :global(.lp-places.hidden) { display: none; }
+  :global(.lp-places button) {
+    display: block; width: 100%; text-align: left;
+    background: none; border: none; font-family: inherit;
+    font-size: 12.5px; color: #555; line-height: 1.4;
+    padding: 6px 8px 6px 0; cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+  :global([data-dark]) :global(.lp-places button) { color: #aaa; }
+  :global(.lp-places button:hover) { color: #2d8653; }
 
   /* Category bar */
   #cat-bar {
@@ -265,24 +380,24 @@ const { area } = Astro.props;
     font-family: inherit; -webkit-tap-highlight-color: transparent;
     transition: all 0.15s; flex-shrink: 0;
   }
-  [data-dark] :global(.cat-pill) {
+  :global([data-dark]) :global(.cat-pill) {
     background: #2a2a2a; border-color: #3a3a3a; color: #ccc;
   }
   :global(.cat-pill.active) { background: #1a1a1a; border-color: #1a1a1a; color: #fff; }
-  [data-dark] :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
+  :global([data-dark]) :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
 
   /* Hide native geolocate button (we use custom #gps-btn) */
   :global(.maplibregl-ctrl-geolocate) { display: none !important; }
 
   /* MapLibre control dark overrides */
-  [data-dark] :global(.maplibregl-ctrl-group) {
+  :global([data-dark]) :global(.maplibregl-ctrl-group) {
     background: #2a2a2a !important;
     box-shadow: 0 0 0 1px #3a3a3a !important;
   }
-  [data-dark] :global(.maplibregl-ctrl button) {
+  :global([data-dark]) :global(.maplibregl-ctrl button) {
     background-color: #2a2a2a !important;
   }
-  [data-dark] :global(.maplibregl-ctrl button span) {
+  :global([data-dark]) :global(.maplibregl-ctrl button span) {
     filter: invert(1);
   }
 </style>
@@ -293,7 +408,7 @@ const { area } = Astro.props;
     if (!window.maplibregl) {
       await new Promise((res, rej) => {
         const s = document.createElement('script');
-        s.src = 'https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js';
+        s.src = '/vendor/maplibre/maplibre-gl.js';
         s.onload = res; s.onerror = rej;
         document.head.appendChild(s);
       });
@@ -325,7 +440,9 @@ const { area } = Astro.props;
     // ─── State ────────────────────────────────────────────────
     let allFeatures = [];
     let categories = [];
-    let activeCat = '全部';
+    // 被關掉的圖層。用「隱藏集合」而非「顯示集合」，新解析出來的圖層才會預設可見。
+    // 底部 pills（單選「只看這一類」）與左側圖層面板（多選勾選）共用這份狀態。
+    const hiddenCats = new Set();
     let searchQuery = '';
     let nearbyActive = false;
     let nearbyRadius = 1;
@@ -437,14 +554,21 @@ const { area } = Astro.props;
       const q = searchQuery.toLowerCase();
       return allFeatures.filter(f => {
         const { category, lat, lng, name } = f.properties;
-        const catOk = activeCat === '全部' || category === activeCat;
+        const catOk = !hiddenCats.has(category);
         const nearbyOk = !nearbyActive || userLat === null || haversine(userLat, userLng, lat, lng) <= nearbyRadius;
         const searchOk = !q || name.toLowerCase().includes(q);
         return catOk && nearbyOk && searchOk;
       });
     }
 
-    function fitToFeatures(features) {
+    // 線性內插百分位數，用來裁掉離群座標
+    function percentile(sorted, p) {
+      const idx = (sorted.length - 1) * p;
+      const lo = Math.floor(idx), hi = Math.ceil(idx);
+      return lo === hi ? sorted[lo] : sorted[lo] + (sorted[hi] - sorted[lo]) * (idx - lo);
+    }
+
+    function fitToFeatures(features, { anchorToArea = false } = {}) {
       if (features.length === 0) return;
       // Filter out coordinates outside Bali (data errors)
       const valid = features.filter(f => {
@@ -456,16 +580,44 @@ const { area } = Astro.props;
         map.flyTo({ center: toFit[0].geometry.coordinates, zoom: 15 });
         return;
       }
+
+      // 分區地圖常有幾根釘子落在區外（庫塔圖裡的 Denpasar 伴手禮店、烏布圖裡
+      // 的遠郊梯田）。直接取 min/max 會被這幾根拉到整座島的視角，主要景點全擠
+      // 在中間一小塊。先砍掉離中位數中心最遠的 8%——用平面距離而不是單軸百分
+      // 位，斜角方向的離群點才抓得到。
+      let kept = toFit;
+      if (toFit.length >= 12) {
+        const lngs = toFit.map(f => f.geometry.coordinates[0]).sort((a, b) => a - b);
+        const lats = toFit.map(f => f.geometry.coordinates[1]).sort((a, b) => a - b);
+        const cLng = percentile(lngs, 0.5), cLat = percentile(lats, 0.5);
+        const distOf = f => Math.hypot(f.geometry.coordinates[0] - cLng, f.geometry.coordinates[1] - cLat);
+        const cut = percentile(toFit.map(distOf).sort((a, b) => a - b), 0.92);
+        const trimmed = toFit.filter(f => distOf(f) <= cut);
+        if (trimmed.length >= 3) kept = trimmed;
+      }
+
       let minLng = Infinity, maxLng = -Infinity, minLat = Infinity, maxLat = -Infinity;
-      toFit.forEach(f => {
+      kept.forEach(f => {
         const [lng, lat] = f.geometry.coordinates;
         minLng = Math.min(minLng, lng); maxLng = Math.max(maxLng, lng);
         minLat = Math.min(minLat, lat); maxLat = Math.max(maxLat, lat);
       });
-      map.fitBounds(
-        [[minLng - 0.005, minLat - 0.005], [maxLng + 0.005, maxLat + 0.005]],
-        { padding: 60, maxZoom: 15, duration: 600 }
-      );
+      const bounds = [[minLng - 0.005, minLat - 0.005], [maxLng + 0.005, maxLat + 0.005]];
+
+      // 初次載入：有些分區圖的釘子真的橫跨半座島（烏布 197 筆攤開來只有 z8.4），
+      // 硬要框住全部只會得到一個「159」的巨大聚合圓圈。這種情況退回 maps.ts 手
+      // 調的 area.center／area.zoom——那才是使用者點「烏布攻略地圖」想看到的地方，
+      // 區外的點交給聚合圓圈和左側圖層清單。
+      if (anchorToArea) {
+        const floor = area.zoom - 2;
+        let cam;
+        try { cam = map.cameraForBounds(bounds, { padding: 60 }); } catch { cam = null; }
+        if (!cam || !Number.isFinite(cam.zoom) || cam.zoom < floor) {
+          map.easeTo({ center: [area.center[1], area.center[0]], zoom: floor, duration: 600 });
+          return;
+        }
+      }
+      map.fitBounds(bounds, { padding: 60, maxZoom: 15, duration: 600 });
     }
 
     function refreshData() {
@@ -575,6 +727,17 @@ const { area } = Astro.props;
       );
     }
 
+    // 借用當前底圖 style 自己在用的字型堆疊，確保 glyph 一定抓得到
+    function pickFontStack() {
+      try {
+        for (const l of (map.getStyle().layers || [])) {
+          const f = l.layout && l.layout['text-font'];
+          if (Array.isArray(f) && typeof f[0] === 'string') return f;
+        }
+      } catch {}
+      return ['Noto Sans Regular'];
+    }
+
     // ─── Layer setup (called after initial load + after style change) ────
     function setupLayers() {
       if (!kmlParsed) return;
@@ -586,20 +749,61 @@ const { area } = Astro.props;
 
       const data = { type: 'FeatureCollection', features: getFilteredFeatures() };
       if (!map.getSource('places')) {
-        map.addSource('places', { type: 'geojson', data });
+        map.addSource('places', {
+          type: 'geojson',
+          data,
+          // 密集區（庫塔海灘一帶、烏布市區）不聚合的話幾十根釘子會疊成看不懂的
+          // 一團。半徑抓比 icon（40px）稍大，避免相鄰的聚合圓圈自己又疊在一起；
+          // 沒撞到的點照樣維持 emoji 釘子。
+          cluster: true,
+          clusterMaxZoom: 15,
+          clusterRadius: 55,
+        });
       } else {
         map.getSource('places').setData(data);
+      }
+
+      if (!map.getLayer('clusters')) {
+        try {
+          map.addLayer({
+            id: 'clusters', type: 'circle', source: 'places',
+            filter: ['has', 'point_count'],
+            paint: {
+              'circle-color': '#2d8653',
+              'circle-opacity': 0.92,
+              'circle-radius': ['step', ['get', 'point_count'], 17, 10, 21, 30, 25, 100, 30],
+              'circle-stroke-width': 3,
+              'circle-stroke-color': '#fff',
+            },
+          });
+          map.addLayer({
+            id: 'cluster-count', type: 'symbol', source: 'places',
+            filter: ['has', 'point_count'],
+            layout: {
+              'text-field': ['get', 'point_count_abbreviated'],
+              // 淺色/深色底圖的可用字型不同，直接沿用當前 style 已載入的字型堆疊，
+              // 否則 glyph 抓不到數字就不會顯示
+              'text-font': pickFontStack(),
+              'text-size': 13,
+              'text-allow-overlap': true,
+              'text-ignore-placement': true,
+            },
+            paint: { 'text-color': '#fff' },
+          });
+        } catch (e) { console.error('[map] addLayer clusters failed:', e); }
       }
 
       if (!map.getLayer('points')) {
         try {
           map.addLayer({
             id: 'points', type: 'symbol', source: 'places',
+            filter: ['!', ['has', 'point_count']],
             layout: {
               'icon-image': ['get', 'iconImage'],
               'icon-size': 1,
-              'icon-allow-overlap': true,
-              'icon-ignore-placement': true,
+              // 放到最大才全部畫出來；在那之前讓 MapLibre 自己避讓，保持可讀
+              'icon-allow-overlap': ['step', ['zoom'], false, 16, true],
+              'icon-ignore-placement': ['step', ['zoom'], false, 16, true],
             },
           });
         } catch (e) { console.error('[map] addLayer points failed:', e); }
@@ -623,6 +827,22 @@ const { area } = Astro.props;
 
         map.on('mouseenter', 'points', () => { map.getCanvas().style.cursor = 'pointer'; });
         map.on('mouseleave', 'points', () => { map.getCanvas().style.cursor = ''; });
+
+        // 點聚合圓圈 → 放大到剛好能拆開這一團的 zoom
+        map.on('click', 'clusters', (e) => {
+          const f = map.queryRenderedFeatures(e.point, { layers: ['clusters'] })[0];
+          if (!f) return;
+          const src = map.getSource('places');
+          Promise.resolve(src.getClusterExpansionZoom(f.properties.cluster_id))
+            .then(z => {
+              if (!Number.isFinite(z)) return;
+              map.easeTo({ center: f.geometry.coordinates, zoom: Math.min(z, 18), duration: 500 });
+            })
+            .catch(() => {});
+        });
+
+        map.on('mouseenter', 'clusters', () => { map.getCanvas().style.cursor = 'pointer'; });
+        map.on('mouseleave', 'clusters', () => { map.getCanvas().style.cursor = ''; });
       }
     }
 
@@ -784,7 +1004,7 @@ const { area } = Astro.props;
       if (!mapStyleReady || !kmlParsed) return;
       setupLayers();
       if (!initialFitDone && allFeatures.length > 0) {
-        fitToFeatures(allFeatures);
+        fitToFeatures(allFeatures, { anchorToArea: true });
         initialFitDone = true;
       }
     }
@@ -870,9 +1090,42 @@ const { area } = Astro.props;
       kmlParsed = true;
       trySetupLayers(); // runs immediately if style is already ready
 
-      // Category filter pills
+      // ─── 圖層 UI：底部 pills（快速單選）＋ 左側面板（對應 My Maps 的圖層清單）──
       const catPillsEl = document.getElementById('cat-pills');
       const catBar = document.getElementById('cat-bar');
+      const layersBtn = document.getElementById('layers-btn');
+      const layersPanel = document.getElementById('layers-panel');
+      const lpList = document.getElementById('lp-list');
+
+      // GPS 鈕是 position:fixed 掛在 map-wrapper 外面（z-index 900），比面板高，
+      // 面板打開時會壓在標題上，所以開合時一起收掉
+      function setPanelOpen(open) {
+        layersPanel?.classList.toggle('hidden', !open);
+        layersBtn?.setAttribute('aria-expanded', String(open));
+        const gps = document.getElementById('gps-btn');
+        if (gps) gps.style.visibility = open ? 'hidden' : '';
+      }
+      function closePanel() { setPanelOpen(false); }
+
+      // 兩套 UI 共用 hiddenCats，任何一邊改動都由這裡統一重畫
+      function syncCatUI({ refit = false } = {}) {
+        refreshData();
+        const visible = categories.filter(c => !hiddenCats.has(c.name));
+        // pills：全開 →「全部」亮；剛好剩一個 → 那顆亮；複選狀態 → 都不亮
+        catPillsEl?.querySelectorAll('.cat-pill').forEach(p => {
+          const cat = p.dataset.cat;
+          p.classList.toggle('active',
+            cat ? (visible.length === 1 && visible[0].name === cat) : hiddenCats.size === 0);
+        });
+        lpList?.querySelectorAll('input[data-cat]').forEach(cb => {
+          cb.checked = !hiddenCats.has(cb.dataset.cat);
+        });
+        if (refit) {
+          const filtered = getFilteredFeatures();
+          if (filtered.length > 0) fitToFeatures(filtered);
+        }
+      }
+
       if (catPillsEl && categories.length > 1) {
         catBar?.classList.remove('hidden');
         const allPill = document.createElement('button');
@@ -889,14 +1142,102 @@ const { area } = Astro.props;
         catPillsEl.addEventListener('click', (e) => {
           const pill = e.target.closest('.cat-pill');
           if (!pill) return;
-          catPillsEl.querySelectorAll('.cat-pill').forEach(p => p.classList.remove('active'));
-          pill.classList.add('active');
-          activeCat = pill.dataset.cat || '全部';
-          refreshData();
-          if (activeCat !== '全部') {
-            const filtered = getFilteredFeatures();
-            if (filtered.length > 0) fitToFeatures(filtered);
-          }
+          const only = pill.dataset.cat;
+          hiddenCats.clear();
+          if (only) categories.forEach(c => { if (c.name !== only) hiddenCats.add(c.name); });
+          syncCatUI({ refit: !!only });
+        });
+      }
+
+      if (lpList && layersBtn && layersPanel && categories.length > 0) {
+        layersBtn.classList.remove('hidden');
+
+        categories.forEach(cat => {
+          const places = allFeatures.filter(f => f.properties.category === cat.name);
+
+          const wrap = document.createElement('div');
+          wrap.className = 'lp-layer';
+
+          const row = document.createElement('div');
+          row.className = 'lp-row';
+
+          const cb = document.createElement('input');
+          cb.type = 'checkbox';
+          cb.checked = true;
+          cb.dataset.cat = cat.name;
+          cb.setAttribute('aria-label', `顯示${cat.name}`);
+
+          const dot = document.createElement('span');
+          dot.className = 'lp-dot';
+          dot.style.background = cat.style.color;
+          dot.textContent = cat.style.emoji;
+
+          const nm = document.createElement('span');
+          nm.className = 'lp-name';
+          nm.textContent = cat.name;
+
+          const cnt = document.createElement('span');
+          cnt.className = 'lp-count';
+          cnt.textContent = String(places.length);
+
+          const exp = document.createElement('button');
+          exp.type = 'button';
+          exp.className = 'lp-expand';
+          exp.textContent = '›';
+          exp.setAttribute('aria-expanded', 'false');
+          exp.setAttribute('aria-label', `展開${cat.name}的地點清單`);
+
+          row.append(cb, dot, nm, cnt, exp);
+
+          const ul = document.createElement('ul');
+          ul.className = 'lp-places hidden';
+          places.forEach(f => {
+            const li = document.createElement('li');
+            const b = document.createElement('button');
+            b.type = 'button';
+            b.textContent = f.properties.name;
+            b.addEventListener('click', () => {
+              const [lng, lat] = f.geometry.coordinates;
+              map.flyTo({ center: [lng, lat], zoom: Math.max(map.getZoom(), 16) });
+              new mgl.Popup({ maxWidth: '280px', offset: 20 })
+                .setLngLat([lng, lat])
+                .setDOMContent(buildPopupDOM(f.properties))
+                .addTo(map);
+              // 手機的面板是覆蓋在地圖上的，跳過去後要讓開
+              if (window.matchMedia('(max-width: 767px)').matches) closePanel();
+            });
+            li.appendChild(b);
+            ul.appendChild(li);
+          });
+
+          cb.addEventListener('change', () => {
+            if (cb.checked) hiddenCats.delete(cat.name); else hiddenCats.add(cat.name);
+            syncCatUI();
+          });
+          // 點整列（名稱／圖示／數量）等同開關這個圖層
+          [dot, nm, cnt].forEach(el => el.addEventListener('click', () => {
+            cb.checked = !cb.checked;
+            cb.dispatchEvent(new Event('change'));
+          }));
+          exp.addEventListener('click', () => {
+            const opened = !ul.classList.toggle('hidden');
+            exp.setAttribute('aria-expanded', String(opened));
+          });
+
+          wrap.append(row, ul);
+          lpList.appendChild(wrap);
+        });
+
+        layersBtn.addEventListener('click', () => {
+          setPanelOpen(layersPanel.classList.contains('hidden'));
+        });
+        document.getElementById('lp-close')?.addEventListener('click', closePanel);
+        layersPanel.querySelectorAll('.lp-act').forEach(btn => {
+          btn.addEventListener('click', () => {
+            hiddenCats.clear();
+            if (btn.dataset.all === 'hide') categories.forEach(c => hiddenCats.add(c.name));
+            syncCatUI();
+          });
         });
       }
     } catch (err) {
