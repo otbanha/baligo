@@ -701,9 +701,39 @@ const { area } = Astro.props;
       };
     }
 
+    // Google My Maps 上傳的照片擋第三方 hotlink（瀏覽器會帶 Origin /
+    // Sec-Fetch-Site，Google 直接拒絕），直接引用一定載入失敗，必須走
+    // /api/map-image 代取。順便把 KML 給的 16383px 原圖換成縮圖尺寸。
+    const MYMAPS_IMG_RE =
+      /^https:\/\/mymaps\.usercontent\.google\.com\/hostedimage\/m\/\*\/([A-Za-z0-9_-]+)/;
+
+    function proxyImg(url) {
+      if (!url) return '';
+      const m = url.match(MYMAPS_IMG_RE);
+      return m ? `/api/map-image?id=${m[1]}&v=thumb` : url;
+    }
+
     function extractImg(raw) {
       const m = raw.match(/<img[^>]+src=["'](https?:\/\/[^"']+)["']/i);
-      return m ? m[1] : null;
+      return m ? proxyImg(m[1]) : null;
+    }
+
+    // 照片在 KML 裡有兩個來源：description 的 <img>，以及 ExtendedData 的
+    // gx_media_links。目前實測 314 個有圖的地點兩者都有，但後者才是 Google
+    // 的正規欄位，留著當 description 被改寫時的後備。
+    function extractMediaLink(pm) {
+      // KML 有預設 namespace，沿用檔案其他地方的做法：先試 tagName，再試 NS 萬用
+      const datas = pm.getElementsByTagName('Data').length
+        ? pm.getElementsByTagName('Data')
+        : pm.getElementsByTagNameNS('*', 'Data');
+      for (const d of Array.from(datas)) {
+        if (d.getAttribute('name') !== 'gx_media_links') continue;
+        const v = d.getElementsByTagName('value')[0]
+          || d.getElementsByTagNameNS('*', 'value')[0];
+        // 多張照片是空白分隔，取第一張當縮圖
+        return (v?.textContent || '').trim().split(/\s+/)[0] || '';
+      }
+      return '';
     }
 
     function formatDesc(raw) {
@@ -1072,7 +1102,7 @@ const { area } = Astro.props;
               iconImage: `icon-${sanitizeIconId(catName)}`,
               lat, lng,
               areaSlug: area.slug, areaName: area.name,
-              imgUrl: extractImg(rawDesc) || '',
+              imgUrl: extractImg(rawDesc) || proxyImg(extractMediaLink(pm)),
             },
           });
         });
