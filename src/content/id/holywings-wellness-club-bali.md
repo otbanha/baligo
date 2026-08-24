@@ -1,7 +1,7 @@
 ---
 title: >-
-  Spot Hits Terbaru di Bali! Holywings Wellness Club Resmi Buka, Hadirkan Gym
-  dengan Pemandangan Laut, Ice Bath, Sauna, dan Pengalaman Healing All-in-One
+  Spot Hits Terbaru di Bali! Holywings Wellness Club Resmi Buka, Hadirkan
+  Pengalaman Healing One-Stop dengan Gym Pemandangan Laut, Ice Bath, dan Sauna
 slug: holywings-wellness-club-bali
 description: >-
   Holywings Wellness Club di Bali resmi dibuka! Menggabungkan gym dengan
@@ -32,131 +32,137 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-08-24T00:00:00.000Z
 lang: id
-_srcHash: 03f23da2ef3cac2738dbdea9f9d88209
+_srcHash: PENDING_RETRY_68875c395dca8e9967d8b4aebb772063
+_translateAttempts: 1
 ---
 
-# Spot Hits Terbaru di Bali! Holywings Wellness Club Resmi Buka, Hadirkan Gym dengan Pemandangan Laut, Ice Bath, Sauna, dan Pengalaman Healing All-in-One
+# Spot Hits Terbaru di Bali! Holywings Wellness Club Resmi Buka, Hadirkan Pengalaman Healing One-Stop dengan Gym Pemandangan Laut, Ice Bath, dan Sauna
 
-Belakangan ini, banyak orang yang liburan ke Bali nggak cuma buat santai-santai doang, tapi juga buat ngejar gaya hidup baru yang namanya 'Wellness Travel' alias traveling sehat.
+Belakangan ini, banyak orang yang liburan ke Bali nggak cuma buat santai-santai doang, tapi juga mencari gaya hidup baru yang namanya 'Wellness Travel'.
 
-Kalau kamu pikir Bali cuma soal SPA, yoga, dan pantai, mungkin kamu perlu update list liburanmu!
+Kalau kamu pikir Bali cuma soal SPA, yoga, dan pantai, mungkin kamu perlu update daftar liburanmu!
 
-Bertempat di dekat Pantai Berawa, **Canggu**, **Holywings Wellness Club (HWC)** resmi buka dengan konsep 'Train. Recover. Socialize.' Dilengkapi gym standar tinggi, latihan HYROX, hot yoga, ice bath, sauna Finlandia, dan area bersantai dengan pemandangan laut. Tempat ini dijuluki sebagai **Wellness Club pertama di Bali yang punya view laut**.
-
-***
-
-## Bukan Sekadar Gym, Tapi Wellness Club yang Bikin Betah Seharian
-
-Berbeda dari gym biasa, Holywings Wellness Club pengen banget jadi ruang hidup yang lengkap. Yang menarik, **Holywings Wellness Club ini masih satu grup dengan Atlas Beach Club yang terkenal, yaitu Holywings Group (HW Group)**. HW Group adalah perusahaan yang bikin Atlas Beach Club, jadi banyak yang nganggep Holywings Wellness Club ini sebagai karya baru dari tim Atlas Beach Club yang merambah ke dunia kesehatan (Wellness).
-
-Pas ke sini, kamu bisa atur jadwal harian kayak gini:
-
-- Pagi-pagi jogging di track pinggir laut
-- Lanjut angkat beban atau ikut kelas HYROX
-- Siangnya santap makanan sehat
-- Sore-sore cobain Ice Bath dan kolam air dingin
-- Terus masuk ke sauna Finlandia buat relaksasi otot
-- Terakhir, mampir ke SPA buat pemulihan total
-
-Dari olahraga sampai pemulihan (recovery), semuanya bisa dilakukan di satu tempat — ini adalah model Wellness Club yang lagi populer di Eropa dan Amerika beberapa tahun terakhir.
+Terletak di dekat Pantai Berawa, Canggu, **Holywings Wellness Club (HWC)** resmi dibuka dengan konsep 'Train. Recover. Socialize'. Menggabungkan gym kelas atas, latihan HYROX, hot yoga, ice bath, sauna Finlandia, dan ruang bersantai dengan pemandangan laut, tempat ini diposisikan sebagai **Wellness Club pertama di Bali yang menghadap laut**.
 
 ***
 
-## Sorotan Utama: Sauna & Ice Bath dengan Pemandangan Laut
+## Bukan Sekadar Gym, Tapi Wellness Club yang Bisa Kamu Habiskan Seharian
 
-Belakangan ini, 'ice bath + sauna' jadi topik hangat di kalangan olahraga dan kesehatan global.
+Berbeda dengan gym tradisional, Holywings Wellness Club ingin menciptakan ruang hidup yang lengkap. Yang menarik, **Holywings Wellness Club masih satu grup dengan Atlas Beach Club yang terkenal, yaitu Holywings Group (HW Group)**. HW Group adalah perusahaan yang menciptakan Atlas Beach Club, jadi nggak heran banyak traveler menganggap Holywings Wellness Club sebagai karya baru dari tim Atlas Beach Club yang merambah pasar kesehatan (Wellness).
 
-Holywings Wellness Club juga menghadirkan pengalaman ini di Bali, dengan fasilitas:
+Sampai di sini, kamu bisa atur jadwal satu hari penuh:
 
-- Ice Bath
-- Cold Plunge (kolam air dingin)
-- Oceanfront Sauna (sauna dengan pemandangan laut)
-- Aufguss (ritual sauna ala Jerman)
-- SPA relaxation treatment
+- Pagi-pagi jogging di track pemandangan laut
+- Lanjut latihan beban atau kelas HYROX
+- Siangnya nikmatin makanan sehat
+- Sore-sore coba Ice Bath dan kolam air dingin
+- Terus masuk sauna Finlandia buat relaksasi otot
+- Terakhir ke SPA buat pemulihan total
 
-Yang paling menarik perhatian adalah ruang sauna yang menghadap ke garis pantai. Setelah rileks di suhu panas, kamu bisa langsung masuk ke ice bath untuk sensasi kontras panas-dingin yang kuat. Menurut pihak klub, fasilitas pemulihan ini dirancang untuk relaksasi dan pemulihan setelah olahraga.
+Dari olahraga sampai pemulihan (Recovery), semuanya bisa dilakukan di satu tempat. Ini juga model Wellness Club yang lagi populer di Eropa dan Amerika belakangan ini.
 
 ***
 
-## HYROX, Boxing, Hot Pilates — Semua Bisa Dicoba
+## Highlight Utama: Sauna & Ice Bath dengan Pemandangan Laut
 
-Selain area pemulihan, tempat ini juga surga buat para pecinta olahraga.
+Beberapa tahun terakhir, 'Ice Bath + Sauna' jadi topik hangat di kalangan olahraga dan kesehatan global.
 
-Tersedia berbagai kelas populer, termasuk:
+Holywings Wellness Club juga menghadirkan pengalaman ini ke Bali, dengan menyediakan:
 
-- HYROX Training
+- Ice Bath (Mandi Air Es)
+- Cold Plunge 冷水池
+- Oceanfront Sauna 海景桑拿
+- Aufguss 德式桑拿儀式
+- Perawatan relaksasi SPA
+
+Yang paling menarik perhatian adalah ruang sauna yang menghadap ke garis pantai. Setelah rileks di suhu tinggi, kamu bisa langsung masuk ke ice bath untuk menurunkan suhu tubuh, menciptakan kontras panas-dingin yang kuat. Pihak resmi menyebutkan, fasilitas pemulihan ini terutama digunakan untuk relaksasi dan pemulihan setelah olahraga.
+
+***
+
+## HYROX, Tinju, Hot Pilates — Semua Terpenuhi
+
+Selain area pemulihan, tempat ini juga surga bagi para pecinta olahraga.
+
+Di dalam tempat ini tersedia berbagai kelas populer, antara lain:
+
+- Latihan HYROX
 - Functional Training
 - Boxing
 - Hot Pilates
 - Hot Yoga
 - Strength Training
 
-Belakangan ini HYROX berkembang pesat di seluruh dunia, menggabungkan lari dengan latihan fungsional. Banyak digital nomads dan pecinta fitness yang tinggal lama di Bali sudah menjadikan jenis latihan ini sebagai bagian dari rutinitas sehari-hari.
+Belakangan ini HYROX berkembang pesat di seluruh dunia, menggabungkan lari dengan latihan fungsional. Banyak digital nomad dan pecinta fitness yang tinggal lama di Bali menjadikan jenis latihan ini sebagai bagian dari rutinitas sehari-hari.
 
 https://www.instagram.com/reel/DbXWh9iTb57/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
 ***
 
-## Lokasinya di Canggu, Berawa
+## Lokasinya di Canggu Berawa
 
-Holywings Wellness Club berlokasi di:
+Holywings Wellness Club berada di:
 
 **Jl. Pantai Berawa No.88, Tibubeneng, Canggu**
 
 Jarak:
 
-- Sekitar beberapa menit dari Atlas Beach Club
-- Beberapa menit berkendara dari FINNS Beach Club
-- Sekitar 10 menit dari Batu Bolong
-- Sekitar 15–20 menit dari Seminyak
+- Atlas Beach Club sekitar beberapa menit
+- FINNS Beach Club sekitar beberapa menit naik mobil
+- Batu Bolong sekitar 10 menit
+- Seminyak sekitar 15–20 menit
 
-Di sekitarnya banyak kafe, butik hotel, dan coworking space — ini juga salah satu kawasan paling hits di Bali saat ini.
+Di sekitarnya banyak kafe, hotel butik, dan coworking space — ini salah satu kawasan paling hits di Bali sekarang.
 
 ***
 
-## Cocok untuk traveler seperti apa?
+## Cocok buat traveler yang mana?
 
-Kalau gaya traveling kamu termasuk salah satu di bawah ini, wajib banget cobain:
+Kalau gaya traveling kamu cocok sama salah satu di bawah ini, wajib banget dicoba:
 
 - Suka traveling sambil fitness
 - Pengen coba ice bath dan sauna culture
 - Digital nomad yang tinggal lama di Bali
 - Peduli sama gaya hidup sehat
-- Mau tetap olahraga meski lagi jalan-jalan
+- Mau tetap olahraga selama liburan
 
-Meski bukan pecinta gym sejati, kamu tetap bisa datang buat nikmatin fasilitas recovery dan dapetin pengalaman Wellness yang beda dari SPA biasa.
+Bahkan kalau bukan pecinta gym berat, kamu tetap bisa nikmatin fasilitas recovery-nya dan dapet pengalaman Wellness yang beda dari SPA biasa.
 
 ***
 
 ## Worth it nggak sih masukin ke itinerary Bali kamu?
 
-Dulu kalau dengar Holywings, kebanyakan orang langsung inget brand F&B dan nightlife. Sekarang mereka bikin Wellness Club, ini juga nunjukin kalau pariwisata Bali makin berkembang ke arah yang lebih variatif.
+Dulu kalau dengar Holywings, kebanyakan orang langsung kepikiran brand kuliner dan nightlife. Sekarang mereka meluncurkan Wellness Club, ini juga nunjukin kalau pariwisata Bali makin berkembang ke arah yang lebih variatif.
 
-Kalau itinerary kamu ada di area Canggu, Seminyak, atau Berawa, dan pengen coba aktivitas baru selain pantai dan kafe, boleh banget masukin Holywings Wellness Club ke daftar.
+Kalau itinerary kamu ada di area Canggu, Seminyak, atau Berawa, dan pengen coba aktivitas baru selain pantai dan ngopi, wajib banget masukin Holywings Wellness Club ke list.
 
-Baik itu lari pagi, gym, ice bath, sauna, atau sekadar santai sambil lihat laut, semua bisa bikin liburan Bali kamu terasa beda ritmenya.
+Mau lari pagi, gym, ice bath, sauna, atau sekadar santai sambil lihat laut — semuanya bisa bikin liburan Bali kamu terasa beda vibes-nya.
+
+> Tiket promo Holywings Wellness Club: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1399497&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F230715-holywings-wellness-club-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3295e34a96)
 
 {{block:canggu}}
 
 ***
 
-## Pertanyaan Umum (FAQ)
+## Pertanyaan yang Sering Ditanyakan (FAQ)
 
-### Holywings Wellness Club di mana?
+### Di mana lokasi Holywings Wellness Club?
 
-Lokasinya di area Berawa, Canggu, Bali. Alamat lengkapnya Jl. Pantai Berawa No.88, dekat Atlas Beach Club.
+Berada di area Berawa, Canggu, Bali. Alamat lengkapnya Jl. Pantai Berawa No.88, dekat dengan Atlas Beach Club.
 
-### Bisa dipakai tamu biasa?
+### Apakah bisa dipakai oleh wisatawan biasa?
 
-Pihak resmi menyediakan paket experience sekali pakai, kelas, dan membership. Untuk konten dan harga terbaru, disarankan cek langsung di website resmi.
+Pihak resmi menyediakan paket single visit, kelas, dan membership. Untuk detail konten dan harga terbaru, sebaiknya cek info resmi langsung dari mereka.
 
-### Ada fasilitas apa aja?
+### Ada fasilitas apa aja sih?
 
-Termasuk gym, HYROX, boxing, Hot Pilates, Hot Yoga, ice bath, cold plunge pool, sauna, ritual sauna Aufguss, SPA, dan jogging track dengan pemandangan laut.
+Mulai dari gym, HYROX, boxing, Hot Pilates, Hot Yoga, ice bath, cold plunge pool, sauna, ritual Aufguss sauna, SPA, sampai jogging track dengan pemandangan laut. Lengkap banget!
 
 ### Cocok buat yang pertama kali coba ice bath?
 
-Selain kelas olahraga, tempat ini juga punya area recovery. Pemula bisa pilih pengalaman sesuai kondisi masing-masing, kalau perlu bisa konsultasi sama instruktur atau staf di lokasi.
+Selain kelas olahraga, tempat ini juga punya area recovery. Buat pemula, kamu bisa pilih pengalaman yang sesuai kondisi sendiri. Kalau ragu, tinggal tanya aja sama instruktur atau staf di lokasi.
+
+> Tiket promo Holywinga Wellness Club: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1399497&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F230715-holywings-wellness-club-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3295e34a96)
 
 {{block:戶外}}

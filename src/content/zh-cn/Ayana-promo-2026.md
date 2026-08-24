@@ -1,14 +1,14 @@
 ---
-title: ⭐⭐ 【本站独家】AYANA Resort Bali 优惠｜巴厘岛阿雅娜度假村 USD$188 起⭐⭐
+title: ⭐⭐ 【本站独家】AYANA Resort Bali 优惠｜巴厘岛阿雅娜度假村 USD$220 起⭐⭐
 slug: Ayana-promo-2026
 description: >-
-  本站独家推出 AYANA Resort Bali 限时优惠，每晚 USD$188 起（含税），入住阿雅娜度假村享双人早餐与 Rock Bar
+  本站独家推出 AYANA Resort Bali 限时优惠，每晚 USD$220 起（含税），入住阿雅娜度假村享双人早餐与 Rock Bar
   优先预约资格。入住有效期至 2027 年 11 月 30 日，房价依入住日期浮动，立即咨询最新优惠。
 pubDate: 2026-07-11T00:00:00.000Z
 pubHour: 7
 category:
-  - 美食景點活動
   - 住宿推薦
+  - 套裝行程
 tags:
   - AYANA Resort Bali
   - 阿雅娜度假村
@@ -21,18 +21,21 @@ tags:
   - 峇里島度假村推薦
   - 峇里島飯店優惠
 heroImage: 'https://images.gobaligo.id/images/2026-07/1783648570714-ayana5833.jpg'
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-07-12T00:00:00.000Z
+updatedDate: 2026-08-24T00:00:00.000Z
 lang: zh-cn
-_srcHash: 1631ab881eba74183237c02050161685
+_srcHash: 26ef815efa14108b1154ea9f3d870fed
 ---
 
 想入住巴厘岛最具代表性的五星级度假村，现在就是最佳时机！
 
-**本站独家推出 AYANA Resort Bali（阿雅娜度假村）限时优惠**，每晚 **USD$188 起（含税）**，除了享有超值房价，还包含双人早餐及热门 **Rock Bar 优先预约资格**，让你用更优惠的价格入住世界级度假天堂。
+**本站独家推出 AYANA Resort Bali（阿雅娜度假村）限时优惠**，每晚 **USD$220 起（含税，原$188已售完）**，除了享有超值房价，还包含双人早餐及热门 Rock Bar 优先预约资格，2027连假、暑假都还有$220房型喔！让你用更优惠的价格入住世界级度假天堂。
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783680661852-22701036.jpg)
 
@@ -54,9 +57,9 @@ _srcHash: 1631ab881eba74183237c02050161685
 
 ## 本站独家优惠内容
 
-- **每晚 USD$188 起（含税）**
+- **每晚 USD$220 起（含税）**
 - **每日双人早餐**
-- **Rock Bar 优先预订权（16:00–17:00）**，轻松占位欣赏巴厘岛最美夕阳
+- **Rock Bar 优先预订权（16:00–17:00）**，轻松卡位欣赏巴厘岛最美夕阳
 - 房价已含税，免去现场额外支付税金
 
 ## 订购与入住期间
@@ -65,7 +68,7 @@ _srcHash: 1631ab881eba74183237c02050161685
 即日起至 **2026 年 11 月 30 日**（数量有限，售完为止）。
 
 **入住期限**
-即日起至 **2027 年 11 月 30 日**，超长有效期，跨年/连假提早占位！！
+即日起至 **2027 年 11 月 30 日**，超长有效期，跨年/连假提早占位!!
 
 可提早安排寒暑假、跨年及连续假期。
 
@@ -95,7 +98,7 @@ _srcHash: 1631ab881eba74183237c02050161685
 
 - 本优惠需连续入住 **2 晚（含）以上**。
 - **房价会依入住日期、季节及房况而有所调整，实际售价请以订房报价为准。**
-- 连续假期、旺季及特殊房型价格可能有所不同，请联系客服确认最新优惠。
+- 连续假期、旺季及特殊房型价格可能有所不同，请洽客服确认最新优惠。
 - 本专案属优惠价，订购完成后恕不可更改、取消或退款。
 - 优惠名额有限，售完即提前结束。
 
@@ -117,11 +120,11 @@ AYANA Resort 是巴厘岛最受欢迎的五星级度假村之一，拥有私人�
 
 ![raw-image](https://images.gobaligo.id/images/2026-07/1783681096008-spa-on-the-rock.jpeg)
 
-想更了解 Ayana 请参考我们的👉[ Ayana 攻略](/zh-cn/blog/ayana-resort-bali-guide/)
+想更了解 Ayana 请参考我们的 👉[ Ayana 攻略](/zh-cn/blog/ayana-resort-bali-guide/)
 
 ## 立即预订本站独家优惠
 
-如果你正在寻找 **巴厘岛 AYANA Resort 优惠、阿雅娜度假村优惠、巴厘岛五星级酒店推荐**，这次本站独家推出的限时方案绝对值得把握。
+如果你正在寻找 **巴厘岛 AYANA Resort 优惠、阿雅娜度假村优惠、巴厘岛五星级饭店推荐**，这次本站独家推出的限时方案绝对值得把握。
 
 https://www.instagram.com/reel/DJEW_OSzKKW/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 

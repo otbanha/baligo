@@ -4,9 +4,9 @@ title: >-
   Anggota Grup
 slug: bali-drivers-recommendations-2
 description: >-
-  Halaman kedua daftar rekomendasi driver sewa mobil di Bali. Setiap link di
-  bawah nama driver bisa diklik untuk cek postingan asli di grup. Disertai juga
-  info tarif 2026 dan hal yang perlu kamu siapkan saat menghubungi driver.
+  Halaman kedua rekomendasi driver sewa mobil di Bali. Setiap link di bawah nama
+  driver bisa diklik untuk cek postingan asli di grup Facebook. Disertai harga
+  sewa 2026 dan info yang perlu kamu siapkan saat menghubungi driver.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -24,17 +24,17 @@ shuffle_h2: true
 embeds: []
 updatedDate: 2026-08-22T00:00:00.000Z
 lang: id
-_srcHash: PENDING_RETRY_f0a80054cb4c077e31353cf025cb0f26
-_translateAttempts: 2
+_srcHash: f0a80054cb4c077e31353cf025cb0f26
+_translateIncomplete: true
 ---
 
 Update: 10/08/2026
 
-**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, fokus pada driver yang bisa komunikasi pakai bahasa Mandarin. Ada **19 driver dan 258 review perjalanan** yang ditulis langsung anggota grup Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk cek.
+**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, fokus pada driver yang bisa komunikasi pakai bahasa Mandarin. Ada **19 driver, 258 review perjalanan** yang diposting langsung oleh anggota grup di Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk cek.
 
-Tarif sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, wilayah selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Info biaya tambahan antar zona, hitungan lembur, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
+Harga sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan lintas zona, hitungan overtime, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
 
-> Saat menghubungi driver, tolong jelaskan sekaligus: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & antar, tempat wisata yang mau dikunjungi**. Tanyakan juga total harga termasuk biaya tambahan antar zona. ⚠️ Untuk Line, kalau beda zona nggak bisa pakai ID, harus **scan QR Code**.
+> Saat menghubungi driver, tolong jelaskan sekaligus: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & antar, tempat wisata yang mau dikunjungi**. Tanyakan juga total harga termasuk biaya lintas zona. ⚠️ Untuk Line, kalau beda zona gak bisa pakai ID — harus **scan QR Code**.
 
 **👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver yang bisa bahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
 
@@ -116,7 +116,7 @@ Urutan **bukan peringkat**,
 
 👍🏼[Rekomendasi netizen 1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[Rekomendasi netizen 4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[Rekomendasi netizen 8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[Rekomendasi netizen 9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[Rekomendasi netizen 10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[Rekomendasi netizen 11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[Rekomendasi netizen 12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[Rekomendasi netizen 13](https://www.facebook.com/share/p/1FWDiN8vP8/)
 
-## Iwayan Suantara (Kang Ge)
+## Iwayan Suantara 康哥
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
@@ -158,7 +158,7 @@ Urutan **bukan peringkat**,
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍 **5 testimoni langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍 **5 review langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 

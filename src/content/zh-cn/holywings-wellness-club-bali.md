@@ -28,13 +28,14 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-08-24T00:00:00.000Z
 lang: zh-cn
-_srcHash: 03f23da2ef3cac2738dbdea9f9d88209
+_srcHash: 68875c395dca8e9967d8b4aebb772063
 ---
 
 # 巴厘岛最新打卡热点！Holywings Wellness Club 开业，打造海景健身、冰浴、桑拿一站式疗愈体验
 
-近年来，很多人到巴厘岛旅游，已经不只是放松度假，而是追求「健康旅行（Wellness Travel）」的新生活方式。
+近年来，许多人到巴厘岛旅游，已经不只是放松度假，而是追求「健康旅行（Wellness Travel）」的新生活方式。
 
 如果你以为巴厘岛只有SPA、瑜伽和海滩，那你可能要更新一下旅游清单了！
 
@@ -50,7 +51,7 @@ _srcHash: 03f23da2ef3cac2738dbdea9f9d88209
 
 - 早上在海景跑道慢跑
 - 接着进行重量训练或HYROX课程
-- 中午享用健康餐点
+- 中午享受健康餐点
 - 下午体验冰浴（Ice Bath）与冷水池
 - 再进入芬兰桑拿放松肌肉
 - 最后到SPA做完整恢复
@@ -61,9 +62,9 @@ _srcHash: 03f23da2ef3cac2738dbdea9f9d88209
 
 ## 最大亮点：面海桑拿与冰浴
 
-近几年，「冰浴+桑拿」成为全球运动圈与健康圈热门话题。
+近几年来，「冰浴+桑拿」成为全球运动圈与健康圈热门话题。
 
-Holywings Wellness Club 也把这项体验搬到了巴厘岛，规划了：
+Holywings Wellness Club 也把这套体验搬到了巴厘岛，规划了：
 
 - Ice Bath 冰浴
 - Cold Plunge 冷水池
@@ -88,7 +89,7 @@ Holywings Wellness Club 也把这项体验搬到了巴厘岛，规划了：
 - Hot Yoga
 - Strength Training
 
-近年来 HYROX 在全球快速成长，结合跑步与功能性训练，许多到巴厘岛长住的数字游民（Digital Nomads）与健身爱好者，都将这类训练纳入日常生活。
+近年来 HYROX 在全球快速成长，结合跑步与功能性训练，许多到巴厘岛长住的数字游牧族（Digital Nomads）与健身爱好者，都将这类训练纳入日常生活。
 
 https://www.instagram.com/reel/DbXWh9iTb57/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
@@ -107,7 +108,7 @@ Holywings Wellness Club 位于：
 - Batu Bolong 约 10 分钟
 - 水明漾（Seminyak）约 15～20 分钟
 
-附近聚集了许多咖啡馆、精品酒店与共享工作空间，也是目前巴厘岛最热门的生活圈之一。
+附近聚集许多咖啡馆、精品酒店与共享工作空间，也是目前巴厘岛最热门的生活圈之一。
 
 ***
 
@@ -117,11 +118,11 @@ Holywings Wellness Club 位于：
 
 - 喜欢健身旅行
 - 想体验冰浴与桑拿文化
-- 长住巴厘岛的数字游牧族
+- 长住巴厘岛的数码游牧族
 - 重视健康生活方式
 - 希望旅途中也能维持运动习惯
 
-即使不是重度健身爱好者，也可以单纯来享受恢复设施，感受不同于一般 SPA 的 Wellness 体验。
+即使不是重度健身爱好者，也可以单纯来享受恢复设施，感受不同于一般SPA的健康体验。
 
 ***
 
@@ -132,6 +133,8 @@ Holywings Wellness Club 位于：
 如果你的行程安排在坎古、水明漾或贝拉瓦（Berawa）一带，想体验除了海滩、咖啡厅之外的新玩法，不妨把 Holywings Wellness Club 纳入清单。
 
 无论是晨跑、健身、冰浴、桑拿，或只是享受面海放松时光，都能让你的巴厘岛之旅增添另一种节奏。
+
+> Holywinga Wellness Club 优惠票： [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1399497&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F230715-holywings-wellness-club-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3295e34a96)
 
 {{block:canggu}}
 
@@ -154,5 +157,7 @@ Holywings Wellness Club 位于：
 ### 适合第一次体验冰浴的人吗？
 
 馆内除了运动课程，也提供恢复区，初学者可依照自身状况选择适合的体验方式，必要时可向现场教练或工作人员咨询。
+
+> Holywinga Wellness Club 优惠票： [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1399497&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F230715-holywings-wellness-club-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3295e34a96)
 
 {{block:戶外}}
