@@ -112,7 +112,7 @@ Update: 2026/08/10
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[網友推薦8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[網友推薦9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[網友推薦10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[網友推薦12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/17TuGZieHU/)
+👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[網友推薦8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[網友推薦9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[網友推薦10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[網友推薦12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/17TuGZieHU/) 👍🏼[網友推薦21](https://www.facebook.com/share/p/1Ek8scVhnF/)
 
 ## Kadek Puri
 
@@ -156,7 +156,7 @@ Update: 2026/08/10
 
 {{block:包車}}
 
-## **（中文司機）Yoga Setiawan**
+## **Yoga Setiawan**
 
 ![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
 
@@ -167,6 +167,12 @@ Update: 2026/08/10
 ![](https://images.gobaligo.id/vocus/vocus_b7880431d7ebd0564f47b379a0e30127.png)
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/STuNxqR73ZZFPK2u/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/Xm5jTtnPQPBo6oqG/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/KJwUVWbP99bC7Wnw/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/Rv5XSyAEKuedtWi6/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/RDyarvBUSycxdh3y/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/Xsfw3sEeD7u4Nngu/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15aJF3dLmK/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/16HTnwHGFi/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ABia4u9MD/) 👍🏼[網友推薦10](https://www.facebook.com/share/v/1BoUyc4YfZ/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1QLAmoxkox/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/19XBo22eSd/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1Ceax3HyFr/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1AAVGjw14V/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/185JM5bBCA/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1BJni5S98k/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1KZ89irDsf/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/19J6zyoa3B/)
+
+Amy Utama
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
+
+👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)
 
 ***
 
