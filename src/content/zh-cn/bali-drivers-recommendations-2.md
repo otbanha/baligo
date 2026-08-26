@@ -1,7 +1,7 @@
 ---
-title: 巴厘岛包车司机推荐名单（第二页）｜社团真实分享
+title: 巴厘岛包车司机推荐名单（第二页）｜社群真实分享
 slug: bali-drivers-recommendations-2
-description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
+description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社群贴文。附 2026 包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,14 +17,14 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-22T00:00:00.000Z
+updatedDate: 2026-08-26T00:00:00.000Z
 lang: zh-cn
-_srcHash: f0a80054cb4c077e31353cf025cb0f26
+_srcHash: 49dee9fd5cac1bb2eb84e506e9b6c8db
 ---
 
 Update: 2026/08/10
 
-**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，以可中文沟通的司机为主，收录 **19 位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
+**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，以可中文沟通的司机为主，收录 **19 位司机、258 则团友在脸书社群自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
 
 包车行情约 **Rp 600,000–800,000／10 小时／五人座**（算车不算人头，乌布以南），2026 年 7 月 1 日起另加油费补贴（半天 Rp 50,000、整天 Rp 100,000）。跨区加价、超时费算法与预约流程，都整理在[第一页](/zh-cn/blog/bali-private-car-drivers-guide/)。
 
@@ -114,7 +114,7 @@ Update: 2026/08/10
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[网友推荐12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/17TuGZieHU/)
+👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[网友推荐12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/17TuGZieHU/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/1Ek8scVhnF/)
 
 ## Kadek Puri
 
@@ -158,7 +158,7 @@ Update: 2026/08/10
 
 {{block:包車}}
 
-## **（中文司机）Yoga Setiawan**
+## **Yoga Setiawan**
 
 ![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
 
@@ -169,6 +169,12 @@ Update: 2026/08/10
 ![](https://images.gobaligo.id/vocus/vocus_b7880431d7ebd0564f47b379a0e30127.png)
 
 👍🏼[网友推荐1](https://www.facebook.com/share/p/STuNxqR73ZZFPK2u/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/Xm5jTtnPQPBo6oqG/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/KJwUVWbP99bC7Wnw/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/Rv5XSyAEKuedtWi6/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/RDyarvBUSycxdh3y/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/Xsfw3sEeD7u4Nngu/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/15aJF3dLmK/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/16HTnwHGFi/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1ABia4u9MD/) 👍🏼[网友推荐10](https://www.facebook.com/share/v/1BoUyc4YfZ/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1QLAmoxkox/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/19XBo22eSd/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1Ceax3HyFr/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1AAVGjw14V/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/185JM5bBCA/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1BJni5S98k/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1KZ89irDsf/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/19J6zyoa3B/)
+
+Amy Utama
+
+![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
+
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/19QSZ8VTs3/)
 
 ***
 
