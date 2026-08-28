@@ -310,4 +310,6 @@ US$800左右，可以搵有共用泳池嘅一般公寓；如果願意提高到US
 
 > [峇里島獨旅建議：一個人嘅天堂，都可以好精彩](https://gobaligo.id/zh-hk/blog/bali-solo-travel-guide/)
 
+> [🌺 一個人闖峇里島8日 - 女仔獨遊體驗分享 🌺](https://gobaligo.id/zh-hk/blog/bali-solo-female-travel/)
+
 {{block:klook}}

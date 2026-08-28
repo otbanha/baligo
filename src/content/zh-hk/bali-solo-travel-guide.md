@@ -151,6 +151,8 @@ https://youtu.be/hQbBTktqEqY
 ![七、最後的提醒：放慢步調](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
 > 獨遊記參考：[🌺 獨自闖蕩峇里島8日 - 女子獨旅體驗分享 🌺](/zh-hk/blog/bali-solo-female-travel/)
+>
+> 預算參考：[峇里島一個月生活費幾多？獨旅預算完整分析](/zh-hk/blog/solo-expense-a-month/)
 
 ***
 
