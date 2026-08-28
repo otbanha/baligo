@@ -1,10 +1,10 @@
 ---
-slug: ubud-hot-air-balloon-agung-view
 title: 【巴厘岛亲子必玩】乌布热气球初体验：高空俯瞰阿贡火山、稻田美景与预约注意事项
+slug: ubud-hot-air-balloon-agung-view
 description: >-
   在巴厘岛也能飞上天！深度开箱乌布热气球体验：从清晨的第一道曙光到俯瞰壮丽的阿贡火山与翠绿梯田。本篇分享带着孩子参与热气球真实心得、安全须知以及如何捕捉最美的高空全景。带领全家人在乌布的上空，完成一场浪漫又震撼的飞行梦想。
 pubDate: 2025-04-18T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+pubHour: null
 category:
   - 美食景點活動
 tags:
@@ -19,15 +19,20 @@ tags:
   - Ubud Hot Air Balloon review Bali
   - Best sunrise experience in Ubud Bali
 heroImage: 'https://images.gobaligo.id/vocus/vocus_451c30fd114d22e6e4d07d69cd30cc40.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/680240b2fd89780001ec0df1'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-08-27T00:00:00.000Z
 lang: zh-cn
-_srcHash: c2f8cb1fad6a8fd9b1a899a1decd0cf8
+_srcHash: da51f99157411ac60038d1bac8eec88f
 ---
+
 ![【峇里島親子必玩】烏布熱氣球初體驗：高空俯瞰阿貢火山、稻田美景與預約注意事項](https://images.gobaligo.id/vocus/vocus_6ed4e23babe897f0039aae5be80a2e83.jpg)
 
 ## **巴厘岛乌布热气球之旅：一家三口的梦幻空中约会**
 
-**先讲结论**：乌布热气球体验可从高空俯瞰**阿贡火山与翠绿梯田**，建议清晨出发捕捉第一道曙光，适合带 5 岁以上小孩的亲子家庭安排浪漫又震撼的空中行程，出发前务必详阅业者安全须知并提前预约热门时段。
+**先说结论**：乌布热气球体验可从高空俯瞰**阿贡火山与翠绿梯田**，建议清晨出发捕捉第一道曙光，适合带5岁以上小孩的亲子家庭安排浪漫又震撼的空中行程，出发前务必详阅业者安全须知并提前预约热门时段。
 
 「妈妈，我们真的要飞上天吗？」5岁的小宝紧紧抓着我的衣角，眼睛却闪着兴奋的光芒。老公在一旁笑着调整相机：「放心，爸爸会保护你。」这是我们一家三口在巴厘岛最特别的冒险——乌布热气球初体验。
 
@@ -56,8 +61,8 @@ _srcHash: c2f8cb1fad6a8fd9b1a899a1decd0cf8
 ## **专属家庭的贴心服务**
 
 - **儿童友善**：工作人员会特别为小朋友讲解热气球原理，飞行结束后还颁发「小小飞行员证书」，小宝骄傲地举着它拍了十几张照片。
-- **全家福拍摄**：随行摄影师捕捉了我们空中相拥的瞬间。
-- **美味晚餐**：新加坡主厨特制的儿童餐让挑食的小宝吃得津津有味，我和老公则享用了融合当地风味的浪漫烛光晚餐。
+- **全家福拍摄**：随行摄影师捕捉了我们在空中相拥的瞬间。
+- **美味晚餐**：新加坡主厨特制的儿童餐让挑食的小宝吃得津津有味，我和老公则享受了融合当地风味的浪漫烛光晚餐。
 
 ## **温馨小提醒**
 
@@ -75,9 +80,9 @@ _srcHash: c2f8cb1fad6a8fd9b1a899a1decd0cf8
 
 ✓ 渴望不同视角欣赏乌布的家庭
 
-下次家庭旅行，不妨把这项独特体验排进行程，创造属于你们的空中回忆！
+下次家庭旅行，不妨把这独特体验排进行程，创造属于你们的空中回忆！
 
-**✨**预约/参加我们的[乌布热气球行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16274-hot-air-balloon-experience-meals-tanah-gajah-ubud%2F)
+> ✨预约/参加我们的[乌布热气球行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16274-hot-air-balloon-experience-meals-tanah-gajah-ubud%2F)
 
 ###
 
