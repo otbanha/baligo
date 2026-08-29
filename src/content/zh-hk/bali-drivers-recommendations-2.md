@@ -17,18 +17,18 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-26T00:00:00.000Z
+updatedDate: 2026-08-28T00:00:00.000Z
 lang: zh-hk
-_srcHash: 49dee9fd5cac1bb2eb84e506e9b6c8db
+_srcHash: 3d6976393eddd577ba2e80dec69e3ade
 ---
 
 Update: 2026/08/10
 
-**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，主力係可以用中文溝通嘅司機，收錄咗 **19 位司機、258 則團友喺 Facebook 社團自己出嘅搭車分享**。每個司機底下嗰排數字都係原始貼文連結，可以自己㩒入去查證。
+**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，以可以用中文溝通嘅司機為主，收錄咗 **19 位司機、258 則團友喺 Facebook 社團自己出嘅搭車分享**。每個司機底下嗰排數字都係原始貼文連結，可以自己㩒入去查證。
 
-包車行情大約 **Rp 600,000–800,000／10 個鐘／五人車**（計車唔計人頭，烏布以南），2026 年 7 月 1 號開始另加燃油補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加價、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
+包車行情大約 **Rp 600,000–800,000／10 個鐘／五人座**（計車唔計人頭，烏布以南），2026 年 7 月 1 號開始另加油費補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加價、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
 
-> 聯絡司機嘅時候請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，同埋問清楚包埋跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
+> 聯絡司機嗰陣請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，仲要問清楚包埋跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
 
 **👉 第一頁仲有另外 24 位司機（包括 9 位中文司機）：**[**峇里島包車司機推薦名單（第一頁）**](/zh-hk/blog/bali-private-car-drivers-guide/)
 
@@ -54,7 +54,7 @@ Update: 2026/08/10
 
 ![Any 安妮](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/t1AjzrpojJZJ6TrX/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/Q2VierKidpryTDSb/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/pjH5Gy6bA8ieUDoi/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/qyrihKgNQskXH3T6/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/c1gpCbdRC2ZovPC2/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/FGK8VhmKjqcFHGwr/) 👍🏼[網友推薦7](https://www.facebook.com/share/18KnP7ogYk/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/mApJVCx8yfdMP6hm/) 👍🏼[網友推薦9](https://www.facebook.com/share/r/1G6NPpGQU9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1P8yNWzcQY/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18N1R1pSCT/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1Fth5Xxn6V/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1YizNyLiLL/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1Bi98GVdS6/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/12HbHNrnvBw/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1Tb4KRhLgh/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1AL5MUeHvV/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/1BK94sYKiU/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1AAScdQHZf/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1KGKcTamcm/) 👍🏼[網友推薦21](https://www.facebook.com/share/p/15guC2dRgi/) 👍🏼[網友推薦22](https://www.facebook.com/share/p/19wqbfjdUv/) 👍🏼[網友推薦23](https://www.facebook.com/share/p/1AR5GKUhSg/) 👍🏼[網友推薦24](https://www.facebook.com/share/p/17GW1ayfXM/) 👍🏼[網友推薦25](https://www.facebook.com/share/p/17LNUJpCMX/) 👍🏼[網友推薦26](https://www.facebook.com/share/p/1bDL3oTt2b/) 👍🏼[網友推薦27](https://www.facebook.com/share/p/1C9Rb9RNm4/) 👍🏼[網友推薦28](https://www.facebook.com/share/p/1Y7NeH7oNR/) 👍🏼[網友推薦29](https://www.facebook.com/share/p/17KBZXdjgu/) 👍🏼[網友推薦30](https://www.facebook.com/share/p/1PFrbGwotJ/) 👍🏼[網友推薦31](https://www.facebook.com/share/p/1H8guy4e6V/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/t1AjzrpojJZJ6TrX/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/Q2VierKidpryTDSb/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/pjH5Gy6bA8ieUDoi/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/qyrihKgNQskXH3T6/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/c1gpCbdRC2ZovPC2/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/FGK8VhmKjqcFHGwr/) 👍🏼[網友推薦7](https://www.facebook.com/share/18KnP7ogYk/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/mApJVCx8yfdMP6hm/) 👍🏼[網友推薦9](https://www.facebook.com/share/r/1G6NPpGQU9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1P8yNWzcQY/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18N1R1pSCT/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1Fth5Xxn6V/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1YizNyLiLL/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1Bi98GVdS6/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/12HbHNrnvBw/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1Tb4KRhLgh/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1AL5MUeHvV/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/1BK94sYKiU/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1AAScdQHZf/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1KGKcTamcm/) 👍🏼[網友推薦21](https://www.facebook.com/share/p/15guC2dRgi/) 👍🏼[網友推薦22](https://www.facebook.com/share/p/19wqbfjdUv/) 👍🏼[網友推薦23](https://www.facebook.com/share/p/1AR5GKUhSg/) 👍🏼[網友推薦24](https://www.facebook.com/share/p/17GW1ayfXM/) 👍🏼[網友推薦25](https://www.facebook.com/share/p/17LNUJpCMX/) 👍🏼[網友推薦26](https://www.facebook.com/share/p/1bDL3oTt2b/) 👍🏼[網友推薦27](https://www.facebook.com/share/p/1C9Rb9RNm4/) 👍🏼[網友推薦28](https://www.facebook.com/share/p/1Y7NeH7oNR/) 👍🏼[網友推薦29](https://www.facebook.com/share/p/17KBZXdjgu/) 👍🏼[網友推薦30](https://www.facebook.com/share/p/1PFrbGwotJ/) 👍🏼[網友推薦31](https://www.facebook.com/share/p/1H8guy4e6V/) 👍🏼[網友推薦32](https://www.facebook.com/share/p/1EpsT7jr8D/)
 
 ## Komang WikaSutresna
 
@@ -108,7 +108,7 @@ Update: 2026/08/10
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FWDiN8vP8/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19aDki14Zu/)
 
 ## Iwayan Suantara 康哥
 
@@ -180,6 +180,6 @@ Amy Utama
 
 <!-- no-shuffle -->
 
-👈 **返去峇里島自由行終極指南**
+👈 **返到峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
