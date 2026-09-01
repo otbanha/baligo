@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島 ATM 提款機 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-08-01 | 總計 524 台</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-09-01 | 總計 526 台</description>
     <Folder>
       <name>BCA</name>
       <Placemark>
@@ -1007,7 +1007,7 @@
         <name>Mandiri</name>
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/14061702832" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2592025,-8.7049394,0</coordinates>
+          <coordinates>115.2591797,-8.704958,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -2162,6 +2162,20 @@
         <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/13834666148" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.5635174,-8.5077224,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATM BRI</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/14074041722" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.229227,-8.7111156,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ATM BRI</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/14087605463" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3070707,-8.4337323,0</coordinates>
         </Point>
       </Placemark>
     </Folder>

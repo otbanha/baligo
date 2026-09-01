@@ -467,6 +467,7 @@
     "lon": 115.2629173,
     "tags": {
       "amenity": "atm",
+      "check_date": "2026-08-13",
       "operator": "Danamon Bank"
     }
   },
@@ -6639,11 +6640,31 @@
   {
     "type": "node",
     "id": 14061702832,
-    "lat": -8.7049394,
-    "lon": 115.2592025,
+    "lat": -8.704958,
+    "lon": 115.2591797,
     "tags": {
       "amenity": "atm",
       "operator": "Mandiri"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14074041722,
+    "lat": -8.7111156,
+    "lon": 115.229227,
+    "tags": {
+      "amenity": "atm",
+      "name": "ATM BRI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14087605463,
+    "lat": -8.4337323,
+    "lon": 115.3070707,
+    "tags": {
+      "amenity": "atm",
+      "name": "ATM BRI"
     }
   }
 ]
