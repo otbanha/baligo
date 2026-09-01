@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島醫院 / 診所 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-08-01 | 總計 214 筆</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-09-01 | 總計 215 筆</description>
     <Folder>
       <name>國際醫院</name>
       <Placemark>
@@ -154,8 +154,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Siloam Hospital</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/way/1029920304" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Rumah Sakit Siloam Denpasar</name>
+        <description><![CDATA[🏥 Siloam Hospital Denpasar<br>📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/way/1029920304" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1851659,-8.7151623,0</coordinates>
         </Point>
@@ -685,7 +685,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>RSU Surya Husadha</name>
+        <name>Rumah Sakit Umum Surya Husadha Nusa Dua</name>
         <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/1027411862" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.21741,-8.804274,0</coordinates>
@@ -1129,6 +1129,13 @@
         <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13542381812" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1357639,-8.6508295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Busungbiu II</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/14081853102" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.937409,-8.316449,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>

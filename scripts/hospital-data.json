@@ -1309,6 +1309,23 @@
     }
   },
   {
+    "type": "node",
+    "id": 14081853102,
+    "lat": -8.316449,
+    "lon": 114.937409,
+    "tags": {
+      "addr:city": "Kabupaten Buleleng",
+      "addr:district": "Busungbiu",
+      "addr:postcode": "81154",
+      "addr:province": "Bali",
+      "addr:subdistrict": "Pucaksari",
+      "amenity": "clinic",
+      "name": "Puskesmas Busungbiu II",
+      "official_name": "Pusat Kesehatan Masyarakat Busungbiu II",
+      "operator:type": "public"
+    }
+  },
+  {
     "type": "way",
     "id": 37374977,
     "center": {
@@ -1759,6 +1776,7 @@
     "tags": {
       "amenity": "clinic",
       "building": "yes",
+      "healthcare": "clinic",
       "name": "Merdeka Medical Centre",
       "source": "Local knowledge",
       "website": "http://mmc-bali.com/"
@@ -4445,7 +4463,8 @@
     "tags": {
       "amenity": "hospital",
       "healthcare": "hospital",
-      "name": "RSU Surya Husadha"
+      "name": "Rumah Sakit Umum Surya Husadha Nusa Dua",
+      "operator": "Surya Husadha Group"
     },
     "lat": -8.804274,
     "lon": 115.21741
@@ -4504,7 +4523,9 @@
     "tags": {
       "amenity": "hospital",
       "healthcare": "hospital",
-      "name": "Siloam Hospital"
+      "name": "Rumah Sakit Siloam Denpasar",
+      "name:en": "Siloam Hospital Denpasar",
+      "name:id": "Rumah Sakit Siloam Denpasar"
     },
     "lat": -8.7151623,
     "lon": 115.1851659
