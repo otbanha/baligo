@@ -1,25 +1,30 @@
 ---
+title: 巴厘岛旅游购物哪里最便宜？巴厘岛购物推荐｜巴厘岛自由行行程｜巴厘岛最大艺术批发市场 Kumbasari Art Market
 slug: kumbasari-art-market-shopping
-title: 巴厘岛旅游购物哪里最便宜？巴厘岛购物推荐｜巴厘岛自由行行程｜巴厘岛最大艺术批发市场 Kumbasri Art Market
 description: >-
   巴厘岛最大的巴厘岛批发艺术市场 Kumbasari Art Market 介绍
   巴厘岛自由行的第二天，我们可是准备好要踏上巴厘岛购物踩点之旅。先说说我们的计划：中午才悠闲地出门，先在巴厘岛司机 Gede Arimbawa
   那时候和老婆开设的小餐馆吃了一顿丰盛的午餐，吃得我们精神奕奕，准备好接下来的冒
-pubDate: '2022-03-03'
-updatedDate: 2026-07-10T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_47c0ea8587ad8770b3f28dd6a4e9d61d.jpg'
+pubDate: 2022-03-03T00:00:00.000Z
+pubHour: null
+category:
+  - 美食景點活動
 tags:
   - 峇里島
   - 藝術市場
   - 批發
   - 市場
   - artmarket
+heroImage: 'https://images.gobaligo.id/vocus/vocus_47c0ea8587ad8770b3f28dd6a4e9d61d.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a9661'
-category:
-  - 美食景點活動
+source: ''
+sourceUrl: ''
+updatedDate: 2026-09-02T00:00:00.000Z
 lang: zh-cn
-_srcHash: 76348b98be30a2c20806782f6b037373
+_srcHash: 34db7df6c8b1b24afeba69b4785ca22c
 ---
+
 ![巴里島旅遊購物哪裡最便宜？巴里島購物推薦｜峇里島自由行行程｜巴里島最大藝術批發市場 Kumbasri Art Marke](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)
 
 **先讲结论**：巴厘岛买纪念品最便宜的地方是登巴萨的 **Kumbasari Art Market**——全岛最大的**批发**艺术市场（批发价比观光区零售便宜一大截），手工艺品、画作、雕塑、服饰通通有，每天营业到**下午 5 点收摊**。顺路可搭配一旁的 Taman Kumbasari 河滨公园与傍晚的 **Pasar Kreneng 夜市**（全岛最大夜市）排成一日购物行程。
@@ -36,4 +41,6 @@ _srcHash: 76348b98be30a2c20806782f6b037373
 
 晚上回到了河滨公园，灯光闪烁，夜景超美！站在这里，看着夜晚的巴厘岛，简直就像进入了梦幻世界一样。
 
-今天这样的行程最令人兴奋的事情就是，我们下面视频介绍的艺术批发市场挖宝挖到了三件超美的女神装！不知道你能不能猜到，这些漂亮的女神装，我们一共花了多少台币呢？这个秘密就留给你来解答啦！要想知道更多有趣的事情，快点点击下面视频，和我们一起探索巴厘岛的精彩吧！
+今天这样的行程最令人兴奋的事情就是，我们下面视频介绍的艺术批发市场挖宝挖到了三件超美的女神装！不知道你能不能猜到，这些漂亮的女神装，我们一共花了多少美金呢？这个秘密就留给你来解答啦！要想知道更多有趣的事情，快点点击下面视频，和我们一起探索巴厘岛的精彩吧！
+
+https://youtu.be/RRurkFC7UG4
