@@ -17,7 +17,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-09-02
+updatedDate: 2026-08-31
 ---
 
 Update: 2026/08/10
@@ -162,17 +162,11 @@ Update: 2026/08/10
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/19Jg1L5WjX/)
 
-## Gede Mahema
-
-![](https://images.gobaligo.id/vocus/vocus_b7880431d7ebd0564f47b379a0e30127.png)
-
-👍🏼[網友推薦1](https://www.facebook.com/share/p/STuNxqR73ZZFPK2u/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/Xm5jTtnPQPBo6oqG/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/KJwUVWbP99bC7Wnw/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/Rv5XSyAEKuedtWi6/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/RDyarvBUSycxdh3y/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/Xsfw3sEeD7u4Nngu/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15aJF3dLmK/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/16HTnwHGFi/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ABia4u9MD/) 👍🏼[網友推薦10](https://www.facebook.com/share/v/1BoUyc4YfZ/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1QLAmoxkox/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/19XBo22eSd/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1Ceax3HyFr/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1AAVGjw14V/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/185JM5bBCA/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1BJni5S98k/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1KZ89irDsf/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/19J6zyoa3B/)
-
-Amy Utama
+## Amy Utama
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/) 
+👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
 ***
 
