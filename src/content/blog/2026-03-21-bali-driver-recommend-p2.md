@@ -17,7 +17,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-09-02
+updatedDate: 2026-08-31
 ---
 
 Update: 2026/08/10
@@ -172,7 +172,7 @@ Amy Utama
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)
+👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/) 
 
 ***
 
