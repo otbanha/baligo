@@ -98,14 +98,25 @@ export async function onRequest({ request, next }) {
   // 日期碼舊網址 → 語意 slug 301（改放 middleware 查表：public/_redirects 有
   // 2,000 條靜態規則上限，超過的會被 Cloudflare Pages 靜默丟棄）。
   // 必須放在 isBot 放行之前，搜尋引擎爬蟲也要吃到 301。
+  //
+  // 查表前先把重複斜線收斂成一個：外部連結常出現 /blog/<slug>// 這種形式，
+  // 原本會因為多一個斜線查不到轉址而變 404（2026-09 GSC 報表中有 8 個）。
+  // 有對應轉址就直接跳最終目標（只跳一次）；沒有的話再把網址導回正規形式。
+  const normalizedPath = pathname.replace(/\/{2,}/g, '/');
   const redirectTarget =
-    redirectMap[pathname] ??
-    (pathname.endsWith('/') ? undefined : redirectMap[pathname + '/']) ??
-    lookupByVocusHex(pathname);
+    redirectMap[normalizedPath] ??
+    (normalizedPath.endsWith('/') ? undefined : redirectMap[normalizedPath + '/']) ??
+    lookupByVocusHex(normalizedPath);
   if (redirectTarget) {
     return new Response(null, {
       status: 301,
       headers: { 'Location': `${url.origin}${redirectTarget}${url.search}` },
+    });
+  }
+  if (normalizedPath !== pathname) {
+    return new Response(null, {
+      status: 301,
+      headers: { 'Location': `${url.origin}${normalizedPath}${url.search}` },
     });
   }
 
