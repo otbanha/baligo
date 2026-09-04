@@ -25,7 +25,6 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 07ade9c222d8b6260cd2c578c333edb2
 _translateIncomplete: true
 ---
 **先講結論**：庫塔住宿唔使死要海景房——行程主力購物、跑景點嘅人，揀 **Kartika Plaza商圈或Kuta Square周邊嘅市區型酒店**最抵（呢篇精選咗10間，首推鬧中取靜嘅Amnaya Resort Kuta）；有紅眼航班或者深夜到埗嘅人，直接住**機場旁邊2間過境型酒店**，慳返拖行李嘅麻煩。想住海灘第一排嘅話，請睇[庫塔海灘酒店清單](/zh-hk/blog/kuta-beach-hotels/)。

@@ -38,7 +38,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: f6566dcdd9a073ac45160c997465ceb6
 ---
 
 # Malam di Bali Nggak Ada Matinya! Empat Pertunjukan Spektakuler, Seru Buat Semua Usia

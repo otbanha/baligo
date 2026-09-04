@@ -30,7 +30,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: f6566dcdd9a073ac45160c997465ceb6
 ---
 
 # 峇里島夜晚唔收工！四大必睇神秀，親子長輩都玩得超開心

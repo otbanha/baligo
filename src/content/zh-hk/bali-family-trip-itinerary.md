@@ -18,7 +18,6 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_8d1437ba19fd670577aeddab67726
 originalUrl: 'https://vocus.cc/article/670688f2fd8978000138a466'
 update: 2026/05/22
 lang: zh-hk
-_srcHash: 4e04dbec27eabb0e5e7756f409186e63
 ---
 > 以下內容改編自團友 [Sannie Lin](https://www.facebook.com/share/p/KZWh2fnM6upSM3uq/) 分享嘅遊記：
 

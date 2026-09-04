@@ -11,7 +11,6 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fb0a8f3064e3e63596e9f82fc7343
 originalUrl: 'https://vocus.cc/article/654b8438fd897800016bf4cc'
 updatedDate: 2026-07-25T00:00:00.000Z
 lang: zh-hk
-_srcHash: 4478979a4905338c2752d6c425112e31
 ---
 
 峇里島自由行攻略之六：金巴蘭攻略

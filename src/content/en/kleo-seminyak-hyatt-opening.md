@@ -24,7 +24,6 @@ agoda_star_rating: 4
 latitude: -8.68027210235596
 longitude: 115.150520324707
 lang: en
-_srcHash: 1df6f4d04d1cd55121a2ba84519728c2
 ---
 **Bottom line**: Kleo Seminyak is Hyatt's first **JdV by Hyatt** hotel in Southeast Asia, **opening in July 2025** in Seminyak. It offers a relaxed, locally inspired boutique lifestyle stay, perfect for travelers seeking personalized design and a break from cookie-cutter luxury hotels.
 

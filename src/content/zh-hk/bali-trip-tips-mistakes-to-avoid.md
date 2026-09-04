@@ -16,7 +16,6 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2b27e03403af45df112cf1bcec1f3aec.png'
 originalUrl: 'https://vocus.cc/article/6691f675fd89780001832a5b'
 lang: zh-hk
-_srcHash: 795311462b3d4b7821f4c6b2bef9388d
 ---
 > 以下內容由團友 [Li Wallis](https://www.facebook.com/share/p/JqkCsRBtYLDZtsnV/) 提供畀我哋重新編排：
 

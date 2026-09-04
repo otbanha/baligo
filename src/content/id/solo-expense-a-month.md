@@ -32,7 +32,6 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: fbab5297c024b35dc2db88c6c7b87ec2
 ---
 
 # **Solo traveling di Bali sebulan habis berapa? Seenak apa sih hidup dengan US$1.800–2.400?**
