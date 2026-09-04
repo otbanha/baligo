@@ -63,3 +63,55 @@
 /en/blog/category/%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90/ /en/blog/category/family-travel/ 301
 /en/blog/category/%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB/ /en/blog/category/travel-stories/ 301
 /en/blog/category/%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95/ /en/blog/category/food-activities/ 301
+
+# =============================================
+# 「日期前綴 + 語意名稱」舊檔名網址（第三種舊格式）
+# generate-redirects.mjs 只辨識 vocus 的 24 位 hex 與 Sveltia 的 6 位數字檔名，
+# 這類檔名不在其中，舊網址會 404（2026-09 由 GSC 涵蓋範圍報表查出）。
+# 數量少且不會再增加，改用手寫 alias，避免動到每次 build 都執行的產生器。
+# =============================================
+/blog/2026-03-21-bali-driver-recommend-p2/ /blog/bali-drivers-recommendations-2/ 301
+/en/blog/2026-03-21-bali-driver-recommend-p2/ /en/blog/bali-drivers-recommendations-2/ 301
+/zh-cn/blog/2026-03-21-bali-driver-recommend-p2/ /zh-cn/blog/bali-drivers-recommendations-2/ 301
+/zh-hk/blog/2026-03-21-bali-driver-recommend-p2/ /zh-hk/blog/bali-drivers-recommendations-2/ 301
+/id/blog/2026-03-21-bali-driver-recommend-p2/ /id/blog/bali-drivers-recommendations-2/ 301
+/blog/2026-05-18-bali-sim-card-esim-guide/ /blog/bali-sim-card-esim-guide/ 301
+/en/blog/2026-05-18-bali-sim-card-esim-guide/ /en/blog/bali-sim-card-esim-guide/ 301
+/zh-cn/blog/2026-05-18-bali-sim-card-esim-guide/ /zh-cn/blog/bali-sim-card-esim-guide/ 301
+/zh-hk/blog/2026-05-18-bali-sim-card-esim-guide/ /zh-hk/blog/bali-sim-card-esim-guide/ 301
+/id/blog/2026-05-18-bali-sim-card-esim-guide/ /id/blog/bali-sim-card-esim-guide/ 301
+/blog/2026-05-23-bali-news-2026-05-23/ /blog/bali-news-2026-05-23/ 301
+/en/blog/2026-05-23-bali-news-2026-05-23/ /en/blog/bali-news-2026-05-23/ 301
+/zh-cn/blog/2026-05-23-bali-news-2026-05-23/ /zh-cn/blog/bali-news-2026-05-23/ 301
+/zh-hk/blog/2026-05-23-bali-news-2026-05-23/ /zh-hk/blog/bali-news-2026-05-23/ 301
+/id/blog/2026-05-23-bali-news-2026-05-23/ /id/blog/bali-news-2026-05-23/ 301
+/blog/2026-05-24-bali-news-2026-05-24/ /blog/bali-news-2026-05-24/ 301
+/en/blog/2026-05-24-bali-news-2026-05-24/ /en/blog/bali-news-2026-05-24/ 301
+/zh-cn/blog/2026-05-24-bali-news-2026-05-24/ /zh-cn/blog/bali-news-2026-05-24/ 301
+/zh-hk/blog/2026-05-24-bali-news-2026-05-24/ /zh-hk/blog/bali-news-2026-05-24/ 301
+/id/blog/2026-05-24-bali-news-2026-05-24/ /id/blog/bali-news-2026-05-24/ 301
+/blog/2026-05-25-bali-news-2026-05-25/ /blog/bali-news-2026-05-25/ 301
+/en/blog/2026-05-25-bali-news-2026-05-25/ /en/blog/bali-news-2026-05-25/ 301
+/zh-cn/blog/2026-05-25-bali-news-2026-05-25/ /zh-cn/blog/bali-news-2026-05-25/ 301
+/zh-hk/blog/2026-05-25-bali-news-2026-05-25/ /zh-hk/blog/bali-news-2026-05-25/ 301
+/id/blog/2026-05-25-bali-news-2026-05-25/ /id/blog/bali-news-2026-05-25/ 301
+/blog/2026-05-26-bali-news-2026-05-26/ /blog/bali-news-2026-05-26/ 301
+/en/blog/2026-05-26-bali-news-2026-05-26/ /en/blog/bali-news-2026-05-26/ 301
+/zh-cn/blog/2026-05-26-bali-news-2026-05-26/ /zh-cn/blog/bali-news-2026-05-26/ 301
+/zh-hk/blog/2026-05-26-bali-news-2026-05-26/ /zh-hk/blog/bali-news-2026-05-26/ 301
+/id/blog/2026-05-26-bali-news-2026-05-26/ /id/blog/bali-news-2026-05-26/ 301
+/blog/2026-05-27-bali-news-2026-05-27/ /blog/bali-news-2026-05-27/ 301
+/en/blog/2026-05-27-bali-news-2026-05-27/ /en/blog/bali-news-2026-05-27/ 301
+/zh-cn/blog/2026-05-27-bali-news-2026-05-27/ /zh-cn/blog/bali-news-2026-05-27/ 301
+/zh-hk/blog/2026-05-27-bali-news-2026-05-27/ /zh-hk/blog/bali-news-2026-05-27/ 301
+/id/blog/2026-05-27-bali-news-2026-05-27/ /id/blog/bali-news-2026-05-27/ 301
+/blog/2026-06-06-bali-festival-preview/ /blog/bali-festival-preview-2026-june/ 301
+/en/blog/2026-06-06-bali-festival-preview/ /en/blog/bali-festival-preview-2026-june/ 301
+/zh-cn/blog/2026-06-06-bali-festival-preview/ /zh-cn/blog/bali-festival-preview-2026-june/ 301
+/zh-hk/blog/2026-06-06-bali-festival-preview/ /zh-hk/blog/bali-festival-preview-2026-june/ 301
+/id/blog/2026-06-06-bali-festival-preview/ /id/blog/bali-festival-preview-2026-june/ 301
+/blog/2026-08-22-bali-offline-vs-connected-vacation/ /blog/bali-offline-vs-connected-vacation/ 301
+/en/blog/2026-08-22-bali-offline-vs-connected-vacation/ /en/blog/bali-offline-vs-connected-vacation/ 301
+/zh-cn/blog/2026-08-22-bali-offline-vs-connected-vacation/ /zh-cn/blog/bali-offline-vs-connected-vacation/ 301
+/zh-hk/blog/2026-08-22-bali-offline-vs-connected-vacation/ /zh-hk/blog/bali-offline-vs-connected-vacation/ 301
+/id/blog/2026-08-22-bali-offline-vs-connected-vacation/ /id/blog/bali-offline-vs-connected-vacation/ 301
