@@ -278,7 +278,7 @@ Biar liburanmu tetap asyik dan sehat, urusan 'air minum' adalah hal pertama yang
 
 Mata uang yang dipakai di Bali adalah Rupiah Indonesia. Sekarang ini 1 USD kira-kira bisa ditukar dengan 16.000 IDR. Kalau dibandingin sama kurs, 1 USD setara 31.000 IDR. Ada trik cepat: hilangkan tiga angka nol di belakang Rupiah, lalu kalikan 2, hasilnya kira-kira setara USD. Contoh: 50.000 IDR → 50 ÷ 2 = 25 USD.
 
-[Klik di sini untuk tutorial hitung ala Xiaojie](__VID0__)
+[Klik di sini untuk tutorial hitung ala Xiaojie](https://youtu.be/I2jj6wNQ2qc?si=Xy-Na8-mjSux3fT6&t=285)
 
 ![小傑的換算教學請點這裡](https://images.gobaligo.id/vocus/vocus_81151c97d1f3a080bcda28c4b3b1cccd.png)
 
@@ -286,7 +286,6 @@ Mata uang yang dipakai di Bali adalah Rupiah Indonesia. Sekarang ini 1 USD kira-
 
 Sebagian besar penduduk Bali ramah dan sopan, tapi seperti destinasi wisata lainnya, kamu tetap harus waspada biar nggak jadi korban penipuan. Selama liburan di Bali, perhatikan modus penipuan umum dan ambil langkah pencegahan biar perjalananmu aman dan menyenangkan.
 
-__VID0__
 
 Ada juga trik jalanan yang udah lama beredar: [Peringatan Wisata Bali: Penipuan Pamer Uang di Jalan, Hindari Jadi Korban Berikutnya!](/id/blog/bali-street-scam-alert/)
 

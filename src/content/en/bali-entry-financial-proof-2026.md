@@ -23,7 +23,6 @@ Analysis of Bali's 'High-Quality Tourism' Policy for 2026: New Financial Proof a
 
 In summary: This new policy is not about conducting a 'census' of all travelers at customs, but rather formalizing and digitizing immigration officers' existing verification powers. The goal is to accurately select quality tourists while cracking down on illegal work.
 
-__VID0__
 
 Below, we break down the practical implementation details of the policy to help you understand if you will be affected:
 

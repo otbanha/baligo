@@ -28,4 +28,4 @@ Atlichnaya blends traditional local flavors with modern creativity, offering you
 
 What's most surprising is that Atlichnaya's prices are incredibly reasonable. Whether you're on a tight budget or looking to enjoy delicious food while saving money, this affordable restaurant is definitely your top choice.
 
-We've carefully prepared an exciting video to give you an in-depth look at the charm of Atlichnaya. We ordered way too much food - three people couldn't finish it all! __VID0__
+We've carefully prepared an exciting video to give you an in-depth look at the charm of Atlichnaya. We ordered way too much food - three people couldn't finish it all!

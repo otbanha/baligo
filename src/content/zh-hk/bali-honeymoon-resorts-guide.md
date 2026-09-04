@@ -172,7 +172,7 @@ The Kayon Jungle Resort 被河流同茂密嘅熱帶雨林包圍住，畀人一�
 
 呢個完美嘅度蜜月天堂會帶畀你哋一場難忘嘅愛情之旅...
 
-> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7534) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685363/maya-ubud-resort-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/jDDWgLu7)  __VID0__
+> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7534) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685363/maya-ubud-resort-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/jDDWgLu7)
 
 ### **Four Seasons Resort Bali at Sayan**
 
@@ -180,7 +180,7 @@ The Kayon Jungle Resort 被河流同茂密嘅熱帶雨林包圍住，畀人一�
 
 喺四季度假村峇里島薩揚，你哋會入住優雅奢華嘅別墅，感受同大自然嘅親密接觸...
 
-> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1460857/four-seasons-resort-bali-at-sayan/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/3m0EuHZG)  __VID1__
+> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1460857/four-seasons-resort-bali-at-sayan/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/3m0EuHZG)
 
 ### **Aksari Resort Ubud**
 
@@ -188,7 +188,7 @@ The Kayon Jungle Resort 被河流同茂密嘅熱帶雨林包圍住，畀人一�
 
 度假村嘅佈置充滿浪漫氛圍，令你哋好似置身喺愛嘅童話世界...
 
-> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7478110) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-39492396/aksari-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/WQSzohJe)  __VID2__
+> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7478110) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-39492396/aksari-ubud/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/WQSzohJe)
 
 ### **Adiwana Bisma**
 
@@ -196,7 +196,7 @@ The Kayon Jungle Resort 被河流同茂密嘅熱帶雨林包圍住，畀人一�
 
 位置極之方便，距離烏布市場嘅繁華市中心得幾百公尺咁遠，你可以輕鬆去當地嘅藝術市集同餐廳感受峇里島嘅豐富文化，又可以享受到與世隔絕嘅寧靜，令愛侶之間共享浪漫時光...
 
-> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11996231) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-56921439/adiwana-bisma/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Tl1f4Xvg)  __VID3__
+> 環境、房間相、設施、咩價位？請睇[詳細介紹](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11996231) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-56921439/adiwana-bisma/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Tl1f4Xvg)
 
 ### **Munduk Moding Plantation Nature Resort & Spa**
 

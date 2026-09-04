@@ -100,7 +100,7 @@ Full details [here](/en/blog/zone-out-bali-vr-adventure/)
 
 Kuta has the most tourists, so it also has the most shopping spots! Here are some of the larger malls:
 
-- Beachwalk Shopping Center, check out Xiao Jie's video below: __VID0__
+- Beachwalk Shopping Center, check out Xiao Jie's video below:
 - Discovery Mall
 - Lippo Mall Kuta
 - Mal Bali Galeria

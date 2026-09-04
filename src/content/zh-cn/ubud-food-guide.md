@@ -233,7 +233,7 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 乌布丛林的壮丽景观与湖面的宁静氛围，为您打造一个独特而亲密的体验。无论是庆祝特别日子，还是单纯想逃离日常喧嚣，这项活动都能为您带来无与伦比的回忆。强烈建议聘请专业摄影师，捕捉这难得的浪漫时刻，留下令人惊艳的照片！快来乌布，与挚爱一同沉浸在这片自然美景中吧！
 
-[> 预约 Romantic Picnic by Boat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1017900&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F134451-romantic-picnic-by-boat-in-dua-dari-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6c77c6026b)__VID0__
+[> 预约 Romantic Picnic by Boat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1017900&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F134451-romantic-picnic-by-boat-in-dua-dari-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6c77c6026b)
 
 ## Tuju Tropical Club (谷歌评价4.9⭐) 👉🏼地图：[沉浸山水美景](/map/ubud/)
 

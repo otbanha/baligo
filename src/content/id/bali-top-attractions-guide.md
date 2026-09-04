@@ -201,7 +201,6 @@ Karena dikelilingi kabut tipis yang misterius dan Danau Bratan yang tenang, saat
 
 [Bali Kintamani Danau Batur & Gunung Batur｜Panduan Lengkap Pendakian Matahari Terbit × Perahu Kerajaan × Kafe Pemandangan Danau × Taman Bermain di Hutan × Pemandian Air Panas Vulkanik](/id/blog/batur-lake-volcano-guide/)
 
-__VID0__
 
 https://youtu.be/mx2zwlUovew
 

@@ -214,7 +214,6 @@ Kelompok pertama pergi snorkeling island hopping ke Nusa Lembongan. Pagi-pagi ja
 
 ▶[Pesan paket Nusa Lembongan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
-__VID0__
 
 ### Makan Siang - Warung Mak Beng
 

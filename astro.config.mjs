@@ -16,6 +16,24 @@ if (existsSync(PRIORITY_FILE)) {
   try { urlPriorities = JSON.parse(readFileSync(PRIORITY_FILE, 'utf-8')); } catch {}
 }
 
+
+// 分類頁網址 slug：只有 en 用英文 slug，其餘語言沿用繁中分類值原文。
+// 與 src/lib/categoryConfig.ts 的 CAT_URL_SLUG_EN 為同一份資料，改動時需同步。
+// （astro.config.mjs 無法直接 import 該 .ts，故在此複製一份。）
+const CAT_SLUG_EN = {
+  '新手指南': 'beginners-guide',
+  '住宿推薦': 'accommodation',
+  '峇里島分區攻略': 'area-guide',
+  '簽證通關': 'visa-entry',
+  '叫車包車': 'transport',
+  '家庭親子': 'family-travel',
+  '遊記分享': 'travel-stories',
+  '美食景點活動': 'food-activities',
+  '套裝行程': 'package-tours',
+};
+const CAT_FROM_SLUG_EN = Object.fromEntries(
+  Object.entries(CAT_SLUG_EN).map(([zh, en]) => [en, zh])
+);
 // 讀取地圖 lastmod（從 maps.ts 的 lastmod 欄位，以 JSON 快取）
 const MAP_LASTMOD_FILE = './src/data/maps-lastmod.json';
 let mapLastmod = {};
@@ -182,20 +200,30 @@ export default defineConfig({
           ];
         }
 
-        // hreflang for /blog/category/{cat}/ pages（5 語言皆有真實分類頁）
+        // hreflang for /blog/category/{cat}/ pages
+        // 注意：en 的分類頁網址是英文 slug，其餘語言是繁中分類值原文，所以不能把
+        // 同一個網址片段直接套到 5 種語言——那會讓 sitemap 自己宣告 45 個 404
+        // （2026-09 由 GSC 涵蓋範圍報表查出：90 個分類 hreflang 有一半是死的）。
+        // 先把片段還原成繁中分類值，再依語言組出正確 slug；非標準分類不輸出 hreflang。
         const categoryMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/category\/([^/]+)\/?$/);
         if (categoryMatch) {
-          const catSeg = categoryMatch[2];
+          const seg = decodeURIComponent(categoryMatch[2]);
+          const cat = CAT_FROM_SLUG_EN[seg] ?? seg;
+          const enSlug = CAT_SLUG_EN[cat];
           item.priority = 0.8;
           item.changefreq = 'weekly';
-          item.links = [
-            { lang: 'x-default', url: `https://gobaligo.id/blog/category/${catSeg}/` },
-            { lang: 'zh-TW',     url: `https://gobaligo.id/blog/category/${catSeg}/` },
-            { lang: 'zh-HK',     url: `https://gobaligo.id/zh-hk/blog/category/${catSeg}/` },
-            { lang: 'zh-CN',     url: `https://gobaligo.id/zh-cn/blog/category/${catSeg}/` },
-            { lang: 'en',        url: `https://gobaligo.id/en/blog/category/${catSeg}/` },
-            { lang: 'id',        url: `https://gobaligo.id/id/blog/category/${catSeg}/` },
-          ];
+          if (enSlug) {
+            const zhUrl = (prefix) =>
+              `https://gobaligo.id${prefix}/blog/category/${encodeURIComponent(cat)}/`;
+            item.links = [
+              { lang: 'x-default', url: zhUrl('') },
+              { lang: 'zh-TW',     url: zhUrl('') },
+              { lang: 'zh-HK',     url: zhUrl('/zh-hk') },
+              { lang: 'zh-CN',     url: zhUrl('/zh-cn') },
+              { lang: 'id',        url: zhUrl('/id') },
+              { lang: 'en',        url: `https://gobaligo.id/en/blog/category/${enSlug}/` },
+            ];
+          }
         }
 
         // hreflang for 5 語言皆有的工具頁（trip-planner / 預算計算機 / 天氣）

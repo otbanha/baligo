@@ -1018,7 +1018,6 @@ Abis makan, kita lanjut ngopi di Kopi Kenangan seberang jalan sambil ngobrol, bi
 
 Balik ke hotel, sendirian di balkon sambil pesan minuman.
 
-__VID0__
 
 https://youtu.be/tAU6seMhMUA
 

@@ -59,7 +59,6 @@ In short, AYANA Resort is an unforgettable destination in Bali, ideal for family
 
 As for the six stunning pools mentioned in the 'Bird of Paradise' video, which ones are they? That's something you'll have to see for yourself by watching the video!
 
-__VID0__
 
 https://youtu.be/7ydTFC7NenM
 

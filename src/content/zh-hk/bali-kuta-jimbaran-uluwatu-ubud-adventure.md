@@ -229,7 +229,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ## 峇里島行程總整理
 
-### 4/15 （4/15-4/17 Uluwatu)  __VID0__
+### 4/15 （4/15-4/17 Uluwatu)
 
 **DPS機場到達**
 

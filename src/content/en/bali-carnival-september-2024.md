@@ -56,7 +56,6 @@ The next day, the Bali Color Festival will feature a special J'ouvert event on t
 
 ![示意圖](https://images.gobaligo.id/vocus/vocus_9fe3a94fac8dbb2d1217b97978cfd46e.png)
 
-__VID0__
 
 ![2024 活動表](https://images.gobaligo.id/vocus/vocus_47eaad955a694aadb425fcec8c2c4128.png)
 
