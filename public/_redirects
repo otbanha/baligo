@@ -130,3 +130,64 @@
 /zh-cn/blog/ubod-food-guide/ /zh-cn/blog/ubud-food-guide/ 301
 /zh-hk/blog/ubod-food-guide/ /zh-hk/blog/ubud-food-guide/ 301
 /id/blog/ubod-food-guide/ /id/blog/ubud-food-guide/ 301
+
+# =============================================
+# 孤兒譯文舊 slug → 現行 slug（2026-09）
+# 繁中原文改了 slug/檔名後，舊譯文檔沒被清掉，變成同語言的重複頁：
+# 同一篇文章有兩個網址、各自 self-canonical，正是 GSC「Google 選了不同
+# 標準網址」的來源。舊檔已刪除，這裡留 301 保住既有排名與外部連結。
+# =============================================
+/en/blog/2026-03-21-bali-driver-recommend-p2/ /en/blog/bali-drivers-recommendations-2/ 301
+/en/blog/2026-07-18-050656/ /en/blog/beach-paradise-jimbaran/ 301
+/id/blog/2020-01-30-64db6b62fd897800013a91b0/ /id/blog/bali-boutique-hotels-under-30/ 301
+/id/blog/2023-08-03-64db6b88fd897800013a9a4c/ /id/blog/bali-honeymoon-resorts-guide/ 301
+/id/blog/2023-08-19-64e063fafd8978000123ea12/ /id/blog/seminyak-budget-hotels-guide/ 301
+/id/blog/2024-01-14-65a3438afd89780001d93651/ /id/blog/bali-honeymoon-destination/ 301
+/id/blog/2024-01-16-65a51edbfd89780001ffc7b2/ /id/blog/bali-family-resorts-water-slides/ 301
+/id/blog/2024-03-19-65f8e4d2fd89780001b5e8f9/ /id/blog/kuta-bali-accommodation-pros-cons/ 301
+/id/blog/2024-03-24-65fff19efd897800017026b5/ /id/blog/bali-canggu-seminyak-jimbaran-ubud-nusa-penida-hotels/ 301
+/id/blog/2024-03-27-6604201efd89780001032e98/ /id/blog/bali-hotel-booking-tips/ 301
+/id/blog/2024-04-04-660e349bfd89780001e40cbc/ /id/blog/bali-bamboo-villa-experience/ 301
+/id/blog/2024-04-10-660bcff3fd89780001d037ad/ /id/blog/ayana-resort-bali-experience/ 301
+/id/blog/2024-04-22-660ff581fd89780001f31315/ /id/blog/apurva-kempinski-bali-nusa-dua/ 301
+/id/blog/2024-06-02-665c5a03fd89780001224bab/ /id/blog/bali-private-jet-villa-guide/ 301
+/id/blog/2024-08-09-66b41018fd89780001f96fc3/ /id/blog/bali-private-villa-recommendations/ 301
+/id/blog/2024-08-09-66b5be79fd897800016df66e/ /id/blog/four-seasons-bali-jimbaran-bay/ 301
+/id/blog/2024-08-13-66bb07a5fd8978000100f7da/ /id/blog/bali-safari-marine-park-hotel/ 301
+/id/blog/2024-09-07-66db220afd897800013d1c78/ /id/blog/top-bali-hotels-asia-rankings/ 301
+/id/blog/2024-10-11-67094049fd8978000167f9f9/ /id/blog/raffles-bali-luxury-resort/ 301
+/id/blog/2024-11-10-66fcb508fd897800012664ef/ /id/blog/ayana-resort-villa-experience/ 301
+/id/blog/2024-11-16-67375f47fd89780001591deb/ /id/blog/apurva-kempinski-sustainability-award/ 301
+/id/blog/2025-01-17-6789be68fd89780001c3ec93/ /id/blog/bidadari-private-villas-ubud/ 301
+/id/blog/2025-01-19-678cad2cfd89780001326626/ /id/blog/bajra-bali-villa-seminyak/ 301
+/id/blog/2025-01-19-678cc1c2fd897800013561fe/ /id/blog/alam-wayang-ubud-villa/ 301
+/id/blog/2025-01-19-678ce3f3fd8978000139e3bf/ /id/blog/st-regis-bali-resort/ 301
+/id/blog/2025-01-20-678d9408fd89780001529ad2/ /id/blog/suites-infinity-beyond-seminyak/ 301
+/id/blog/2025-01-20-678dada2fd897800015779fb/ /id/blog/tui-blue-berawa-hotel-canggu/ 301
+/id/blog/2025-01-30-679b6130fd897800011593a6/ /id/blog/voco-bali-seminyak-2025/ 301
+/id/blog/2025-02-02-679f6ce7fd89780001f18c4a/ /id/blog/oshom-bali-nuanu-creative-city/ 301
+/id/blog/2025-02-07-679ccd73fd897800016e1e52/ /id/blog/six-senses-uluwatu-review/ 301
+/id/blog/2025-02-07-67a5905bfd89780001e1b2b3/ /id/blog/platinum-hotel-jimbaran-beach/ 301
+/id/blog/2025-03-14-67d42835fd897800014ffc83/ /id/blog/bali-best-resorts-2025/ 301
+/id/blog/2025-03-19-6735d8e7fd897800013ead73/ /id/blog/potato-head-suites-seminyak-review/ 301
+/id/blog/2025-03-20-671263f0fd89780001ee6da7/ /id/blog/capella-ubud-luxury-resort/ 301
+/id/blog/2025-04-10-67f76284fd89780001bede9f/ /id/blog/renaissance-bali-uluwatu-resort/ 301
+/id/blog/2025-06-03-683ea036fd89780001ff6ce2/ /id/blog/maja-canggu-mediterranean-stay/ 301
+/id/blog/2025-06-19-68540320fd8978000126a919/ /id/blog/e-sanctuary-resort-ubud/ 301
+/id/blog/2025-07-22-687f11d5fd89780001df5032/ /id/blog/arpana-private-pool-villas-review/ 301
+/id/blog/2025-08-09-6896f79ffd897800015c59f7/ /id/blog/kleo-seminyak-hyatt-opening/ 301
+/id/blog/2025-09-04-68b8d2e3fd897800017acaee/ /id/blog/la-cabane-bali-uluwatu/ 301
+/id/blog/2025-10-07-68e51c8efd897800014e36a6/ /id/blog/holiday-inn-bali-canggu/ 301
+/id/blog/2025-11-05-690ae7cafd89780001e08158/ /id/blog/belajar-bali-boutique-hotel/ 301
+/id/blog/2026-01-19-696d9b87fd89780001ca2885/ /id/blog/hiliwatu-marriott-ubud/ 301
+/id/blog/2026-02-24-65839fbafd89780001e876b5/ /id/blog/bali-accommodation-area-guide/ 301
+/id/blog/2026-03-06-69aa4faefd897800016bbeda/ /id/blog/apurva-kempinski-bali-deal/ 301
+/id/blog/2026-03-11-69b0d79bfd897800012060e7/ /id/blog/bali-airbnb-warning-2026/ 301
+/id/blog/2026-03-21-bali-driver-recommend-p2/ /id/blog/bali-drivers-recommendations-2/ 301
+/id/blog/2026-07-18-050656/ /id/blog/beach-paradise-jimbaran/ 301
+/id/blog/cyl-lecliff/ /id/blog/le-cliff-bali-uluwatu-review/ 301
+/id/blog/le-cliff-bali/ /id/blog/le-cliff-bali-uluwatu/ 301
+/zh-cn/blog/2026-03-21-bali-driver-recommend-p2/ /zh-cn/blog/bali-drivers-recommendations-2/ 301
+/zh-cn/blog/2026-07-18-050656/ /zh-cn/blog/beach-paradise-jimbaran/ 301
+/zh-hk/blog/2026-03-21-bali-driver-recommend-p2/ /zh-hk/blog/bali-drivers-recommendations-2/ 301
+/zh-hk/blog/2026-07-18-050656/ /zh-hk/blog/beach-paradise-jimbaran/ 301
