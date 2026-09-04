@@ -17,12 +17,10 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-09-04
+updatedDate: 2026-08-31
 ---
 
-Update: 2026/08/10
-
-**本頁是什麼**：峇里島包車司機推薦名單的**第二頁**，以可中文溝通的司機為主，收錄 **19 位司機、258 則團友在臉書社團自己發文的搭乘分享**。每位司機底下那排數字都是原始貼文連結，可以自己點開查證。
+**本頁是什麼**：峇里島包車司機推薦名單的**第二頁**，收錄20**位司機、258 則團友在臉書社團自己發文的搭乘分享**。每位司機底下那排數字都是原始貼文連結，可以自己點開查證。
 
 包車行情約 **Rp 600,000–800,000／10 小時／五人座**（算車不算人頭，烏布以南），2026 年 7 月 1 日起另加油費補貼（半天 Rp 50,000、整天 Rp 100,000）。跨區加價、超時費算法與預約流程，都整理在[第一頁](/blog/bali-private-car-drivers-guide/)。
 
@@ -155,12 +153,6 @@ Update: 2026/08/10
 {{block:klook}}
 
 {{block:包車}}
-
-## **Yoga Setiawan**
-
-![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
-
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/19Jg1L5WjX/)
 
 ## Gede Mahema
 
