@@ -1,7 +1,7 @@
 ---
-title: 巴厘岛包车司机推荐名单（第二页）｜社团真实分享
+title: 巴厘岛包车司机推荐名单（第二页）｜社群真实分享
 slug: bali-drivers-recommendations-2
-description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
+description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社群贴文。附 2026 包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,14 +17,12 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-08-31T00:00:00.000Z
+updatedDate: 2026-09-04T00:00:00.000Z
 lang: zh-cn
-_srcHash: 0b29e839691f7077e283bc94598278ff
+_srcHash: efe87960c947a51441d1e3756f59a0e8
 ---
 
-Update: 2026/08/10
-
-**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，以可中文沟通的司机为主，收录 **19 位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
+**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社群自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
 
 包车行情约 **Rp 600,000–800,000／10 小时／五人座**（算车不算人头，乌布以南），2026 年 7 月 1 日起另加油费补贴（半天 Rp 50,000、整天 Rp 100,000）。跨区加价、超时费算法与预约流程，都整理在[第一页](/zh-cn/blog/bali-private-car-drivers-guide/)。
 
@@ -158,12 +156,6 @@ Update: 2026/08/10
 
 {{block:包車}}
 
-## **Yoga Setiawan**
-
-![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
-
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/19Jg1L5WjX/)
-
 ## Gede Mahema
 
 ![](https://images.gobaligo.id/vocus/vocus_b7880431d7ebd0564f47b379a0e30127.png)
@@ -174,7 +166,13 @@ Update: 2026/08/10
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[网友推荐 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[网友推荐9](https://www.facebook.com/share/p/19Hj8nNgVo/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[网友推荐9](https://www.facebook.com/share/p/19Hj8nNgVo/)
+
+## **（中文司机）Yoga Setiawan**
+
+![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
+
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/19Jg1L5WjX/)
 
 ***
 

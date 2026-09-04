@@ -25,23 +25,23 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_translateIncomplete: true
+_srcHash: 07ade9c222d8b6260cd2c578c333edb2
 ---
-**先講結論**：庫塔住宿唔使死要海景房——行程主力購物、跑景點嘅人，揀 **Kartika Plaza商圈或Kuta Square周邊嘅市區型酒店**最抵（呢篇精選咗10間，首推鬧中取靜嘅Amnaya Resort Kuta）；有紅眼航班或者深夜到埗嘅人，直接住**機場旁邊2間過境型酒店**，慳返拖行李嘅麻煩。想住海灘第一排嘅話，請睇[庫塔海灘酒店清單](/zh-hk/blog/kuta-beach-hotels/)。
+**先講結論**：庫塔住宿唔一定要揀海景房——行程主力購物、去景點嘅人，揀 **Kartika Plaza 商圈或 Kuta Square 周邊嘅市區型酒店**最抵（呢篇精選咗10間，首推鬧中取靜嘅 Amnaya Resort Kuta）；有紅眼航班或者深夜到埗嘅人，直接住**機場旁邊2間過境型酒店**，慳返拖行李嘅麻煩。想住海灘第一排嘅話，請睇[庫塔海灘酒店清單](/zh-hk/blog/kuta-beach-hotels/)。
 
-講到庫塔住宿，大家第一時間諗起嘅永遠係海灘酒店——但海景房唔一定係最聰明嘅選擇。
+講到庫塔住宿，大家第一個諗起嘅永遠係海灘酒店——但海景房唔一定係最聰明嘅選擇。
 
-如果你嘅行程重心係購物、跑景點，或者將庫塔當成進出峇里島嘅中轉基地，咁市區型酒店反而更實際：慳返海景嘅溢價，將預算留返畀食玩買，或者直接升級房型。而如果你有早機、深夜到埗，或者最後一晚唔想同行李搏鬥，機場附近嘅酒店更加係令旅程少一半麻煩嘅關鍵選擇。
+如果你嘅行程重心係購物、去景點，或者將庫塔當作進出峇里島嘅中轉基地，咁市區型酒店反而更實際：慳返海景嘅溢價，將預算留返嚟食玩買，或者直接升級房型。而如果你有早機、深夜到埗，或者最後一晚唔想同行李搏鬥，機場旁邊嘅酒店更加係令旅程少一半麻煩嘅關鍵選擇。
 
-呢篇整理咗12間，分兩大類：**近市區**嘅10間同**近機場**嘅2間，等你可以跟住自己嘅旅遊需求對號入座。
+呢篇整理咗12間，分成兩大類：**近市區**嘅10間同**近機場**嘅2間，等你根據自己嘅旅遊需求對號入座。
 
-**PS. 如果你想搵海灘旁邊嘅庫塔酒店？請睇**[**呢度**](/zh-hk/blog/kuta-beach-hotels/)
+**PS. 如果你係想搵海灘旁邊嘅庫塔酒店？請睇**[**呢度**](/zh-hk/blog/kuta-beach-hotels/)
 
 ***
 
 # 🏙️ 近市區
 
-以下10間酒店全部位於庫塔市區核心地帶——Kartika Plaza商圈、Kuta Square周邊、或者主要幹道旁邊。唔係直接對住海灘，但行路或者搭短途的士就到，購物、餐廳、夜生活全部近在咫尺。
+以下10間酒店全部位於庫塔市區核心地帶——Kartika Plaza 商圈、Kuta Square 周邊、或者主要幹道旁邊。唔係直接對住海灘，但行路或者搭短程的士就到，購物、餐廳、夜生活通通喺附近。
 
 ***
 
@@ -49,7 +49,7 @@ _translateIncomplete: true
 
 ## Amnaya Resort Kuta
 
-呢間係庫塔市區藏得最深、亦都最令人驚喜嘅酒店。匿喺 Jl. Kartika Plaza 嘅小巷入面，出面係熱鬧嘅庫塔，但一入大門就靜到好似另一個世界咁。酒店由知名建築師 Martin Grounds（Four Seasons Jimbaran、St. Regis Bali 嘅設計師）同多位峇里島藝術家一齊打造，周圍都係得意嘅藝術裝置。
+呢間係庫塔市區藏得最深、亦都最令人驚喜嘅酒店。匿喺 Jl. Kartika Plaza 嘅小巷入面，出面係人來人往嘅庫塔，一入大門就靜到好似另一個世界咁。酒店由知名建築師 Martin Grounds（Four Seasons Jimbaran、St. Regis Bali 嘅設計師）同多位峇里島藝術家一齊打造，周圍都係得意嘅藝術裝置。
 
 ![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171281889-49112982.jpg)
 
@@ -71,21 +71,21 @@ _translateIncomplete: true
 
 ![Amnaya Resort Kuta](https://images.gobaligo.id/images/2026-04/1777171286517-574173017.jpg)
 
-📍 **位置**：Jl. Kartika Plaza Gang Puspa Ayu No. 99，行路就去到 Discovery Mall 同 Tuban Beach，Waterbom 水上樂園喺轉角，機場大約 5 公里。鬧中取靜，呢四個字喺呢度係真嘅。
+📍 **位置**：Jl. Kartika Plaza Gang Puspa Ayu No. 99，行路就去到 Discovery Mall 同 Tuban Beach，Waterbom 水上樂園喺轉角位，機場大約 5 公里。鬧中取靜，呢四個字喺呢度係真嘅。
 
 🏨 **設施**：中庭泳池（有淺水區，陽光充足）、Bhava Spa（Tripadvisor 評為庫塔第 1 名 Spa）、Sukun Restaurant（峇里島傳統菜，庫塔頭三位餐廳）、每日下晝免費提供傳統峇里島點心同茶點。
 
-🛏️ **客房**：116 間，45 至 100 平方米，白色極簡現代設計融入木頭同峇里島藝術元素，每間都有私人露台（部分有戶外躺椅）。6 間泳池直通房要早啲預訂，好搶手。
+🛏️ **客房**：116 間，45 至 100 平方米，白色極簡現代設計融入木頭同峇里島藝術元素，每間都有私人露台（部分有戶外躺椅）。6 間泳池直通房要提早預訂，好搶手。
 
-💬 **住客評價**：回頭客比例好高，服務個人化又細心周到。缺點係早餐用 à la carte（點餐）有品項限制，飲品唔可以無限續。
+💬 **住客評價**：回頭客比例好高，服務個人化又細心周到。缺點係早餐係 à la carte（點餐）有品項限制，飲品唔可以無限續。
 
-> 2025 Agoda 旅人鑑賞優勝精選，Agoda 評價9.2⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-2601658/amnaya-resort-kuta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/txhUKkim)
+> 2025 Agoda 旅人鑑賞優勝精選，Agoda 評分 9.2⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-2601658/amnaya-resort-kuta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/txhUKkim)
 
 ***
 
 ## Alaya Dedaun Kuta ⭐⭐⭐⭐
 
-同樣匿埋喺 Kartika Plaza 商圈嘅精品酒店，比 Amnaya 更加偏向自然系熱帶叢林感覺，DaLa Spa 喺呢區幾有口碑，適合將放鬆放喺行程第一位嘅旅客。
+同樣匿咗喺 Kartika Plaza 商圈嘅精品酒店，比 Amnaya 更加偏向自然系熱帶叢林感覺，DaLa Spa 喺呢個區域都幾出名，啱晒將放鬆放喺行程第一位嘅旅客。
 
 ![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171421985-e799b43ff2dfc8856ac079003f9f024c.webp)
 
@@ -107,13 +107,13 @@ _translateIncomplete: true
 
 ![Alaya Dedaun Kuta](https://images.gobaligo.id/images/2026-04/1777171426191-b81f8e5ceb970b3bba126badb2092533.webp)
 
-📍 **位置**：喺 Jl. Kartika Plaza 一帶，行路就到 Discovery Mall 同 Waterbom Park，海灘距離行路大約 10-15 分鐘，整體都仲喺庫塔範圍入面。出面就有酒吧餐廳，好方便。位置得分 9.4
+📍 **位置**：喺 Jl. Kartika Plaza 一帶，行路就去到 Discovery Mall 同 Waterbom Park，海灘行過去大約 10-15 分鐘，整體都仲係庫塔範圍。出面就有酒吧餐廳，好方便。位置評分 9.4
 
 🏨 **設施**：戶外泳池、DaLa Spa（住客評價一致讚好）、餐廳、健身室，整體行自然有機風格，植物同水景係空間設計嘅核心元素。
 
-🛏️ **客房**：熱帶植物元素融入室內設計，部分有俯瞰花園嘅景觀，整體氛圍安靜舒適，係庫塔少見嘅低調質感住宿。有雙臥室、三臥室別墅房型，最多可以住六個大人。
+🛏️ **客房**：熱帶植物元素融入室內設計，部分房可以望到花園景，整體氣氛安靜舒服，係庫塔少見嘅低調質感住宿。有雙臥室、三臥室別墅房型，最多可以住六個大人。
 
-💬 **住客評價**：蜜月同情侶入住評分好高，服務友善，環境優美；缺點係距離海灘有段路，夜晚出去要叫車，自由度低少少。
+💬 **住客評價**：蜜月同情侶入住評分好高，服務友善，環境優美；缺點係離海灘有啲距離，夜晚出去要叫車，自由度低少少。
 
 > Agoda 評價9.2⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71986) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1543075/alaya-dedaun-kuta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/w1kBarZE)
 
@@ -121,7 +121,7 @@ _translateIncomplete: true
 
 ## Four Points by Sheraton Bali Kuta ⭐⭐⭐⭐
 
-Marriott 旗下四星品牌，用平實嘅價錢享受萬豪集團嘅服務質素。Four Points 喺全球以 Best Brews 精釀啤酒項目聞名，喺峇里島都保留咗呢個特色，整體多咗一種輕鬆社交嘅氣氛。
+Marriott 旗下四星品牌，用平實嘅價錢享受到萬豪集團嘅服務質素。Four Points 喺全球以 Best Brews 精釀啤酒項目出名，喺峇里島都保留咗呢個特色，整體多咗一種輕鬆社交嘅氣氛。
 
 ![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171533371-907662_16083109570045947630.webp)
 
@@ -143,13 +143,13 @@ Marriott 旗下四星品牌，用平實嘅價錢享受萬豪集團嘅服務質�
 
 ![Four Points by Sheraton Bali Kuta](https://images.gobaligo.id/images/2026-04/1777171537413-907662_16083109570045947627.webp)
 
-📍 **位置**：庫塔市中心嘅巷仔入面，行路就去到 Kuta Square 同 Beachwalk 購物中心，去 Kuta Beach 大約行 5-10 分鐘。
+📍 **位置**：喺庫塔市中心嘅巷仔入面，行路就去到 Kuta Square 同 Beachwalk 購物中心，行去 Kuta Beach 大概 5 至 10 分鐘。
 
-🏨 **設施**：戶外泳池、健身室、按摩浴缸、全日餐廳，Best Brews 精釀啤酒區係品牌特色，比起一般四星級多咗啲輕鬆社交空間。
+🏨 **設施**：有戶外泳池、健身室、按摩浴缸、全日餐廳，Best Brews 精釀啤酒區係品牌特色，比起一般四星級多咗啲輕鬆社交空間。
 
-🛏️ **客房**：現代整潔，設備齊全，有私人露台，部分房有泳池或庭院景觀，設計風格偏向商務簡潔，住起上嚟好舒服。有上下鋪可以住四個人嘅 Family King Suite
+🛏️ **客房**：現代整潔，設備齊全，有私人露台，部分房望到泳池或庭院景觀，設計風格偏向商務簡潔，住落幾舒服。仲有上下鋪可以住四個人嘅 Family King Suite。
 
-💬 **住客評價**：萬豪品質保證，整體評分穩定；缺點係同區更高星級酒店相比設施冇咁豐富，峇里島度假感覺弱少少。
+💬 **住客評價**：萬豪品質有保證，整體評分穩定；缺點係同區更高星級嘅酒店相比，設施冇咁豐富，峇里島度假感覺弱少少。
 
 > 2024 Agoda 旅人鑑賞優勝精選，Agoda 評價8.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=907662) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-2139828/four-points-by-sheraton-bali-kuta/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/ymskD69a)
 
@@ -157,7 +157,7 @@ Marriott 旗下四星品牌，用平實嘅價錢享受萬豪集團嘅服務質�
 
 ## The Vira Bali Boutique Hotel & Suite ⭐⭐⭐⭐
 
-Kartika Plaza 區域裡面 CP 值最高嘅精品酒店之一，成日令旅客嘩一聲「呢個價錢住到咁樣？」Agoda 評分 9.0，喺呢一區口碑好扎實，唔使大聲宣傳，回頭客自己就會返嚟。
+Kartika Plaza 區域裡面 CP 值最高嘅精品酒店之一，成日令旅客嘩一聲「呢個價錢住到咁嘅？」Agoda 評分 9.0，喺呢區口碑好扎實，唔使大聲宣傳，回頭客自己就會返嚟。
 
 ![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
 
@@ -179,13 +179,13 @@ Kartika Plaza 區域裡面 CP 值最高嘅精品酒店之一，成日令旅客�
 
 ![The Vira Bali Boutique Hotel & Suite](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
 
-📍 **位置**：Jl. Kartika Plaza，Discovery Shopping Mall 850 米，Tuban Beach 行路就到，Lippo Mall Kuta 對面，買嘢同食飯都好方便。離機場都唔遠。
+📍 **位置**：喺 Jl. Kartika Plaza，距離 Discovery Shopping Mall 850 米，行路就去到 Tuban Beach，喺 Lippo Mall Kuta 對面，買嘢同食飯都好方便。離機場都唔遠。
 
-🏨 **設施**：戶外泳池、健身室、餐廳，精品酒店規模，設施唔多但每樣都保養得幾好，泳池環境特別受好評。
+🏨 **設施**：有戶外泳池、健身室、餐廳，精品酒店規模，設施唔多但每樣都保養得幾好，泳池環境特別受好評。
 
-🛏️ **客房**：現代精品設計，空間合理，乾淨舒適，部分套房設計感強，整體質素高過標價所暗示嘅水準。
+🛏️ **客房**：現代精品設計，空間合理，乾淨舒服，部分套房設計感好強，整體質素高過標價所暗示嘅水準。
 
-💬 **住客評價**：對預算有限但唔想犧牲住宿體驗嘅旅客幾乎係必推；缺點係規模細，冇 Kids Club 等大型家庭設施。
+💬 **住客評價**：對預算有限但又唔想犧牲住宿體驗嘅旅客嚟講，幾乎係必推；缺點係規模細，冇 Kids Club 呢類大型家庭設施。
 
 > Agoda 評價9.0⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49780) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685252/the-vira-bali-boutique-hotel-and-suite/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/XtGn8HAO)
 
@@ -193,7 +193,7 @@ Kartika Plaza 區域裡面 CP 值最高嘅精品酒店之一，成日令旅客�
 
 ## Kuta Beach Club Hotel ⭐⭐⭐⭐
 
-原名 SOL by Meliá Kuta，近期改名做 Kuta Beach Club Hotel，位於 Jl. Bakungsari，行去庫塔海灘大約 10 分鐘，連接 Kuta Point 購物中心，係呢個商圈入面設施完整、家庭友善嘅中型酒店。
+原名 SOL by Meliá Kuta，最近改名做 Kuta Beach Club Hotel，位於 Jl. Bakungsari，行去庫塔海灘大約10分鐘，連接住 Kuta Point 購物中心，係呢個商圈入面設施齊全、家庭友善嘅中型酒店。
 
 ![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172173501-208611559.jpg)
 
@@ -213,21 +213,21 @@ Kartika Plaza 區域裡面 CP 值最高嘅精品酒店之一，成日令旅客�
 
 ![Kuta Beach Club Hotel](https://images.gobaligo.id/images/2026-04/1777172177717-863b59e3ecbdbfc1bada836755227f23.webp)
 
-📍 **位置**：Jl. Bakungsari No. 81，Waterbom Bali 行 900 米，Discovery Shopping Mall 行 15 分鐘，Kuta Night Market 就喺附近，機場大約 12 分鐘車程。典型嘅名容易令人誤會以為位置喺海灘旁邊嘅酒店。
+📍 **位置**：Jl. Bakungsari No. 81，Waterbom Bali 行900米，Discovery Shopping Mall 行15分鐘，庫塔夜市喺附近，機場大約12分鐘車程。典型嘅名好易令人誤會以為係喺海灘旁邊嘅酒店。
 
-🏨 **設施**：兩個戶外泳池（包括兒童泳池）、泳池吧（Resting Palm Sunken Pool Bar）、PlayBar、Serene Spa & Wellness、24 小時健身室、The Kitchen 餐廳（供應峇里島菜同國際菜式）、酒店直接連接 Kuta Point 購物中心。
+🏨 **設施**：兩個戶外泳池（包括兒童泳池）、泳池吧（Resting Palm Sunken Pool Bar）、PlayBar、Serene Spa & Wellness、24小時健身室、The Kitchen 餐廳（供應峇里島菜同國際菜式）、酒店直接連接 Kuta Point 購物中心。
 
-🛏️ **客房**：144 間，峇里島傳統同現代混搭設計，隔音窗、私人露台，俯瞰花園或泳池，空間闊落舒服，但全部都係雙人房。部分住客反映新舊兩翼房間質素有差距，建議揀翻新過嘅區域。
+🛏️ **客房**：144間，峇里島傳統同現代混搭設計，隔音窗、私人露台，望住花園或者泳池，空間闊落舒服，但全部都係雙人房。有啲住客反映新舊兩翼房間質素有差距，建議揀翻新過嘅區域。
 
-💬 **住客評價**：早餐豐富同泳池環境一致好評，員工親切；缺點係翻新期間有裝修噪音，部分住客反映清潔細節仲有改善空間。
+💬 **住客評價**：早餐豐富同泳池環境一致好評，員工好親切；缺點係翻新期間有裝修噪音，有啲住客反映清潔細節仲有改善空間。
 
-> 2025 Agoda 旅人鑑賞優勝精選，Agoda 評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49701876) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685209/sol-house-bali-kuta-by-melia-hotels-international/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/I3R6uAfY)」、「***」、「## Poppies Bali Hotel⭐⭐⭐」、「Poppies Lane 1 上嘅傳奇精品酒店，1970 年代同峇里島一齊成長，係成個庫塔最有歷史感嘅住宿之一。唔係五星，冇大型設施，但係行入嗰扇雕花木門嘅瞬間，出面喧囂嘅庫塔好似消失咗——呢個就係 Poppies 獨特嘅魔力。」、「📍 **位置**：Poppies Lane 1 No. 19，Kuta Beach 行大約 10 分鐘，Beachwalk 購物中心行 15 分鐘，Made's Warung、Jalan Legian、Sky Garden 等知名餐廳酒吧全部喺步行圈內，機場免費接送。」、「🏨 **設施**：自由式泳池（附淺水兒童區）、按摩浴缸（Jacuzzi）、泳池吧（招牌鳳梨可樂達用雕刻椰殼盛裝好出名）、圖書室。冇附設餐廳，但對面就係合作嘅 Poppies Restaurant（1973 年開業，峇里島最早嘅著名餐廳之一），早餐可以送到房食。」、「🛏️ **客房**：得 20 間傳統峇里島茅草屋頂小屋，戶外花園浴室（木雕同大理石工藝）係最令旅客驚喜嘅設計，闊落，有峇里島地道風情。注意：近泳池嘅屋夜晚會嘈啲。5 歲以下細路免費入住。」、「💬 **住客評價**：回頭率極高，好多旅客話「去峇里島如果唔住 Poppies 就唔算去過」；缺點係設施精簡，唔啱帶細路嘅家庭，亦唔啱追求豪華設施嘅旅客。
+> 2025 Agoda 旅人鑑賞優勝精選，Agoda 評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49701876) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685209/sol-house-bali-kuta-by-melia-hotels-international/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/I3R6uAfY) "***" "## Poppies Bali Hotel⭐⭐⭐" "Poppies Lane 1 上嘅傳奇精品酒店，1970年代同峇里島一齊成長，係成個庫塔最有歷史感嘅住宿之一。唔係五星，冇大型設施，但係一踏入嗰度雕花木門嘅瞬間，出面喧囂嘅庫塔好似消失咗——呢個就係Poppies獨特嘅魔力。" "📍 **位置**：Poppies Lane 1 No. 19，Kuta Beach 行大約10分鐘，Beachwalk 購物中心行15分鐘，Made's Warung、Jalan Legian、Sky Garden 等知名餐廳酒吧全部喺步行圈內，機場免費接送。" "🏨 **設施**：自由式泳池（附淺水兒童區）、按摩浴缸（Jacuzzi）、泳池吧（招牌鳳梨可樂達用雕刻椰殼盛裝好出名）、圖書室。冇附設餐廳，但對面就係合作嘅Poppies Restaurant（1973年開業，峇里島最早嘅著名餐廳之一），早餐可以送到房食。" "🛏️ **客房**：得20間傳統峇里島茅草屋頂小屋，戶外花園浴室（木雕同大理石工藝）係最令旅客驚喜嘅設計，闊落、有峇里島地道風情。留意：近泳池嘅屋夜晚會嘈啲。5歲以下細路免費入住。" "💬 **住客評價**：回頭率極高，好多旅客話「去峇里島如果唔住Poppies就唔算去過」；缺點係設施精簡，唔啱帶細路嘅家庭，亦唔啱追求豪華設施嘅旅客。" "> Agoda 評價9.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1991683) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6551798/poppies-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/YTe3Yesw) "***"
 
-> Agoda 評價9.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1991683) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6551798/poppies-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/YTe3Yesw)」、「***
+***
 
 ## Poppies Bali Hotel⭐⭐⭐
 
-Poppies Lane 1 上的傳奇精品飯店，1970 年代與峇里島一同成長，是整個庫塔最具歷史感的住宿之一。不是五星，沒有大型設施，但走進那扇雕花木門的瞬間，外面喧囂的庫塔彷彿消失了——這就是 Poppies 獨特的魔力。
+Poppies Lane 1 上面嘅傳奇精品酒店，1970年代同峇里島一齊成長，係成個庫塔最有歷史感嘅住宿之一。唔係五星級，冇大型設施，但係行入嗰度雕花木門嘅一刻，出面嘈嘈閉嘅庫塔好似消失咗——呢個就係 Poppies 獨特嘅魔力。
 
 ![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172268398-477f45fad14f672a97653be2c4605aed.webp)
 
@@ -247,21 +247,21 @@ Poppies Lane 1 上的傳奇精品飯店，1970 年代與峇里島一同成長，
 
 ![Poppies Bali Hotel](https://images.gobaligo.id/images/2026-04/1777172272189-aaf2fc0d52f310ad42e3b24ecd16f20b.webp)
 
-📍 **位置**：Poppies Lane 1 No. 19，Kuta Beach 步行約 10 分鐘，Beachwalk 購物中心步行 15 分鐘，Made's Warung、Jalan Legian、Sky Garden 等知名餐廳酒吧全在步行圈內，機場免費接送。
+📍 **位置**：Poppies Lane 1 No. 19，行去Kuta Beach大概10分鐘，去Beachwalk購物中心行15分鐘，Made's Warung、Jalan Legian、Sky Garden呢啲出名嘅餐廳酒吧全部行路就到，機場有免費接送。
 
-🏨 **設施**：自由式泳池（附淺水兒童區）、按摩浴缸（Jacuzzi）、泳池吧（招牌鳳梨可樂達以雕刻椰殼盛裝著名）、圖書室。無附設餐廳，但對面就是合作的 Poppies Restaurant（1973 年開業，峇里島最早的著名餐廳之一），早餐可送至房間享用。
+🏨 **設施**：自由式泳池（有淺水兒童區）、按摩浴缸（Jacuzzi）、泳池吧（招牌鳳梨可樂達用雕刻椰殼裝住好出名）、圖書室。冇附設餐廳，但對面就係合作嘅 Poppies Restaurant（1973年開業，峇里島最早嘅著名餐廳之一），早餐可以送到房食。
 
-🛏️ **客房**：僅 20 間傳統峇里島茅草屋頂小屋，戶外花園浴室（木雕和大理石工藝）是最讓旅客驚喜的設計，寬敞、有峇里島在地風情。注意：靠近泳池的屋子夜間稍吵。5歲以下兒童免費入住。
+🛏️ **客房**：得20間傳統峇里島茅草屋頂小屋，戶外花園浴室（木雕同大理石工藝）係最令旅客驚喜嘅設計，夠晒闊落，充滿峇里島地道風情。留意：近泳池嘅屋夜晚會多少少嘈。5歲以下細路免費入住。
 
-💬 **住客評價**：回訪率極高，許多旅客說「去峇里島如果不住 Poppies 就不算去過」；缺點是設施精簡，不適合帶孩子的家庭，也不適合追求豪華設施的旅客。
+💬 **住客評價**：回頭率極高，好多旅客話「去峇里島如果唔住 Poppies 就唔算去過」；缺點係設施簡單，唔啱帶細路嘅家庭，亦唔啱追求豪華設施嘅旅客。
 
-> Agoda 評價9.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1991683) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6551798/poppies-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/YTe3Yesw)
+Agoda 評分9.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1991683) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-6551798/poppies-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/YTe3Yesw)
 
 ***
 
 ## Fairfield by Marriott Bali Kuta Sunset Road ⭐⭐⭐⭐
 
-萬豪旗下Fairfield品牌，位於Sunset Road商圈（Kuta外環道），但離機場只需20分鐘，連接庫塔同Seminyak，係鍾意兩邊走嘅旅客最方便嘅中繼點。
+萬豪旗下嘅Fairfield品牌，位於Sunset Road商圈（Kuta外環道），但距離機場只係20分鐘車程，連接庫塔同水明漾，係鍾意兩邊走嘅旅客最方便嘅中繼點。
 
 ![Fairfield by Marriott Bali Kuta Sunset Road](https://images.gobaligo.id/images/2026-04/1777172478588-d5fbcda6a0a7dc4d2cb6ad9763cc46b0.webp)
 
@@ -287,9 +287,9 @@ Poppies Lane 1 上的傳奇精品飯店，1970 年代與峇里島一同成長，
 
 🏨 **設施**：戶外游泳池（附泳池吧）、按摩浴缸、24小時健身室、Jejaton Restaurant（印尼菜同西式料理，自助早餐評價極高）、JABA Lobby Lounge（全日下晝茶、調酒輕食）、單車出租、電動車充電站、會議室。
 
-🛏️ **客房**：223間，全部有私人露台，泳池景觀房視野唔錯，隔音良好，床鋪舒適。部分住客反映泳池受建築物遮蔭，某啲時段陽光唔夠；Wi-Fi間中唔穩定。
+🛏️ **客房**：223間，全部有私人露台，泳池景觀房視野唔錯，隔音良好，床鋪舒適。部分住客反映泳池受建築物遮蔭，某啲時段日照唔夠；Wi-Fi間中唔穩定。
 
-💬 **住客評價**：早餐豐富多樣（有餃子、可麗餅、現煮蛋站）幾乎每篇評論都提，員工服務態度出色；缺點係離海灘有段距離，唔適合以衝浪或海灘為主要活動嘅旅客。
+💬 **住客評價**：早餐豐富多樣（有餃子、可麗餅、現煮蛋站）幾乎每篇評論都提，員工服務態度出色；缺點係距離海灘有段路，唔適合以衝浪或海灘為主要活動嘅旅客。
 
 > 2024 Agoda旅人鑑賞優勝精選，Agoda評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9394147) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-44009504/fairfield-by-marriott-bali-kuta-sunset-road/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/NLvgkHE4)
 
@@ -297,7 +297,7 @@ Poppies Lane 1 上的傳奇精品飯店，1970 年代與峇里島一同成長，
 
 ## The Magani Hotel and Spa ⭐⭐⭐⭐
 
-Legian區Jl. Melasti上嘅活力型酒店，離Kuta Beach只需行5分鐘，嚴格嚟講幾乎係海灘類，但Legian市街感更重，加上夜晚有Drag Show等現場娛樂，整體氣氛熱鬧活潑。2012年開業，保養良好，口碑持續穩定。
+Legian區Jl. Melasti上嘅活力型酒店，距離Kuta Beach步行只需5分鐘，嚴格嚟講幾乎係海灘類，但Legian市街感更重，加上夜晚有Drag Show等現場娛樂，整體氣氛熱鬧活潑。2012年開業，保養良好，口碑持續穩定。
 
 ![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172575891-8779268741c7927f8d391b1d42dce2eb.webp)
 
@@ -319,11 +319,11 @@ Legian區Jl. Melasti上嘅活力型酒店，離Kuta Beach只需行5分鐘，嚴�
 
 ![The Magani Hotel and Spa](https://images.gobaligo.id/images/2026-04/1777172579859-633440495.jpg)
 
-📍 **位置**：Jl. Melasti, Legian Kelod，行去 Kuta Beach 只需 3 分鐘，Beachwalk 購物中心行 15 分鐘就到，Jl. Legian 酒吧餐廳街喺附近，機場大概 20 分鐘車程。
+📍 **位置**：Jl. Melasti, Legian Kelod，行去 Kuta Beach 大概 3 分鐘，Beachwalk 購物中心行 15 分鐘，Jl. Legian 酒吧餐廳街就喺隔籬，機場大約 20 分鐘車程。
 
-🏨 **設施**：戶外泳池（有泳池吧）、細路泳池、Visala Spa（有情侶療程、Plunge Pool、男女桑拿）、健身室（有住客話重量器材少咗啲）、Mozzarella Restaurant & Bar（峇里島菜同西式料理，有面向街嘅露台）、夜晚現場表演（Drag Show 俾好多住客讚到冇得頂）。
+🏨 **設施**：戶外泳池（有泳池吧）、兒童泳池、Visala Spa（有情侶療程、Plunge Pool、男女桑拿）、健身室（有住客話重量器材少咗啲）、Mozzarella Restaurant & Bar（峇里島菜同西式料理，有面向街嘅露台）、夜晚現場表演（Drag Show 俾好多住客讚到冇得頂）。
 
-🛏️ **客房**：108 間，10 種唔同房型，包括 Deluxe、Premier（有私人 Plunge Pool）同 Magani Suite（有戶外 Jacuzzi）。空間闊落，大理石浴室有雨淋花灑，床鋪舒服，乾淨度評分好高。有提供相連房 (Interconnecting Room)。近泳池吧嘅房型夜晚有時會有噪音，建議揀飯店左邊比較靜嘅房型。
+🛏️ **客房**：108 間，10 種唔同房型，包括 Deluxe、Premier（有私人 Plunge Pool）同 Magani Suite（有戶外 Jacuzzi）。空間闊落，大理石浴室有雨淋花灑，床鋪舒服，乾淨度評分好高。有提供相連房 (Interconnecting Room)。近泳池吧嘅房型夜晚有時會有噪音，建議揀酒店左邊比較靜嘅房型。
 
 💬 **住客評價**：服務溫暖個人化係最大亮點，好多回頭客，Agoda 位置評分 9.1 分。
 
@@ -361,7 +361,7 @@ Legian區Jl. Melasti上嘅活力型酒店，離Kuta Beach只需行5分鐘，嚴�
 
 🛏️ **客房**：傳統峇里島設計，感受在地文化氛圍效果明顯，設施基本但乾淨，適合將酒店當成瞓覺同休息基地嘅旅客。有四人房 Family Room 、連通家庭房 (Deluxe Interconnecting Family Room)、雙臥室套房 (Two Bedroom Suite)。
 
-💬 **住客評價**：價格係最大優點，行街購物方便；缺點係設施已經有啲年紀，部分標準房空間偏細，房型品質落差比較大，訂房前建議睇清楚啲相。
+💬 **住客評價**：價格係最大優點，行街購物方便；缺點係設施已經有啲年紀，部分標準房空間偏細，房型品質落差較大，訂房前建議睇清楚啲相。
 
 > 2024 Agoda 旅人鑑賞優勝精選，Agoda 評價8.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45562) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-987794/ramayana-resort-and-spa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/C6uV6sX6)
 
@@ -395,25 +395,25 @@ Legian區Jl. Melasti上嘅活力型酒店，離Kuta Beach只需行5分鐘，嚴�
 
 🏨 **設施**：泳池、餐廳、健身房、商務設施，品牌強項係服務同商務配備，適合需要穩定 Wi-Fi 同會議空間嘅旅客。
 
-🛏️ **客房**：現代商務風格，乾淨整潔，空間合理，Wi-Fi 穩定，設施標準齊整，住起上嚟安心。有家庭套房 (Family Suite)
+🛏️ **客房**：現代商務風格，乾淨整潔，空間合理，Wi-Fi 穩定，設施標準整齊，住起上嚟安心。有家庭套房 (Family Suite)
 
-💬 **住客評價**：服務專業、設施完善，整體評價穩定；缺點係距離海灘有段距離，峇里島度假感稍弱，比較適合將庫塔當跳板嘅旅客。
+💬 **住客評價**：服務專業、設施完善，整體評價穩定；缺點係距離海灘有段距離，峇里島度假感稍弱，比較適合將庫塔當成跳板嘅旅客。
 
-> Agoda 精選，Agoda 評分8.9⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3362026) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-14262941/aryaduta-kuta-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/31JUtjcy)<!-- no-shuffle -->***# ✈️ 近機場對好多人嚟講，「機場旁邊住宿」只係應急嘅選擇——但其實唔止咁簡單。夜晚到埗唔想趕路、清晨出發唔想天都未光就叫車、轉搭內陸機、或者行程最後一日唔想帶住大包細包喺庫塔街度行，呢個時候機場旁邊嘅酒店先係令旅程順暢嘅關鍵。以下兩間係庫塔機場附近口碑最穩定嘅選擇。***## Novotel Bali Ngurah Rai Airport全球少數真正喺機場客運大樓**內部**嘅連鎖酒店，唔係機場附近，係就喺機場裏面——行5-10分鐘直達國際離境大堂同國內抵達大堂，趕早機嘅旅客直接慳晒所有交通麻煩。📍 **位置**：Jalan Raya Ngurah Rai, Tuban，位於I Gusti Ngurah Rai機場園區內部，直通國際離境大堂同國內抵達大堂，行5-10分鐘唔使接送。去海灘行大約15-20分鐘，庫塔市區車程約10分鐘（的士費偏貴，建議用Grab）。🏨 **設施**：206間客房、戶外泳池、健身室、Spa、6間會議室（最大200人劇院式）、The Square全日餐廳（早餐由凌晨4:30開始供應，趕早機完全唔使餓親）、GourmetBar 24小時、Run@way Bar頂樓觀景吧可以睇跑道同日落。
+[> Agoda 精選，Agoda 評分8.9⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3362026) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-14262941/aryaduta-kuta-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/31JUtjcy)
 
 <!-- no-shuffle -->
 
 ***
 
-# ✈️ 靠近機場
+# ✈️ 近機場
 
-對很多人來說，「機場旁住宿」只是應急選項——但其實不止如此。深夜抵達不想趕路、清晨出發不想天未亮就叫車、轉搭國內班機、或者行程最後一天不想帶著大包小包在庫塔街上逛，這時候機場旁的飯店才是真正讓旅程順暢的關鍵。以下兩間是庫塔機場附近口碑最穩定的選擇。
+對好多人嚟講，「機場隔籬住宿」只係應急嘅選擇——但其實唔止咁簡單。深夜到埗唔想趕路、清晨出發唔想天都未光就叫車、轉搭內陸機、或者行程最後一日唔想拎住大包細包喺庫塔街度行，呢個時候機場附近嘅酒店先至係令旅程順暢嘅關鍵。以下兩間係庫塔機場附近口碑最穩定嘅選擇。
 
 ***
 
 ## Novotel Bali Ngurah Rai Airport
 
-全球少數真正在機場航廈**內部**的連鎖飯店，不是機場附近，是就在機場裡面——步行 5-10 分鐘直達國際出發廳和國內到達廳，趕早班機的旅客直接省掉所有交通麻煩。
+全球少數真正喺機場航廈**內部**嘅連鎖酒店，唔係機場附近，係就喺機場入面——行 5-10 分鐘直達國際出發廳同國內到達廳，趕早機嘅旅客直接慳返晒所有交通麻煩。
 
 ![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173310375-a4a0e49f72028f9addfb0c7f73ef30c7.webp)
 
@@ -435,21 +435,21 @@ Legian區Jl. Melasti上嘅活力型酒店，離Kuta Beach只需行5分鐘，嚴�
 
 ![Novotel Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173315187-e5d3d13d80acf1a6018e50d3cdaf39cb.webp)
 
-📍 **位置**：Jalan Raya Ngurah Rai, Tuban，位於 I Gusti Ngurah Rai 機場園區內部，直通國際出發廳和國內到達廳，步行 5-10 分鐘免接送。到海灘步行約 15 - 20 分鐘，庫塔市區車程約 10 分鐘（計程車費偏貴，建議用 Grab）。
+📍 **位置**：Jalan Raya Ngurah Rai, Tuban，喺 I Gusti Ngurah Rai 機場園區入面，直通國際出發廳同國內到達廳，行 5-10 分鐘就到，唔使搭車。去海灘大約行 15-20 分鐘，去庫塔市區車程大概 10 分鐘（的士費比較貴，建議用 Grab）。
 
-🏨 **設施**：206 間客房、戶外泳池、健身房、Spa、6 間會議室（最大 200 人劇院式）、The Square 全日餐廳（早餐從凌晨 4:30 開始供應，趕早班機完全不用餓肚子）、GourmetBar 24 小時、Run@way Bar 頂樓觀景吧可看跑道和日落。
+🏨 **設施**：206 間房、戶外泳池、健身室、Spa、6 間會議室（最大200人劇院式）、The Square 全日餐廳（早餐凌晨4:30就開始供應，趕早機完全唔使捱肚餓）、GourmetBar 24小時營業、Run@way Bar 頂樓觀景吧可以睇到跑道同日落。
 
-🛏️ **客房**：所有房型隔音都做得好好，就算喺機場入面都幾乎聽唔到飛機聲，呢一點差唔多每篇評論都有特別提到。Suite 56 平方米，有獨立客廳。有啲住客反映走廊燈光偏暗，少數房型嘅空調有啲舊。
+🛏️ **客房**：所有房型隔音都做得好好，就算喺機場入面都幾乎聽唔到飛機聲，呢一點差唔多每篇評論都有特別提到。Suite 有 56 平方米，仲有獨立客廳。有啲住客反映走廊燈光偏暗，少數房型嘅空調有啲舊。
 
-💬 **住客評價**：轉機旅客幾乎一面倒讚好，班機延誤或者深夜到埗嘅時候幾乎係唯一選擇，旺季更加係一房難求，建議提早預訂。
+💬 **住客評價**：轉機旅客幾乎一面倒讚好，航班延誤或者深夜到埗嘅時候幾乎係唯一選擇，旺季更加係一房難求，建議早啲預訂。
 
-> Agoda 評價8.7⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1120757) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5218386/novotel-bali-ngurah-rai-airport/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/8ztpltxn)
+> Agoda 評價 8.7⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1120757) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-5218386/novotel-bali-ngurah-rai-airport/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/8ztpltxn)
 
 ***
 
 ## Hilton Garden Inn Bali Ngurah Rai Airport
 
-距離機場 500 米嘅希爾頓品牌，有免費機場接送同 Kuta 市區購物中心接駁車，比起 Novotel 多咗更闊落嘅空間同更豐富嘅家庭設施，適合需要住多一兩晚、唔只係過夜嘅旅客。
+距離機場 500 米嘅希爾頓品牌，有免費機場接送同 Kuta 市區購物中心接駁車，比起 Novotel 多咗更闊落嘅空間同更豐富嘅家庭設施，適合需要住多一兩晚、唔止係過夜嘅旅客。
 
 ![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173676061-7ea18c1e1cc821e51270f407945fa8d8.webp)
 
@@ -471,33 +471,33 @@ Legian區Jl. Melasti上嘅活力型酒店，離Kuta Beach只需行5分鐘，嚴�
 
 ![Hilton Garden Inn Bali Ngurah Rai Airport](https://images.gobaligo.id/images/2026-04/1777173681585-6a5b050311c4992b5e74e133df7c29f8.webp)
 
-📍 **位置**：Jalan Airport Ngurah Rai No. 7, Tuban，距離機場步行 500 米（約 5-7 分鐘），Waterbom Bali 約 1.6 公里，Discovery Mall 約 1.6 公里，庫塔市區車程約 10 分鐘，有免費機場接送同市區購物中心接駁車。
+📍 **位置**：Jalan Airport Ngurah Rai No. 7, Tuban，距離機場步行 500 米（大約 5-7 分鐘），Waterbom Bali 大約 1.6 公里，Discovery Mall 大約 1.6 公里，庫塔市區車程大約 10 分鐘，有免費機場接送同市區購物中心接駁車。
 
 🏨 **設施**：288 間客房、大型景觀戶外泳池、兒童泳池、24 小時健身中心、Garden Grille 餐廳（峇里島菜同西式料理，早餐可以揀現點式）、Garden Lounge 酒吧、自助洗衣房 24 小時、免費機場接駁同 Kuta 市區購物中心接駁車。
 
 🛏️ **客房**：雙層玻璃隔音設計，房間靜音效果極佳。空間闊落，有工作枱、40 吋 HDTV、迷你雪櫃，部分套房有獨立客廳。床褥同枕頭嘅品質喺住客評論入面一致獲得好評。
 
-💬 **住客評價**：員工友善度係一致嘅亮點，早餐現點品質高；缺點係雞尾酒同泳池飲品定價偏高，唔住宿入泳池都要俾錢。整體嚟講係機場附近硬件最完整嘅選擇。
+💬 **住客評價**：員工友善度係一致亮點，早餐現點品質高；缺點係雞尾酒同泳池飲品定價偏高，唔住宿入泳池都要俾錢。整體嚟講係機場附近硬件最齊全嘅選擇。
 
-[> Agoda 評分8.4⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=661189) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1837738/hilton-garden-inn-bali-ngurah-rai-airport/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dQN4JJ4L)」,「***」,「# 📌 點樣揀？」,「**近市區**呢10間，每間嘅定位其實差好遠，揀之前要先諗清楚自己想要啲乜：」,「追求**安靜精品感**嘅情侶或者蜜月旅客，Amnaya Resort 同 Poppies Bali 係兩個極端但都值得考慮嘅選擇——前者現代藝術感，後者傳統歷史感，都可以喺嘈雜嘅庫塔俾你一片難得嘅寧靜。」,「想要**熱鬧有活力**但又唔止係海灘，The Magani 嘅夜間娛樂氣氛同泳池吧最啱，Kuta Beach Club Hotel 嘅家庭設施都算齊全。」,「如果你嘅行程**以水明漾為重心但預算有限**，Fairfield by Marriott Sunset Road 嘅 Sunset Road 位置夾喺庫塔同水明漾之間，CP值高而且交通方便，係少數可以俾你兼顧兩邊嘅選擇。」,「只需要一個**穩定好瞓嘅基地**，The Vira Bali 嘅CP值同 Four Points by Sheraton 嘅品質保證都係值得信賴嘅選項。」,「**訂房建議經 Agoda 格價**，市區型酒店旺季升幅通常比海灘酒店細，但 Amnaya 同 Poppies 呢類口碑型精品酒店一樣搶手，建議提早確認。」,「> 想搵海灘旁邊嘅庫塔酒店？請睇[呢度](/zh-hk/blog/kuta-beach-hotels/)」]}
+Agoda評分8.4⭐  ｜  [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=661189) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1837738/hilton-garden-inn-bali-ngurah-rai-airport/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/dQN4JJ4L)
 
 ***
 
-# 📌 怎麼選？
+# 📌 點樣揀？
 
-**靠近市區**這 10 間，每間的定位其實差距很大，選之前先想清楚自己需要什麼：
+**近市區**呢10間，每間嘅定位其實差好遠，揀之前要諗清楚自己想要啲乜：
 
-追求**安靜精品感**的情侶或蜜月旅客，Amnaya Resort 和 Poppies Bali 是兩個極端但都值得考慮的選項——前者現代藝術感，後者傳統歷史感，都能在嘈雜的庫塔給你一片難得的寧靜。
+追求**安靜精品感**嘅情侶或者蜜月旅客，Amnaya Resort同Poppies Bali係兩個極端但都值得考慮嘅選擇——前者現代藝術感，後者傳統歷史感，都可以喺嘈雜嘅庫塔畀你一片難得嘅寧靜。
 
-想要**熱鬧有活力**但又不只是海灘，The Magani 的夜間娛樂氛圍和泳池吧最適合，Kuta Beach Club Hotel 的家庭設施也算完整。
+想要**熱鬧有活力**但又唔止係海灘，The Magani嘅夜間娛樂氣氛同泳池吧最啱，Kuta Beach Club Hotel嘅家庭設施都算齊全。
 
-如果你的行程**以 Seminyak 為重心但預算有限**，Fairfield by Marriott Sunset Road 的 Sunset Road 位置夾在庫塔和 Seminyak 之間，CP 值高且交通方便，是少數能讓你兼顧兩邊的選擇。
+如果你嘅行程**以水明漾為重心但預算有限**，Fairfield by Marriott Sunset Road嘅Sunset Road位置夾喺庫塔同水明漾之間，性價比高而且交通方便，係少數可以畀你兼顧兩邊嘅選擇。
 
-只需要一個**穩定好睡的基地**，The Vira Bali 的 CP 值和 Four Points by Sheraton 的品質保證都是值得依賴的選項。
+只需要一個**穩定好瞓嘅基地**，The Vira Bali嘅性價比同Four Points by Sheraton嘅品質保證都係值得信賴嘅選擇。
 
-**訂房建議透過 Agoda 比價**，市區型飯店旺季漲幅通常比海灘飯店小，但 Amnaya 和 Poppies 這種口碑型精品飯店同樣搶手，建議提前確認。
+**訂房建議經Agoda格價**，市區型酒店旺季升幅通常比海灘酒店細，但係Amnaya同Poppies呢類口碑型精品酒店一樣搶手，建議提早確認。
 
-> 想找海灘旁的庫塔飯店？請看[這裡](/zh-hk/blog/kuta-beach-hotels/)
+> 想搵海灘旁邊嘅庫塔酒店？請睇[呢度](/zh-hk/blog/kuta-beach-hotels/)
 
 {{block:kuta}}
 
