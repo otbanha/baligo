@@ -23,6 +23,7 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+newsCategory: 活動
 ---
 ## 傳統宗教雙節（6/17–6/27）：全島最盛大的宗教氛圍
 

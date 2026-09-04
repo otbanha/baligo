@@ -33,6 +33,11 @@ const categories = [
 const getCatName = (slug: string) => catLabel(L, slug);
 const catUrl = (slug: string) => `${blogBase}/category/${encodeURIComponent(slug)}/`;
 
+// 峇里島新聞 hub：全站僅有繁中版一個 /news/，各語系 footer 皆連向同一網址以集中內部連結
+const newsLabel = lang === 'en' ? 'Bali News' :
+                  lang === 'zh-cn' ? '巴厘岛新闻' :
+                  lang === 'id' ? 'Berita Bali' : '峇里島新聞';
+
 const tagline = lang === 'en' ? 'Bali Travel Guide · Your Smart Bali Guide' :
                 lang === 'zh-cn' ? '峇里岛旅游攻略 · 自由行达人指南' :
                 lang === 'id' ? 'Panduan Wisata Bali · Teman Perjalananmu ke Bali' :
@@ -83,6 +88,7 @@ const fireBannerUrl = lang === 'en' ? '/en/tickets/' :
     <nav class="footer-links" aria-label={catTitle}>
       <h4>{catTitle}</h4>
       <ul>
+        <li><a href="/news/">{newsLabel}</a></li>
         {categories.map(c => (
           <li><a href={catUrl(c.slug)}>{getCatName(c.slug)}</a></li>
         ))}

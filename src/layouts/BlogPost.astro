@@ -229,6 +229,11 @@ const catPageUrl = (cat: string): string => {
   return `${catBaseUrl}${encodeURIComponent(cat)}`;
 };
 
+// 新聞存檔文章：文末導回 /news/ 中樞。僅繁中版有此頁，且 .mobile-breadcrumb
+// 在桌機與手機皆為 display:none，等於原本那條麵包屑連結是看不見的，
+// 因此另外在文末補一條可見、且錨文字帶目標關鍵字的內部連結。
+const isNewsArticle = isZhTw && cats.includes('新聞存檔');
+
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
 
 // 瀏覽數統一歸到繁中 slug 底下加總，不分語言版本
@@ -642,6 +647,16 @@ const spaFaqSchema = isSpaGuide ? {
           <!-- StageBridge：白名單文章的下一步導流卡片 -->
           {bridgeData && slug && (
             <StageBridge stage={bridgeData.stage} region={bridgeData.region} currentSlug={slug} />
+          )}
+
+          <!-- 新聞存檔文章：文末導回 /news/ 中樞，錨文字帶目標關鍵字 -->
+          {isNewsArticle && (
+            <nav class="news-hub-backlink" aria-label="峇里島新聞">
+              <a href="/news/">
+                <span aria-hidden="true">📰</span>
+                看更多<strong>峇里島新聞</strong>：每日更新入境規定、天氣火山、交通與治安提醒 →
+              </a>
+            </nav>
           )}
 
           <!-- D.2-3: footer 位置 — 文末 CTA 卡片 -->
@@ -1924,6 +1939,40 @@ hr { margin: 1.2em 0 1.8em; }
 }
 :global(.lb-close:hover) {
   background: rgba(255, 255, 255, 0.3);
+}
+
+/* 新聞存檔文章文末的 /news/ 導回連結 */
+.news-hub-backlink {
+  margin: 2em 0 1.5em;
+}
+.news-hub-backlink a {
+  display: flex;
+  align-items: center;
+  gap: 0.55em;
+  padding: 0.9em 1.1em;
+  border: 1px solid rgba(10, 61, 107, 0.18);
+  border-left: 4px solid var(--ocean, #0a3d6b);
+  border-radius: 8px;
+  background: rgba(10, 61, 107, 0.04);
+  color: var(--ocean, #0a3d6b);
+  font-size: 0.95em;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+.news-hub-backlink a:hover {
+  background: rgba(10, 61, 107, 0.09);
+  border-color: rgba(10, 61, 107, 0.35);
+}
+.news-hub-backlink strong {
+  font-weight: 700;
+}
+@media (max-width: 640px) {
+  .news-hub-backlink a {
+    padding: 0.8em 0.9em;
+    font-size: 0.9em;
+    align-items: flex-start;
+  }
 }
 
 /* Mobile 麵包屑：桌機隱藏，手機才顯示 */
