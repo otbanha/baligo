@@ -23,6 +23,15 @@ const blog = defineCollection({
     category: z.union([z.string(), z.array(z.string())]).optional(),
     tags: z.any().optional(),
     originalUrl: z.string().optional(),
+    // 新聞存檔文章的次分類，供 /news/ 分類 chips 與 /news/category/[category]/ 使用。
+    // 注意：欄位必須宣告在這裡才會被 Astro 讀到——z.object() 會把未宣告的 frontmatter
+    // 欄位直接剝掉。本欄位原本只加在 src/content/config.ts（Astro 5 之前的舊路徑，
+    // 現已不被載入），導致 data.newsCategory 一直是 undefined、分類頁一個都生不出來。
+    // Sveltia CMS 的 select widget（required: false）存檔時會寫入空字串，
+    // 用 catch 正規化為 undefined，避免無效值讓整站 build 失敗。
+    newsCategory: z.enum(['政策', '交通', '天氣', '景點', '簽證', '治安', '活動']).optional().catch(undefined),
+    // /news/ 列表縮圖的替代文字（未填則由頁面 fallback 到標題）
+    imageAlt: z.string().optional(),
     embeds: z.array(z.object({
       position: z.string(),
       platform: z.enum(['youtube', 'instagram', 'tiktok']),
