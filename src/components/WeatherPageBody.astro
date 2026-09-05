@@ -1,0 +1,441 @@
+---
+// WeatherPageBody.astro — /weather/ 五個語言版本共用的頁面主體
+//
+// 文案在 src/data/weatherPageCopy.ts，逐月數值在 src/data/baliClimate.ts。
+// 五種語言的版面完全相同，所以 markup 與樣式只留這一份，避免 5 個 page
+// 檔各自複製後漸漸走鐘（hreflang 漏 id 就是這樣來的）。
+
+import BaliWeather from './BaliWeather.astro';
+import type { WeatherLang } from '../data/baliClimate';
+import { BALI_CLIMATE, SEASON_LABEL, CLIMATE_ADVICE } from '../data/baliClimate';
+import { getWeatherCopy } from '../data/weatherPageCopy';
+
+interface Props {
+  lang: WeatherLang;
+}
+
+const { lang } = Astro.props;
+const c = getWeatherCopy(lang);
+const seasonLabel = SEASON_LABEL[lang];
+const advice = CLIMATE_ADVICE[lang];
+
+// 即時攝影機用「點擊才載入」的封面圖（facade）。原本兩支 autoplay iframe
+// 一進頁面就開始播，是這頁行動版 LCP / INP 最大的負擔。
+const cams = [
+  { id: 'L1duJDAqbJY', label: c.camLabels[0] },
+  { id: 'xuSvwBMhysw', label: c.camLabels[1] },
+];
+
+const BANNER_SLUG = 'bali-rainy-season-travel-guide';
+const BANNER_IMG = 'https://images.gobaligo.id/images/2026-05/1778906557521-1-12.png';
+
+const scoreColor = (s: number) =>
+  s >= 95 ? '#1f9d55' : s >= 80 ? '#7cb342' : s >= 65 ? '#f0a500' : '#e2683c';
+---
+
+<main class="weather-page">
+  <h1>{c.h1}</h1>
+  <p class="subtitle">{c.subtitle}</p>
+
+  <div class="lede">
+    <p set:html={c.ledeHtml} />
+  </div>
+
+  <BaliWeather lang={lang} />
+
+  <h2 id="monthly">{c.monthlyH2}</h2>
+  <p>{c.monthlyIntro}</p>
+  <p class="table-hint">{c.tableHint}</p>
+  <div class="table-scroll">
+    <table class="climate">
+      <caption>{c.tableCaption}</caption>
+      <thead>
+        <tr>
+          <th scope="col">{c.th.month}</th>
+          <th scope="col">{c.th.season}</th>
+          <th scope="col">{c.th.rainChance}</th>
+          <th scope="col">{c.th.rainDays}</th>
+          <th scope="col">{c.th.temp}</th>
+          <th scope="col">{c.th.score}</th>
+          <th scope="col">{c.th.advice}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {BALI_CLIMATE.map((m) => (
+          <tr>
+            <th scope="row" class="month">{c.monthNames[m.month - 1]}</th>
+            <td><span class={`season-tag season-${m.season}`}>{seasonLabel[m.season]}</span></td>
+            <td>{m.rainChance[0]}–{m.rainChance[1]}%</td>
+            <td>{m.rainDays[0]}–{m.rainDays[1]}{c.daysUnit}</td>
+            <td>{m.temp[0]}–{m.temp[1]}°C</td>
+            <td class="score-cell">
+              <strong>{m.travelScore}%</strong>
+              <span class="score-bar"><i style={`width:${m.travelScore}%;background:${scoreColor(m.travelScore)}`}></i></span>
+            </td>
+            <td class="advice">{advice[m.month - 1]}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+
+  <h2 id="seasons">{c.seasonsH2}</h2>
+  <p set:html={c.seasonsIntroHtml} />
+  <div class="season-grid">
+    <div class="season-card dry">
+      <h3>{c.dryTitle}</h3>
+      <ul>{c.dryPoints.map((p) => <li>{p}</li>)}</ul>
+    </div>
+    <div class="season-card wet">
+      <h3>{c.wetTitle}</h3>
+      <ul>{c.wetPoints.map((p) => <li>{p}</li>)}</ul>
+    </div>
+  </div>
+  <p set:html={c.seasonsOutroHtml} />
+
+  <h2 id="what-to-wear">{c.wearH2}</h2>
+  <div class="weather-tips">
+    <ul>{c.wearPointsHtml.map((p) => <li set:html={p} />)}</ul>
+  </div>
+
+  <h2 id="regions">{c.regionsH2}</h2>
+  <div class="weather-tips">
+    <ul>{c.regionPointsHtml.map((p) => <li set:html={p} />)}</ul>
+  </div>
+
+  <h2 id="faq">{c.faqH2}</h2>
+  <div class="faq">
+    {c.faqs.map((f, i) => (
+      <details open={i === 0}>
+        <summary>{f.q}</summary>
+        <p class="faq-a">{f.a}</p>
+      </details>
+    ))}
+  </div>
+
+  <h2 id="livecam">{c.camsH2}</h2>
+  <p>{c.camsIntro}</p>
+  <div class="cams-grid">
+    {cams.map((cam) => (
+      <div>
+        <p class="cam-label">{cam.label}</p>
+        <div class="cam-wrap">
+          <button
+            class="cam-facade"
+            type="button"
+            data-video={cam.id}
+            aria-label={c.playAria(cam.label)}
+            style={`background-image:url(https://i.ytimg.com/vi/${cam.id}/hqdefault.jpg)`}
+          ></button>
+        </div>
+      </div>
+    ))}
+  </div>
+
+  <h2 id="read-more">{c.readMoreH2}</h2>
+  <a href={`${c.blogPrefix}/${BANNER_SLUG}/`} class="related-banner">
+    <img src={BANNER_IMG} alt={c.bannerAlt} loading="lazy" />
+  </a>
+  <ul class="article-links">
+    {c.links.map((l) => (
+      <li><a href={`${c.blogPrefix}/${l.slug}/`}>{l.text}</a></li>
+    ))}
+  </ul>
+</main>
+
+<script is:inline>
+  // 即時攝影機 facade：點擊後才插入 iframe，首次載入不跑兩支 YouTube 播放器
+  document.querySelectorAll('.cam-facade').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var id = btn.getAttribute('data-video');
+      var iframe = document.createElement('iframe');
+      iframe.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1&mute=1';
+      iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+      iframe.allowFullscreen = true;
+      btn.replaceWith(iframe);
+    });
+  });
+</script>
+
+<style>
+  .weather-page {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem 3rem;
+  }
+  .weather-page h1 {
+    font-size: 1.6rem;
+    margin: 0 0 0.4rem;
+    color: #1a1a1a;
+  }
+  .weather-page h2 {
+    font-size: 1.15rem;
+    margin: 2.2rem 0 0.6rem;
+    color: #14395f;
+    line-height: 1.4;
+  }
+  .weather-page h3 {
+    font-size: 1rem;
+    margin: 1.2rem 0 0.4rem;
+    color: #1a6fad;
+  }
+  .weather-page p { color: #333; font-size: 0.95rem; line-height: 1.85; }
+  .weather-page .subtitle {
+    color: #666;
+    font-size: 0.92rem;
+    margin: 0 0 1rem;
+  }
+  .lede {
+    background: #f5f8ff;
+    border-left: 4px solid #1a6fad;
+    border-radius: 0 10px 10px 0;
+    padding: 0.9rem 1.1rem;
+    margin: 0 0 1.4rem;
+  }
+  .lede p { margin: 0; font-size: 0.95rem; }
+  /* 導言是用 set:html 注入的，裡面的 <strong> 拿不到 Astro 的 scope 屬性 */
+  .lede :global(strong) { color: #14395f; }
+
+  /* ── 12 個月對照表 ── */
+  .table-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border: 1px solid #dde6f2;
+    border-radius: 12px;
+  }
+  table.climate {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 640px;
+    font-size: 0.84rem;
+    background: #fff;
+  }
+  table.climate caption {
+    caption-side: bottom;
+    text-align: left;
+    color: #777;
+    font-size: 0.78rem;
+    padding: 0.6rem 0.2rem 0;
+    line-height: 1.6;
+  }
+  table.climate th,
+  table.climate td {
+    padding: 0.5rem 0.6rem;
+    border-bottom: 1px solid #eef2f7;
+    text-align: center;
+    white-space: nowrap;
+  }
+  table.climate thead th {
+    background: #14395f;
+    color: #fff;
+    font-weight: 600;
+    font-size: 0.8rem;
+  }
+  table.climate tbody tr:nth-child(even) { background: #fafcff; }
+  table.climate tbody tr:hover { background: #f0f6ff; }
+  table.climate tbody th.month {
+    font-weight: 700;
+    color: #14395f;
+    text-align: center;
+  }
+  table.climate td.advice {
+    text-align: left;
+    white-space: normal;
+    min-width: 15rem;
+    color: #444;
+  }
+  .season-tag {
+    display: inline-block;
+    padding: 0.1rem 0.5rem;
+    border-radius: 99px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .season-wet      { background: #dcecff; color: #1a4f8a; }
+  .season-dry      { background: #ffeec2; color: #8a5a00; }
+  .season-shoulder { background: #e8e8e8; color: #555; }
+  .score-cell { min-width: 5.5rem; }
+  .score-bar {
+    display: block;
+    height: 6px;
+    border-radius: 99px;
+    background: #eceff3;
+    overflow: hidden;
+    margin-top: 0.25rem;
+  }
+  .score-bar i { display: block; height: 100%; border-radius: 99px; }
+  .table-hint {
+    display: none;
+    color: #999;
+    font-size: 0.78rem;
+    margin: 0.4rem 0 0;
+  }
+  @media (max-width: 700px) {
+    .table-hint { display: block; }
+  }
+
+  /* ── 乾季 / 雨季比較 ── */
+  .season-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.9rem;
+    margin-top: 0.8rem;
+  }
+  .season-card {
+    border-radius: 12px;
+    padding: 1rem 1.1rem;
+    border: 1px solid #e2e8f0;
+  }
+  .season-card.dry { background: #fffaf0; border-color: #f3dfae; }
+  .season-card.wet { background: #f4f9ff; border-color: #cfe0f5; }
+  .season-card h3 { margin-top: 0; }
+  .season-card ul {
+    margin: 0;
+    padding-left: 1.1rem;
+    color: #444;
+    font-size: 0.87rem;
+    line-height: 1.8;
+  }
+  @media (max-width: 560px) {
+    .season-grid { grid-template-columns: 1fr; }
+  }
+
+  .weather-tips {
+    margin-top: 1rem;
+    background: #f5f8ff;
+    border-radius: 12px;
+    padding: 1.1rem 1.3rem;
+  }
+  .weather-tips ul {
+    margin: 0;
+    padding-left: 1.2rem;
+    color: #444;
+    font-size: 0.88rem;
+    line-height: 1.8;
+  }
+  .weather-tips ul li { margin-bottom: 0.2rem; }
+
+  /* ── FAQ ── */
+  .faq details {
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    margin-bottom: 0.55rem;
+    background: #fff;
+  }
+  .faq summary {
+    cursor: pointer;
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: #14395f;
+    list-style: none;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after {
+    content: '＋';
+    float: right;
+    color: #1a6fad;
+    font-weight: 400;
+  }
+  .faq details[open] summary::after { content: '－'; }
+  .faq .faq-a {
+    padding: 0 1rem 0.9rem;
+    margin: 0;
+    color: #444;
+    font-size: 0.89rem;
+    line-height: 1.85;
+  }
+
+  /* ── 即時攝影機（點擊才載入） ── */
+  .cams-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8rem;
+  }
+  .cam-label {
+    font-size: 0.82rem;
+    color: #555;
+    margin: 0 0 0.3rem;
+    font-weight: 600;
+  }
+  .cam-wrap {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #000;
+  }
+  .cam-wrap :global(iframe),
+  .cam-wrap .cam-facade {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    border: none;
+  }
+  .cam-facade {
+    display: block;
+    padding: 0;
+    cursor: pointer;
+    background-size: cover;
+    background-position: center;
+  }
+  .cam-facade::after {
+    content: '▶';
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    color: #fff;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.6);
+    background: rgba(0,0,0,0.25);
+  }
+  @media (max-width: 520px) {
+    .cams-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── 延伸閱讀 ── */
+  .related-banner {
+    display: block;
+    width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 0.8rem;
+    text-decoration: none;
+  }
+  .related-banner img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+  }
+  .article-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .article-links li a {
+    display: block;
+    background: #f0f6ff;
+    border: 1px solid #c8ddf8;
+    border-left: 4px solid #1a6fad;
+    border-radius: 8px;
+    padding: 0.65rem 1rem;
+    color: #1a3a6d;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.4;
+    text-decoration: none;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .article-links li a:hover {
+    background: #ddeeff;
+    border-left-color: #c5a059;
+    color: #0f2a55;
+  }
+</style>

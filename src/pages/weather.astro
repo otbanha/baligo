@@ -1,64 +1,20 @@
 ---
+// /weather/ 的 zh-tw 版。版面與文案共用 WeatherPageBody + weatherPageCopy，
+// 這裡只負責 head（title / description / hreflang / JSON-LD）與外框。
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import TopStrip from '../components/TopStrip.astro';
 import Footer from '../components/Footer.astro';
-import BaliWeather from '../components/BaliWeather.astro';
-import { BALI_CLIMATE, SEASON_LABEL, BEST_MONTHS, WORST_MONTH } from '../data/baliClimate';
+import WeatherPageBody from '../components/WeatherPageBody.astro';
+import { getWeatherCopy, WEATHER_HREFLANGS } from '../data/weatherPageCopy';
 
 const SITE_URL = 'https://gobaligo.id';
-const lang = 'zh-tw';
-const YEAR = new Date().getFullYear();
+const lang = 'zh-tw' as const;
+const c = getWeatherCopy(lang);
 
-const title = `峇里島天氣${YEAR}｜即時氣溫・7天預報・12個月雨季乾季對照表 - Gobaligo`;
-const description = `峇里島即時天氣與 7 天預報（庫塔、烏布、努沙杜瓦），加上 12 個月降雨機率、雨天數、平均氣溫與適合旅遊指數對照表。${BEST_MONTHS.join('、')} 月最適合旅遊，${WORST_MONTH} 月最需備案；另有乾季雨季差別、幾月去最好、海邊與寺廟該穿什麼。`;
-
-const hreflangs = [
-  { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
-  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/weather/` },
-  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/weather/` },
-  { hreflang: 'en',        href: `${SITE_URL}/en/weather/` },
-  { hreflang: 'id',        href: `${SITE_URL}/id/weather/` },
-  { hreflang: 'x-default', href: `${SITE_URL}/weather/` },
-];
-
-// 即時攝影機改用「點擊才載入」的封面圖（facade），避免兩個 YouTube iframe
-// 一進頁面就自動播放——那會吃掉行動裝置的 LCP 與 INP，也是這頁過去最大的效能負擔。
-const cams = [
-  { id: 'L1duJDAqbJY', label: '峇里島南部（庫塔 / 水明漾一帶）' },
-  { id: 'xuSvwBMhysw', label: '烏布' },
-];
-
-const faqs = [
-  {
-    q: '峇里島現在天氣如何？',
-    a: '本頁上方的即時天氣區塊會顯示庫塔、烏布、努沙杜瓦三區的當下氣溫、體感溫度、濕度、降雨與 UV 指數，資料來自 Open-Meteo，每 10 分鐘更新一次，並附未來 7 天預報。',
-  },
-  {
-    q: '峇里島幾月去最好？',
-    a: `以降雨機率、雨天數與氣候舒適度綜合計算，${BEST_MONTHS.join(' 月與 ')} 月的適合旅遊指數達 100%：乾爽少雨、氣溫舒適，且遊客量比 7、8 月暑假旺季少。5 月（95%）與 4 月、10 月（85%）也很適合。最需要準備室內備案的是 ${WORST_MONTH} 月（50%），雨水豐沛又逢聖誕跨年旺季。`,
-  },
-  {
-    q: '峇里島雨季和乾季各是幾月？',
-    a: '乾季大約是 4 月到 10 月，晴天為主、濕度較低；雨季大約是 11 月到隔年 3 月，以午後雷陣雨為主。4 月與 10 月屬於過渡期，天氣介於兩者之間。',
-  },
-  {
-    q: '峇里島雨季會下整天的雨嗎？',
-    a: '通常不會。峇里島雨季的典型型態是午後或傍晚的短時強降雨，多半一小時內就結束，早上和夜間常是晴朗的。而且全島同時下雨的情況很少見——山區與東部、北部比南部平地容易下雨，南部海邊下雨時，烏布或努沙杜瓦不一定在下。',
-  },
-  {
-    q: '去峇里島該穿什麼？',
-    a: '全年都是短袖短褲加涼鞋的天氣。海邊日曬強、UV 指數常破 10，防曬係數 50 以上是必備；烏布等山區比海邊低 2–4°C，早晚建議加一件薄外套；參觀寺廟必須遮住肩膀與膝蓋，多數寺廟門口可租借紗龍（Sarong）。餐廳與車上冷氣通常很強，隨身一件薄外套會舒服很多。',
-  },
-  {
-    q: '峇里島一年氣溫變化大嗎？',
-    a: '不大。峇里島接近赤道，全年平均氣溫都在 24–32°C 之間，月均溫差不到 2°C。真正的季節差別在「濕度與降雨」，不在氣溫——這也是為什麼行李幾乎不用隨季節改變，改變的是要不要多帶一把折傘。',
-  },
-  {
-    q: '峇里島雨季旅遊有什麼好處嗎？',
-    a: '有。雨季遊客較少、機票與住宿價格明顯較低，氣溫也比乾季正午舒服一些，梯田與瀑布在雨季反而最翠綠水量最足。只要行程安排時預留室內備案（SPA、咖啡廳、購物中心、博物館），雨季一樣好玩。',
-  },
-];
+const title = c.title(new Date().getFullYear());
+const description = c.description;
+const pageUrl = `${SITE_URL}${c.path}`;
 
 const schema = {
   '@context': 'https://schema.org',
@@ -66,22 +22,26 @@ const schema = {
     {
       '@type': 'BreadcrumbList',
       'itemListElement': [
-        { '@type': 'ListItem', 'position': 1, 'name': '首頁', 'item': `${SITE_URL}/` },
-        { '@type': 'ListItem', 'position': 2, 'name': '峇里島天氣', 'item': `${SITE_URL}/weather/` },
+        { '@type': 'ListItem', 'position': 1, 'name': c.breadcrumbHome, 'item': `${SITE_URL}${c.homePath}` },
+        { '@type': 'ListItem', 'position': 2, 'name': c.breadcrumbSelf, 'item': pageUrl },
       ],
     },
     {
       '@type': 'WebPage',
-      '@id': `${SITE_URL}/weather/`,
+      '@id': pageUrl,
       'name': title,
       'description': description,
-      'url': `${SITE_URL}/weather/`,
-      'inLanguage': 'zh-TW',
-      'about': { '@type': 'Place', 'name': '峇里島', 'address': { '@type': 'PostalAddress', 'addressRegion': 'Bali', 'addressCountry': 'ID' } },
+      'url': pageUrl,
+      'inLanguage': c.inLanguage,
+      'about': {
+        '@type': 'Place',
+        'name': c.placeName,
+        'address': { '@type': 'PostalAddress', 'addressRegion': 'Bali', 'addressCountry': 'ID' },
+      },
     },
     {
       '@type': 'FAQPage',
-      'mainEntity': faqs.map((f) => ({
+      'mainEntity': c.faqs.map((f) => ({
         '@type': 'Question',
         'name': f.q,
         'acceptedAnswer': { '@type': 'Answer', 'text': f.a },
@@ -89,477 +49,22 @@ const schema = {
     },
   ],
 };
-
-const scoreColor = (s: number) =>
-  s >= 95 ? '#1f9d55' : s >= 80 ? '#7cb342' : s >= 65 ? '#f0a500' : '#e2683c';
 ---
 
-<html lang="zh-TW">
+<html lang={c.htmlLang}>
   <head>
     <BaseHead
       title={title}
       description={description}
       noSuffix={true}
-      hreflangs={hreflangs}
+      hreflangs={WEATHER_HREFLANGS}
     />
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
-    <style>
-      .weather-page {
-        max-width: 820px;
-        margin: 0 auto;
-        padding: 1.5rem 1rem 3rem;
-      }
-      .weather-page h1 {
-        font-size: 1.6rem;
-        margin: 0 0 0.4rem;
-        color: #1a1a1a;
-      }
-      .weather-page h2 {
-        font-size: 1.15rem;
-        margin: 2.2rem 0 0.6rem;
-        color: #14395f;
-        line-height: 1.4;
-      }
-      .weather-page h3 {
-        font-size: 1rem;
-        margin: 1.2rem 0 0.4rem;
-        color: #1a6fad;
-      }
-      .weather-page p { color: #333; font-size: 0.95rem; line-height: 1.85; }
-      .weather-page .subtitle {
-        color: #666;
-        font-size: 0.92rem;
-        margin: 0 0 1rem;
-      }
-      .lede {
-        background: #f5f8ff;
-        border-left: 4px solid #1a6fad;
-        border-radius: 0 10px 10px 0;
-        padding: 0.9rem 1.1rem;
-        margin: 0 0 1.4rem;
-      }
-      .lede p { margin: 0; font-size: 0.95rem; }
-      .lede strong { color: #14395f; }
-
-      /* ── 12 個月對照表 ── */
-      .table-scroll {
-        overflow-x: auto;
-        -webkit-overflow-scrolling: touch;
-        border: 1px solid #dde6f2;
-        border-radius: 12px;
-      }
-      table.climate {
-        border-collapse: collapse;
-        width: 100%;
-        min-width: 640px;
-        font-size: 0.84rem;
-        background: #fff;
-      }
-      table.climate caption {
-        caption-side: bottom;
-        text-align: left;
-        color: #777;
-        font-size: 0.78rem;
-        padding: 0.6rem 0.2rem 0;
-        line-height: 1.6;
-      }
-      table.climate th,
-      table.climate td {
-        padding: 0.5rem 0.6rem;
-        border-bottom: 1px solid #eef2f7;
-        text-align: center;
-        white-space: nowrap;
-      }
-      table.climate thead th {
-        background: #14395f;
-        color: #fff;
-        font-weight: 600;
-        font-size: 0.8rem;
-      }
-      table.climate tbody tr:nth-child(even) { background: #fafcff; }
-      table.climate tbody tr:hover { background: #f0f6ff; }
-      table.climate tbody th.month {
-        font-weight: 700;
-        color: #14395f;
-        text-align: center;
-      }
-      table.climate td.advice {
-        text-align: left;
-        white-space: normal;
-        min-width: 15rem;
-        color: #444;
-      }
-      .season-tag {
-        display: inline-block;
-        padding: 0.1rem 0.5rem;
-        border-radius: 99px;
-        font-size: 0.75rem;
-        font-weight: 600;
-      }
-      .season-wet      { background: #dcecff; color: #1a4f8a; }
-      .season-dry      { background: #ffeec2; color: #8a5a00; }
-      .season-shoulder { background: #e8e8e8; color: #555; }
-      .score-cell { min-width: 5.5rem; }
-      .score-bar {
-        display: block;
-        height: 6px;
-        border-radius: 99px;
-        background: #eceff3;
-        overflow: hidden;
-        margin-top: 0.25rem;
-      }
-      .score-bar i { display: block; height: 100%; border-radius: 99px; }
-      .table-hint {
-        display: none;
-        color: #999;
-        font-size: 0.78rem;
-        margin: 0.4rem 0 0;
-      }
-      @media (max-width: 700px) {
-        .table-hint { display: block; }
-      }
-
-      /* ── 乾季 / 雨季比較 ── */
-      .season-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 0.9rem;
-        margin-top: 0.8rem;
-      }
-      .season-card {
-        border-radius: 12px;
-        padding: 1rem 1.1rem;
-        border: 1px solid #e2e8f0;
-      }
-      .season-card.dry { background: #fffaf0; border-color: #f3dfae; }
-      .season-card.wet { background: #f4f9ff; border-color: #cfe0f5; }
-      .season-card h3 { margin-top: 0; }
-      .season-card ul {
-        margin: 0;
-        padding-left: 1.1rem;
-        color: #444;
-        font-size: 0.87rem;
-        line-height: 1.8;
-      }
-      @media (max-width: 560px) {
-        .season-grid { grid-template-columns: 1fr; }
-      }
-
-      .weather-tips {
-        margin-top: 1rem;
-        background: #f5f8ff;
-        border-radius: 12px;
-        padding: 1.1rem 1.3rem;
-      }
-      .weather-tips ul {
-        margin: 0;
-        padding-left: 1.2rem;
-        color: #444;
-        font-size: 0.88rem;
-        line-height: 1.8;
-      }
-      .weather-tips ul li { margin-bottom: 0.2rem; }
-
-      /* ── FAQ ── */
-      .faq details {
-        border: 1px solid #e2e8f0;
-        border-radius: 10px;
-        margin-bottom: 0.55rem;
-        background: #fff;
-      }
-      .faq summary {
-        cursor: pointer;
-        padding: 0.75rem 1rem;
-        font-weight: 600;
-        font-size: 0.92rem;
-        color: #14395f;
-        list-style: none;
-      }
-      .faq summary::-webkit-details-marker { display: none; }
-      .faq summary::after {
-        content: '＋';
-        float: right;
-        color: #1a6fad;
-        font-weight: 400;
-      }
-      .faq details[open] summary::after { content: '－'; }
-      .faq .faq-a {
-        padding: 0 1rem 0.9rem;
-        margin: 0;
-        color: #444;
-        font-size: 0.89rem;
-        line-height: 1.85;
-      }
-
-      /* ── 即時攝影機（點擊才載入） ── */
-      .cams-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 0.8rem;
-      }
-      .cam-label {
-        font-size: 0.82rem;
-        color: #555;
-        margin: 0 0 0.3rem;
-        font-weight: 600;
-      }
-      .cam-wrap {
-        position: relative;
-        padding-bottom: 56.25%;
-        height: 0;
-        border-radius: 10px;
-        overflow: hidden;
-        background: #000;
-      }
-      .cam-wrap iframe,
-      .cam-wrap .cam-facade {
-        position: absolute;
-        top: 0; left: 0;
-        width: 100%; height: 100%;
-        border: none;
-      }
-      .cam-facade {
-        display: block;
-        padding: 0;
-        cursor: pointer;
-        background-size: cover;
-        background-position: center;
-      }
-      .cam-facade::after {
-        content: '▶';
-        position: absolute;
-        inset: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 2rem;
-        color: #fff;
-        text-shadow: 0 2px 10px rgba(0,0,0,0.6);
-        background: rgba(0,0,0,0.25);
-      }
-      @media (max-width: 520px) {
-        .cams-grid { grid-template-columns: 1fr; }
-      }
-
-      /* ── 延伸閱讀 ── */
-      .related-banner {
-        display: block;
-        width: 100%;
-        border-radius: 12px;
-        overflow: hidden;
-        margin-bottom: 0.8rem;
-        text-decoration: none;
-      }
-      .related-banner img {
-        width: 100%;
-        height: auto;
-        display: block;
-        border-radius: 12px;
-      }
-      .article-links {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-      }
-      .article-links li a {
-        display: block;
-        background: #f0f6ff;
-        border: 1px solid #c8ddf8;
-        border-left: 4px solid #1a6fad;
-        border-radius: 8px;
-        padding: 0.65rem 1rem;
-        color: #1a3a6d;
-        font-size: 0.9rem;
-        font-weight: 600;
-        line-height: 1.4;
-        text-decoration: none;
-        transition: background 0.15s, border-color 0.15s;
-      }
-      .article-links li a:hover {
-        background: #ddeeff;
-        border-left-color: #c5a059;
-        color: #0f2a55;
-      }
-    </style>
   </head>
   <body>
     <Header basePath="weather" />
     <TopStrip lang={lang} />
-    <main class="weather-page">
-      <h1>峇里島天氣</h1>
-      <p class="subtitle">即時氣溫・濕度・降雨・UV 指數・未來 7 天預報，資料來源 Open-Meteo，每 10 分鐘更新</p>
-
-      <div class="lede">
-        <p>
-          <strong>先講結論：</strong>峇里島全年氣溫都在 <strong>24–32°C</strong>，季節差別在雨不在溫度。
-          <strong>乾季 4–10 月</strong>晴朗少雨、<strong>雨季 11–3 月</strong>以午後短時陣雨為主，很少下一整天。
-          綜合降雨機率與舒適度，<strong>{BEST_MONTHS.join(' 月與 ')} 月最適合旅遊</strong>（指數 100%），
-          <strong>{WORST_MONTH} 月最低</strong>（50%，雨多又逢跨年旺季）。往下看逐月對照表與現在的即時天氣。
-        </p>
-      </div>
-
-      <BaliWeather lang={lang} />
-
-      <h2 id="monthly">峇里島 12 個月天氣一覽表：降雨機率、雨天數、氣溫與適合旅遊指數</h2>
-      <p>
-        很多人問「峇里島幾月去最好」，其實只看乾季雨季太粗糙——同樣是乾季，7、8 月碰上暑假人潮，
-        6 月和 9 月則是又乾爽又清靜。下表把每個月的降雨機率、實際會下雨的天數、平均氣溫，
-        以及我們綜合這些條件算出的「適合旅遊指數」放在一起，方便你直接挑月份。
-      </p>
-      <p class="table-hint">← 表格可左右滑動查看完整欄位 →</p>
-      <div class="table-scroll">
-        <table class="climate">
-          <caption>
-            峇里島逐月氣候與適合旅遊指數對照表。降雨天數為全島平均，
-            山區與東部、北部通常高於南部平地；適合旅遊指數由 Go Bali Go 依降雨、氣候舒適度與遊客量綜合評估。
-          </caption>
-          <thead>
-            <tr>
-              <th scope="col">月份</th>
-              <th scope="col">季節</th>
-              <th scope="col">平均降雨機率</th>
-              <th scope="col">降雨天數</th>
-              <th scope="col">平均氣溫</th>
-              <th scope="col">適合旅遊指數</th>
-              <th scope="col">旅遊建議</th>
-            </tr>
-          </thead>
-          <tbody>
-            {BALI_CLIMATE.map((m) => (
-              <tr>
-                <th scope="row" class="month">{m.month} 月</th>
-                <td><span class={`season-tag season-${m.season}`}>{SEASON_LABEL[m.season]}</span></td>
-                <td>{m.rainChance[0]}–{m.rainChance[1]}%</td>
-                <td>{m.rainDays[0]}–{m.rainDays[1]} 天</td>
-                <td>{m.temp[0]}–{m.temp[1]}°C</td>
-                <td class="score-cell">
-                  <strong>{m.travelScore}%</strong>
-                  <span class="score-bar"><i style={`width:${m.travelScore}%;background:${scoreColor(m.travelScore)}`}></i></span>
-                </td>
-                <td class="advice">{m.advice}</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-
-      <h2 id="seasons">峇里島乾季與雨季差在哪？</h2>
-      <p>
-        峇里島位在南緯 8 度、離赤道很近，沒有四季，只有乾季與雨季之分。
-        兩者的氣溫幾乎一樣（月均溫差不到 2°C），真正的差別是<strong>濕度、降雨頻率與遊客量</strong>。
-      </p>
-      <div class="season-grid">
-        <div class="season-card dry">
-          <h3>乾季（4–10 月）</h3>
-          <ul>
-            <li>晴天為主，濕度較低、風較乾爽</li>
-            <li>海況穩定，浮潛、潛水、跳島最適合</li>
-            <li>7–8 月是暑假旺季，房價與人潮高峰</li>
-            <li>6 月、9 月同樣乾爽但人少，CP 值最高</li>
-          </ul>
-        </div>
-        <div class="season-card wet">
-          <h3>雨季（11–3 月）</h3>
-          <ul>
-            <li>以午後、傍晚的短時強降雨為主，多半一小時內結束</li>
-            <li>早晚偏涼舒適，正午沒有乾季那麼曬</li>
-            <li>機票與住宿明顯較便宜，遊客較少</li>
-            <li>梯田、瀑布水量最足、最翠綠</li>
-          </ul>
-        </div>
-      </div>
-      <p>
-        還有一個常被忽略的重點：<strong>峇里島很少全島同時下雨</strong>。
-        中部山區與東部、北部的降雨明顯多於南部平地，庫塔在下雨時，努沙杜瓦可能還是大晴天。
-        所以看到「峇里島在下雨」的資訊，先確認講的是哪一區。
-      </p>
-
-      <h2 id="what-to-wear">峇里島該穿什麼？</h2>
-      <div class="weather-tips">
-        <ul>
-          <li><strong>白天海邊</strong>：短袖短褲＋涼鞋，防曬係數 50 以上；UV 指數常破 10，中午盡量找遮蔭</li>
-          <li><strong>烏布山區</strong>：山區比海邊低 2–4°C，早晚建議加一件薄外套或長袖</li>
-          <li><strong>參觀寺廟</strong>：必須遮住肩膀與膝蓋，多數寺廟門口有紗龍（Sarong）可租借</li>
-          <li><strong>雨季（11–3 月）</strong>：午後陣雨多為短時強降雨，帶一把輕便折傘或雨衣即可，不需要雨鞋</li>
-          <li><strong>冷氣與夜間</strong>：餐廳與車上冷氣通常很強，隨身帶一件薄外套會舒服很多</li>
-          <li><strong>火山日出行程</strong>：巴杜爾火山（Batur）清晨山頂只有 10–15°C，一定要帶外套與長褲</li>
-        </ul>
-      </div>
-
-      <h2 id="regions">峇里島各區天氣差異</h2>
-      <div class="weather-tips">
-        <ul>
-          <li><strong>庫塔 / 水明漾 / 金巴蘭</strong>：海邊氣候，日曬強、UV 指數高，全島降雨最少的一帶</li>
-          <li><strong>烏布山區</strong>：海拔較高，氣溫比海邊低 2–4°C，早晚偏涼，午後對流雨比南部多</li>
-          <li><strong>努沙杜瓦</strong>：位於南端半島，風浪較小，適合浮潛與水上活動</li>
-          <li><strong>金塔馬尼 / 巴杜爾火山</strong>：海拔 1,500 公尺以上，清晨可低到 10°C 上下</li>
-          <li><strong>北部（羅威那）與東部（艾湄灣）</strong>：山的另一側，雨勢與南部常常完全不同步</li>
-        </ul>
-      </div>
-
-      <h2 id="faq">峇里島天氣常見問題</h2>
-      <div class="faq">
-        {faqs.map((f, i) => (
-          <details open={i === 0}>
-            <summary>{f.q}</summary>
-            <p class="faq-a">{f.a}</p>
-          </details>
-        ))}
-      </div>
-
-      <h2 id="livecam">峇里島即時攝影機</h2>
-      <p>想直接看現在的天空長什麼樣子，點下面的畫面就會載入 YouTube 即時直播。</p>
-      <div class="cams-grid">
-        {cams.map((cam) => (
-          <div>
-            <p class="cam-label">{cam.label}</p>
-            <div class="cam-wrap">
-              <button
-                class="cam-facade"
-                type="button"
-                data-video={cam.id}
-                aria-label={`播放${cam.label}即時直播`}
-                style={`background-image:url(https://i.ytimg.com/vi/${cam.id}/hqdefault.jpg)`}
-              ></button>
-            </div>
-          </div>
-        ))}
-      </div>
-
-      <h2 id="read-more">延伸閱讀：峇里島天氣與雨季攻略</h2>
-      <a href="/blog/bali-rainy-season-travel-guide/" class="related-banner">
-        <img
-          src="https://images.gobaligo.id/images/2026-05/1778906557521-1-12.png"
-          alt="峇里島1-12月適合旅遊指數大解析"
-          loading="lazy"
-        />
-      </a>
-      <ul class="article-links">
-        <li><a href="/blog/bali-weather-tips/">為什麼別再問峇里島的天氣？下雨又如何？</a></li>
-        <li><a href="/blog/bali-best-time-to-visit/">峇里島最佳旅遊時間？深入了解乾季、雨季／優缺點解析</a></li>
-        <li><a href="/blog/bali-south-rainy-season/">峇里島雨季降雨分析 - 南部地區的雨季體驗</a></li>
-        <li><a href="/blog/bali-rainy-season-travel-guide/">峇里島雨季月份／降雨機率／降雨天數／平均氣溫／適合旅遊指數…大解析</a></li>
-        <li><a href="/blog/bali-weather-myths-explained/">峇里島的天氣怎麼看？會不會下雨？旅人常見誤解一次破解</a></li>
-        <li><a href="/blog/2026-bali-indoor-activities/">峇里島雨季：碰到下雨天怎麼辦？60 個室內備案攻略</a></li>
-      </ul>
-    </main>
-    <Footer />
-
-    <script is:inline>
-      // 即時攝影機 facade：點擊後才插入 iframe，首次載入不跑兩支 YouTube 播放器
-      document.querySelectorAll('.cam-facade').forEach(function (btn) {
-        btn.addEventListener('click', function () {
-          var id = btn.getAttribute('data-video');
-          var iframe = document.createElement('iframe');
-          iframe.src = 'https://www.youtube.com/embed/' + id + '?autoplay=1&mute=1';
-          iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
-          iframe.allowFullscreen = true;
-          btn.replaceWith(iframe);
-        });
-      });
-    </script>
+    <WeatherPageBody lang={lang} />
+    <Footer lang={lang} />
   </body>
 </html>

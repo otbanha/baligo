@@ -563,6 +563,7 @@ const LOCALIZED_PATHS = {
   'bali-budget-calculator': null,
   'map/gojek-fare': null,
   'tickets': null,   // src/pages/tickets.astro + en / zh-cn / zh-hk / id 五個路由都在
+  'weather': null,   // 同上，天氣頁五個語言路由都在
 };
 const LOCALIZED_PATH_ALT = Object.keys(LOCALIZED_PATHS).map(p => p.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|');
 const LOCALIZED_MD_LINK_RE = new RegExp(`\\]\\(/(${LOCALIZED_PATH_ALT})/`, 'g');
