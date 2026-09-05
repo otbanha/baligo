@@ -6,7 +6,7 @@ const { lang = 'zh-tw' } = Astro.props;
 
 const row1 = [
   { id: 'news',      icon: '📰', url: '/news/', noLocalize: true },
-  { id: 'live',      icon: '🎥', url: '/weather/' },
+  { id: 'live',      icon: '🌤️', url: '/weather/' },
   { id: 'trip',      icon: '🗺️', url: '/trip-planner/' },
   { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
   { id: 'map',       icon: '📍', url: '/map/', noLocalize: true },
@@ -37,7 +37,7 @@ type ItemId = typeof allItems[number]['id'];
 const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
   'zh-tw': {
     news:      { full: '峇里島新聞',   mobile: '新聞' },
-    live:      { full: 'Bali Live',  mobile: 'Live' },
+    live:      { full: '峇里島天氣',   mobile: '天氣' },
     trip:      { full: '行程規劃',   mobile: '行程' },
     budget:    { full: '預算計算',   mobile: '預算' },
     map:       { full: '攻略地圖',   mobile: '地圖' },
@@ -59,7 +59,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
   },
   'zh-cn': {
     news:      { full: '巴厘岛新闻',   mobile: '新闻' },
-    live:      { full: 'Bali Live',  mobile: 'Live' },
+    live:      { full: '巴厘岛天气',   mobile: '天气' },
     trip:      { full: '行程规划',   mobile: '行程' },
     budget:    { full: '预算计算',   mobile: '预算' },
     map:       { full: '攻略地图',   mobile: '地图' },
@@ -81,7 +81,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
   },
   'zh-hk': {
     news:      { full: '峇里島新聞',   mobile: '新聞' },
-    live:      { full: 'Bali Live',  mobile: 'Live' },
+    live:      { full: '峇里島天氣',   mobile: '天氣' },
     trip:      { full: '行程規劃',   mobile: '行程' },
     budget:    { full: '預算計算',   mobile: '預算' },
     map:       { full: '攻略地圖',   mobile: '地圖' },
@@ -103,7 +103,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
   },
   'en': {
     news:      { full: 'Bali News',     mobile: 'News'    },
-    live:      { full: 'Bali Live',    mobile: 'Live'    },
+    live:      { full: 'Bali Weather', mobile: 'Weather' },
     trip:      { full: 'Itinerary',    mobile: 'Plan'    },
     budget:    { full: 'Budget',       mobile: 'Budget'  },
     map:       { full: 'Map',          mobile: 'Map'     },
@@ -125,7 +125,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
   },
   'id': {
     news:      { full: 'Berita Bali',      mobile: 'Berita' },
-    live:      { full: 'Bali Live',       mobile: 'Live'    },
+    live:      { full: 'Cuaca Bali',    mobile: 'Cuaca'   },
     trip:      { full: 'Rencanakan',      mobile: 'Rencana' },
     budget:    { full: 'Anggaran',        mobile: 'Budget'  },
     map:       { full: 'Peta',            mobile: 'Peta'    },

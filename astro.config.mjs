@@ -230,8 +230,11 @@ export default defineConfig({
         const toolMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/(trip-planner|bali-budget-calculator|weather)\/?$/);
         if (toolMatch) {
           const tool = toolMatch[2];
-          item.priority = 0.7;
-          item.changefreq = 'monthly';
+          // /weather/ 是即時資料頁（每 10 分鐘更新）兼天氣主題的 hub，
+          // 用 monthly / 0.7 會低估它的更新頻率與站內重要性。
+          const isWeather = tool === 'weather';
+          item.priority = isWeather ? 0.9 : 0.7;
+          item.changefreq = isWeather ? 'daily' : 'monthly';
           item.links = [
             { lang: 'x-default', url: `https://gobaligo.id/${tool}/` },
             { lang: 'zh-TW',     url: `https://gobaligo.id/${tool}/` },
