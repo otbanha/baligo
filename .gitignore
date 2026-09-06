@@ -31,3 +31,7 @@ pnpm-debug.log*
 .env
 dist/
 ruflo
+
+# GSC 追蹤快照：含查詢字詞與排名，公開 repo 不放（改走 Actions artifact）
+scripts/gsc-snapshots/
+report.md

@@ -1,0 +1,67 @@
+name: GSC 天氣頁排名追蹤（每週）
+
+on:
+  schedule:
+    # 每週一 UTC 01:00（台北時間 09:00）。GSC 資料落後 2–3 天，週一跑拿得到上週完整資料。
+    - cron: '0 1 * * 1'
+
+  workflow_dispatch:
+    inputs:
+      since:
+        description: '改版上線日（YYYY-MM-DD），留空用腳本預設的 2026-09-06'
+        required: false
+        default: ''
+      days:
+        description: '對比區間長度（天），留空＝用「改版至今」的全部天數'
+        required: false
+        default: ''
+      list_sites:
+        description: '只列出憑證能存取的 GSC 資源（設定/除錯用）'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: read           # 快照走 artifact，不寫回 repo（這是公開 repo，關鍵字數據不外流）
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 設定 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 產生報告
+        id: report
+        env:
+          GOOGLE_INDEXING_CREDENTIALS: ${{ secrets.GOOGLE_INDEXING_CREDENTIALS }}
+          GSC_SITE_URL: ${{ vars.GSC_SITE_URL }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.list_sites }}" = "true" ]; then ARGS="$ARGS --list-sites"; fi
+          if [ -n "${{ github.event.inputs.since }}" ]; then ARGS="$ARGS --since=${{ github.event.inputs.since }}"; fi
+          if [ -n "${{ github.event.inputs.days }}" ]; then ARGS="$ARGS --days=${{ github.event.inputs.days }}"; fi
+          # --out：報告寫進檔案，不印到 log。
+          # 這是公開 repo，Actions 執行頁面（含 job summary）任何人都看得到，
+          # 把查詢字詞與排名印出來等於公開自己的 SEO 數據。
+          node scripts/gsc-weather-report.mjs $ARGS --out=report.md
+
+      # 快照不 commit 回 repo：這是公開 repo，查詢字詞與排名屬於不該外流的競爭資訊。
+      # 改成上傳 artifact，只有能登入這個 repo 的人下載得到。
+      - name: 上傳快照與報告（artifact）
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gsc-weather-${{ github.run_number }}
+          path: |
+            report.md
+            scripts/gsc-snapshots/
+          if-no-files-found: warn
+          retention-days: 90
