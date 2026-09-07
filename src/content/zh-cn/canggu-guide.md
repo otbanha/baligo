@@ -19,14 +19,16 @@ tags:
   - 长谷數位遊牧攻略
   - Canggu travel guide 2026
   - Best things to do in Canggu Bali
-heroImage: 'https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg'
+heroImage: >-
+  https://images.gobaligo.id/images/2026-09/1788789293076-mixcollage-07-sep-2026-09-54-pm-6605.jpg
 imageAlt: ''
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9815'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-07-30T00:00:00.000Z
+updatedDate: 2026-09-07T00:00:00.000Z
 lang: zh-cn
-_srcHash: 57fc9d1abc370f9b7833e4d9e592ecc8
+_srcHash: PENDING_RETRY_323b1f9d446d37a84c94177ffeb633e0
+_translateAttempts: 1
 ---
 
 ### 巴厘岛坎古旅游攻略
@@ -75,7 +77,7 @@ _srcHash: 57fc9d1abc370f9b7833e4d9e592ecc8
 
 > Vue Beach Club 海滩俱乐部[一日通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22304-vue-beach-club-day-pass-canggu-bali%2F)
 
-[> La Brisa 官网](https://labrisa-bali.com/)
+> [La Brisa 官网](https://labrisa-bali.com/)
 
 ## **夜晚的欢乐时光（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
 
@@ -121,9 +123,9 @@ Samadi Sunday Market 是一个购买当地产品和支持当地企业的好地�
 
 > [Spa & Yoga高级体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 
-> [Canggu Yoga Centre 瑜伽课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F)
+> [坎古瑜伽中心 瑜伽课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F)
 
-> [小狗瑜伽课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144704-puppy-yoga-class-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da834fb5c5a) 跟可爱狗狗一起做瑜伽的奇特体验
+[> [小狗瑜伽课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144704-puppy-yoga-class-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da834fb5c5a) 跟可爱狗狗一起做瑜伽的奇特体验]()
 
 ## **动手学习烹饪的乐趣**
 
@@ -137,7 +139,7 @@ Samadi Sunday Market 是一个购买当地产品和支持当地企业的好地�
 
 ### 各种体验课程的乐趣
 
-> [ZINFIT健身房](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F157767-zinfit-gym-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D300e2a24cf)
+> 
 
 > [陶艺/绘画工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144332-pottery-or-painting-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc0c0aa776c)
 
@@ -145,25 +147,25 @@ Samadi Sunday Market 是一个购买当地产品和支持当地企业的好地�
 
 > [调制香水精油工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144531-perfumery-body-oil-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2926bb5447)
 
-[> [银饰制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D914d183a6a)](#)
+> [银饰制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D914d183a6a)”、“## **文化盛宴的用餐体验**”、“在坎古品尝美食不仅仅是味蕾的享受，还包含文化和艺术的盛宴。有些餐厅提供文化表演，如巴厘岛舞蹈和音乐，为用餐体验增添了独特的魅力。
 
-## **文化盛宴的用餐体验**
+> [坎古文化盛宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)”、“## 参观海神庙（👉🏼地图：[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）”、“在坎古以北不远处，您绝不能错过的一个古老而神圣的景点是「海神庙（Pura Tanah Lot）」。这座寺庙建在海岸的巨大岩石上，是巴厘岛最著名的海滨寺庙之一。在日落时分，寺庙的景色特别壮观，太阳的金光照耀在寺庙上，形成一幅令人难以置信的风景。除了欣赏美景，您还可以感受到当地宗教文化的深厚底蕴，这绝对是一场充满灵性和历史意义的参观之旅。海神庙的详细介绍、拜访禁忌[请看这里](/zh-cn/blog/bali-tanah-lot-guide/)。
 
 ![文化饗宴的用餐體驗](https://images.gobaligo.id/vocus/vocus_2c2ca051f028f10fefdad167d643fb3e.jpg)
 
-在坎古品尝美食不仅仅是味蕾的享受，还包含文化和艺术的盛宴。有些餐厅提供文化表演，如巴厘岛舞蹈和音乐，为用餐体验增添了独特的风采。
+> [专车接送海神庙之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F152-tanah-lot-sunset-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25157e7304)
 
-> [坎古文化盛宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)
+> [Canggu文化饗宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)
 
 ## 参观海神庙（👉🏼地图：[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
 
 ![參觀海神廟（地圖：長谷必訪景點）](https://images.gobaligo.id/vocus/vocus_27727cc971e3c80e5832f4bb4398567c.jpg)
 
-在坎古以北不远处，您绝不能错过的一个古老而神圣的景点是「海神庙（Pura Tanah Lot）」。这座寺庙建在海岸的巨大岩石上，是巴厘岛最著名的海滨寺庙之一。在日落时分，寺庙的景色特别壮观，太阳的金光照耀在寺庙上，形成一幅令人难以置信的风景。除了欣赏美景，您还可以感受到当地宗教文化的深厚底蕴，这绝对是一场充满灵性和历史意义的参观之旅。海神庙的详细介绍、拜访禁忌[请看这里](/zh-cn/blog/bali-tanah-lot-guide/)。
+在坎古以北不远处，您绝不能错过的一个古老而神圣的景点是「海神庙（Pura Tanah Lot）」。这座寺庙建在海岸的巨大岩石上，是巴厘岛最著名的海滨寺庙之一。在日落时分，寺庙的景色特别壮观，太阳的金光照耀在庙宇上，形成一幅令人难以置信的风景。除了欣赏美景，您还可以感受到当地宗教文化的深厚底蕴，这绝对是一场充满灵性和历史意义的参观之旅。海神庙的详细介绍、拜访禁忌[请看这里](/zh-cn/blog/bali-tanah-lot-guide/)。
 
-> [专车接送海神庙之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F152-tanah-lot-sunset-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25157e7304)
+> [專車接送海神廟之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F152-tanah-lot-sunset-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25157e7304)
 
-> [水神庙 & Jatiluwih梯田 & 海神庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917600&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11369-ulun-danu-beratan-jatiluwih-rice-terraces-tanah-lot-day-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ded81bfeaf4)
+[> 【水神庙 & Jatiluwih梯田 & 海神庙一日游】](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917600&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11369-ulun-danu-beratan-jatiluwih-rice-terraces-tanah-lot-day-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ded81bfeaf4)
 
 > [巴厘岛热门景点＆海神庙观光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917600&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F943-private-unesco-heritage-sites-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4428aa9e76)
 
@@ -223,7 +225,7 @@ Canggu 攻略地图
 
 ### 龙虾先生 Mr. Lobster Canggu
 
-台湾人经营的平价海鲜店，料理新鲜实在，人气超高，常有优惠回馈给社团成员。推荐给海鲜控！这里有[联系方式](/zh-cn/blog/mr-lobster-seafood-restaurant-bali/)地址，建议跟许老板提前预约喔！
+台湾人经营的平价海鲜店，料理新鲜实在，人气超高，常有优惠回馈给社团成员。推荐给海鲜控！这里有[联络方式](/zh-cn/blog/mr-lobster-seafood-restaurant-bali/)地址，建议跟许老板提前预约喔！
 
 ### **品味美味且经济实惠的当地美食**
 
@@ -235,17 +237,17 @@ Canggu 攻略地图
 
 ![The Wheel 摩天輪（地圖：長谷必訪景點）](https://images.gobaligo.id/vocus/vocus_5cc13d1fa69600daaa8c19f4e6c13164.jpg)
 
-在印尼巴厘岛海边的最高观景点，也就是位于坎古的标志性摩天轮上，从全新高度探索巴厘岛之美！从高于地面42.5米的高度，饱览巴厘岛最高建筑的壮丽景色：郁郁葱葱的景观，以及沙滩与大海和谐共存的田园诗般海岸线！
+在印尼巴厘岛海边的最高观景点，也就是位于坎古的标志性摩天轮上，从全新高度探索巴厘岛之美！从高于地面42.5公尺的高度，饱览巴厘岛最高建筑的壮丽景色：郁郁葱葱的景观，以及沙滩与大海和谐共存的田园诗般海岸线！
 
-无论您是日落爱好者还是海滩爱好者，摩天轮都能提供无与伦比的视野，距离沙滩仅500米。在晴朗的日子里，您甚至可以瞥见周围岛屿的远山轮廓，为您的体验增添一丝魔力！
+无论您是日落爱好者还是海滩爱好者，摩天轮都能提供无与伦比的视野，距离沙滩仅500公尺。在晴朗的日子里，您甚至可以瞥见周围岛屿的远山轮廓，为您的体验增添一丝魔力！
 
 当摩天轮缓缓旋转时，您将有充裕的时间捕捉每一个令人屏息的瞬间。无论是金色夕阳西下时分，将整个海岸线染成温暖的橘红色调，还是清晨第一缕阳光洒向碧蓝海面的宁静时刻，这里都是摄影爱好者的天堂。
 
 建议您选择黄昏时分前往，既能欣赏到白天的蔚蓝海景，又能等待夜幕降临时华灯初上的璀璨夜色，让这趟摩天轮之旅成为您巴厘岛之行最难忘的回忆！
 
-> [购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1123159&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F174039-the-wheel-bali-ticket-in-canggu%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D73b99afc33)
+[> 购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1123159&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F174039-the-wheel-bali-ticket-in-canggu%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D73b99afc33)
 
-## **享受水疗S**PA
+## **享受水疗SPA**
 
 巴厘岛是水疗SPA的天堂，而坎古地区也拥有一些高品质的水疗中心。在这里，您可以沉浸在丰富的水疗选项中，享受按摩、身体磨砂和面部护理，让身心都得到极致的放松。
 
@@ -259,15 +261,23 @@ Canggu 攻略地图
 
 > [Svaha Spa水疗按摩体验 Bato Bolong](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111938-svaha-spa-batu-bolong-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0288bb5c75)
 
-> 坎古 [上门按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+> Canggu [上门按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
-## Holywings Wellness Club 健身、冰浴、桑拿一站式疗愈体验
+## 健身房
+
+### Holywings Wellness Club 健身、冰浴、桑拿一站式疗愈体验
 
 ![](https://images.gobaligo.id/images/2026-07/1785395370014-banner.png)
 
-「Wellness Travel（健康旅游）」逐渐成为新的旅游趋势。位于坎古Berawa 海滩附近的 **Holywings Wellness Club**，正是近期最受瞩目的新景点之一。它由打造亚洲知名 **Atlas Beach Club** 的 **HW Group（Holywings Group）** 推出，将健身、恢复与社交三大元素结合，打造一站式的健康生活空间。馆内除了配备高规格健身房外，还提供 HYROX 训练、Hot Yoga、Hot Pilates、拳击课程，以及近年相当热门的冰浴（Ice Bath）、冷水池、芬兰桑拿与 SPA 等恢复设施，让旅客能在运动后彻底放松身心。无论是长住巴厘岛的数字游牧族、健身爱好者，还是希望在旅行中维持健康生活步调的游客，都能在这里找到适合自己的体验。如果你的行程安排在坎古或水明漾一带，不妨将 Holywings Wellness Club 纳入行程，感受巴厘岛结合运动、疗愈与度假的全新魅力。
+"Wellness Travel（健康旅游）"逐渐成为新的旅游趋势。位于坎古Berawa 海滩附近的 **Holywings Wellness Club**，正是近期最受瞩目的新景点之一。它由打造亚洲知名 **Atlas Beach Club** 的 **HW Group（Holywings Group）** 推出，将健身、恢复与社交三大元素结合，打造一站式的健康生活空间。馆内除了配备高规格健身房外，还提供 HYROX 训练、Hot Yoga、Hot Pilates、拳击课程，以及近年相当热门的冰浴（Ice Bath）、冷水池、芬兰桑拿与 SPA 等恢复设施，让旅客能在运动后彻底放松身心。无论是长住巴厘岛的数字游牧族、健身爱好者，还是希望在旅行中维持健康生活步调的游客，都能在这里找到适合自己的体验。如果你的行程安排在坎古或水明漾一带，不妨将 Holywings Wellness Club 纳入行程，感受巴厘岛结合运动、疗愈与度假的全新魅力。
 
 详细介绍看[这里](https://gobaligo.id/zh-cn/blog/holywings-wellness-club-bali/)。
+
+### 其他健身房优惠
+
+> [ZINFIT健身房](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F157767-zinfit-gym-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D300e2a24cf)
+
+> [Body Craft Elements 健身房、康复和板式网球](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1420292&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F219815-gym-recovery-and-padel-canggu%2F)
 
 ## 亲子乐园 **（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
 
@@ -281,7 +291,7 @@ Mookiland Park 是一个专为家庭设计的游乐场，占地 5,000 平方米�
 
 ![2.Mai Main Playground](https://images.gobaligo.id/vocus/vocus_a0be964afc58c8a68723be8041b4107e.jpg)
 
-Mai Main (发音为：my ma-in 麦马印) 是坎古的一个儿童游乐场，专为家庭设计的理想目的地。这里提供各式各样的活动，包括充满乐趣的室内和室外游乐设施，让孩子们尽情玩耍。此外，还有宠物喂食区，让小朋友可以近距离与可爱的动物互动。
+Mai Main（发音为：my ma-in 麦马印）是坎古的一个儿童游乐场，专为家庭设计的理想目的地。这里提供各式各样的活动，包括充满乐趣的室内和室外游乐设施，让孩子们尽情玩耍。此外，还有宠物喂食区，让小朋友可以近距离与可爱的动物互动。
 
 游乐场内设有餐厅，让家长们可以在舒适的环境中享受美食，轻松照顾孩子的需求。这里是全家人周末度假的完美场所，与家人和亲人一起在Mai Main度过一个充满欢笑与温馨的假日时光吧！
 
@@ -295,9 +305,9 @@ Mai Main (发音为：my ma-in 麦马印) 是坎古的一个儿童游乐场，�
 
 园区内的亮点包括 **兰花园** 和 **蝴蝶园**，孩子们可以近距离观察蝴蝶的生态，学习它们在维护自然平衡中的重要性。另外，园内还设有 **植物博物馆**，展示400多种珍稀植物和500种兰花，让孩子们在游玩的同时了解自然与保育的知识。
 
-Magic Garden 不仅以其美丽的景观吸引人，还提倡可持续发展，保留70%的绿地，并种植了超过1.5万棵树。门票价格仅需 IDR 150,000（约10美元），经济实惠，是亲子出游的理想选择。
+Magic Garden 不仅以其美丽的景观吸引人，还提倡永续发展，保留70%的绿地，并种植了超过1.5万棵树。门票价格仅需 IDR 150,000（约USD$10），经济实惠，是亲子出游的理想选择。
 
-> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了 49 个热门景点的实时参考价，并附 Klook／Trip.com 比价链接。
+> 💰 想知道更多景点的参考票价吗？\*\*[巴厘岛门票票价总表](/zh-cn/tickets/)\*\* 整理了 49 个热门景点的即时参考价，并附 Klook／Trip.com 比价链接。
 
 游览 Magic Garden 后，还可以前往附近的 **Luna Beach Club** 或 The Dome 多媒体展演，为全家留下更多难忘的回忆！ 🌿
 
@@ -313,7 +323,7 @@ Aurora Park不仅是夜间游览的景点，更是一个结合艺术、自然与
 
 ### 5.Pacha Alpaca 羊驼互动体验
 
-如果你正在寻找一个适合全家出游的巴厘岛景点，位于坎古的 **Pacha Alpaca 羊驼互动体验** 绝对是理想选择！这里不仅能让孩子们与温驯可爱的羊驼近距离接触，还能通过导览和工作人员的讲解，学习到关于羊驼的知识，是一场充满教育意义的自然之旅。家长可以和孩子一起喂食、抚摸羊驼，甚至参与野餐或摄影活动，创造难忘的亲子回忆。
+如果你正在寻找一个适合全家出游的巴厘岛景点，位于坎古的 **Pacha Alpaca 羊驼互动体验** 绝对是理想选择！这里不仅能让孩子们与温驯可爱的羊驼近距离接触，还能通过导览和工作人员的讲解，学习到关于羊驼的知识，是一场充满教育意义的自然之旅。家长可以与孩子一起喂食、抚摸羊驼，甚至参与野餐或摄影活动，创造难忘的亲子回忆。
 
 Pacha Alpaca 提供多种套票选择，包括导览互动、羊驼摄影、野餐体验以及竹屋住宿，满足不同家庭的需求。无论是想要放松身心，还是让孩子们在大自然中尽情探索，这里都能为全家带来一场疗愈而欢乐的冒险。快来预订你的专属体验，与羊驼共度一段美好时光吧！详细介绍&官网预订链接请看[这里](/zh-cn/blog/pacha-alpaca-family-canggu/)。
 
@@ -353,15 +363,15 @@ Le Bajo 是一间全新开幕的日间俱乐部，拥有独特的Labuan Bajo主�
 
 坎古北边的Nuanu Creative City是一个融合创意、文化、艺术、环保、自然等元素的新兴园区。
 
-这里除了有2024开幕最新的高档海滩俱乐部，还有许多家庭/亲子景点、科技+传统魔幻的大型表演。请继续观看Nuanu Creative City攻略在[这里](/zh-cn/blog/nuanu-creative-city-luna-guide/)
+这里除了有2024年开业的最新高档海滩俱乐部，还有许多家庭/亲子景点、科技+传统魔幻的大型表演。请继续观看Nuanu Creative City攻略在[这里](/zh-cn/blog/nuanu-creative-city-luna-guide/)
 
 ## **享受豪华波西米亚风格的酒店**
 
 ![享受豪華波西米亞風格的飯店](https://images.gobaligo.id/vocus/vocus_ca9b675b21d67d71df79f31c8982155b.jpg)
 
-坎古地区的酒店种类繁多，其中以波西米亚风格的酒店最为独特。这些酒店以其独特的设计、精致的装饰和放松的氛围而闻名，为您提供一个别开生面的住宿体验。无论是怀旧风情还是现代时尚，您都能找到符合心意的波西米亚风格酒店。请看我们的「[Canggu 你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)」
+坎古地区的酒店种类繁多，其中以波西米亚风格的酒店最为独特。这些酒店以其独特的设计、精致的装饰和放松的氛围而闻名，为您提供一个别开生面的住宿体验。无论是怀旧风情还是现代时尚，您都能找到符合心意的波西米亚风格酒店。请看我们的「[坎古你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)」
 
-如果你偏好villa，这一篇可不要错过「[坎古区私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)」
+如果你偏好别墅，这一篇可不要错过「[坎古区私人泳池别墅推荐 坎古别墅你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)」
 
 {{block:住宿}}
 
@@ -369,9 +379,9 @@ Le Bajo 是一间全新开幕的日间俱乐部，拥有独特的Labuan Bajo主�
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_59b46fc9e9849c2ad46da7dd46a3eae6.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多种造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的酒店/别墅内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
 
-这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
+这项服务直接送到您入住的酒店或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 
 > [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
@@ -379,7 +389,7 @@ Le Bajo 是一间全新开幕的日间俱乐部，拥有独特的Labuan Bajo主�
 
 如果你想更了解坎古，点击下方详细视频说明，即刻揭开坎古的神秘面纱，让我们引领您穿梭于这片令人心驰神往的美丽风景，为您的巴厘岛之旅增添难忘回忆。快来点击链接，开启一场奇幻探险吧！
 
-> ▶C[anngu攻略上集](https://youtu.be/4tVq4SFfjMw)
-> ▶[Canggu攻略下集](https://youtu.be/aglSSIW2vZg)
+[> ▶坎古攻略上集](https://youtu.be/4tVq4SFfjMw)
+> ▶[坎古攻略下集](https://youtu.be/aglSSIW2vZg)
 
 {{block:klook}}
