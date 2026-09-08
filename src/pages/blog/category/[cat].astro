@@ -626,6 +626,21 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
         </section>
       )}
 
+      <!-- 飯店即時比價 widget（原本掛在已合併的 /bali-hotels/）。
+           放在精選飯店表之後：讀者這時已經選好區域與口袋名單，接著才是查日期比價。
+           .tp-widget-slot 先撐出高度，避免 widget 載入時把下面整段內容往下推（CLS）。 -->
+      {cat === '住宿推薦' && (
+        <section class="cat-hotel-search" aria-label="峇里島飯店即時比價">
+          <h2 class="cat-group-title">🔎 查即時房價：輸入日期一次比價</h2>
+          <p class="cat-hotel-search-intro">
+            選好區域、圈好想住的飯店後，用下面的搜尋框輸入入住日期與人數，直接比對各訂房平台的即時價格。
+          </p>
+          <div class="tp-widget-slot">
+            <script is:inline async charset="utf-8" src="https://tpwidg.com/content?trs=519937&shmarker=654252&locale=zh-hant&default_destination=Bali%2C%20Indonesia&powered_by=true&primary_override=%235392F9&color_button=%235392F9&color_icons=%235392F9&dark=%23262626&color_border=%235392F9&color_focused=%2332a8dd&border_radius=5&plain=false&promo_id=8303&campaign_id=104"></script>
+          </div>
+        </section>
+      )}
+
       <!-- H2 主題分組 -->
       {displayGroups.map(group => {
         const groupPosts = group.slugs
@@ -797,6 +812,20 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
     color: #7a8794;
     line-height: 1.7;
     margin: 0.6em 0 0;
+  }
+
+  /* 飯店即時比價 widget */
+  .cat-hotel-search { margin-bottom: 2.6em; }
+  .cat-hotel-search-intro {
+    font-size: 0.88em;
+    color: #4a5a6a;
+    line-height: 1.7;
+    margin: 0 0 1em;
+  }
+  /* 第三方 widget 的高度不可控，先撐出大致高度，避免載入時把下面內容往下推 */
+  .tp-widget-slot { min-height: 190px; }
+  @media (max-width: 640px) {
+    .tp-widget-slot { min-height: 320px; }
   }
 
   /* Groups */
