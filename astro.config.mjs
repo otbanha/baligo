@@ -59,6 +59,36 @@ function getBlogLastmod(slug) {
   return undefined;
 }
 
+// 分類頁 lastmod：取該分類底下最新一篇文章的日期。
+// 分類頁原本整批沒有 lastmod（2026-09 查 sitemap：4,072 個 URL 裡 3,916 個有，
+// 缺的正好是分類頁這批），等於 Google 少了判斷「這頁值不值得重爬」的主要依據，
+// 分類頁改版後要等很久才會被回來看一眼。未來日期（排程發佈）會被夾到今天為止，
+// 避免送出一個還沒發生的 lastmod。
+const catLastmod = (() => {
+  const out = {};
+  const today = new Date().toISOString().split('T')[0];
+  const base = join(process.cwd(), 'src/content/blog');
+  try {
+    for (const f of readdirSync(base).filter(f => /\.mdx?$/.test(f))) {
+      try {
+        const { data } = matter(readFileSync(join(base, f), 'utf-8'));
+        if (data.private) continue;
+        let iso;
+        if (data.updatedDate) iso = new Date(data.updatedDate).toISOString().split('T')[0];
+        else if (data.update) iso = String(data.update).replace(/\//g, '-');
+        else if (data.pubDate) iso = new Date(data.pubDate).toISOString().split('T')[0];
+        if (!iso || !/^\d{4}-\d{2}-\d{2}$/.test(iso)) continue;
+        if (iso > today) iso = today;
+        const cats = Array.isArray(data.category) ? data.category : (data.category ? [data.category] : []);
+        for (const c of cats) {
+          if (!out[c] || iso > out[c]) out[c] = iso;
+        }
+      } catch {}
+    }
+  } catch {}
+  return out;
+})();
+
 // 判斷是否為過期的每日新聞存檔文章（45 天以上），排除於 sitemap 外，
 // 改由 /news/ hub 彙整頁承接排名，避免大量薄內容稀釋全站品質信號。
 const NEWS_STALE_DAYS = 45;
@@ -212,6 +242,7 @@ export default defineConfig({
           const enSlug = CAT_SLUG_EN[cat];
           item.priority = 0.8;
           item.changefreq = 'weekly';
+          if (catLastmod[cat]) item.lastmod = catLastmod[cat];
           if (enSlug) {
             const zhUrl = (prefix) =>
               `https://gobaligo.id${prefix}/blog/category/${encodeURIComponent(cat)}/`;
