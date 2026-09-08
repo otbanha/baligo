@@ -6,6 +6,7 @@ import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import { getCollection } from 'astro:content';
 import { catUrlSlug } from '../../../lib/categoryConfig';
+import { readFileSync, existsSync } from 'node:fs';
 
 export async function getStaticPaths() {
   // 為每個真實分類產生獨立 SSR 靜態頁面，讓爬蟲/AI 工具（NotebookLM、Gemini 等）
@@ -59,6 +60,110 @@ const allPosts = (await getCollection('blog'))
     }
   }))
   .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+// 分類頁的「最後更新」：取該分類底下最新的 updatedDate（沒有就用 pubDate）。
+// 「峇里島住宿推薦」第一頁的競品全都在搜尋結果帶日期（例：2026年8月6日、5 天前），
+// 這頁原本一個日期訊號都沒有，Google 無從判斷內容新鮮度。
+const lastUpdated = allPosts.reduce<Date | null>((newest, p) => {
+  const d = p.data.updatedDate ? new Date(p.data.updatedDate) : getPublishTime(p);
+  if (isNaN(d.valueOf())) return newest;
+  return !newest || d > newest ? d : newest;
+}, null) ?? new Date();
+const lastUpdatedIso = lastUpdated.toISOString().split('T')[0];
+const lastUpdatedLabel = lastUpdatedIso.replace(/-/g, '/');
+
+// ── 住宿推薦：頁內「編輯精選飯店」表 ────────────────────────────────────
+// 這個分類頁原本只有文章標題清單，頁面本身幾乎沒有任何「飯店實體」；但
+// 「峇里島住宿推薦」的搜尋結果第一頁清一色是逐間點名飯店的清單文。這裡把站上
+// 已有的兩份資料接起來補上實體，不新增任何外部請求：
+//   1. src/data/hotel-cache.json（scripts/fetch-hotel-data.mjs 從 Agoda 抓的快照）
+//   2. 各住宿文內文的 Agoda 連結 hid → 對應回我們自己的評測文
+// 區域用座標取最近的區域中心點判定（比對標題關鍵字會把 Potato Head 之類
+// 跨篇提及的飯店分到錯的區）；超過 MAX_AREA_DEG 就整筆略過——快取裡混有
+// 離島（佩尼達、藍夢島）甚至芭達雅的飯店，硬分進八大區會是錯的。
+type HotelPick = {
+  name: string; stars: number | null; rating: number; reviews: number;
+  rate: number; slug: string; title: string;
+};
+type HotelPicks = { areas: { emoji: string; name: string; rows: HotelPick[] }[]; snapshot: string };
+
+const HOTEL_AREAS = [
+  { key: 'seminyak', emoji: '🏖️', name: '水明漾 Seminyak', lat: -8.6900, lng: 115.1600 },
+  { key: 'canggu',   emoji: '🏄', name: '長谷 Canggu',      lat: -8.6478, lng: 115.1385 },
+  { key: 'ubud',     emoji: '🌴', name: '烏布 Ubud',        lat: -8.5069, lng: 115.2625 },
+  { key: 'uluwatu',  emoji: '🌅', name: '烏魯瓦圖 Uluwatu', lat: -8.8290, lng: 115.0880 },
+  { key: 'jimbaran', emoji: '🐟', name: '金巴蘭 Jimbaran',  lat: -8.7830, lng: 115.1650 },
+  { key: 'nusadua',  emoji: '🏨', name: '努沙杜瓦 Nusa Dua', lat: -8.8000, lng: 115.2280 },
+  { key: 'sanur',    emoji: '🌊', name: '沙努爾 Sanur',     lat: -8.6900, lng: 115.2620 },
+  { key: 'kuta',     emoji: '🛍️', name: '庫塔 Kuta',        lat: -8.7200, lng: 115.1720 },
+];
+const MAX_AREA_DEG = 0.06;   // 約 6.6 公里；再遠就不算屬於該區
+const MIN_REVIEWS  = 200;    // 評論數太少的評分不具代表性
+const PER_AREA     = 5;
+
+const HOTEL_CACHE_FILE = './src/data/hotel-cache.json';
+
+function buildHotelPicks(): HotelPicks {
+  if (!existsSync(HOTEL_CACHE_FILE)) return { areas: [], snapshot: '' };
+  let hotels: Record<string, any> = {};
+  let updatedAt: Record<string, number> = {};
+  try {
+    const raw = JSON.parse(readFileSync(HOTEL_CACHE_FILE, 'utf-8'));
+    hotels = raw.hotels ?? {};
+    updatedAt = raw.updatedAt ?? {};
+  } catch {
+    return { areas: [], snapshot: '' };
+  }
+
+  // hid → 第一篇提到它的住宿文（分類頁本來就只載入本分類的文章）
+  const hidPost = new Map<string, { slug: string; title: string }>();
+  for (const p of allPosts) {
+    const re = /agoda\.com[^)'"\s]*[?&]hid=(\d+)/g;
+    let m: RegExpExecArray | null;
+    while ((m = re.exec(p.body ?? '')) !== null) {
+      if (!hidPost.has(m[1])) hidPost.set(m[1], { slug: p.data.slug || p.id, title: p.data.title });
+    }
+  }
+
+  const byArea = new Map<string, HotelPick[]>();
+  for (const [hid, post] of hidPost) {
+    const h = hotels[hid];
+    if (!h || h.latitude == null || h.longitude == null) continue;
+    if (h.rating == null || h.lowestRate == null) continue;
+    if ((h.reviews ?? 0) < MIN_REVIEWS) continue;
+
+    let best = ''; let bestDist = Infinity;
+    for (const a of HOTEL_AREAS) {
+      const d = Math.hypot(h.latitude - a.lat, h.longitude - a.lng);
+      if (d < bestDist) { bestDist = d; best = a.key; }
+    }
+    if (bestDist > MAX_AREA_DEG) continue;
+
+    const list = byArea.get(best) ?? [];
+    list.push({
+      name: h.name, stars: h.stars ?? null, rating: h.rating, reviews: h.reviews,
+      rate: Math.round(h.lowestRate), slug: post.slug, title: post.title,
+    });
+    byArea.set(best, list);
+  }
+
+  const areas = HOTEL_AREAS.map(a => ({
+    emoji: a.emoji,
+    name: a.name,
+    rows: (byArea.get(a.key) ?? [])
+      .sort((x, y) => y.rating - x.rating || y.reviews - x.reviews)
+      .slice(0, PER_AREA),
+  })).filter(a => a.rows.length > 0);
+
+  const stamps = Object.values(updatedAt).filter(v => typeof v === 'number');
+  const snapshot = stamps.length
+    ? new Date(Math.max(...stamps)).toISOString().slice(0, 7).replace('-', '/')
+    : '';
+  return { areas, snapshot };
+}
+
+const hotelPicks: HotelPicks = cat === '住宿推薦' ? buildHotelPicks() : { areas: [], snapshot: '' };
+const hotelPickCount = hotelPicks.areas.reduce((n, a) => n + a.rows.length, 0);
 
 // 分類設定（可擴展到其他分類）
 const CAT_CONFIG: Record<string, {
@@ -124,16 +229,19 @@ const CAT_CONFIG: Record<string, {
   },
 
   '住宿推薦': {
-    title: '峇里島住宿推薦｜600+完整攻略 - Go Bali Go',
-    h1: '峇里島住宿推薦｜600+完整攻略',
-    description: '峇里島住哪一區好？水明漾、烏布、長谷、烏魯瓦圖、努沙杜瓦、金巴蘭、沙努爾、庫塔分區精選 100+ 飯店與私人泳池 Villa：親子度假村、蜜月奢華、平價高 CP、訂房省錢技巧一次看，2026 最新評測。',
-    ogDescription: '峇里島住哪一區好？8 大熱門區域 100+ 飯店與 Villa 精選：親子、蜜月、奢華、平價與訂房省錢攻略，2026 最新評測。',
+    // 標題數字一律由實際資料算出。原本寫死的「600+」是全站文章總數，不是本分類的量
+    // （本分類實際 100+ 篇），對搜尋者是假訊號；而且少了「年份＋間數」這個
+    // 第一頁競品共通的標題結構（例：2026 峇里島住宿推薦｜嚴選 10 間…）。
+    title: `2026 峇里島住宿推薦｜8 大區域${hotelPickCount > 0 ? ` ${hotelPickCount} 間` : ''}飯店 Villa 精選評比 - Go Bali Go`,
+    h1: `2026 峇里島住宿推薦｜8 大區域${hotelPickCount > 0 ? ` ${hotelPickCount} 間` : ''}飯店 Villa．${allPosts.length} 篇實測攻略`,
+    description: `峇里島住哪一區？水明漾、長谷、烏布、烏魯瓦圖、金巴蘭、努沙杜瓦、沙努爾、庫塔 8 大區比較，附${hotelPickCount > 0 ? ` ${hotelPickCount} 間` : ''}人氣飯店 Villa 參考房價與評分、親子蜜月平價推薦與訂房避雷。`,
+    ogDescription: '峇里島住哪一區？8 大區域比較＋人氣飯店 Villa 房價評分、親子蜜月平價推薦與訂房避雷，2026 最新實測。',
     pillarSlug: 'bali-accommodation-area-guide',
     pillarEyebrow: '選區必讀 · 五大區域比較',
     pillarTitle: '不知道住哪一區？先看這篇分區比較',
     pillarText: '讀「峇里島五大住宿區域比較」→',
     pillarDesc: '庫塔、水明漾、長谷、烏布、努沙杜瓦——一篇看懂每區優缺點、適合誰、價位與交通。選對區域，是訂房不踩雷的第一步。',
-    introHtml: '峇里島這麼大，第一次來最常卡關的就是「到底要住哪一區」。<strong>水明漾（Seminyak）</strong>時尚好逛、<strong>長谷（Canggu）</strong>衝浪文青、<strong>烏布（Ubud）</strong>森林療癒、<strong>烏魯瓦圖（Uluwatu）</strong>懸崖海景，<strong>努沙杜瓦／金巴蘭</strong>適合親子與蜜月，<strong>庫塔</strong>則最方便購物與機場過境。這裡依「分區」與「主題」整理了 100+ 篇<strong>峇里島住宿推薦</strong>，從一晚不到 30 美元的高 CP 值飯店，到懸崖無邊際泳池的頂奢<strong>私人泳池 Villa</strong>，幫你快速鎖定最適合的<strong>峇里島飯店</strong>與度假村。',
+    introHtml: `峇里島這麼大，第一次來最常卡關的就是「到底要住哪一區」。<strong>水明漾（Seminyak）</strong>時尚好逛、<strong>長谷（Canggu）</strong>衝浪文青、<strong>烏布（Ubud）</strong>森林療癒、<strong>烏魯瓦圖（Uluwatu）</strong>懸崖海景，<strong>努沙杜瓦／金巴蘭</strong>適合親子與蜜月，<strong>庫塔</strong>則最方便購物與機場過境。這一頁先用一張表把 8 大區的<strong>價位、適合誰、氛圍</strong>攤開來比，接著逐區列出我們實際寫過評測的<strong>人氣飯店與 Villa</strong>（含參考房價與房客評分），最後是依分區與主題整理的 ${allPosts.length} 篇<strong>峇里島住宿推薦</strong>——從一晚不到 30 美元的高 CP 值飯店，到懸崖無邊際泳池的頂奢<strong>私人泳池 Villa</strong>，幫你一次鎖定最適合的<strong>峇里島飯店</strong>與度假村。`,
     areaTable: {
       caption: '峇里島 8 大住宿區域比較——住哪一區最適合你？',
       headers: ['區域', '適合誰', '每晚價位', '氛圍・交通', '看住宿'],
@@ -224,8 +332,8 @@ const CAT_CONFIG: Record<string, {
     ],
     faqs: [
       {
-        q: '第一次去峇里島住哪一區最好？',
-        a: '新手最推薦水明漾（Seminyak）與沙努爾（Sanur）。水明漾餐廳、酒吧、購物最集中，到哪都方便；沙努爾海灘平靜、步調慢、最適合親子與長輩。想要衝浪文青氛圍選長谷（Canggu），想要森林療癒選烏布（Ubud）。詳細比較可看分區攻略。',
+        q: '峇里島推薦住哪一區？第一次去住哪裡最好？',
+        a: '新手最推薦水明漾（Seminyak）與沙努爾（Sanur）。水明漾餐廳、酒吧、購物最集中，到哪都方便；沙努爾海灘平靜、步調慢、最適合親子與長輩。想要衝浪文青氛圍選長谷（Canggu），想要森林療癒選烏布（Ubud），想拍懸崖海景選烏魯瓦圖（Uluwatu），只是過境或預算有限就住庫塔（Kuta）。詳細比較可看本頁上方的 8 大區域比較表與分區攻略。',
       },
       {
         q: '峇里島住飯店還是 Villa 好？',
@@ -246,6 +354,26 @@ const CAT_CONFIG: Record<string, {
       {
         q: '峇里島的 Airbnb 民宿還能訂嗎？',
         a: '2026 年印尼政府開始取締未取得合法執照的民宿與 Villa，部分 Airbnb 房源面臨拆遷或停業風險。建議優先選擇有合法營業執照的飯店或正規 Villa，避免抵達後訂房被取消。',
+      },
+      {
+        q: '峇里島住宿貴嗎？',
+        a: '以同等級來說，峇里島住宿比日本、台灣便宜，和泰國、越南接近，但頂級度假村的價差極大。三～四星乾淨飯店多半落在一晚美金 25～60；四～五星海景度假村約美金 150～400；懸崖頂的頂奢 Villa（如 Bvlgari Resort Bali、Alila Villas Uluwatu）一晚可以到美金 900 以上。雨季（11～3 月）與避開連假通常能省下三～四成。',
+      },
+      {
+        q: '峇里島獨旅住宿有哪些推薦？',
+        a: '一個人旅行建議選長谷（Canggu）或水明漾（Seminyak）：治安相對好、步行可及的咖啡廳與共同工作空間多，也最容易遇到其他旅人。想安靜療癒可選烏布（Ubud），瑜伽會館與 Retreat 型住宿很多。獨旅避免只訂偏遠的獨棟 Villa——夜間叫車不便，安全與交通成本都會變高。',
+      },
+      {
+        q: '峇里島有哪些推薦的私人泳池 Villa？',
+        a: '想要獨棟私人泳池，烏布（叢林梯田景）、水明漾（近市區好逛）、長谷（衝浪＋咖啡廳）是三個最主流的選擇。預算充足可看 Tanah Gajah、Viceroy Bali 這類烏布名宿；想控制在一晚美金 150 以內，長谷與水明漾的中價 Villa 選擇最多。多人同遊訂整棟三～四房 Villa 分攤下來常常比訂飯店房間更划算。',
+      },
+      {
+        q: '峇里島最頂級的飯店有哪些？',
+        a: '普遍公認的頂級名單包含烏魯瓦圖的 Bvlgari Resort Bali、Alila Villas Uluwatu，金巴蘭的 Four Seasons Bali at Jimbaran Bay 與 AYANA 系列，努沙杜瓦的 The Apurva Kempinski Bali、The St. Regis Bali，以及烏布的 Viceroy Bali、Capella Ubud。這類房型一晚多在美金 500～1,800，旺季務必提早數個月訂。',
+      },
+      {
+        q: '蜜月去峇里島住哪一區比較好？',
+        a: '蜜月最推薦烏魯瓦圖與金巴蘭：懸崖與海灣夕陽景最強，房型多為附私人泳池的 Villa。想要叢林私密感可選烏布，想兼顧海灘與飯店設施則選努沙杜瓦。訂房時記得在備註欄註明蜜月，多數度假村會提供花瓣佈置或迎賓小點。',
       },
     ],
     relatedTitle: '📚 訂房前必看工具與攻略',
@@ -334,6 +462,7 @@ const collectionPageSchema = {
   "url": canonicalUrl,
   "inLanguage": "zh-TW",
   "numberOfItems": allPosts.length,
+  "dateModified": lastUpdatedIso,
   "about": {
     "@type": "Place",
     "name": "Bali",
@@ -398,6 +527,13 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
       <!-- 頁面標題 -->
       <h1 class="cat-page-h1">{config.h1 ?? `峇里島${cat}｜${allPosts.length} 篇完整攻略`}</h1>
 
+      <!-- 更新時間：分類頁沒有日期訊號，搜尋結果就顯示不出新鮮度 -->
+      <p class="cat-updated">
+        最後更新：<time datetime={lastUpdatedIso}>{lastUpdatedLabel}</time>
+        <span class="cat-updated-sep">·</span>
+        收錄 {allPosts.length} 篇{cat}文章
+      </p>
+
       <!-- Pillar Page 推薦卡片 -->
       <div class="pillar-recommendation-card">
         <div class="pillar-card-inner">
@@ -440,6 +576,53 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
               </tbody>
             </table>
           </div>
+        </section>
+      )}
+
+      <!-- 編輯精選飯店（住宿推薦專屬）：把站上已有的 Agoda 快照與住宿評測接起來，
+           讓這頁本身就點得出具名飯店，而不只是一份文章標題清單 -->
+      {hotelPicks.areas.length > 0 && (
+        <section class="cat-hotel-picks">
+          <h2 class="cat-group-title">🏨 編輯精選：{hotelPicks.areas.length} 大區域 {hotelPickCount} 間人氣飯店 Villa</h2>
+          <p class="cat-hotel-intro">
+            下面每一間我們都寫過實地評測或深度介紹，點飯店名可以直接看該篇。
+            排序依房客評分，只收錄評論數 200 則以上的住宿。
+          </p>
+          {hotelPicks.areas.map(area => (
+            <div class="cat-hotel-area">
+              <h3 class="cat-hotel-area-title">{area.emoji} {area.name}</h3>
+              <div class="cat-area-table-scroll">
+                <table class="cat-area-table cat-hotel-table">
+                  <thead>
+                    <tr>
+                      <th>飯店／Villa</th>
+                      <th>星級</th>
+                      <th>房客評分</th>
+                      <th>每晚參考價</th>
+                      <th>我們的介紹</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {area.rows.map(h => (
+                      <tr>
+                        <th scope="row" class="area-cell">
+                          <a href={`/blog/${h.slug}/`} class="hotel-name-link">{h.name}</a>
+                        </th>
+                        <td>{h.stars ? `${h.stars}★` : '—'}</td>
+                        <td class="rating-cell">{h.rating}<span class="rating-max">/10</span>（{h.reviews.toLocaleString('en-US')} 則）</td>
+                        <td class="price-cell">{`US$${h.rate} 起`}</td>
+                        <td><a href={`/blog/${h.slug}/`} class="area-link" title={h.title}>看評測 →</a></td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          ))}
+          <p class="cat-hotel-note">
+            ※ 評分與房價為 Agoda 於 {hotelPicks.snapshot || '近期'} 擷取的快照，非本站評分。
+            實際房價會隨日期、房型與匯率浮動，訂房前請以訂房平台當下顯示的價格為準。
+          </p>
         </section>
       )}
 
@@ -579,6 +762,42 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
   .cat-area-table .price-cell { white-space: nowrap; color: #b8860b; font-weight: 600; }
   .cat-area-table .area-link { color: var(--ocean, #0a3d6b); font-weight: 600; text-decoration: none; white-space: nowrap; }
   .cat-area-table .area-link:hover { text-decoration: underline; }
+
+  /* 更新時間 */
+  .cat-updated {
+    font-size: 0.82em;
+    color: #7a8794;
+    margin: -0.8em 0 1.6em;
+  }
+  .cat-updated-sep { margin: 0 0.5em; }
+
+  /* 編輯精選飯店 */
+  .cat-hotel-picks { margin-bottom: 2.6em; }
+  .cat-hotel-intro {
+    font-size: 0.88em;
+    color: #4a5a6a;
+    line-height: 1.7;
+    margin: 0 0 1.2em;
+  }
+  .cat-hotel-area { margin-bottom: 1.4em; }
+  .cat-hotel-area-title {
+    font-size: 0.97em;
+    font-weight: 700;
+    color: #0a1628;
+    margin: 0 0 0.5em;
+  }
+  .cat-hotel-table { min-width: 660px; }
+  .cat-hotel-table .area-cell { white-space: normal; min-width: 15em; }
+  .hotel-name-link { color: var(--ocean, #0a3d6b); text-decoration: none; }
+  .hotel-name-link:hover { text-decoration: underline; }
+  .cat-hotel-table .rating-cell { white-space: nowrap; font-weight: 600; color: #1a6b4a; }
+  .cat-hotel-table .rating-max { font-weight: 400; color: #8a98a5; }
+  .cat-hotel-note {
+    font-size: 0.78em;
+    color: #7a8794;
+    line-height: 1.7;
+    margin: 0.6em 0 0;
+  }
 
   /* Groups */
   .cat-group { margin-bottom: 2.4em; }

@@ -1,6 +1,23 @@
 # Root homepage is now src/pages/index.astro (SEO page with JS redirect to /blog)
 
 # =============================================
+# 住宿推薦中樞頁合併（2026-09）
+# =============================================
+# /bali-hotels/ 和 /blog/category/住宿推薦/ 是同一份資料做出來的兩個中樞頁：
+# 同樣吃 category=住宿推薦、同樣依區域分組、同樣主打「峇里島住宿推薦」。
+# /bali-hotels/ 全站沒有任何內部連結（孤兒頁）卻在 sitemap 裡，兩頁互搶同一個
+# 查詢字詞，結果是兩邊都排不上去。這裡把它 301 併回分類頁集中訊號。
+# 註：Cloudflare Pages 的靜態檔優先於 _redirects，所以 src/pages/bali-hotels/
+# 必須一併刪掉，這條規則才會生效。
+/bali-hotels/ /blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/ 301
+/bali-hotels /blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/ 301
+# 舊頁的 hreflang 曾宣告這 4 個語言版，但它們從來沒被建出來（Google 爬到的是 404）
+/en/bali-hotels/ /en/blog/category/accommodation/ 301
+/zh-cn/bali-hotels/ /zh-cn/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/ 301
+/zh-hk/bali-hotels/ /zh-hk/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/ 301
+/id/bali-hotels/ /id/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/ 301
+
+# =============================================
 # 手寫 slug 別名轉址（大小寫、舊 slug 修正）
 # =============================================
 

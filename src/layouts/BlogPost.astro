@@ -234,6 +234,11 @@ const catPageUrl = (cat: string): string => {
 // 因此另外在文末補一條可見、且錨文字帶目標關鍵字的內部連結。
 const isNewsArticle = isZhTw && cats.includes('新聞存檔');
 
+// 住宿推薦文章：文末導回住宿分類中樞。理由同上——.mobile-breadcrumb 是隱藏的，
+// 全站唯一連到該分類頁的可見連結只有側欄那顆「住宿推薦」，錨文字不含目標關鍵字
+// 「峇里島住宿推薦」。這裡替 100+ 篇住宿文各補一條可見、帶關鍵字的內部連結。
+const isAccommodationArticle = isZhTw && cats.includes('住宿推薦');
+
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
 
 // 瀏覽數統一歸到繁中 slug 底下加總，不分語言版本
@@ -655,6 +660,15 @@ const spaFaqSchema = isSpaGuide ? {
               <a href="/news/">
                 <span aria-hidden="true">📰</span>
                 看更多<strong>峇里島新聞</strong>：每日更新入境規定、天氣火山、交通與治安提醒 →
+              </a>
+            </nav>
+          )}
+
+          {isAccommodationArticle && (
+            <nav class="news-hub-backlink" aria-label="峇里島住宿推薦">
+              <a href="/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/">
+                <span aria-hidden="true">🏨</span>
+                看完整的<strong>峇里島住宿推薦</strong>：8 大區域比較、人氣飯店與 Villa 房價評分一次看 →
               </a>
             </nav>
           )}
