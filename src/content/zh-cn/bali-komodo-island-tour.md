@@ -1,29 +1,31 @@
 ---
-slug: bali-komodo-island-tour
 title: 巴厘岛3日＋科莫多岛2D1N船宿：不可错过的旅游精华
+slug: bali-komodo-island-tour
 description: 这是一篇记录我们一家四口在巴厘岛与科莫多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科莫多岛度过五天的探险之旅，并且在那里参加了一个【梦幻科莫多岛】
-pubDate: '2024-09-12'
-updatedDate: 2026-07-10T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_0f22d157cfa287be743426ae95a50093.jpg'
+pubDate: 2024-09-12T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島
   - 科摩多島
   - 科摩多島船宿
   - 科莫多島
   - 船宿
+heroImage: 'https://images.gobaligo.id/vocus/vocus_0f22d157cfa287be743426ae95a50093.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/66dd1eb3fd897800015bf1d0'
-category:
-  - 遊記分享
+source: ''
+sourceUrl: ''
+updatedDate: 2026-09-09T00:00:00.000Z
 lang: zh-cn
-_srcHash: a11d800ed14ad6a6f93497db01f1e5ab
+_srcHash: 25158696e47b1c76402187d9705a1372
 ---
-> 以下内容改编自团友 [Tyty Chow](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 分享游记：
 
-**先说结论**：巴厘岛3日 + 科莫多岛2天1夜船宿的组合行程，适合想同时体验巴厘岛文化与科莫多国家公园自然奇观的家庭旅客；巴厘岛段落建议请社团推荐的中文包车司机协助安排景点与拍照，能大幅提升旅程顺畅度与纪念照品质。
+> 以下内容改编自团友 [Tyty Chow](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 分享游记：
+>   **先讲结论**：巴厘岛 3 日 + 科莫多岛 2 天 1 夜船宿的组合行程，适合想同时体验巴厘岛文化与科莫多国家公园自然奇观的家庭旅客；巴厘岛段落建议请社团推荐的中文包车司机协助安排景点与拍照，能大幅提升旅程顺畅度与纪念照品质。
 
 这是一篇记录我们一家四口在巴厘岛与科莫多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科莫多岛两天，度过总共五天的探险之旅，并且在那里参加了一个科莫多两天一夜船宿行程。
-
-![峇里島3日＋科摩多島2D1N船宿：不可錯過的旅遊精華](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
 
 ## 巴厘岛的美好体验
 
@@ -33,27 +35,27 @@ _srcHash: a11d800ed14ad6a6f93497db01f1e5ab
 
 我们在巴厘岛本岛的一些行程（Tyty Chow提供）
 
-旅途中，小吴与我们一路闲聊，让我们了解了许多当地文化。他的安排无微不至，无论是餐厅还是活动，都是点对点的接洽，让我们玩得尽兴。他甚至会尽可能帮我们安排最好的座位，卡住最佳的风景。令人惊喜的是，在日出吉普车行程中，小吴还带了无人机，并且他的吉普车搭档用iPhone 15为我们拍出了绝美的网红照，事后还帮忙编辑照片，让我们留下了满满的美好回忆！
+旅途中，小吴与我们一路闲聊，让我们了解了许多当地文化。他的安排无微不至，无论是餐厅还是活动，都是点对点的接洽，让我们玩得尽兴。他甚至会尽可能帮我们安排最好的座位，卡住最佳的风景。令人惊喜的是，在日出吉普车行程中，小吴还带了空拍机，并且他的吉普车搭档用iPhone 15为我们拍出了绝美的网美照，事后还帮忙编辑照片，让我们留下了满满的美好回忆！
 
 巴杜尔火山+岩礁日出行程（Tyty Chow提供）：
 
-**在线订购：**
+https://youtu.be/gSpXvPjt_74
 
-[巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
+> **在线订购：**[巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
 阿勇河漂流，很长一条，不会太刺激也不会太平稳，很舒适的漂流体验（Tyty Chow提供）：
 
-**在线订购：**
+https://youtu.be/U-5ysqHZAz0
 
-[阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
+> **在线订购：**[阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)/[阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-[阿勇河漂流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
-
-我们在巴厘岛的最后一天因为要前往科莫多岛，所以选择住在机场附近。当我们计划简单地搭乘酒店的出租车前往机场时，小吴担心司机会误将我们送到国际航站楼，于是他特地一大早到酒店提醒司机，确保一切顺利进行。不过，最后还是发生了一点状况（我因为太放松而给错了钱😭），但幸好有小吴的帮忙，他和他妻子努力解决问题，让我们最终追回了钱。在陌生的地方，有他们真的让人感到无比安心。当我们结束科莫多岛的行程返回巴厘岛时，小吴还特地来到机场还钱给我们，并一路护送我们从国内线到国际线的安检入口前才放心离开。
+我们在巴厘岛的最后一天因为要去科莫多岛，所以选择住在机场附近。当我们计划简单地搭乘酒店的出租车前往机场时，小吴担心司机会误将我们送到国际航站楼，于是他特地一大早到酒店提醒司机，确保一切顺利进行。不过，最后还是发生了一点状况（我因为太放松而给错了钱😭），但幸好有小吴的帮忙，他和他妻子努力解决问题，让我们最终追回了钱。在陌生的地方，有他们真的让人感到无比安心。当我们结束科莫多岛的行程返回巴厘岛时，小吴还特地来到机场还钱给我们，并一路护送我们从国内线到国际线的安检入口前才放心离开。
 
 ## 科莫多岛的船宿探险
 
 船宿的夕阳美景（Tyty Chow提供）：
+
+https://youtu.be/rVM2inxq8G4
 
 我们的科莫多岛两天一夜船宿行程堪称一次难忘的体验。船宿的舒适程度超乎我们的预期，海面平静，微微的海风让人感到非常惬意（但还是要以当时的气象为准）。船上的餐点虽然简单，但非常美味，其中烤鱼的味道更是让人难以忘怀。
 
@@ -67,32 +69,36 @@ _srcHash: a11d800ed14ad6a6f93497db01f1e5ab
 
 左：帕达尔日出/中：有成群蝙蝠飞过，可惜太暗没拍出/右：兰科洞穴游泳（Tyty Chow提供）
 
-然而，两天一夜的行程时间稍嫌不够，尤其是当我们遇到下午的一场小雨时，海象略微不稳，导致船速变慢，行程也因此减少了一些。基于这次的经验，我建议想要参加科莫多行程的朋友，最好选择三天两夜或更长的行程，特别是如果你对潜水或浮潜有兴趣。两天的行程对于想要完全体验科莫多岛的所有精华，确实有点仓促。
+然而，两天一夜的行程时间稍嫌不够，尤其是当我们遇到下午的一场小雨时，海象略微不稳，导致船速变慢，行程也因此减少了一些。基于这次的经验，我建议想要参加科摩多行程的朋友，最好选择三天两夜或更长的行程，特别是如果你对潜水或浮潜有兴趣。两天的行程对于想要完全体验科摩多岛的所有精华，确实有点仓促。
 
 粉红沙滩（Tyty Chow提供）：
 
----
+https://youtu.be/O5UvPvDdtwE
 
-## 巴厘岛包车司机与全包旅游的联系方式
+https://youtu.be/LmPOP6UN4FA
+
+### 巴厘岛包车司机与全包旅游的联系方式
 
 最后，如果你也想在巴厘岛拥有一次无忧无虑、充满当地文化与美景的旅行，我强烈推荐你联系小吴。他不仅是一位优秀的司机，还是你的旅程顾问和朋友。你可以通过以下方式联系到他：
 
-- **小吴联系方式**：
+- **小吴联络方式**：
 - - 微信：BettyPinkyWu
-  - Line：@bettypinkywu
+    - Line：@bettypinkywu
 
-### **提供一个全包式的五天四夜行程，含台湾-巴厘岛直飞机票、巴厘岛-科莫多岛机票、四晚住宿、全程两人包车...等等： ⭐⭐**[**巴厘岛+科莫多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游**](/zh-cn/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
-
-### 「巴厘岛+科莫多岛」的套装行程
+## 专业行程点这里：
 
 ![「峇里島+科摩多島」套裝行程](https://images.gobaligo.id/vocus/vocus_b44d6f245184aea60972fa03ca2e2331.png)
 
-[「巴厘岛+科莫多岛」套餐行程](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
+> [两人成行轻奢团](/zh-cn/blog/bali-komodo-luxury-tour-2026/)
 
-您觉得Tyty Chow他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+> [⭐⭐科莫多＋巴厘岛双 AYANA 奢华5日游｜入住世界级度假村⭐⭐](https://gobaligo.id/zh-cn/blog/komodo-bali-double-ayana-luxury-tour/)
+
+您觉得Tyty Chow他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 ![「峇里島+科摩多島」的套裝行程](https://images.gobaligo.id/vocus/vocus_4f3c9335329415b15de58f37454557bb.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 
 你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/zh-cn/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+
+{{block:攻略}}
