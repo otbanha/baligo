@@ -15,9 +15,12 @@
 // Dedup is by post-id pairing, not just title text: a reply's subject is
 // fixed at post time and phpBB never updates it if the topic is renamed
 // later, so a renamed topic's reply can carry a stale title that no longer
-// string-matches the current one. Since a reply's post id is always its
-// original post's id + 1, we pair them up and prefer the original post's
-// (always current) title.
+// string-matches the current one. A reply's post id is usually its original
+// post's id + 1, but post ids are global across every topic/forum, so that
+// slot can belong to an unrelated topic's reply instead — collectTopics only
+// trusts the pairing when the id-1 post is itself a genuine original post
+// (otherwise the newest topic in the feed can silently vanish, merged into
+// whatever unrelated thread happened to hold the preceding post id).
 
 const FORUM_BASE = 'https://community.gobaligo.id/';
 const ENTRY_RE = /<link href="([^"]+)"\/>\s*<title type="html"><!\[CDATA\[([\s\S]*?)\]\]><\/title>/g;
@@ -61,7 +64,8 @@ function collectTopics(entries, limit) {
     if (topics.length >= limit) break;
     if (entry.postId !== null && usedPostIds.has(entry.postId)) continue;
 
-    const op = entry.isReply && entry.postId !== null ? byPostId.get(entry.postId - 1) : null;
+    const candidate = entry.isReply && entry.postId !== null ? byPostId.get(entry.postId - 1) : null;
+    const op = candidate && !candidate.isReply ? candidate : null;
     const canonical = op ?? entry;
 
     if (entry.postId !== null) usedPostIds.add(entry.postId);
