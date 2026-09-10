@@ -4,7 +4,6 @@ slug: bali-family-trip-ubud-canggu
 description: >-
   这次的巴厘岛亲子自由行之旅，我们带着满满的期待出发，探索了乌布的文化气息、享受了坎古的悠闲时光、水明漾的时尚繁华，还品尝了当地夜市的美味小吃。从红眼班机的到达开始，我们一家人就被巴厘岛的魅力所吸引。这篇游记将带你走进我们的6天5夜行程，分享每一天的美好与惊喜。
 pubDate: 2024-08-12T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: null
 category:
   - 家庭親子
@@ -15,11 +14,15 @@ tags:
   - 峇里島親子飯店
   - 峇里島親子遊
   - 峇里島親子景點
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6bd57177ce5264894751be80f247f6ea.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/66b84461fd89780001c7c2b4'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-09-10T00:00:00.000Z
+update: 2026/05/22
 lang: zh-cn
-_srcHash: 602612355bb03d9f68d199282765d90c
+_srcHash: f7ea8ecb32f42b8fcff4499fd59c2295
 ---
 
 > 以下内容由团友 [赵康康](https://www.facebook.com/share/p/i8CMB6maodm1nafL/) 提供给我们重新编排：
@@ -48,7 +51,7 @@ Tegenungan Waterfall. （赵康康提供）
 
 [**▶Ubud Paradise 空房 & 房价查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-2511061/ubud-paradise-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/yI4C37fv)
 
-**（**评价很高的优质villa！已收录在[16间令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)**）**
+**（**评价很高的优质villa！已收录在20+[间令人惊艳的巴厘岛villa推荐](/zh-cn/blog/ubud-villa-pool-guide/)**）**
 
 ## **Day 2：漂流河与乌布探险**
 
@@ -82,11 +85,11 @@ Safari Zoo. （赵康康提供）
 
 > 编按：Bali Safari动物园提供冒险野生游览车，带您穿越动物们的家园，让您感受仿若置身野外的刺激与震撼。除了动物观赏，园区还举办丰富的动物表演，为您带来一场欢乐与自然的交融之旅。请看[这里我们有详细的介绍](/zh-cn/blog/bali-safari-night-stay/)。如果你想要更高的性价比，可以考虑 [住在动物园里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685834/mara-river-safari-lodge-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/PbKYpC56)
 
-晚上，我们请Awan带我们去当地的夜市体验。在夜市里，我们先绕了一圈，请他帮忙介绍各种食物，之后再由他帮我们向店家点餐（因为有些店家不会说英文）。我们享用了烤猪饭、鸡肉丸子面、鸡肉沙嗲、猪肉沙嗲等美食，还买了一堆当地的甜点回住宿享用，这一切花费竟然不超过USD$10，真是非常划算又充满趣味的体验！
+晚上，我们请Awan带我们去当地的夜市体验。在夜市里，我们先绕了一圈，请他帮忙介绍各种食物，之后再由他帮我们向店家点餐（因为有些店家不会说英文）。我们享用了烤猪饭、鸡肉丸子面、鸡肉沙嗲、猪肉沙嗲等美食，还买了一堆当地的甜点回住宿享用，这一切花费竟然不超过10美元，真是非常划算又充满趣味的体验！
 
 ![在夜市大快朵頤，又買了一堆甜點，這樣兩大一小的食量不超過台幣300（趙康康提供）](https://images.gobaligo.id/vocus/vocus_f864205bbf5c06b918b9be00f12ca9d2.jpg)
 
-在夜市大快朵颐，又买了一堆甜点，这样两大人一小孩的食量不超过USD$10（赵康康提供）
+在夜市大快朵颐，又买了一堆甜点，这样两大一小的食量不超过10美元（赵康康提供）
 
 编按：各位如果对夜市有兴趣，可以看看小杰的巴厘岛夜市游记
 
@@ -114,7 +117,7 @@ https://youtu.be/FphhiUzB7gM
 
 Atlas（赵康康提供）
 
-我在Klook上提前购买了票券，到了现场只需扫描QR code，他们就会准备好入场券并安排人员带位，非常方便。Atlas俱乐部真心值得推荐。这里有儿童专属的浅水池，也有超大的边际泳池，旁边就是海滩，可以下去踏浪。票券包含了一定额度的食物或饮料，超过额度才需另外付费。
+我在Klook上提前购买了票券，到了现场只需扫描QR code，他们就会准备好入场券并安排人员带位，非常方便。Atlas俱乐部真心值得推荐。这里有儿童专属的浅水池，也有超大的无边泳池，旁边就是海滩，可以下去踏浪。票券包含了一定额度的食物或饮料，超过额度才需另外付费。
 
 > [Klook订票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=898838&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F)
 
@@ -132,7 +135,9 @@ Atlas（赵康康提供）
 
 我们的战利品（赵康康提供）
 
-这是我们第一次来巴厘岛，出发前我已经看了很多影片，虽然心里有所准备，但巴厘岛的美丽依然超乎想象！这里的交通和人们的生活节奏都非常随性，虽然常常塞车，但很少听到喇叭声，大家的耐性超高！除了机场附近的道路有划白线，其他地方的道路规划都很随意，有时候双向车道会突然变成单行道，让人摸不着头绪😂。因此我强烈建议，如果是家庭旅游（或是三人以上的团体），直接包车会更方便且安全。
+{{block:伴手禮}}
+
+这是我们第一次来巴厘岛，出发前我已经看了很多影片，虽然心里有所准备，但巴厘岛的美丽依然超乎想象！这里的交通和人们的生活节奏都非常随性，虽然常常堵车，但很少听到喇叭声，大家的耐性超高！除了机场附近的道路有划白线，其他地方的道路规划都很随意，有时候双向车道会突然变成单行道，让人摸不着头绪😂。因此我强烈建议，如果是家庭旅游（或是三人以上的团体），直接包车会更方便且安全。
 
 ## **推荐司机Bali Holiday Awan**
 

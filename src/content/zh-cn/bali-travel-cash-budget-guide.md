@@ -1,15 +1,30 @@
 ---
+title: 巴厘岛旅游费用？巴厘岛旅游要准备多少现金？
 slug: bali-travel-cash-budget-guide
-title: 巴厘岛旅游费用? 巴厘岛旅游要准备多少现金？
-description: 你知道巴厘岛要用什么货币吗？巴厘岛什么情况下会用到现金？巴厘岛旅游的预算如何估算？剩下的当地货币要怎么办？巴厘岛旅游费用? 这一集统统帮您解答！
+description: 你知道巴厘岛用什么货币吗？巴厘岛什么情况下会用现金？巴厘岛旅游的预算如何估算？剩下的当地货币要怎么办？巴厘岛旅游费用？这一集统统帮您解答！
 pubDate: 2026-01-11T00:00:00.000Z
+updatedDate: 2026-09-10T00:00:00.000Z
+pubHour: null
 category:
   - 遊記分享
-tags: []
+tags:
+  - 峇里島現金
+  - 峇里島換匯
+  - 峇里島旅遊費用
+  - 峇里島旅遊預算
+  - 峇里島要帶多少現金
+  - 峇里島信用卡
+  - 印尼盾
+  - 峇里島自由行
+  - 峇里島旅遊攻略
+  - 峇里島消費
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c13cd68f0d8c0d9447e32f12ddf5def1.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/64fdaddefd89780001bdb780'
+source: ''
+sourceUrl: ''
 lang: zh-cn
-_srcHash: c7df2f5b72ed8a0131bdf7bb7d17329b
+_srcHash: eb02a10564ad785696d79f1038e097dd
 ---
 
 「巴厘岛旅游要准备多少现金？」、「要带多少美金？」 类似这样的问题常常困扰着计划前往这个印尼度假胜地的旅客。
@@ -46,5 +61,9 @@ https://youtu.be/11xViUhEnYQ
 ## SPA推荐
 
 [SPA也要精打细算：只推荐好评SPA](/zh-cn/blog/spa/)
+
+## 本站工具
+
+[巴厘岛旅费预算计算器](https://gobaligo.id/zh-cn/bali-budget-calculator/)
 
 {{block:戶外}}
