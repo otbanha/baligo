@@ -112,10 +112,11 @@ export async function onRequestGet({ request }) {
         'Cache-Control': 'public, max-age=60',
       },
     });
-  } catch {
+  } catch (err) {
     // error: true lets the widget tell "upstream fetch failed" apart from a
     // genuinely empty forum, so it can fail quietly instead of showing the
     // "no discussions yet" CTA on a live, populated forum.
+    console.error('forum-latest upstream fetch failed:', err?.message || err, err?.cause ?? '');
     return new Response(JSON.stringify({ topics: [], error: true }), {
       headers: {
         'Content-Type': 'application/json',
