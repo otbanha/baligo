@@ -16,4 +16,3 @@ randomCount: 8
 - [【沙努爾住宿推薦】：20+從奢華到平價的渡假村/villa收集](/blog/sanur-luxury-budget-resorts/)
 - [Alila Villas Uluwatu｜世界十大無邊際泳池✧明星御用婚禮勝地](/blog/alila-villas-uluwatu-bali/)
 - [烏魯瓦圖萬麗 Renaissance Bali Uluwatu 家庭推薦亮點](/blog/renaissance-bali-uluwatu-resort/)
-- [家庭別墅/團體包棟villa推薦](/blog/bali-group-villa-stay/)
