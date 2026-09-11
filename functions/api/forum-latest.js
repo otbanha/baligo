@@ -113,7 +113,10 @@ export async function onRequestGet({ request }) {
       },
     });
   } catch {
-    return new Response(JSON.stringify({ topics: [] }), {
+    // error: true lets the widget tell "upstream fetch failed" apart from a
+    // genuinely empty forum, so it can fail quietly instead of showing the
+    // "no discussions yet" CTA on a live, populated forum.
+    return new Response(JSON.stringify({ topics: [], error: true }), {
       headers: {
         'Content-Type': 'application/json',
         'Cache-Control': 'no-store',

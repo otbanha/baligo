@@ -40,7 +40,7 @@ const askUrl = forumId
 const showAsk = lang !== 'en' && lang !== 'id';
 ---
 
-<div class="flt-widget">
+<div class="flt-widget" id="flt-widget">
   <div class="flt-header">
     <span class="flt-title">{widgetTitle}</span>
     <a href={forumUrl} class="flt-more" target="_blank" rel="noopener">{ctaLabel}</a>
@@ -65,9 +65,18 @@ const showAsk = lang !== 'en' && lang !== 'id';
     if (empty) empty.hidden = false;
   };
 
+  // A fetch failure (upstream forum unreachable, network blip) is not the
+  // same as "the forum genuinely has zero topics" — showing the empty-state
+  // CTA in that case falsely tells readers an active forum has no posts.
+  // Fail quietly by hiding the whole widget instead.
+  const hideWidget = () => {
+    document.getElementById('flt-widget')?.setAttribute('hidden', '');
+  };
+
   try {
     const res = await fetch(apiUrl);
     const data = await res.json();
+    if (data.error) { hideWidget(); return; }
     const topics = data.topics || [];
 
     if (topics.length === 0) { showEmpty(); return; }
@@ -87,7 +96,7 @@ const showAsk = lang !== 'en' && lang !== 'id';
       </li>`).join('');
 
   } catch {
-    showEmpty();
+    hideWidget();
   }
 })();
 </script>
