@@ -47,7 +47,14 @@ function parseEntry(url, rawTitle) {
 async function fetchEntries(feedPath) {
   const res = await fetch(`${FORUM_BASE}${feedPath}`, {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; GobaligoForumWidget/1.0)' },
-    cf: { cacheTtl: 0, cacheEverything: false },
+    // Every hit to this Function used to re-fetch the origin feed with zero
+    // caching (a leftover from when this fetched a session-tainted phpBB
+    // search page, not this static Atom feed). On a homepage-embedded widget
+    // that means every page view re-hits phpBB's shared hosting directly —
+    // which trips its rate limit (HTTP 429) under completely normal traffic.
+    // 60s matches the Cache-Control this function already puts on its own
+    // response, so caching the upstream fetch doesn't add any staleness.
+    cf: { cacheTtl: 60, cacheEverything: true },
   });
   if (!res.ok) throw new Error(`upstream ${res.status}`);
   const xml = await res.text();
