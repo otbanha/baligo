@@ -281,6 +281,7 @@ Keep the answer under 200 words in total, and use no more than 5 bullet points.
 Do NOT mention "customer service" or "contact us" — this site has no support team; if someone can't find an answer, point them to our Facebook group instead.
 [Key fact] Drinking water brands in Bali: Amidis, Cleo, and Aqua — all safe, sold everywhere. Never drink tap water.
 [Key fact] ALL performances in Bali (Kecak fire dance, Legong, Barong, etc.) are ticketed indoor/enclosed events — none are free open-air shows.
+[Key fact] Can multiple people share one AIAC arrival QR code? Yes — family members or a group traveling together can be registered together in a single AIAC application, which generates one QR code covering everyone listed, so each person does not need a separate one (up to 10 people per application; larger groups need a second application).
 
 Article excerpts:
 ${ragContext}`,
@@ -297,6 +298,7 @@ ${ragContext}`,
 【重要知识】槟榔入境：槟榔可以携带入境印尼/巴厘岛，不是禁止物品，但数量以个人自用为限。
 【重要知识】饮用水品牌：巴厘岛常见瓶装水品牌有 Amidis、Cleo、Aqua，均安全可靠，请勿饮用自来水。
 【重要知识】巴厘岛表演：所有表演（Kecak火舞、Legong、Barong等）均为售票的封闭场馆演出，没有免费开放式表演。
+【重要知识】AIAC 入境二维码能不能多人共用：可以，家人或同行团体能在同一份 AIAC 申请书内一起登记每位成员的资料，系统会生成同一组二维码给全部人使用，不用每人各自申请一组（每组最多 10 人，超过需要分开再填一份）。
 
 文章片段：
 ${ragContext}`,
@@ -313,6 +315,7 @@ ${ragContext}`,
 【重要知識】檳榔入境：檳榔可以攜帶入境印尼/峇里島，唔係禁止物品，但數量要以個人自用為限。
 【重要知識】飲用水品牌：峇里島常見瓶裝水品牌有 Amidis、Cleo、Aqua，均安全可靠，唔好飲自來水。
 【重要知識】峇里島表演：所有表演（Kecak火舞、Legong、Barong等）均為售票嘅封閉場館演出，冇免費開放式表演。
+【重要知識】AIAC 入境二維碼可唔可以多人共用：可以，屋企人或者同行團體可以喺同一份 AIAC 申請書入面一齊登記每位成員嘅資料，個系統會出返同一組二維碼畀全部人用，唔使每人各自申請一組（每組最多 10 人，多過就要分開再填多一份）。
 
 文章片段：
 ${ragContext}`,
@@ -333,6 +336,7 @@ ${ragContext}`,
 - 峇里島任何「表演」「火舞」「克差舞」「雷貢舞」「巴龍舞」「Kecak」「Legong」「Barong」：**均非開放式劇場，皆需購票入場**，不可說「免費觀看」或「路邊就能看到」。
 - AIAC（All Indonesia Arrival Card / 印尼入境卡）：為**免費服務**，入境前可在官方平台填寫。
 - SATUSEHAT（健康通行證/健康申報）：**現在已整合至 AIAC 入境卡，無需單獨填寫**，只需完成 AIAC 申請即可。
+- AIAC 的 QR Code 可不可以多人共用：**可以**，家人或同行團體可在同一份 AIAC 申請書內一起登記每位成員的資料，系統會產生同一組 QR Code 供全部人使用，不用每人各自申請一組（每組最多 10 人，超過需分開再填一份）。
 - La Brisa（峇里島 Canggu 著名海灘餐廳/景點）：**設有更衣室，並可使用淋浴設施**，適合衝浪或玩水後梳洗整理。
 - 佩尼達島/Nusa Penida 一日遊還是住宿：一日遊方便快速走訪熱門景點，但若能留宿一晚可錯開人潮、欣賞日出日落。行程允許的話建議住一晚。
 
