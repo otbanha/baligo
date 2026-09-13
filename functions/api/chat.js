@@ -89,9 +89,10 @@ function localizeUrl(url, lang) {
 }
 
 // ── 指定主題導流 ─────────────────────────────────────────────────────────────
-// 這兩類問題有人工指定的權威頁面，一律要導到該頁：
+// 這三類問題有人工指定的權威頁面，一律要導到該頁：
 //   1) 入境印尼要準備什麼 / 入境流程 → 入境卡攻略文
 //   2) 行程怎麼安排（含貼上自己的行程）→ 行程規劃工具
+//   3) 要帶多少現金／換多少印尼盾 → 預算計算器
 // RAG 不保證每次都檢索到正確文章，所以除了在 system prompt 指定來源，
 // 串流結束後還會檢查回覆有沒有帶到指定連結，沒有就補上（找不到 chunk 的路徑也會補）。
 const ARRIVAL_INTENT_RE = /入境|入關|入关|通關|通关|海關申報|海关申报|電子海關|电子海关|all\s*indonesia|aiac|arrival card|customs declaration|entry (?:card|form|requirement)|immigration form|enter(?:ing)? (?:indonesia|bali)|arriv(?:e|ing) in (?:indonesia|bali)/i;
@@ -137,6 +138,33 @@ const TRIP_PIN_PROMPT = {
   'en': '[Pinned CTA] The user is asking how to plan an itinerary (or pasted their own). Give brief pointers first, then always recommend our trip planner at {url}, which builds an itinerary from their dates and preferences.',
 };
 
+// 「要帶多少現金／要換多少印尼盾」：帶/準備類動詞語意較廣，需搭配貨幣關鍵字才算數；
+// 換/兌換/改換類動詞在峇里島旅遊情境下幾乎都是問換匯金額，單獨搭配「多少」就足以判斷意圖。
+const BUDGET_CALC_INTENT_RE = new RegExp([
+  '(?:帶|带|準備|准备)[^。！？?]{0,8}多少[^。！？?]{0,10}(?:印尼盾|盧比|卢比|現金|现金|rupiah|idr)',
+  '多少[^。!?？]{0,6}(?:印尼盾|盧比|卢比|現金|现金|rupiah|idr)',
+  '(?:印尼盾|盧比|卢比|現金|现金)[^。!?？]{0,10}(?:準備|准备|帶|带|換|换|兌換|兑换|改換|改换)[^。!?？]{0,4}多少',
+  '(?:換|换|兌換|兑换|改換|改换)[^。!?？]{0,4}多少',
+  'how much (?:cash|rupiah|idr|money)[^.!?]{0,25}(?:bring|prepare|exchange|carry|need)',
+  'how much (?:should i|need to|do i need to) exchange',
+].join('|'), 'i');
+
+const BUDGET_CALC_PATH = '/bali-budget-calculator/';
+
+const BUDGET_CALC_PIN_LINE = {
+  'zh-TW': '💰 想知道這趟要帶多少現金、換多少印尼盾才夠用，用預算計算器幫你抓預算 → {url}',
+  'zh-CN': '💰 想知道这趟要带多少现金、换多少印尼盾才够用，用预算计算器帮你抓预算 → {url}',
+  'zh-HK': '💰 想知道呢趟要帶幾多現金、換幾多印尼盾先夠用，用預算計算機幫你抓下預算 → {url}',
+  'en': '💰 Not sure how much cash or rupiah to bring? Use our Bali budget calculator to work it out → {url}',
+};
+
+const BUDGET_CALC_PIN_PROMPT = {
+  'zh-TW': '【本題指定導流】使用者在問要帶多少現金／要換多少印尼盾，請先簡短給重點建議（例如參考金額區間、建議帶美金去換），最後一定要建議他用本站的預算計算器 {url}（輸入天數、人數與玩法就會幫你估算所需現金）。',
+  'zh-CN': '【本题指定导流】用户在问要带多少现金／要换多少印尼盾，请先简短给重点建议（例如参考金额区间、建议带美金去换），最后一定要建议他用本站的预算计算器 {url}（输入天数、人数与玩法就会帮你估算所需现金）。',
+  'zh-HK': '【本題指定導流】用家問緊要帶幾多現金／要換幾多印尼盾，請先簡短畀重點建議（例如參考金額區間、建議帶美金去換），最後一定要建議佢用本站嘅預算計算機 {url}（入日數、人數同玩法就會幫你估算所需現金）。',
+  'en': '[Pinned CTA] The user is asking how much cash or rupiah to bring/exchange. Give brief pointers first (e.g. a rough amount range, recommend bringing USD to exchange), then always recommend our budget calculator at {url}, which estimates the cash needed from trip days, people count and travel style.',
+};
+
 function pick(table, lang) {
   return table[lang] || table['zh-TW'];
 }
@@ -158,6 +186,14 @@ export function getTopicPins(message, lang) {
       probe: '/trip-planner/',
       line: pick(TRIP_PIN_LINE, lang).replace('{url}', url),
       prompt: pick(TRIP_PIN_PROMPT, lang).replace('{url}', url),
+    });
+  }
+  if (BUDGET_CALC_INTENT_RE.test(message)) {
+    const url = `${getLangUrlPrefix(lang)}${BUDGET_CALC_PATH}`;
+    pins.push({
+      probe: 'bali-budget-calculator',
+      line: pick(BUDGET_CALC_PIN_LINE, lang).replace('{url}', url),
+      prompt: pick(BUDGET_CALC_PIN_PROMPT, lang).replace('{url}', url),
     });
   }
   return pins;
