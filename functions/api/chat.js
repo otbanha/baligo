@@ -5,7 +5,7 @@ const RATE_LIMIT_TTL = 60; // 每 IP 每分鐘 5 次
 const INPUT_MAX_CHARS = 200;
 const MAX_TOKENS = 800;
 const CACHE_TTL = 86400; // 24h response cache（只快取無對話歷史的單輪問答）
-const CACHE_VERSION = 'rag-v2'; // RAG 架構重寫 + 指定主題導流，版本號變更會讓舊快取全部失效
+const CACHE_VERSION = 'rag-v3'; // 修正「入境QR Code可否多人共用」答錯，版本號變更會讓舊快取全部失效
 const DAILY_GLOBAL_MAX = 500; // 每日（UTC）AI 回答呼叫上限（不含 embedding）
 
 const EMBED_MODEL = '@cf/baai/bge-m3';
