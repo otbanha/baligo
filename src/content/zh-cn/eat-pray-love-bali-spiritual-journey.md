@@ -1,26 +1,31 @@
 ---
-slug: eat-pray-love-bali-spiritual-journey
 title: 【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生
+slug: eat-pray-love-bali-spiritual-journey
 description: >-
   清晨五点半，我在乌布民宿的阳台上反复翻阅着《Eat Pray
   Love》的巴厘岛章节。书页边缘已经被我摩挲得微微卷起，就像我此刻忐忑的心情。今天，我终于要踏上和女主角Liz（茱莉亚·罗伯茨饰演）类似的灵性探寻之旅，只是这一次，镜头外的女主角换成了我自己。   
   Ketut Udi开着他的银灰色休旅车准
-pubDate: '2025-04-19'
-updatedDate: 2026-07-10T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_edfaa79d7c5dd8f919591b51bf0d684f.jpg'
+pubDate: 2025-04-19T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
+  - 套裝行程
 tags:
   - 峇里島
   - 靈性
   - 療癒
   - 冥想
   - 靈性成長
+heroImage: 'https://images.gobaligo.id/vocus/vocus_edfaa79d7c5dd8f919591b51bf0d684f.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/680323c9fd89780001988a20'
-category:
-  - 美食景點活動
-  - 遊記分享
+source: ''
+sourceUrl: ''
+updatedDate: 2026-09-15T00:00:00.000Z
 lang: zh-cn
-_srcHash: e07e1eb0d5f0c91114a6d4dc9911a60e
+_srcHash: da735ca275969f03da80792e31a95b03
 ---
+
 **先讲结论**：想体验电影《Eat Pray Love》般的巴厘岛灵性之旅，可安排两大重点行程——**乌布的巫医（Balian）净化仪式**（通过在地向导/司机引荐，非观光化的传统院落）与**Tirta Empul 圣泉寺 Melukat 净化仪式**（建议避开人潮时段前往，体验比电影拍摄现场更真实的洗礼）。重点在于选对非商业化的在地引路人，而非单纯跟团拍照。
 
 清晨五点半，我在乌布民宿的阳台上反复翻阅着《Eat Pray Love》的巴厘岛章节。书页边缘已经被我摩挲得微微卷起，就像我此刻忐忑的心情。今天，我终于要踏上和女主角Liz（茱莉亚·罗伯茨饰演）类似的灵性探寻之旅，只是这一次，镜头外的女主角换成了我自己。
