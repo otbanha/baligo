@@ -1,11 +1,11 @@
 ---
-title: Visa Pensiun Indonesia Gampang Kok!｜Cara Tinggal Lama di Bali buat Usia 55+
+title: Visa Pensiun Indonesia Gampang Kok!｜Cara Tinggal Lama di Bali buat yang 55+
 slug: indonesia-retirement-kitas-e33f-guide
 description: >-
-  Mau tinggal lama di Bali atau Indonesia setelah usia 55 tahun? Pahami semua
-  soal syarat pengajuan KITAS Pensiun E33F, batas finansial, dokumen yang
-  dibutuhkan, biaya, dan proses perpanjangan — plus penjelasan soal transisi ke
-  KITAP (izin tinggal tetap).
+  Mau tinggal lama di Bali atau Indonesia setelah usia 55 tahun? Pahami syarat
+  pendaftaran, batas finansial, dokumen yang dibutuhkan, biaya, dan proses
+  perpanjangan KITAS Pensiun E33F, lengkap dengan penjelasan transisi ke KITAP
+  izin tinggal tetap.
 pubDate: 2026-09-14T00:00:00.000Z
 pubHour: 21
 category:
@@ -27,45 +27,45 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: PENDING_RETRY_6049b3d311af3869ab359aa1418c3e60
-_translateAttempts: 2
+_srcHash: 6049b3d311af3869ab359aa1418c3e60
+_translateIncomplete: true
 ---
 
-## Panduan Lengkap Visa Pensiun Indonesia: Mau Tinggal Lama di Bali Setelah 55 Tahun? Wajib Paham soal E33F Ini
+## Panduan Lengkap Visa Pensiun Indonesia: Buat yang 55+ Ingin Tinggal Lama di Bali, Wajib Paham E33F Ini
 
-Jujur, makin banyak teman yang nanya ke gue, setelah pensiun apa bisa langsung tinggal di Indonesia, tepatnya di Bali, dan nggak pulang-pulang? Jawabannya: bisa, dan syaratnya nggak setinggi yang kamu bayangkan. Indonesia punya izin tinggal pensiun (KITAS) khusus buat warga asing usia 55 tahun ke atas, namanya E33F, yang bikin kamu bisa tinggal legal di sini dalam jangka panjang. Entah kamu lagi rencanain masa pensiun sendiri, atau mau bantu orang tua cari tempat yang hangat dan nyaman buat habiskan hari tua, artikel ini cocok banget buat kamu.
+Jujur, makin banyak teman yang nanya ke gue, setelah pensiun apa bisa tetap tinggal di Indonesia, di Bali, dan nggak pulang? Jawabannya bisa, dan syaratnya nggak setinggi yang dibayangkan. Indonesia punya izin tinggal pensiun (KITAS) khusus buat warga asing usia 55 tahun ke atas, namanya E33F, yang bikin kamu bisa tinggal legal di sini dalam jangka panjang. Entah kamu sendiri yang mau merencanakan hidup pensiun, atau mau bantu orang tua cari tempat yang hangat dan nyaman dengan fasilitas hidup yang oke buat hari tua, artikel ini rangkum buat kamu.
 
-### Siapa Sih yang Cocok Pakai KITAS Pensiun Ini?
+### KITAS Pensiun Ini Cocok Buat Siapa Sih?
 
-E33F adalah izin tinggal yang berlaku setahun dan bisa diperpanjang, dengan syarat pemohon adalah warga asing berusia minimal 55 tahun.
+E33F adalah izin tinggal berlaku satu tahun yang bisa diperpanjang, dengan syarat pendaftar adalah warga asing berusia minimal 55 tahun.
 
-Ada satu kesalahpahaman umum — meskipun namanya 'KITAS Pensiun', kamu **nggak perlu** buktiin kalau kamu udah pensiun beneran, dan nggak perlu tunjukkin slip dana pensiun dari negara asal. Yang bener-bener dicek cuma dua hal: usia, dan kondisi finansial kamu.
+Ada satu kesalahpahaman umum — meskipun namanya 'KITAS Pensiun', kamu **nggak perlu** buktiin kalau kamu udah benar-benar pensiun, dan nggak perlu tunjukkin surat bukti dana pensiun dari negara. Yang bener-bener dilihat cuma dua hal: usia, dan kondisi finansial kamu.
 
-Syarat finansialnya cukup simpel: setiap bulan harus punya penghasilan atau sumber dana tetap minimal USD$3.000, plus harus kasih laporan rekening bank 3 bulan terakhir dengan saldo minimal USD$2.000.
+Batas finansialnya cukup simpel: setiap bulan harus punya penghasilan atau sumber dana tetap minimal 3,000 Dolar AS, plus harus kasih laporan rekening bank tiga bulan terakhir, dengan saldo rekening nggak boleh kurang dari 2,000 Dolar AS.
 
-Cara ngajuinnya lewat sponsor yang ngirim dokumen di sistem eVisa. Kalau pasangan kamu belum genap 55 tahun, bisa ajukan KITAS keluarga buat ikut tinggal bareng; anak di bawah 18 tahun juga bisa pakai cara yang sama.
+Cara daftarnya lewat sponsor yang ngajuin di sistem eVisa. Kalau pasangan kamu belum berusia 55 tahun, bisa daftarin KITAS keluarga buat ikut tinggal bareng; anak di bawah 18 tahun juga pakai cara yang sama.
 
-Ada juga opsi lain namanya E33E, masa berlakunya sampai lima tahun, dan nggak perlu sponsor — kedengarannya menggiurkan, tapi syaratnya jelas lebih berat: kamu harus setor minimal USD$50.000 di rekening pribadi bank milik negara Indonesia, plus tetap harus penuhi syarat penghasilan USD$3.000 per bulan. Jujur aja, kalau dana kamu nggak terlalu longgar, E33F bakal lebih realistis buat kebanyakan orang.
+Ada satu opsi lagi namanya E33E, masa berlakunya sampai lima tahun, dan nggak perlu sponsor, kedengarannya menggoda banget, tapi syaratnya jelas lebih tinggi — kamu harus setor minimal 50,000 Dolar AS di rekening pribadi bank milik negara Indonesia, plus tetap harus penuhi syarat penghasilan 3,000 Dolar AS per bulan. Jujur aja, kalau dana nggak terlalu longgar, E33F lebih realistis buat kebanyakan orang.
 
 ### Dengan KITAS ini, apa yang bisa dan nggak bisa dilakukan
 
-Kalau udah punya KITAS pensiun, kamu bisa tinggal bebas di Indonesia, jalan-jalan ke mana aja, asal punya izin masuk kembali (re-entry permit) yang masih berlaku, keluar-masuk negara juga nggak dibatasi. Kamu juga bisa melakukan aktivitas yang terkait investasi atau bisnis.
+Kalau udah punya KITAS pensiun, kamu bisa tinggal bebas di Indonesia, jalan-jalan ke mana aja, asal punya izin masuk kembali (re-entry permit) yang masih berlaku, keluar-masuk negara juga nggak dibatasi. Kamu juga bisa melakukan aktivitas yang berhubungan dengan investasi atau bisnis.
 
 Tapi perlu diingat: KITAS ini **bukan** buat kerja di perusahaan Indonesia dan digaji, juga nggak bisa langsung dipakai buat jual-beli barang atau jasa. Singkatnya, ini dokumen buat kamu 'tinggal', bukan izin kerja.
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789397232284-at_a_picturesqu_0.png)
 
-### Proses pengajuannya gimana?
+### Gimana alur pengajuannya
 
-Langkah pertama pastiin umur, dokumen keuangan, dan syarat lainnya udah sesuai. Terus siapin satu set dokumen lengkap. Tahap ini biasanya butuh satu sampai tiga minggu.
+Langkah pertama, pastikan usia, dokumen keuangan, dan syarat lainnya udah sesuai. Lalu siapkan satu set dokumen lengkap. Tahap ini biasanya butuh waktu satu sampai tiga minggu.
 
-Setelah diajukan, waktu verifikasi resmi dari pemerintah bilangnya lima hari kerja. Tapi dari pengalaman yang aku lihat, lebih aman kalau kamu anggap tujuh sampai sepuluh hari.
+Setelah diajukan, waktu verifikasi resmi dari pemerintah katanya lima hari kerja. Tapi dari pengalaman yang aku lihat, lebih aman kalau kamu kira-kira tujuh sampai sepuluh hari.
 
-Kalau kamu ngajuin dari luar negeri, setelah disetujui harus masuk Indonesia dalam 90 hari. KITAS baru aktif pas kamu lewat imigrasi. Dalam beberapa kasus, kamu juga perlu ke kantor imigrasi buat verifikasi biometrik (sidik jari, foto, dll).
+Kalau kamu ngajuin dari luar negeri, setelah disetujui, kamu harus masuk ke Indonesia dalam 90 hari. KITAS akan aktif begitu kamu lolos imigrasi. Dalam beberapa kasus, kamu juga perlu ke kantor imigrasi buat verifikasi biometrik (sidik jari, foto, dll).
 
-Setelah dapet KITAS, dokumen lokal kayak SKTT (Surat Keterangan Tempat Tinggal) diurus terpisah, jangan sampai ketuker.
+Setelah dapet KITAS, dokumen lokal kayak SKTT (Surat Keterangan Tempat Tinggal) itu diurus terpisah, jangan sampai ketuker ya.
 
-### Dokumen apa aja yang perlu disiapin?
+### Dokumen apa aja yang perlu disiapin
 
 Dokumen utamanya meliputi:
 
@@ -78,25 +78,25 @@ Dokumen utamanya meliputi:
 - Akta nikah atau akta cerai (jika ada)
 - Dokumen terkait dua asisten rumah tangga lokal
 
-Kalau dokumennya diterbitkan di luar negeri, mungkin perlu diterjemahkan dan dilegalisir. Sebaiknya urus dari jauh-jauh hari biar nggak macet.
+Kalau dokumennya terbit dari luar negeri, mungkin perlu diterjemahkan dan dilegalisir. Saran sih urus dari jauh-jauh hari biar nggak macet.
 
-### Biaya Kira-kira Berapa
+### Kira-kira biayanya berapa
 
 - E33F 一年期：印尼盾1,600萬
 - Perpanjangan tahunan: Rp17.000.000
 - KITAS keluarga untuk pasangan atau anak: Rp12,5 juta per tahun
 - Penutupan KITAS (closing): Rp1.500.000
 
-Harga ini sudah termasuk biaya pemerintah, verifikasi dan persiapan dokumen, pengiriman, komunikasi dengan imigrasi, serta pendampingan jika perlu melakukan ulang biometrik. Untuk asuransi, sewa rumah, terjemahan dan legalisasi dokumen, SKTT, dan surat keterangan domisili, semuanya harus dibayar sendiri.
+Harga ini sudah termasuk biaya pemerintah, verifikasi dan persiapan dokumen, pengiriman, komunikasi dengan imigrasi, serta pendampingan kalau perlu bikin ulang biometrik. Tapi untuk asuransi, sewa tempat tinggal, terjemahan dan legalisasi dokumen, SKTT, sama surat keterangan tinggal, semuanya bayar sendiri ya.
 
-Nah, itu tadi perkiraan biaya dari salah satu agen. Soalnya harga antar agen di pasaran lumayan beda-beda, jadi saran gue sih mending langsung tanya aja ke agen yang mau kamu pakai biar jelas.
+Nah, itu tadi kisaran harga dari salah satu agen. Soalnya tarif tiap agen di lapangan bisa beda-beda banget, jadi saran gue sih langsung aja konfirmasi ke agen yang mau kamu pake biar jelas.
 
-### Cara menghubungkan perpanjangan dengan KITAP
+### Cara Menghubungkan Perpanjangan dengan KITAP
 
-KITAS pensiun harus diperpanjang setiap tahun, pengajuan perpanjangan harus dilakukan dalam 30 hari terakhir masa berlaku saat ini.
+KITAS pensiun harus diperpanjang setiap tahun, pengajuan perpanjangan harus dilakukan dalam 30 hari terakhir sebelum masa berlaku saat ini habis.
 
-Kalau kamu lagi serius mikir buat ngatur jalur ini buat diri sendiri atau orang tua, inti artikel ini kira-kira bakal ngebahas soal hambatan dan prosedur yang bakal kamu temui. Pas ngirim dokumen, saran sih tetap cari bantuan agen atau kantor hukum yang paham aturan imigrasi Indonesia, soalnya urusan dokumen dan sponsor itu banyak detailnya. Cari orang yang tepat bisa nghemat banyak waktu bolak-balik.
+Kalau kamu lagi serius mikir buat ngatur perjalanan ini buat diri sendiri atau orang tua, inti dari artikel ini kira-kira bakal ngebahas soal hambatan dan prosedur yang bakal kamu temuin. Pas ngirim dokumen, saran sih mending cari agen atau kantor hukum yang udah paham banget sama aturan imigrasi Indonesia, soalnya urusan dokumen dan sponsor itu banyak banget detail kecilnya. Cari orang yang tepat bisa ngirit banyak waktu bolak-balik.
 
-Setelah lihat persyaratan-persyaratan ini, kamu bakal sadar kalau Indonesia bikin program 'pensiun imigran' ini cukup ramah — usia plus bukti keuangan tertentu, dibanding negara lain yang sering minta investasi gede-gedean, ini tergolong skema yang realistis. Kalau kamu lagi serius mikirin buat diri sendiri atau orang tua ambil jalur ini, inti artikel ini kurang lebih bakal ngasih gambaran soal persyaratan dan proses yang bakal kamu hadapi. Waktu ngirim dokumen, saran sih tetap cari bantuan agen atau firma hukum yang paham aturan imigrasi Indonesia, soalnya urusan dokumen dan sponsor itu banyak detailnya. Dapat partner yang tepat bisa nghemat banyak waktu bolak-balik.
+Setelah lihat persyaratan-persyaratan ini, kamu bakal sadar kalau Indonesia bikin program 'pensiun imigran' ini cukup ramah — usia plus bukti keuangan tertentu, dibanding negara lain yang sering minta investasi gede-gedean, ini tergolong opsi yang realistis. Kalau kamu serius mempertimbangkan jalur ini buat diri sendiri atau orang tua, inti artikel ini kurang lebih bakal ngasih gambaran soal persyaratan dan proses yang bakal kamu hadapi. Waktu ngajuin dokumen, saran sih cari agen atau firma hukum yang paham aturan imigrasi Indonesia, soalnya urusan dokumen dan sponsor itu banyak seluk-beluknya. Pilih yang tepat bisa nghemat banyak waktu bolak-balik.
 
 {{block:klook}}

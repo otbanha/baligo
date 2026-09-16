@@ -1,114 +1,98 @@
 ---
-slug: bali-ocean-peace-day
 title: >-
-  Attention travelers! Bali and surrounding islands will enter a 'Marine Silence
-  Day' lockdown on October 18th!
+  Attention travelers! On October 18, Bali and its surrounding islands will
+  enter a 'Sea Silence Day' lockdown! (2025)
+slug: bali-ocean-peace-day
 description: >-
-  On October 18th this year, 'Nyepi Laut' (Marine Silence Day) is approaching,
-  which means tourists planning to visit Bali, Nusa Penida, Ceningan Island, and
-  Lembongan Island need to carefully check their itineraries to avoid
-  unnecessary inconveniences.
-pubDate: '2024-10-09'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_57387eb2c67d6f89999a84b00a0afefd.png'
+  This year, on October 18, 'Nyepi Laut' (Sea Silence Day) is approaching,
+  meaning travelers planning to visit Bali, Nusa Penida, Nusa Ceningan, and Nusa
+  Lembongan should
+pubDate: 2024-10-09T00:00:00.000Z
+updatedDate: 2026-09-16T00:00:00.000Z
+pubHour: null
+category:
+  - 旅行技巧
 tags:
   - 海洋寧靜日
   - nyepilaut
   - 海洋靜寂日
   - 佩尼達島
   - 金銀島
+heroImage: 'https://images.gobaligo.id/vocus/vocus_57387eb2c67d6f89999a84b00a0afefd.png'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/6705509efd89780001eaeb59'
-category:
-  - 旅行技巧
+source: ''
+sourceUrl: ''
 lang: en
-_srcHash: f5dbb49b6ba162ed7788f0638802ab5e
+_srcHash: 6fedd3dfc4dffc76adad4564c619e228
 ---
 
-## Bali's Cultural Festivals May Affect Travel Plans on October 18th
+## Bali Cultural Festival May Affect Travel Plans on October 18
 
-Most Bali enthusiasts have heard of 'Nyepi,' a special annual day on the island. However, few are aware of the more mysterious 'Nyepi Laut' (Marine Silence Day). This year, Nyepi Laut falls on October 18th, meaning travelers planning trips to Bali, Nusa Penida, Ceningan Island, and Lembongan Island should review their schedules carefully to avoid disruptions.
+Most Bali enthusiasts are familiar with 'Nyepi Day,' an annual special occasion on the island. However, few know about the more obscure festival, 'Nyepi Laut' (Sea Silence Day). This year, on October 18, Nyepi Laut is coming, so travelers planning to visit Bali, Nusa Penida, Nusa Ceningan, and Nusa Lembongan need to carefully check their itineraries to avoid unnecessary hassles.
 
-![Bali's Cultural Festivals May Affect Travel Plans on October](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
+![峇里島文化節慶可能影響10月18日的旅遊計劃](https://images.gobaligo.id/vocus/vocus_a2a7c26b85cb99ddd485b2133702d2e2.png)
 
-## **What is Marine Silence Day?**
+## **What is Sea Silence Day?**
 
-Nyepi Laut is a sacred festival established by Bali residents to honor Baruna, the god of the sea (also one of Bali's deities). It is primarily celebrated by the residents of **Nusa Penida**, **Ceningan Island**, and **Lembongan Island**, three islands off Bali's coast. On this day, all marine activities will cease entirely—whether tourist boats, fishing, or water sports like snorkeling and surfing.
+Nyepi Laut is a sacred festival held by Balinese residents to honor the sea god Baruna (one of Bali's deities), primarily observed by the inhabitants of the three offshore islands: **Nusa Penida**, **Nusa Ceningan**, and **Nusa Lembongan**. On this day, all maritime activities come to a complete halt, including tourist boats, fishing, and water sports like snorkeling and surfing.
 
 Further reading: [2025 Nyepi Day Guide](/en/blog/2025-bali-nyepi-day-guide/)
 
-## **How extensive are the impacts?**
+## **How Extensive is the Impact?**
 
-While Nyepi Laut is mainly observed on Nusa Penida and its neighboring islands, the restrictions on activities may also affect Bali's main island and even parts of Lombok and the Gili Islands. For travelers planning marine activities on October 18th, this will be a crucial day to note.
+Although Nyepi Laut is mainly observed on Nusa Penida and its neighboring islands, the day's activity restrictions can also affect mainland Bali and may even impact some tourism activities on Lombok and the Gili Islands. For travelers planning sea activities on October 18, this will be a crucial day.
 
-## **Transportation Restrictions on October 18th**
+## **Transportation Restrictions on October 18**
 
-On the day of 'Ocean Silence Day,' all boat services from Bali to Nusa Penida, Gili Islands, and Lembongan Island will be suspended. Even small speedboats and private vessels will be affected, so tourists should plan ahead and confirm their schedules with boat operators. Travelers planning to visit these islands from the evening of October 17 to the morning of October 19 must pay attention to the adjusted boat services.
+On "Ocean Silent Day," all boat services from Bali to Nusa Penida, Nusa Ceningan, and Nusa Lembongan will be suspended. Even small speedboats and private vessels are affected, so travelers should plan ahead and confirm their itineraries with ferry companies. From the evening of October 17 to the morning of October 19, visitors planning to go to these islands must be aware of the adjustments to boat services.
 
-## **Impact on Local Residents and Tourists**
+## **Impact on Local Residents and Travelers**
 
-Local residents, expats living on these islands, and digital nomads are all expected to respect the silence norms of this day. Many hotels, guesthouses, and resorts will continue to provide essential services, especially dining, but tourists will be advised to stay within hotel premises and avoid going to the beaches or engaging in water activities.
+Local residents, expats living on these islands, and digital nomads alike are expected to respect the day's quiet customs. Many hotels, guesthouses, and inns will continue to offer basic services, especially dining, but travelers are advised to stay within their hotel grounds and avoid going to the beach or engaging in water activities.
 
 ## **How to Spend the Day?**
 
-Although 'Ocean Silence Day' doesn’t feature large-scale parades like Bali’s 'Nyepi Day' (such as the 'Ogoh-Ogoh' parade), the day still carries a sacred atmosphere. Tourists can use this day to immerse themselves in moments of silence and experience the unique religious culture of Bali’s outer islands. On this day, electricity, internet, and other modern amenities may be limited, but hotels typically maintain basic operations, allowing guests to enjoy a tranquil holiday.
+Although "Ocean Silent Day" lacks the grand pre-dawn parades (like the "Ogoh-Ogoh" procession) of Bali's "Nyepi Day," it still carries a sacred atmosphere. Travelers can use this day to immerse themselves in moments of silence and experience the unique religious culture of Bali's offshore islands. Electricity, internet, and other modern amenities may be limited on the island, but hotels typically maintain basic operations, allowing guests to enjoy a tranquil getaway.
 
-## **When Will Normalcy Resume?**
+## **When Does Everything Return to Normal?**
 
-Starting early on October 19, all water activities will gradually return to normal, and boat services, snorkeling, diving, and other tourist activities will resume. Therefore, travelers planning these activities on the 18th should consider adjusting their itineraries to avoid this sacred holiday.
+Starting from the early morning of October 19, all marine activities will gradually resume, including ferry services, snorkeling, diving, and other tourist activities. Therefore, travelers planning such activities on the 18th should consider adjusting their itineraries to avoid this sacred holiday.
 
-![When Will Normalcy Resume?](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
+![什麼時候恢復正常？](https://images.gobaligo.id/vocus/vocus_5ed269a843a5f1ff7a8651552695af98.png)
 
-Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Tours, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
+Further reading: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation, Charter, Activities, Photography, Attractions](/en/blog/nusa-penida-guide/)
 
 ## **Frequently Asked Questions**
 
-### 1. Can I engage in water activities before or after 'Ocean Silence Day'?
+### 1. Can I engage in water activities before or after "Ocean Silent Day"?
 
-Yes, the restrictions of 'Ocean Silence Day' only apply to October 18. Some boat operators may offer limited services on October 17 and 19, but it’s recommended to confirm specific arrangements with service providers in advance.
+Yes, the 'Ocean Silence Day' restrictions apply only on October 18. On October 17 and 19, some ferry operators may offer limited services, but it's recommended to confirm specific arrangements with the provider in advance.
 
-### 2. Will tourists on Bali’s main island be affected?
+### 2. Will tourists on mainland Bali be affected?
 
-Marine activities on Bali's main island will be somewhat affected, but major transportation and inland activities will remain unrestricted. If planning to visit nearby smaller islands, adjustments to itineraries should be noted.
+Marine activities on mainland Bali will also be somewhat affected, but major transportation and inland activities will not be restricted. If you plan to visit nearby islands, you'll need to adjust your itinerary.
 
-### 3. Can I visit attractions in Nusa Penida on 'Ocean Day of Silence'?
+### 3. Can I visit attractions on Nusa Penida during 'Ocean Silence Day'?
 
-On 'Ocean Day of Silence', all attractions on Penida Island and its neighboring islands will be closed, and visitors are advised to avoid going out or visiting attractions.
+On 'Ocean Silence Day', all attractions on Nusa Penida and its neighboring islands will be closed. Visitors should avoid going out or visiting any sites.
 
 ### 4. Can I move freely within my hotel?
 
-Most hotels will allow guests to move freely within their premises but will recommend maintaining silence and respecting local traditions.
+Most hotels will allow guests to move freely within their premises, but they will recommend maintaining silence and respecting local traditions.
 
-### 5. Will there be any special ceremonies or activities on this day?
+### 5. Are there special ceremonies or events on this day?
 
-'Ocean Day of Silence' does not feature large parades or ceremonies like 'Nyepi Day'; it is a more private holiday focused on personal meditation and reflection.
+Unlike 'Nyepi Day', 'Ocean Silence Day' does not feature large parades or ceremonies. It is a more private holiday focused on personal retreat and reflection.
 
-### 6. How should I prepare for 'Ocean Day of Silence'?
+### 6. How should I prepare for 'Ocean Silence Day'?
 
-It is advisable to confirm arrangements with your accommodation in advance and ensure sufficient food and drinking water are prepared for the day.
+We recommend confirming the day's schedule with your accommodation in advance, and ensuring you have enough food and drinking water beforehand to be fully prepared for Nyepi Day.
 
-### 7. When is 'Ocean Day of Silence' in 2025?
+### 7. When is the 'Ocean Nyepi Day' in 2025?
 
-If you're planning a trip to Bali in 2025, don't miss our comprehensive '[2025 Indonesia National Holidays & Bali Festivals Complete Guide](/en/blog/bali-indonesia-holidays-2025/)'.
+If you're planning a trip to Bali in 2025, don't miss our comprehensive guide: '[2025 Indonesian National Holidays & Bali Festivals Full Year Guide](/en/blog/bali-indonesia-holidays-2025/)'.
 
 ## **Conclusion**
 
-'Nyepi Day' or 'Day of Silence' is a unique cultural experience in Bali. While it may cause some travel inconveniences for visitors, it offers a profound opportunity to understand local religious culture. When planning your mid-October itinerary, remember to account for this festival's impact and confirm specific arrangements with shipping and accommodation providers.
-
-## Sign Up for Our Blog
-
-📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
-
-![Sign Up for Our Blog](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
-
-**By subscribing for free, you'll get:**
-
-✅ The latest Bali news, keeping you updated on travel information
-
-✅ In-depth guides to make your trip both budget-friendly and stress-free
-
-✅ Exclusive recommendations for hidden gems and local food maps
-
-✅ Exclusive content you won't find in Facebook groups
-
-✅ Gather the most comprehensive travel planning suggestions from fellow travelers for seamless experiences every time
-
-Sign up easily using your Google or Facebook account!
+Ocean Nyepi Day is a unique cultural experience in Bali. While it may cause some travel inconveniences, it also offers a rare opportunity to delve into the local religious culture. When planning your trip for mid-October, remember to account for this festival's impact and confirm specific arrangements with ferry and accommodation providers.
