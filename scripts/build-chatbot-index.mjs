@@ -121,7 +121,8 @@ function cleanBody(bodyRaw) {
   return bodyRaw
     .replace(/\{\{block:[^}]+\}\}/g, '')
     .replace(/!\[.*?\]\(.*?\)/g, '')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1');
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '$1')
+    .replace(/^\s*https?:\/\/\S+\s*$/gm, ''); // 獨立成行的裸網址（如 IG 貼文連結）對 embedding 語意無幫助，直接移除
 }
 
 /** 依 H2/H3 標題切段：[{ heading, text }] */
