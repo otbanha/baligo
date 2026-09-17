@@ -84,6 +84,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   const panel = document.getElementById('chatbot-panel');
   const bubbleBtn = document.getElementById('chat-bubble-btn');
   const closeBtn = document.getElementById('chatbot-close');
+  const headerIcon = document.querySelector('.chatbot-icon');
 
   // 對話歷史：只在本次頁面停留期間保留，最多 3 輪（6 則），送給後端組 context
   const MAX_HISTORY_TURNS = 3;
@@ -204,8 +205,14 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
     const bubble = botDiv.querySelector('.msg-bubble');
     const avatar = botDiv.querySelector('.msg-avatar');
 
+    // 思考中：訊息頭像 + 視窗頂部的網站 logo 一起轉，讓使用者不用盯著訊息也看得到「working on it」
+    const setThinking = (on) => {
+      avatar.classList.toggle('spinning', on);
+      headerIcon?.classList.toggle('spinning', on);
+    };
+
     // 開始旋轉（在 fetch 之前，確保一定看得到）
-    requestAnimationFrame(() => avatar.classList.add('spinning'));
+    requestAnimationFrame(() => setThinking(true));
 
     try {
       const res = await fetch(API_URL, {
@@ -215,6 +222,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
       });
 
       if (!res.ok) {
+        setThinking(false);
         const data = await res.json().catch(() => ({}));
         bubble.innerHTML = `<span class="error">${data.error || errFallback}</span>`;
         return;
@@ -242,7 +250,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
             try {
               const token = JSON.parse(line.slice(6))?.choices?.[0]?.delta?.content || '';
               if (token) {
-                if (firstToken) { avatar.classList.remove('spinning'); firstToken = false; }
+                if (firstToken) { setThinking(false); firstToken = false; }
                 fullText += token;
                 bubble.innerHTML = renderReply(fullText);
                 messages.scrollTop = messages.scrollHeight;
@@ -250,7 +258,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
             } catch {}
           }
         }
-        avatar.classList.remove('spinning');
+        setThinking(false);
         if (!fullText) {
           bubble.innerHTML = `<span class="error">${errFallback}</span>`;
         } else {
@@ -260,7 +268,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
       } else {
         // Fallback: cached JSON response
         const data = await res.json();
-        avatar.classList.remove('spinning');
+        setThinking(false);
         if (data.reply) {
           bubble.innerHTML = renderReply(data.reply);
           pushHistory('user', text);
@@ -271,7 +279,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
         messages.scrollTop = messages.scrollHeight;
       }
     } catch {
-      avatar?.classList.remove('spinning');
+      setThinking(false);
       bubble.innerHTML = `<span class="error">${errNetwork}</span>`;
     } finally {
       sendBtn.disabled = false;
@@ -365,7 +373,8 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   gap: 0.7em;
   margin-bottom: 1em;
 }
-.chatbot-icon { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; }
+.chatbot-icon { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; transition: transform 0.3s; }
+.chatbot-icon.spinning { animation: spin 1s linear infinite; }
 
 .chatbot-title {
   font-size: 1em;
@@ -411,31 +420,34 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
 .chat-messages::-webkit-scrollbar { width: 4px; }
 .chat-messages::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.3); border-radius: 2px; }
 
-.msg { display: flex; align-items: flex-start; gap: 0.5em; }
-.msg.user { flex-direction: row-reverse; }
-.msg-avatar { width: 22px; height: 22px; border-radius: 4px; flex-shrink: 0; margin-top: 4px; transition: transform 0.3s; }
+/* 訊息（含頭像、泡泡、打字動畫）都是 client-side JS 用 innerHTML 動態插入的，
+   不是 Astro 編譯時就存在的節點，拿不到 scoped style 的 data-astro-cid 屬性，
+   一定要用 :global() 讓這些規則不吃 scope，否則整段聊天記錄都會沒有樣式。 */
+:global(.msg) { display: flex; align-items: flex-start; gap: 0.5em; }
+:global(.msg.user) { flex-direction: row-reverse; }
+:global(.msg-avatar) { width: 22px; height: 22px; border-radius: 4px; flex-shrink: 0; margin-top: 4px; transition: transform 0.3s; }
 @keyframes spin { to { transform: rotate(360deg); } }
-.msg-avatar.spinning { animation: spin 1s linear infinite; }
+:global(.msg-avatar.spinning) { animation: spin 1s linear infinite; }
 
-.msg-bubble {
+:global(.msg-bubble) {
   max-width: 85%;
   padding: 0.6em 0.9em;
   border-radius: 14px;
   font-size: 0.86em;
   line-height: 1.6;
 }
-.msg.bot .msg-bubble  { background: #f0ece4; color: var(--text, #222); border-top-left-radius: 4px; }
-.msg.user .msg-bubble { background: var(--gold, #C5A059); color: var(--ocean, #5D4037); font-weight: 600; border-top-right-radius: 4px; }
-.msg-bubble.error     { background: rgba(229,62,62,0.12); color: #c53030; border: 1px solid rgba(229,62,62,0.3); }
+:global(.msg.bot .msg-bubble)  { background: #f0ece4; color: var(--text, #222); border-top-left-radius: 4px; }
+:global(.msg.user .msg-bubble) { background: var(--gold, #C5A059); color: var(--ocean, #5D4037); font-weight: 600; border-top-right-radius: 4px; }
+:global(.msg-bubble.error)     { background: rgba(229,62,62,0.12); color: #c53030; border: 1px solid rgba(229,62,62,0.3); }
 
-.chat-link { color: var(--ocean, #5D4037); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
-.chat-link:hover { opacity: 0.75; }
+:global(.chat-link) { color: var(--ocean, #5D4037); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
+:global(.chat-link:hover) { opacity: 0.75; }
 
 /* 打字動畫 */
-.typing .msg-bubble { padding: 0.7em 0.9em; display: flex; gap: 5px; align-items: center; }
-.dot { width: 6px; height: 6px; background: var(--gold, #C5A059); border-radius: 50%; animation: bounce 1.2s infinite; }
-.dot:nth-child(2) { animation-delay: 0.2s; }
-.dot:nth-child(3) { animation-delay: 0.4s; }
+:global(.typing .msg-bubble) { padding: 0.7em 0.9em; display: flex; gap: 5px; align-items: center; }
+:global(.dot) { width: 6px; height: 6px; background: var(--gold, #C5A059); border-radius: 50%; animation: bounce 1.2s infinite; }
+:global(.dot:nth-child(2)) { animation-delay: 0.2s; }
+:global(.dot:nth-child(3)) { animation-delay: 0.4s; }
 @keyframes bounce {
   0%, 60%, 100% { transform: translateY(0); }
   30%           { transform: translateY(-6px); }
