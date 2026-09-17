@@ -5,120 +5,126 @@ description: >-
   2027 峇里島靜居日（Nyepi）係 3 月 9 日（星期二）06:00 到 3 月 10 日 06:00，前一晚 3 月 8 日係 Ogoh-ogoh
   遊行。全島斷網、機場閂足 24 小時。呢篇整理咗完整時間軸、遊行最佳觀賞位，同埋靜居日照常營業嘅度假村清單。
 pubDate: 2026-05-30T00:00:00.000Z
-updatedDate: 2026-08-09T00:00:00.000Z
 pubHour: 23
 category:
   - 旅行技巧
-tags: []
+tags:
+  - '2027'
+  - 峇里島
+  - 靜居日
+  - 寧靜日
+  - 安寧日
 heroImage: >-
   https://images.gobaligo.id/images/2026-05/1780156629526-mixcollage-30-may-2026-10-52-pm-6469.jpg
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-09-17T00:00:00.000Z
 lang: zh-hk
-_srcHash: b35ccfdd87bf7721a0a1279a9c6d47ce
+_srcHash: e4d338e4a1a53e28eba2d31674be6ea3
 ---
 https://www.youtube.com/watch?v=ZAGQPxwfs4s
 
 ## 2027 靜居日係邊日？重點快睇
 
-- **靜居日（Nyepi）**：2027 年 3 月 9 日（星期二）06:00 → 3 月 10 日（星期三）06:00，足足 24 個鐘
-- **Ogoh-ogoh 巡遊**：3 月 8 日（星期一）傍晚，各區大約 16:00 開始封路
+- **Ogoh-ogoh 妖怪大遊行**：3 月 7 日（星期日）傍晚，各區大約 16:00 開始封路
+- **靜居日（Nyepi）**：2027 年 3 月 8 日（星期一）06:00 → 3 月 9 日（星期二）06:00，足足 24 小時
 - **機場**：關閉 24 小時，唔會有任何航班升降
-- **流動網絡**：全島熄晒；酒店 Wi-Fi 通常仲用得，但記住低調啲
-- **唔可以出街**，入黑之後要熄燈、拉埋窗簾
-- **3 月 10 日 06:00 起**逐步回復正常
+- **流動網絡**：全島關閉；酒店 Wi-Fi 通常仲用得，但係要低調啲用
+- **唔可以出街**，入夜後要熄燈、拉埋窗簾
+- **3 月 9 日 06:00 開始**逐步恢復正常
 
-有啲網站話 2027 靜居日係 3 月 8 日——**嗰日係前一晚嘅 Ogoh-ogoh 巡遊，靜居日本身係 3 月 9 日**。訂機票之前記得確認清楚。
+峇里島靜居日（Nyepi Day），呢個係峇里島最獨特、最神聖嘅節日之一，成個島瞬間由超熱鬧變成「全世界最安靜嘅一日」，儀式感十足！
 
-峇里島靜居日（Nyepi Day），呢個係峇里島最特別、最神聖嘅節日之一，成個島由勁熱鬧突然變成「全世界最靜嘅一日」，儀式感爆燈！
-
-**Nyepi**（讀音：涅皮）係峇里島印度教新年（Saka曆），又叫「寧靜日」或者「安寧日」。成個島會徹底「關機」24個鐘，等大自然唞吓氣，亦俾人反省、淨化身心。前一日夜晚（3月8號）就係超high嘅**Pawai Ogoh-ogoh**（妖怪大遊行）！
+**Nyepi**（讀音：涅皮）係峇里島印度教新年（Saka曆），又叫「寧靜日」或者「安寧日」。成個島會徹底「關機」24 小時，等大自然唞吓氣，亦俾人反省、淨化身心。前一日夜晚（3 月 7 日）就係超 high 嘅 **Pawai Ogoh-ogoh**（妖怪大遊行）！
 
 ## 先搞清楚時間軸（超重要！）
 
 峇里島 Nyepi（靜居日）2027 時間軸提醒
 
-![先搞懂時間軸（超重要！）](https://images.gobaligo.id/images/2026-05/1780156597160-mixcollage-30-may-2026-10-55-pm-1082.jpg)
+![2027 Nyepi](https://images.gobaligo.id/images/2026-09/1789643844576-1.jpeg)
 
-### 3/8 晏晝開始
+### 3/7 晏晝開始
 
-☀️ 部分舖頭、餐廳提早收工
+☀️ 大部分舖頭、餐廳提早收檔
 
-- 部分路段封路，因為當晚嘅妖怪大遊行
+- 部分路段封路為咗當晚嘅妖怪大遊行
 - 記得趁早買定食物、水、日用品
 - 超市、藥房、便利店同大部分餐廳可能晏晝就收
-- 建議中午前就買齊嘢，費事夜晚搵唔到嘢食
+- 建議中午前就買齊晒嘢，費事夜晚搵唔到嘢食
 
-### 3/9 全日（06:00 ～ 第二日06:00）
+### 3/8 全日（06:00 ～ 第二日06:00）
 
 🚫 完全靜默日
 
-- 所有航班停飛（機場關閉24個鐘）
+- 所有航班停晒（機場關閉24個鐘）
 - 手機網絡同流動數據中斷（Wi-Fi 可能有限速或者正常，但建議低調用）
 - 唔准出街（除非緊急醫療）
-- 夜晚一定要拉埋窗簾、熄燈（外面唔可以見到光）
+- 夜晚一定要拉埋窗簾、熄燈（出面唔可以見到光）
 - 唔可以公開開電視、播音樂、大聲講嘢
 - 酒店入面活動照常，但係要保持安靜。游唔游水就要睇返各酒店嘅規定。帶住細路嘅朋友，嚴禁喺泳池或者池邊嘈喧巴閉。
 
-### 3/10 朝早 06:00 之後
+### 3月9號朝早06:00之後
 
 ✅ 逐步恢復正常
 
-- 島上生活慢慢恢復返
-- 舖頭、餐廳、交通陸續開返
-- 飛機開始升降（但嗰日航班可能仲有延誤）
-- 可以正常出街、叫車、行街
+- 島上面生活慢慢回復
+- 商店、餐廳、交通陸續開放
+- 飛機開始起降（但嗰日航班可能仲有延誤）
+- 可以正常出門、叫車、行街
 
-\*\*溫馨提示\*\*：Nyepi 係峇里島人最神聖嘅日子，尊重規則就係參與呢份獨特嘅寧靜㗎～
+**小提醒：**Nyepi 係峇里島人最神聖嘅日子，尊重規則就係參與呢份獨特嘅寧靜㗎～
 
 ## Ogoh-ogoh遊行：邊度睇最正？
 
-呢個係Nyepi前晚嘅重頭戲！巨大、色彩繽紛（有時超嚇人）嘅Ogoh-ogoh惡靈像俾人抬住遊行，象徵趕走負能量，最後好多會燒咗佢。2027年預計3月8號晚登場，道路會提早封路，建議下晝4點前就定位。
+呢個係Nyepi前夜嘅重頭戲！巨大、色彩繽紛（有時超嚇人）嘅Ogoh-ogoh惡靈像俾人抬住遊行，象徵趕走負能量，最後好多會燒咗。2027年預計3月7號晚登場，道路會提早封路，建議下晝4點前就定位。
 
-### 最佳觀賞地點（由最盛大去到chill啲嘅排序）：
+### 最佳觀賞地點（由最盛大到chill啲嘅排序）：
 
-1. **Denpasar（登巴薩）Puputan Square / Lapangan Puputan Badung** 呢度係全島最盛大、最官方嘅遊行！最多、最大嘅Ogoh-ogoh，路線長、持續到半夜，能量爆燈。附近Patang Catur Muka圓環係超級觀賞點，好似大看台咁。想睇「最癲」就衝呢度，但人超多、要早啲去霸位。
-2. **Kuta / Legian Street（庫塔／雷吉安街）** 遊客最方便，Pasar Kuta附近或者Legian Street沿線（近Mercure酒店嗰段）。熱鬧、燈光多，適合第一次體驗。夜晚人迫人，但氣氛似派對！
+1. **Denpasar（登巴薩）Puputan Square / Lapangan Puputan Badung** 呢度係全島最盛大、最官方嘅遊行！最多、最大嘅Ogoh-ogoh，路線長、持續到半夜，能量爆燈。附近Patang Catur Muka圓環係超級觀賞點，好似大看台咁。想睇「最狂」就衝呢度，但人超多、要早啲去霸位。
+2. **Kuta / Legian Street（庫塔／雷吉安街）** 遊客最方便，Pasar Kuta附近或者Legian Street沿線（近Mercure酒店嗰段）。熱鬧、燈光多，適合第一次體驗。夜晚人逼人，但氣氛似派對！
 3. **Seminyak / Camplung Tanduk junction 或 Eat Street** 比較時髦、藝術感強嘅遊行。Ogoh-ogoh設計成日超有創意。
 4. **Ubud（烏布）Central / Ubud Palace 或 Monkey Forest附近** 更文化、更藝術風。遊行相對優雅、戲劇性強，適合鍾意深度體驗嘅人。Peliatan Royal Palace周邊都好熱鬧。
-5. **其他chill地點：Sanur（近McDonald's）、Canggu（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你喺呢啲區域住，行出酒店就睇到本地社區版，比較親切、冇咁迫。
+5. **其他chill地點：Sanur（近McDonald's）、Canggu（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你喺呢啲區域住，行出酒店就睇到本地社區版，比較親切、冇咁逼。
 
 ![最佳觀賞地點（從最盛大到chill一點的排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
-**溫馨提示**：好多地方下晝就開始封路，Grab或者的士可能入唔到。建議提早包車或者行路過去。遊行後有啲Ogoh-ogoh會燒咗佢，煙霧好大，戴口罩或者避開下風位。
+**小提醒**：好多地方下晝就開始封路，Grab或的士可能入唔到。建議提早包車或者行路過去。遊行後有啲Ogoh-ogoh會燒咗，煙霧好大，戴口罩或者避開下風位。
 
-## Nyepi嗰日（3月9號）到底做得啲咩？做唔得啲咩？
+## Nyepi當日（3月8號）到底做得啲咩？做唔得啲咩？
 
 ### 可以：
 
-- 喺酒店/別墅發呆、睇書、游水。好多豪華酒店會搞室內瑜伽、冥想、電影之夜等
-- 食酒店提供嘅餐點（佢哋會提早準備）
+- 喺酒店/別墅度發吽哣、睇書、游水。好多豪華酒店會搞室內瑜伽、冥想、電影之夜等
+- 食酒店提供嘅餐點（佢哋會提早準備好）
 - 冥想、寫日記、瞓大頭覺（真係超療癒㗎！）
-- 喺villa或者度假村度仰望星空——成個島熄燈嘅夜空，保證令你震撼
+- 喺villa或者度假村度望住星空——全島熄燈嗰個夜空，保證令你震撼
 
-### 絕對唔可以（違規會罰錢或者被勸導）：
+### 絕對唔可以（違規會罰款或者被勸導）：
 
-- 開燈、開電視、播音樂（出面睇到光或者聽到聲就唔得）
-- 揸車、揸電單車上路（除非緊急）
+- 開燈、開電視、播音樂（外面睇到光或者聽到聲就唔得）
+- 揸車、揸電單車上路（除非緊急情況）
 - 飛機升降（Ngurah Rai機場全日關閉，冇飛機出入）
 - 大聲講嘢、喺戶外活動
 - 點火、燒嘢
 
-**網絡：** 酒店或者villa提供嘅Wi-Fi通常都用到，但好多酒店會限速或者提醒低調使用。流動網絡全島關閉一日。
+**網絡：** 酒店或者villa提供嘅Wi-Fi通常都仲用得，但好多酒店會限速或者提醒你低調啲用。流動網絡成個島會關一日。
 
-**交通提醒：** 如果你3月9號要飛入/飛出峇里島，千祈唔好揀嗰日！機場關閉24個鐘，航班全部取消。建議前兩日（3/7）到達，或者後一日（3/10）離開。
+**交通提醒：** 如果你3月8號要飛入/飛出峇里島，千祈唔好撞正！機場會關閉24個鐘，所有航班取消。建議你早兩日（3/6）到，或者遲一日（3/9）先走。
 
-## 🌺 Nyepi 度假村推薦：留喺入面一樣玩得盡興
+## 🌺 Nyepi 渡假村推薦：留喺入面一樣玩得盡興
 
-Nyepi 期間邊度都去唔到，所以「揀啱度假村」呢件事比平時重要十倍。以下係幾間每年 Nyepi 都會精心規劃完整活動嘅度假村，令你24個鐘靜默一啲都唔悶：
+Nyepi 期間邊度都去唔到，所以「揀啱渡假村」呢件事比平時重要十倍。以下係幾間每年 Nyepi 都會精心策劃完整活動嘅渡假村，令你24小時靜默一啲都唔悶：
 
 ### 🏆 AYANA Bali（Jimbaran）——最完整嘅 Nyepi 全體驗
 
 ![AYANA Bali（Jimbaran）——最完整的 Nyepi 全體驗](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
 
-最推薦嘅選擇，冇之一。AYANA 嘅 Nyepi 規劃係三日完整套裝——3/8 當晚舉辦自家招牌 Ogoh-ogoh 大巡遊，兩座巨型神像代表毀滅同更新，儀式感超強。進入靜默日之後，日出瑜伽、水中皮拉提斯、氣功、音頻治療、缽聲浴、正念冥想輪住上場，幾乎排滿一整日。
+最推薦嘅選擇，冇之一。AYANA 嘅 Nyepi 規劃係三日完整套裝——3/8 當晚會搞佢哋招牌嘅 Ogoh-ogoh 大巡遊，兩座巨型神像代表毀滅同更新，儀式感超強。入咗靜默日之後，日出瑜伽、水中皮拉提斯、氣功、音頻治療、缽聲浴、正念冥想輪住上場，幾乎排滿一整日。
 
 **適合：** 追求身心靈體驗嘅大人、情侶
 
@@ -128,17 +134,17 @@ Nyepi 期間邊度都去唔到，所以「揀啱度假村」呢件事比平時�
 
 > RIMBA by Ayana 房價同空房 ▶ [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489045) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-987799/rimba-jimbaran-bali-by-ayana/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/5Tw3lsbE)
 
-> Ayana Villa 房價同空房 ▶ [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
+> Ayana Villa 房價同空房 ▶  [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
 
 ***
 
-### 🌿 Four Seasons Bali（Jimbaran Bay）——文化同家庭兼顧
+### 🌿 Four Seasons Bali（Jimbaran Bay）——文化同家庭都兼顧到
 
 ![Four Seasons Bali（Jimbaran Bay）——文化與家庭兼顧](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
 
-Jimbaran Bay 嘅四季酒店以盛大 Ogoh-ogoh 遊行見長。兒童俱樂部安排木偶製作、輕柔瑜伽、講故仔等，親子都照顧到晒。
+Jimbaran Bay 嘅四季酒店以盛大嘅 Ogoh-ogoh 遊行見稱。兒童俱樂部安排咗木偶製作、輕柔瑜伽、講故仔等活動，大人細路都照顧到。
 
-**適合：** 帶細路嘅家庭、想睇遊行又要靜心嘅旅客
+**適合：** 帶住細路嘅家庭、想睇遊行又想靜心嘅旅客
 
 > 空房 & 房價查詢：，[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48672) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1477039/four-seasons-resort-bali-at-jimbaran-bay/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/TsCFActs)
 
@@ -148,19 +154,19 @@ Jimbaran Bay 嘅四季酒店以盛大 Ogoh-ogoh 遊行見長。兒童俱樂部�
 
 ![The Apurva Kempinski Bali（Nusa Dua）——最有深度的靜心主題](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
 
-如果你將 Nyepi 當作一次真正嘅心靈退修而唔係淨係「困喺酒店」，Apurva Kempinski 嘅「MAUNA：寂靜嘅藝術」主題計劃就係為你設計嘅。圍繞正念、運動、飲食、睡眠四大核心，從神聖儀式、冥想到睡眠工作坊，三日落嚟好似完整做咗一次身心排毒。加上面向印度洋嘅壯觀建築，氣場無與倫比。
+如果你將 Nyepi 當作一次真正嘅心靈退修，而唔係淨係「困喺酒店」，Apurva Kempinski 嘅「MAUNA：寂靜嘅藝術」主題計劃就係為你設計嘅。圍繞正念、運動、飲食、睡眠四大核心，由神聖儀式、冥想以至睡眠工作坊，三日落嚟好似完整做咗一次身心排毒。加上面向印度洋嘅壯觀建築，氣場無與倫比。
 
 **適合：** 追求深度靜修、高端 wellness 體驗嘅旅客
 
-> 凱賓斯基訂房連結： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://hk.trip.com/hotels/bali-hotel-detail-25195229/the-apurva-kempinski-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
+凱賓斯基訂房連結： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://hk.trip.com/hotels/bali-hotel-detail-25195229/the-apurva-kempinski-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
 
 ***
 
-### 🌸 Alila Seminyak——文化工坊 × 精緻美食
+### 🌸 Alila Seminyak——文化工作坊 × 精緻美食
 
 ![Alila Seminyak](https://images.gobaligo.id/vocus/vocus_749f211cb6f32c9b89a39e82205f9ab6.jpg)
 
-由 Pengerupukan 日就開始有活動——細路可以喺 Play Alila 裝飾迷你 Ogoh-ogoh，夜晚一齊行去 Seminyak 街頭睇大巡遊。靜默日當日有太極、瑜伽、luluran（峇里島傳統磨砂）、canang 花籃製作等文化工坊，晚餐就係精緻嘅 Royal Rijsttafel 皇家印尼饗宴，食一餐等於上一堂印尼飲食文化課。
+由 Pengerupukan 日就開始有活動——小朋友可以喺 Play Alila 裝飾迷你 Ogoh-ogoh，夜晚一齊行去 Seminyak 街頭睇大巡遊。靜默日當日有太極、瑜伽、luluran（峇里島傳統磨砂）、canang 花籃製作等文化工作坊，晚餐就係精緻嘅 Royal Rijsttafel 皇家印尼饗宴，食一餐等於上一堂印尼飲食文化課。
 
 **適合：** 重視美食體驗、想親手做峇里文化工藝嘅旅客
 
@@ -170,12 +176,12 @@ Jimbaran Bay 嘅四季酒店以盛大 Ogoh-ogoh 遊行見長。兒童俱樂部�
 
 ### 最後小提醒
 
-Nyepi 係峇里島人最神聖嘅日子，我哋呢啲旅客可以參與，就係最大嘅尊重。唔好將呢日當成「被迫關機」，而係難得嘅「島嶼俾你嘅一日假期」——冇噪音、冇社交媒體、只有自己同大自然。
+Nyepi 係峇里島人最神聖嘅日子，我哋呢啲旅客能夠參與，就係最大嘅尊重。唔好將呢日當成「被迫熄機」，而係難得嘅「島嶼俾你嘅一日假期」——冇噪音、冇社交媒體、只有自己同大自然。
 
-另外要留意：2027 年嘅 Nyepi 同 2026 年一樣，**同開齋節假期重疊**，會有好大班印尼本地遊客湧入。
+另外要注意：2027 年嘅 Nyepi 同 2026 年一樣，**同開齋節假期重疊**，會有大量印尼本地旅客湧入。
 
 ## 峇里島其他節慶
-想一次過掌握全年嘅節慶同國定假期，可以睇[印尼國定假期＆峇里島節慶全年完整指南](/zh-hk/blog/2026-bali-festival-guide/)，入面有晒各節慶嘅日期一覽同參加建議。
 
+想一次過睇晒全年嘅節慶同國定假日，可以睇[印尼國定假日＆峇里島節慶全年完整指南](/zh-hk/blog/2026-bali-festival-guide/)，入面有齊各節慶嘅日期一覽同參加建議。
 
-想一次過掌握全年嘅節慶同國定假日，可以睇[印尼國定假日＆峇里島節慶全年完整指南](/zh-hk/blog/2026-bali-festival-guide/)，入面有齊各節慶嘅日期一覽同參加建議。
+{{block:一日團}}

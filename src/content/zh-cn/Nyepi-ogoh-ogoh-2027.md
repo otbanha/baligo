@@ -5,54 +5,61 @@ description: >-
   2027 巴厘岛静居日（Nyepi）是 3 月 9 日（周二）06:00 到 3 月 10 日 06:00，前一晚 3 月 8 日是 Ogoh-ogoh
   游行。全岛断网、机场关闭整整 24 小时。本文整理完整时间轴、游行最佳观赏地点，以及静居日照常营业的度假村清单。
 pubDate: 2026-05-30T00:00:00.000Z
-updatedDate: 2026-08-09T00:00:00.000Z
 pubHour: 23
 category:
   - 旅行技巧
-tags: []
+tags:
+  - '2027'
+  - 峇里島
+  - 靜居日
+  - 寧靜日
+  - 安寧日
 heroImage: >-
   https://images.gobaligo.id/images/2026-05/1780156629526-mixcollage-30-may-2026-10-52-pm-6469.jpg
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-09-17T00:00:00.000Z
 lang: zh-cn
-_srcHash: b35ccfdd87bf7721a0a1279a9c6d47ce
+_srcHash: PENDING_RETRY_e4d338e4a1a53e28eba2d31674be6ea3
+_translateAttempts: 1
 ---
 
 https://www.youtube.com/watch?v=ZAGQPxwfs4s
 
 ## 2027 静居日是哪一天？重点速查
 
-- **静居日（Nyepi）**：2027 年 3 月 9 日（周二）06:00 → 3 月 10 日（周三）06:00，整整 24 小时
-- **Ogoh-ogoh 游行**：3 月 8 日（周一）傍晚，各区约 16:00 起封路
-- **机场**：关闭 24 小时，不降落任何航班
+- **Ogoh-ogoh 妖怪大游行**：3 月 7 日（周日）傍晚，各区约 16:00 起封路
+- **静居日（Nyepi）**：2027 年 3 月 8 日（周一）06:00 → 3 月 9 日（周二）06:00，整整 24 小时
+- **机场**：关闭 24 小时，不起降任何航班
 - **移动网络**：全岛关闭；酒店 Wi-Fi 通常仍可用，但请低调使用
 - **不能外出**，入夜后要关灯、拉上窗帘
-- **3 月 10 日 06:00 起**逐步恢复正常
-
-有些网站把 2027 静居日写成 3 月 8 日——**那是前一晚的 Ogoh-ogoh 游行，静居日本身是 3 月 9 日**。订机票前请务必确认。
+- **3 月 9 日 06:00 起**逐步恢复正常
 
 巴厘岛静居日（Nyepi Day），这可是巴厘岛最独特、最神圣的节日之一，岛上瞬间从超热闹变成「全世界最安静的一天」，超有仪式感！
 
-**Nyepi**（发音：涅皮）是巴厘岛印度教新年（Saka历），也叫「宁静日」或「安宁日」。整个岛屿会彻底「关机」24小时，让大自然喘口气，也让人们反省、净化身心。前一天晚上（3月8日）则是超high的**Pawai Ogoh-ogoh**（妖怪大游行）！
+**Nyepi**（发音：涅皮）是巴厘岛印度教新年（Saka历），也叫「宁静日」或「安宁日」。整个岛屿会彻底「关机」24小时，让大自然喘口气，也让人们反省、净化身心。前一天晚上（3月7日）则是超嗨的**Pawai Ogoh-ogoh**（妖怪大游行）！
 
 ## 先搞懂时间轴（超重要！）
 
 巴厘岛 Nyepi（静居日）2027 时间轴提醒
 
-![先搞懂時間軸（超重要！）](https://images.gobaligo.id/images/2026-05/1780156597160-mixcollage-30-may-2026-10-55-pm-1082.jpg)
+![2027 Nyepi](https://images.gobaligo.id/images/2026-09/1789643844576-1.jpeg)
 
-### 3/8 下午开始
+### 3/7 下午开始
 
-☀️ 部分商店、餐厅提早关门
+☀️ 大部分商店、餐厅提早关门
 
 - 部分路段封路为了当晚的妖怪大游行
 - 记得趁早采购食物、水、日用品
-- 超市、药局、便利商店、以及大部分餐厅可能下午就关
+- 超市、药局、便利店、以及大部分餐厅可能下午就关
 - 建议中午前就把东西买齐，避免晚上找不到吃的
 
-### 3/9 全天（06:00 ～ 次日06:00）
+### 3/8 全天（06:00 ～ 次日06:00）
 
 🚫 完全静默日
 
@@ -60,10 +67,10 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 - 手机网络与移动数据中断（Wi-Fi 可能有限速或正常，但建议低调使用）
 - 禁止外出（除非紧急医疗）
 - 晚上必须拉起窗帘、关灯（外面不能看到光）
-- 不能公开开电视、播放音乐、大声讲话
-- 饭店内活动照常，但一切保持安静。能不能游泳要看各饭店规定。带小孩的朋友，严禁在泳池或池畔喧闹。
+- 不能公开开电视、播放音乐、大声说话
+- 酒店内活动照常，但一切保持安静。能不能游泳要看各酒店规定。带小孩的朋友，严禁在泳池或池畔喧闹。
 
-### 3/10 早晨 06:00 之后
+### 3/9 早晨 06:00 之后
 
 ✅ 逐步恢复正常
 
@@ -72,11 +79,11 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 - 飞机开始起降（但当天航班可能仍有延误）
 - 可以正常出门、叫车、逛街
 
-**小提醒**：Nyepi 是巴厘岛人最神圣的日子，尊重规则就是在参与这份独特的宁静喔～
+**小提醒：**Nyepi 是巴厘岛人最神圣的日子，尊重规则就是在参与这份独特的宁静喔～
 
 ## Ogoh-ogoh游行：哪里看最赞？
 
-这是Nyepi前夜的重头戏！巨大、色彩缤纷（有时超吓人）的Ogoh-ogoh恶灵像被抬着游行，象征赶走负能量，最后很多会烧掉。2027年预计3月8日晚间登场，道路会提早封路，建议下午4点前就定位。
+这是Nyepi前夜的重头戏！巨大、色彩缤纷（有时超吓人）的Ogoh-ogoh恶灵像被抬着游行，象征赶走负能量，最后很多会烧掉。2027年预计3月7日晚间登场，道路会提早封路，建议下午4点前就定位。
 
 ### 最佳观赏地点（从最盛大到chill一点的排序）：
 
@@ -84,42 +91,42 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 2. **Kuta / Legian Street（库塔／雷吉安街）** 游客最方便，Pasar Kuta附近或Legian Street沿线（靠近Mercure酒店那段）。热闹、灯光多，适合第一次体验。晚上人挤人，但气氛像派对！
 3. **Seminyak / Camplung Tanduk junction 或 Eat Street** 比较时髦、艺术感强的游行。Ogoh-ogoh设计常超有创意。
 4. **Ubud（乌布）Central / Ubud Palace 或 Monkey Forest附近** 更文化、更艺术风。游行相对优雅、戏剧性强，适合喜欢深度体验的人。Peliatan Royal Palace周边也很热闹。
-5. **其他chill地点：Sanur（靠近McDonald's）、Canggu（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你在这些区域住，走出酒店就能看到本地社区版，比较亲切、不那么挤。
+5. **其他chill地点：Sanur（靠近McDonald's）、Canggu（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你在这些区域住，走出饭店就能看到本地社区版，比较亲切、不那么挤。
 
 ![最佳觀賞地點（從最盛大到chill一點的排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
 **小提醒**：很多地方下午就开始封路，Grab或出租车可能进不去。建议提早包车或走路过去。游行后有些Ogoh-ogoh会烧掉，烟雾很大，戴口罩或避开下风处。
 
-## Nyepi当天（3月9日）到底能做什么？不能做什么？
+## Nyepi当天（3月8日）到底能做什么？不能做什么？
 
 ### 可以：
 
-- 在酒店/别墅里发呆、看书、游泳。很多豪华酒店会办室内瑜伽、冥想、电影夜等
-- 吃酒店内提供的餐点（他们会提早准备）
+- 在酒店/别墅里发呆、看书、游泳。很多豪华酒店会举办室内瑜伽、冥想、电影之夜等
+- 吃酒店内提供的餐点（他们会提前准备）
 - 冥想、写日记、睡大觉（真的超治愈！）
-- 在villa或度假村里仰望星空——全岛熄灯的那个夜空，保证让你震撼
+- 在别墅或度假村里仰望星空——全岛熄灯的那个夜空，保证让你震撼
 
-### 绝对不能（违规会被罚款或劝导）：
+### 绝对不能（违规会被罚款或劝诫）：
 
 - 开灯、开电视、播放音乐（外面看得到光或听到声音就不行）
-- 开车、骑车上路（除了紧急）
-- 飞机起降（Ngurah Rai机场全天关闭，没飞机进出）
-- 大声讲话、在户外活动
+- 开车、骑车上路（除非紧急情况）
+- 飞机起降（Ngurah Rai机场全天关闭，没有飞机进出）
+- 大声说话、在户外活动
 - 点火、烧东西
 
-**网络：** 酒店或villa提供的Wi-Fi通常还能用，但很多酒店会限速或提醒低调使用。移动网络全岛关闭一天。
+**网络：** 酒店或别墅提供的Wi-Fi通常还能用，但很多酒店会限速或提醒低调使用。移动网络全岛关闭一天。
 
-**交通提醒：** 如果你3月9日要飞进/飞出巴厘岛，千万避开！机场关闭24小时，航班全取消。建议前两天（3/7）抵达，或后一天（3/10）离开。
+**交通提醒：** 如果你3月8日要飞进/飞出巴厘岛，千万避开！机场关闭24小时，航班全取消。建议前两天（3/6）抵达，或后一天（3/9）离开。
 
-## 🌺 Nyepi 度假村推荐：待在里头一样玩很大
+## 🌺 Nyepi 度假村推荐：留在里面一样玩很大
 
-Nyepi 期间哪儿都不能去，所以「选对度假村」这件事比平常重要十倍。以下是几家每年 Nyepi 都会精心规划完整活动的度假村，让你24小时静默一点都不无聊：
+Nyepi 期间哪都不能去，所以「选对度假村」这件事比平常重要十倍。以下是几间每年 Nyepi 都会精心规划完整活动的度假村，让你24小时静默一点都不无聊：
 
 ### 🏆 AYANA Bali（金巴兰）——最完整的 Nyepi 全体验
 
 ![AYANA Bali（Jimbaran）——最完整的 Nyepi 全體驗](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
 
-最推荐的选择没有之一。AYANA 的 Nyepi 规划是三天完整套餐——3/8 当晚举办自家招牌 Ogoh-ogoh 大游行，两座巨型神像代表毁灭与更新，仪式感超强。进入静默日之后，日出瑜伽、水中普拉提、气功、音频治疗、钵声浴、正念冥想轮番上阵，几乎排满一整天。
+最推荐的选项没有之一。AYANA 的 Nyepi 规划是三天完整套装——3/8 当晚举办自家招牌 Ogoh-ogoh 大游行，两座巨型神像代表毁灭与更新，仪式感超强。进入静默日之后，日出瑜伽、水中普拉提、气功、音频治疗、钵声浴、正念冥想轮番上阵，几乎排满一整天。
 
 **适合：** 追求身心体验的大人、情侣
 
@@ -131,37 +138,37 @@ Nyepi 期间哪儿都不能去，所以「选对度假村」这件事比平常�
 
 > Ayana Villa 房价与空房 ▶  [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
 
-***
+translations
 
-### 🌿 巴厘岛四季酒店（金巴兰湾）——文化与家庭兼顾
+: [
 
 ![Four Seasons Bali（Jimbaran Bay）——文化與家庭兼顧](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
 
-金巴兰湾的四季酒店以盛大的Ogoh-ogoh游行见长。儿童俱乐部安排木偶制作、轻柔瑜伽、讲故事等活动，亲子都能得到照顾。
+> Ayana Villa 房价与空房 ▶  [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
 
-**适合：** 带小孩的家庭、想看游行又要静心的旅客
+,
 
-> 空房 & 房价查询：，[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48672) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1477039/four-seasons-resort-bali-at-jimbaran-bay/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/TsCFActs)
+> 空房 & 房價查詢：，[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48672) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1477039/four-seasons-resort-bali-at-jimbaran-bay/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/TsCFActs)
 
-***
+,
 
-### 🤫 巴厘岛阿普尔瓦凯宾斯基酒店（努沙杜瓦）——最有深度的静心主题
+### 🌿 Four Seasons Bali（Jimbaran Bay）——文化与家庭兼顾
 
 ![The Apurva Kempinski Bali（Nusa Dua）——最有深度的靜心主題](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
 
-如果你把Nyepi当作一次真正的心灵退修而不只是「困在酒店」，阿普尔瓦凯宾斯基的「MAUNA：寂静的艺术」主题计划就是为你设计的。围绕正念、运动、饮食、睡眠四大核心，从神圣仪式、冥想到睡眠工作坊，三天下来像完整做了一次身心排毒。加上面向印度洋的壮观建筑，气场无与伦比。
+,
 
-**适合：** 追求深度静修、高端wellness体验的旅客
+Jimbaran Bay 的四季酒店以盛大 Ogoh-ogoh 游行见长。儿童俱乐部安排木偶制作、轻柔瑜伽、说故事等，亲子都照顾到了。
 
 > 凯宾斯基订房链接： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://hk.trip.com/hotels/bali-hotel-detail-25195229/the-apurva-kempinski-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
 
 ***
 
-### 🌸 Alila Seminyak——文化工坊 × 精致美食
+### 🌸 阿丽拉水明漾——文化工坊 × 精致美食
 
 ![Alila Seminyak](https://images.gobaligo.id/vocus/vocus_749f211cb6f32c9b89a39e82205f9ab6.jpg)
 
-从 Pengerupukan 日就开始活动——孩子可以在 Play Alila 装饰迷你 Ogoh-ogoh，晚间一同走去 Seminyak 街头看大游行。静默日当天有太极、瑜伽、luluran（巴厘岛传统磨砂）、canang 花篮制作等文化工坊，晚餐则是精致的 Royal Rijsttafel 皇家印尼盛宴，吃一顿等于上一堂印尼饮食文化课。
+从 Pengerupukan 日就开始活动——孩子可以在 Play Alila 装饰迷你 Ogoh-ogoh，晚间一同走去水明漾街头看大游行。静默日当天有太极、瑜伽、luluran（巴厘岛传统磨砂）、canang 花篮制作等文化工坊，晚餐则是精致的 Royal Rijsttafel 皇家印尼盛宴，吃一顿等于上一堂印尼饮食文化课。
 
 **适合：** 重视美食体验、想亲手做巴厘文化工艺的旅客
 
@@ -178,3 +185,5 @@ Nyepi 是巴厘岛人最神圣的日子，我们这些旅客能参与，就是�
 ## 巴厘岛其他节庆
 
 想一次掌握全年的节庆与国定假日，可以看[印尼国定假日＆巴厘岛节庆全年完整指南](/zh-cn/blog/2026-bali-festival-guide/)，里面有各节庆的日期一览与参加建议。
+
+{{block:一日團}}
