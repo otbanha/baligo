@@ -10,6 +10,8 @@ const DAILY_GLOBAL_MAX = 500; // 每日（UTC）AI 回答呼叫上限（不含 e
 
 const EMBED_MODEL = '@cf/baai/bge-m3';
 const VECTORIZE_TOP_K = 5;
+const VECTORIZE_TOP_K_YEAR_QUERY = 15; // 問題內含年份時擴大候選池，避免同主題的舊年份文章擠掉正確年份
+const YEAR_RE = /\b(20\d{2})\b/;
 const SIMILARITY_THRESHOLD = 0.55; // 見 Phase 5 驗收：真正相關 ≥0.62，離題查詢 ≤0.55
 const NEWS_CATEGORY = '新聞存檔';
 const TIME_SENSITIVE_RE = /(今天|今日|現在|目前|即時|實時|today|right now|currently|real-?time)/i;
@@ -171,12 +173,18 @@ export async function embedQuery(env, text) {
 
 /** 向量檢索 + 相似度門檻過濾 + 時效性防呆（新聞存檔不能拿來回答「今天/現在」類問題） */
 export async function retrieveChunks(env, vector, message) {
-  const result = await env.VECTORIZE.query(vector, { topK: VECTORIZE_TOP_K, returnMetadata: 'all' });
+  const queryYear = message.match(YEAR_RE)?.[1];
+  const topK = queryYear ? VECTORIZE_TOP_K_YEAR_QUERY : VECTORIZE_TOP_K;
+  const result = await env.VECTORIZE.query(vector, { topK, returnMetadata: 'all' });
   let matches = (result.matches || []).filter(m => m.score >= SIMILARITY_THRESHOLD);
   if (TIME_SENSITIVE_RE.test(message)) {
     matches = matches.filter(m => !(m.metadata?.category || '').split(',').includes(NEWS_CATEGORY));
   }
-  return matches;
+  if (queryYear) {
+    const isSameYear = m => (m.metadata?.title || '').includes(queryYear);
+    matches = matches.filter(isSameYear).concat(matches.filter(m => !isSameYear(m)));
+  }
+  return matches.slice(0, VECTORIZE_TOP_K);
 }
 
 export function buildRagContext(matches, lang) {
