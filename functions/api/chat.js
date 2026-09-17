@@ -418,6 +418,7 @@ export async function onRequestPost(context) {
   try {
     const vector = await embedQuery(env, message);
     matches = await retrieveChunks(env, vector, message);
+    console.log('DEBUG matches:', JSON.stringify(matches.map(m => ({ id: m.id, score: m.score }))));
   } catch (err) {
     console.error('Vectorize retrieval error:', err);
     // 檢索失敗不擋住整個對話，但沒有 context 時一律走「找不到」路徑，避免模型瞎編
