@@ -10,9 +10,13 @@ const DAILY_GLOBAL_MAX = 500; // 每日（UTC）AI 回答呼叫上限（不含 e
 
 const EMBED_MODEL = '@cf/baai/bge-m3';
 const VECTORIZE_TOP_K = 5;
-const VECTORIZE_TOP_K_YEAR_QUERY = 15; // 問題內含年份時擴大候選池，避免同主題的舊年份文章擠掉正確年份
+const VECTORIZE_TOP_K_YEAR_QUERY = 50; // 問題內含年份時擴大候選池，避免同主題的舊年份文章擠掉正確年份
 const YEAR_RE = /\b(20\d{2})\b/;
 const SIMILARITY_THRESHOLD = 0.55; // 見 Phase 5 驗收：真正相關 ≥0.62，離題查詢 ≤0.55
+// 逐年更新的主題（節慶/國定假日/旺季攻略）常常同時存在好幾個年份的相似文章，
+// 彼此語意互相稀釋分數，導致正確年份的文章原始相似度低於一般門檻。
+// 標題明確對到問題提到的年份，比絕對相似度分數更可靠，門檻可以放寬。
+const YEAR_MATCH_THRESHOLD = 0.45;
 const NEWS_CATEGORY = '新聞存檔';
 const TIME_SENSITIVE_RE = /(今天|今日|現在|目前|即時|實時|today|right now|currently|real-?time)/i;
 const CHUNK_CHAR_CAP = 900; // 防呆：單一 chunk 最多帶入的字元數
@@ -176,12 +180,12 @@ export async function retrieveChunks(env, vector, message) {
   const queryYear = message.match(YEAR_RE)?.[1];
   const topK = queryYear ? VECTORIZE_TOP_K_YEAR_QUERY : VECTORIZE_TOP_K;
   const result = await env.VECTORIZE.query(vector, { topK, returnMetadata: 'all' });
-  let matches = (result.matches || []).filter(m => m.score >= SIMILARITY_THRESHOLD);
+  const isSameYear = m => queryYear && (m.metadata?.title || '').includes(queryYear);
+  let matches = (result.matches || []).filter(m => m.score >= (isSameYear(m) ? YEAR_MATCH_THRESHOLD : SIMILARITY_THRESHOLD));
   if (TIME_SENSITIVE_RE.test(message)) {
     matches = matches.filter(m => !(m.metadata?.category || '').split(',').includes(NEWS_CATEGORY));
   }
   if (queryYear) {
-    const isSameYear = m => (m.metadata?.title || '').includes(queryYear);
     matches = matches.filter(isSameYear).concat(matches.filter(m => !isSameYear(m)));
   }
   return matches.slice(0, VECTORIZE_TOP_K);
