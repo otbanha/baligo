@@ -84,7 +84,6 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   const panel = document.getElementById('chatbot-panel');
   const bubbleBtn = document.getElementById('chat-bubble-btn');
   const closeBtn = document.getElementById('chatbot-close');
-  const headerIcon = document.querySelector('.chatbot-icon');
 
   // 對話歷史：只在本次頁面停留期間保留，最多 3 輪（6 則），送給後端組 context
   const MAX_HISTORY_TURNS = 3;
@@ -205,11 +204,8 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
     const bubble = botDiv.querySelector('.msg-bubble');
     const avatar = botDiv.querySelector('.msg-avatar');
 
-    // 思考中：訊息頭像 + 視窗頂部的網站 logo 一起轉，讓使用者不用盯著訊息也看得到「working on it」
-    const setThinking = (on) => {
-      avatar.classList.toggle('spinning', on);
-      headerIcon?.classList.toggle('spinning', on);
-    };
+    // 思考中：訊息頭像旋轉，提示使用者「working on it」
+    const setThinking = (on) => avatar.classList.toggle('spinning', on);
 
     // 開始旋轉（在 fetch 之前，確保一定看得到）
     requestAnimationFrame(() => setThinking(true));
@@ -373,8 +369,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   gap: 0.7em;
   margin-bottom: 1em;
 }
-.chatbot-icon { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; transition: transform 0.3s; }
-.chatbot-icon.spinning { animation: spin 1s linear infinite; }
+.chatbot-icon { width: 34px; height: 34px; border-radius: 6px; flex-shrink: 0; }
 
 .chatbot-title {
   font-size: 1em;
