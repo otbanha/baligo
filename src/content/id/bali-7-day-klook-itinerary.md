@@ -1,16 +1,15 @@
 ---
 title: >-
-  Bali 7 Hari 6 Malam Trip Journal｜3 Paket One Day Trip Klook, Si Mager pun Bisa
-  Puas Main ke Spot-spot Hits!
+  Bali 7 Hari 6 Malam Trip Catatan Perjalanan｜3 Paket Tur Sehari Klook, Si
+  Pemalas Juga Bisa Main ke Semua Spot Keren!
 slug: bali-7-day-klook-itinerary
 description: >-
-  Kalau kamu kayak aku, yang males banget riset panjang lebar tapi tetap pengin
-  puas lihat semua keindahan Bali, aku saranin banget masukin paket one day trip
-  Klook ke itinerary kamu! Di trip 7 hari 6 malam ke Bali ini, kita booking 3
-  kali one day trip Klook (hari ke-2, ke-4, dan ke-6), dan tiap kali mainnya
-  santai tapi seru banget～ beneran pengalaman 'tidur di mobil, foto di tempat
-  tujuan', pengen share buat kamu yang juga pengin main Bali dengan cara santai
-  ❤️
+  Kalau kamu kayak aku, yang nggak suka repot riset, tapi pengen liat semua
+  pemandangan keren di Bali, aku saranin banget masukin tur sehari Klook ke
+  itinerary kamu! Trip 7 hari 6 malam di Bali ini, kita booking 3 kali tur
+  sehari Klook (Hari 2, Hari 4, Hari 6), dan setiap kali mainnya santai tapi
+  seru banget～ Beneran pengalaman 'tidur di mobil, foto di tempat', pengen share
+  ke kamu yang juga pengen main Bali dengan santai ❤️
 pubDate: 2025-05-20T00:00:00.000Z
 pubHour: null
 category:
@@ -27,26 +26,25 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/682c01fffd8978000182fc13'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-09-15T00:00:00.000Z
+updatedDate: 2026-09-17T00:00:00.000Z
 update: 2026/05/22
 lang: id
-_srcHash: c9f553e6ca466b96c068d9a9d304dbc9
+_srcHash: PENDING_RETRY_a3a2397221421a58d1d7ed5cc8b89f6e
+_translateAttempts: 1
 ---
-Kalau kamu kayak aku, yang males banget riset panjang lebar tapi tetap pengin puas lihat semua keindahan Bali, aku saranin banget masukin paket one day trip Klook ke itinerary kamu! Di trip 7 hari 6 malam ke Bali ini, kita booking 3 kali one day trip Klook (hari ke-2, ke-4, dan ke-6), dan tiap kali mainnya santai tapi seru banget～ beneran pengalaman 'tidur di mobil, foto di tempat tujuan', pengen share buat kamu yang juga pengin main Bali dengan cara santai ❤️
+Kalau kamu kayak aku, yang nggak suka repot riset, tapi pengen liat semua pemandangan keren di Bali, aku saranin banget masukin tur sehari Klook ke itinerary kamu! Trip 7 hari 6 malam di Bali ini, kita booking 3 kali tur sehari Klook (Hari 2, Hari 4, Hari 6), dan setiap kali mainnya santai tapi seru banget～ Beneran pengalaman 'tidur di mobil, foto di tempat', pengen share ke kamu yang juga pengen main Bali dengan santai ❤️
 
-![峇里島七天六夜自由行遊記｜三個Klook一日遊行程，懶人也能輕鬆玩遍精華景點！](https://images.gobaligo.id/vocus/vocus_8badcdcbd6c7256c545b844ddc28d7cb.png)
+Trip kali ini diatur dengan santai tanpa pusing, bisa nikmatin suasana liburan Bali sambil explore tempat terkenal, hidden gem, dan budaya. Nggak salah: **Klook emang temen setia traveler bebas!**
 
-Trip kali ini diatur biar santai tanpa pusing, bisa nikmatin suasana liburan Bali sambil explore tempat terkenal, hidden gem, dan budaya. Gak salah deh: **Klook emang sahabat traveler mandiri!**
+Jumlah hari beda? Pakai [Alat Perencanaan Itinerary Bali](/id/trip-planner/) buat atur ulang, pilih area dan aktivitas yang kamu mau, nanti keluar itinerary yang cocok.
 
-Jumlah hari beda? Pakai [alat perencana itinerary Bali](/id/trip-planner/) buat atur ulang, pilih area dan aktivitas yang kamu mau, nanti otomatis keluar jadwalnya.
+## 🛬 Hari 1: Sampai di Bali, Mode Santai Aktif!
 
-## 🛬 Hari 1: Sampai di Bali, Mode Santuy Aktif!
-
-Sesampainya di Bandara Ngurah Rai, kita naik jemputan bandara yang udah dipesen menuju hotel di Sanur, pesisir timur Bali. Sanur adalah kota kecil tepi pantai yang tenang di tenggara Bali, suasananya santai, ritme hidup pelan, jadi favorit keluarga dan tamu yang nginep lama. Sanur punya jalan setapak panjang di pinggir pantai dan pantai sunrise, cocok buat jalan pagi, naik sepeda, atau main air. Gak seramai Kuta, tapi punya vibe elegan yang bikin rileks.
+Setelah sampai di Bandara Ngurah Rai, kita naik antar-jemput bandara yang udah dipesen menuju hotel di Sanur, pesisir timur Bali. Sanur adalah kota pantai yang tenang di tenggara Bali, suasananya santai, ritme hidup lambat, jadi favorit keluarga dan tamu yang tinggal lama. Sanur punya jalan setapak pantai yang panjang dan pantai sunrise, cocok buat jalan pagi, naik sepeda, dan main air. Nggak seramai Kuta, tapi punya aura elegan yang bikin rileks.
 
 https://youtu.be/SpcgZ4iK7qs
 
-Kita nginep di Griya Santrian, resort yang persis di pinggir pantai. Dari kolam renang tinggal jalan beberapa langkah udah nyampe pasir, cocok banget buat kamu yang suka berendam atau pantai. Bangunannya masih khas tradisional Bali, tamannya asri dan nyaman. Resort juga punya SPA, kelas yoga, dan restoran dengan pemandangan laut, pas banget buat kamu yang pengin nikmatin pesona 'slow living di Sanur'.
+Kita nginep di Griya Santrian, resort yang langsung di pinggir pantai. Dari kolam renang tinggal jalan beberapa langkah udah nyampe pasir, cocok banget buat yang suka berenang atau pantai. Bangunannya masih bergaya tradisional Bali, taman pemandangannya adem. Hotel juga punya SPA, kelas yoga, dan restoran dengan pemandangan laut, pas banget buat yang pengen nikmatin 'slow living' di Sanur.
 
 ![Day 1：抵達峇里島，放空模式啟動！](https://images.gobaligo.id/images/2026-05/1780016458746-465499230.jpg)
 
@@ -70,25 +68,25 @@ Kita nginep di Griya Santrian, resort yang persis di pinggir pantai. Dari kolam 
 
 > ➡️ [**Cek Harga & Ketersediaan Kamar Griya Santrian a Beach Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685091/griya-santrian-a-beach-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/PAFloKEn)
 
-Hari pertama kita pilih santai aja, jalan-jalan ke pantai dan mal sekitar. Udara tropis Bali sama angin laut langsung bikin kita masuk mode liburan~
+Hari pertama kita pilih santai aja, jalan-jalan ke pantai dan mal sekitar. Udara tropis Bali sama angin laut langsung bikin mood liburan banget～
 
 {{block:sanur}}
 
 ***
 
-## 📸 Day 2: Klook「Tur Wisata Hits Timur Bali」🌋🌴
+## 📸 Day 2: Klook「Trip Wisata Hits Timur Bali」🌋🌴
 
-Hari ini kita pakai paket Klook 【Tur Wisata Hits Timur Bali Sehari】, ini trip Klook pertama kita. Minimal dua orang udah bisa ikut, dan yang paling oke bisa pilih guide bahasa Mandarin. Buat kita yang baru pertama ke sini tapi pengen tau lebih dalam, ini cocok banget!
+Hari ini kita ikut Klook【Trip Wisata Hits Timur Bali Sehari Penuh】, ini trip Klook pertama kita. Minimal dua orang udah bisa ikut, dan yang paling oke, bisa pilih guide bahasa Mandarin. Buat kita yang baru pertama kali ke sini dan pengen tahu lebih dalam, ini wajib coba sih!
 
-Kita berangkat tepat jam 7:30 dari hotel, antar-jemput mobil pribadi emang praktis banget. Sepanjang jalan tidur bentar, bangun-bangun udah sampai tempat wisata. Pemberhentian pertama adalah **Pura Lempuyang (Lempuyang Temple)** yang super terkenal, dijuluki juga 'Gerbang Surga'. Di sini kita foto kaca simetris yang ikonik, hasilnya bener-bener kayak mimpi! 📷⛩️ Guide bahasa Mandarin juga jelasin asal-usul sakral pura ini, jadi kita nggak cuma foto-foto doang, tapi juga paham budaya religinya.
+Kita berangkat tepat jam 7:30 dari hotel, antar-jemput mobil pribadi bikin praktis banget. Sepanjang jalan bisa tidur bentar, bangun-bangun udah sampai tempat wisata. Pemberhentian pertama adalah **Pura Lempuyang (Lempuyang Temple)** yang super terkenal, dijuluki juga 'Gerbang Surga'. Di sini kita foto kaca simetris yang ikonik, hasilnya bener-bener kayak mimpi! 📷⛩️ Guide Mandarin juga jelasin sejarah sakral pura ini, jadi kita nggak cuma foto-foto doang, tapi juga paham budaya agamanya.
 
 https://youtu.be/H-IocbLNpE4
 
-> [Panduan Lengkap Gerbang Surga Lempuyang｜Pantulannya Layar HP? Cara ke Enam Pura? Biaya & Rute Semua Dibongkar](/id/blog/lempuyang-temple-gate-of-heaven/)
+> [Panduan Lengkap Gerbang Surga Lempuyang｜Pantulannya Layar HP? Cara Jalan ke Enam Pura? Biaya & Rute Semua Dibongkar](/id/blog/lempuyang-temple-gate-of-heaven/)
 
-Lanjut ke **Swing Heaven**, ini bukan cuma tempat ayunan doang, tapi ada banyak spot foto hits buat dapetin foto estetik banget~ 🌺 Abis foto, guide juga bantu cari angle, skill fotografinya jago!
+Lanjut ke **Swing Heaven**, ini bukan cuma tempat ayunan aja, tapi ada banyak spot foto hits yang bisa bikin foto kamu kece abis～🌺 Abis foto, guide juga bantu cari angle, skill fotonya top!
 
-Siang hari kita sampai di **Taman Air Tirta Gangga** yang penuh aura spiritual. Dulunya ini tempat mandi keluarga kerajaan. Di kolamnya ada banyak ikan koi, bisa beli pakan buat kasih makan, juga bisa jalan di atas batu loncatan. Seru banget! 🐟💦
+Siang hari kita sampai di **Taman Air Tirta Gangga** yang penuh aura spiritual. Dulu ini tempat mandi keluarga kerajaan. Di kolamnya ada banyak ikan koi, bisa beli pakan buat kasih makan, juga bisa jalan-jalan di atas batu loncatan. Seru banget! 🐟💦
 
 https://youtu.be/ysUVgnICbg0
 
@@ -96,30 +94,30 @@ Lalu kita sampai di **Taman Ujung Water Palace** yang megah banget. Tempat ini s
 
 https://youtu.be/zePMt3KSwTo
 
-Perhentian terakhir adalah **Virgin Beach**, pantai hidden gem yang jauh dari keramaian. Airnya jernih, pasirnya putih, dan lokalnya juga jarang. Cocok banget buat ngelamun, berjemur, sambil minum air kelapa 🌞🥥.
+Perhentian terakhir adalah **Virgin Beach** yang aku suka banget. Pantai tersembunyi ini jauh dari keramaian, airnya jernih, pasirnya putih, dan lokalnya juga jarang. Cocok banget buat bersantai, berjemur, sambil minum air kelapa 🌞🥥.
 
 ![Day 2：Klook「峇里島東部網紅打卡之旅」](https://images.gobaligo.id/vocus/vocus_696826291682eab27ccef9883b60882a.jpg)
 
-Pulang sekitar jam 17:30. Seharian penuh aktivitas tapi nggak terburu-buru, nggak perlu cari jalan sendiri, nggak perlu khawatir soal transportasi — super praktis!
+Pulang sekitar jam 17:30. Seharian penuh aktivitas tapi nggak terasa buru-buru, nggak perlu cari jalan sendiri, nggak perlu khawatir soal transportasi — super praktis!
 
 > Ikut tur ini:
 > 🚗 [Tur Instagramable Bali Timur/Utara dengan Pemandu Bahasa Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D69d806c9e7)
 
 ### Tips:
 
-Sebelum berangkat, jangan lupa download **WhatsApp** dulu. Operator lokal Klook bakal hubungi kamu lewat situ buat konfirmasi detail jemputan dan lainnya — super gampang!
+Sebelum berangkat, jangan lupa download **WhatsApp** dulu. Tim operasional lokal Klook bakal hubungi kamu lewat sini buat konfirmasi detail jemputan dan lainnya — super praktis!
 
 ***
 
 ## 🌿 Hari 3: Setengah Hari Bebas di Ubud + SPA Time
 
-Hari ini bangun siang, check out dari Sanur lalu jalan-jalan ke Pasar Ubud, cobain nasi babi guling khas Ubud yang terkenal, terus lanjut ke SPA buat nikmatin pijat minyak aromaterapi ala Bali selama 90 menit～
+Hari ini bangun tidur sampai puas, lalu check out dari Sanur dan jalan-jalan ke Pasar Ubud. Cobain nasi babi guling khas Ubud yang terkenal renyah, terus lanjut ke SPA buat nikmatin pijat minyak aromaterapi ala Bali selama 90 menit～
 
-Ubud adalah jantung budaya Bali, dikelilingi oleh sawah, hutan, dan desa tradisional — tempat yang sempurna buat kamu yang mencari pengalaman alam, seni, dan spiritual. Di sini, kamu bisa ikut kelas yoga, kunjungi desa kerajinan, rasakan budaya pura Bali, dan ada banyak villa berkualitas tinggi buat bikin tubuh dan pikiran rileks.
+Ubud adalah jantung budaya Bali, dikelilingi sawah, hutan, dan desa tradisional — tempat yang pas banget buat kamu yang mencari pengalaman alam, seni, dan spiritual. Di Ubud, kamu bisa ikut kelas yoga, kunjungi desa kerajinan, rasakan budaya pura Bali, dan ada banyak villa berkualitas tinggi buat bikin tubuh dan pikiran rileks.
 
 https://youtu.be/uFv_4Wr6YsI
 
-Ke Bali gak lengkap kalau belum nikmatin villa!? Kami nginep di Ayuterra Resort — ini villa yang bikin aku susah banget ninggalin kolam renangnya 🏞️. Kamarnya stylish dan luas, kolam renang pribadi tanpa batas langsung menghadap ke lembah Sungai Ayung, setiap detiknya kayak lagi di kartu pos 📸. Malam-malam berendam sambil lihat bintang, pagi-pagi bangun dengan suara burung — ini momen paling santai dan romantis selama perjalanan di Ubud ❤️. Sangat direkomendasikan buat pasangan yang lagi bulan madu atau rayain hari spesial!
+Ke Bali gak lengkap kalau gak nikmatin villa!? Kami nginep di Ayuterra Resort, villa yang bikin aku gak bisa ninggalin kolam renang 🏞️. Kamarnya desainnya stylish dan luas, kolam renang pribadi tanpa batas langsung menghadap ke Ngarai Sungai Ayung, setiap detiknya kayak lagi di kartu pos 📸. Malamnya berendam sambil lihat bintang, paginya bangun dengan suara burung — ini malam paling rileks dan romantis selama perjalanan di Ubud ❤️. Wajib banget buat pasangan yang lagi bulan madu atau rayain hari spesial!
 
 ![Day 3：烏布半日自由行＋SPA時光](https://images.gobaligo.id/images/2026-05/1780016752353-94811283.jpeg)
 
@@ -137,61 +135,61 @@ Ke Bali gak lengkap kalau belum nikmatin villa!? Kami nginep di Ayuterra Resort 
 
 ![Day 3：烏布半日自由行＋SPA時光](https://images.gobaligo.id/images/2026-05/1780016756957-165250385.jpeg)
 
-> 👉[**Cek Harga & Ketersediaan Kamar Ayuterra Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-9056301/ayuterra-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/0xcNRC9t)
+> 👉[**Cek Harga & Ketersediaan Ayuterra Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-9056301/ayuterra-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/0xcNRC9t)
 
 ***
 
-## 🌿 Hari 4: Klook「Private Day Trip ke Tempat Hits di Ubud」｜Paket Lengkap Budaya & Alam, Buka Kunci Semua Keindahan Ubud dalam Sehari!
+## 🌿 Hari 4: Klook「Private Day Trip ke Tempat Hits Ubud」｜Budaya & Alam All-in, Buka Rahasia Ubud dalam Sehari!
 
-Hari ini, kami pesan paket **Private Day Trip ke Tempat Hits di Ubud** dari Klook — bisa pilih guide bahasa Mandarin juga, tapi kali ini kami ditemani supir Inggris yang keren banget, **Yogi**, yang anter kami sepanjang perjalanan. Dia super sabar, bantu kami atur rute paling efisien dan anti-keramaian, plus biaya parkir di setiap tempat udah diurus semua tanpa bayar tambahan — bener-bener perhatian banget!
+Hari ini, kami pesan paket 【Private Day Trip ke Tempat Hits Ubud】 dari Klook, bisa pilih guide bahasa Mandarin juga, tapi kali ini kami ditemani supir Inggris yang keren banget, **Yogi**, yang anter kami sepanjang perjalanan. Dia bukan cuma sabar banget, tapi juga bantu kami atur rute paling efisien dan anti-keramaian, plus biaya parkir di setiap tempat udah diurus semua tanpa bayar tambahan — bener-bener perhatian!
 
-Kami berangkat **jam 08:30 dari hotel**, dan tujuan pertama adalah sawah cantik berstatus warisan dunia — **Terasering Tegallalang**. Sawah bertingkat-tingkat kayak ombak hijau, pemandangannya spektakuler banget, di mana pun kamu foto hasilnya kayak kartu pos! 🌾📷
+Kami **berangkat dari hotel jam 08:30**, dan tujuan pertama adalah sawah cantik level warisan dunia — **Terasering Tegallalang**. Sawah bertingkat-tingkat kayak ombak hijau, pemandangannya super spektakuler, di mana pun kamu foto pasti kayak kartu pos! 🌾📷
 
 ![Day 4：Klook「烏布熱門景點私人一日遊」｜文化自然全包，一天解鎖烏布精華！](https://images.gobaligo.id/vocus/vocus_55c19053b01f715dbb5fe2d0dc3a3e72.jpg)
 
-Selanjutnya kami coba **ayunan udara** klasik khas Ubud — pas diayunkan, rasanya seru dan menantang banget! Di bawahnya ada hutan tropis lebat dan lembah, tiba-tiba ngerasa kayak lagi terbang di adegan film!
+Lalu kami coba **ayunan udara** klasik Ubud, pas diayun ke depan rasanya seru banget sekaligus menantang, di bawahnya ada hutan tropis lebat dan lembah — tiba-tiba ngerasa kayak lagi terbang di scene film!
 
 ![Day 4：Klook「烏布熱門景點私人一日遊」｜文化自然全包，一天解鎖烏布精華！](https://images.gobaligo.id/vocus/vocus_81b50f6d3f97aacd54da321c458cacce.jpg)
 
-Perhentian ketiga adalah **Hutan Monyet Ubud**, habitat alami monyet ekor panjang Bali. Meskipun monyet-monyetnya aktif dan penasaran, tenang aja — selama kamu gak kasih makan atau ganggu mereka, aman kok. Guide juga ngajarin cara jaga jarak yang benar sama monyet, jadi pengalaman ini unik dan seru banget 🐒🌳
+Perhentian ketiga adalah **Hutan Monyet Suci Ubud**, habitat alami monyet ekor panjang Bali. Meskipun monyet-monyetnya aktif dan penasaran, tenang aja — selama kamu gak kasih makan atau ganggu mereka, aman kok～ Guide juga ngajarin cara jaga jarak yang bener sama monyet, pengalaman unik dan seru banget 🐒🌳
 
-Waktu makan siang, Mas Yogi (sopir kami) milihin tempat makan dengan pemandangan kece banget. Sambil makan sambil lihat sawah, suasananya juara! (Makasih banget buat Yogi yang udah ngatur sempurna)
+Waktu makan siang, supir Yogi milihin kita restoran dengan pemandangan kece banget. Sambil makan sambil lihat sawah, suasananya kelas satu (makasih banget buat Yogi yang udah ngatur sempurna!)
 
-Abis kenyang, kita lanjut ke **Pura Tirta Empul**. Ini salah satu tempat yang paling aku tunggu-tunggu. Air suci di pura ini katanya bisa bersihin jiwa, banyak penduduk lokal dan turis yang masuk ke kolam buat mandi dan berdoa. Meskipun aku nggak ikut turun, tapi duduk tenang di pinggir sambil lihat suasana sakral ini bikin hati adem secara otomatis 🙏💧
+Abis kenyang, kita mampir ke **Pura Tirta Empul**. Ini tempat yang udah aku tunggu-tunggu banget. Air suci di pura ini katanya bisa bersihin jiwa, banyak penduduk lokal dan turis yang masuk ke kolam buat mandi dan berdoa. Meskipun aku nggak ikut nyemplung, duduk santai sambil lihat suasana sakral ini bikin hati jadi tenang sendiri 🙏💧
 
 ![Day 4：Klook「烏布熱門景點私人一日遊」｜文化自然全包，一天解鎖烏布精華！](https://images.gobaligo.id/vocus/vocus_8b762a26998eb9109cd20d800e686b26.jpg)
 
-Destinasi terakhir adalah air terjun hits di Ubud — **Air Terjun Tegenungan**. Air terjunnya megah banget, suara gemuruhnya kencang, pemandangannya spektakuler. Tapi karena pengunjungnya lumayan banyak, plus banyak yang main air dan foto-foto, menurutku sih udah agak terlalu komersial. Jadi aku nggak berlama-lama di sana. Tergantung selera masing-masing aja ya~
+Destinasi terakhir adalah air terjun hits di Ubud — **Air Terjun Tegenungan**. Air terjunnya megah banget, suara gemuruhnya kencang, pemandangannya spektakuler. Tapi karena pengunjungnya lumayan banyak, plus banyak yang main air dan foto-foto, menurutku agak terlalu komersial sih. Jadi nggak lama-lama. Tapi ini balik lagi ke selera masing-masing ya~
 
 ![Day 4：Klook「烏布熱門景點私人一日遊」｜文化自然全包，一天解鎖烏布精華！](https://images.gobaligo.id/vocus/vocus_99403f7db64395a7fa81d169116fa952.jpg)
 
-Sekitar **jam 17:00 balik ke hotel**. Perjalanan hampir 10 jam ini bener-bener padat tapi nggak bikin capek. Spesial thanks buat sopir kita, **Yogi**. Orangnya super baik, nggak cuma ngatur itinerary dengan rapi, tapi juga bantu kita hindarin keramaian. Beneran worth it buat direkomendasiin!
+Sekitar **jam 17:00 balik ke hotel**. Perjalanan hampir 10 jam ini terasa padat tapi nggak bikin capek. Makasih banget buat supir kita **Yogi**, orangnya super baik, nggak cuma ngatur itinerary dengan rapi, tapi juga bantu kita hindari keramaian. Recommended banget!
 
 ***
 
-Kalau kamu lagi rencanain trip ke Ubud, day trip ini wajib coba buat kenalan sama kota budaya ini secara cepat. Cocok banget buat kamu yang nggak mau nyetir sendiri, tapi pengin foto-foto puas 📸💛
+Kalau kamu lagi rencana ke Ubud, day trip ini wajib coba buat kenalan sama kota budaya ini dengan cepat. Cocok banget buat yang males nyetir sendiri, tapi pengin foto-foto puas 📸💛
 
-> Ikut tur ini:
-> 🚗 [Private Day Trip Ubud dengan Sopir Berbahasa Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21714-private-ubud-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3Da38e26e694)
+> Ikutan tur ini:
+> 🚗 [Private Day Trip Ubud dengan Supir Berbahasa Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21714-private-ubud-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3Da38e26e694)
 
 {{block:ubud}}
 
 ***
 
-## 🐚 Hari 5: Bebas + Ngopi Sore di Pantai
+## 🐚 Day 5: Bebas Aktivitas + Sore-sore di Pantai
 
 Hari kelima kita mampir ke Nusa Dua
 
-Kalau Sanur itu pantai yang tenang ala kota kecil, Ubud tempat yang penuh energi alam, maka Nusa Dua adalah definisi liburan mewah banget ✨. Setiap hotel di sini kayak kota mini, keamanan area oke, jalanan bersih rapi, mirip kawasan eksklusif di Bali. Cocok banget buat kamu yang pengen benar-benar santai dan rebahan.
+Kalau Sanur itu pantai yang tenang ala kota kecil, Ubud tempat yang penuh energi alam, maka Nusa Dua adalah surganya liburan mewah ✨. Setiap hotel di sini kayak kota mini sendiri, keamanan area oke banget, jalanan bersih dan rapi, mirip kawasan orang kaya di Bali. Cocok banget buat kamu yang pengen benar-benar santai dan rebahan.
 
 https://youtu.be/zxDZJ93EqA4
 
-Kami nginep di Mulia Resort, hotel mewah terkenal di pulau ini yang worth it banget. Apalagi sarapan prasmanannya dijuluki 'paling top se-Bali'—menu banyak banget, kualitasnya bikin speechless, tiap hari kayak lagi festival kuliner. Hotelnya luas, punya beberapa kolam renang, kids club, dan SPA. Stafnya terlatih, ramah, dan sopan—bener-bener pengalaman liburan mewah yang bikin pengen balik lagi 🌟.
+Kami nginep di Mulia Resort, hotel mewah terkenal di pulau ini yang harganya worth it. Apalagi sarapan prasmanannya dijuluki 'paling top se-Bali' — variasi makanannya banyak, kualitasnya juara, setiap hari kayak lagi ikut festival kuliner. Hotelnya luas banget, punya beberapa kolam renang, klub anak-anak, dan SPA. Stafnya terlatih, ramah, dan sopan — bikin pengen 'nginep lagi lain kali' banget 🌟.
 
-> Bukan tamu hotel juga bisa coba:
+> Bukan tamu hotel juga bisa cobain:
 > 👉 Mulia [pengalaman prasmanan bintang lima mulai USD$22](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
 
-Kami menikmati waktu minum teh sore di Mulia Resort, berendam di kolam renang sambil ngopi dan ngemil manis, sekalian jalan-jalan ke mal terdekat. Hari ini adalah 'hari bermalas-malasan'—nggak ngapa-ngapain itu itinerary paling oke!
+Kami menikmati waktu minum teh sore di Mulia Resort, berendam di kolam renang sambil ngopi dan makan camilan manis, lalu jalan-jalan ke mal sekitar. Hari ini adalah 'hari bengong' — nggak ngapa-ngapain itu itinerary paling oke!
 
 ![Day 5：自由活動＋沙灘下午茶](https://images.gobaligo.id/images/2026-05/1780016932392-6532982_19052213430074651656_large.jpeg)
 
@@ -213,51 +211,51 @@ Kami menikmati waktu minum teh sore di Mulia Resort, berendam di kolam renang sa
 
 ![Day 5：自由活動＋沙灘下午茶](https://images.gobaligo.id/images/2026-05/1780016971982-6532982_19022510000072495025_large.jpeg)
 
-> 👉 [**Review lengkap Mulia Resort**](/id/blog/mulia-resort-bali-luxury/)
+> 👉 [**Info lengkap Mulia Resort**](/id/blog/mulia-resort-bali-luxury/)
 
 {{block:dua}}
 
 ***
 
-## 🔥 Day 6: Tari Kecak di Uluwatu Cliff & Tur Pribadi Pantai Rahasia Suluban｜Perjalanan yang Menggetarkan Mata dan Jiwa!
+## 🔥 Hari 6: Tebing Uluwatu Tari Kecak & Tur Pribadi Pantai Rahasia Suluban｜Perjalanan yang Menggetarkan Mata dan Jiwa!
 
-Hari ini kami ikut [Tur Pribadi Tari Kecak Pura Uluwatu & Pantai Suluban], bisa pilih guide bahasa Mandarin. Kali ini supir sekaligus guide kami adalah **Pak Tawan** yang super keren! Dia antusias, paham jalanan, dan tahu banget sejarah budaya tiap tempat—mulai dari makna tari Kecak, arsitektur Pura Uluwatu, sampai formasi pantai. Semua dijelasin dengan detail. 🌟🌟🌟🌟🌟 Perjalanan ini jadi lebih lengkap berkat dia!
+Hari ini kami ikut [Tur Pribadi Tari Kecak Pura Uluwatu & Pantai Suluban], bisa pilih guide bahasa Mandarin. Kali ini supir sekaligus guide kami adalah **Pak Tawan** yang super keren! Dia antusias, paham jalanan, dan hafal banget sejarah budaya tiap tempat — entah itu makna tari Kecak, arsitektur Pura Uluwatu, atau formasi pantai, dia kasih penjelasan yang kaya banget. 🌟🌟🌟🌟🌟 Perjalanan ini jadi lebih lengkap berkat dia!
 
 ### ⛱️ 09:00 Berangkat → 11:00 Pantai Padang Padang
 
-Destinasi pertama adalah pantai tersembunyi — **Padang Padang Beach**. Tempat ini dikelilingi tebing-tebing hijau yang rimbun, dan kamu harus melewati celah batu sempit untuk sampai ke sana, serasa petualangan banget! Pantainya nggak besar, tapi pasirnya putih halus dan airnya biru jernih — tempat yang pas buat main air dan foto-foto keren 🌊📸
+Destinasi pertama adalah pantai tersembunyi — **Padang Padang Beach**. Tempat ini dikelilingi tebing-tebing hijau yang rimbun, dan kamu harus melewati celah batu yang sempit untuk sampai ke sana, serasa petualangan banget! Pantainya nggak terlalu besar, tapi pasirnya putih halus dan airnya biru jernih — tempat yang pas buat main air dan foto-foto 🌊📸
 
 https://youtu.be/isVxI2UEq6U
 
 ### 🍴 12:30 Waktu Makan Siang
 
-Untuk makan siang, kita bebas pilih tempat sendiri. Tawan dengan baik hati merekomendasikan restoran dengan pemandangan laut. Makan ikan bakar ditemani air kelapa, sambil lihat peselancar beraksi di ombak — benar-benar santai banget～
+Makan siang kita pilih sendiri tempatnya, dan Tawan dengan baik hati merekomendasikan restoran dengan pemandangan laut. Makan ikan bakar sambil minum air kelapa, lihat peselancar beraksi di ombak — santai banget～
 
-### 🏝️ 14:00 Blue Point Beach (Suluban Beach)
+### 🏝️ 14:00 Pantai Blue Point (Suluban Beach)
 
-Selanjutnya kita menuju **Suluban Beach**, yang juga dikenal sebagai 'Blue Point Beach'. Ini surga rahasia para peselancar. Pantai ini dikelilingi gua-gua batu besar, dan saat air surut kamu bisa jalan masuk ke dalam gua dan menjelajahi kolam-kolam kecil — misterius dan penuh petualangan! Rasanya seperti menemukan 'markas rahasia versi dewasa' 🏄‍♂️
+Selanjutnya kita menuju **Suluban Beach**, yang juga dikenal sebagai 'Pantai Blue Point'. Ini surga rahasia para peselancar. Pantai ini dikelilingi gua batu besar, dan saat air surut kamu bisa jalan masuk ke dalam gua, menjelajahi kolam-kolam kecil — misterius dan penuh petualangan! Serasa menemukan 'markas rahasia versi dewasa' 🏄‍♂️
 
 https://youtu.be/hQbBTktqEqY
 
 ### 🛕 16:30 Pura Uluwatu (Uluwatu Temple)
 
-Kuil kuno yang dibangun di atas tebing ini bukan cuma salah satu dari enam pura suci di Bali, tapi juga spot terbaik buat menikmati pemandangan Samudra Hindia yang megah. Monyet-monyet di sini lucu dan nakal — saran: jaga barang bawaan kamu baik-baik (kacamata hitam dan topi wajib diwaspadai!). Dengan pemandu, kita belajar tentang sejarah dan makna religius Pura Uluwatu, jadi makin paham bagaimana penduduk lokal menghormati alam dan roh leluhur.
+Pura kuno yang dibangun di atas tebing ini bukan cuma salah satu dari enam pura suci di Bali, tapi juga tempat terbaik untuk menikmati pemandangan Samudra Hindia yang megah. Monyet-monyet di sini lucu dan nakal — saran: simpan barang bawaan baik-baik (kacamata hitam, topi harus waspada!). Dengan pemandu, kita belajar sejarah dan makna religius Pura Uluwatu, jadi makin paham rasa hormat penduduk lokal terhadap alam dan dewa-dewa.
 
 ![16:30 烏魯瓦圖廟（Uluwatu Temple）](https://images.gobaligo.id/vocus/vocus_f221761e8c64cd4b7a6f2dcc5e6f1859.jpg)
 
-### 🔥 18:00 Pertunjukan Tari Kecak (Kecak Dance) (Poin penting: **Masuk tanpa antre!**
+### 🔥 18:00 Pertunjukan Tari Kecak (Kecak Dance) — Sorotan: **Masuk tanpa antre!**
 
-Pertunjukan ini beneran jadi salah satu highlight utama perjalanan kami! Kecak Dance nggak pakai alat musik sama sekali, cuma puluhan pria setengah telanjang yang bersuara 'chak-chak-chak' buat bikin atmosfer, ditambah penari api dan interaksi seru, bawa kisah epik India *Ramayana** ke atas panggung! Pertunjukan dimulai pas matahari terbenam, dan di akhir ada api menyala-nyala, penonton bersorak, suasananya super震撼🔥🔥🔥
+Pertunjukan ini benar-benar salah satu highlight perjalanan kita! Tari Kecak nggak pakai alat musik sama sekali, tapi puluhan pria bertelanjang dada menciptakan atmosfer dengan suara 'chak-chak-chak', ditambah penari yang menari dengan api dan interaksi, membawa adegan klasik dari epos India *Ramayana* ke atas panggung! Pertunjukan dimulai saat matahari terbenam, dan diakhiri dengan semburan api serta sorakan penonton—suasananya super震撼🔥🔥🔥
 
 ![18:00 卡恰火舞（Kecak Dance）表演（重點：免排隊入場！）](https://images.gobaligo.id/vocus/vocus_3ae76de3e2f7cbfb46b702bcaa7a626e.jpg)
 
-(Rencana perjalanan ini **tanpa antre** langsung masuk, beneran ngirit banyak waktu nunggu, super recommended banget!)
+(Rangkaian acara ini **tanpa antre** langsung masuk, bener-bener ngirit banyak waktu nunggu, super recommended banget!)
 
-> [Kecak Fire Dance Pertunjukan Spektakuler Wajib Nonton di Bali (info tiket)](/id/blog/kecak-fire-dance-bali/)
+> [Pertunjukan Kecak Fire Dance Bali yang Wajib Ditonton (dengan info pemesanan tiket)](/id/blog/kecak-fire-dance-bali/)
 
-### 🐟 19:00 Makan Malam di Pantai Jimbaran
+### 🐟 19:00 Makan Malam di Pantai Jimbaran (Jimbaran Beach)
 
-Setelah puas dengan pesta visual, lanjut ke pantai buat makan malam seafood bakar. Sambil denger suara ombak, nikmatin lobster bakar, udang bakar, dan cumi goreng—suasana romantis kayak gini cuma bisa kamu rasain di Bali💕
+Setelah pesta visual, kita lanjut ke pantai untuk makan malam seafood bakar. Sambil dengerin deburan ombak dan nikmatin lobster bakar, udang bakar, dan cumi goreng—suasana romantis kayak gini cuma bisa kamu rasain di Bali 💕
 
 ![19:00 金巴蘭海灘晚餐（Jimbaran Beach）](https://images.gobaligo.id/vocus/vocus_0b8853265196d9f74c4f5461505927dc.jpg)
 
@@ -265,83 +263,83 @@ Setelah puas dengan pesta visual, lanjut ke pantai buat makan malam seafood baka
 
 ### 🛻 20:00 Pulang dengan Puas
 
-Sekitar jam delapan malam balik ke hotel, badan dan pikiran udah terisi penuh sama budaya, alam, dan seni! 
+Sekitar jam 8 malam sampai di hotel, badan dan pikiran terisi penuh dengan budaya, alam, dan seni!
 
 ***
 
-Perjalanan hari ini buatku bukan cuma sekadar wisata, tapi lebih kayak dialog dengan jiwa Bali. Kalau kamu mau ngerasain budaya Bali secara mendalam, explore hidden gem pantai, dan nggak mau repot nyetir sendiri, rencana perjalanan ini wajib banget masuk list kamu!
+Perjalanan hari ini buatku bukan cuma sekadar wisata, tapi lebih kayak dialog dengan jiwa Bali. Kalau kamu mau merasakan budaya Bali secara mendalam, menjelajahi hidden gem pantai, dan nggak mau repot nyetir sendiri, maka rangkaian acara ini wajib banget masuk daftar kamu!
 
 > Ikut trip ini:
-> 🚗 [Trip Uluwatu/Jimbaran & Tari Kecak dengan Sopir Lokal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fscroll_pkg%3D287234%26shop_id%3D119049035%26shop_type%3D0)
+> 🚗 [Private Tour Uluwatu/Jimbaran & Kecak Fire Dance dengan Driver Mandarin](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fscroll_pkg%3D287234%26shop_id%3D119049035%26shop_type%3D0)
 
 {{block:uluwatu}}
 
-translations
+***
 
-: [
+## 🧳 Hari ke-7: Packing Pulang, Hati Puas Banget!
 
-Dengan berat hati packing koper, siap balik ke dunia nyata. Perjalanan kali ini emang free & easy, tapi untungnya ada tiga paket day trip dari Klook yang bikin aku bisa eksplorasi berbagai sisi Bali tanpa stres. Recommended banget buat kamu yang males ribet urus itinerary tapi tetap pengen traveling maksimal～
-
-,
+Dengan berat hati packing barang, siap balik ke dunia nyata. Perjalanan kali ini emang free & easy, tapi untung ada tiga paket day trip dari Klook yang bikin aku bisa explore berbagai sisi Bali tanpa stres. Recommended banget buat traveler yang males ribet urus itinerary tapi tetap pengen jalan-jalan maksimal～
 
 ***
 
-,
+## FAQ Tur Sehari
 
-## 🧳 Hari 7: Packing Pulang, Hati Puas Banget!
+### 1. Q: Tur privat di Klook, minimal berapa orang bisa ikut?
 
-,
+A：Iya! Sebagian besar paket tur privat di Klook itu **minimal 2 orang, nggak digabung sama orang lain, bahkan solo travel juga bisa**, jadi nggak perlu khawatir harus cari teman buat genapin kuota. Mau pasangan, sahabat, atau keluarga, semua bisa nikmatin pengalaman dengan supir sekaligus pemandu pribadi, jadwalnya juga lebih fleksibel.
 
-Packing barang dengan rasa berat hati, siap balik ke dunia nyata. Perjalanan kali ini emang free trip, tapi untungnya ada tiga paket day trip dari Klook yang bikin aku bisa eksplorasi berbagai sisi Bali tanpa stres. Recommended banget buat traveler yang males ribet atur itinerary tapi pengen puas jalan-jalan～
+### 2. Q: Apakah bisa pilih pemandu wisata yang bisa bahasa Indonesia?
+
+A：**部分行程有提供中文導遊選項，預訂時請特別留意「語言」欄位。** 若未提供中文導遊，也多配有英文導遊或在地司機。你也可以透過 WhatsApp 提前與當地司機聯繫需求。
 
 ### 3. Q: Apakah biaya tiket masuk, makan siang, atau parkir sudah termasuk dalam paket perjalanan?
 
-A: Setiap paket perjalanan detailnya sedikit berbeda. Beberapa paket sudah termasuk tiket masuk dan makan siang, tapi sebagian besar biasanya mencantumkan 'biaya makan ditanggung sendiri' atau 'tiket masuk tidak termasuk'. Contohnya, tur sehari penuh kami di Ubud, semua tempat wisata tidak perlu bayar parkir tambahan, tapi makan siang ditanggung sendiri. Saran baca detailnya dulu sebelum berangkat atau tanya ke customer service.
+A: Setiap paket perjalanan detailnya sedikit berbeda. Beberapa paket sudah termasuk tiket masuk dan makan siang, tapi sebagian besar akan mencantumkan 'biaya makan ditanggung sendiri', 'tiket masuk tidak termasuk'. Contohnya, tur sehari penuh kami di Ubud, semua tempat wisata tidak perlu biaya parkir tambahan, tapi makan siang ditanggung sendiri. Saran: baca detailnya dengan saksama sebelum berangkat atau tanyakan ke customer service.
 
-> Harga tiket masuk tempat-tempat seperti ini bisa berubah tergantung musim ramai. Saran cek [**Daftar Harga Tiket Masuk Bali**](/id/tickets/) untuk harga terbaru sebelum berangkat.
+> Harga tiket masuk tempat-tempat seperti ini bisa berubah sesuai musim ramai. Saran: cek [**Daftar Harga Tiket Masuk Bali**](/id/tickets/) untuk info harga terbaru sebelum berangkat.
 
 ### 4. Q: Apakah supir akan menemani kami masuk ke tempat wisata?
 
-A: Iya! Sebagian besar paket perjalanan adalah '**private tour dengan pemandu**', supir akan menemani kamu masuk ke tempat wisata, menjelaskan, foto-foto, bantu beli tiket, dll. Tapi kalau kamu pilih versi supir berbahasa Inggris, mungkin di beberapa tempat kamu harus jalan sendiri.
+A: Iya! Sebagian besar paket perjalanan adalah '**private tour dengan pemandu**', supir akan menemani kamu masuk ke tempat wisata, menjelaskan, foto-foto, bantu beli tiket, dll. Tapi kalau kamu pilih versi supir berbahasa Inggris, mungkin di beberapa tempat kamu akan menjelajah sendiri.
 
 ### 5. Q: Apakah paket perjalanan bisa dikustomisasi? Bisa ubah rute di tengah jalan?
 
-A: Pada prinsipnya tidak bisa, tapi beberapa paket private lebih fleksibel. Kamu bisa tanya dulu ke customer service atau supir, apakah rute bisa disesuaikan sedikit (misalnya ganti tempat wisata atau perpanjang waktu berhenti), tapi tergantung lalu lintas dan waktu di hari itu.
+A: Pada prinsipnya tidak, tapi beberapa paket private lebih fleksibel. Kamu bisa tanya ke customer service atau supir sebelumnya, apakah rute bisa disesuaikan sedikit (misalnya ganti tempat wisata tertentu atau perpanjang waktu singgah), tapi tergantung kondisi lalu lintas dan waktu hari itu.
 
-### 6. Q: Kalau kami menginap di area yang berbeda, misalnya Ubud atau Jimbaran, apakah tetap bisa dijemput?
+### 6. Q: Kalau kami menginap di area berbeda, misalnya Ubud atau Jimbaran, apakah bisa dijemput juga?
 
 A: Bisa, tapi area jemput dan biayanya mungkin berbeda. Sebagian besar paket perjalanan menyediakan 'penjemputan gratis' di area Kuta, Seminyak, Sanur, Ubud, dll. Area lain mungkin kena biaya tambahan atau perlu dikonfirmasi dulu.
 
-### 7. Q: Apakah waktu tur sehari penuh terasa terlalu padat?
+### 7. Q: Apakah waktu tur sehari penuh akan terasa sangat padat?
 
-A: Paket Klook biasanya punya ritme yang pas, sehari sekitar 8–10 jam. Meskipun destinasi yang dikunjungi lumayan banyak, kamu nggak bakal dikejar waktu. Plus, supirnya bakal bantu atur rute biar nggak kena keramaian. Contohnya, kita sampai duluan sebelum pertunjukan api Kecak dimulai, jadi nggak perlu antre masuk — pengalamannya jadi makin worth it banget!
+A:行程 dari Klook kebanyakan 'tempo-nya pas', sehari sekitar 8–10 jam. Meskipun destinasi yang dikunjungi lumayan banyak, private tour-nya nggak bikin buru-buru, dan supirnya bakal bantu atur rute biar nggak kena keramaian. Misalnya kita tiba duluan sebelum pertunjukan tari Kecak, jadi nggak perlu antre masuk — pengalamannya jadi makin worth it banget!
 
 ### 8. Q: Perlu bawa uang tunai nggak?
 
-A: Saran banget bawa sebagian uang tunai Rupiah. Meskipun beberapa tempat dan restoran bisa pakai kartu, tapi tempat kayak pasar tradisional Ubud, tiket tari api, atau sumbangan di pura masih pakai uang cash.
+A: Sangat disarankan bawa uang tunai Rupiah. Meskipun beberapa tempat wisata dan restoran bisa pakai kartu, tapi pasar tradisional Ubud, tiket tari api, sumbangan di pura, dll. masih harus pakai cash.
 
-### 9. Q: Perjalanannya macet nggak? Ada waktu cadangan nggak?
+### 9. Q: Apakah perjalanan bakal macet? Ada waktu cadangan nggak?
 
-A: Jam sibuk di Bali emang rawan macet, tapi supir Klook biasanya bakal hindari jam sibuk atau atur ulang urutan rute biar nggak kena macet.
+A: Lalu lintas di Bali sering macet di jam sibuk, tapi supir Klook biasanya berangkat di luar jam ramai atau atur ulang urutan rute biar terhindar dari kemacetan.
 
-### 10. Q: Cara hubungi supir atau guide gimana?
+### 10. Q: Gimana cara hubungi supir atau guide?
 
-A: Sebelum berangkat, Klook bakal kasih info kontak supir. Saran download WhatsApp aja — itu cara komunikasi paling umum di Bali. Kamu bisa konfirmasi jadwal jemput, bahasa guide, dll.
+A: Sebelum berangkat, Klook bakal kasih info kontak supir. Disarankan download WhatsApp. Ini cara komunikasi paling umum di Bali, kamu bisa konfirmasi jadwal jemput, bahasa guide, dll. dari awal.
 
-### 11. Q: Ada pilihan tur sehari lainnya?
+### 11.Q: Ada pilihan day trip lain nggak?
 
-A: Di Klook ada [lebih dari 100 pilihan tur sehari di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1049626&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fc8-bali%2F%3Fpage%3D1%26frontend_id_list%3D10). Saran pilih yang ratingnya bagus sesuai area tempat kamu nginep.
+A: Ada [lebih dari 100 pilihan day trip di Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1049626&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fc8-bali%2F%3Fpage%3D1%26frontend_id_list%3D10) di Klook. Saran pilih yang ratingnya bagus sesuai area tempat kamu nginep.
 
 {{block:一日團}}
 
 ***
 
-Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan bebasmu ke Bali! Jangan lupa juga kirim itinerary kamu ke grup ya!
+Kamu pikir itinerary mereka seru banget? Yuk, buruan atur liburan seru ke Bali versi kamu sendiri! Jangan lupa juga kirim itinerary kamu ke grup ya!
 
 ![11.Q：有更多的一日遊可以選嗎?](https://images.gobaligo.id/vocus/vocus_46698f5af1760b1706d64aa484378402.jpg)
 
 Klik di sini buat lihat lebih banyak cerita perjalanan seru di Bali
 
-Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar ceritamu makin kece!
+Kamu juga pengen nulis cerita perjalanan tapi bingung mulai dari mana? Coba deh lihat panduan 「[Cara Nulis Cerita Perjalanan Bali yang Keren](/id/blog/how-to-write-bali-travelogue/)」, biar cerita kamu makin kece!
 
 {{block:攻略}}

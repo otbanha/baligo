@@ -25,8 +25,7 @@ shuffle_h2: false
 embeds: []
 updatedDate: 2026-09-17T00:00:00.000Z
 lang: zh-cn
-_srcHash: PENDING_RETRY_e4d338e4a1a53e28eba2d31674be6ea3
-_translateAttempts: 1
+_srcHash: e4d338e4a1a53e28eba2d31674be6ea3
 ---
 
 https://www.youtube.com/watch?v=ZAGQPxwfs4s
@@ -42,7 +41,7 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 
 巴厘岛静居日（Nyepi Day），这可是巴厘岛最独特、最神圣的节日之一，岛上瞬间从超热闹变成「全世界最安静的一天」，超有仪式感！
 
-**Nyepi**（发音：涅皮）是巴厘岛印度教新年（Saka历），也叫「宁静日」或「安宁日」。整个岛屿会彻底「关机」24小时，让大自然喘口气，也让人们反省、净化身心。前一天晚上（3月7日）则是超嗨的**Pawai Ogoh-ogoh**（妖怪大游行）！
+**Nyepi**（发音：涅皮）是巴厘岛印度教新年（Saka历），也叫「宁静日」或「安宁日」。整个岛屿会彻底「关机」24小时，让大自然喘口气，也让人们反省、净化身心。前一天晚上（3月7日）则是超high的**Pawai Ogoh-ogoh**（妖怪大游行）！
 
 ## 先搞懂时间轴（超重要！）
 
@@ -79,7 +78,7 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 - 飞机开始起降（但当天航班可能仍有延误）
 - 可以正常出门、叫车、逛街
 
-**小提醒：**Nyepi 是巴厘岛人最神圣的日子，尊重规则就是在参与这份独特的宁静喔～
+**小提醒：**Nyepi 是巴厘岛人最神圣的日子，尊重规则就是在参与这份独特的宁静哦～
 
 ## Ogoh-ogoh游行：哪里看最赞？
 
@@ -91,7 +90,7 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 2. **Kuta / Legian Street（库塔／雷吉安街）** 游客最方便，Pasar Kuta附近或Legian Street沿线（靠近Mercure酒店那段）。热闹、灯光多，适合第一次体验。晚上人挤人，但气氛像派对！
 3. **Seminyak / Camplung Tanduk junction 或 Eat Street** 比较时髦、艺术感强的游行。Ogoh-ogoh设计常超有创意。
 4. **Ubud（乌布）Central / Ubud Palace 或 Monkey Forest附近** 更文化、更艺术风。游行相对优雅、戏剧性强，适合喜欢深度体验的人。Peliatan Royal Palace周边也很热闹。
-5. **其他chill地点：Sanur（靠近McDonald's）、Canggu（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你在这些区域住，走出饭店就能看到本地社区版，比较亲切、不那么挤。
+5. **其他chill地点：Sanur（靠近McDonald's）、Canggu（Batu Bolong & Berawa）、Kerobokan（Lio Square）** 如果你在这些区域住，走出酒店就能看到本地社区版，比较亲切、不那么挤。
 
 ![最佳觀賞地點（從最盛大到chill一點的排序）：](https://images.gobaligo.id/vocus/vocus_973019ee2bd0d68dc174e5e569c030a0.png)
 
@@ -102,13 +101,13 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 ### 可以：
 
 - 在酒店/别墅里发呆、看书、游泳。很多豪华酒店会举办室内瑜伽、冥想、电影之夜等
-- 吃酒店内提供的餐点（他们会提前准备）
+- 吃酒店提供的餐点（他们会提前准备）
 - 冥想、写日记、睡大觉（真的超治愈！）
 - 在别墅或度假村里仰望星空——全岛熄灯的那个夜空，保证让你震撼
 
 ### 绝对不能（违规会被罚款或劝诫）：
 
-- 开灯、开电视、播放音乐（外面看得到光或听到声音就不行）
+- 开灯、开电视、播放音乐（外面能看到光或听到声音就不行）
 - 开车、骑车上路（除非紧急情况）
 - 飞机起降（Ngurah Rai机场全天关闭，没有飞机进出）
 - 大声说话、在户外活动
@@ -122,11 +121,11 @@ https://www.youtube.com/watch?v=ZAGQPxwfs4s
 
 Nyepi 期间哪都不能去，所以「选对度假村」这件事比平常重要十倍。以下是几间每年 Nyepi 都会精心规划完整活动的度假村，让你24小时静默一点都不无聊：
 
-### 🏆 AYANA Bali（金巴兰）——最完整的 Nyepi 全体验
+### 🏆 AYANA Bali（Jimbaran）——最完整的 Nyepi 全体验
 
 ![AYANA Bali（Jimbaran）——最完整的 Nyepi 全體驗](https://images.gobaligo.id/images/2026-05/1780156879456-rock-bar-bali-3-1024x1024_large.jpeg)
 
-最推荐的选项没有之一。AYANA 的 Nyepi 规划是三天完整套装——3/8 当晚举办自家招牌 Ogoh-ogoh 大游行，两座巨型神像代表毁灭与更新，仪式感超强。进入静默日之后，日出瑜伽、水中普拉提、气功、音频治疗、钵声浴、正念冥想轮番上阵，几乎排满一整天。
+最推荐的选择没有之一。AYANA 的 Nyepi 规划是三天完整套装——3/8 当晚举办自家招牌 Ogoh-ogoh 大游行，两座巨型神像代表毁灭与更新，仪式感超强。进入静默日之后，日出瑜伽、水中普拉提、气功、音频治疗、钵声浴、正念冥想轮番上阵，几乎排满一整天。
 
 **适合：** 追求身心体验的大人、情侣
 
@@ -138,33 +137,33 @@ Nyepi 期间哪都不能去，所以「选对度假村」这件事比平常重�
 
 > Ayana Villa 房价与空房 ▶  [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
 
-translations
+翻译2
 
-: [
+翻译3
 
 ![Four Seasons Bali（Jimbaran Bay）——文化與家庭兼顧](https://images.gobaligo.id/images/2026-05/1780157440412-445066142_858533772982574_1049567968307874559_n.jpeg)
 
-> Ayana Villa 房价与空房 ▶  [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1232235/the-villas-at-ayana-resort-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/9JyxFJPS)
+翻译4
 
-,
+翻译5
 
-> 空房 & 房價查詢：，[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48672) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1477039/four-seasons-resort-bali-at-jimbaran-bay/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/TsCFActs)
+> 空房 & 房价查询：，[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48672) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-1477039/four-seasons-resort-bali-at-jimbaran-bay/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/TsCFActs)
 
-,
+***
 
-### 🌿 Four Seasons Bali（Jimbaran Bay）——文化与家庭兼顾
+### 🤫 The Apurva Kempinski Bali（努沙杜瓦）——最有深度的静心主题
 
 ![The Apurva Kempinski Bali（Nusa Dua）——最有深度的靜心主題](https://images.gobaligo.id/images/2026-05/1780158026812-543684014.jpg)
 
-,
+如果你把 Nyepi 当作一次真正的心灵退修而不只是「困在酒店」，Apurva Kempinski 的「MAUNA：寂静的艺术」主题计划就是为你设计的。围绕正念、运动、饮食、睡眠四大核心，从神圣仪式、冥想到睡眠工作坊，三天下来像完整做了一次身心排毒。加上面向印度洋的壮观建筑，气场无与伦比。
 
-Jimbaran Bay 的四季酒店以盛大 Ogoh-ogoh 游行见长。儿童俱乐部安排木偶制作、轻柔瑜伽、说故事等，亲子都照顾到了。
+**适合：** 追求深度静修、高端 wellness 体验的旅客
 
 > 凯宾斯基订房链接： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://hk.trip.com/hotels/bali-hotel-detail-25195229/the-apurva-kempinski-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
 
 ***
 
-### 🌸 阿丽拉水明漾——文化工坊 × 精致美食
+### 🌸 Alila Seminyak——文化工坊 × 精致美食
 
 ![Alila Seminyak](https://images.gobaligo.id/vocus/vocus_749f211cb6f32c9b89a39e82205f9ab6.jpg)
 
@@ -178,7 +177,7 @@ Jimbaran Bay 的四季酒店以盛大 Ogoh-ogoh 游行见长。儿童俱乐部�
 
 ### 最后小提醒
 
-Nyepi 是巴厘岛人最神圣的日子，我们这些旅客能参与，就是最大的尊重。别把这天当「被迫关机」，而是难得的「岛屿给你的一天假期」——没有噪音、没有社群、只有自己和大自然。
+Nyepi 是巴厘岛人最神圣的日子，我们这些旅客能参与，就是最大的尊重。别把这天当成「被迫关机」，而是难得的「岛屿给你的一天假期」——没有噪音、没有社群、只有自己和大自然。
 
 此外需注意：2027 年的 Nyepi 与 2026 年一样，**与开斋节假期重叠**，会有大量印尼当地旅客涌入。
 

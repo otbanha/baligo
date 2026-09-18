@@ -16,8 +16,8 @@ source: ''
 sourceUrl: ''
 updatedDate: 2026-09-15T00:00:00.000Z
 lang: zh-cn
-_srcHash: PENDING_RETRY_963d9af1e4645607ec4c822e5ca55d84
-_translateAttempts: 2
+_srcHash: 963d9af1e4645607ec4c822e5ca55d84
+_translateIncomplete: true
 ---
 
 **先讲结论**：乌鲁瓦图必玩三件事——① **秘境沙滩探险**（Suluban Beach、Padang Padang Beach、Green Bowl Beach 等六个悬崖秘境沙滩）② **乌鲁瓦图神庙看悬崖景观与卡恰火舞表演** ③ 世界级冲浪点挑战。地名「Ulu」意为陆地尽头、「Watu」意为岩石，整个南端海岩地形是全岛最壮观的悬崖景观区。以下是完整 50 个景点推荐。
@@ -82,15 +82,15 @@ Klook提供四种两人即可成团的乌鲁瓦图秘境海滩一日游行程，
 
 提醒大家一点，这个地方的猴子很调皮，手上拿的东西、背上的背包、眼镜/墨镜都要小心会被抢走！
 
-> 详细介绍请看[乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
+> 详细的介绍请看[乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
 ### 卡恰火舞 Kecak Fire Dance (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![卡恰火舞 Kecak Fire Dance (位置地圖)](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
-「卡恰火舞」主要重现印度神话史诗罗摩衍那（Ramayana）其中一段，内容为猴王与恶魔大战等情节，耀眼火焰、斑斓服装，令人目眩神迷！想了解这段印度教知名表演内容的朋友可以[点击这里](/zh-cn/blog/kecak-fire-dance-bali/)，我们曾经做过详细介绍。这是一段几乎看过的人都觉得值回票价的精彩表演！
+「卡恰火舞」主要重现印度神话史诗罗摩衍那（Ramayana）其中一段，内容为猴王与恶魔大战等情节，耀眼火焰、斑斓服装，令人目眩神迷！想了解这段印度教知名表演内容的朋友可以[点击这里](/zh-cn/blog/kecak-fire-dance-bali/)，我们曾经做过详细的介绍。这是一段几乎看过的人都觉得值回票价的精彩表演！
 
-想去观看火舞表演的朋友，可以参考下面Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
+想去观看火舞表演的朋友，可以参考底下Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
 
 - [中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
 - [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
@@ -98,13 +98,13 @@ Klook提供四种两人即可成团的乌鲁瓦图秘境海滩一日游行程，
 - [巴厘岛顶级南部海滩一日游(含火舞&金巴兰海滩晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [乌鲁瓦图火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 
-> 这类景点的门票行情会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
+> 这类景点的门票价格会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
 
 ### Balangan Viewpoint (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![Balangan Viewpoint (位置地圖)](https://images.gobaligo.id/vocus/vocus_a8d6822261073280c90836feccfdebd6.jpg)
 
-Balangan cliff sunset point是一个迷人的地方，以其壮丽的海滨景观而闻名。这里是观赏巴厘岛壮观日落的绝佳场所之一，您可以在崖边欣赏太阳逐渐沉入海平线，留下令人难忘的美丽景象。此外，您还可以享受徒步穿过岩石，感受自然之美，或在沙滩上放松身心。
+Balangan cliff sunset point是一个迷人的地方，以其壮丽的海滨景观而闻名。这里是观赏巴厘岛壮观日落的绝佳场所之一，您可以在崖边欣赏太阳逐渐沉入海平线，留下令人难忘的美丽景象。此外，您还可以享受徒步穿过岩石，感受自然之美，或在海滩上放松身心。
 
 这里也是拍摄婚纱的绝佳地点，许多新人都选择在Balangan崖日落观景点留下珍贵的回忆。在这个浪漫的地方，您可以与挚爱一起捕捉美丽的瞬间，留下永恒的爱情印记。
 
@@ -233,7 +233,7 @@ Umana Bali LXR 是希尔顿旗下顶级品牌，非住客根本不知道可以�
 
 https://www.instagram.com/reel/DbZrP6Xh9bh/?utm_source=ig_web_button_share_sheet
 
-2026/08新开业，这里不只是餐厅，更像是巴厘岛乌鲁瓦图一个超大型的派对场景。官方将其定位为品牌目前**最大、最有气势**的据点之一，空间可容纳约 **350 人**，里面有双酒吧、现场音乐、DJ台、开放式吧台与充满墨西哥风情的热闹布置，气氛会从白天一直延伸到晚上，越晚越有派对感。这里很适合朋友聚会、庆生、喝酒拍照，想找「吃饭只是顺便，重点是玩气氛」的地方，这里非常对味。
+2026年8月新开业，这里不只是餐厅，更像是巴厘岛乌鲁瓦图一个超大型的派对场景。官方将其定位为品牌目前**最大、最有气势**的据点之一，空间可容纳约 **350 人**，里面有双酒吧、现场音乐、DJ台、开放式吧台与充满墨西哥风情的热闹布置，气氛会从白天一直延续到晚上，越晚越有派对感。这里很适合朋友聚会、庆生、喝酒拍照，想找「吃饭只是顺便，重点是玩气氛」的地方，这里非常对味。
 
 ***
 
@@ -297,7 +297,7 @@ SUNDAZE ULUWATU MARKET 位于巴厘岛南端的 Hatch Bali Uluwatu，每逢周�
 
 > [滑翔伞 & 乌鲁瓦图日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74904-paragliding-uluwatu-sunset-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db657b34bf1)
 
-[> 乌鲁瓦图海滩滑翔伞体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1035510&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17558-paragliding-activity-timbis-beach-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D33d23d8e1e)
+> [乌鲁瓦图海滩滑翔伞体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1035510&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17558-paragliding-activity-timbis-beach-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D33d23d8e1e)
 
 ### ATV
 
@@ -307,7 +307,7 @@ SUNDAZE ULUWATU MARKET 位于巴厘岛南端的 Hatch Bali Uluwatu，每逢周�
 
 ### SPA
 
-当玩够了这些活动，五星级的万丽酒店提供的SPA可以为您解除一天的疲劳哦！
+当玩够了这些活动，五星级的万丽酒店提供的SPA可以为您解除一天的疲劳喔！
 
 > [乌鲁瓦图五星 Renaissance Bali Uluwatu Resort 按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73056-spa-renaissance-uluwatu-resort-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d64ff6fe6)
 
@@ -382,7 +382,7 @@ SUNDAZE ULUWATU MARKET 位于巴厘岛南端的 Hatch Bali Uluwatu，每逢周�
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_830861404e997a67dbdccf0fdea30853.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、勒吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
 
 这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 

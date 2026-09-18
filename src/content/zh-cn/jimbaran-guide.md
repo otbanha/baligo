@@ -8,10 +8,13 @@ category:
   - 峇里島分區攻略
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fb0a8f3064e3e63596e9f82fc73432be.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/654b8438fd897800016bf4cc'
-updatedDate: 2026-07-25T00:00:00.000Z
+source: ''
+sourceUrl: ''
+updatedDate: 2026-09-18T00:00:00.000Z
 lang: zh-cn
-_srcHash: 4478979a4905338c2752d6c425112e31
+_srcHash: f81184af5d95490d589c50675f3184a6
 ---
 
 巴厘岛自由行攻略之六：金巴兰攻略
@@ -68,7 +71,7 @@ GWK Culture Park不仅是一个艺术和文化的宝库，还是举办各种文�
 
 > Klook优惠券：[巴厘岛神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)[巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)
 
-> 这类景点的门票行情会随旺季调整，建议出发前到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 确认最新参考价。
+> 这类景点的门票行情会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
 
 ## 在Suluban Beach冲浪和参观（👉🏼地图：[金巴兰必访景点](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)）
 
@@ -112,13 +115,33 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 > [金巴兰骑骆驼体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)
 
+## 金巴兰海滩骑马体验
+
+![raw-image](https://images.gobaligo.id/images/2026-09/1789707004509-jimbaranbeachhorseridingwithoptionaluluwatutempletour-klook.jpg)
+
+在巴厘岛最受欢迎的海滨目的地——金巴兰海滩，享受一场难忘的海边骑马冒险。这项活动专为所有经验程度的骑士设计，提供温驯且经过良好训练的马匹，让初学者也能轻松上手。
+
+骑行期间，您将沿着宁静的海滩漫步，欣赏壮丽的海景，感受清爽的海风拂过面庞。专业的马匹管理员全程陪同，引导马匹确保安全。活动开始前会有简短的安全说明，让您放心享受体验。
+
+**活动详情：**
+
+- **时间**：30分钟至1小时
+- **时段选择**：上午07:00-10:00或下午15:00-17:00
+- **建议**：上午时段天气较凉爽，体验更舒适
+- **体重限制**：骑乘者上限为90公斤
+- **适合对象**：情侣、家庭、冒险爱好者
+
+建议穿着舒适服装和包趾鞋或凉鞋。这项新上线活动融合了海滩的宁静与骑马的乐趣，是巴厘岛行程中不可错过的体验。
+
+> [预订金巴兰海滩骑马体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1436979&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F228261-jimbaran-beach-horse-riding-and-uluwatu-temple-tour%2F)
+
 ## **乌鲁瓦图庙夕阳＆卡恰火舞之旅**（👉🏼地图：[金巴兰必访景点](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)）
 
 ![烏魯瓦圖廟夕陽＆卡恰火舞之旅（地圖：金巴蘭必訪景點）](https://images.gobaligo.id/vocus/vocus_217afb04c28455f43d3135b503b3c6cd.jpg)
 
 巴厘岛的宗教遗产和文化活动在乌鲁瓦图庙（Uluwatu Temple）和卡恰火舞（Kecak Dance）之旅中达到高潮。乌鲁瓦图庙是巴厘岛上最壮观的寺庙之一，坐落在悬崖上，俯瞰着壮观的印度洋。这个寺庙是一个重要的宗教场所，也是一个绝佳的观赏夕阳的地点。当太阳西下，乌鲁瓦图庙的轮廓映衬在火红的夕阳下，营造出一幅壮观的景色。
 
-在乌鲁瓦图庙之后，您可以前往观看卡恰火舞表演，这是一种巴厘岛传统的文化表演。卡恰火舞表演结合了舞蹈、音乐和戏剧，以叙述古老的巴厘岛故事。表演通常在露天剧场进行，观众坐在半圆形的露天剧场上，享受表演和夜晚的星光。表演中的特别之处是，演员们不使用音乐乐器，而是利用他们的声音合唱出卡恰的独特音乐，营造出一种震撼人心的氛围。
+在乌鲁瓦图庙之后，您可以前往观看卡恰火舞表演，这是一种巴厘岛传统的文化表演。卡恰火舞表演结合了舞蹈、音乐和戏剧，以叙述古老的巴厘岛故事。表演通常在露天剧场进行，观众坐在半圆形的露天剧场，享受表演和夜晚的星光。表演中的特别之处是，演员们不使用音乐乐器，而是利用他们的声音合唱出卡恰的独特音乐，营造出一种震撼人心的氛围。
 
 > 卡恰火舞的表演内容是什么？如何事先订票？[请看这里](/zh-cn/blog/kecak-fire-dance-bali/)
 
@@ -126,13 +149,13 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 巴厘岛以其丰富的自然资源和疗愈的SPA体验而闻名。金巴兰地区提供各种豪华SPA度假村和水疗中心，为游客提供一个绝佳的休闲和疗愈之旅。
 
-在这里，您可以选择在沙滩边的露天SPA，或是在浓密的热带丛林中的SPA设施中享受治疗。SPA度假村通常提供各种按摩疗程、面部疗程、身体磨砂和水疗浸浴，让您沉浸在放松和疗愈的氛围中。许多SPA度假村还提供瑜伽和冥想课程，以帮助您达到身心平衡。
+在这里，您可以选择在沙滩边的露天SPA，或在茂密的热带丛林中的SPA设施里享受护理。SPA度假村通常提供各种按摩疗程、面部护理、身体磨砂和水疗浸浴，让您沉浸在放松和疗愈的氛围中。许多SPA度假村还提供瑜伽和冥想课程，以帮助您达到身心平衡。
 
 ![](https://images.gobaligo.id/images/2026-04/1775894049815-mixcollage-11-apr-2026-02-50-pm-6422.jpg)
 
-[> ANN Spa](https://www.facebook.com/share/p/1BoYBoxhnF/) 2025/10 新开业，台湾老板娘，中文可通
+> [ANN Spa](https://www.facebook.com/share/p/1BoYBoxhnF/) 2025/10 新开业，台湾老板娘，中文可通
 
-[> Klook优惠券：[金巴兰Hua Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022)
+> Klook优惠券：[金巴兰Hua Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022)
 > [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a)
 > [Ayutaya 花浴 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87655-ayutaya-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D96e7764301)
 > [上门服务 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b)
@@ -152,7 +175,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 金巴兰地区拥有一些顶级的度假村，为游客提供无与伦比的豪华体验。您可以选择入住一家海滨度假村，每天早晨醒来就可以欣赏壮观的海景。这些度假村通常提供豪华的客房、私人游泳池、水疗中心、世界一流的餐厅以及各种娱乐设施。无论您是想度过一个浪漫的情侣度假还是举办一个家庭度假，金巴兰的度假村都能满足您的需求。
 
-除此之外，金巴兰还有离机场近的优点，旅程的最后几天不妨安排住在这一区，这样您可以更轻松地前往机场，节省交通时间，同时享受更多的度假时光。
+除此之外，金巴兰还有离机场近的优点，旅程的最后几天不妨安排住在这个区域，这样您可以更轻松地前往机场，节省交通时间，同时享受更多的度假时光。
 
 想找一家拥有无敌海景的住宿吗？不要错过我们精心挑选的「[金巴兰推荐住宿](/zh-cn/blog/jimbaran-beachfront-hotels-guide/)」
 
@@ -162,9 +185,9 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_95e272186db9a8a64102950e3b8fdd0d.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如Jimbaran、Kuta、Legian、Seminyak、Canggu、Uluwatu、Nusa Dua和Sanur，您便能轻松享受到好多种造型的大型浮床所带来的乐趣。
 
-这项服务直接送到您入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
+这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 
 > [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
