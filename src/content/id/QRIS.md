@@ -1,14 +1,14 @@
 ---
 title: >-
-  Apa itu QRIS Indonesia? Panduan Lengkap Pembayaran Digital Tanpa Uang Tunai di
-  Bali 2026｜Cara Pakai untuk Orang Taiwan/Hong Kong
+  Apa Itu QRIS Indonesia? Panduan Lengkap Pembayaran Digital Tanpa Uang Tunai di
+  Bali 2026｜Cara Pakai untuk Turis Taiwan/Hong Kong
 slug: QRIS
 description: >-
-  Orang Taiwan/Hong Kong yang ke Bali bisa langsung bayar pakai QRIS dengan scan
-  HP? Artikel ini menjelaskan secara lengkap sistem pembayaran QRIS Indonesia,
-  daftar negara mitra kerja sama lintas batas terbaru, serta panduan isi saldo
-  GoPay, DANA, OVO beserta tips penting, biar kamu bisa dengan mudah
-  bertransaksi dari pedagang kaki lima sampai restoran mewah.
+  Bisa nggak sih turis Taiwan/Hong Kong langsung scan QRIS di Bali pakai HP?
+  Artikel ini bakal jelasin tuntas sistem pembayaran QRIS Indonesia, daftar
+  negara mitra kerja sama lintas batas terbaru, plus tutorial isi saldo GoPay,
+  DANA, OVO beserta tips pentingnya. Biar kamu makin pede bayar dari kaki lima
+  sampai restoran mewah.
 pubDate: 2026-08-10T00:00:00.000Z
 pubHour: 22
 category:
@@ -31,82 +31,81 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-08/1786361288769-index.jpg'
 imageAlt: ''
 originalUrl: ''
-newsCategory: ''
 source: ''
 sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-08-31T00:00:00.000Z
+updatedDate: 2026-09-20T00:00:00.000Z
 lang: id
-_srcHash: 1819e2f9878c6203dda7ecd0a0057ea2
+_srcHash: 8706c3e7d6396c0a9d681172caa5a08e
 ---
 
-# Apa Itu QRIS Indonesia? Panduan Lengkap 'Pembayaran Tanpa Uang Tunai' untuk Liburan ke Bali 2026
+# Apa Itu QRIS Indonesia? Panduan Lengkap "Pembayaran Tanpa Uang Tunai" untuk Liburan ke Bali 2026
 
-Pas liburan ke Bali, pasti kamu bakal lihat kartu kecil dengan pola kotak warna-warni di pedagang kaki lima, minimarket, tempat pijat, bahkan meja kasir beach club, dengan tulisan 'QRIS'. Ini sebenarnya standar kode QR pembayaran nasional Indonesia, dan jadi kunci perubahan cepat kebiasaan belanja warga lokal dalam beberapa tahun terakhir. Artikel ini bakal jelasin lengkap apa itu QRIS, apakah turis Taiwan bisa langsung scan bayar, dan cara pembayaran tanpa uang tunai yang benar-benar bisa dipakai di Bali.
+Pas liburan ke Bali, pasti kamu bakal lihat stiker kecil bergambar kotak warna-warni di pinggir jalan, di warung, pijat, bahkan di meja kasir beach club. Tulisannya "QRIS". Ini sebenarnya standar kode QR pembayaran digital nasional Indonesia, dan jadi kunci perubahan kebiasaan belanja warga lokal dalam beberapa tahun terakhir. Artikel ini bakal jelasin tuntas apa itu QRIS, apakah turis Taiwan bisa langsung scan bayar, dan cara-cara pembayaran non-tunai yang benar-benar bisa dipakai di Bali.
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786361369033-kjc6my8wmxwkk4flysvvmmknrmekbidltfkklf1y.png)
 
-## QRIS Itu Sebenarnya Apa?
+## QRIS Itu Apa Sih?
 
-QRIS kepanjangannya 'Quick Response Code Indonesian Standard', diluncurkan Bank Indonesia tahun 2019, tujuannya buat menyatukan kode QR pembayaran yang sebelumnya masing-masing punya standar sendiri. Sebelum QRIS ada, dompet digital kayak GoPay, OVO, DANA punya kode bayar masing-masing, toko sering harus tempelin sederet kode QR biar pengguna aplikasi beda bisa scan, ribet banget. Setelah QRIS hadir, pedagang cukup punya satu kode QR, mau konsumen pakai aplikasi apa aja, bisa scan kode yang sama buat bayar — konsepnya mirip sama TWQR yang sekarang lagi digenjot di Taiwan.
+QRIS kepanjangan dari "Quick Response Code Indonesian Standard", diluncurkan Bank Indonesia tahun 2019. Tujuannya buat nyatuin semua kode QR pembayaran digital yang sebelumnya berantakan sendiri-sendiri. Sebelum QRIS ada, GoPay, OVO, DANA, dan dompet digital lain punya kode QR masing-masing. Toko sering harus tempel deretan kode QR biar semua pelanggan bisa scan — ribet banget. Setelah QRIS hadir, pedagang cukup pakai satu kode QR aja. Mau pakai aplikasi apa pun, tinggal scan kode yang sama — konsepnya mirip kayak TWQR yang sekarang lagi digenjot di Taiwan.
 
-Sistem ini nyebar dengan kecepatan yang gila. Menurut data Bank Indonesia, sampai kuartal pertama 2026, volume transaksi QRIS naik lebih dari 133% dibanding tahun sebelumnya. Di Bali aja, udah ada lebih dari 1,1 juta pedagang yang pakai QRIS, dengan pengguna tembus 1,15 juta orang. Dari abang-abang jualan Nasi Goreng pinggir jalan sampai minimarket chain Indomaret, Alfamart, hampir semuanya udah support pembayaran scan QRIS.
+Sistem ini nyebar dengan kecepatan gila. Menurut data Bank Indonesia, sampai kuartal pertama 2026, volume transaksi QRIS naik lebih dari 133% dibanding tahun sebelumnya. Di Bali aja, udah ada lebih dari 1,1 juta pedagang yang pakai QRIS, dengan pengguna tembus 1,15 juta orang. Dari abang Nasi Goreng pinggir jalan sampai minimarket Indomaret, Alfamart — hampir semuanya udah support pembayaran scan QRIS.
 
-## Turis Taiwan Bisa Langsung Scan QRIS Pakai HP?
+## Turis Taiwan Bisa Langsung Scan QRIS Pakai HP? Nggak Juga
 
-Ini pertanyaan yang paling sering ditanyain, jawabannya: **belum bisa**.
+Ini pertanyaan yang paling sering ditanyain. Jawabannya: **belum bisa buat sekarang**.
 
-Bank Indonesia belakangan ini gencar dorong program 'QRIS Lintas Batas (QRIS Antarnegara / QRIS Cross-border)', biar turis dari negara tertentu bisa langsung pakai aplikasi pembayaran dari negaranya buat scan kode QRIS di Indonesia, dan sebaliknya. Sampai pertengahan 2026, negara mitra yang udah resmi aktif termasuk Thailand, Malaysia, Singapura, Jepang, Korea Selatan, dan China. Bank Indonesia juga lagi uji coba QRIS lintas batas sama Arab Saudi dan India.
+Bank Indonesia belakangan ini gencar dorong program "QRIS Lintas Negara" (QRIS Antarnegara / QRIS Cross-border). Tujuannya biar turis dari negara tertentu bisa langsung scan kode QRIS Indonesia pakai aplikasi pembayaran dari negara asal mereka — dan sebaliknya. Sampai pertengahan 2026, negara mitra yang udah resmi aktif antara lain Thailand, Malaysia, Singapura, Jepang, Korea Selatan, dan China. Bank Indonesia juga lagi uji coba kerja sama lintas batas dengan Arab Saudi dan India.
 
-Namun, Taiwan saat ini belum termasuk dalam daftar kerja sama ini, jadi aplikasi pembayaran mobile yang biasa digunakan di Taiwan seperti LINE Pay dan JKO Pay belum bisa langsung memindai kode QRIS di merchant Bali untuk bertransaksi. Kalau mau pakai uang non-tunai lewat HP di Bali, tetap harus pakai dompet digital lokal.
+Sayangnya, Taiwan saat ini belum termasuk dalam daftar kerja sama ini. Jadi aplikasi pembayaran digital yang umum dipakai di Taiwan seperti LINE Pay dan JKO Pay belum bisa langsung scan QRIS di merchant Bali. Kalau mau transaksi cashless pakai HP di Bali, kamu tetap perlu pakai dompet digital lokal.
 
 ## Solusi Nyata di Bali: Bikin Dompet Digital Lokal
 
-![raw-image](https://images.gobaligo.id/images/2026-08/1786361435327-2024_11_11_157146_1731331014._large.jpg)
+https://youtube.com/shorts/XDFDubv2X4g
 
-▲QRIS nggak cuma bisa dipakai di semua supermarket dan minimarket, makin banyak toko, bahkan pedagang pinggir jalan juga sudah menerimanya
+▲QRIS nggak cuma bisa dipakai di supermarket dan minimarket, tapi makin banyak toko, bahkan pedagang pinggir jalan juga sudah menerimanya
 
-Kabar baiknya, bikin dompet digital Indonesia itu gampang banget, bisa pakai nomor HP Taiwan buat daftar, dan hampir semuanya bisa dipakai buat scan QRIS. Tiga pilihan paling populer saat ini adalah GoPay, DANA, dan OVO:
+Kabar baiknya, bikin dompet digital Indonesia itu gampang banget. Cukup pakai nomor HP Taiwan, kamu sudah bisa daftar, dan hampir semuanya support QRIS. Tiga pilihan paling populer saat ini adalah GoPay, DANA, dan OVO:
 
-- **GoPay**: Bagian dari super app Gojek, selain bayar, bisa juga buat pesan ojek dan delivery, ini pilihan paling umum buat turis asing, syarat daftarnya juga paling ringan. Tapi perlu diingat, GoPay saat ini belum buka buat isi saldo langsung pakai kartu kredit asing. Cara isi saldo utamanya adalah lewat Indomaret, Alfamart, atau minimarket lain pakai uang tunai, atau minta bantuan driver Gojek buat top-up. Beberapa tutorial juga bilang bisa pakai kartu debit luar negeri tanpa biaya admin, tapi berhasil atau nggaknya tergantung bank penerbit, saran coba isi saldo kecil dulu pas udah sampai.
-- **DANA**: Lebih ramah buat turis asing karena bisa langsung hubungkan kartu Visa atau MasterCard buat bayar QRIS, nggak perlu KTP Indonesia, prosesnya relatif simpel.
-- **OVO**: Juga support QRIS, tapi beberapa fitur lanjutan kadang butuh verifikasi identitas lokal, cocok jadi opsi cadangan.
+- **GoPay**: Bagian dari super app Gojek. Selain bayar, bisa juga buat pesan ojek dan delivery. Ini pilihan paling umum buat turis asing, dan syarat daftarnya paling ringan. Tapi catatan: GoPay saat ini belum bisa diisi saldo langsung pakai kartu kredit luar negeri. Cara isi saldo utamanya adalah pakai uang tunai di Indomaret, Alfamart, atau minta bantuan driver Gojek. Beberapa tutorial juga bilang bisa pakai kartu debit luar negeri tanpa biaya admin, tapi tergantung bank penerbit. Saran: coba isi saldo kecil dulu setelah sampai di Bali.
+- **DANA**: Lebih ramah buat turis asing karena bisa langsung bind kartu Visa/Mastercard buat bayar QRIS. Nggak perlu KTP Indonesia, prosesnya simpel.
+- **OVO**: Juga support QRIS, tapi beberapa fitur lanjutan kadang butuh verifikasi identitas lokal. Cocok jadi opsi cadangan.
 
-Secara praktis, saran utama pakai GoPay (karena ojek, delivery, bayar semuanya jadi satu), tapi tetap siapin uang tunai kecil-kecil, karena beberapa toko kecil kadang masih terima cash aja.
+Praktisnya, saran utama pakai GoPay (soalnya bisa buat ojek, delivery, dan bayar dalam satu aplikasi). Tapi tetap siapin uang tunai receh, karena beberapa toko kecil kadang masih cash-only.
 
 > [Grab atau Gojek? Panduan Lengkap Daftar, Pakai, dan Isi Saldo Gojek & GoPay di Indonesia/Bali](https://gobaligo.id/id/blog/indonesia-gojek-gopay-guide/)
 
-## Langkah Dasar Pakai QRIS buat Bayar
+## Cara Bayar Pakai QRIS di Bali
 
-1. Buka aplikasi dompet digital (contoh: GoPay)
-2. Pilih menu "Scan" atau "Scan QR"
-3. Arahkan ke kode QRIS yang ada di meja atau kasir toko
-4. Pastikan nama toko dan jumlahnya sudah benar, lalu masukkan PIN atau sidik jari untuk menyelesaikan pembayaran
-5. Layar akan menampilkan notifikasi pembayaran berhasil — nggak perlu tanda tangan atau proses tambahan
+1. Buka aplikasi e-wallet (contoh: GoPay)
+2. Pilih fitur "Scan" atau "Scan QR"
+3. Arahkan kamera ke kode QRIS yang ada di meja atau kasir toko
+4. Cek nama toko dan jumlah tagihan sudah benar, lalu masukkan PIN atau sidik jari untuk menyelesaikan pembayaran
+5. Layar akan muncul notifikasi pembayaran sukses — selesai, nggak perlu tanda tangan atau proses tambahan
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786361812303-banner_news_qris_edc_fe1cee70f3.jpg)
 
-QRIS nggak punya batas minimal transaksi, bahkan untuk pembelian kecil setara satu dolar pun bisa dipakai. Makanya pedagang kaki lima pun rela pasang QRIS.
+QRIS nggak punya batas minimal transaksi, bahkan buat belanja kecil senilai USD$1 pun bisa dipakai. Makanya pedagang kaki lima pun rela pasang QRIS.
 
 ## Hal yang Perlu Diperhatikan Saat Pakai QRIS
 
-- **Cek nama toko sebelum bayar**: Kode QRIS biasanya menampilkan nama penerima pembayaran. Pastikan namanya cocok dengan toko yang kamu kunjungi, biar nggak salah scan QR palsu.
-- **Input atau cek ulang jumlah nominal**: Kebanyakan QRIS pakai "kode dinamis", jadi setelah scan, aplikasi bakal otomatis munculin nominal. Tapi tetap disarankan buat ngecek lagi sebelum konfirmasi.
-- **Simpan bukti pembayaran**: Kadang jaringan lemot bikin status transaksi nggak jelas. Mending screenshot aja buat jaga-jaga kalau perlu dicek lagi nanti.
-- **Atur saldo isi ulang**: Karena saldo yang sudah diisi biasanya terikat di aplikasi, mending isi sedikit-sedikit sesuai kebutuhan perjalanan, biar nggak kebanyakan saldo nganggur.
+- **Pastikan cek nama toko sebelum bayar**: Kode QRIS biasanya menampilkan nama penerima pembayaran. Sebelum bayar, pastikan namanya cocok dengan toko yang kamu kunjungi, biar nggak salah scan QR palsu.
+- **Jumlah tagihan harus diisi atau dicek sendiri**: Kebanyakan QRIS pakai "kode dinamis", jadi setelah scan, aplikasi bakal otomatis munculin jumlah tagihan. Tapi tetap disarankan buat ngecek ulang nominalnya sebelum bayar.
+- **Simpan bukti pembayaran**: Kadang jaringan lemot bikin status transaksi nggak jelas. Mending simpan screenshot riwayat transaksi biar gampang dicek nanti.
+- **Atur saldo isi ulang di aplikasi**: Karena saldo yang sudah diisi biasanya terikat di aplikasi, saran aku sih isi secukupnya sesuai kebutuhan perjalanan, jangan kebanyakan biar saldo nggak ngendon di akun.
 
-## Pertanyaan Umum
+## Pertanyaan yang Sering Muncul
 
-**Q: Apa harus pakai dompet digital Indonesia buat belanja? Kartu kredit nggak bisa?** Di area perkotaan Bali, hotel, restoran, dan pusat perbelanjaan biasanya masih bisa pakai kartu kredit (Visa/Mastercard). QRIS ini solusi buat transaksi di toko kecil, pedagang kaki lima, atau pasar tradisional yang dulu cuma terima uang tunai. Dua cara ini bisa dipakai saling melengkapi. Toko yang bisa刷卡 pasti bisa QRIS; toko yang bisa QRIS belum tentu bisa刷卡.
+**Q: Apa harus pakai e-wallet Indonesia buat bayar? Kartu kredit nggak bisa?** Di area pusat kota Bali, hotel, restoran, dan mal biasanya masih bisa pakai kartu kredit (Visa/Mastercard). QRIS ini lebih berguna buat transaksi di toko kecil, pedagang kaki lima, atau pasar tradisional yang dulu cuma nerima uang tunai. Dua cara ini bisa dipakai saling melengkapi. Toko yang terima kartu kredit pasti bisa QRIS; tapi toko yang terima QRIS belum tentu bisa kartu kredit.
 
-**Q: Isi saldo kena biaya admin?** Isi saldo lewat minimarket biasanya ada biaya kecil. Besarannya tergantung aplikasi dan tempat isi ulang. Cek aja keterangan biaya di aplikasi sebelum isi saldo.
+**Q: Apakah isi ulang kena biaya admin?** Isi ulang tunai di minimarket biasanya ada biaya kecil, tergantung aplikasi dan metode isi ulang. Sebaiknya cek dulu di aplikasi sebelum isi ulang untuk lihat rincian biayanya.
 
-**Q: Apakah QRIS akan dibuka untuk pembayaran lintas batas langsung dari Taiwan di masa depan?** Daftar kerja sama lintas batas QRIS Bank Indonesia terus bertambah. Baru-baru ini, Jepang, Korea Selatan, dan China ditambahkan, serta uji coba di Arab Saudi dan India. Apakah Taiwan akan dimasukkan masih perlu menunggu pengumuman resmi selanjutnya.
+**Q: Apakah QRIS nantinya bisa dipakai langsung dari Taiwan untuk pembayaran lintas negara?** Daftar kerja sama lintas negara QRIS dari Bank Indonesia terus bertambah, baru-baru ini termasuk Jepang, Korea Selatan, China, dan uji coba di Arab Saudi serta India. Apakah Taiwan bakal masuk, masih perlu pantau pengumuman resmi selanjutnya.
 
 ## Penutup
 
-QRIS sudah jadi metode pembayaran utama di Bali. Meskipun wisatawan Taiwan belum bisa langsung scan QR lintas batas pakai aplikasi lokal, asal kamu daftar GoPay atau DANA duluan, plus bawa uang tunai dan kartu kredit — tiga cara ini dipakai bergantian — kamu bakal bisa handle semua situasi belanja di Bali, dari jajanan pinggir jalan sampai restoran mewah. Gak perlu khawatir lagi soal uang cash kurang atau repot cari uang receh.
+QRIS udah jadi cara bayar utama di Bali. Meskipun turis Taiwan belum bisa langsung scan QRIS pakai aplikasi lokal, asal kamu daftar GoPay atau DANA duluan, plus bawa uang tunai dan kartu kredit — tiga cara ini dipakai bergantian — kamu bakal bisa handle semua situasi belanja di Bali, dari jajanan pinggir jalan sampai restoran mewah. Gak perlu khawatir lagi soal uang pas atau susah cari kembalian.
 
 {{block:伴手禮}}
