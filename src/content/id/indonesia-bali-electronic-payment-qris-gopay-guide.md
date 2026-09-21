@@ -1,12 +1,12 @@
 ---
 title: >-
-  Bali, Indonesia udah pada pake pembayaran digital! Cara bayar? Panduan lengkap
+  Indonesia/Bali udah pada pake pembayaran digital! Cara bayar? Panduan lengkap
   QRIS, GoPay e-wallet ｜ Kartu kredit juga bisa
 slug: indonesia-bali-electronic-payment-qris-gopay-guide
 description: >-
-  Bingung cara bayar pas liburan ke Bali? Panduan lengkap QRIS, GoPay, cara scan
-  QR pakai kartu kredit, top-up tunai & tarik tunai di minimarket — dijamin
-  paham cara transaksi Cashless di Bali.
+  Bingung cara bayar pas liburan ke Bali? Panduan lengkap QRIS, GoPay e-wallet,
+  cara scan pake kartu kredit, top up tunai & tarik di minimarket — dijamin
+  paham sistem Cashless di Bali.
 pubDate: 2026-09-18T00:00:00.000Z
 pubHour: 14
 category:
@@ -41,65 +41,65 @@ embeds: []
 updatedDate: 2026-09-20T00:00:00.000Z
 lang: id
 _srcHash: PENDING_RETRY_6e22ded6cbc6d134ded1a569367510a0
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 
-# Di Indonesia & Bali, semua orang udah pake pembayaran digital! Cara bayar? Panduan lengkap QRIS & GoPay
+# Indonesia, Bali udah pada pake pembayaran digital! Cara bayar? Panduan lengkap QRIS, GoPay e-wallet
 
-Liburan ke Bali, masih bawa segambreng uang tunai Rupiah tiap hari?
+Pergi liburan ke Bali, masih bawa segambreng uang tunai Rupiah tiap hari?
 
-Sekarang di Indonesia, apalagi Bali, makin banyak restoran, kafe, SPA, tiket masuk tempat wisata, toko, bahkan pedagang pinggir jalan udah mulai pake pembayaran digital. Beberapa tempat bahkan bakal bilang langsung:
+Sekarang di Indonesia, apalagi di Bali, makin banyak restoran, kafe, SPA, tiket masuk tempat wisata, toko, bahkan pedagang pinggir jalan udah pada pake pembayaran digital. Beberapa tempat bahkan bakal bilang langsung:
 
-**"Cashless Only"**
+**「Cashless Only」**
 
-Artinya: **hanya terima pembayaran digital tanpa uang tunai, nggak nerima cash!**
+Artinya: **hanya terima pembayaran digital non-tunai, nggak nerima uang cash!**
 
-Kalau pertama kali ke Bali, gampang banget nemu situasi "punya duit tapi nggak bisa bayar" — bikin malu.
+Kalau baru pertama ke Bali, gampang banget nemu situasi 'punya duit tapi nggak bisa bayar' yang bikin risih.
 
-Nah, kata kunci paling penting buat pembayaran digital di Indonesia adalah:
+Nah, kata kunci utama pembayaran digital di Indonesia adalah:
 
 ## 🇮🇩 QRIS
 
-Ditambah lagi dengan dompet digital kayak **GoPay**, sekarang traveling di Bali udah bisa banget ngurangin bawa uang tunai banyak-banyak.
+Ditambah dengan dompet digital kayak **GoPay**, sekarang traveling di Bali udah bisa banget ngurangin bawa uang tunai banyak-banyak.
 
-Ini dia rangkumannya buat kamu:
+Ini dia rangkuman lengkapnya:
 **Apa itu QRIS? Cara pakai buat turis asing? Cara daftar GoPay? Turis dari Taiwan, Hong Kong, Singapura, Malaysia bisa bayar pakai apa aja?**
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789714091020-qris4.png)
 
 ***
 
-## 🇮🇩 Apa itu QRIS? Kenapa di Bali di mana-mana ada QR Code?
+## 🇮🇩 Apa Itu QRIS? Kenapa di Bali Banyak Banget QR Code?
 
-QRIS kepanjangannya **Quick Response Code Indonesian Standard**, gampangnya sih ini standar pembayaran QR Code resmi Indonesia.
+QRIS kepanjangannya **Quick Response Code Indonesian Standard**, gampangnya bisa diartikan sebagai 'Standar Pembayaran QR Code Indonesia'.
 
-Di Indonesia, restoran, kafe, minimarket, SPA, toko kecil, tempat wisata, bahkan pedagang kaki lima, banyak yang udah pakai QR Code QRIS.
+Di Indonesia, restoran, kafe, minimarket, SPA, toko kecil, tempat wisata, bahkan kaki lima pun sering ada QR Code QRIS.
 
-Kalau aplikasi pembayaran kamu support QRIS, tinggal scan aja QR Code di toko, masukin nominal, langsung beres bayarnya.
+Kalau aplikasi pembayaran kamu support QRIS, tinggal scan aja QR Code di toko, masukin nominal, langsung jadi deh pembayarannya.
 
-Bank Indonesia bilang, QRIS udah dipakai luas di seluruh provinsi dan kota di Indonesia, termasuk pedagang kecil dan destinasi wisata.
+Bank Indonesia bilang, QRIS udah dipake luas di seluruh provinsi dan kota di Indonesia, termasuk pedagang kecil dan destinasi wisata.
 
 Jadi di Bali kamu bakal sering lihat:
 
 **Scan QRIS / QRIS / QRIS Payment**
 
-Intinya sih sebenarnya: 
+Intinya sih pesannya: 
 
-📱 **“Bisa bayar pakai scan QR Code!”**
+📱 **“Bisa scan QR Code buat bayar!”**
 
 ***
 
 ## 💡 Terus gimana cara turis asing pakai QRIS?
 
-Nah, ini yang paling sering bikin bingung buat yang baru pertama kali ke Bali.
+Nah, ini yang sering bikin bingung buat yang pertama kali ke Bali.
 
 Soalnya:
 
 **“QRIS bisa dipakai” ≠ “Kartu kredit negara mana pun bisa langsung scan QRIS.”**
 
-Sekarang Indonesia udah punya **QRIS Cross-Border (QRIS Lintas Negara)**, jadi turis dari negara mitra tertentu bisa langsung pakai aplikasi pembayaran dari negara mereka buat scan QRIS di Indonesia.
+Sekarang Indonesia udah punya **QRIS Cross-Border**, jadi turis dari negara mitra bisa langsung pakai aplikasi pembayaran dari negaranya buat scan QRIS di Indonesia.
 
-Saat ini Bank Indonesia udah kerja sama dengan:
+Bank Indonesia udah kerja sama dengan:
 
 🇹🇭 Thailand
 🇲🇾 Malaysia
@@ -114,19 +114,19 @@ Maksudnya, wisatawan dari negara berbeda cara pakainya nggak sepenuhnya sama.
 
 ***
 
-## 🇸🇬 Wisatawan Singapura: Bisa Langsung Pakai QRIS Cross-Border
+## 🇸🇬 Wisatawan Singapura: Bisa langsung pakai QRIS Cross-Border
 
-Kalau kamu dari Singapura liburan ke Bali, pakai QRIS bakal lebih gampang.
+Kalau kamu dari Singapura liburan ke Bali, pakai QRIS bakal relatif gampang.
 
-Sekarang Bank Indonesia udah ngelist penyedia layanan pembayaran dari Singapura yang ikut, antara lain:
+Sekarang Bank Indonesia udah daftarin penyedia layanan pembayaran dari Singapura yang ikut, antara lain:
 
 - OCBC
 - UOB
 - DBS
 
-Wisatawan Singapura bisa pakai App pembayaran yang didukung, langsung scan QRIS di merchant Indonesia.
+Wisatawan Singapura bisa pakai aplikasi pembayaran yang didukung, langsung scan QRIS di merchant Indonesia.
 
-Saat bayar, tinggal masukin jumlah dalam Rupiah, nanti App-nya otomatis konversi ke mata uang negara kamu. Setelah dicek, masukin PIN, transaksi beres.
+Saat bayar, tinggal masukin nominal dalam Rupiah, nanti App bakal otomatis konversi ke mata uang asal kamu. Setelah dicek, masukin PIN dan transaksi selesai.
 
 ***
 
@@ -136,21 +136,21 @@ Wisatawan Malaysia juga gampang banget.
 
 QRIS Indonesia sama **DuitNow QR** Malaysia udah saling terhubung buat pembayaran lintas negara.
 
-PayNet juga bilang, wisatawan Malaysia pas ke Indonesia bisa langsung scan QRIS pake aplikasi mobile banking yang didukung.
+PayNet juga bilang, wisatawan Malaysia yang ke Indonesia bisa langsung pakai aplikasi mobile banking yang didukung buat scan QRIS.
 
-Sekarang Bank Indonesia udah daftarin penyedia layanan pembayaran Malaysia kayak CIMB, Hong Leong Bank, Maybank, Public Bank, Touch 'n Go eWallet, BigPay, dan lain-lain.
+Sekarang Bank Indonesia udah daftarin beberapa penyedia layanan pembayaran Malaysia kayak CIMB, Hong Leong Bank, Maybank, Public Bank, Touch 'n Go eWallet, BigPay, dan lainnya.
 
-Jadi kalau kamu udah biasa pake mobile payment Malaysia, pas liburan ke Bali nggak perlu bawa uang tunai banyak-banyak.
+Jadi kalau kamu udah biasa pakai mobile payment Malaysia, pas liburan ke Bali nggak perlu bawa uang tunai banyak-banyak.
 
 ***
 
-## 🇹🇼 Kalau wisatawan Taiwan & 🇭🇰 Hong Kong gimana?
+## 🇹🇼 Kalau wisatawan Taiwan sama 🇭🇰 Hong Kong gimana?
 
-Nah, ini yang perlu diperhatikan banget.
+Nah, ini yang perlu kamu perhatikan banget.
 
-Saat ini, Taiwan dan Hong Kong belum masuk dalam daftar pasar kerja sama QRIS Cross-Border yang dirilis oleh Bank Indonesia.
+Sampai saat ini, Taiwan dan Hong Kong belum masuk dalam daftar pasar kerja sama QRIS Cross-Border yang ditetapkan oleh Bank Indonesia.
 
-Jadi, **aplikasi bank biasa atau aplikasi pembayaran lokal dari Taiwan/Hong Kong nggak bisa asal scan QRIS lalu bayar langsung.**
+Jadi, **aplikasi bank umum atau aplikasi pembayaran lokal dari Taiwan/Hong Kong nggak bisa langsung scan QRIS dan bayar begitu aja.**
 
 Tapi, bukan berarti traveler dari Taiwan dan Hong Kong sama sekali nggak bisa pakai QRIS.
 
@@ -158,7 +158,7 @@ Cara yang paling realistis saat ini adalah:
 
 ## 📱 GoPay + Visa/Mastercard
 
-GoPay sekarang sudah mendukung penambahan kartu kredit atau debit Visa/Mastercard di aplikasi GoPay, dan bisa dipakai sebagai sumber pembayaran untuk QRIS.
+GoPay sekarang sudah mendukung penambahan kartu kredit atau debit Visa/Mastercard di aplikasi GoPay, dan kartu itu bisa dipakai sebagai sumber pembayaran untuk QRIS.
 
 Dengan kata lain:
 
@@ -168,20 +168,20 @@ Ini adalah opsi yang layak dicoba.
 
 Tapi ada satu batasan penting yang perlu kamu tahu:
 
-## ⚠️ Pembayaran QRIS pakai Kartu Kredit/Debit GoPay itu nggak unlimited
+## ⚠️ Pembayaran QRIS pakai Kartu Kredit/Debit GoPay — Bukan Tanpa Batas
 
 Menurut keterangan resmi GoPay, saat pakai kartu kredit/debit buat bayar QRIS:
 
 - Mendukung Visa, Mastercard
 - Harus dilakukan di **Aplikasi GoPay**
 - Kamu sendiri yang scan QRIS dari merchant
-- Saat ini transaksi QRIS pakai kartu dibatasi maksimal **Rp250.000**
-- Kalau merchant yang scan QR Code dari HP kamu, metode kartu ini belum didukung
+- Saat ini nominal transaksi pakai kartu untuk QRIS harus **di bawah Rp250.000**
+- Kalau merchant yang scan QR Code dari HP kamu, cara ini belum didukung
 - Beberapa transaksi mungkin perlu input CVV atau OTP.
 
-Jadi kalau belanja di hotel, SPA, atau restoran dengan nominal besar, **jangan jadikan 'GoPay pake kartu kredit' sebagai satu-satunya cara bayar.**
+Jadi kalau transaksinya lumayan besar kayak hotel, SPA, atau restoran mahal, **jangan jadikan 'GoPay pake kartu kredit' sebagai satu-satunya pilihan pembayaran.**
 
-Yang paling penting disiapkan:
+Paling baik siapkan:
 
 💳 Kartu kredit fisik
 💰 Uang tunai secukupnya
@@ -197,15 +197,15 @@ Kombinasi tiga cara ini.
 
 Kalau kamu tipe yang:
 
-✔️ Terbiasa bayar pakai HP
-✔️ Gak mau bawa segambreng uang tunai tiap hari
-✔️ Sering ke restoran, kafe, SPA
+✔️ Udah biasa pakai pembayaran digital
+✔️ Males bawa tumpukan rupiah tiap hari
+✔️ Sering nongkrong di restoran, kafe, SPA
 ✔️ Hobi surfing, yoga, fitness
 ✔️ Gak mau nyimpen banyak uang tunai di hotel atau loker
 
-GoPay bisa jadi salah satu pilihan alat bayar pas liburan di Bali.
+Maka GoPay bisa jadi salah satu alat pembayaran yang worth it buat liburan di Bali.
 
-Dan GoPay gak cuma buat scan QRIS aja, lho.
+Dan fungsi GoPay bukan cuma buat scan QRIS aja, lho.
 
 [Download iOS](https://apps.apple.com/id/app/gopay-transfer-payment-qris/id6446321594) | [Download Android](https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id)
 
@@ -213,41 +213,41 @@ Dan GoPay gak cuma buat scan QRIS aja, lho.
 
 ### 📱 Cara Daftar GoPay?
 
-Pertama-tama, kamu perlu bikin akun dulu buat pakai GoPay.
+Buat bisa pakai GoPay, kamu harus daftar akun dulu.
 
 Biasanya yang diperlukan:
 
 **Nomor HP + Email**
 
-Setelah selesai daftar, kamu udah bisa mulai pakai fitur-fitur di aplikasinya.
+Setelah daftar, kamu bisa langsung pakai fitur dasar aplikasinya.
 
-Kalau cuma buat bayar doang, beda level verifikasinya sama yang butuh transfer atau tarik tunai.
+Kalau cuma buat bayar-bayar doang, beda sama yang butuh transfer atau tarik tunai — level verifikasinya bisa berbeda.
 
-Buat upgrade ke **GoPay Plus**, GoPay resmi kasih opsi buat warga asing pakai **PASSPORT** sebagai dokumen identitas buat verifikasi upgrade.
+Kalau mau upgrade ke **GoPay Plus**, GoPay resmi kasih opsi buat warga asing pakai **PASSPORT** sebagai dokumen verifikasi.
 
-Jadi, paspor itu penting banget buat turis asing.
+Jadi buat turis asing, paspor itu penting banget.
 
 ***
 
-### 💳 GoPay bisa pakai kartu kredit/debit Taiwan? Ini yang paling ditanyain traveler Taiwan. GoPay sekarang support nambahin kartu kredit/debit di App-nya, secara resmi support: **Visa/Mastercard** Pas nambahin kartu, biasanya perlu input data kartu, dan mungkin perlu verifikasi lewat OTP/3D Secure dari bank penerbit. Setelah terikat, kamu bisa pilih kartu kredit/debit sebagai sumber pembayaran di GoPay App.
+### 💳 GoPay bisa pakai kartu kredit/debit Taiwan? Ini pertanyaan yang paling sering ditanyain traveler Taiwan.
 
-### 🇹🇼 Catatan khusus traveler Taiwan Setiap bank Taiwan dan jenis kartu punya pengaturan transaksi online luar negeri yang beda-beda, jadi: **'Bisa nambahin kartu' sama 'pasti bisa bayar sukses' itu dua hal yang beda.** Sebelum berangkat, saran: pastikan dulu
+Ini pertanyaan yang paling sering ditanyain traveler Taiwan.
 
-GoPay sekarang udah support nambahin kartu kredit/debit di App-nya, menurut penjelasan resmi sih support:
+GoPay sekarang mendukung penambahan kartu kredit/debit di aplikasi. Penjelasan resminya mendukung:
 
-**Visa／Mastercard**
+**Visa / Mastercard**
 
-新增卡片時，通常需要輸入卡片資料，並可能透過發卡銀行的 OTP／3D Secure 完成驗證。
+Saat menambahkan kartu, biasanya perlu input data kartu, dan mungkin harus verifikasi lewat OTP / 3D Secure dari bank penerbit.
 
-Setelah terikat, kamu bisa pilih kartu kredit/debit sebagai sumber pembayaran di aplikasi GoPay.
+Setelah terikat, kamu bisa pilih kartu kredit/debit sebagai sumber pembayaran di GoPay App.
 
-### 🇹🇼 Catatan Khusus untuk Traveler dari Taiwan
+### 🇹🇼 Catatan khusus traveler Taiwan
 
-Setiap bank di Taiwan dan jenis kartu yang berbeda mungkin punya pengaturan transaksi online luar negeri yang beda-beda. Jadi:
+Setiap bank Taiwan dan jenis kartu punya pengaturan transaksi online luar negeri yang beda, jadi:
 
-**'Bisa link kartu' sama 'pasti bisa bayar sukses' itu dua hal yang berbeda.**
+**'Bisa daftarin kartu' dan 'pasti bisa bayar sukses' itu dua hal yang berbeda.**
 
-Sebelum ke luar negeri, saran cek dulu:
+Sebelum berangkat, saran cek dulu:
 
 - Apakah transaksi luar negeri sudah diaktifkan
 - Apakah mendukung transaksi online
@@ -261,7 +261,7 @@ Oh iya, GoPay sekarang ada promo terbatas buat Visa.
 
 ## 🎁 Promo Bebas Biaya Admin Visa × GoPay QRIS 2026
 
-Sekarang ada promo dari Visa dan GoPay:
+Sekarang ada promo dari Visa sama GoPay:
 
 **1 Juli 2026 – 30 September 2026**
 
@@ -269,7 +269,7 @@ Pakai **Visa Credit/Debit Card** yang sudah ditautkan di GoPay App buat bayar QR
 
 Dan ini dihitung **per kartu Visa yang sudah ditautkan**.
 
-Jadi kalau kamu kebetulan ke Bali bulan September 2026, coba deh cek promo ini.
+Jadi kalau kamu kebetulan ke Bali bulan September 2026, bisa cek promo ini.
 
 Tapi ini promo terbatas, **mending langsung cek syarat terbaru di GoPay App sebelum berangkat.**
 
@@ -277,11 +277,11 @@ https://youtube.com/shorts/XDFDubv2X4g
 
 ***
 
-## 📲 Cara bayar QRIS di tempat?
+## 📲 Cara bayar QRIS di toko?
 
-Gampang banget, kok.
+Sebenernya gampang banget.
 
-Pas lihat QRIS: 
+Pas lihat QRIS:
 
 ### Step 1
 
@@ -293,7 +293,7 @@ Pilih QRIS.
 
 ### Langkah 3
 
-Scan QRIS Code dari tokonya.
+Scan QRIS Code dari toko.
 
 ### Langkah 4
 
@@ -313,7 +313,7 @@ Setelah selesai, pembayaran berhasil.
 
 ***
 
-## 💰 Isi Saldo GoPay Cash: Gak Mau Bawa Uang Tunai Terus? Bisa Gini
+## 💰 Isi Saldo GoPay: Gak Mau Bawa Uang Tunai Terus? Bisa Gini
 
 Ini juga fitur GoPay yang paling berguna buat traveler.
 
@@ -325,7 +325,7 @@ Misalnya kamu baru aja nuker uang dalam jumlah besar ke Rupiah:
 ↓
 🍜 Makan, SPA, kopi, belanja — tinggal scan QRIS
 ↓
-💰 Gak perlu bawa uang tunai banyak-banyak setiap hari
+💰 Gak perlu bawa segambreng uang tunai kemana-mana
 
 Cocok banget buat kamu yang suka:
 
@@ -335,36 +335,36 @@ Cocok banget buat kamu yang suka:
 💆‍♀️ SPA
 🏝️ Aktivitas pantai
 
-buat yang bawa uang tunai banyak, ini juga bisa mengurangi kebutuhan nyimpen uang cash di hotel, tas, atau loker.
+buat kamu yang bawa uang tunai, ini juga bisa mengurangi kebutuhan nyimpen duit gede di hotel, tas, atau loker.
 
 ***
 
 ## 🏪 Alfamart, Indomaret Juga Bisa Top Up GoPay
 
-Kalau kamu punya uang tunai Rupiah, bisa juga pakai minimarket buat isi saldo GoPay.
+Kalau kamu pegang uang tunai Rupiah, kamu juga bisa top up GoPay lewat minimarket.
 
-GoPay resmi menyediakan layanan Top Up di beberapa tempat, termasuk:
+GoPay resmi menyediakan layanan top up di:
 
 - Alfamart
 - Indomaret
 
+dan jaringan lainnya.
+
 Cara pakainya biasanya:
 
-**GoPay App → Top Up → Pilih minimarket → Generate barcode/kode → Bayar di kasir**
+**GoPay App → Top Up → Pilih minimarket → Muncul barcode/kode → Bayar ke kasir**
 
-**GoPay App → Top Up → Pilih Minimarket → Dapatkan Barcode/Kode → Bayar di Kasir**
-
-Jumlah minimum dan biaya admin tiap channel bisa beda-beda, jadi pas transaksi lihat aja di aplikasi ya. 
+Besaran minimum dan biaya admin tiap channel bisa beda-beda, jadi pas transaksi patokannya tetap yang tertera di aplikasi ya.
 
 ***
 
-## 💵 GoPay Bisa Tarik Tunai Juga, Lho!
+## 💵 GoPay juga bisa tarik tunai lho!
 
-Kalau kamu beneran butuh uang cash, nggak perlu ambil semua saldo sekaligus.
+Kalau kamu beneran butuh cash, nggak perlu langsung ambil semua saldo.
 
 Pengguna GoPay Plus bisa tarik saldo GoPay lewat beberapa ATM atau minimarket tertentu.
 
-Channel tarik tunai yang resmi dari GoPay antara lain:
+Channel tarik tunai yang resmi didaftarin GoPay antara lain:
 
 - ATM BCA
 - ATM BRI
@@ -381,7 +381,7 @@ dan lainnya.
 
 Jadi bisa pakai cara:
 
-**Ambil sesuai kebutuhan → jangan ambil berlebihan**
+**Butuh berapa → Ambil berapa**
 
 daripada bawa uang cash banyak-banyak setiap hari.
 
@@ -411,26 +411,26 @@ Jadi kalau selama perjalanan kamu bakal sering pakai GoPay atau butuh saldo yang
 
 ***
 
-## 🌏 Cara Bayar di Bali Berdasarkan Negara Asal Wisatawan
+## 🌏 Cara Bayar di Bali Berdasarkan Negara Asal
 
-| Wisatawan | QRIS Cross-Border | Saran Pembayaran |
+| Wisatawan | QRIS Cross-Border | Metode Pembayaran yang Disarankan |
 | --- | --- | --- |
-| 🇸🇬 Singapura | ✅ Didukung | Bank / Aplikasi pembayaran yang berpartisipasi bisa langsung scan QRIS |
-| 🇲🇾 Malaysia | ✅ Didukung | Bank / dompet digital yang mendukung DuitNow QR |
-| 🇹🇭 Thailand | ✅ Didukung | Aplikasi pembayaran yang mendukung PromptPay |
-| 🇯🇵 Jepang | ✅ Didukung | Aplikasi pembayaran yang mendukung QRIS Cross-Border |
-| 🇰🇷 Korea Selatan | ✅ Sudah ada koneksi QR lintas batas | Pakai layanan pembayaran yang berpartisipasi |
-| 🇨🇳 China | ✅ Sudah ada koneksi QR lintas batas | Pakai layanan pembayaran yang berpartisipasi |
-| 🇹🇼 Taiwan | ⚠️ Bukan pasar kerja sama QRIS Cross-Border saat ini | GoPay / Visa / Mastercard + uang tunai / kartu fisik |
-| 🇭🇰 Hong Kong | ⚠️ Bukan pasar kerja sama QRIS Cross-Border saat ini | GoPay / Visa / Mastercard + uang tunai / kartu fisik |
+| 🇸🇬 Singapura | ✅ Didukung | Langsung scan QRIS pakai bank/aplikasi pembayaran yang terdaftar |
+| 🇲🇾 Malaysia | ✅ Didukung | Bank/dompet digital yang support DuitNow QR |
+| 🇹🇭 Thailand | ✅ Didukung | Aplikasi pembayaran yang support PromptPay |
+| 🇯🇵 Jepang | ✅ Didukung | Aplikasi pembayaran yang support QRIS Cross-Border |
+| 🇰🇷 Korea Selatan | ✅ Sudah terhubung pembayaran QR lintas batas | Pakai layanan pembayaran yang terdaftar |
+| 🇨🇳 China | ✅ Sudah terhubung pembayaran QR lintas batas | Pakai layanan pembayaran yang terdaftar |
+| 🇹🇼 Taiwan | ⚠️ Bukan pasar kerja sama QRIS Cross-Border saat ini | GoPay/Visa/Mastercard + uang tunai/kartu fisik |
+| 🇭🇰 Hong Kong | ⚠️ Bukan pasar kerja sama QRIS Cross-Border saat ini | GoPay/Visa/Mastercard + uang tunai/kartu fisik |
 
-QRIS Cross-Border dari Bank Indonesia terus memperluas pasar kerja sama, jadi negara yang didukung dan aplikasi pembayaran yang berpartisipasi bisa berubah sewaktu-waktu.
+QRIS Cross-Border dari Bank Indonesia terus memperluas pasar kerja sama, jadi negara yang didukung dan aplikasi pembayaran yang terdaftar bisa berubah sewaktu-waktu.
 
 ***
 
-## ⚠️ Liburan ke Bali, Jangan Andalkan QRIS untuk Semua Pembayaran
+## ⚠️ Liburan ke Bali, Jangan Andalkan QRIS Buat Semua Pembayaran
 
-Meskipun QRIS makin populer, pas liburan ke Bali, aku tetap nggak saranin kamu 'bawa uang tunai sama sekali'.
+Meskipun QRIS makin populer, kalau liburan ke Bali, aku tetap nggak saranin kamu 'bawa uang tunai sama sekali'.
 
 Alasannya simpel:
 
@@ -441,11 +441,11 @@ Beberapa tempat mungkin:
 ❌ Jaringan jelek
 ❌ Cuma terima cash
 ❌ Cuma terima kartu kredit fisik
-❌ Nominal QRIS melebihi limit alat bayar kamu saat ini
+❌ Limit QRIS melebihi batas alat bayar kamu sekarang
 
 Apalagi di pedagang kecil, daerah pelosok, pasar tradisional, atau acara spesial — cash masih jadi raja.
 
-Jadi cara paling ideal adalah:
+Jadi cara paling oke adalah:
 
 ### 📱 Pembayaran Digital
 
@@ -457,11 +457,11 @@ Hotel, mal, restoran besar, dll.
 
 ### 💵 Uang Tunai
 
-Tips, pedagang kecil, pasar tradisional, transportasi, dan saat pembayaran digital gak bisa dipakai.
+Tips, pedagang kecil, pasar tradisional, transportasi, dan saat pembayaran digital gak bisa dipake.
 
 ***
 
-## 🇮🇩 Liburan Cashless ke Bali, Begini Persiapan Paling Praktis
+## 🇮🇩 旅行 Bali  tanpa uang tunai, begini persiapannya paling praktis
 
 Kalau kamu pertama kali ke Bali, cukup ingat ini aja:
 
@@ -481,52 +481,52 @@ Kalau kamu pertama kali ke Bali, cukup ingat ini aja:
 
 ↓
 
-**⑤  Pas sampai di Bali lihat QRIS, langsung bisa scan pakai cara bayar kamu sendiri**
+**⑤  Pas sampai Bali lihat QRIS, langsung bisa scan sesuai cara bayar kamu**
 
 ↓
 
-**⑥  Masih bawa sedikit uang tunai Rupiah**
+**⑥  Tetap bawa sedikit uang tunai Rupiah**
 
-Gini aja, nggak perlu bawa segambreng uang cash tiap hari jalan-jalan.
+Jadi nggak perlu bawa segambreng uang cash tiap hari jalan-jalan.
 
 {{block:住宿}}
 
 ***
 
-## 💚 Kesimpulan: Ke Bali, cash tetap wajib bawa, tapi nggak perlu bawa segambreng
+## 💚 Kesimpulan: Ke Bali, cash tetap perlu, tapi nggak perlu bawa setumpuk
 
 Cara bayar di Bali lagi berubah cepat banget.
 
-Dulu pas ke Bali, hal pertama yang biasanya dilakukan orang:
+Dulu pas ke Bali, hal pertama yang biasanya dilakukan orang adalah:
 
 **"Ke mana ya tukar Rupiah?"**
 
 Sekarang jadi:
 
-**
+**「Toko ini bisa pakai kartu kredit nggak? Bisa QRIS juga?」**
 
-Apalagi sekarang QRIS udah jadi standar pembayaran elektronik yang super populer di Indonesia, ditambah QRIS Cross-Border yang terus meluas, turis dari Singapura, Malaysia, bahkan bisa langsung scan QR pakai aplikasi pembayaran lokal mereka.
+Apalagi sekarang QRIS udah jadi standar pembayaran elektronik yang super populer di Indonesia, ditambah QRIS Cross-Border yang terus meluas, turis dari Singapura, Malaysia, dan negara lain bahkan bisa langsung scan QR pakai aplikasi pembayaran lokal mereka.
 
-Buat traveler dari Taiwan dan Hong Kong, bisa pertimbangkan pakai **GoPay + Visa/Mastercard**, tapi harus perhatiin banget soal batasan transaksi dan aturan biaya tambahannya.
+Buat traveler dari Taiwan dan Hong Kong, bisa banget pertimbangkan pakai **GoPay + Visa/Mastercard**. Tapi hati-hati ya, ada batasan transaksi dan aturan biaya tambahan yang perlu diperhatikan.
 
-Jadi strategi pembayaran paling praktis di Bali sebenarnya bukan 'bawa uang tunai sama sekali', melainkan:
+Jadi strategi pembayaran paling praktis di Bali sebenarnya bukan 'tidak bawa uang tunai sama sekali', melainkan:
 
 **💳 Kartu Kredit + 📱 Pembayaran Digital + 💵 Uang Tunai Secukupnya**
 
 Tiga cara untuk dipadukan.
 
-Dengan begini kalau nemu tulisan 'Cashless Only' nggak perlu panik, ketemu toko yang cuma terima cash juga nggak bakal canggung.
+Dengan begini, kalau nemu tulisan 'Cashless Only' nggak perlu panik, dan kalau ketemu toko yang cuma terima uang tunai juga nggak bakal canggung.
 
 ***
 
-## 📌 Tips Singkat
+## 📌 小提醒
 
-Limit saldo GoPay, aturan pembayaran pakai kartu QRIS, biaya admin, layanan di minimarket, dan promo-promonya bisa berubah sewaktu-waktu.
+GoPay 的帳戶額度、QRIS 卡片支付規則、手續費、便利商店服務及優惠活動都可能調整。
 
 **Sebelum berangkat, pastikan cek info terbaru di GoPay App, pengumuman resmi GoPay, dan ketentuan terbaru dari bank penerbit kartu kamu.**
 
-Apalagi promo Visa × GoPay yang kasih **10 transaksi gratis Admin Fee per kartu per bulan** ini cuma berlaku sampai **30 September 2026**.
+Apalagi promo Visa × GoPay yang kasih **10 transaksi gratis Admin Fee per kartu per bulan** — ini cuma berlaku sampai **30 September 2026** aja, guys.
 
-Mau info lengkap soal panduan liburan ke Bali, akomodasi, transportasi, tempat wisata, dan update terbaru? Pantengin terus **panduan wisata Bali gobaligo.id**.
+Mau info lengkap soal panduan liburan ke Bali, akomodasi, transportasi, tempat wisata, dan update terbaru? Pantengin terus **bali travel guide di gobaligo.id**.
 
 {{block:klook}}

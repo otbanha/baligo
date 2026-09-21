@@ -21,18 +21,18 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/680323c9fd89780001988a20'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-09-20T00:00:00.000Z
+updatedDate: 2026-09-21T00:00:00.000Z
 lang: zh-cn
-_srcHash: 001a5ad558b8b4a94993627ec805998c
+_srcHash: 6bc0b396cdca5eb6b43445536d48ff55
 ---
 
-**先讲结论**：想体验电影《Eat Pray Love》般的巴厘岛灵性之旅，可安排两大重点行程——**乌布的巫医（Balian）净化仪式**（通过在地向导/司机引荐，非观光化的传统院落）与**Tirta Empul 圣泉寺 Melukat 净化仪式**（建议避开人潮时段前往，体验比电影拍摄现场更真实的洗礼）。重点在于选对非商业化的在地引路人，而非单纯跟团拍照。
+**先说结论**：想体验电影《Eat Pray Love》般的巴厘岛灵性之旅，可安排两大重点行程——**乌布的巫医（Balian）净化仪式**（通过在地向导/司机引荐，非观光化的传统院落）与**Tirta Empul 圣泉寺 Melukat 净化仪式**（建议避开人潮时段前往，体验比电影拍摄现场更真实的洗礼）。重点在于选对非商业化的在地引路人，而非单纯跟团拍照。
 
 清晨五点半，我在乌布民宿的阳台上反复翻阅着《Eat Pray Love》的巴厘岛章节。书页边缘已经被我摩挲得微微卷起，就像我此刻忐忑的心情。今天，我终于要踏上和女主角Liz（朱莉娅·罗伯茨饰演）类似的灵性探寻之旅，只是这一次，镜头外的女主角换成了我自己。
 
 ![Eat Pray Love（中文翻譯：享受吧！一個人的旅行）電影截圖](https://images.gobaligo.id/vocus/vocus_c1abde486385c8236e772cdab83ca302.jpg)
 
-Eat Pray Love（中文翻译：享受吧！一个人的旅行）电影截图
+Eat Pray Love（中文翻译：美食、祈祷和恋爱）电影截图
 
 Ketut Udi开着他的银灰色休旅车准时出现。他递给我一杯冒着热气的姜茶，笑着说："今天我们不去观光景点，我们要去见我的老师。"这句话立刻让我联想到电影中Liz与老巫医Ketut Liyer的初次相遇。不同的是，我手中的不是剧本，而是真实的人生。
 
@@ -82,4 +82,4 @@ https://www.instagram.com/reel/DcbFKKJRvvR/?utm_source=ig_web_copy_link&stkn=NTc
 
 **📌**参加我的行程：[Private Spiritual Healing Day Trip in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033788&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F43536-private-spiritual-healing-day-trip-bali%2F%3Fspm%3DTicketList.OrderDetails.Activity%26clickId%3D91c1b40633)
 
-##
+{{block:靈療}}
