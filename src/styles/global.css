@@ -278,8 +278,7 @@ h5 { font-size: 1em; }
   color: #7c2d12;
 }
 
-/* Klook / KKday 專屬：淡黃色按鈕 */
-.prose a[href*="klook.com"],
+/* KKday 專屬：淡黃色按鈕（Klook 改用第一層一般連結樣式） */
 .prose a[href*="kkday.com"] {
   display: inline-block;
   padding: 4px 12px;
@@ -293,7 +292,6 @@ h5 { font-size: 1em; }
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
 }
-.prose a[href*="klook.com"]:hover,
 .prose a[href*="kkday.com"]:hover {
   background-color: #fef08a;
   color: #713f12;
@@ -301,7 +299,6 @@ h5 { font-size: 1em; }
   transform: translateY(-1px);
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
 }
-.prose a[href*="klook.com"]:visited,
 .prose a[href*="kkday.com"]:visited {
   background-color: #fdf6b2;
   color: #a16207;
@@ -317,7 +314,6 @@ h5 { font-size: 1em; }
   .prose a[href*="trip.com"],
   .prose a[href*="booking.com"],
   .prose a[href*="booking.tpm.li"],
-  .prose a[href*="klook.com"],
   .prose a[href*="kkday.com"] {
     display: inline-flex;
     align-items: center;
