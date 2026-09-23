@@ -1,27 +1,32 @@
 ---
-slug: cretya-sunset-ubud-paradise
 title: 【乌布美食+美景】Cretya Sunset，巴厘岛乌布秘境：最梦幻的日落天堂
+slug: cretya-sunset-ubud-paradise
 description: >-
-  在饱览德格拉朗梯田美景的 Cretya Ubud 大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas
+  在饱览德格拉朗梯田美景的 Cretya Ubub 大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas
   Harum, Ubud。这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地
-pubDate: '2025-01-29'
-updatedDate: 2026-07-10T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_ec754ce91cf35c0a79ad307a1a0c4f3f.jpg'
+pubDate: 2025-01-29T00:00:00.000Z
+pubHour: null
+category:
+  - 美食景點活動
 tags:
   - 峇里島
   - 巴里島
   - 烏布
   - cretya
   - cretyaubud
+heroImage: 'https://images.gobaligo.id/vocus/vocus_ec754ce91cf35c0a79ad307a1a0c4f3f.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/6799a185fd89780001c87e06'
-category:
-  - 美食景點活動
+source: ''
+sourceUrl: ''
+updatedDate: 2026-09-23T00:00:00.000Z
 lang: zh-cn
-_srcHash: e7a990f947bf3931efc066c4e15063a3
+_srcHash: c9dce3e62f914633a5957c71ecc2d8e8
 ---
-**先说结论**：Cretya Sunset by Alas Harum 是 Alas Harum 集团继 Cretya Ubud 泳池俱乐部后的新力作，坐落于乌布稻田间，**面向西边**因此傍晚是欣赏乌布日落的绝佳地点，设有无边泳池与现场 DJ 音乐，适合安排下午到日落的放松行程。
 
-**在饱览德格拉朗梯田美景的** [**Cretya Ubud**](/zh-cn/blog/cretya-ubud-alas-harum-budget-guide/) **大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。** 这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地。
+**先讲结论**：Cretya Sunset by Alas Harum 是 Alas Harum 集团继 Cretya Ubud 泳池俱乐部后的新力作，坐落于乌布稻田间，**面向西边**因此傍晚是欣赏乌布日落的绝佳地点，设有无边泳池与现场 DJ 音乐，适合安排下午到日落的放松行程。
+
+**在饱览德格拉朗梯田美景的** [**Cretya Ubub**](/zh-cn/blog/cretya-ubud-alas-harum-budget-guide/) **大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。** 这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地。
 
 ![【烏布美食+美景】Cretya Sunset，峇里島烏布秘境：最夢幻的日落天堂](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 
@@ -41,7 +46,7 @@ Cretya Sunset 坐落于巴厘岛乌布郁郁葱葱的稻田之中，结合了奢
 
 Cretya Sunset ▶[Klook优惠券 Rp.62,500](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
----
+***
 
 ## **美食与饮品：一场味蕾的盛宴**
 
@@ -67,9 +72,7 @@ Cretya Sunset 的菜单精心设计，融合了国际美食与巴厘岛当地风
 - **新鲜沙拉**：可根据喜好搭配多种蔬菜与植物性酱料。
 - **水果拼盘与果昔碗**：健康又美味，适合早餐或轻食。
 
-Cretya Sunset ▶[Klook优惠券 Rp.62,500](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
-
----
+Cretya Sunset ▶[Klook优惠券 Rp.127,500](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
 ## **营业时间与地点**
 
@@ -81,7 +84,7 @@ Cretya Sunset 的营业时间为每日早上8:00至晚上9:00，无论您是想�
 
 距离乌布市中心仅需短暂车程，是逃离喧嚣、享受自然的绝佳去处。
 
----
+***
 
 ## **Cretya Sunset 的独特魅力**
 
@@ -99,7 +102,7 @@ Cretya Sunset 提供多种风格的别墅，每间都配备私人泳池与开放
 
 ### **3. 健康与放松**
 
-Cretya 的 wellness 中心提供多种舒缓身心的服务，包括水疗、瑜伽与冥想课程，让您在宁静的环境中找回内心的平静。
+Cretya 的健康中心提供多种舒缓身心的服务，包括水疗、瑜伽与冥想课程，让您在宁静的环境中找回内心的平静。
 
 ### **4. 冒险活动**
 
@@ -111,7 +114,7 @@ Cretya 还提供多种文化活动，如传统巴厘岛烹饪课程、艺术工�
 
 ![5. 文化體驗](https://images.gobaligo.id/vocus/vocus_684bf5fc76c52a56cb3154d1d7ebe3a3.jpg)
 
----
+***
 
 ## **总结：乌布的隐世天堂**
 
@@ -119,7 +122,7 @@ Cretya Sunset by Alas Harum, Ubud 是一个结合了奢华、自然与文化的�
 
 🏊‍♀️🍹🌅 **Cretya Sunset Day Club** 享受无边泳池与壮丽夕阳景观 🌿🏞️，**记得在** [**Klook 订票**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)**，获得最佳优惠！**
 
----
+***
 
 ## 更多乌布吃喝玩乐介绍
 

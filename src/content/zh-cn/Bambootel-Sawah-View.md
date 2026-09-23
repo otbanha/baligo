@@ -5,6 +5,7 @@ description: >-
   Bambootel Sawah View 坐落于 Tampaksiring，全竹建筑搭配稻田第一排景观，Google、Tripadvisor
   评分双双达到4.9，成人专属设计提供极致私密感。附私人泳池别墅、精致早餐与高评价餐厅，是巴厘岛蜜月与情侣旅游的梦幻首选。
 pubDate: 2026-08-06T00:00:00.000Z
+updatedDate: 2026-09-23T00:00:00.000Z
 pubHour: 22
 category:
   - 住宿推薦
@@ -29,14 +30,13 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-08/1786028793925-index.jpg'
 imageAlt: ''
 originalUrl: ''
-newsCategory: ''
 source: ''
 sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 4ed725f1e4d4b18e922cd7a21c178975
+_srcHash: 5ae18136bded4a9bf7e169b39b0bd80f
 ---
 
 ### 成人专属竹建筑稻田奢华秘境 - Bambootel Sawah View
@@ -49,9 +49,9 @@ _srcHash: 4ed725f1e4d4b18e922cd7a21c178975
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1786028968964-l0222212000q7gl8rrfc56_w_1280_853_r5.webp)
 
-Bambootel Sawah View 虽然常被订房平台归类为「乌布酒店」，实际位置是在 **Tampaksiring**，距乌布市中心约11公里、车程约30至40分钟。圣泉庙 Tirta Empul 与 Gunung Kawi 石窟庙均在车程10分钟内，是探索乌布以北灵性景点的理想基地。
+Bambootel Sawah View 虽然常被订房平台归类为「乌布饭店」，实际位置是在 **Tampaksiring**，距乌布市中心约11公里、车程约30至40分钟。圣泉庙 Tirta Empul 与 Gunung Kawi 石窟庙均在车程10分钟内，是探索乌布以北灵性景点的理想基地。
 
-要说清楚的是：这里不适合每天早晚进出乌布市场或市中心餐厅的旅客。它更适合「住进酒店放空两三天」的节奏，把度假村本身当作目的地，而不只是睡觉的地方。
+要说清楚的是：这里不适合每天早晚进出乌布市场或市中心餐厅的旅客。它更适合「住进饭店放空两三天」的节奏，把度假村本身当作目的地，而不只是睡觉的地方。
 
 ***
 
@@ -125,6 +125,8 @@ Bambootel Sawah View 虽然常被订房平台归类为「乌布酒店」，实�
 
 ## 💬 住客评论
 
+https://www.instagram.com/reel/DdmB0B9T7ki/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
+
 "工作人员会记得我的名字，管家主动询问每一个需求，从清晨早餐盒到临时延长住宿都帮我安排好了，这是我住过服务最细心的酒店。"（来源：Booking.com）
 
 "竹建筑和稻田景观比照片还要美，坐在私人泳池边发呆，一整天就这样过去了，完全不想出门。"（来源：Tripadvisor）
@@ -143,10 +145,11 @@ Booking.com：9.7／10
 Agoda：9.5／10
 位置：Tampaksiring, Gianyar, Bali
 成人专属（Adults Only）
+
 > 订房链接：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42041091) | [Trip](https://hk.trip.com/hotels/bali-hotel-detail-110766008/bambootel-sawah-view-adults-only/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D19108490) | [Booking](https://booking.tpm.li/m6FVQ9HL)
 
 ![](https://images.gobaligo.id/vocus/vocus_1001bd26958ac1c26775c36f63cab0e5.jpg)
 
-> [另外](https://gobaligo.id/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)[10家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](https://gobaligo.id/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+[另外](https://gobaligo.id/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)[10家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](https://gobaligo.id/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
 
 {{block:ubud}}
