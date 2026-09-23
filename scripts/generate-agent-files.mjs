@@ -66,7 +66,7 @@ function buildLlmsTxt(articles) {
   lines.push('# Go Bali Go 峇里島旅遊攻略');
   lines.push('');
   lines.push(
-    '> 由長住峇里島的站長「小傑爸」（YouTube 頻道「小傑印尼」）維護的峇里島旅遊內容站，' +
+    '> 由「Gobaligo編輯部」（YouTube 頻道「小傑印尼」背後的內容團隊）維護的峇里島旅遊內容站，' +
     `${articles.length} 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。` +
     '主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。'
   );

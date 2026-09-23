@@ -21,7 +21,7 @@
 import { readFileSync, existsSync } from 'fs';
 import { enhancedTitle, enhancedDescription, applyHkSubs } from '../utils/seo-keywords';
 import { getMapSlugByBlogUrl } from '../data/mapBlogMapping';
-import { AUTHOR_PERSON } from '../data/author';
+import { AUTHOR_ORG } from '../data/author';
 
 interface Props {
   title: string;
@@ -181,7 +181,7 @@ const schemaArticle = {
   "datePublished": pubIso,
   "dateModified": modIso,
   "inLanguage": lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : 'zh-TW',
-  "author": AUTHOR_PERSON,
+  "author": AUTHOR_ORG,
   "publisher": {
     "@type": "Organization",
     "name": "Go Bali Go 峇里島旅遊攻略",

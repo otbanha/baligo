@@ -8,22 +8,21 @@ import { AUTHOR } from '../data/author';
 const lang = 'zh-tw';
 const basePath = 'about';
 
-const title = '關於小傑爸｜Go Bali Go 站長・峇里島旅遊部落客';
-const description = '認識 Go Bali Go 站長「小傑爸」：經營「小傑印尼」YouTube 頻道，長期分享峇里島住宿、簽證、交通與景點的第一手攻略，幫你訂房不踩雷、自由行不走冤枉路。';
+const title = '關於Gobaligo編輯部｜Go Bali Go 峇里島旅遊攻略團隊';
+const description = '認識 Go Bali Go 背後的「Gobaligo編輯部」：經營「小傑印尼」YouTube 頻道的內容團隊，長期分享峇里島住宿、簽證、交通與景點的第一手攻略，幫你訂房不踩雷、自由行不走冤枉路。';
 
-// ProfilePage + Person（@id 與文章 author 一致，做跨頁實體整合，補強 E-E-A-T）
+// AboutPage + Organization（@id 與文章 author 一致，做跨頁實體整合，補強 E-E-A-T）
 const profileSchema = {
   '@context': 'https://schema.org',
-  '@type': 'ProfilePage',
+  '@type': 'AboutPage',
   mainEntity: {
-    '@type': 'Person',
+    '@type': 'Organization',
     '@id': AUTHOR.id,
     name: AUTHOR.name,
     url: AUTHOR.url,
-    jobTitle: AUTHOR.jobTitle,
     description: AUTHOR.description,
     sameAs: AUTHOR.sameAs,
-    worksFor: {
+    parentOrganization: {
       '@type': 'Organization',
       name: 'Go Bali Go 峇里島旅遊攻略',
       url: 'https://gobaligo.id',
@@ -40,7 +39,7 @@ const breadcrumbSchema = {
   '@type': 'BreadcrumbList',
   itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Go Bali Go', item: 'https://gobaligo.id' },
-    { '@type': 'ListItem', position: 2, name: '關於小傑爸', item: AUTHOR.url },
+    { '@type': 'ListItem', position: 2, name: '關於Gobaligo編輯部', item: AUTHOR.url },
   ],
 };
 ---
@@ -61,14 +60,14 @@ const breadcrumbSchema = {
       <header class="about-hero">
         <span class="about-avatar" aria-hidden="true">小</span>
         <div>
-          <h1>關於小傑爸</h1>
-          <p class="about-role">Go Bali Go 站長・「小傑印尼」YouTuber・峇里島旅遊部落客</p>
+          <h1>關於Gobaligo編輯部</h1>
+          <p class="about-role">Go Bali Go・「小傑印尼」YouTube 頻道背後的內容團隊</p>
         </div>
       </header>
 
       <p>
-        嗨，我是<strong>小傑爸</strong>，<a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener">「小傑印尼」YouTube 頻道</a>
-        與 <strong>Go Bali Go 峇里島旅遊攻略</strong>網站的經營者。因為愛上峇里島，我把這幾年蒐集、整理與實際查證的資訊，
+        嗨，我們是<strong>Gobaligo編輯部</strong>，<a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener">「小傑印尼」YouTube 頻道</a>
+        與 <strong>Go Bali Go 峇里島旅遊攻略</strong>網站背後的內容團隊。因為愛上峇里島，我們把這幾年蒐集、整理與實際查證的資訊，
         做成一個持續更新的中文攻略站，希望幫每一位第一次去峇里島的旅人少走冤枉路。
       </p>
 
@@ -84,7 +83,7 @@ const breadcrumbSchema = {
         <li>📍 <strong>分區實查</strong>：水明漾、烏布、長谷、烏魯瓦圖、努沙杜瓦等各區的定位、交通與適合的旅人類型，都以在地角度整理比較。</li>
         <li>🏨 <strong>真實評價交叉比對</strong>：飯店與 Villa 推薦會參考 Agoda／Booking 的實際評分與房型資訊，不是隨機湊數。</li>
         <li>🔄 <strong>持續更新</strong>：印尼簽證、eVOA、Airbnb 取締等會變動的規定，一有變化就更新，避免害你在現場踩雷。</li>
-        <li>🎥 <strong>公開露出</strong>：我同時在 YouTube 與 Facebook 分享峇里島內容，歡迎交叉查證、留言指正。</li>
+        <li>🎥 <strong>公開露出</strong>：我們同時在 YouTube 與 Facebook 分享峇里島內容，歡迎交叉查證、留言指正。</li>
       </ul>
 
       <h2>從這裡開始逛</h2>
@@ -95,7 +94,7 @@ const breadcrumbSchema = {
         <li><a href="/bali-budget-calculator/">💰 峇里島預算計算機</a></li>
       </ul>
 
-      <h2>找我 / 追蹤</h2>
+      <h2>找我們 / 追蹤</h2>
       <div class="about-social">
         <a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener" class="about-social-btn yt">▶ YouTube「小傑印尼」</a>
         <a href="https://www.facebook.com/bali.guide.blog" target="_blank" rel="noopener" class="about-social-btn fb">f Facebook 峇里島旅遊攻略</a>
