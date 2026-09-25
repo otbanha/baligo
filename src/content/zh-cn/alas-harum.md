@@ -56,9 +56,9 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-09-23T00:00:00.000Z
+updatedDate: 2026-09-25T00:00:00.000Z
 lang: zh-cn
-_srcHash: 0331d2bb7b876e8698594f182c77ec22
+_srcHash: 147a81bdd3ca79bad99b4e6e5635062c
 ---
 
 # 巴厘岛乌布 Alas Harum 集团完整攻略：秋千梯田、无边泳池、日落 Jacuzzi 一次搞懂
@@ -122,7 +122,7 @@ https://www.instagram.com/reel/C0LnNfZvO3K/?utm_source=ig_web_button_share_sheet
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1790146832967-mixcollage-23-sep-2026-02-00-pm-1125.jpg)
 
-这些是免费的拍照点，园区内还有**舞蹈桥**等创意造景，ins风格的鸟巢座位和透明玻璃平台，搭配背后整片梯田，是园区内最容易出片的位置。
+这些是免费的拍照点，园区内还有**舞蹈桥**等创意造景，ins 风格的鸟巢座位和透明玻璃平台，搭配背后整片梯田，是园区内最容易出片的位置。
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1790146997172-alas-harum-1.webp)
 
@@ -136,6 +136,8 @@ https://www.instagram.com/reel/C0LnNfZvO3K/?utm_source=ig_web_button_share_sheet
 
 **猫屎咖啡体验（Luwak Coffee）**
 园区内的咖啡农庄提供免费导览，可以近距离看到麝香猫（Luwak），了解猫屎咖啡从咖啡果实、麝香猫消化、到烘焙的完整制作过程，并免费试饮多款咖啡和茶。猫屎咖啡本身需额外付费品尝。
+
+https://www.instagram.com/reel/DdGaKUtTKM7/
 
 ## 二、Klook 预订攻略：套餐选择与价格
 
@@ -179,15 +181,15 @@ https://www.instagram.com/reel/C0LnNfZvO3K/?utm_source=ig_web_button_share_sheet
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1790148033302-42b633796010b0561dbcc5f362528b3b.jpg)
 
-**Cretya Ubud** 位于 Alas Harum 园区内，是园区的**三层无边泳池**区域，直接俯瞰德哥拉朗梯田。它的定位是「日间俱乐部」（Day Club），氛围从早上的宁静拍照模式，到下午转为有 DJ 的泳池派对感。开放时间为每日 **07:00–21:00**。
+**Cretya Ubud** 位于 Alas Harum 园区内，是园区的**三层无边际泳池**区域，直接俯瞰德哥拉朗梯田。它的定位是「日间俱乐部」（Day Club），氛围从早上的宁静拍照模式，到下午转为有 DJ 的泳池派对感。开放时间为每日 **07:00–21:00**。
 
 ### 消费方式
 
-Cretya Ubud 的入场采用 **「首杯饮料费」制**：每人约 **220,000 印尼盾**，包含入场费，且这笔金额可以兑换一杯饮品。泳池区**限 18 岁以上成人**进入。日光床（Daybed）和吊床有最低消费限制，约 **2,000,000–3,500,000 印尼盾**起，金额全额可抵扣餐饮消费。
+Cretya Ubud 的入场采用 **「首杯饮料费」制**：每人约 **220,000 印尼盾**，包含入场费，且这笔金额可以兑换一杯饮品。泳池区**限 18 岁以上成人**进入。日光床（Daybed）和吊床有最低消费限制，约 **2,000,000–3,500,000 印尼盾**起，金额全额可折抵餐饮消费。
 
 ### 真实评价
 
-好评集中在梯田景观、浮动早餐的拍照效果，以及「拍照角度多到手机内存快爆炸」。Reddit 社群的主流建议是：**如果只是想去拍照，早上前往即可，不必预订日光床**；但若想待上好几个小时，预订日光床会舒适很多。差评则主要指向价格偏高、观光客味重，以及「餐点不如景色令人惊艳」。
+好评集中在梯田景观、浮动早餐的拍照效果，以及「拍照角度多到手机内存快爆炸」。Reddit 社群的主流建议是：**如果只是想去拍照，早上前往即可，不必预订日光床**；但若想待上好几个小时，预订日光床会舒适很多。负评则主要指向价格偏高、观光客味重，以及「餐点不如景色令人惊艳」。
 
 > [Cretya Ubud、巴杜尔火山吉普车日出和瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1446176&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc232fb20aa)
 
@@ -210,7 +212,7 @@ Cretya Ubud 的入场采用 **「首杯饮料费」制**：每人约 **220,000 �
 | Karana Lounge | IDR 3,000,000 | 最多 15 人共享 |
 | 私人 Jacuzzi Tower | IDR 10,000,000 | 最多 15 人，含私人区域与 Sangria |
 
-所有最低消费金额**全额可抵扣餐饮消费**。若不预订座位，可购买 **Sunset Day Pass**（IDR 127,500/人），包含一瓶啤酒/毛巾，但**不含座位**，座位先到先得。。
+所有最低消费金额**全额可抵扣餐饮消费**。若不预订座位，可购买 **Sunset Day Pass**（IDR 127,500/人），包含一瓶啤酒/毛巾，但**不含座位**，座位先到先得。
 
 **注意**：泳池区可携带儿童（需成人陪同），但 **Jacuzzi 区域仅限成人**。
 
@@ -273,12 +275,12 @@ Cretya Ubud 的入场采用 **「首杯饮料费」制**：每人约 **220,000 �
 
 - 「建议早上参观，那时人会比较少。请注意，这里有很多台阶，有些区域可能相当陡峭」
 - 「价格还不含税」
-- 「在Klook上购买入场加秋千套票比现场便宜」
+- 「在 Klook 上购买入场加秋千套票比现场便宜」
 
 ## 八、一句话总结
 
-Alas Harum集团把乌布梯田的「好看」和「好玩」做到了极致——Alas Harum主园区负责肾上腺素和打卡，Cretya Ubud负责泳池派对和浮动早餐，Cretya Sunset负责日落和Jacuzzi的浪漫，Cretya Lite和Alasan Adventures则分别满足了餐饮多样性和冒险体验的需求。**记得通过Klook预订套票，比现场购买更划算**，选对时间和场所，就能把乌布梯田的白天到日落一次玩透。
+Alas Harum 集团把乌布梯田的「好看」和「好玩」做到了极致——Alas Harum 主园区负责肾上腺素和打卡，Cretya Ubud 负责泳池派对和浮动早餐，Cretya Sunset 负责日落和 Jacuzzi 的浪漫，Cretya Lite 和 Alasan Adventures 则分别满足了餐饮多样性和冒险体验的需求。**记得通过 Klook 预订套票，比现场购买更划算**，选对时间和场所，就能把乌布梯田的白天到日落一次玩透。
 
-> 订购Alas Harum门票: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1446176&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.MoreCurrency_LIST%26clickId%3D6d18f4fb4c) | [Trip](https://hk.trip.com/travel-guide/attraction/bali/alas-harum-bali-136165081/?locale=zh-HK&curr=TWD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D19946544)
+> 订购 Alas Harum 门票: [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1446176&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.MoreCurrency_LIST%26clickId%3D6d18f4fb4c) | [Trip](https://hk.trip.com/travel-guide/attraction/bali/alas-harum-bali-136165081/?locale=zh-HK&curr=TWD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D19946544)
 
 {{block:ubud}}
