@@ -1,0 +1,337 @@
+---
+// 首頁「最新文章」輪播燈箱（取代原本的「峇里島旅遊一站通」區塊）
+// 呼叫端負責排除新聞存檔、排序與取前 N 篇；這裡只負責呈現與輪播。
+export interface CarouselPost {
+  slug: string;
+  title: string;
+  heroImage: string;
+  category?: string;
+  date?: string;
+}
+
+interface Props {
+  posts: CarouselPost[];
+  blogBase: string;
+  heading?: string;
+  prevLabel?: string;
+  nextLabel?: string;
+  interval?: number;
+}
+
+const {
+  posts,
+  blogBase,
+  heading = '最新文章',
+  prevLabel = '上一則',
+  nextLabel = '下一則',
+  interval = 5000,
+} = Astro.props;
+---
+
+{posts.length > 0 && (
+  <section class="lpc" aria-roledescription="carousel" aria-label={heading} data-interval={interval}>
+    <div class="lpc-viewport">
+      <div class="lpc-track" tabindex="0">
+        {posts.map((p, i) => (
+          <a
+            href={`${blogBase}/${p.slug}/`}
+            class="lpc-slide"
+            aria-roledescription="slide"
+            aria-label={`${i + 1} / ${posts.length}`}
+          >
+            <img
+              src={p.heroImage}
+              alt=""
+              loading={i === 0 ? 'eager' : 'lazy'}
+              fetchpriority={i === 0 ? 'high' : 'auto'}
+              decoding="async"
+            />
+            <div class="lpc-caption">
+              {(p.category || p.date) && (
+                <div class="lpc-meta">
+                  {p.category && <span class="lpc-cat">{p.category}</span>}
+                  {p.date && <time class="lpc-date" datetime={p.date}>{p.date}</time>}
+                </div>
+              )}
+              <h2 class="lpc-title">{p.title}</h2>
+            </div>
+          </a>
+        ))}
+      </div>
+      {posts.length > 1 && (
+        <>
+          <button type="button" class="lpc-arrow lpc-prev" aria-label={prevLabel}>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" /></svg>
+          </button>
+          <button type="button" class="lpc-arrow lpc-next" aria-label={nextLabel}>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" /></svg>
+          </button>
+        </>
+      )}
+    </div>
+    {posts.length > 1 && (
+      <div class="lpc-dots">
+        {posts.map((_, i) => (
+          <button
+            type="button"
+            class={`lpc-dot${i === 0 ? ' is-active' : ''}`}
+            aria-label={`${i + 1} / ${posts.length}`}
+            aria-current={i === 0 ? 'true' : undefined}
+          ></button>
+        ))}
+      </div>
+    )}
+  </section>
+)}
+
+<script>
+  function initCarousel(root: HTMLElement) {
+    const track = root.querySelector<HTMLElement>('.lpc-track');
+    if (!track) return;
+    const slides = Array.from(track.querySelectorAll<HTMLElement>('.lpc-slide'));
+    const dots = Array.from(root.querySelectorAll<HTMLButtonElement>('.lpc-dot'));
+    if (slides.length < 2) return;
+
+    const interval = Number(root.dataset.interval) || 5000;
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let current = 0;
+    let timer: number | undefined;
+    let paused = false;
+
+    const goTo = (i: number) => {
+      const n = (i + slides.length) % slides.length;
+      setActive(n);
+      track.scrollTo({ left: n * track.clientWidth, behavior: reduceMotion ? 'auto' : 'smooth' });
+    };
+
+    const setActive = (n: number) => {
+      if (n === current) return;
+      current = n;
+      dots.forEach((d, i) => {
+        d.classList.toggle('is-active', i === n);
+        if (i === n) d.setAttribute('aria-current', 'true');
+        else d.removeAttribute('aria-current');
+      });
+    };
+
+    // 手指滑動停下後，依捲動位置同步目前的圓點（按鈕切換已在 goTo 先更新）
+    let settle: number | undefined;
+    track.addEventListener('scroll', () => {
+      window.clearTimeout(settle);
+      settle = window.setTimeout(() => {
+        setActive(Math.round(track.scrollLeft / Math.max(track.clientWidth, 1)));
+      }, 150);
+    }, { passive: true });
+
+    const stop = () => { window.clearInterval(timer); timer = undefined; };
+    const start = () => {
+      stop();
+      if (reduceMotion || paused || document.hidden) return;
+      timer = window.setInterval(() => goTo(current + 1), interval);
+    };
+    // 使用者手動操作後重新計時，避免剛切換就被自動輪播帶走
+    const restart = () => { if (timer !== undefined) start(); };
+
+    root.querySelector('.lpc-prev')?.addEventListener('click', () => { goTo(current - 1); restart(); });
+    root.querySelector('.lpc-next')?.addEventListener('click', () => { goTo(current + 1); restart(); });
+    dots.forEach((d, i) => d.addEventListener('click', () => { goTo(i); restart(); }));
+
+    track.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') { e.preventDefault(); goTo(current - 1); }
+      if (e.key === 'ArrowRight') { e.preventDefault(); goTo(current + 1); }
+    });
+
+    const pause = () => { paused = true; stop(); };
+    const resume = () => { paused = false; start(); };
+    root.addEventListener('mouseenter', pause);
+    root.addEventListener('mouseleave', resume);
+    root.addEventListener('focusin', pause);
+    root.addEventListener('focusout', (e) => {
+      if (!root.contains(e.relatedTarget as Node | null)) resume();
+    });
+    track.addEventListener('touchstart', pause, { passive: true });
+    track.addEventListener('touchend', resume, { passive: true });
+    document.addEventListener('visibilitychange', () => (document.hidden ? stop() : start()));
+    // 視窗寬度改變時，保持停在目前這一張
+    window.addEventListener('resize', () => {
+      track.scrollTo({ left: current * track.clientWidth, behavior: 'auto' });
+    });
+
+    start();
+  }
+
+  document.querySelectorAll<HTMLElement>('.lpc').forEach(initCarousel);
+</script>
+
+<style>
+  .lpc {
+    margin-bottom: 1.5rem;
+  }
+  .lpc-viewport {
+    position: relative;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #2a1a12;
+    box-shadow: 0 4px 16px rgba(62, 39, 35, 0.18);
+  }
+  .lpc-track {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+    overscroll-behavior-x: contain;
+  }
+  .lpc-track::-webkit-scrollbar { display: none; }
+  .lpc-track:focus-visible {
+    outline: 3px solid var(--gold, #c5a059);
+    outline-offset: -3px;
+  }
+  .lpc-slide {
+    position: relative;
+    flex: 0 0 100%;
+    aspect-ratio: 16 / 8;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    overflow: hidden;
+  }
+  .lpc-slide img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s ease;
+  }
+  .lpc-slide:hover img { transform: scale(1.03); }
+  .lpc-caption {
+    position: absolute;
+    inset: auto 0 0 0;
+    padding: 3.5rem 1.5rem 1.4rem;
+    background: linear-gradient(to top, rgba(20, 12, 8, 0.88) 0%, rgba(20, 12, 8, 0.55) 55%, rgba(20, 12, 8, 0) 100%);
+  }
+  .lpc-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.78rem;
+  }
+  .lpc-cat {
+    background: var(--gold, #c5a059);
+    color: #2a1a12;
+    font-weight: 700;
+    padding: 0.18rem 0.6rem;
+    border-radius: 999px;
+    line-height: 1.4;
+  }
+  .lpc-date {
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .lpc-title {
+    margin: 0;
+    color: #fff;
+    font-size: 1.45rem;
+    font-weight: 800;
+    line-height: 1.35;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .lpc-slide:hover .lpc-title { text-decoration: underline; text-underline-offset: 4px; }
+
+  .lpc-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.85);
+    color: #3e2723;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.2s, background 0.2s;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+  .lpc-arrow svg {
+    width: 22px;
+    height: 22px;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+  .lpc-prev { left: 12px; }
+  .lpc-next { right: 12px; }
+  .lpc-viewport:hover .lpc-arrow,
+  .lpc-arrow:focus-visible { opacity: 1; }
+  .lpc-arrow:hover { background: #fff; }
+  .lpc-arrow:focus-visible { outline: 3px solid var(--gold, #c5a059); outline-offset: 2px; }
+
+  .lpc-dots {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 0.6rem;
+  }
+  .lpc-dot {
+    /* 視覺上是小圓點，但點擊範圍放大到 24px，方便手機點選 */
+    width: 24px;
+    height: 24px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+  }
+  .lpc-dot::before {
+    content: '';
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    background: rgba(62, 39, 35, 0.25);
+    transition: width 0.25s, background 0.25s;
+  }
+  .lpc-dot.is-active::before {
+    width: 20px;
+    background: var(--gold, #c5a059);
+  }
+  .lpc-dot:focus-visible { outline: 2px solid var(--gold, #c5a059); border-radius: 6px; }
+
+  @media (hover: none) {
+    .lpc-arrow { opacity: 0.9; }
+  }
+  @media (max-width: 768px) {
+    .lpc { margin-bottom: 1.2rem; }
+    .lpc-slide { aspect-ratio: 16 / 10; }
+    .lpc-caption { padding: 2.5rem 1rem 1.1rem; }
+    .lpc-title { font-size: 1.1rem; }
+    .lpc-arrow { width: 36px; height: 36px; }
+    .lpc-arrow svg { width: 18px; height: 18px; }
+    .lpc-prev { left: 8px; }
+    .lpc-next { right: 8px; }
+  }
+  @media (max-width: 480px) {
+    .lpc-viewport { border-radius: 10px; }
+    .lpc-caption { padding: 2rem 0.85rem 0.9rem; }
+    .lpc-meta { font-size: 0.72rem; margin-bottom: 0.35rem; }
+    .lpc-title { font-size: 1rem; }
+    /* 手機上靠滑動切換即可，箭頭會擋住標題 */
+    .lpc-arrow { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lpc-slide img, .lpc-dot::before { transition: none; }
+    .lpc-slide:hover img { transform: none; }
+  }
+</style>

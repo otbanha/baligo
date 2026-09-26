@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
+import LatestPostsCarousel from '../../components/LatestPostsCarousel.astro';
 import ChatBot from '../../components/ChatBot.astro';
 import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
@@ -54,8 +55,6 @@ const allPosts = allPostsRaw
     }
   }))
   .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
-
-const countFloor = Math.floor(allPosts.length / 100) * 100;
 
 const getCategories = (cat) => {
   if (!cat) return [];
@@ -114,6 +113,18 @@ const allPostsData = allPosts
     description: p.data.description || '',
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
+  }));
+
+// 首頁輪播燈箱：最新 8 篇有封面圖的文章，不含新聞存檔
+const carouselPosts = allPosts
+  .filter(p => p.data.heroImage && !getCategories(p.data.category).some(c => c === '新聞存檔' || c === '新闻存档'))
+  .slice(0, 8)
+  .map(p => ({
+    slug: p.data.slug || p.id,
+    title: p.data.title,
+    heroImage: p.data.heroImage,
+    category: getCategories(p.data.category)[0] || '',
+    date: p.data.pubDate.toISOString().split('T')[0],
   }));
 
 // 最新12則住宿推薦（下面兩格亂數顯示用；上面兩格是置頂，見 accommodationPins）
@@ -373,18 +384,9 @@ const socialLinks = [
           </span>
         </a>
 
-        <!-- 核心價值主張 Hero Section -->
-        <div class="value-hero">
-          <h1 class="hero-headline">峇里島旅遊一站通</h1>
-          <p class="hero-tagline">中文峇里島旅遊最完整攻略，{countFloor}+ 文章、300+ 精選飯店/Villa、每日匯率、免費規劃工具、在地司機推薦</p>
-          <ul class="value-bullets">
-            <li>✓ {allPosts.length} 篇深度攻略，持續更新</li>
-            <li>✓ 300+ 峇里島飯店 / Villa 精選評測</li>
-            <li>✓ 每日印尼盾匯率，助你精準預算</li>
-            <li>✓ 免費行程規劃工具 & 預算計算機</li>
-            <li>✓ 社群實測，千位旅客認證司機</li>
-          </ul>
-        </div>
+        <!-- 最新文章輪播燈箱（不含新聞存檔） -->
+        <h1 class="sr-only">峇里島旅遊攻略｜Go Bali Go</h1>
+        <LatestPostsCarousel posts={carouselPosts} blogBase={blogBase} heading="最新文章" prevLabel="上一則" nextLabel="下一則" />
 
         <!-- Accommodations 2×2（取代原本的田字格快速入口） -->
         <div class="widget-box accom-feature">
@@ -1833,96 +1835,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .ebook-banner-cta {
     font-size: 0.85rem;
     padding: 0.5rem 0.9rem;
-  }
-}
-
-.value-hero {
-  background: linear-gradient(135deg, #F5E0A8 0%, #EDD07A 100%);
-  color: #5D4037;
-  padding: 1.5rem;
-  border-radius: 12px;
-  margin-bottom: 1.5rem;
-  text-align: center;
-  border: 1px solid rgba(197, 160, 89, 0.5);
-  box-shadow: 0 4px 16px rgba(197,160,89,0.3);
-}
-.hero-headline {
-  font-size: 1.4rem;
-  font-weight: 900;
-  margin: 0 0 0.5rem 0;
-  line-height: 1.3;
-  letter-spacing: -0.3px;
-  color: #3A2010;
-  text-shadow: none;
-}
-.hero-tagline {
-  font-size: 0.9rem;
-  color: #7B4A2A;
-  margin: 0 0 1rem 0;
-  line-height: 1.5;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  font-weight: 500;
-}
-.value-bullets {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.7rem;
-  max-width: 600px;
-  margin: 0 auto;
-  text-align: left;
-  font-size: 0.85rem;
-}
-.value-bullets li {
-  padding: 0.4rem 0;
-  line-height: 1.35;
-  color: #5D4037;
-}
-@media (max-width: 768px) {
-  .value-hero {
-    padding: 1.3rem 1.2rem;
-    margin-bottom: 1.2rem;
-  }
-  .hero-headline {
-    font-size: 1.2rem;
-    margin-bottom: 0.4rem;
-  }
-  .hero-tagline {
-    font-size: 0.85rem;
-    margin-bottom: 0.8rem;
-  }
-  .value-bullets {
-    grid-template-columns: 1fr;
-    gap: 0.6rem;
-  }
-  .value-bullets li {
-    font-size: 0.8rem;
-    padding: 0.3rem 0;
-  }
-}
-@media (max-width: 480px) {
-  .value-hero {
-    padding: 1rem 1rem;
-    margin-bottom: 1rem;
-    border-radius: 10px;
-  }
-  .hero-headline {
-    font-size: 1.05rem;
-    margin-bottom: 0.35rem;
-  }
-  .hero-tagline {
-    font-size: 0.8rem;
-    margin-bottom: 0.7rem;
-  }
-  .value-bullets {
-    font-size: 0.75rem;
-  }
-  .value-bullets li {
-    padding: 0.25rem 0;
   }
 }
 
