@@ -33,9 +33,9 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-updatedDate: 2026-09-20T00:00:00.000Z
+updatedDate: 2026-09-26T00:00:00.000Z
 lang: zh-cn
-_srcHash: 6e22ded6cbc6d134ded1a569367510a0
+_srcHash: f3d3d6add5ea9cbe05ced73f670b6a56
 ---
 
 # 印尼、巴厘岛到处都在用电子支付！怎么付款？QRIS、GoPay 电子支付完整攻略
@@ -50,7 +50,7 @@ _srcHash: 6e22ded6cbc6d134ded1a569367510a0
 
 如果第一次来巴厘岛，很容易遇到「明明有钱，却付不了」的尴尬情况。
 
-而在印尼最重要的电子支付关键词，就是：
+而在印尼最重要的电子支付关键字，就是：
 
 ## 🇮🇩 QRIS
 
@@ -102,25 +102,25 @@ Bank Indonesia 表示，QRIS 已经广泛使用于印尼各省、市，包括微
 🇰🇷 韩国
 🇨🇳 中国
 
-等市场建立 QR 支付跨境合作。
+等待市场建立QR支付跨境合作。
 
 也就是说，不同国籍的旅客，使用方式并不完全一样。
 
 ***
 
-## 🇸🇬 新加坡旅客：可以直接使用 QRIS Cross-Border
+## 🇸🇬 新加坡旅客：可以直接使用QRIS Cross-Border
 
-如果你从新加坡来巴厘岛旅游，使用 QRIS 会相对方便。
+如果你从新加坡来巴厘岛旅游，使用QRIS会相对方便。
 
-目前 Bank Indonesia 列出的新加坡参与支付服务商包括：
+目前Bank Indonesia列出的新加坡参与支付服务商包括：
 
 - OCBC
 - UOB
 - DBS
 
-新加坡旅客可以使用支持的支付 App，直接扫描印尼商家的 QRIS。
+新加坡旅客可以使用支持的支付App，直接扫描印尼商家的QRIS。
 
-付款时输入印尼盾金额，App 会依照系统显示换算成本国货币，确认后输入 PIN 即可完成交易。
+付款时输入印尼盾金额，App会按照系统显示换算成本国货币，确认后输入PIN即可完成交易。
 
 ***
 
@@ -128,11 +128,11 @@ Bank Indonesia 表示，QRIS 已经广泛使用于印尼各省、市，包括微
 
 马来西亚旅客也非常方便。
 
-印尼 QRIS 与马来西亚 **DuitNow QR** 已经建立跨境支付连接。
+印尼QRIS与马来西亚 **DuitNow QR** 已经建立跨境支付连接。
 
-PayNet 也说明，马来西亚旅客到印尼时，可以直接使用支持的手机银行 App 扫描 QRIS 付款。
+PayNet也说明，马来西亚旅客到印尼时，可以直接使用支持的手机银行App扫描QRIS付款。
 
-目前 Bank Indonesia 列出的相关马来西亚支付服务商包括 CIMB、Hong Leong Bank、Maybank、Public Bank、Touch 'n Go eWallet、BigPay 等。
+目前Bank Indonesia列出的相关马来西亚支付服务商包括CIMB、Hong Leong Bank、Maybank、Public Bank、Touch 'n Go eWallet、BigPay等。
 
 所以如果你本身习惯使用马来西亚的手机支付，来巴厘岛旅游时，不一定需要另外准备大量现金。
 
@@ -142,7 +142,7 @@ PayNet 也说明，马来西亚旅客到印尼时，可以直接使用支持的�
 
 这里就要特别注意。
 
-目前台湾与香港并没有被 Bank Indonesia 列在上述 QRIS Cross-Border 的合作市场名单中。
+目前台湾与香港并没有被 Bank Indonesia 列入上述 QRIS Cross-Border 的合作市场名单中。
 
 因此，**台湾或香港一般银行 App／当地支付 App，不能单纯因为看到 QRIS 就直接扫码付款。**
 
@@ -167,13 +167,13 @@ GoPay 现在已经支持在 GoPay App 中绑定 Visa 或 Mastercard 信用卡／
 GoPay官方目前说明，使用信用卡/借记卡支付QRIS时：
 
 - 支持Visa、Mastercard
-- 必须在 **GoPay App** 操作
+- 必须在**GoPay App**操作
 - 由旅客自己扫描商家的QRIS
-- 目前卡片支付QRIS的交易金额必须 **低于Rp250,000**
+- 目前卡片支付QRIS的交易金额必须**低于Rp250,000**
 - 店家反向扫描你手机上的QR Code，目前不支持这种卡片支付方式
 - 某些交易可能需要输入CVV或OTP。
 
-所以如果是比较高额的酒店、SPA、餐厅消费，**不要把「GoPay 绑信用卡」当成唯一付款方式。**
+所以如果是比较高额的酒店、SPA、餐厅消费，**不要把「GoPay绑信用卡」当成唯一付款方式。**
 
 最好还是准备：
 
@@ -182,6 +182,14 @@ GoPay官方目前说明，使用信用卡/借记卡支付QRIS时：
 📱 GoPay／其他电子支付
 
 三种方式搭配。
+
+### ❓ 香港支付宝可以扫 QRIS 付款吗？
+
+香港支付宝（**AlipayHK**）目前**不能**在巴厘岛（印尼）的商户直接进行消费付款。
+
+可以从 AlipayHK **汇款到 GoPay**，再使用 GoPay 的 QRIS 进行消费。
+
+**中国内地版支付宝（Alipay Mainland）**才支持印尼的 QRIS 支付系统。
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789714137838-qris5.jpg)
 
@@ -207,15 +215,15 @@ GoPay官方目前说明，使用信用卡/借记卡支付QRIS时：
 
 ### 📱 GoPay 怎么注册？
 
-GoPay 的基本使用需要先创建账户。
+GoPay 的基本使用需要先建立账户。
 
-一般需要：
+一般会需要：
 
-**手机号码 + Email**
+**手机号码＋Email**
 
 完成注册后，可以开始使用 App 的相关功能。
 
-如果只是单纯付款，和需要转账、提现现金等功能，账户所需的验证程度可能不同。
+如果只是单纯付款，和需要转账、提领现金等功能，账户所需的验证程度可能不同。
 
 如果需要升级 **GoPay Plus**，GoPay 官方目前明确提供外籍人士使用 **护照（PASSPORT）** 作为身份证件进行升级验证。
 
@@ -227,35 +235,35 @@ GoPay 的基本使用需要先创建账户。
 
 这是很多台湾旅客最关心的问题。
 
-GoPay 目前支持在 App 里添加信用卡/借记卡，官方说明支持：
+GoPay 目前支持在 App 里加入信用卡/借记卡，官方说明支持：
 
 **Visa/Mastercard**
 
-添加卡片时，通常需要输入卡片信息，并可能通过发卡银行的 OTP/3D Secure 完成验证。
+新增卡片时，通常需要输入卡片资料，并可能通过发卡银行的 OTP/3D Secure 完成验证。
 
 绑定完成后，就可以在 GoPay App 里选择信用卡/借记卡作为支付来源。
 
-### 🇹🇼 台湾旅客特别注意
+### 🇹🇼 台湾旅客特别提醒
 
 不同台湾银行、不同卡种的海外网络交易设置可能不同，因此：
 
-**“可以绑卡”与“一定可以成功付款”是两回事。**
+**「可以绑卡」与「一定可以成功付款」是两回事。**
 
 出国前建议先确认：
 
 - 是否开启海外交易
 - 是否支持网络交易
-- 是否可以收到OTP
-- 是否为Visa/Mastercard
+- 是否可以收到 OTP
+- 是否为 Visa／Mastercard
 - 发卡银行是否有海外交易限制
 
-另外，GoPay目前Visa有一项限时活动。
+另外，GoPay 目前 Visa 有一项限时活动。
 
 ***
 
 ## 🎁 2026 Visa × GoPay QRIS 免手续费活动
 
-目前Visa与GoPay有一项活动：
+目前 Visa 与 GoPay 有一项活动：
 
 **2026/7/1～2026/9/30**
 
@@ -277,19 +285,19 @@ https://youtube.com/shorts/XDFDubv2X4g
 
 看到 QRIS 后：
 
-### Step 1
+### 第一步
 
 打开 GoPay App。
 
-### Step 2
+### 第二步
 
 点击 QRIS。
 
-### Step 3
+### 第三步
 
 扫描店家的 QRIS Code。
 
-### Step 4
+### 第四步
 
 输入消费金额。
 
@@ -297,7 +305,7 @@ https://youtube.com/shorts/XDFDubv2X4g
 
 确认付款方式。
 
-如果使用绑定的 Visa/Mastercard，就选择该信用卡或借记卡。
+如果使用绑定的Visa/Mastercard，就选择该信用卡或借记卡。
 
 ### Step 6
 
@@ -307,7 +315,7 @@ https://youtube.com/shorts/XDFDubv2X4g
 
 ***
 
-## 💰 GoPay现金充值：不想一直带现金，可以这样做
+## 💰 GoPay 现金充值：不想一直带现金，可以这样做
 
 这也是GoPay对旅客比较实用的地方。
 
@@ -315,9 +323,9 @@ https://youtube.com/shorts/XDFDubv2X4g
 
 💵 换了一大笔现金
 ↓
-📱 存入GoPay
+📱 存入 GoPay
 ↓
-🍜 吃饭、SPA、咖啡、购物扫QRIS
+🍜 吃饭、SPA、咖啡、购物扫 QRIS
 ↓
 💰 不用每天带着大量现金到处跑
 
@@ -335,30 +343,30 @@ https://youtube.com/shorts/XDFDubv2X4g
 
 ## 🏪 Alfamart、Indomaret 也可以充值 GoPay
 
-如果你手上有印尼盾现金，也可以利用便利店为 GoPay 充值。
+如果你手上有印尼盾现金，也可以利用便利店帮 GoPay 充值。
 
 GoPay 官方目前提供包括：
 
 - Alfamart
 - Indomaret
 
-等渠道的充值。
+等通路的 Top Up。
 
 操作方式通常是：
 
-**GoPay App → 充值 → 选择便利店 → 生成条码/代码 → 到柜台付款**
+**GoPay App → Top Up → 选择便利店 → 生成条码/代码 → 到柜台付款**
 
-不同渠道的最低金额及手续费可能不同，因此实际操作时以App显示为准。
+不同通路的最低金额及手续费可能不同，因此实际操作时以 App 显示为准。
 
 ***
 
-## 💵 GoPay 还可以提现现金！
+## 💵 GoPay 还可以提现！
 
-如果你真的需要现金，也不用把所有钱一次性取出来。
+如果你真的需要现金，也不用把所有钱一次取出来。
 
-GoPay Plus 用户可以通过部分ATM或便利店等渠道提取GoPay余额。
+GoPay Plus 用户可以通过部分 ATM 或便利店等通路提取 GoPay 余额。
 
-GoPay 官方目前列出的现金提现渠道包括部分：
+GoPay 官方目前列出的现金提取通路包括部分：
 
 - BCA ATM
 - BRI ATM
@@ -416,26 +424,26 @@ GoPay 官方目前列出的现金提现渠道包括部分：
 | 🇰🇷 韩国 | ✅ 已建立跨境 QR 支付连接 | 使用参与的支付服务 |
 | 🇨🇳 中国 | ✅ 已建立跨境 QR 支付连接 | 使用参与的支付服务 |
 | 🇹🇼 台湾 | ⚠️ 非目前 QRIS Cross-Border 合作市场 | GoPay／Visa／Mastercard＋现金／实体卡 |
-| 🇭🇰 香港 | ⚠️ 非目前 QRIS Cross-Border 合作市场 | GoPay／Visa／Mastercard＋现金／实体卡 |
+| 🇭🇰 香港 | ⚠️ 非目前 QRIS Cross-Border 合作市场（AlipayHK 不能直接扫 QRIS） | GoPay／Visa／Mastercard、AlipayHK 汇款到 GoPay＋现金／实体卡 |
 
 Bank Indonesia 的 QRIS Cross-Border 目前持续扩大合作市场，因此实际支持国家及参与支付 App 可能会更新。
 
 ***
 
-## ⚠️ 巴厘岛旅游，不要把所有付款都押在 QRIS
+## ⚠️ 巴厘岛旅游，不要把所有付款都押在QRIS
 
-虽然 QRIS 越来越普及，但去巴厘岛旅游，我还是不建议你「完全不帶现金」。
+虽然QRIS越来越普及，但去巴厘岛旅游，我还是不建议你「完全不帶现金」。
 
 原因很简单：
 
 有些地方可能：
 
-❌ 没有 QRIS
-❌ QRIS 暂时故障
+❌ 没有QRIS
+❌ QRIS暂时故障
 ❌ 网络不好
 ❌ 只接受现金
 ❌ 只接受实体信用卡
-❌ QRIS 金额超过你目前支付工具的限制
+❌ QRIS金额超过你目前支付工具的限制
 
 尤其是一些小型商贩、偏远地区、传统市场或特殊活动，现金仍然很好用。
 
@@ -467,15 +475,15 @@ Bank Indonesia 的 QRIS Cross-Border 目前持续扩大合作市场，因此实�
 
 ↓
 
-**③ 台湾／香港旅客可以研究 GoPay＋Visa／Mastercard**
+**③ 台湾/香港旅客可以研究 GoPay＋Visa／Mastercard**
 
 ↓
 
-**④ 新加坡／马来西亚旅客可以确认自己的银行／支付 App 是否支持 QRIS Cross-Border**
+**④ 新加坡/马来西亚旅客可以确认自己的银行/支付 App 是否支持 QRIS Cross-Border**
 
 ↓
 
-**⑤ 到巴厘岛看到 QRIS，就可以按照自己的支付方式扫码**
+**⑤ 到巴厘岛看到 QRIS，就可以依照自己的支付方式扫码**
 
 ↓
 
