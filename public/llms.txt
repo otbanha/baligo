@@ -1,6 +1,6 @@
 # Go Bali Go 峇里島旅遊攻略
 
-> 由「Gobaligo編輯部」（YouTube 頻道「小傑印尼」背後的內容團隊）維護的峇里島旅遊內容站，905 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。
+> 由「Gobaligo編輯部」（YouTube 頻道「小傑印尼」背後的內容團隊）維護的峇里島旅遊內容站，925 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。
 
 每一個頁面都有 markdown 版本：帶 `Accept: text/markdown` 請求，或在網址後面加 `.md`
 （例如 `https://gobaligo.id/blog/{slug}.md`）。回應會帶 `x-markdown-tokens` 供估算長度。
@@ -56,6 +56,8 @@
 
 ## 住宿推薦
 
+- [The Huntley Canggu 古典加州風別墅 - 9.9分評價](https://gobaligo.id/blog/the-huntley-canggu-review/): The Huntley Canggu 位於 Canggu Berawa，以加州中世紀設計聞名。私人泳池、4房選擇、Booking 9.9/10（76評論）。靠近 Finns & Atlas 海灘俱樂部
+- [The Ridge Boutique Villas 峇里島烏布山谷上的隱世五星奢華秘境](https://gobaligo.id/blog/the-ridge-bali/): 峇里島烏布山谷秘境：5間精品villa、私人泳池、Ayung河谷絕景、24小時管家。蜜月度假首選，Booking 9.7分、TripAdvisor 5.0星。
 - [峇里島Sanur新飯店｜éL Hotel & Resort Bali 2026年開幕](https://gobaligo.id/blog/el-hotel-resort-bali-sanur/): 2026年4月Sanur最新開幕的海景飯店！109間房間、直接面臨Karang Beach、獨特水上活動體驗。家庭度假、蜜月旅行、長住者的理想選擇。
 - [烏布竹建築稻田秘境｜Bambootel Sawah View 住宿評價與訂房攻略](https://gobaligo.id/blog/Bambootel-Sawah-View/): Bambootel Sawah View 坐落於 Tampaksiring，全竹建築搭配稻田第一排景觀，Google、Tripadvisor 評分雙雙達到4.9，成人專屬設計提供極致私密感。附私人泳池別墅、精緻早餐與高評價餐廳，是峇里島蜜月與情侶旅遊的夢幻首選。
 - [全球最佳度假村2026｜Travel + Leisure評選：峇里島7家、印尼8家入選世界15強](https://gobaligo.id/blog/world-best-resorts-bali/): Travel + Leisure公布2026全球最佳度假村榜單，印尼共有8家入選，其中7家位於峇里島，包括Capella Ubud、Raffles Bali、The Mulia、Alila Villas Uluwatu等，一次整理世界級奢華度假村名單。
@@ -65,7 +67,6 @@
 - [【2026 長谷住宿】La Mewali Resort 開箱：首創「現代洞穴風」泳池別墅、環景潟湖與長谷避雷指南](https://gobaligo.id/blog/La-Mewali/): La Mewali Resort & Spa Canggu 獨創融合傳統農法美學的「現代洞穴風」私人泳池別墅，客房擁有獨特岩穴紋理質感，並能直通環繞全島型精品度假村的流線潟湖泳池，是一間成功在熱鬧長谷商圈中為旅客打造靜謐避世感的水感療癒聖地。
 - [【2026 峇里島奢華飯店】Jumeirah Bali 烏魯瓦圖朱美拉開箱：絕美滿者伯夷水上宮殿、全別墅避世奢華指南](https://gobaligo.id/blog/Jumeirah-Bali/): 走進爪哇黃金時代的夢幻水上宮殿！2026 烏魯瓦圖頂級奢華度假村 Jumeirah Bali（峇里島朱美拉）最新開箱。本文詳解：融合滿者伯夷王朝美學的私人別墅、直通 Dreamland 沙灘的特權、絕美印度洋日落海景，以及高淨值旅客蜜月、避世度假與防坑訂房策略。
 - [【2026 烏布新飯店】Sanggraloka Ubud 開箱：六月新開幕、叢林有機農場與避世度假別墅指南](https://gobaligo.id/blog/Sanggraloka-Ubud/): 隱入北烏布最純淨的綠色秘境！2026年6月全新開幕的 Sanggraloka Ubud（烏布山格拉洛卡度假村）獨家開箱。本文詳解：完美融合有機農場與傳統蘇巴克農法的避世別墅、產地到餐桌的無毒蔬食美學、山林溪谷景致，以及暑假乾季旺季的合法自保與訂房防坑策略。
-- [【2026 峇里島旅遊警訊】您訂的 Airbnb 民宿可能 8 月消失？印尼政府鐵腕拆遷與合法飯店 Villa 避雷指南](https://gobaligo.id/blog/airbnb-alert-2026/): 去峇里島必看！2026 峇里島乾季旺季傳出重大住宿警訊。印尼官方動真格展開非法 Airbnb 與私人 Villa 的鐵腕大排查，許多未持合法執照的民宿恐在 8 月面臨斷水電或封停。本文教您如何自保
 - [Dune Seseh 長谷旁最新秘境美學公寓 極簡野奢](https://gobaligo.id/blog/dune-seseh/): 逃離長谷的喧囂！2026 峇里島最新奢華焦點 Dune Seseh 坐落於寧靜的色色海灘一線。這座融合 Wabi-Sabi 侘寂美學與現代科技的高端海景公寓，下樓走幾步就是黑沙灘，開窗即是稻田與印度洋。本文帶您直擊頂級複式房型、專屬私人泳池與周邊避雷交通指南，開啟您的頂級海島避世假期！
 - [【2026 努沙杜瓦新飯店】Paradisus by Meliá Bali 開箱：亞洲首間奢華全包式度假村、專屬水上樂園與大人限定奢華體驗](https://gobaligo.id/blog/Paradisus-by-Melia-Bali/): 傳奇美利亞華麗變身！2026 年 2 月正式揭幕的 Paradisus by Meliá Bali 坐落於努沙杜瓦精華海灘。這座擁有 492 間客房的巨型度假村主打 Luxury All-Inclusive 全包式概念：包含頂級餐飲、水上樂園、精緻 YHI Spa 以及融入在地文化的 Destination Inclusive® 體驗。本文帶您搶先直擊房型分類與分流避雷指南！
 - [【水明漾villa推薦】Jas Green Villas and Spa - CP值讓人驚喜](https://gobaligo.id/blog/Jas-Green-Villas-and-Spa/): 想住水明漾私人 Villa 又怕預算超支？本文深度開箱 Jas Green Villas and Spa！這間別墅以驚人的 CP 值聞名，每棟別墅都擁有獨立泳池、簡易廚房與半開放式客廳。走路就能到超市與熱鬧街區，生活機能無敵。附上最新房型比較與避雷提醒，是您 2026 年峇里島自由行的省錢首選！
@@ -75,7 +76,6 @@
 - [麗晶峇里島長谷 Regent Bali Canggu 開箱體驗，IHG 頂級度假村定義海濱美學新高度](https://gobaligo.id/blog/regent-bali-canggu/): 長谷不再只有衝浪與咖啡廳！Regent Bali Canggu 正式營運，為峇里島東海岸帶來極致奢華體驗。本文深入解析 Regent Bali Canggu 的房型設計、無邊際泳池與頂級餐廳，告訴您為何這間 IHG 旗艦度假村是 2026 年必住的奢華清單。立即探索這座結合現代美學與峇里島靈魂的最新地標！
 - [【庫塔住宿推薦】12 間精選飯店懶人包：市區購物、機場過境、高 CP 值住宿全攻略](https://gobaligo.id/blog/best-kuta-hotels-list/): 正在尋找峇里島庫塔（Kuta）住宿？本文整理 12 間精選飯店，包含緊鄰機場的過境首選、步行即可到達 Beachwalk 購物中心的度假村，以及高評價的 CP 值飯店。無論是深夜抵達還是最後採買，這篇懶人包都能幫你快速選出最適合的庫塔飯店，內含訂房建議與交通攻略！
 - [【2026 峇里島住宿】剛開幕就拿獎！直擊印尼最佳新飯店：絕美海灘景觀、永續奢華設計全開箱](https://gobaligo.id/blog/2026-top-hotels-bali/): 誰是 2026 年印尼最強新飯店？開箱剛開幕即榮獲大獎的峇里島海灘度假村。本篇深度解析其奪獎理由、融合自然的建築美學、以及令人驚艷的海景套房體驗。提供 2026 最新房價資訊、餐廳推薦與訂房策略。帶您走在旅遊尖端，優先入住這座獲獎肯定的海島新地標。
-- [【庫塔海灘住宿全攻略】18 間精選飯店：從高 CP 值到海景五星度假村，避雷指南一次看](https://gobaligo.id/blog/kuta-beach-hotels/): 計畫住在峇里島最熱鬧的庫塔海灘？深度整理 18 間精選飯店：涵蓋購物中心旁的機能飯店、適合衝浪者的平價連鎖與高評價親子度假村。解析 2026 最新房價走勢、避開塞車路段的住宿選點與住客真實評價。讓您的庫塔假期享有便利機能，同時遠離擾人噪音。
 
 ## 峇里島分區攻略
 
@@ -125,7 +125,10 @@
 
 ## 美食景點活動
 
-- [烏布探險必玩：UTV 越野車 + 泛舟/鞦韆完全體驗](https://gobaligo.id/blog/utv-rafting-swing/): 烏布 UTV 越野車體驗完整評測｜梯田、泛舟、Bali Swing 鞦韆一日行程｜Klook 評分 4.8/5｜UTV vs ATV 差異分析｜行前必知費用、穿著、季節建議
+- [Alas Harum Guide 烏布梯田樂園、Cretya Ubud、Cretya Sunset 完整指南](https://gobaligo.id/blog/alas-harum/): 最新 Alas Harum 烏布攻略：Klook 套票、高空鞦韆、貓屎咖啡，以及 Cretya Ubud、Cretya Sunset 泳池與日落 Jacuzzi 消費、預訂、交通一次整理。
+- [Hidden Mini Zoo Bali 完整攻略：票價、評論、與 Bali Safari 的差異一次看](https://gobaligo.id/blog/hidden-mini-zoo-bali/): 峇里島 Hidden Mini Zoo Bali 完整攻略！整理最新印尼盾票價、Google 4.8 星真實評論、動物互動體驗，並比較 Bali Safari 差異與適合人群，出發前一次搞懂。
+- [Spiritual Soul Healing Ubud 烏布靈魂療癒體驗評價｜手相、脈輪、Melukat 淨化儀式懶人包](https://gobaligo.id/blog/ubud-spiritual-soul-healing-review/): 烏布 Spiritual Soul Healing 體驗整理：手相解讀、七脈輪平衡、Melukat 聖水淨化方案一次看，附 Klook 4.6 分、22則旅客評價與行前提醒。
+- [烏布探險必玩：UTV/buggy 越野車 + 泛舟/鞦韆完全體驗](https://gobaligo.id/blog/utv-rafting-swing/): 烏布 UTV/buggy 越野車體驗完整評測｜梯田、泛舟、Bali Swing 鞦韆一日行程｜Klook 評分 4.8/5｜UTV vs ATV 差異分析｜行前必知費用、穿著、季節建議
 - [峇里島寵物天堂 Pet Nirvana｜毛小孩互動天地、咖啡館、超高評價](https://gobaligo.id/blog/bali-pet-nirvana/): |-
 - [峇里島熱氣球體驗攻略｜烏布 50 公尺高空俯瞰稻田，價格與注意事項](https://gobaligo.id/blog/ali-hot-air-balloon-ubud/): 峇里島也能搭熱氣球！帶你了解烏布 Tanah Gajah 熱氣球體驗，包括升空高度、日出日落時段、價格、搭乘限制與天氣注意事項。
 - [Zumana Beach Club 庫塔海灘夜店開幕｜Savaya 集團新場館 2026](https://gobaligo.id/blog/Zumana-Beach-Club/): Zumana Beach Club 海灘夜店在庫塔盛大開幕！由亞洲排名第一的 Savaya 集團打造，9月25-26日正式開幕。十米雕塑設計、国际DJ阵容、海灘派對氛圍，峇里島夜生活新地標。
@@ -142,12 +145,10 @@
 - [【印尼/峇里島咖啡粉推薦】這種咖啡要少喝！50萬人研究：增7倍黃斑部病變風險，改喝天然無添加印尼國民咖啡 Kapal Api 護眼選品](https://gobaligo.id/blog/2026-06-19-013143/): 每天熱水一沖就喝的咖啡竟然藏有失明危機？引述國際大型基因研究，分析超過 50 萬人數據發現：長期飲用「即溶咖啡」恐增加乾性黃斑部病變風險達 7 倍！一文詳解高溫加工製程產生的有害物質，並專家建議改喝成分天然、無化學添加的「印尼國民咖啡 Kapal Api（火船牌）」研磨咖啡，作為日常護眼替代方案。
 - [【峇里島四大必看神秀全攻略】Varuna 水族劇場、Devdan 舞台劇、Kecak 火舞、巴龍舞與分齡避雷指南](https://gobaligo.id/blog/varuna-devdan-kecak-show-in-bali/): 點亮諸神之島的魔幻夜晚！2026 峇里島四大必看神秀終極全攻略。一文詳解：全印尼首創 Varuna 頂級水下魔幻大秀、驚險高空特技 Devdan 舞台劇，以及烏魯瓦圖斷崖 Kecak 百人傳統火舞, 精彩華麗的巴龍舞。附上長輩不費力、親子放電與旺季搶票防坑生存指南！
 - [【2026 峇里島稻米節】Jatiluwih Festival 嘉蒂盧維攻略：親手體驗世界遺產收割季與梯田單車指南](https://gobaligo.id/blog/jatiluwih-festival-2026/): 走進世界文化遺產的黃金收割慶典！2026 峇里島嘉蒂盧維稻米節（Festival Jatiluwih）最新現場指南。一文打包：親手體驗傳統稻米收割與打穀、古老蘇巴克（Subak）灌溉祭祀儀式、在地藝術家梯田音樂會，以及前往百度庫山區的包車交通與防曬避雨自保心法。
-- [【2026 峇里島藝術節】Bali Arts Festival（PKB 2026）完整指南：開幕遊行時間、主會場交通與文化避雷全攻略](https://gobaligo.id/blog/Bali-art-festival-2026/): 走進諸神之島最震撼的年度文化盛宴！2026 峇里島藝術節（Bali Arts Festival, PKB）官方終極全攻略。一文詳解：橫跨6月至7月位於登巴薩藝術中心的傳統歌舞與甘美朗樂團輪番演出、最盛大的巨型踩街開幕遊行卡位點，以及旺季塞車交通接駁與周邊行程防坑指南。
-- [【可愛到被融化】Puppy Yoga 小狗瑜珈攻略：結合狗狗領養、身心靈療癒與網美打卡避雷指南](https://gobaligo.id/blog/Puppy-Yoga-Bali/): 全島最融化的療癒系體驗！2026 峇里島最熱門小眾夜生活與日間行程備案：Puppy Yoga（小狗瑜珈）。一文詳解：如何在專業瑜珈放鬆中與超萌浪浪幼犬互動、活動背後的動物福利與流浪狗公益領養機制，以及熱門場次搶票預約防坑指南。
-- [【峇里島親子景點】Bali Farm House 攻略：峇里島山區歐洲莊園、草泥馬互動與門票避雷指南](https://gobaligo.id/blog/Bali-Farm-House/): 不用飛歐洲，在熱帶島嶼也能親近草泥馬！2026 峇里島中北部山區爆紅新景點 Bali Farm House（峇里島農家樂）完全攻略。一文詳解：阿爾卑斯山歐式莊園建築、零距離餵食羊駝與迷你馬、最新門票與園區餐飲抵用券資訊，以及高山防寒與交通包車防坑必看指南！
 
 ## 家庭親子
 
+- [Hidden Mini Zoo Bali 完整攻略：票價、評論、與 Bali Safari 的差異一次看](https://gobaligo.id/blog/hidden-mini-zoo-bali/): 峇里島 Hidden Mini Zoo Bali 完整攻略！整理最新印尼盾票價、Google 4.8 星真實評論、動物互動體驗，並比較 Bali Safari 差異與適合人群，出發前一次搞懂。
 - [【峇里島慶祝/慶生指南】峇里島客製化蛋糕推薦｜庫塔、水明漾、長谷、烏布、沙努爾蛋糕店全攻略](https://gobaligo.id/blog/bali-custom-cake-guide/): 峇里島慶生、求婚、週年紀念必看！整理庫塔、水明漾、長谷、烏布、沙努爾五大區域的客製化蛋糕店推薦，含外送資訊與預訂時間QA，讓你的峇里島慶祝派對圓滿加分。
 - [峇里島寵物天堂 Pet Nirvana｜毛小孩互動天地、咖啡館、超高評價](https://gobaligo.id/blog/bali-pet-nirvana/): |-
 - [峇里島海豚體驗推薦｜Bali Exotic Marine Park門票、海豚互動、親子攻略](https://gobaligo.id/blog/wks-bali-exotic-marine-park/): 峇里島 Bali Exotic Marine Park 海豚體驗完整攻略！介紹海豚互動方案、親子適合年齡、門票、注意事項與行程安排，還有優惠訂票連結。
@@ -167,10 +168,14 @@
 - [【峇里島親子必玩】Waterbom Bali 水上樂園全攻略：全亞洲第一、滑水道分級與購票省錢建議](https://gobaligo.id/blog/waterbom-bali-water-park-guide/): 帶小孩去峇里島絕不能錯過 Waterbom Bali！本篇深度解析這座亞洲最強水上樂園：從刺激的近垂直滑道到悠閒的懶人河與熱帶雨林景觀。內含分齡設施推薦、防水手環儲值教學、儲物櫃租借與防曬小撇步。讓全家人在綠意盎然的熱帶天堂享受最尖叫、最沁涼的暑假時光！
 - [【峇里島必看】Devdan Show 天譚秀全攻略：購票優惠、座位選擇與印尼五大島文化巡禮](https://gobaligo.id/blog/devdan-show-nusa-dua/): 探索峇里島最震撼的舞台劇！Devdan Show 天譚秀結合傳統舞蹈、現代雜技與水火特效。本篇詳解如何預訂最划算門票、挑選黃金視角座位，並帶您預覽從峇里島到蘇門答臘的文化奇幻旅程。是您在努沙杜瓦絕對不能錯過的晚間藝術饗宴。
 - [峇里島洞穴漂流河探險記：Nukuwera River Tubing的親子冒險之旅](https://gobaligo.id/blog/nukuwera-river-tubing-adventure/): 峇里島不僅有迷人的海灘和神廟，更藏著許多令人驚喜的冒險活動。這次我們全家選擇了Nukuwera & Pandawa的洞穴漂流河(River Tubing)體驗，這絕對是我們六天五夜峇里島親子旅行中最難忘的亮點之一。不同於傳統的泛舟活動，洞穴漂流河結合了歷史探索與水上冒險，讓全家大小都能在安全又有趣的
-- [峇里島海洋公園 Varuna Show 指南：水下劇場票價、交通建議與 Bali Safari 一日遊排法](https://gobaligo.id/blog/varuna-show-bali-safari/): 帶小孩去峇里島必看的國際級演出！詳解位於吉安雅 (Gianyar) 的 Varuna Show 入園流程。整理水下劇場的場次時間、與 Bali Safari 陸上探險的完美行程組合。提供親子觀賞撇步與園內用餐細節，讓您的親子之旅既有教育意義又充滿感官驚喜。
 
 ## 旅行技巧
 
+- [峇里島生病、Bali Belly、急診？峇里島到府醫生|Unicare Clinic 24小時出診評價整理](https://gobaligo.id/blog/bali-doctor-on-call-unicare-clinic/): 峇里島半夜拉肚子、被狗咬怎麼辦?Unicare Clinic 提供 24 小時醫生出診,Google 評分 4.9/5。整理服務範圍、真實評論、價格與預訂注意事項。
+- [峇里島居家工藝品去哪買？烏布＆水明漾 2 條在地購物路線](https://gobaligo.id/blog/bali-handicraft-shopping-ubud-seminyak/): 峇里島買居家工藝品不用去景區！分享烏布 Jl. Raya Andong、水明漾 Jl. Gn. Athena 兩條在地人才知道的購物路線，編織燈、竹籃、貝殼燈、補夢網通通有，價格親民還能殺價。
+- [印尼/峇里島到處都在用電子支付! 怎麼付款？QRIS、GoPay電子錢包支付攻略｜信用卡也能用](https://gobaligo.id/blog/indonesia-bali-electronic-payment-qris-gopay-guide/): 去峇里島旅遊怎麼付款？完整介紹 QRIS、GoPay 電子支付，教你用信用卡掃碼付款、現金儲值與超商提領，輕鬆搞懂峇里島 Cashless 支付方式。
+- [2027年印尼/峇里島國定假日/假期全攻略：18個國定休假+8天集體假完整規劃表](https://gobaligo.id/blog/2027-indonesia-bali-public-holiday/): 完整列出2027年印尼18天國定假日和8天集體假，幫助你規劃峇里島旅程
+- [遊客注意！2026年9月27日峇里島及周邊島嶼將進入"海洋寧靜日"封鎖狀態！](https://gobaligo.id/blog/nyepi-laut-2026/): 在2026年的9月27日，「海洋靜寂日（Nyepi Laut）」即將到來，這意味著計劃前往峇里島、努沙佩尼達島、金銀島和藍夢島的遊客需要仔細檢查他們的行程，以避免不必要的麻煩。
 - [峇里島10月旅遊攻略：乾季末期天氣穩定，節慶多人少錢少](https://gobaligo.id/blog/october-in-bali/): 十月峇里島受聖嬰現象影響，雨季延遲，是近年天氣最穩定的十月。Ubud文學節、Saraswati節慶、Nusa Dua嘉年華、莫拉魚潛水季尾聲。房價便宜30%、人潮少、天氣好。
 - [峇里島一個月生活費多少？獨旅預算完整解析](https://gobaligo.id/blog/solo-expense-a-month/): 一個人獨旅峇里島住一個月要花多少錢？從住宿、吃飯、交通、健身、共享辦公室到娛樂一次算給你看，US$1,800～2,400能過什麼樣的生活？
 - [峇里島值得去嗎？網友旅遊踩雷原因整理｜交通、消費、景點真實解析](https://gobaligo.id/blog/bali-travel-experience-expectations/): 峇里島真的適合所有人嗎？從交通塞車、旅遊消費、網紅景點落差到旅遊方式，整理第一次去峇里島最容易失望的原因，出發前先了解。
@@ -186,11 +191,6 @@
 - [在科摩多國家公園亂丟垃圾 中國遊客遭澳洲遊客斥“可恥”](https://gobaligo.id/blog/komodo-littering/): 在印尼國家公園或自然保護區內亂丟垃圾或破壞生態，將面臨高額罰款、被列入旅遊黑名單甚至移送法辦，建議旅客嚴格遵守「垃圾不落地」原則並尊重在地自然文化以防觸法。
 - [【峇里島旅遊安全】在峇里島買東西也被狗咬？中國遊客狂犬病咬傷事件引發的硬核自保與就醫指南](https://gobaligo.id/blog/bali-chinese-dog-bite/): 峇里島流浪狗密度極高且為狂犬病疫區，若不幸被貓狗抓咬傷，必須在黃金 24 小時內徹底沖洗傷口並就近前往指定國際醫院接種狂犬病疫苗（Rabies Vaccine）與免疫球蛋白。
 - [峇里島值得去嗎？17個優點＋6個缺點真實評價，看完再決定！](https://gobaligo.id/blog/rc-is-bali-worth-visiting/): 峇里島值得去嗎？本文分享兩次峇里島自由行經驗，分析住宿價格、交通方式、美食評價、包車費用、按摩體驗與常見缺點，出發前必讀攻略。
-- [【2026 出國行李攻略】飛機隨身與託運物品規定懶人包：藍牙耳機、行動電源最新NG法規與伴手禮沒收避雷](https://gobaligo.id/blog/2026-06-23-111141/): 出國打包不踩雷！2026 年最新航空海關禁帶物品與行李打包終極懶人包。一文看懂：行動電源、藍牙耳機與手持電風扇的隨身手提規範、液體容量限制與自拍棒長度法規。更誠實打包回台必沒收的肉鬆餅、蛋黃酥等高額罰款伴手禮防坑自保指南，讓您通關不延誤！
-- [2026 峇里島海關禁帶物品指南｜台港新馬遊客必看 ⚠️ 最高罰 100 萬](https://gobaligo.id/blog/bali-customs-restrictions/): 出發度假第一步，別在海關罰百萬！2026年最新機場海關與伍拉賴機場（DPS）入出境禁帶物品再更新。一文打包：藍牙耳機與行動電源託運新規、暖暖包與無線電棒捲的登機NG限制、各國出入境易踩雷規定，以及回程必沒收的印尼黃金伴手禮（肉類/種子/生鮮）防坑自保指南。
-- [【2026 峇里島自由行】下半年（7-12月）旅遊全攻略：黃金乾季氣候、必看夏秋節慶、防坑避雷與行程規劃](https://gobaligo.id/blog/bali-travel-guide-2026-h2/): 正準備規劃 2026 下半年去諸神之島度假？本文誠實盤點 7 月至 12 月峇里島最新旅遊全攻略！詳解乾季涼爽黃金期與雨季爆烈粉紫夕陽的氣候時差，網羅各大節慶/宗教盛典與年底跨年派對。旺季防塞車與機票省錢心法，看完再出發！
-- [【2026最新】峇里島機票怎麼買最便宜？Trip.com 搜尋技巧與省錢攻略](https://gobaligo.id/blog/ticket/): 正準備規劃峇里島自由行，卻被飆漲的機票價格嚇到了？本文毫無保留分享如何利用 Trip.com 買到最便宜峇里島機票的實戰技巧：從價格追蹤、低價日曆、混搭航空公司，到直飛與轉機方案比較，幫你省下數千元旅費，把預算留給 Villa、美食與更多精彩體驗。
-- [峇里島機票省錢必看：燃油附加費調降調級，達人教你刷卡開票最賺時機](https://gobaligo.id/blog/best-time-to-buy-bali-flights-2026/): 準備飛峇里島度假？先別急著買機票！2026年6月7日起，國際線燃油附加費迎來大調降，短程航線直接降級省荷包。本文為您曝光最新燃油費價格、國籍航空直飛與廉航最新票價行情。旅遊達人更傳授「刷卡開票最賺時機」，教你如何避開高價費率，用最聰明的方法現省機票預算！
 
 ## 套裝行程
 
@@ -211,9 +211,9 @@
 - [峇里島洞穴漂流河探險記：Nukuwera River Tubing的親子冒險之旅](https://gobaligo.id/blog/nukuwera-river-tubing-adventure/): 峇里島不僅有迷人的海灘和神廟，更藏著許多令人驚喜的冒險活動。這次我們全家選擇了Nukuwera & Pandawa的洞穴漂流河(River Tubing)體驗，這絕對是我們六天五夜峇里島親子旅行中最難忘的亮點之一。不同於傳統的泛舟活動，洞穴漂流河結合了歷史探索與水上冒險，讓全家大小都能在安全又有趣的
 - [峇里島專業攝影師/空拍隨行一日遊 - 烏布與瀑布之旅](https://gobaligo.id/blog/ubud-waterfalls-photography-tour/): 來到峇里島度假，我和我的旅伴希望能留下更多美好的回憶。在眾多旅遊選擇中，我們決定預訂一個特別的行程 - 「峇里島專業攝影師隨行一日遊」。這個套餐不僅提供景點導覽，更重要的是有專業攝影師全程跟拍，使用相機和空拍機為我們記錄每個珍貴時刻。對於想要拍出美美照片卻又不想錯過親身體驗的我們來說，這樣的安排再完
 - [峇里島七天六夜自由行遊記｜三個Klook一日遊行程，懶人也能輕鬆玩遍精華景點！](https://gobaligo.id/blog/bali-7-day-klook-itinerary/): 如果你跟我一樣，不是個愛花時間做功課的旅人，但又想把峇里島的美景一次看個夠，那我真心推薦把Klook一日遊排進你的行程裡！這趟七天六夜的峇里島自由行，我們總共安排了三次Klook一日遊（第2天、第4天、第6天），每一次都玩得既輕鬆又精彩～真的是「上車睡覺、下車拍照」的極致體驗，想分享給也想輕鬆玩峇里
+- [【峇里島懶人包】Klook 一日遊行程推薦：0 規劃也能玩遍網美打卡點、文化遺產與熱門活動](https://gobaligo.id/blog/klook-bali-day-tours-guide/): 不想為了排行程煩惱？精選 Klook 平台上最高評價的峇里島一日遊行程！從最夯的東部網美打卡、聖泉寺文化洗禮到刺激的阿勇河泛舟。本篇解析如何挑選適合自己的套裝行程、購票省錢撇步以及上車即出發的無腦玩法。讓您的峇里島假期只有放鬆，沒有壓力！
 - [【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我的真實人生](https://gobaligo.id/blog/eat-pray-love-bali-spiritual-journey/): 清晨五點半，我在烏布民宿的陽台上反覆翻閱著《Eat Pray Love》的峇里島章節。書頁邊緣已經被我摩挲得微微捲起，就像我此刻忐忑的心情。今天，我終於要踏上和女主角Liz（茱莉亞羅伯茲飾演）類似的靈性探尋之旅，只是這一次，鏡頭外的女主角換成了我自己。 Ketut Udi開著他的銀灰色休旅車準
 - [🌋【伊真火山+峇里島】夢幻藍火+賽武瀑布+布羅莫日出｜輕奢五日遊全包](https://gobaligo.id/blog/ijen-bromo-bali-luxury-tour/): 想看火山又不想太辛苦？深度開箱「全包式」輕奢五日行程。解析如何透過 VIP 包車無縫銜接爪哇與峇里島、入住頂級私人 Villa 消除疲勞，並在羅威納 (Lovina) 與野生海豚共游。提供無購物、純玩保證的行程規劃建議，讓您的印尼之行既有冒險的震撼，也有度假的質感。
-- [頂級峇里島豪華VIP旅遊：打造您的高端奢華假期](https://gobaligo.id/blog/bali-luxury-vip-travel-guide/): 峇里島，這個被譽為「天堂之島」的熱帶度假勝地，以其迷人的海灘、豐富的文化和奢華的度假體驗聞名於世。對於追求極致享受的旅客來說，峇里島不僅是一個目的地，更是一場身心靈的奢華之旅。今天，我們將帶您深入探索如何規劃一場獨一無二的峇里島VIP旅遊，讓您的假期充滿尊榮與難忘的回憶。
 
 ## 遊記分享
 
