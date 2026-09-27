@@ -17,9 +17,11 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-09-25T00:00:00.000Z
+updatedDate: 2026-09-27T00:00:00.000Z
+updatedAt: '2026-09-27T08:40:19+08:00'
 lang: zh-cn
-_srcHash: 81ddf617b71777d0d35f4351ad1b2a3a
+_srcHash: PENDING_RETRY_12bdb8e3fda7bfeee054db14e6a4067a
+_translateAttempts: 1
 ---
 
 **本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
@@ -112,7 +114,7 @@ _srcHash: 81ddf617b71777d0d35f4351ad1b2a3a
 
 ![Iwayan Suantara 康哥](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[网友推荐12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/17TuGZieHU/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/1Ek8scVhnF/)
+👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[网友推荐12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/17TuGZieHU/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/1Ek8scVhnF/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/19TcgTrGo5/)
 
 ## Kadek Puri
 
@@ -166,7 +168,7 @@ _srcHash: 81ddf617b71777d0d35f4351ad1b2a3a
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[网友推荐 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[网友推荐9](https://www.facebook.com/share/p/19Hj8nNgVo/)
+👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
 ## **（中文司机）Yoga Setiawan**
 

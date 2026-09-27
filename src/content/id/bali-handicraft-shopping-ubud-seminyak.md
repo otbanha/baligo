@@ -1,14 +1,14 @@
 ---
 title: >-
-  Beli Kerajinan Rumah Tangga di Bali? Ini 2 Rute Belanja Lokal di Ubud &
-  Seminyak
+  Beli Kerajinan Rumah Tangga di Bali? Tiga Rute Belanja Lokal di Ubud, Seminyak
+  & Canggu
 slug: bali-handicraft-shopping-ubud-seminyak
 description: >-
   Beli kerajinan rumah tangga di Bali nggak perlu ke kawasan wisata! Aku mau
-  bagiin dua rute belanja yang cuma diketahui warga lokal: Jl. Raya Andong di
-  Ubud dan Jl. Gn. Athena di Seminyak. Ada lampu anyaman, keranjang bambu, lampu
-  kerang, dream catcher — semuanya lengkap, harga ramah di kantong dan masih
-  bisa ditawar.
+  bagiin tiga rute belanja lokal di Jl. Raya Andong (Ubud), Jl. Gn. Athena
+  (Seminyak), dan Jl. Raya Canggu yang cuma diketahui warga lokal. Ada lampu
+  anyaman, keranjang bambu, lampu kerang, dream catcher — harga ramah di kantong
+  dan masih bisa ditawar.
 pubDate: 2026-09-20T00:00:00.000Z
 pubHour: 15
 category:
@@ -19,14 +19,16 @@ tags:
   - 峇里島伴手禮
   - 烏布購物
   - 水明漾購物
+  - 長谷購物
   - 峇里島居家用品
   - 峇里島編織燈
   - 峇里島竹籃
   - 峇里島貝殼燈
   - Jl. Raya Andong
   - Jl. Gn. Athena
+  - 'Jl, Raya Canggu'
   - 峇里島包車購物
-heroImage: 'https://images.gobaligo.id/images/2026-09/1789893308221-index.jpg'
+heroImage: 'https://images.gobaligo.id/images/2026-09/1790479429367-handycrafts.jpg'
 imageAlt: ''
 originalUrl: ''
 newsCategory: ''
@@ -35,19 +37,21 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-09-27T00:00:00.000Z
+updatedAt: '2026-09-27T10:11:34+08:00'
 lang: id
-_srcHash: 0bbb5869027a7c01b264c674040fb28c
+_srcHash: bd5a4b2d8d2696fb6fe27b2cdcde76ce
 ---
 
-## Beli Kerajinan Rumah Tangga di Bali? Hindari Kawasan Wisata, Coba 2 Rute Lokal Ini, Harganya Cuma Setengah!
+## Beli Kerajinan Rumah Tangga di Bali? Hindari Kawasan Wisata, Ini Tiga Rute Lokal dengan Harga Setengahnya!
 
-Pas liburan ke Bali, banyak yang pengen bawa pulang barang-barang rumah tangga. Tapi pasar dan toko di sekitar kawasan wisata biasanya harganya lebih mahal. Kali ini aku mau bagiin dua rute belanja yang bukan di tempat wisata populer, lebih sering dikunjungi warga lokal. **Harganya ramah, sekitar setengah harga di kawasan wisata, dan masih bisa ditawar** (makasih banget supir sewaanku yang bantu nego habis-habisan 🥰).
+Pas liburan ke Bali, banyak yang pengen bawa pulang barang-barang rumah tangga. Tapi pasar dan toko di sekitar kawasan wisata biasanya harganya lebih mahal. Kali ini aku mau share tiga rute belanja yang bukan di tempat wisata mainstream, tempat yang sering dikunjungi warga lokal. **Harganya ramah, kira-kira setengah dari harga di kawasan wisata, dan masih bisa ditawar** (makasih banget sopir sewaanku yang bantu nego habis-habisan 🥰).
 
-### Kenapa Dua Rute Ini Worth It Banget?
+## Kenapa Tiga Rute Ini Worth It Banget?
 
-Kedua jalan ini nggak ada di jalur utama turis. Toko-tokonya kebanyakan punya produksi sendiri atau kerja langsung dengan bengkel kerajinan. Beberapa traveler juga bilang, harga awal di toko-toko model gini biasanya lebih bersahabat, dan ruang tawarnya lebih gede. Belanja di sini lebih santai, nggak ada tekanan dari penjual yang ngejar-ngejar.
+Ketiga jalan ini nggak ada di jalur utama turis. Kebanyakan tokonya produksi sendiri atau langsung kerja sama dengan bengkel kerja. Ada juga traveler yang bilang, harga awal di toko-toko ini biasanya lebih bersahabat, dan ruang tawarnya lebih gede. Belanja di sini lebih santai, nggak ada tekanan dari penjual yang ngejar-ngejar.
 
-### Rute 1: Jl. Raya Andong, Ubud
+## Rute 1: Ubud — Jl. Raya Andong
 
 **Lokasi:** Dekat Ubud Palace, sekitar 15 menit naik mobil
 **Nama jalan di Google Maps:** Jl. Raya Andong
@@ -65,28 +69,59 @@ Jalan ini dijuluki 'jalan raya kerajinan tangan'. Sepanjang jalan dipenuhi toko-
 - Keranjang bambu
 - Lampu kerang
 
-Keranjang penyimpanan, nampan, dan alas meja anyaman bambu cocok banget dibawa pulang — ditaruh di rumah bikin suasana liburan. Kalau capek jalan, ada juga beberapa kafe di pinggir jalan buat istirahat.
+Keranjang penyimpanan, nampan, dan alas meja anyaman bambu cocok banget dibawa pulang — ditaruh di rumah langsung bikin suasana liburan. Kalau capek jalan, ada juga beberapa kafe di pinggir jalan buat istirahat.
 
-### Rute 2: Seminyak Jl. Gn. Athena
+## Rute 2: Seminyak Jl. Gn. Athena
 
-**Lokasi:** Sekitar 15 menit naik mobil dari Seminyak Shopping Square
+**Lokasi:** Sekitar 15 menit berkendara dari Seminyak Shopping Square
 **Nama jalan di Google Maps:** Jl. Gn. Athena
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789892930093-mixcollage-20-sep-2026-03-12-pm-6179.jpg)
 
-Di sini dekorasi tokonya lebih kece, jalan-jalannya kayak lihat pameran dekorasi rumah, tapi **harganya tetap ramah di kantong**! Di jalan ini banyak toko furnitur, dekorasi vintage, dan ukiran kayu. Kalau kamu suka dekorasi rumah yang estetik, wajib mampir ke sini.
+Di sini dekorasi tokonya lebih kece, jalan-jalannya kayak lihat pameran interior, tapi **harganya tetap ramah di kantong**! Sepanjang jalan ini banyak toko furnitur, dekorasi vintage, dan ukiran kayu. Kalau kamu suka dekorasi rumah yang estetik, wajib mampir ke sini.
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789892957452-mixcollage-20-sep-2026-03-13-pm-6929.jpg)
 
-### Tips jalan-jalan
+## Rute 3: Canggu Jalan Raya Canggu
 
-1. **Manfaatkan Google Maps:** Tinggal masukin nama jalan di atas, langsung ketemu. Dua jalur ini nggak punya titik spesifik, jadi kamu bisa santai jalan sambil lihat-lihat sepanjang jalan.
-2. **Boleh tawar-menawar dengan sopan:** Bandingin dulu beberapa toko, komunikasi dengan sopan, biasanya masih ada ruang buat nego.
-3. **Minta bantuan supir sewaan:** Supir yang bisa bahasa lokal emang partner paling jago, hasil nawarnya bikin melongo.
-4. **Siapin ruang bagasi:** Lampu, anyaman rotan punya ukuran lumayan, saran sih siapin ruang atau tanya dulu soal cara bungkusnya.
+**Lokasi:** Jalan utama Canggu, dekat dengan banyak kafe surfing dan toko kurasi
+**Nama jalan di Google Maps:** Jalan Raya Canggu
 
-### Buat Kamu yang Hobi Belanja
+Kalau itinerary kamu sudah include Canggu, jalan ini juga worth it buat dijelajahi. Sepanjang Jalan Raya Canggu ada banyak toko dekorasi rumah dan kerajinan tangan, dengan gaya yang lebih modern dan minimalis — beda sama Ubud atau Seminyak yang lebih ke workshop tradisional. Cocok banget buat kamu yang suka dekorasi ala Skandinavia atau Instagramable. Barang yang sering ditemui:
 
-Aku punya banyak toko keren versi pribadi, udah aku datengin langsung, **beneran bikin dompet jebol** 😂. Kalau kamu mau ke Bali dan suka hunting barang unik buat dekorasi rumah, dua rute ini cocok banget masukin itinerary.
+- Kap lampu anyaman rotan, lampu gantung
+- Dekorasi keramik, vas bunga
+- Karpet serat alami
+- Lilin handmade dan wewangian kecil
+
+Kebanyakan tokonya kurasi barang dengan kualitas bagus, temanya seragam dan gampang dipaduin. Nggak perlu banyak waktu buat bandingin harga. Kalau kamu mostly di sekitar Canggu dan nggak mau repot ke Ubud atau Seminyak, rute ini bisa jadi alternatif.
+
+## Tips Belanja
+
+1. **Manfaatin Google Maps:** Tinggal masukin nama jalan di atas, dua-duanya nggak ada titik spesifik — tinggal jalan santai aja sepanjang jalan.
+2. **Boleh nawar dengan sopan:** Bandingin beberapa toko, komunikasi dengan ramah, biasanya masih ada ruang buat tawar-menawar.
+3. **Minta bantuan supir sewaan:** Supir yang bisa bahasa lokal itu asisten paling jago, hasil nawarnya bikin melongo.
+4. **Siapin ruang bagasi:** Lampu dan anyaman rotan punya volume lumayan, saran sih siapin ruang atau tanya dulu cara packingnya.
+
+## Buat Kamu yang Hobi Belanja
+
+Aku punya banyak toko kualitas terbaik versi pribadi, dan semuanya udah aku datengin langsung — **beneran bikin dompet jebol** 😂. Kalau kamu mau ke Bali dan suka hunting barang unik atau dekorasi rumah, tiga rute ini wajib masuk itinerary kamu.
+
+<a href="/map/handicraft-shopping/" style="display:block;text-decoration:none;border:1.5px solid #e8c97a;border-radius:14px;padding:16px 20px;background:linear-gradient(135deg,#fffdf5,#fff);margin:24px 0;box-shadow:0 2px 10px rgba(0,0,0,0.07);">
+  <div style="display:flex;align-items:center;gap:12px;">
+    <span style="font-size:28px;flex-shrink:0;">🧺</span>
+    <div>
+      <div style="font-size:15px;font-weight:700;color:#1a1a1a;margin-bottom:4px;">Peta Belanja Kerajinan Tangan di Ubud & Seminyak</div>
+      <div style="font-size:12px;color:#888;line-height:1.5;">Semua toko di dua rute belanja ini udah ditandain di peta — bisa cari toko terdekat, filter berdasarkan kategori. Cek peta dulu sebelum berangkat biar makin terarah!</div>
+    </div>
+    <span style="color:#ccc;font-size:18px;flex-shrink:0;margin-left:auto;">›</span>
+  </div>
+</a>
+
+**Bacaan lanjutan** :
+
+- [🛍️ Panduan Wajib Belanja di Pasar Ubud Bali: Dari Kerajinan Tangan hingga Koleksi Seni, Borong Sekalian!](https://gobaligo.id/id/blog/ubud-market-shopping-guide/)
+- [【Hunting Dekorasi Rumah di Bali】Lampu Gantung Kerang Kurang dari USD$32! Panduan Pengiriman Laut/Udara, Bawa Pulang Nuansa Tropis ala Bali](https://gobaligo.id/id/blog/bali-home-decor-shopping-guide/)
+- [Gimana Cara Kirim Furnitur dari Bali ke Indonesia? Rekomendasi Ekspedisi Laut, Udara, LCL, dan Perusahaan Logistik 2026](https://gobaligo.id/id/blog/bali-furniture-shipping-guide/)
 
 {{block:伴手禮}}
