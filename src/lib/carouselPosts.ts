@@ -4,6 +4,13 @@ import type { CarouselPost } from '../components/LatestPostsCarousel.astro';
 
 const NEWS_CATEGORIES = ['新聞存檔', '新闻存档'];
 
+// 不放進「最新更新」的文章（填 slug 或檔名）：經常小幅修改、不適合當作更新曝光的頁面。
+// 仍可出現在「最新上線」。
+const EXCLUDE_FROM_UPDATED = [
+  'bali-drivers-recommendations-2',
+  'bali-private-car-drivers-guide',
+];
+
 interface PostLike {
   id: string;
   body?: string;
@@ -49,6 +56,7 @@ export function pickCarouselPosts(
   // 上線當天的修改不算「更新」；同一天更新的文章依上線時間排（sort 為穩定排序）
   const updated = eligible
     .filter(p => !newestIds.has(p.id) && p.data.updatedDate && isoDay(p.data.updatedDate) > isoDay(p.data.pubDate))
+    .filter(p => !EXCLUDE_FROM_UPDATED.includes(p.data.slug || p.id) && !EXCLUDE_FROM_UPDATED.includes(p.id))
     .sort((a, b) => b.data.updatedDate!.valueOf() - a.data.updatedDate!.valueOf())
     .slice(0, perGroup);
 
