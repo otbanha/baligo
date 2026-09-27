@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>烏布＆水明漾工藝品地圖</name>
+    <Folder>
+      <name>購物路線</name>
+      <Placemark>
+        <name>Jl. Raya Andong 烏布工藝品街</name>
+        <description>烏布在地工藝品購物路線，編織燈、竹籃、貝殼燈</description>
+        <Point><coordinates>115.2755,-8.4900,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Jl. Gn. Athena 水明漾工藝品街</name>
+        <description>水明漾工藝品購物路線，家具、古董風裝飾、木雕</description>
+        <Point><coordinates>115.1590,-8.6950,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
