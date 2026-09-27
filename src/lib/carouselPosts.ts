@@ -35,7 +35,7 @@ const isoDay = (d: Date) => d.toISOString().slice(0, 10);
  */
 export function pickCarouselPosts(
   posts: PostLike[],
-  { perGroup = 4, mapCategory = (c: string) => c } = {},
+  { perGroup = 5, mapCategory = (c: string) => c } = {},
 ): CarouselPost[] {
   const eligible = posts.filter(p =>
     p.data.heroImage && !toCategories(p.data.category).some(c => NEWS_CATEGORIES.includes(c)),
