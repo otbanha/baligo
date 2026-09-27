@@ -3,7 +3,7 @@ title: villa
 type: random-list
 randomCount: 8
 lang: zh-hk
-_srcHash: 8bc0f6a8a494aa478b918864c31a5339
+_srcHash: 56149ceef1f29a6e0660480bf54912dd
 ---
 #### 其他地區/villa嘅住宿推薦
 
@@ -17,4 +17,3 @@ _srcHash: 8bc0f6a8a494aa478b918864c31a5339
 - [【沙努爾住宿推薦】：20+從奢華到平價嘅渡假村/villa收集](/zh-hk/blog/sanur-luxury-budget-resorts/)
 - [Alila Villas Uluwatu｜世界十大無邊際泳池✧明星御用婚禮勝地](/zh-hk/blog/alila-villas-uluwatu-bali/)
 - [烏魯瓦圖萬麗 Renaissance Bali Uluwatu 家庭推薦亮點](/zh-hk/blog/renaissance-bali-uluwatu-resort/)
-- [家庭別墅/團體包棟villa推薦](/zh-hk/blog/bali-group-villa-stay/)
