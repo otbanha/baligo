@@ -25,13 +25,13 @@ jobs:
         with:
           node-version: '22'
 
-      - name: 找出「被實質修改」的文章（排除新增檔案、排除只動 updatedDate 的 diff）
+      - name: 找出「被實質修改」的文章（排除新增檔案、排除只動 updatedDate／updatedAt 的 diff）
         id: find
         run: |
           MODIFIED=$(git diff --name-only --diff-filter=M HEAD^ HEAD -- src/content/blog/ | grep -E '\.(md|mdx)$' || true)
           TARGETS=""
           for f in $MODIFIED; do
-            DIFF=$(git diff HEAD^ HEAD -- "$f" | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -vE '^[+-]updatedDate:')
+            DIFF=$(git diff HEAD^ HEAD -- "$f" | grep -E '^[+-]' | grep -vE '^(\+\+\+|---)' | grep -vE '^[+-](updatedDate|updatedAt):')
             if [ -n "$DIFF" ]; then
               TARGETS="${TARGETS}${f}"$'\n'
             fi
@@ -40,7 +40,7 @@ jobs:
           printf '%s' "$TARGETS" >> "$GITHUB_OUTPUT"
           echo "BLOGEOF" >> "$GITHUB_OUTPUT"
 
-      - name: 更新 updatedDate 為今天
+      - name: 更新 updatedDate 為今天、updatedAt 為現在
         if: steps.find.outputs.targets != ''
         run: printf '%s\n' "${{ steps.find.outputs.targets }}" | node scripts/bump-updated-date.mjs
 

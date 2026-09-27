@@ -21,6 +21,7 @@ interface PostLike {
     category?: string | string[];
     pubDate: Date;
     updatedDate?: Date;
+    updatedAt?: Date;
   };
 }
 
@@ -29,6 +30,15 @@ const toCategories = (cat: unknown): string[] =>
 
 // pubDate 與 updatedDate 都存成 UTC 午夜，取 ISO 日期即為峇里島當地日期
 const isoDay = (d: Date) => d.toISOString().slice(0, 10);
+const baliDay = (d: Date) => new Date(d.getTime() + 8 * 3600 * 1000).toISOString().slice(0, 10);
+
+// updatedDate 只有日期；updatedAt（bump-updated-date workflow 寫入）有時分，用來排同一天的先後。
+// 若 updatedAt 與 updatedDate 不是同一天（例如在 CMS 手動改過 updatedDate），以 updatedDate 為準。
+const updatedTime = (p: PostLike): number => {
+  const { updatedDate, updatedAt } = p.data;
+  if (updatedAt && updatedDate && baliDay(updatedAt) === isoDay(updatedDate)) return updatedAt.valueOf();
+  return updatedDate!.valueOf();
+};
 
 /**
  * @param posts 已過濾未發布／私密文章、且依上線時間由新到舊排序的文章
@@ -53,11 +63,11 @@ export function pickCarouselPosts(
   const newest = eligible.slice(0, perGroup);
   const newestIds = new Set(newest.map(p => p.id));
 
-  // 上線當天的修改不算「更新」；同一天更新的文章依上線時間排（sort 為穩定排序）
+  // 上線當天的修改不算「更新」；依更新時間排，沒有 updatedAt 的舊資料同一天內依上線時間排（sort 為穩定排序）
   const updated = eligible
     .filter(p => !newestIds.has(p.id) && p.data.updatedDate && isoDay(p.data.updatedDate) > isoDay(p.data.pubDate))
     .filter(p => !EXCLUDE_FROM_UPDATED.includes(p.data.slug || p.id) && !EXCLUDE_FROM_UPDATED.includes(p.id))
-    .sort((a, b) => b.data.updatedDate!.valueOf() - a.data.updatedDate!.valueOf())
+    .sort((a, b) => updatedTime(b) - updatedTime(a))
     .slice(0, perGroup);
 
   const slides: CarouselPost[] = [];
