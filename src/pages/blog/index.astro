@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
+import { pickCarouselPosts } from '../../lib/carouselPosts';
 import LatestPostsCarousel from '../../components/LatestPostsCarousel.astro';
 import ChatBot from '../../components/ChatBot.astro';
 import BaliTicketTable from '../../components/BaliTicketTable.astro';
@@ -115,17 +116,8 @@ const allPostsData = allPosts
     category: getCategories(p.data.category),
   }));
 
-// 首頁輪播燈箱：最新 8 篇有封面圖的文章，不含新聞存檔
-const carouselPosts = allPosts
-  .filter(p => p.data.heroImage && !getCategories(p.data.category).some(c => c === '新聞存檔' || c === '新闻存档'))
-  .slice(0, 8)
-  .map(p => ({
-    slug: p.data.slug || p.id,
-    title: p.data.title,
-    heroImage: p.data.heroImage,
-    category: getCategories(p.data.category)[0] || '',
-    date: p.data.pubDate.toISOString().split('T')[0],
-  }));
+// 首頁輪播燈箱：最新上線 4 篇 + 最新更新 4 篇交錯（不含新聞存檔），見 src/lib/carouselPosts.ts
+const carouselPosts = pickCarouselPosts(allPosts);
 
 // 最新12則住宿推薦（下面兩格亂數顯示用；上面兩格是置頂，見 accommodationPins）
 const accommodations = allPosts

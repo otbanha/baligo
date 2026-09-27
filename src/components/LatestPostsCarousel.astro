@@ -1,12 +1,13 @@
 ---
 // 首頁「最新文章」輪播燈箱（取代原本的「峇里島旅遊一站通」區塊）
-// 呼叫端負責排除新聞存檔、排序與取前 N 篇；這裡只負責呈現與輪播。
+// 選文邏輯在 src/lib/carouselPosts.ts；這裡只負責呈現與輪播。
 export interface CarouselPost {
   slug: string;
   title: string;
   heroImage: string;
   category?: string;
   date?: string;
+  status?: 'new' | 'updated';
 }
 
 interface Props {
@@ -15,6 +16,8 @@ interface Props {
   heading?: string;
   prevLabel?: string;
   nextLabel?: string;
+  newLabel?: string;
+  updatedLabel?: string;
   interval?: number;
 }
 
@@ -24,6 +27,8 @@ const {
   heading = '最新文章',
   prevLabel = '上一則',
   nextLabel = '下一則',
+  newLabel = '新上線',
+  updatedLabel = '最新更新',
   interval = 5000,
 } = Astro.props;
 ---
@@ -47,8 +52,13 @@ const {
               decoding="async"
             />
             <div class="lpc-caption">
-              {(p.category || p.date) && (
+              {(p.status || p.category || p.date) && (
                 <div class="lpc-meta">
+                  {p.status && (
+                    <span class={`lpc-status lpc-status--${p.status}`}>
+                      {p.status === 'new' ? newLabel : updatedLabel}
+                    </span>
+                  )}
                   {p.category && <span class="lpc-cat">{p.category}</span>}
                   {p.date && <time class="lpc-date" datetime={p.date}>{p.date}</time>}
                 </div>
@@ -214,8 +224,9 @@ const {
   }
   .lpc-meta {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    gap: 0.6rem;
+    gap: 0.45rem 0.6rem;
     margin-bottom: 0.5rem;
     font-size: 0.78rem;
   }
@@ -227,6 +238,15 @@ const {
     border-radius: 999px;
     line-height: 1.4;
   }
+  .lpc-status {
+    font-weight: 700;
+    padding: 0.18rem 0.6rem;
+    border-radius: 999px;
+    line-height: 1.4;
+    color: #fff;
+  }
+  .lpc-status--new { background: #e0533a; }
+  .lpc-status--updated { background: #2e7d6b; }
   .lpc-date {
     color: rgba(255, 255, 255, 0.85);
   }

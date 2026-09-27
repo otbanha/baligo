@@ -4,6 +4,7 @@ import BaseHead from '../../../components/BaseHead.astro';
 import Header from '../../../components/Header.astro';
 import TopStrip from '../../../components/TopStrip.astro';
 import Footer from '../../../components/Footer.astro';
+import { pickCarouselPosts } from '../../../lib/carouselPosts';
 import LatestPostsCarousel from '../../../components/LatestPostsCarousel.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
@@ -107,17 +108,8 @@ const allPostsData = allPosts
     category: getCategories(p.data.category),
   }));
 
-// 首頁輪播燈箱：最新 8 篇有封面圖的文章，不含新聞存檔
-const carouselPosts = allPosts
-  .filter(p => p.data.heroImage && !getCategories(p.data.category).some(c => c === '新聞存檔' || c === '新闻存档'))
-  .slice(0, 8)
-  .map(p => ({
-    slug: p.data.slug || p.id,
-    title: p.data.title,
-    heroImage: p.data.heroImage,
-    category: (c => CAT_ZH_CN[c] ?? c)(getCategories(p.data.category)[0] || ''),
-    date: p.data.pubDate.toISOString().split('T')[0],
-  }));
+// 首頁輪播燈箱：最新上線 4 篇 + 最新更新 4 篇交錯（不含新聞存檔），見 src/lib/carouselPosts.ts
+const carouselPosts = pickCarouselPosts(allPosts, { mapCategory: c => CAT_ZH_CN[c] ?? c });
 
 // 最新12則住宿推薦（下面兩格亂數顯示用，與 zh-tw 首頁一致）
 const accommodations = allPosts
@@ -242,7 +234,7 @@ const socialLinks = [
 
         <!-- 最新文章輪播燈箱（不含新聞存檔） -->
         <h1 class="sr-only">巴厘岛旅游攻略｜Go Bali Go</h1>
-        <LatestPostsCarousel posts={carouselPosts} blogBase={blogBase} heading="最新文章" prevLabel="上一则" nextLabel="下一则" />
+        <LatestPostsCarousel posts={carouselPosts} blogBase={blogBase} heading="最新文章" prevLabel="上一则" nextLabel="下一则" newLabel="新上线" />
 
         <!-- Accommodations 2×2（取代原本的田字格快速入口） -->
         <div class="widget-box accom-feature">
