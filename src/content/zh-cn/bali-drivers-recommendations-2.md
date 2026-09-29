@@ -20,8 +20,7 @@ embeds: []
 updatedDate: 2026-09-27T00:00:00.000Z
 updatedAt: '2026-09-27T08:40:19+08:00'
 lang: zh-cn
-_srcHash: PENDING_RETRY_12bdb8e3fda7bfeee054db14e6a4067a
-_translateAttempts: 1
+_srcHash: 12bdb8e3fda7bfeee054db14e6a4067a
 ---
 
 **本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
@@ -168,7 +167,7 @@ _translateAttempts: 1
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/)
+👍🏼[网友推荐 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[网友推荐9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
 ## **（中文司机）Yoga Setiawan**
 

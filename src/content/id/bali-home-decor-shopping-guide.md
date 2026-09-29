@@ -1,17 +1,16 @@
 ---
 title: >-
-  【Bali Belanja Dekorasi】Lampu Gantung Kerang Kurang dari 500 Ribu! Panduan
-  Laut/Udara, Bawa Pulang Nuansa Tropis Bali
+  【Bali Belanja Dekorasi Rumah】Lampu Gantung Kerang Kurang dari 500 Ribu!
+  Panduan Laut/Udara, Bawa Pulang Gaya Liburan Tropis
 slug: bali-home-decor-shopping-guide
 description: >-
-  Pengen bawa nuansa romantis Villa ke rumah? Intip langsung pasar grosir
-  dekorasi rumah di Bali: dari ukiran kayu handmade Ubud, kerajinan kerang
-  Jimbaran, sampai berbagai lampu gantung anyaman — harganya bikin kamu langsung
-  pengen bawa satu koper! Artikel ini merangkum tempat wajib mampir, tips nawar,
-  dan analisis ongkos kirim ke Indonesia. Dipandu oleh ahli lokal, cara bikin
-  rumah bergaya tropis Bali dengan budget minim.
+  Mau bawa pulang nuansa romantis Villa? Intip langsung pasar grosir dekorasi
+  rumah di Bali: dari ukiran kayu handmade Ubud, kerajinan kerang Jimbaran,
+  sampai berbagai lampu gantung anyaman—harganya bikin kamu langsung pengen bawa
+  satu koper! Artikel ini merangkum tempat wajib hunting, tips nawar, dan
+  analisis ongkos kirim ke Indonesia. Dipandu oleh ahli lokal, ajak kamu
+  wujudkan rumah impian ala tropis dengan budget minim.
 pubDate: 2026-04-13T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 13
 category:
   - 旅行技巧
@@ -27,38 +26,44 @@ tags:
   - Bali home decor shopping guide 2026
   - Shipping home decor from Bali to Taiwan
 heroImage: ''
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+updatedDate: 2026-09-27T00:00:00.000Z
+updatedAt: '2026-09-27T12:11:29+08:00'
 lang: id
-_srcHash: c146184552910b09d8a430b136afb81c
+_srcHash: 0a9783624d0273f200f20d84136bceb8
 ---
+
 ![【峇里島家飾挖寶】貝殼吊燈不到一千台幣！海運/空運攻略，把南洋度假風扛回家](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
 
 > Sharing langsung dari anggota grup FB, Huang Yuning | Beneran cuma di sini ada!
 
-**Kesimpulan duluan**: Kalau mau bawa dekorasi tropis ke Indonesia, jangan beli di kawasan turis — **pasar grosir dekorasi di sekitar Ubud dan Tegallalang** harganya cuma setengah dari harga di tempat wisata (lampu gantung kerang kurang dari 500 ribu rupiah), dan masih bisa ditawar. Pengiriman ke Indonesia bisa pilih laut (murah tapi lama) atau udara (cepat tapi lebih mahal). Toko-toko ini bukan di area wisata, cuma orang dalam yang tahu rutenya. Di bawah ini daftar wajib mampir dan panduan kirim.
+**Kesimpulan duluan**: Mau bawa dekorasi ala tropis ke Indonesia? Jangan beli di kawasan turis—**pasar grosir dekorasi di sekitar Ubud dan Tegallalang** harganya cuma setengah dari harga di tempat wisata (lampu gantung kerang kurang dari 500 ribu rupiah), plus bisa ditawar. Pengiriman bisa pilih laut (murah tapi lama) atau udara (cepat tapi lebih mahal). Toko-toko ini bukan di area turis, jalur yang cuma diketahui orang dalam. Ini dia daftar wajib dikunjungi dan panduan kirimnya.
 
-Ke Bali, selain nge-Villa dan jalan-jalan, **hal paling worth it** —
-yaitu bawa pulang satu koper penuh dekorasi rumah dan kerajinan tangan! 🎁
+Ke Bali, selain nongkrong di Villa dan main ke tempat wisata, **hal paling worth it**—
+yaitu bawa pulang satu koper penuh dekorasi rumah dan kerajinan tangan ke Indonesia! 🎁
 
 ![【峇里島家飾挖寶】貝殼吊燈不到一千台幣！海運/空運攻略，把南洋度假風扛回家](https://images.gobaligo.id/images/2026-04/1776062071750-mixcollage-13-apr-2026-01-27-pm-5893.jpg)
 
-Toko-toko ini **bukan di area wisata**, cuma orang dalam yang tahu rutenya.
-**Harganya super ramah di kantong**, cuma setengah dari harga di tempat wisata, dan **masih bisa ditawar**!
-(Makasih banget sama supir sewaanku yang bantu nego habis-habisan 🥰)
+Toko-toko ini **bukan di area turis**, jalur yang cuma diketahui orang dalam.
+**Harganya super ramah di kantong**, cuma setengah dari harga di tempat wisata, dan **bisa ditawar lagi**!
+(Makasih banget sama supir sewaanku yang bantu nawarin harga sampai puas 🥰)
 
 ![【峇里島家飾挖寶】貝殼吊燈不到一千台幣！海運/空運攻略，把南洋度假風扛回家](https://images.gobaligo.id/images/2026-04/1776062185728-mixcollage-13-apr-2026-01-29-pm-2344.jpg)
 
 {{block:包車}}
 
-## ✨ Incaran Wajib: Lampu Gantung Kerang
+## ✨ Wajib Dibeli: Lampu Gantung Kerang
 
 Aku beneran **bawa pulang lampu gantung kerang ke Indonesia**!
-Waktu dibungkus **pipih banget**, gampang dibawa.
-Harganya **kurang dari 500 ribu rupiah** …
-Sekarang masih mikir, kenapa nggak beli koper tambahan, biar bisa bawa lebih banyak lagi haha～
+Bungkusnya **pipih aja**, gampang banget dibawa.
+Harganya **kurang dari 500 ribu rupiah**...
+Sekarang masih mikir, kenapa nggak beli koper satu lagi, biar bisa bawa lebih banyak haha～
 
 ![必買亮點：貝殼吊燈](https://images.gobaligo.id/images/2026-04/1776062138927-mixcollage-13-apr-2026-01-31-pm-5074.jpg)
 
@@ -67,11 +72,11 @@ setiap hari rasanya kayak masih nginep di Villa 🌿
 
 ***
 
-## 📍 Tiga Rute Berburu Rekomendasi (Bisa Diarahkan di Google Maps)
+## 📍 Tiga Rute Berburu Barang Rekomendasi (Bisa Dinavigasi pakai Google Maps)
 
-### 1️⃣ Pertama: Dekat Ubud Palace (sekitar 14 menit naik mobil)
+### 1️⃣ Rute Pertama: Dekat Ubud Palace (sekitar 14 menit naik mobil)
 
-**Nama jalan: Jl. Raya Andong**
+**Nama jalan: JI. Raya Andong**
 Di pinggir jalan banyak toko kecil yang jual:
 
 - Lampu anyaman
@@ -79,59 +84,63 @@ Di pinggir jalan banyak toko kecil yang jual:
 - Tas
 - Keranjang bambu
 - Dreamcatcher
-- **Lampu kerang** dan berbagai kerajinan lainnya
+- **Lampu kerang** dan berbagai kerajinan tangan lainnya
 
-### 2️⃣ Kedua: Dekat Seminyak (sekitar 14 menit naik mobil dari Seminyak Village)
+### 2️⃣ Rute Kedua: Dekat Seminyak (sekitar 14 menit naik mobil dari Seminyak Shopping Square)
 
-**Nama jalan: Jl. Gn. Athena**
+**Nama jalan: JI. Gn. Athena**
 Dekorasi toko di sini lebih kece,
-tapi harganya tetap **ramah di kantong**!
+tapi harganya tetap **sangat terjangkau**!
 
-### 3️⃣ Ketiga: Jalan Raya Canggu (di sepanjang jalan ini banyak toko dekorasi rumah yang bisa kamu jelajahi)
+### 3️⃣ Jalan Ketiga: Canggu Highway (Sepanjang jalan ini banyak toko dekorasi rumah yang bisa kamu mampir)
 
 Nama jalan: Jl. Raya Canggu
 
 ***
 
-## 🏠 Daftar Toko Rekomendasi (klik link untuk langsung navigasi)
+## Buat Kamu yang Hobi Belanja
 
-- 📍 [Dalle Art Athena](https://maps.app.goo.gl/SCo9mgHa1aNZC4JQA?g_st=ic)
-- 📍 [Bali Homeware](https://maps.app.goo.gl/BGFYh6Zvn4mtGizb9?g_st=ic)
-- 📍 [212 Home Living](https://maps.app.goo.gl/DGFMnkCW2DaKxu2a7?g_st=ic)
-- 📍 [Bagus Lamp Collection](https://maps.app.goo.gl/6zcp8ccG8gm2dSww6?g_st=ic)
-- 📍 [You Like Lamp Shop](https://maps.app.goo.gl/HmUJxS223Tssb2zt8?g_st=ic)
-- 📍 [Kara Home Living Store](https://maps.app.goo.gl/RufqZcsqcfjyPLR58?g_st=ic)
-- 📍 [Luthfi Shop](https://maps.app.goo.gl/pqmdsygPwrRhWKmw9?g_st=ic)
-- 📍 [Canggu & Co Homestore](https://maps.app.goo.gl/81mN4aErgVzNsRS67)
+Aku punya banyak toko keren yang jadi favorit pribadi, dan semuanya udah aku datangi langsung. **Beneran bikin dompet jebol** 😂. Kalau kamu mau ke Bali dan suka hunting barang unik atau dekorasi rumah, tiga rute ini wajib masuk itinerary kamu.
+
+<a href="/map/handicraft-shopping/" style="display:block;text-decoration:none;border:1.5px solid #e8c97a;border-radius:14px;padding:16px 20px;background:linear-gradient(135deg,#fffdf5,#fff);margin:24px 0;box-shadow:0 2px 10px rgba(0,0,0,0.07);">
+  <div style="display:flex;align-items:center;gap:12px;">
+    <span style="font-size:28px;flex-shrink:0;">🧺</span>
+    <div>
+      <div style="font-size:15px;font-weight:700;color:#1a1a1a;margin-bottom:4px;">Peta Belanja Kerajinan Ubud & Seminyak</div>
+      <div style="font-size:12px;color:#888;line-height:1.5;">Semua toko di dua rute belanja udah ditandain di peta, bisa cari lokasi terdekat dan filter berdasarkan kategori. Cek dulu sebelum berangkat, biar makin pede pas jalan-jalan!</div>
+    </div>
+    <span style="color:#ccc;font-size:18px;flex-shrink:0;margin-left:auto;">›</span>
+  </div>
+</a>
 
 ***
 
-## 💬 Kata anggota grup
+## 💬 Kata Para Member Grup
 
-> Dompetku nangis, tapi cantik banget sih ❤️
-> Makasih banget udah sharing!
+> Dompetku bahaya banget, cantik banget ❤️
+> Makasih banget udah sharing
 > Aku suka banget dekorasi kayak gini
-> Aku ketinggalan satu keranjang anyaman di bandara 😭 kata petugas, kegedean buat kabin
-> Cantik banget! Makasih sharingnya! Beneran jangan naik low-cost airline, nanti nggak bisa bawa pulang 😄
+> Aku kehilangan tas anyaman bambu di bandara 😭 Petugas bilang terlalu besar buat kabin
+> Cantik banget, makasih sharingnya! Beneran jangan naik low-cost airline kalau mau belanja, soalnya nggak bisa dibawa pulang 😄
 
 ***
 
 ## 🧳 Tips Penting
 
-- Saran **bawa koper kosong** buat isi belanjaan
-- Hindari low-cost airline, aturan berat & ukuran bagasi bikin kamu nyesel
-- Barang 3D kayak keranjang anyaman atau lampu gantung, pastikan **bisa di-check-in setelah dibungkus**
+- **Bawa koper kosong** buat isi belanjaan
+- Jangan pilih maskapai low-cost, aturan berat & ukuran bagasi bakal bikin kamu menyesal
+- Barang berbentuk 3D seperti keranjang anyaman rotan atau lampu gantung, pastikan **bisa masuk bagasi setelah dikemas**
 
-> [Gimana cara kirim furnitur besar dari Bali ke Indonesia? Panduan Udara/Laut/Petikemas](/id/blog/bali-furniture-shipping-guide/)
+> [Gimana cara kirim furnitur besar dari Bali ke luar negeri? Panduan kargo udara/laut/kontainer](/id/blog/bali-furniture-shipping-guide/)
 
 {{block:伴手禮}}
 
 Buat kamu yang suka belanja dekorasi rumah,
-**wajib bookmark artikel ini**,
-pas ke Bali lagi, tinggal colok GPS aja! 🎉
+**wajib bookmark halaman ini**,
+besok pas ke Bali, tinggal colok GPS aja langsung gas! 🎉
 
-(Info & foto di atas terima kasih dari [Huang Yuning](https://www.facebook.com/share/p/1816tKJD1F/))
+(Info & foto di atas dari [Huang Yuning](https://www.facebook.com/share/p/1816tKJD1F/))
 
-👉 Kamu juga punya pengalaman hunting barang di Bali? Yuk share di kolom komentar~
+👉 Punya pengalaman hunting barang unik di Bali? Share di kolom komentar ya~
 
 {{block:klook}}
