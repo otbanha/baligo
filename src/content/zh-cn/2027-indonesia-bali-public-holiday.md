@@ -30,8 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: PENDING_RETRY_91faad61a0ab60186d659820f0287e67
-_translateAttempts: 1
+_srcHash: 91faad61a0ab60186d659820f0287e67
 ---
 
 # 2027年巴厘岛假期全攻略：抢先规划避开人潮、把握便宜机票
@@ -71,18 +70,18 @@ _translateAttempts: 1
 
 ## 8天集体假日：你需要知道的高峰期
 
-以下是印尼政府核准的集体假日。这些日期前后，巴厘岛和主要景点会人满为患，机票酒店贵翻天：
+以下是印尼政府批准的集体假日。这些日期前后，巴厘岛和主要景点会人满为患，机票酒店贵翻天：
 
 __VID0__
 
 1. **2月6日（星期六）** — 农历新年
 
-中国、香港、台湾、新加坡旅客大举入境
+中国、香港、台湾、新加坡旅客大量入境
     - 寺庙和传统村落会非常拥挤
     - 2. **3月8日 ～ 15日** — 静居日 + 开斋节假期
 **最重要！** 这是印尼全年最长的连假周
     - 机票最难抢、酒店最贵、景点人最多
-    - 机票最难抢、酒店最贵、景点人最多
+- 机票最难抢、酒店最贵、景点人最多
     - 但当地会有宗教节庆氛围，值得体验
 3. **3月26日（星期五）** — 耶稣受难日
     - 与周末相连，形成长周末
@@ -206,7 +205,7 @@ __VID0__
 
 - 想规划具体行程？[免费使用巴厘岛行程规划工具](https://gobaligo.id/zh-cn/trip-planner/)
 - 需要酒店推荐？请看我们的[分区住宿推荐](https://gobaligo.id/zh-cn/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)
-- 想要美食/景點/活動推薦？[看這裡](https://gobaligo.id/blog?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95)
+- 想要美食/景点/活动推荐？[看这里](https://gobaligo.id/blog?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95)
 - 想了解巴厘岛签证？[1分钟搞懂最新流程：下飞机→过海关→取行李全攻略](https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/)
 
 🌴 **下一步：开始打包，2027年在巴厘岛见！**
