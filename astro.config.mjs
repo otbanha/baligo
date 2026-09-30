@@ -30,6 +30,7 @@ const CAT_SLUG_EN = {
   '遊記分享': 'travel-stories',
   '美食景點活動': 'food-activities',
   '套裝行程': 'package-tours',
+  '購物指南': 'shopping',
 };
 const CAT_FROM_SLUG_EN = Object.fromEntries(
   Object.entries(CAT_SLUG_EN).map(([zh, en]) => [en, zh])

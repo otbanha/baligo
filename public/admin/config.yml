@@ -59,6 +59,7 @@ collections:
           - 套裝行程
           - 旅行技巧
           - 新聞存檔
+          - 購物指南
       - label: Tags
         name: tags
         widget: list

@@ -25,6 +25,7 @@ const CATEGORY_ORDER = [
   '美食景點活動',
   '套裝行程',
   '新聞存檔',
+  '購物指南',
 ];
 
 const cache = new Map<string, Promise<PostIndex>>();
