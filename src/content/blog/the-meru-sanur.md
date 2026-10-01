@@ -29,7 +29,8 @@ longitude: 115.2635269165039
 agoda_star_rating: 5
 agoda_hotel_name: 美魯薩努爾飯店
 agoda_hotel_id: 50081294
-updatedDate: 2026-07-21
+updatedDate: 2026-10-01
+contentUpdatedAt: '2026-10-01T23:13:15+08:00'
 update: 2026/05/22
 latitude: -8.678433418273926
 ---
