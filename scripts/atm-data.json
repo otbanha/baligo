@@ -359,19 +359,6 @@
   },
   {
     "type": "node",
-    "id": 2148876466,
-    "lat": -8.4539659,
-    "lon": 115.6019751,
-    "tags": {
-      "amenity": "bank",
-      "atm": "yes",
-      "brand": "Bank Mandiri",
-      "brand:wikidata": "Q806639",
-      "name": "Bank Mandiri"
-    }
-  },
-  {
-    "type": "node",
     "id": 2179210559,
     "lat": -8.700815,
     "lon": 115.1662152,

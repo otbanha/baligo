@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島 ATM 提款機 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-09-01 | 總計 526 台</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-10-01 | 總計 525 台</description>
     <Folder>
       <name>BCA</name>
       <Placemark>
@@ -469,13 +469,6 @@
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/1533609929" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2544223,-8.6743086,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bank Mandiri</name>
-        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/2148876466" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.6019751,-8.4539659,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
