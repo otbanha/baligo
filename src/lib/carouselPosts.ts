@@ -1,5 +1,6 @@
 // 首頁輪播燈箱的選文邏輯（繁中／港繁／簡中首頁共用）
 // 「最新上線」與「最新更新」各取 perGroup 篇，交錯排列，兩組不重複，皆排除新聞存檔。
+// 「最新更新」只看內文有改的文章（contentUpdatedAt）；只改分類、hero 圖等 frontmatter 不算。
 import type { CarouselPost } from '../components/LatestPostsCarousel.astro';
 
 const NEWS_CATEGORIES = ['新聞存檔', '新闻存档'];
@@ -20,25 +21,16 @@ interface PostLike {
     heroImage?: string;
     category?: string | string[];
     pubDate: Date;
-    updatedDate?: Date;
-    updatedAt?: Date;
+    contentUpdatedAt?: Date;
   };
 }
 
 const toCategories = (cat: unknown): string[] =>
   Array.isArray(cat) ? cat : typeof cat === 'string' ? [cat] : [];
 
-// pubDate 與 updatedDate 都存成 UTC 午夜，取 ISO 日期即為峇里島當地日期
+// pubDate 存成 UTC 午夜，取 ISO 日期即為峇里島當地日期；contentUpdatedAt 是含時分的時間點，要換算成峇里島日期
 const isoDay = (d: Date) => d.toISOString().slice(0, 10);
 const baliDay = (d: Date) => new Date(d.getTime() + 8 * 3600 * 1000).toISOString().slice(0, 10);
-
-// updatedDate 只有日期；updatedAt（bump-updated-date workflow 寫入）有時分，用來排同一天的先後。
-// 若 updatedAt 與 updatedDate 不是同一天（例如在 CMS 手動改過 updatedDate），以 updatedDate 為準。
-const updatedTime = (p: PostLike): number => {
-  const { updatedDate, updatedAt } = p.data;
-  if (updatedAt && updatedDate && baliDay(updatedAt) === isoDay(updatedDate)) return updatedAt.valueOf();
-  return updatedDate!.valueOf();
-};
 
 /**
  * @param posts 已過濾未發布／私密文章、且依上線時間由新到舊排序的文章
@@ -51,29 +43,29 @@ export function pickCarouselPosts(
     p.data.heroImage && !toCategories(p.data.category).some(c => NEWS_CATEGORIES.includes(c)),
   );
 
-  const toSlide = (p: PostLike, status: 'new' | 'updated', date: Date): CarouselPost => ({
+  const toSlide = (p: PostLike, status: 'new' | 'updated', date: string): CarouselPost => ({
     slug: p.data.slug || p.id,
     title: p.data.title,
     heroImage: p.data.heroImage!,
     category: mapCategory(toCategories(p.data.category)[0] || ''),
-    date: isoDay(date),
+    date,
     status,
   });
 
   const newest = eligible.slice(0, perGroup);
   const newestIds = new Set(newest.map(p => p.id));
 
-  // 上線當天的修改不算「更新」；依更新時間排，沒有 updatedAt 的舊資料同一天內依上線時間排（sort 為穩定排序）
+  // 內文修改時間由 bump-updated-date workflow 寫入；上線當天的修改不算「更新」
   const updated = eligible
-    .filter(p => !newestIds.has(p.id) && p.data.updatedDate && isoDay(p.data.updatedDate) > isoDay(p.data.pubDate))
+    .filter(p => !newestIds.has(p.id) && p.data.contentUpdatedAt && baliDay(p.data.contentUpdatedAt) > isoDay(p.data.pubDate))
     .filter(p => !EXCLUDE_FROM_UPDATED.includes(p.data.slug || p.id) && !EXCLUDE_FROM_UPDATED.includes(p.id))
-    .sort((a, b) => updatedTime(b) - updatedTime(a))
+    .sort((a, b) => b.data.contentUpdatedAt!.valueOf() - a.data.contentUpdatedAt!.valueOf())
     .slice(0, perGroup);
 
   const slides: CarouselPost[] = [];
   for (let i = 0; i < Math.max(newest.length, updated.length); i++) {
-    if (newest[i]) slides.push(toSlide(newest[i], 'new', newest[i].data.pubDate));
-    if (updated[i]) slides.push(toSlide(updated[i], 'updated', updated[i].data.updatedDate!));
+    if (newest[i]) slides.push(toSlide(newest[i], 'new', isoDay(newest[i].data.pubDate)));
+    if (updated[i]) slides.push(toSlide(updated[i], 'updated', baliDay(updated[i].data.contentUpdatedAt!)));
   }
   return slides;
 }

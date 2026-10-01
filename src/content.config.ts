@@ -19,9 +19,9 @@ const blog = defineCollection({
     pubDate: safeDate,
     pubHour: z.number().optional().catch(undefined),
     updatedDate: safeDate,
-    // 最後一次實質修改的時間（含時分，峇里島時間），由 bump-updated-date workflow 寫入；
-    // updatedDate 只有日期，同一天更新多篇時靠這個排出先後（首頁輪播「最新更新」用）。
-    updatedAt: safeDate,
+    // 內文最後修改時間（含時分，峇里島時間），由 bump-updated-date workflow 寫入；
+    // 只改分類、hero 圖等 frontmatter 不會動到它。首頁輪播「最新更新」用。
+    contentUpdatedAt: safeDate,
     heroImage: z.string().optional(),
     category: z.union([z.string(), z.array(z.string())]).optional(),
     tags: z.any().optional(),
