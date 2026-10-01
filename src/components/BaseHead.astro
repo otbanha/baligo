@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE_TITLE, SITE_URL, SITE_LOGO, SITE_OG_IMAGE } from '../consts';
+import { SITE_TITLE, SITE_URL, SITE_LOGO, SITE_OG_IMAGE, CN_SITE_VERIFICATION } from '../consts';
 import { AUTHOR } from '../data/author';
 
 interface Props {
@@ -113,10 +113,34 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
 <link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
 
 <!-- Google Fonts：非阻塞載入（media="print" 先不套用，載完切回 all），display=swap 期間先用系統字型 -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link rel="stylesheet" href={fontsHref} media="print" onload="this.media='all'" />
-<noscript><link rel="stylesheet" href={fontsHref} /></noscript>
+<!-- 簡中版不載 Google Fonts：fonts.googleapis.com 在中國被封鎖，連線會一直卡到逾時，
+     拖慢百度等爬蟲與大陸讀者的載入速度。字型堆疊本來就以 PingFang SC / 微软雅黑 優先。 -->
+{pathLang !== 'zh-cn' && (
+  <>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href={fontsHref} media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href={fontsHref} /></noscript>
+  </>
+)}
+
+<!-- 中國搜尋引擎（百度／360／搜狗／神馬）：站長平台驗證碼在 src/consts.ts 設定 -->
+{CN_SITE_VERIFICATION.baidu && <meta name="baidu-site-verification" content={CN_SITE_VERIFICATION.baidu} />}
+{CN_SITE_VERIFICATION.so360 && <meta name="360-site-verification" content={CN_SITE_VERIFICATION.so360} />}
+{CN_SITE_VERIFICATION.sogou && <meta name="sogou_site_verification" content={CN_SITE_VERIFICATION.sogou} />}
+{CN_SITE_VERIFICATION.shenma && <meta name="shenma-site-verification" content={CN_SITE_VERIFICATION.shenma} />}
+{pathLang === 'zh-cn' && (
+  <>
+    <meta http-equiv="Content-Language" content="zh-CN" />
+    <!-- 禁止百度移動搜尋轉碼（否則會被包一層加廣告的轉碼頁） -->
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <!-- 告訴百度：同一網址同時適用電腦與手機（響應式），不必另找手機版 -->
+    <meta name="applicable-device" content="pc,mobile" />
+    <!-- 360／QQ／搜狗等雙核瀏覽器強制用 webkit 核心 -->
+    <meta name="renderer" content="webkit" />
+  </>
+)}
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />

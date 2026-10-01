@@ -74,6 +74,12 @@ jobs:
         if: steps.collect.outputs.count != '0'
         run: cat urls.txt | node scripts/submit-to-indexnow.mjs
 
+      - name: 推送簡中頁到百度
+        if: steps.collect.outputs.count != '0'
+        env:
+          BAIDU_PUSH_TOKEN: ${{ secrets.BAIDU_PUSH_TOKEN }}
+        run: cat urls.txt | node scripts/submit-to-baidu.mjs
+
       - name: 上傳待提交 URL 清單（方便手動送 GSC）
         if: steps.collect.outputs.count != '0'
         uses: actions/upload-artifact@v4

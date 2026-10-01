@@ -138,7 +138,9 @@ export async function onRequest({ request, next }) {
 
   // 爬蟲/社群媒體抓取器
   const ua = request.headers.get('user-agent') ?? '';
-  const isBot = /facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|curl|wget/i.test(ua);
+  // 中國搜尋引擎爬蟲（百度／360／搜狗／神馬／頭條）也要放行：它們多半帶 zh-CN 的
+  // Accept-Language，沒放行的話會被 302 導到 /zh-cn/，繁中頁就收錄不到、網址也會亂掉。
+  const isBot = /facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|baiduspider|360spider|haosouspider|sogou[\w ]*spider|yisouspider|bytespider|curl|wget/i.test(ua);
 
   // Forum share 頁面：讓 bot 直接通過，由 route function 處理 OG
   if (pathname.startsWith('/forum/immigration/p/')) {
