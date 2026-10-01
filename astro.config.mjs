@@ -90,6 +90,9 @@ const catLastmod = (() => {
   return out;
 })();
 
+// 各語言部落格首頁（/blog/、/en/blog/ …）的 lastmod：全站最新一篇文章的日期。
+const blogIndexLastmod = Object.values(catLastmod).sort().at(-1);
+
 // 判斷是否為過期的每日新聞存檔文章（45 天以上），排除於 sitemap 外，
 // 改由 /news/ hub 彙整頁承接排名，避免大量薄內容稀釋全站品質信號。
 const NEWS_STALE_DAYS = 45;
@@ -201,6 +204,23 @@ export default defineConfig({
             { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/' },
             { lang: 'en',        url: 'https://gobaligo.id/en/' },
             { lang: 'id',        url: 'https://gobaligo.id/id/' },
+          ];
+        }
+
+        // 各語言部落格首頁（/blog/、/en/blog/ …）：根路徑 / 與 /en/ 等都只是轉址，
+        // 這幾頁才是實際的首頁內容，但原本落在預設的 0.7 / monthly，也沒有 lastmod 與 hreflang。
+        const blogIndexMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/?$/);
+        if (blogIndexMatch) {
+          item.priority = 1.0;
+          item.changefreq = 'daily';
+          if (blogIndexLastmod) item.lastmod = blogIndexLastmod;
+          item.links = [
+            { lang: 'x-default', url: 'https://gobaligo.id/blog/' },
+            { lang: 'zh-TW',     url: 'https://gobaligo.id/blog/' },
+            { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/blog/' },
+            { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/blog/' },
+            { lang: 'en',        url: 'https://gobaligo.id/en/blog/' },
+            { lang: 'id',        url: 'https://gobaligo.id/id/blog/' },
           ];
         }
 

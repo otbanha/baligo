@@ -10,6 +10,7 @@ import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection } from 'astro:content';
 import { ACCOMMODATION_PINS } from '../../../lib/accommodationPins';
+import { catUrlSlug } from '../../../lib/categoryConfig';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
 import qaI18n from '../../../qa-i18n.json';
@@ -110,6 +111,152 @@ const allPostsData = allPosts
     category: getCategories(p.data.category),
   }));
 
+// ── SEO ──────────────────────────────────────────────────────────────────────
+const year = now.getFullYear();
+const SITE = 'https://gobaligo.id';
+const pageUrl = `${SITE}${blogBase}/`;
+const pageTitle = `Bali Travel Guide & Blog ${year}: Visa, Transport, Where to Stay`;
+const pageDescription = `${countFloor}+ on-the-ground Bali guides: ${year} visa and arrival rules, Gojek vs private drivers, where to stay in Seminyak, Ubud or Canggu, real prices and itineraries.`;
+
+// 只有這 9 個分類有靜態 /en/blog/category/[slug]/ 頁（見 src/pages/en/blog/category/[cat].astro），
+// 其餘（新聞存檔、旅行技巧、購物指南）沿用 ?cat= 前端篩選，避免連到 404。
+const STATIC_CATEGORY_PAGES = new Set([
+  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',
+]);
+const catHref = (cat: string) => STATIC_CATEGORY_PAGES.has(cat)
+  ? `${blogBase}/category/${catUrlSlug('en', cat)}/`
+  : `${blogBase}/?cat=${encodeURIComponent(cat)}`;
+
+// 第一頁文章直接輸出在靜態 HTML（與下方 JS 初次渲染的 18 篇相同）。
+// 原本 #posts-grid 完全靠 JS 填入，不執行 JS 的爬蟲（Bing、AI crawler）在這頁看不到任何文章連結。
+const POSTS_PER_PAGE = 18;
+const firstPagePosts = allPostsData.filter(p => !p.category.includes('新聞存檔')).slice(0, POSTS_PER_PAGE);
+
+// 首頁的「旅遊必知」問答：讓這頁有實質內容可排名「Bali travel guide」類查詢，
+// 並以關鍵字錨文字連到各主題的深度文章。數字與規定取自所連文章，文章更新時這裡要一起改。
+const hubFaqs = [
+  {
+    q: `Do I need a visa to visit Bali in ${year}?`,
+    a: 'Most visitors need a Visa on Arrival (e-VOA). It costs IDR 500,000, is valid for 30 days and can be extended once for another 30 days. Apply online on the official evisa.imigrasi.go.id site before you fly to skip the airport queue, or buy it when you land.',
+    links: [
+      { href: `${blogBase}/bali-evisa-application-guide/`, label: 'Bali e-VOA application guide' },
+      { href: `${blogBase}/bali-visa-landing-vs-electronic/`, label: 'Visa on Arrival vs e-Visa' },
+    ],
+  },
+  {
+    q: 'What else do I need to prepare before flying to Bali?',
+    a: 'In the 3 days before your flight, fill in the All Indonesia Arrival Card, which combines the customs and health declarations, and save the QR code. Bali also charges every foreign visitor a tourist levy of IDR 150,000 per entry, payable online through the official Love Bali system.',
+    links: [
+      { href: `${blogBase}/bali-all-indonesia-arrival-guide/`, label: 'All Indonesia Arrival Card guide' },
+      { href: `${blogBase}/bali-entry-requirements/`, label: 'Bali entry requirements checklist' },
+    ],
+  },
+  {
+    q: 'When is the best time to visit Bali?',
+    a: 'The dry season from April to October brings the most sunshine, with July, August and the Christmas–New Year holidays the busiest and most expensive. The rainy season from November to March usually means short tropical downpours rather than all-day rain, plus fewer crowds and lower hotel rates.',
+    links: [
+      { href: `${blogBase}/bali-best-time-to-visit/`, label: 'Best time to visit Bali' },
+      { href: '/en/weather/', label: 'Live Bali weather & monthly rainfall' },
+    ],
+  },
+  {
+    q: 'How do I get around Bali?',
+    a: 'Bali has very little public transport, so most travellers combine two options: Gojek or Grab for short point-to-point rides, and a private driver for day trips with several stops. A private car with driver typically costs around IDR 600,000–800,000 for 10 hours, priced per car rather than per person.',
+    links: [
+      { href: `${blogBase}/bali-transportation-guide-car-rental/`, label: 'Private driver vs Gojek/Grab' },
+      { href: `${blogBase}/2026-03-18-bali-gojek-grab-guide/`, label: 'Gojek vs Grab in Bali' },
+      { href: `${blogBase}/bali-private-car-drivers-guide/`, label: 'Recommended Bali drivers' },
+    ],
+  },
+  {
+    q: 'Where should I stay in Bali?',
+    a: 'Seminyak suits first-timers who want restaurants and shopping on foot, Canggu is the surf-and-café hub, and Ubud is for rice terraces, culture and wellness. Uluwatu has clifftop views and beach clubs, Nusa Dua, Jimbaran and Sanur offer calmer beaches for families, and Kuta is the budget pick closest to the airport.',
+    links: [
+      { href: `${blogBase}/category/accommodation/`, label: 'Bali hotels & villas by area' },
+      { href: `${blogBase}/category/area-guide/`, label: 'Bali area guides' },
+    ],
+  },
+  {
+    q: 'What currency is used in Bali, and how should I exchange money?',
+    a: 'Bali uses only the Indonesian Rupiah (IDR). Cards work at hotels and larger restaurants, but you will need cash for warungs, markets and small shops. Bringing US or Australian dollars and exchanging them at an authorised money changer usually gets the best rate. Avoid street booths advertising rates that look too good to be true.',
+    links: [
+      { href: `${blogBase}/bali-currency-exchange-guide/`, label: 'Bali currency exchange guide' },
+      { href: `${blogBase}/bali-money-exchange-scams/`, label: 'Money exchange scams to avoid' },
+    ],
+  },
+  {
+    q: 'Should I get a SIM card or an eSIM for Bali?',
+    a: 'For trips under about 5 days an eSIM is easiest, since you install it at home and it works on landing. For 1–2 weeks, or if you need a local phone number, a Telkomsel SIM bought at the airport gives the widest coverage, including in rural areas.',
+    links: [
+      { href: `${blogBase}/bali-sim-card-esim-guide/`, label: 'Bali SIM card & eSIM guide' },
+    ],
+  },
+];
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE}/#website`,
+      url: `${SITE}/`,
+      name: 'Go Bali Go',
+      alternateName: 'Go Bali Go — Bali Travel Guide',
+      inLanguage: ['zh-TW', 'zh-HK', 'zh-CN', 'en', 'id'],
+      publisher: { '@id': `${SITE}/#organization` },
+    },
+    {
+      '@type': 'Organization',
+      '@id': `${SITE}/#organization`,
+      name: 'Go Bali Go',
+      url: `${SITE}/`,
+      logo: { '@type': 'ImageObject', url: `${SITE}/apple-touch-icon.png`, width: 180, height: 180 },
+      sameAs: [
+        'https://www.facebook.com/bali.guide.blog',
+        'https://www.instagram.com/go.bali.go/',
+        'https://www.youtube.com/@j_indonesia',
+        'https://www.threads.com/@go.bali.go',
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${pageUrl}#webpage`,
+      url: pageUrl,
+      name: pageTitle,
+      description: pageDescription,
+      inLanguage: 'en',
+      isPartOf: { '@id': `${SITE}/#website` },
+      publisher: { '@id': `${SITE}/#organization` },
+      about: {
+        '@type': 'Place',
+        name: 'Bali',
+        address: { '@type': 'PostalAddress', addressCountry: 'ID', addressRegion: 'Bali' },
+      },
+      mainEntity: {
+        '@type': 'ItemList',
+        name: 'Latest Bali travel guides',
+        itemListOrder: 'https://schema.org/ItemListOrderDescending',
+        numberOfItems: firstPagePosts.length,
+        itemListElement: firstPagePosts.map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: `${SITE}${blogBase}/${p.slug}/`,
+          name: p.title,
+        })),
+      },
+    },
+    {
+      '@type': 'FAQPage',
+      '@id': `${pageUrl}#faq`,
+      mainEntity: hubFaqs.map(f => ({
+        '@type': 'Question',
+        name: f.q,
+        acceptedAnswer: { '@type': 'Answer', text: f.a },
+      })),
+    },
+  ],
+};
+
 // 最新12則住宿推薦（下面兩格亂數顯示用，與 zh-tw 首頁一致）
 const accommodations = allPosts
   .filter(p => getCategories(p.data.category).includes('住宿推薦'))
@@ -169,25 +316,14 @@ const socialLinks = [
 <!doctype html>
 <html lang="en">
 <head>
-  <BaseHead title="Bali Travel Guide | Go Bali Go" description="Your ultimate Bali travel guide — 700+ articles on visas, transport, accommodation, food, itineraries and more." noSuffix={true} />
+  <BaseHead title={pageTitle} description={pageDescription} noSuffix={true} />
   <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/blog/" />
   <link rel="alternate" hreflang="zh-TW"     href="https://gobaligo.id/blog/" />
   <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
   <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
   <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
-  <script type="application/ld+json" set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "Go Bali Go — Bali Travel Guide",
-    "url": "https://gobaligo.id",
-    "description": "Your ultimate Bali travel guide — 700+ articles on visas, transport, accommodation, food and itineraries.",
-    "inLanguage": ["zh-TW", "zh-HK", "zh-CN", "en"],
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": { "@type": "EntryPoint", "urlTemplate": "https://www.google.com/search?sitesearch=gobaligo.id/en/blog&q={search_term_string}" },
-      "query-input": "required name=search_term_string"
-    }
-  })} />
+  <link rel="alternate" hreflang="id"        href="https://gobaligo.id/id/blog/" />
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 </head>
 <body>
   <Header lang="en" />
@@ -201,19 +337,20 @@ const socialLinks = [
       <div class="sidebar-inner" id="sidebar-inner">
         <div class="sidebar-section">
           <h3 class="sidebar-title">📂 Categories</h3>
+          <!-- 用真實連結（爬蟲可跟隨到分類頁）；一般點擊仍由 JS 攔截做 ?cat= 前端篩選 -->
           <ul class="category-list">
             <li>
-              <button class="category-item active" data-category="all">
+              <a href={`${blogBase}/`} class="category-item active" data-category="all">
                 <span class="cat-name">Home</span>
                 <span class="cat-count">{allPosts.length}</span>
-              </button>
+              </a>
             </li>
             {categories.map(cat => (
               <li>
-                <button class="category-item" data-category={cat}>
+                <a href={catHref(cat)} class="category-item" data-category={cat}>
                   <span class="cat-name">{CAT_EN[cat] ?? cat}</span>
                   <span class="cat-count">{categoryCounts[cat]}</span>
-                </button>
+                </a>
               </li>
             ))}
           </ul>
@@ -226,8 +363,8 @@ const socialLinks = [
 
         <!-- Core Value Proposition Hero Section -->
         <div class="value-hero">
-          <h1 class="hero-headline">Your Ultimate Bali Travel Hub</h1>
-          <p class="hero-tagline">The most comprehensive English Bali travel guide with {countFloor}+ articles, 300+ curated hotels & villas, daily exchange rates, free planning tools, and trusted driver recommendations</p>
+          <h1 class="hero-headline">Bali Travel Guide & Blog {year}</h1>
+          <p class="hero-tagline">{countFloor}+ on-the-ground guides to Bali visas, getting around, where to stay, food and itineraries, plus daily exchange rates, free planning tools and trusted driver recommendations</p>
           <ul class="value-bullets">
             <li>✓ {allPosts.length} in-depth guides, continuously updated</li>
             <li>✓ 300+ Bali hotels & villas handpicked reviews</li>
@@ -245,7 +382,7 @@ const socialLinks = [
               {accomCards.map((a, i) => (
                 <a href="#" id={`accom-link${i ? `-${i + 1}` : ''}`} class="accom-card">
                   <div class="accom-image">
-                    <img id={`accom-img${i ? `-${i + 1}` : ''}`} src={a.heroImage} alt="" loading="lazy" />
+                    <img id={`accom-img${i ? `-${i + 1}` : ''}`} src={a.heroImage} alt={a.title} loading="lazy" />
                   </div>
                   <div class="accom-body">
                     <p id={`accom-title${i ? `-${i + 1}` : ''}`}>{a.title}</p>
@@ -372,7 +509,7 @@ const socialLinks = [
       </div>
 
       <div id="cat-heading" style="display:none">
-        <h1 id="cat-heading-text" class="cat-heading-title"></h1>
+        <h2 id="cat-heading-text" class="cat-heading-title"></h2>
       </div>
 
       <div id="featured-section" style="display:none">
@@ -390,10 +527,52 @@ const socialLinks = [
         </div>
       </div>
 
-      <!-- 文章卡片（由 JS 動態渲染，每次只建立當前頁） -->
-      <div class="grid" id="posts-grid"></div>
+      <h2 id="latest-heading" class="section-title">🆕 Latest Bali Travel Guides</h2>
+
+      <!-- 文章卡片：第一頁靜態輸出（爬蟲可見），換頁／篩選時由 JS 重新渲染 -->
+      <div class="grid" id="posts-grid" data-ssr="1">
+        {firstPagePosts.map(post => {
+          const badgeCat = post.category[0] || '';
+          return (
+            <a href={`${blogBase}/${post.slug}/`} class="card">
+              <div class="card-image">
+                {post.heroImage
+                  ? <img src={post.heroImage} alt={post.title} loading="lazy" />
+                  : <div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>}
+                {badgeCat && <span class="category-badge">{CAT_EN[badgeCat] ?? badgeCat}</span>}
+              </div>
+              <div class="card-body">
+                <h3 class="card-title">{post.title}</h3>
+                <p class="card-desc">{post.description}</p>
+              </div>
+            </a>
+          );
+        })}
+      </div>
 
       <div id="pagination" class="pagination"></div>
+
+      <section class="hub-essentials" id="hub-essentials" aria-labelledby="hub-essentials-title">
+        <h2 id="hub-essentials-title" class="section-title">Bali Travel Essentials: Quick Answers for {year}</h2>
+        <p class="hub-intro">
+          First trip to Bali? Start with our <a href={`${blogBase}/category/beginners-guide/`}>Bali beginner's guide</a> and
+          the <a href={`${blogBase}/2026-bali-trip-planning-guide/`}>7-step Bali trip planning checklist</a>, then use the
+          free <a href="/en/trip-planner/">Bali trip planner</a> and <a href="/en/bali-budget-calculator/">Bali budget calculator</a>.
+          Here are the questions travellers ask us most often.
+        </p>
+        {hubFaqs.map(f => (
+          <div class="hub-faq">
+            <h3>{f.q}</h3>
+            <p>{f.a}</p>
+            <p class="hub-more">
+              Read more:{' '}
+              {f.links.map((l, i) => (
+                <Fragment>{i > 0 && ' · '}<a href={l.href}>{l.label}</a></Fragment>
+              ))}
+            </p>
+          </div>
+        ))}
+      </section>
 
 
       {activePromos.length > 0 && (
@@ -408,7 +587,7 @@ const socialLinks = [
   <Footer lang="en" />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, accommodationPins, top5Posts, blogBase, CAT_EN, qaData }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, accommodationPins, top5Posts, blogBase, CAT_EN, qaData, POSTS_PER_PAGE }}>
   window.addEventListener('DOMContentLoaded', () => {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
@@ -481,7 +660,6 @@ const socialLinks = [
       ['', '-2', '-3', '-4'].forEach((suffix, i) => fillAccom(suffix, picks[i]));
     }
 
-    const POSTS_PER_PAGE = 18;
     let currentPage = 1;
     let currentCat = 'all';
     let currentQ = '';
@@ -527,7 +705,9 @@ const socialLinks = [
       return blogBase + (params.toString() ? '?' + params.toString() : '');
     }
 
-    function renderCards() {
+    // keepStatic：初次載入預設檢視時，第一頁已在靜態 HTML 裡，不重畫（避免閃爍），只補分頁
+    function renderCards(keepStatic = false) {
+      if (keepStatic) { updatePagination(); return; }
       const grid = document.getElementById('posts-grid');
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
@@ -543,7 +723,7 @@ const socialLinks = [
         return `<a href="${blogBase}/${escapeHtml(post.slug)}/" class="card fade-in">
           <div class="card-image">${imgHtml}${badgeHtml}</div>
           <div class="card-body">
-            <h2 class="card-title">${escapeHtml(post.title)}</h2>
+            <h3 class="card-title">${escapeHtml(post.title)}</h3>
             <p class="card-desc">${escapeHtml(post.description)}</p>
           </div>
         </a>`;
@@ -560,7 +740,7 @@ const socialLinks = [
     }
 
     function updatePagination() {
-      const totalPages = Math.ceil(filteredCards.length / POSTS_PER_PAGE);
+      const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
       const pagination = document.getElementById('pagination');
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
@@ -594,6 +774,10 @@ const socialLinks = [
       if (homepageBlocks && !isInitial) {
         homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
       }
+      ['latest-heading', 'hub-essentials'].forEach(id => {
+        const el = document.getElementById(id);
+        if (el && !isInitial) el.style.display = (cat === 'all' && !q) ? '' : 'none';
+      });
       const qLower = q ? q.toLowerCase() : '';
       filteredPosts = allPostsData.filter(post => {
         const catList = post.category || [];
@@ -603,7 +787,10 @@ const socialLinks = [
         return true;
       });
       updateFeatured(cat);
-      renderCards();
+      const grid = document.getElementById('posts-grid');
+      const keepStatic = isInitial && grid.dataset.ssr === '1' && cat === 'all' && page === 1 && !q;
+      delete grid.dataset.ssr;
+      renderCards(keepStatic);
     }
 
     function filterCategory(cat) {
@@ -614,7 +801,12 @@ const socialLinks = [
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
     }
 
-    buttons.forEach(btn => btn.addEventListener('click', () => filterCategory(btn.dataset.category)));
+    buttons.forEach(btn => btn.addEventListener('click', (e) => {
+      // Ctrl/⌘/中鍵等開新分頁的點擊交給瀏覽器，直接開啟分類頁
+      if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      e.preventDefault();
+      filterCategory(btn.dataset.category);
+    }));
     window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1, e.state?.q || '', false); });
 
     const urlParams = new URLSearchParams(window.location.search);
@@ -687,7 +879,7 @@ const socialLinks = [
 .sidebar-section { margin-bottom: 1.8em; }
 .sidebar-title { font-size: 0.85em; font-weight: 700; color: var(--ocean); letter-spacing: 0.05em; margin: 0 0 0.8em; padding-bottom: 0.5em; border-bottom: 1px solid rgba(197,160,89,0.2); }
 .category-list { list-style: none; margin: 0; padding: 0; }
-.category-item { display: flex; justify-content: space-between; align-items: center; width: 100%; min-height: 44px; padding: 0.45em 0.7em; border-radius: 8px; border: none; background: none; cursor: pointer; color: var(--text); font-size: 0.88em; font-family: inherit; text-align: left; transition: all 0.15s; margin-bottom: 0.2em; }
+.category-item { display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; text-decoration: none; width: 100%; min-height: 44px; padding: 0.45em 0.7em; border-radius: 8px; border: none; background: none; cursor: pointer; color: var(--text); font-size: 0.88em; font-family: inherit; text-align: left; transition: all 0.15s; margin-bottom: 0.2em; }
 .category-item:hover { background: rgba(197,160,89,0.1); color: var(--ocean); }
 .category-item.active { background: var(--header-bg); color: var(--gold-light); }
 .cat-name { flex: 1; }
@@ -814,10 +1006,11 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .accom-grid .accom-image { height: auto; aspect-ratio: 16 / 9; }
 @media (max-width: 600px) { .accom-grid { gap: 0.8em; } }
 .value-hero { background: linear-gradient(135deg, #F5E0A8 0%, #EDD07A 100%); color: white; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; text-align: center; border: 1px solid rgba(197,160,89,0.5); box-shadow: 0 4px 16px rgba(197,160,89,0.3); }
-.hero-headline { font-size: 1.4rem; font-weight: 900; margin: 0 0 0.5rem 0; line-height: 1.3; letter-spacing: -0.3px; color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+/* 標題與列點原為白字配淺金底（對比約 1.3:1，幾乎看不清），改用站內標題的深棕色 */
+.hero-headline { font-size: 1.4rem; font-weight: 900; margin: 0 0 0.5rem 0; line-height: 1.3; letter-spacing: -0.3px; color: #5D4037; }
 .hero-tagline { font-size: 0.9rem; color: #7B4A2A; margin: 0 0 1rem 0; line-height: 1.5; max-width: 600px; margin-left: auto; margin-right: auto; font-weight: 500; }
 .value-bullets { list-style: none; padding: 0; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; max-width: 600px; text-align: left; font-size: 0.85rem; }
-.value-bullets li { padding: 0.4rem 0; line-height: 1.35; color: rgba(255,255,255,0.9); }
+.value-bullets li { padding: 0.4rem 0; line-height: 1.35; color: #5D4037; }
 @media (max-width: 768px) { .value-hero { padding: 1.3rem 1.2rem; margin-bottom: 1.2rem; } .hero-headline { font-size: 1.2rem; margin-bottom: 0.4rem; } .hero-tagline { font-size: 0.85rem; margin-bottom: 0.8rem; } .value-bullets { grid-template-columns: 1fr; gap: 0.6rem; } .value-bullets li { font-size: 0.8rem; padding: 0.3rem 0; } }
 @media (max-width: 480px) { .value-hero { padding: 1rem; margin-bottom: 1rem; border-radius: 10px; } .hero-headline { font-size: 1.05rem; margin-bottom: 0.35rem; } .hero-tagline { font-size: 0.8rem; margin-bottom: 0.7rem; } .value-bullets { font-size: 0.75rem; } .value-bullets li { padding: 0.25rem 0; } }
 .essential-guides { margin-bottom: 2em; background: linear-gradient(to bottom, #FEF5ED, #ffffff); padding: 1.5rem; border-radius: 12px; border: 1px solid #e0eeff; }
@@ -831,6 +1024,17 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .guide-desc { font-size: 0.75rem; color: #888; line-height: 1.2; }
 @media (max-width: 768px) { .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } .guide-card { padding: 1rem 0.6rem; min-height: 90px; font-size: 0.9rem; } .guide-icon { font-size: 1.5rem; } }
 @media (max-width: 480px) { .essential-guides { padding: 1rem; } .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; } .guide-card { padding: 0.8rem 0.5rem; min-height: 80px; } .guide-icon { font-size: 1.4rem; } .guide-name { font-size: 0.85rem; } .guide-count { display: none; } }
+
+#latest-heading { margin-top: 0.5em; }
+.hub-essentials { margin-top: 2.5em; padding: 1.5rem; background: var(--white); border-radius: 12px; border: 1px solid rgba(197,160,89,0.25); box-shadow: 0 2px 12px rgba(10,22,40,0.05); }
+.hub-intro { font-size: 0.92em; line-height: 1.7; color: var(--text); margin: 0 0 1.2em; }
+.hub-faq { padding: 0.9em 0; border-top: 1px solid rgba(197,160,89,0.2); }
+.hub-faq h3 { font-size: 1em; font-weight: 700; color: var(--ocean); margin: 0 0 0.4em; line-height: 1.4; }
+.hub-faq p { font-size: 0.9em; line-height: 1.7; color: var(--text); margin: 0 0 0.4em; }
+.hub-faq .hub-more { font-size: 0.82em; margin: 0; color: var(--text-light); }
+.hub-essentials a { color: var(--ocean); font-weight: 600; }
+.hub-essentials a:hover { color: var(--gold); }
+@media (max-width: 600px) { .hub-essentials { padding: 1rem; } }
 
 .community-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; align-items: start; }
 @media (max-width: 768px) { .community-grid { grid-template-columns: 1fr; } }
