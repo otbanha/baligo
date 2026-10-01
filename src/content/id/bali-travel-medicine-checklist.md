@@ -1,16 +1,16 @@
 ---
 title: >-
-  Apa Saja Obat & Perlengkapan Medis Wajib Bawa ke Bali? Beli Obat Nyamuk &
-  Sunscreen di Sini?
+  Apa saja obat-obatan wajib yang harus dibawa saat liburan ke Bali? Bagaimana
+  cara beli obat nyamuk dan sunscreen?
 slug: bali-travel-medicine-checklist
 description: >-
-  Obat apa aja sih yang wajib dibawa pas liburan ke Bali? Apakah obat-obatan
-  bebas bisa dibeli di sana? Obat nyamuk lokal lebih ampuh?
+  Obat apa saja yang wajib dibawa saat liburan ke Bali? Apakah obat-obatan umum
+  bisa dibeli di sana? Obat nyamuk lokal lebih ampuh?
 pubDate: 2024-03-22T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 旅行技巧
+  - 購物指南
 tags:
   - 印尼旅遊
   - 峇里島旅遊
@@ -18,52 +18,57 @@ tags:
   - 成藥
   - 防蚊液
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777909774643-_.png'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65fcd4a5fd89780001513c9a'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-10-01T00:00:00.000Z
 lang: id
-_srcHash: 5f47f7a1c37208108630741bfae30c1f
+_srcHash: 3f25ecb56d6409214a366ccc0aedc3e3
 ---
+
 ![印尼峇里島旅遊必備成藥/藥品有哪些？防蚊液/防曬乳怎麼買？](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
 
-Pas baru sampai Bali, beberapa orang mungkin bakal ngalamin diare atau masalah pencernaan — yang dalam bahasa Inggris sering disebut 'Bali belly'. Kadang, satu keluarga kena semua, sial banget! Ada turis yang sampai harus nginep di hotel berhari-hari, nggak bisa jalan-jalan.
+Baru pertama kali ke Bali, beberapa orang mungkin mengalami diare atau masalah pencernaan karena perubahan lingkungan. Dalam bahasa Inggris, kondisi ini sering disebut 'Bali belly'. Kadang-kadang, seluruh keluarga bisa kena, sial banget! Beberapa turis sampai harus menginap di hotel berhari-hari dan nggak bisa jalan-jalan.
 
-> Baca juga: [Tips Kesehatan Travel di Bali: Panduan Air Minum & Diare](/id/blog/bali-travel-health-tips/)
+> Baca juga: [Tips Kesehatan Travel ke Bali: Panduan Air Minum dan Diare di Bali](/id/blog/bali-travel-health-tips/)
 
-Yang paling ditakutin pas traveling ya badan nggak enak. Nggak cuma bikin liburan jadi kurang seru, tapi bisa parah sampai perlu bantuan medis.
+Yang paling ditakutin saat traveling adalah badan nggak enak. Ini nggak cuma bikin perjalanan jadi kurang seru, tapi bisa juga parah sampai perlu bantuan medis.
 
-Kita pernah bahas beberapa obat wajib pas liburan di Bali, termasuk plester pereda nyeri, obat gangguan pencernaan, dan obat flu.
+Kami pernah bahas beberapa obat wajib saat traveling ke Bali, termasuk plester pereda nyeri, obat gangguan pencernaan, dan obat flu.
 
-Selain itu, karena Bali daerah tropis, penyakit kayak demam berdarah yang ditularkan nyamuk juga jadi risiko. Makanya kita saranin beli obat nyamuk lokal — harganya murah, ampuh banget.
+Selain itu, karena Bali adalah daerah tropis, penyakit yang ditularkan nyamuk seperti demam berdarah juga jadi risiko. Makanya kami saranin beli obat nyamuk lokal — selain harganya terjangkau, efeknya juga ampuh.
 
-Apa aja obat darurat yang bisa dibeli di Bali? Gimana bilangnya dalam bahasa Indonesia? Cara beli obat nyamuk? Merek air minum kemasan terpercaya di supermarket/minimarket? Apa aja yang bisa dibeli di supermarket? Cek panduan belanja ala Jie di sini: [Panduan Belanja di Supermarket](https://youtu.be/UoGlRyAdyB8).
+Apa saja obat darurat yang bisa dibeli di Bali? Gimana cara bilangnya dalam bahasa Indonesia? Cara beli obat nyamuk? Merek air minum kemasan yang terpercaya di supermarket/minimarket? Apa aja yang bisa dibeli di supermarket? Cek panduan belanja supermarket dari Xiao Jie di sini: [Panduan Belanja di Supermarket](https://youtu.be/UoGlRyAdyB8).
 
-Kalau digigit nyamuk dan gatal parah, rekomendasi obat anti-gatal khas Indonesia: 'Minyak Hijau' (Tjing Tjau Balsem, bentuknya krim). Bisa dipakai buat gigitan serangga, sakit kepala, luka gores, meredakan berbagai rasa sakit, gatal-gatal, dan gigitan serangga. Efeknya ajaib banget buat ngilangin bengkak dan gatal!
+Kalau digigit nyamuk dan gatal banget, rekomendasi obat anti-gatal khas Indonesia: 'Minyak Herbal Cina' (Tjing Tjau Balsem, sebenarnya berbentuk salep). Bisa dipakai untuk gigitan serangga, sakit kepala, luka gores, mengurangi berbagai rasa sakit, dan berbagai gatal-gatal. Efeknya ajaib banget buat ngilangin bengkak dan gatal!
 
 ![印尼峇里島旅遊必備成藥/藥品有哪些？防蚊液/防曬乳怎麼買？](https://images.gobaligo.id/vocus/vocus_78d52231e9d18e42ba51fe2efe3ee238.jpg)
 
-Baik buat pencegahan atau antisipasi hal tak terduga, jaga kesehatan itu kunci liburan yang menyenangkan. Semoga tips ini bikin perjalanan kamu di Bali aman dan seru!
+Baik untuk pencegahan atau mengatasi keadaan darurat, menjaga kesehatan adalah kunci liburan yang menyenangkan. Semoga tips ini membantu kalian menikmati perjalanan di Bali dengan aman dan seru!
 
 > Baca juga: [Penting! Cara Membawa Obat Tidur / Obat Resep Khusus ke Indonesia / Bali](/id/blog/bali-medication-import-guide/)
 
 > Baca juga: [Panduan Lengkap Membawa Jamu Bubuk & Suplemen Kesehatan ke Bali, Indonesia](/id/blog/bali-herbal-medicine-travel-guide/)
 
-Tambahan: Pakai sunscreen dulu atau lotion anti nyamuk dulu? Urutan yang benar adalah **pakai sunscreen dulu, baru lotion anti nyamuk**. Alasannya: Sunscreen harus dipakai duluan karena perlu menempel rata di kulit membentuk lapisan pelindung, biar efektif menghalau sinar UV. Sunscreen biasanya perlu dioles 15-30 menit sebelum keluar rumah, biar sempat meresap ke kulit. Lotion anti nyamuk dipakai setelahnya, karena kandungannya (misalnya DEET atau pengusir nyamuk lainnya) perlu menguap ke udara biar bisa mengusir nyamuk. Kalau lotion anti nyamuk dipakai duluan baru sunscreen, sunscreen bisa mengencerkan atau menutupi lotion anti nyamuk, bikin efeknya berkurang. **Tips pakai:** Setelah oles sunscreen, tunggu beberapa menit biar agak meresap, baru oles lotion anti nyamuk. Idealnya beri jeda 5-10 menit. Beberapa produk ada yang bilang nggak boleh dicampur dengan sunscreen, cek dulu petunjuknya sebelum pakai. Kalau perlu re-apply sunscreen, ingat juga re-apply lotion anti nyamuk. Dengan cara ini, dua produk bisa bekerja maksimal, bikin kamu terlindung dari sinar matahari dan gigitan nyamuk!
+Tambahan: Pakai sunscreen dulu atau lotion anti nyamuk dulu? Urutan yang benar adalah **pakai sunscreen dulu, baru lotion anti nyamuk**. Alasannya: Sunscreen harus dipakai duluan karena perlu menempel rata di kulit membentuk lapisan pelindung, biar efektif menangkal sinar UV. Sunscreen biasanya perlu dioles 15-30 menit sebelum keluar rumah, biar ada waktu meresap ke kulit. Lotion anti nyamuk dipakai setelahnya, karena kandungannya (seperti DEET atau pengusir nyamuk lainnya) perlu menguap ke udara biar bisa mengusir nyamuk. Kalau lotion anti nyamuk dipakai duluan baru sunscreen, sunscreen bisa mengencerkan atau menutupi lotion anti nyamuk, bikin efek usir nyamuknya berkurang. **Tips pakai:** Setelah oles sunscreen, tunggu beberapa menit biar agak meresap, baru oles lotion anti nyamuk. Idealnya beri jeda 5-10 menit. Beberapa produk ada yang bilang tidak disarankan dicampur dengan sunscreen, cek petunjuknya dulu ya. Kalau perlu re-apply sunscreen, ingat juga untuk oles ulang lotion anti nyamuk. Dengan cara ini, dua produk bisa bekerja maksimal, bikin kamu terlindung dari sinar matahari dan gigitan nyamuk!
 
 ### Pertanyaan Umum
 
-## Sunscreen dan Lotion Anti Nyamuk: Mana yang Dipakai Duluan?
+## Sunscreen dan lotion anti nyamuk, mana yang harus dipakai duluan?
 
 Pakai sunscreen dulu, tunggu 5-10 menit biar meresap ke kulit, baru oles lotion anti nyamuk. Kalau kebalik, sunscreen bisa mengencerkan dan menutupi kandungan lotion anti nyamuk, bikin efek usir nyamuknya berkurang.
 
-## Lotion Anti Nyamuk Lokal Bali: Enak Nggak Sih?
+## Lotion anti nyamuk lokal Bali bagus nggak?
 
-Enak dan harganya ramah di kantong, efeknya nggak kalah sama produk Taiwan. Gampang ditemukan di supermarket dan minimarket, cocok buat beli di sana langsung tanpa perlu bawa dari Taiwan.
+Bagus banget dan harganya ramah di kantong, efeknya nggak kalah sama merek Taiwan. Gampang ditemukan di supermarket dan minimarket, cocok banget buat beli di sana langsung tanpa perlu bawa dari Taiwan.
 
-## Ada Rekomendasi Obat Indonesia buat Gigitan Nyamuk?
+## Ada rekomendasi obat Indonesia untuk gigitan nyamuk?
 
-Rekomendasi "Minyak Herbal Hijau (Tjing Tjau Balsem)", ini salep anti gatal khas Indonesia, ampuh buat gigitan nyamuk, sakit kepala, luka gores — bikin bengkak dan gatal reda. Gampang dicari di supermarket dan apotek.
+Rekomendasi banget **Minyak Rumput Hijau (Tjing Tjau Balsem)**, ini salep anti gatal yang umum di Indonesia. Efektif buat gigitan nyamuk, sakit kepala, dan luka gores — bisa bantu redakan bengkak dan gatal. Gampang ditemukan di supermarket dan apotek.
 
-## Persiapan Obat buat Diare (Bali Belly) di Bali?
+## Sakit Perut di Bali (Bali Belly) — Sedia Obat Apa Saja? 
 
-Saran sebelum berangkat: siapin obat gangguan pencernaan, obat diare, dan obat flu. Daftar lengkap obat darurat dan merek yang bisa dibeli di apotek lokal bisa kamu cek di [Panduan Obat Bali Belly](/id/blog/bali-belly-medicine-guide/).
+Saran bawa obat gangguan pencernaan, obat anti-diare, dan obat flu dari rumah. Untuk daftar lengkap obat darurat & merek yang bisa dibeli di apotek lokal, cek [Panduan Obat Bali Belly](/id/blog/bali-belly-medicine-guide/).
 
 {{block:戶外}}

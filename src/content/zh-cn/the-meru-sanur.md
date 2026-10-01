@@ -1,11 +1,10 @@
 ---
-slug: the-meru-sanur
 title: The Meru Sanur｜沙努尔五星疗愈度假村 全套房海景＆顶级 SPA 2026 - Go Bali Go
+slug: the-meru-sanur
 description: >-
   沙努尔最美五星全套房度假村！The Meru Sanur 拥有壮阔海景套房、奥运规格泳池与世界级养生中心，2024 年底开业即获 Agoda 评分 9.1
   旅人鉴赏优胜。详解位置优势、家庭设施与 2026 最新入住体验，沙努尔高端放松的终极选择。
 pubDate: 2026-04-17T00:00:00.000Z
-updatedDate: 2026-07-20T00:00:00.000Z
 pubHour: 22
 category:
   - 住宿推薦
@@ -20,19 +19,24 @@ tags:
   - 巴厘岛沙努尔豪华酒店推荐 2026
   - The Meru Sanur wellness center
   - Best luxury stay in Sanur Bali
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg'
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-agoda_hotel_id: 50081294
-agoda_hotel_name: 美魯薩努爾飯店
-agoda_star_rating: 5
-latitude: -8.678433418273926
 longitude: 115.2635269165039
+agoda_star_rating: 5
+agoda_hotel_name: 美魯薩努爾飯店
+agoda_hotel_id: 50081294
+updatedDate: 2026-10-01T00:00:00.000Z
+contentUpdatedAt: '2026-10-01T23:13:15+08:00'
+update: 2026/05/22
+latitude: -8.678433418273926
 lang: zh-cn
-_srcHash: 560c0a0cf4e55576fd2bf8876eb52e1f
+_srcHash: 5604807c966efb2fa9b2c598dc292c0b
 ---
 
 如果你对巴厘岛的印象只停留在库塔的喧嚣或水明漾的夜生活，那 The Meru Sanur 可能会让你重新定义「巴厘岛度假」这件事。
@@ -61,7 +65,7 @@ The Meru Sanur 位于沙努尔北端，紧邻白沙海滩，步行几分钟就�
 
 ![設施介紹](https://images.gobaligo.id/images/2026-04/1776438822906-151d9dfd097595970022cdd4bf5833d3.webp)
 
-进入 The Meru 的第一个印象就是那条「隧道走廊」——从车道步行到大厅，你得穿过一段用粗纹大理石与镜面天花板打造的走廊，两侧摆放着演奏巴厘传统乐器的石雕像。走完整条廊道再步入挑高大廳的瞬间，说真的，有点被震撼到。
+进入 The Meru 的第一个印象就是那条「隧道走廊」——从车道步行到大厅，你得穿过一段用粗纹大理石与镜面天花板打造的走廊，两侧摆放着演奏巴厘岛传统乐器的石雕像。走完整条廊道再步入挑高大廳的瞬间，说真的，有点被震撼到。
 
 大厅宽敞通透，深色大理石地板搭配藤编墙面，泉水声贯穿整个空间，氛围高级但不冷漠。
 
@@ -71,7 +75,7 @@ The Meru Sanur 位于沙努尔北端，紧邻白沙海滩，步行几分钟就�
 
 ![主要設施一覽：](https://images.gobaligo.id/images/2026-04/1776438855819-0267ab8bb759f1442ea29ba0efff2808.webp)
 
-**Svasana Spa** — 度假村招牌疗程是「Meru Signature Massage」深层舒压按摩，另有颂钵声音疗愈（Sound Healing Therapy），结合传统巴厘仪式，疗愈感很真实。Spa 设施目前仍在扩建，未来空间会更大。
+**Svasana Spa** — 度假村招牌疗程是「Meru Signature Massage」深层舒压按摩，另有颂钵声音疗愈（Sound Healing Therapy），结合传统巴厘岛仪式，疗愈感很真实。Spa 设施目前仍在扩建，未来空间会更大。
 
 [https://www.instagram.com/reel/C8MarZDPr-k/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==](https://www.instagram.com/reel/C8MarZDPr-k/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)
 
@@ -124,19 +128,19 @@ The Meru Sanur 是一间「全套房」度假村，184 间客房全部是 Suite 
 
 ## 👥 适合人群
 
-**蜜月旅客和情侣**最适合——沙努尔安静、日出美、Spa 资源丰富，加上套房空间大，不会住得挤。**带孩子的家庭**也很合适，Kids Club 完善，泳池有儿童友善区域。另外，**长住疗养型旅客**或有医疗需求、养生需求的旅客，选在 Sanur SEZ 特区内的 The Meru 非常方便。
+**蜜月旅客和情侣**最适合——沙努尔安静、日出美、Spa 资源丰富，加上套房空间大，不会住得挤。**带孩子的家庭**也很合适，Kids Club 完善，泳池有儿童友好区域。另外，**长住疗养型旅客**或有医疗需求、养生需求的旅客，选在 Sanur SEZ 特区内的 The Meru 非常方便。
 
 ![適合族群](https://images.gobaligo.id/images/2026-04/1776439230848-2024-07-02.webp)
 
 ***
 
-## 🏅刚开幕就获奖
+## 🏅刚开业就获奖
 
-2026年刚拿下了亚洲最具份量的旅游媒体之一 Tatler Asia，在「2026 印尼最佳新饭店」评选中的最高荣誉，同时也入选「印尼最佳饭店二十强」名单。
+2026年刚拿下了亚洲最具分量的旅游媒体之一 Tatler Asia，在「2026 印尼最佳新酒店」评选中的最高荣誉，同时也入选「印尼最佳酒店二十强」名单。
 
 https://www.instagram.com/p/DW8KozagCUI/?utm_source=ig_web_button_share_sheet
 
-这对一间刚开幕不久的新饭店来说，根本是踢馆直接杀进顶级俱乐部。
+这对一间刚开业不久的新酒店来说，简直是踢馆直接杀进顶级俱乐部。
 
 ## 💬 住客真实评论
 
@@ -150,5 +154,7 @@ https://www.instagram.com/p/DW8KozagCUI/?utm_source=ig_web_button_share_sheet
 
 > 评分：Tripadvisor 高度推荐 | Agoda 住客评分 ⭐ 9.1（2025 旅人鉴赏优胜）
 > [点我在 Agoda 查看 The Meru Sanur 最新房价与空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-116694051/the-meru-sanur/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Pb1nQOIo)
+
+https://www.instagram.com/reel/Db77-OBTrGK/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
 {{block:sanur}}
