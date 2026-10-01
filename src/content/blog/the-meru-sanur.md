@@ -1,9 +1,8 @@
 ---
-slug: 'the-meru-sanur'
-title: "The Meru Sanur｜沙努爾五星療癒度假村 全套房海景＆頂級 SPA 2026 - Go Bali Go"
-description: "沙努爾最美五星全套房度假村！The Meru Sanur 擁有壯闊海景套房、奧運規格泳池與世界級養生中心，2024 年底開幕即獲 Agoda 評分 9.1 旅人鑑賞優勝。詳解位置優勢、家庭設施與 2026 最新入住體驗，沙努爾高端放鬆的終極選擇。"
+title: The Meru Sanur｜沙努爾五星療癒度假村 全套房海景＆頂級 SPA 2026 - Go Bali Go
+slug: the-meru-sanur
+description: 沙努爾最美五星全套房度假村！The Meru Sanur 擁有壯闊海景套房、奧運規格泳池與世界級養生中心，2024 年底開幕即獲 Agoda 評分 9.1 旅人鑑賞優勝。詳解位置優勢、家庭設施與 2026 最新入住體驗，沙努爾高端放鬆的終極選擇。
 pubDate: 2026-04-17
-updatedDate: 2026-07-21
 pubHour: 22
 category:
   - 住宿推薦
@@ -18,17 +17,21 @@ tags:
   - 巴厘岛沙努尔豪华酒店推荐 2026
   - The Meru Sanur wellness center
   - Best luxury stay in Sanur Bali
-update: 2026/05/22
-heroImage: 'https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg'
+heroImage: https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg
+imageAlt: ''
 originalUrl: ''
+source: ''
+sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-agoda_hotel_id: 50081294
-agoda_hotel_name: "美魯薩努爾飯店"
-agoda_star_rating: 5
-latitude: -8.678433418273926
 longitude: 115.2635269165039
+agoda_star_rating: 5
+agoda_hotel_name: 美魯薩努爾飯店
+agoda_hotel_id: 50081294
+updatedDate: 2026-07-21
+update: 2026/05/22
+latitude: -8.678433418273926
 ---
 
 如果你對峇里島的印象只停留在庫塔的喧囂或水明漾的夜生活，那 The Meru Sanur 可能會讓你重新定義「峇里島度假」這件事。
@@ -146,5 +149,7 @@ https://www.instagram.com/p/DW8KozagCUI/?utm_source=ig_web_button_share_sheet
 
 > 評分：Tripadvisor 高度推薦 | Agoda 住客評分 ⭐ 9.1（2025 旅人鑑賞優勝）
 > [點我在 Agoda 查看 The Meru Sanur 最新房價與空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-116694051/the-meru-sanur/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/Pb1nQOIo)
+
+https://www.instagram.com/reel/Db77-OBTrGK/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
 {{block:sanur}}
