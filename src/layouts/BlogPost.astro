@@ -215,7 +215,7 @@ const forumId = SCAM_KEYWORDS.test(title)
 const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : lang === 'id' ? '/id/blog' : '/blog';
 const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk' && lang !== 'id';
 const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
-const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
+const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}/?cat=`;  // 結尾斜線：/en/blog?cat= 會先被 Cloudflare 轉址一次
 // 只有這 8 個分類有靜態產生的 /category/[cat]/ 頁面（見 src/pages/blog/category/[cat].astro
 // 及各語言版本的 getStaticPaths）；新聞存檔另有 /news/ 首頁（僅繁中版），其餘分類（例如
 // 「旅行技巧」）以及非繁中語言的新聞存檔一律沒有靜態頁，改連到 /blog/?cat=... 走前端篩選，

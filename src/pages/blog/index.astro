@@ -218,6 +218,12 @@ const socialLinks = [
   <!-- 瀏覽器語言自動偵測：只在同一 session 的第一次進入時生效，?lang=tw 可強制停留 -->
   <script is:inline>
     (function() {
+      // 爬蟲一律不跳轉（與 functions/_middleware.js 的 isBot 同一份清單）。
+      // Googlebot 渲染時 navigator.language 是 en-US，原本會被下面的邏輯 location.replace
+      // 到 /en/blog/，GSC 因此把 /blog/ 判為「Page with redirect」，並把 /blog/ 與
+      // /en/blog/ 併成同一組、只選 /blog/ 當 canonical，英文首頁因而不被索引（2026-10 查出）。
+      if (/facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|google-inspectiontool|storebot-google|googleother|adsbot-google|mediapartners-google|bingbot|bingpreview|yandex|baiduspider|360spider|haosouspider|sogou[\w ]*spider|yisouspider|bytespider|duckduckbot|petalbot|gptbot|oai-searchbot|chatgpt-user|claudebot|perplexitybot|headlesschrome|lighthouse|chrome-lighthouse/i.test(navigator.userAgent || '')) return;
+
       // ?lang=tw：使用者主動選擇繁體中文，寫入 cookie、移除 lang param
       if (new URLSearchParams(location.search).has('lang')) {
         var p = new URLSearchParams(location.search);
