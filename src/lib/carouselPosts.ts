@@ -1,5 +1,5 @@
 // 首頁輪播燈箱的選文邏輯（繁中／港繁／簡中首頁共用）
-// 「最新上線」與「最新更新」各取 perGroup 篇，交錯排列，兩組不重複，皆排除新聞存檔。
+// 「最新上線」與「最新更新」各取 perGroup 篇，前面最新上線、後面最新更新，兩組不重複，皆排除新聞存檔。
 // 「最新更新」只看內文有改的文章（contentUpdatedAt）；只改分類、hero 圖等 frontmatter 不算。
 import type { CarouselPost } from '../components/LatestPostsCarousel.astro';
 
@@ -62,10 +62,9 @@ export function pickCarouselPosts(
     .sort((a, b) => b.data.contentUpdatedAt!.valueOf() - a.data.contentUpdatedAt!.valueOf())
     .slice(0, perGroup);
 
-  const slides: CarouselPost[] = [];
-  for (let i = 0; i < Math.max(newest.length, updated.length); i++) {
-    if (newest[i]) slides.push(toSlide(newest[i], 'new', isoDay(newest[i].data.pubDate)));
-    if (updated[i]) slides.push(toSlide(updated[i], 'updated', baliDay(updated[i].data.contentUpdatedAt!)));
-  }
-  return slides;
+  // 前面放最新上線、後面放最新更新
+  return [
+    ...newest.map(p => toSlide(p, 'new', isoDay(p.data.pubDate))),
+    ...updated.map(p => toSlide(p, 'updated', baliDay(p.data.contentUpdatedAt!))),
+  ];
 }
