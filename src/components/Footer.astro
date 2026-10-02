@@ -1,5 +1,5 @@
 ---
-import { catLabel, type Lang } from '../lib/categoryConfig';
+import { catLabel, catUrlSlug, type Lang } from '../lib/categoryConfig';
 
 interface Props { lang?: string; }
 const { lang } = Astro.props;
@@ -30,8 +30,10 @@ const categories = [
 ];
 
 // 分類名稱與分類頁網址皆與 categoryConfig 單一來源一致
+// en 的分類頁是英文 slug（/en/blog/category/beginners-guide/），直接用繁中值會連到
+// 301 轉址；「套裝行程」連轉址都沒有，等於每篇英文頁頁尾都有一條 404。
 const getCatName = (slug: string) => catLabel(L, slug);
-const catUrl = (slug: string) => `${blogBase}/category/${encodeURIComponent(slug)}/`;
+const catUrl = (slug: string) => `${blogBase}/category/${encodeURIComponent(catUrlSlug(L, slug))}/`;
 
 // 峇里島新聞 hub：全站僅有繁中版一個 /news/，各語系 footer 皆連向同一網址以集中內部連結
 const newsLabel = lang === 'en' ? 'Bali News' :
