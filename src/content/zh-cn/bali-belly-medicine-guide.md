@@ -1,11 +1,11 @@
 ---
-slug: bali-belly-medicine-guide
 title: Bali Belly 是什么？巴厘岛脏水病／脏水症症状、成药自救与就医时机
+slug: bali-belly-medicine-guide
 description: >-
   Bali Belly（巴厘岛脏水病、脏水症）就是旅行者腹泻，多在抵达后 1–3 天发作，症状是水泻、腹部绞痛、恶心，通常 1–3
   天自行缓解。本文整理当地药店买得到的 ORS、止泻药与益生菌怎么选，以及出现血便、高烧、严重脱水时该立刻就医的判断标准。
 pubDate: 2026-01-02T00:00:00.000Z
-updatedDate: 2026-08-09T00:00:00.000Z
+pubHour: null
 category:
   - 旅行技巧
 tags:
@@ -16,9 +16,12 @@ tags:
   - 峇里島拉肚子
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
+contentUpdatedAt: '2026-10-02T12:38:20+08:00'
+updatedDate: 2026-10-02T00:00:00.000Z
 lang: zh-cn
-_srcHash: 78c1f5f5361e0b4813ffb61ca51c09c6
+_srcHash: a4b4aa2ce151003b9162f3908e4f754d
 ---
+
 ![Bali Belly 峇里島腹瀉/腸胃炎/髒水病如何自救?Bali Belly 紓解成藥攻略](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
 **先说结论**：Bali Belly（巴厘岛腹泻）发作时**优先补水而非止泻**——当地药店可买 **口服补液盐 ORS**（品牌 Oralit、Hydralyte，治疗核心，比单纯止泻更重要），轻度症状再搭配吸附型止泻药（Norit、Entrostop）。运动饮料无法完全取代 ORS。以下整理完整自救药品清单与何时该就医的判断。
@@ -50,7 +53,7 @@ https://youtu.be/GivvqCXp11A
 
 · 当地常见品牌：Oralit, Hydralyte。
 
-· 关键提示：腹泻时应首选使用，务必按说明冲泡。注意：运动饮料不能完全替代。
+· 关键提示：腹泻时应首选使用，务必按说明冲泡。注意: 运动饮料不能完全替代。
 
 ### 2. 止泻药 (吸附剂) – 用于轻度腹泻
 
@@ -62,9 +65,29 @@ https://youtu.be/GivvqCXp11A
 
 · 关键提示：可能影响其他药物吸收，建议与其他药物（如抗生素）分开至少2小时服用。
 
-### 3. 止泻药 (抗蠕动剂) – 应急使用
+### 3. Norit（碳锭 / Activated Carbon Tablet）
 
-![3. 止瀉藥 (抗蠕動劑) – 應急使用](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
+![Norit 碳錠](https://medias.watsons.co.id/publishing/WTCID-10461-front-zoom.jpg?version=1728540848)
+
+它在印尼当地非常普遍，许多旅客或当地人遇到巴厘岛肚子痛、腹泻（俗称 Bali Belly）时，常会到药局或超市买它来应急。
+
+**关于 Norit 的特点与作用**
+
+· 成分与原理：每颗药锭主要含有 125 毫克的活性碳（Arang Aktif），能够吸附肠胃道中的毒素与细菌，借此减少腹泻频率，并能结合肠胃道中的气体来缓解胀气。
+
+· 购买方便：在印尼当地的各大药局、连锁药妆店或便利商店都能轻松买到，一般常见为一管 40 颗装。
+
+**使用时的注意事项**
+
+· 无法取代水分与电解质：活性碳主要是物理吸附毒素，它并不能补充水分。应对 Bali Belly 最关键的还是要积极补充水分及电解质（例如当地的口服补液盐 Oralit），避免脱水。
+
+· 注意服药间隔：由于活性碳的吸附能力很强，如果同时有服用其他药物，建议至少隔开 2 小时再吃，以免把其他药效也一起吸附掉而影响疗效。
+
+· 正常的生理现象：服用 Norit 期间，舌头和粪便可能会变黑，这是活性碳的物理特性，停药后就会自然消失，不用过度惊慌。
+
+### 4. 止泻药 (抗蠕动剂) – 应急使用
+
+![4. 止瀉藥 (抗蠕動劑) – 應急使用](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
 
 · 作用：强效控制腹泻频率，仅供短期应急（如长途交通）。
 
@@ -72,9 +95,9 @@ https://youtu.be/GivvqCXp11A
 
 · 关键提示：禁用于发烧或便中有血者，否则可能加重感染。儿童使用前务必咨询医生。
 
-### 4. 止痛/退烧药
+### 5. 止痛/退烧药
 
-![4. 止痛/退燒藥](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
+![5. 止痛/退燒藥](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
 · 作用：缓解腹痛、发烧。
 
@@ -82,29 +105,29 @@ https://youtu.be/GivvqCXp11A
 
 · 关键提示：当地有登革热风险，发烧时建议优先选用Paracetamol。Ibuprofen可能增加出血风险。
 
-### 5. 肠胃解痉
+### 6. 肠胃解痉
 
-![5. 腸胃解痙](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
+![6. 腸胃解痙](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
 
 ·Scopma Plu (hyoscine）→ 直接放松肠胃平滑肌, 减缓绞痛
 
-### 6. 益生菌 (辅助)
+### 7. 益生菌 (辅助) 
 
-· 作用：辅助调节肠道菌群。
+· 作用：辅助调节肠道菌群。 
 
-· 当地常见品牌：Interlac, Lacto-B。
+· 当地常见品牌：Interlac, Lacto-B。 
 
-· 关键提示：是辅助手段，不能替代补液或必要药物。
+· 关键提示：是辅助手段，不能替代补液或必要药物。 
 
-## ⚠️ 重要安全须知与就医警讯
+## ⚠️ 重要安全须知与就医警讯 
 
-**1. 不要自行服用抗生素**：Bali Belly可能由病毒或细菌引起，滥用抗生素无效且有害。抗生素需由医生诊断后开具。
+**1. 不要自行服用抗生素**：Bali Belly可能由病毒或细菌引起，滥用抗生素无效且有害。抗生素需由医生诊断后开具。 
 
-**2.** **首要任务是补水**：无论是否用药，都必须持续、少量多次地补充口服补液盐溶液或干净的瓶装水。
+**2.** **首要任务是补水**：无论是否用药，都必须持续、少量多次地补充口服补液盐溶液或干净的瓶装水。 
 
-**3. 留意危险信号**，立即就医：如果出现以下任何一种情况，请立即停止自行用药并寻求医疗帮助：
+**3. 留意危险信号**，立即就医：如果出现以下任何一种情况，请立即停止自行用药并寻求医疗帮助： 
 
-· 发烧超过 38.5°C。
+· 发烧超过 38.5°C。 
 
 · 腹泻或呕吐物中 带血。
 
@@ -114,7 +137,7 @@ https://youtu.be/GivvqCXp11A
 
 · 出现脱水迹象（口干、尿少色深、头晕、极度虚弱）。
 
-· 症状持续超过 48-72小时 无改善。
+· 症状持续超过48-72小时无改善。
 
 ## 🏥 如何寻求医疗协助
 
@@ -128,9 +151,9 @@ https://youtu.be/GivvqCXp11A
 
 > ·“Oralit untuk diare.” (口服补液盐用于腹泻。)
 
-> · "Entrostop(轻度止泻)/Loperamide(应急止泻) untuk diare." (买止泻药)
+· "Entrostop(轻度止泻)/Loperamide(应急止泻) untuk diare." (买止泻药)
 
-> ·“Parasetamol untuk demam.” (扑热息痛用于发烧。)
+· "Parasetamol untuk demam." (扑热息痛用于发烧。)
 
 **记住: 处理Bali Belly的原则是：补水优先、对症用药、警惕危险信号、及时就医。**
 

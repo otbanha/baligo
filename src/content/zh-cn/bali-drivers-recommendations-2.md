@@ -1,7 +1,7 @@
 ---
-title: 巴厘岛包车司机推荐名单（第二页）｜社团真实分享
+title: 巴厘岛包车司机推荐名单（第二页）｜社群真实分享
 slug: bali-drivers-recommendations-2
-description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
+description: 巴厘岛包车司机推荐名单第二页，每位司机下方的分享链接都能点开查证原始社群贴文。附 2026 包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,13 +17,13 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-updatedDate: 2026-09-27T00:00:00.000Z
-updatedAt: '2026-09-27T08:40:19+08:00'
+contentUpdatedAt: '2026-10-02T19:18:30+08:00'
+updatedDate: 2026-10-02T00:00:00.000Z
 lang: zh-cn
-_srcHash: 12bdb8e3fda7bfeee054db14e6a4067a
+_srcHash: e2916e862010010f50136b74cb895b1f
 ---
 
-**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
+**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社群自己发文的搭乘分享**。每位司机下方那排数字都是原始贴文链接，可以自己点开查证。
 
 包车行情约 **Rp 600,000–800,000／10 小时／五人座**（算车不算人头，乌布以南），2026 年 7 月 1 日起另加油费补贴（半天 Rp 50,000、整天 Rp 100,000）。跨区加价、超时费算法与预约流程，都整理在[第一页](/zh-cn/blog/bali-private-car-drivers-guide/)。
 
@@ -53,7 +53,7 @@ _srcHash: 12bdb8e3fda7bfeee054db14e6a4067a
 
 ![Any 安妮](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/t1AjzrpojJZJ6TrX/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/Q2VierKidpryTDSb/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/pjH5Gy6bA8ieUDoi/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/qyrihKgNQskXH3T6/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/c1gpCbdRC2ZovPC2/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/FGK8VhmKjqcFHGwr/) 👍🏼[网友推荐7](https://www.facebook.com/share/18KnP7ogYk/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/mApJVCx8yfdMP6hm/) 👍🏼[网友推荐9](https://www.facebook.com/share/r/1G6NPpGQU9/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1P8yNWzcQY/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18N1R1pSCT/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1Fth5Xxn6V/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1YizNyLiLL/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1Bi98GVdS6/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/12HbHNrnvBw/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1Tb4KRhLgh/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1AL5MUeHvV/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/1BK94sYKiU/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1AAScdQHZf/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/1KGKcTamcm/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/15guC2dRgi/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/19wqbfjdUv/) 👍🏼[网友推荐23](https://www.facebook.com/share/p/1AR5GKUhSg/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/17GW1ayfXM/) 👍🏼[网友推荐25](https://www.facebook.com/share/p/17LNUJpCMX/) 👍🏼[网友推荐26](https://www.facebook.com/share/p/1bDL3oTt2b/) 👍🏼[网友推荐27](https://www.facebook.com/share/p/1C9Rb9RNm4/) 👍🏼[网友推荐28](https://www.facebook.com/share/p/1Y7NeH7oNR/) 👍🏼[网友推荐29](https://www.facebook.com/share/p/17KBZXdjgu/) 👍🏼[网友推荐30](https://www.facebook.com/share/p/1PFrbGwotJ/) 👍🏼[网友推荐31](https://www.facebook.com/share/p/1H8guy4e6V/) 👍🏼[网友推荐32](https://www.facebook.com/share/p/1EpsT7jr8D/) 👍🏼[网友推荐33](https://www.facebook.com/share/p/1DqMBR5mGP/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/t1AjzrpojJZJ6TrX/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/Q2VierKidpryTDSb/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/pjH5Gy6bA8ieUDoi/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/qyrihKgNQskXH3T6/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/c1gpCbdRC2ZovPC2/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/FGK8VhmKjqcFHGwr/) 👍🏼[网友推荐7](https://www.facebook.com/share/18KnP7ogYk/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/mApJVCx8yfdMP6hm/) 👍🏼[网友推荐9](https://www.facebook.com/share/r/1G6NPpGQU9/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1P8yNWzcQY/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18N1R1pSCT/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1Fth5Xxn6V/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1YizNyLiLL/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/1Bi98GVdS6/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/12HbHNrnvBw/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1Tb4KRhLgh/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1AL5MUeHvV/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/1BK94sYKiU/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1AAScdQHZf/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/1KGKcTamcm/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/15guC2dRgi/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/19wqbfjdUv/) 👍🏼[网友推荐23](https://www.facebook.com/share/p/1AR5GKUhSg/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/17GW1ayfXM/) 👍🏼[网友推荐25](https://www.facebook.com/share/p/17LNUJpCMX/) 👍🏼[网友推荐26](https://www.facebook.com/share/p/1bDL3oTt2b/) 👍🏼[网友推荐27](https://www.facebook.com/share/p/1C9Rb9RNm4/) 👍🏼[网友推荐28](https://www.facebook.com/share/p/1Y7NeH7oNR/) 👍🏼[网友推荐29](https://www.facebook.com/share/p/17KBZXdjgu/) 👍🏼[网友推荐30](https://www.facebook.com/share/p/1PFrbGwotJ/) 👍🏼[网友推荐31](https://www.facebook.com/share/p/1H8guy4e6V/) 👍🏼[网友推荐32](https://www.facebook.com/share/p/1EpsT7jr8D/) 👍🏼[网友推荐33](https://www.facebook.com/share/p/1DqMBR5mGP/) 👍🏼[网友推荐34](https://www.facebook.com/groups/baligo/permalink/2185808565299710/)
 
 ## Komang WikaSutresna
 
