@@ -333,6 +333,28 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
     },
   },
 
+  "handicraft-shopping": {
+    blogUrl: "https://gobaligo.id/blog/bali-handicraft-shopping-ubud-seminyak/",
+    blogTitle: "峇里島工藝品購物攻略：烏布＆水明漾兩條在地路線",
+    teaser: "烏布 Jl. Raya Andong 與水明漾 Jl. Gn. Athena，價格只要景區一半",
+    anchors: {
+      full: "峇里島工藝品購物在地路線攻略",
+      verb: "閱讀工藝品購物攻略",
+      keyword: "峇里島工藝品購物推薦",
+    },
+  },
+
+  "day-club": {
+    blogUrl: "https://gobaligo.id/blog/day-clubs-bali/",
+    blogTitle: "峇里島平價 Day Club 完整攻略",
+    teaser: "10+ 間游泳池 Day Club，不住宿也能享受度假村泳池氛圍",
+    anchors: {
+      full: "峇里島平價 Day Club 完整攻略",
+      verb: "閱讀 Day Club 攻略",
+      keyword: "峇里島 Day Club 推薦",
+    },
+  },
+
   "family-parks": {
     blogUrl: "https://gobaligo.id/blog/top-10-kids-attractions-in-bali/",
     altBlogUrls: [
