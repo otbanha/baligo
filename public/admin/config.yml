@@ -119,18 +119,14 @@ collections:
       - { label: 連結網址, name: url, widget: string }
       - { label: 封面圖網址（自動抓取後可修改）, name: coverImage, widget: string, required: false }
       - { label: 備注（內部用）, name: note, widget: string, required: false }
+      # datetime widget 多次觸發 Sveltia CMS 全域驗證錯誤（"N fields have an error"），
+      # 改用 string + pattern；content.config.ts 會用 z.coerce.date() 轉成日期
       - label: 截止日期
         name: expiresAt
-        widget: datetime
+        widget: string
         required: false
-        # 同 pubDate：day.js token，務必用大寫 YYYY-MM-DD
-        date_format: "YYYY-MM-DD"
-        time_format: false
-        format: "YYYY-MM-DD"
-        # picker_utc 曾在 2026-06-18 新增 blocks-id collection 時被誤刪，
-        # 導致部分時區存檔觸發 Sveltia CMS 全域驗證錯誤（"N fields have an error"）
-        picker_utc: true
-        hint: "留空表示長期有效"
+        pattern: ["^\\d{4}-\\d{2}-\\d{2}$", "格式需為 YYYY-MM-DD，例如 2026-12-31"]
+        hint: "格式 YYYY-MM-DD（例如 2026-12-31），留空表示長期有效"
 
   - name: blocks
     label: 內容區塊（繁體中文）
