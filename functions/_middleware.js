@@ -49,7 +49,7 @@ function lookupByVocusHex(pathname) {
 
 /**
  * 從 Accept-Language 判斷語系
- * 回傳 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'
+ * 回傳 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en' | 'id'
  */
 function detectLang(acceptLang) {
   const primary = (acceptLang ?? '')
@@ -61,6 +61,8 @@ function detectLang(acceptLang) {
   if (/^zh-(hk|mo)|^yue/.test(primary)) return 'zh-hk';
   if (/^zh-(cn|sg|hans)/.test(primary)) return 'zh-cn';
   if (/^zh/.test(primary)) return 'zh-tw'; // zh-tw, zh-hant, zh 都算繁中
+  // 印尼文（in 是舊代碼）。原本落到下面的 'en'，印尼使用者第一次進站會被導到英文版。
+  if (/^(id|in)(-|$)/.test(primary)) return 'id';
   if (primary) return 'en';
   return 'zh-tw';
 }
@@ -191,7 +193,8 @@ export async function onRequest({ request, next }) {
   if (isBot) return next();
 
   // 已在翻譯語系路徑下，設定 cookie 記憶後直接放行
-  const translatedMatch = pathname.match(/^\/(zh-cn|zh-hk|en)(\/|$)/);
+  // id 原本不在清單內：進 /id/ 頁面會落到最後的「zh-tw 路徑」分支，被寫入 zh-tw cookie
+  const translatedMatch = pathname.match(/^\/(zh-cn|zh-hk|en|id)(\/|$)/);
   if (translatedMatch) {
     try {
       const response = await next();

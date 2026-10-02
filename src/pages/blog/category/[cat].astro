@@ -427,13 +427,13 @@ const top10Slugs = (config.featuredSlugs
 
 const canonicalUrl = `https://gobaligo.id/blog/category/${encodeURIComponent(cat)}/`;
 
-// 語言切換器用：各語言分類頁各自的網址路徑（en 為英文 slug，其餘沿用繁中分類值）
+// 語言切換器用：各語言分類頁各自的網址路徑（en / id 為各自語言的 slug，其餘沿用繁中分類值）
 const basePathMap: Record<string, string> = {
   blog: `blog/category/${encodeURIComponent(cat)}`,
   'zh-hk': `blog/category/${encodeURIComponent(cat)}`,
   'zh-cn': `blog/category/${encodeURIComponent(cat)}`,
   'en': `blog/category/${encodeURIComponent(catUrlSlug('en', cat))}`,
-  'id': `blog/category/${encodeURIComponent(cat)}`,
+  'id': `blog/category/${encodeURIComponent(catUrlSlug('id', cat))}`,
 };
 
 const itemListSchema = {
@@ -500,7 +500,7 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
   <link rel="alternate" hreflang="zh-HK" href={`https://gobaligo.id/zh-hk/blog/category/${encodeURIComponent(cat)}/`} />
   <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/category/${encodeURIComponent(cat)}/`} />
   <link rel="alternate" hreflang="en" href={`https://gobaligo.id/en/blog/category/${encodeURIComponent(catUrlSlug('en', cat))}/`} />
-  <link rel="alternate" hreflang="id" href={`https://gobaligo.id/id/blog/category/${encodeURIComponent(cat)}/`} />
+  <link rel="alternate" hreflang="id" href={`https://gobaligo.id/id/blog/category/${encodeURIComponent(catUrlSlug('id', cat))}/`} />
   <meta property="og:title" content={config.title} />
   <meta property="og:description" content={config.ogDescription} />
   <meta property="og:url" content={canonicalUrl} />

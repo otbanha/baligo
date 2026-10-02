@@ -26,6 +26,9 @@ const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
 
 const closeLabel = lang === 'en' ? 'Close search' : lang === 'id' ? 'Tutup pencarian' : '關閉搜尋';
 const searchLabel = lang === 'en' ? 'Search' : lang === 'id' ? 'Cari' : '搜尋';
+const openSearchLabel = lang === 'en' ? 'Open search' : lang === 'id' ? 'Buka pencarian' : '開啟搜尋';
+const bookmarksLabel = lang === 'en' ? 'My bookmarks' : lang === 'id' ? 'Bookmark saya' : '我的書籤';
+const searchHint = lang === 'en' ? 'Site search' : lang === 'id' ? 'Pencarian situs' : '站內搜尋';
 const inputPlaceholder = lang === 'en' ? 'Search 700+ Bali travel articles...' :
                          lang === 'id' ? 'Cari 700+ artikel panduan Bali...' :
                                           '搜尋 700+ 篇峇里島旅遊文章...';
@@ -57,12 +60,12 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
 
     <!-- 搜尋觸發器（點擊開啟 Pagefind modal） -->
     <div class="search-right">
-      <button type="button" id="search-trigger" class="search-input" aria-label="開啟搜尋">
+      <button type="button" id="search-trigger" class="search-input" aria-label={openSearchLabel}>
         {searchPlaceholder}
       </button>
     </div>
 
-    <a href="/bookmarks/" class="bk-icon" id="bk-icon-link" aria-label="我的書籤" title="我的書籤">
+    <a href="/bookmarks/" class="bk-icon" id="bk-icon-link" aria-label={bookmarksLabel} title={bookmarksLabel}>
       🔖<span class="bk-badge" id="bk-badge" hidden></span>
     </a>
 
@@ -88,7 +91,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
       <button type="button" class="search-close-btn" id="search-close" aria-label={closeLabel}>✕</button>
     </div>
     <div id="search-results" class="search-results"></div>
-    <p class="search-hint">站內搜尋</p>
+    <p class="search-hint">{searchHint}</p>
   </div>
 </div>
 

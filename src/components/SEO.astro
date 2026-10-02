@@ -180,7 +180,7 @@ const schemaArticle = {
   "image": ogImage,
   "datePublished": pubIso,
   "dateModified": modIso,
-  "inLanguage": lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : 'zh-TW',
+  "inLanguage": lang === 'en' ? 'en' : lang === 'id' ? 'id' : lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : 'zh-TW',
   "author": AUTHOR_ORG,
   "publisher": {
     "@type": "Organization",
@@ -203,7 +203,7 @@ const schemaBreadcrumb = {
   "@type": "BreadcrumbList",
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Go Bali Go", "item": "https://gobaligo.id" },
-    { "@type": "ListItem", "position": 2, "name": lang === 'en' ? "Bali Travel Blog" : "峇里島旅遊攻略", "item": blogUrl },
+    { "@type": "ListItem", "position": 2, "name": lang === 'en' ? "Bali Travel Blog" : lang === 'id' ? "Blog Wisata Bali" : "峇里島旅遊攻略", "item": blogUrl },
     { "@type": "ListItem", "position": 3, "name": title, "item": articleUrl },
   ],
 };
@@ -273,7 +273,7 @@ if (cats.includes('峇里島分區攻略') || cats.includes('峇里岛分区攻�
     "url": articleUrl,
     "touristType": {
       "@type": "Audience",
-      "audienceType": lang === 'en' ? "Tourists" : "旅遊者",
+      "audienceType": lang === 'en' ? "Tourists" : lang === 'id' ? "Wisatawan" : "旅遊者",
     },
     "geo": {
       "@type": "GeoCoordinates",
@@ -320,9 +320,9 @@ if ((cats.includes('簽證通關') || cats.includes('签证通关')) && h2s.leng
     "totalTime": "PT30M",
     "estimatedCost": { "@type": "MonetaryAmount", "currency": "USD", "value": "0" },
     "supply": [
-      { "@type": "HowToSupply", "name": lang === 'en' ? "Valid passport (≥6 months)" : "有效護照（剩餘效期≥6個月）" },
-      { "@type": "HowToSupply", "name": lang === 'en' ? "Return flight ticket" : "來回機票" },
-      { "@type": "HowToSupply", "name": lang === 'en' ? "Hotel reservation" : "住宿訂單" },
+      { "@type": "HowToSupply", "name": lang === 'en' ? "Valid passport (≥6 months)" : lang === 'id' ? "Paspor berlaku (≥6 bulan)" : "有效護照（剩餘效期≥6個月）" },
+      { "@type": "HowToSupply", "name": lang === 'en' ? "Return flight ticket" : lang === 'id' ? "Tiket pesawat pulang-pergi" : "來回機票" },
+      { "@type": "HowToSupply", "name": lang === 'en' ? "Hotel reservation" : lang === 'id' ? "Reservasi hotel" : "住宿訂單" },
     ],
     "step": h2s.filter(h => h.text?.trim()).map((h, i) => ({
       "@type": "HowToStep",

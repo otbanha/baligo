@@ -1,8 +1,9 @@
 ---
-interface Props { lang?: 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'; }
+interface Props { lang?: 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en' | 'id'; }
 const { lang = 'zh-tw' } = Astro.props;
 
 const url = lang === 'en' ? '/en/trip-planner/'
+          : lang === 'id' ? '/id/trip-planner/'
           : lang === 'zh-cn' ? '/zh-cn/trip-planner/'
           : lang === 'zh-hk' ? '/zh-hk/trip-planner/'
           : '/trip-planner/';
@@ -12,6 +13,7 @@ const t = {
   'zh-hk': { title: '🗺️ 峇里島行程規劃工具', desc: '告訴我你的旅遊風格，立即獲得個人化分區攻略與景點推薦', btn: '開始規劃我的行程 →' },
   'zh-cn': { title: '🗺️ 巴厘岛行程规划工具', desc: '告诉我你的旅行风格，立即获得个性化区域攻略与景点推荐', btn: '开始规划我的行程 →' },
   'en':    { title: '🗺️ Bali Trip Planner', desc: 'Tell us your travel style — get personalised area guides & activity picks instantly', btn: 'Plan My Trip →' },
+  'id':    { title: '🗺️ Trip Planner Bali', desc: 'Ceritakan gaya liburanmu — langsung dapat panduan area & rekomendasi tempat wisata yang pas', btn: 'Rencanakan Liburanku →' },
 }[lang];
 ---
 

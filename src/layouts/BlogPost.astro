@@ -226,7 +226,7 @@ const STATIC_CATEGORY_PAGES = new Set([
 const catPageUrl = (cat: string): string => {
   if (cat === '新聞存檔' && isZhTw) return '/news/';
   if (STATIC_CATEGORY_PAGES.has(cat)) {
-    const slug = lang === 'en' ? catUrlSlug('en', cat) : cat;
+    const slug = (lang === 'en' || lang === 'id') ? catUrlSlug(lang, cat) : cat;
     return `${blogBase}/category/${encodeURIComponent(slug)}/`;
   }
   return `${catBaseUrl}${encodeURIComponent(cat)}`;
@@ -295,6 +295,12 @@ const i18n = {
   discussionTitle: lang === 'en' ? '💬 Join the Discussion' : lang === 'zh-cn' ? '💬 加入讨论' : lang === 'id' ? '💬 Ikut Diskusi' : '💬 加入討論',
   discussionCta: lang === 'en' ? 'Discuss in Forum →' : lang === 'zh-cn' ? '前往讨论区留言 →' : lang === 'id' ? 'Diskusi di Forum →' : '前往討論區留言 →',
   byAuthor: lang === 'en' ? 'By ' : lang === 'id' ? 'Oleh ' : '作者：',
+  // en / id 的署名、日期、aria 標籤原本是中文（「Gobaligo編輯部」「2023年12月6日 · 更新於」）
+  authorName: lang === 'en' ? 'Go Bali Go Editorial Team' : lang === 'id' ? 'Tim Redaksi Go Bali Go' : AUTHOR.name,
+  dateLocale: lang === 'en' ? 'en-US' : lang === 'id' ? 'id-ID' : 'zh-TW',
+  updatedOn: lang === 'en' ? 'Updated' : lang === 'id' ? 'Diperbarui' : '更新於',
+  catNavLabel: lang === 'en' ? 'Category navigation' : lang === 'id' ? 'Navigasi kategori' : '分類導覽',
+  tocLabel: lang === 'en' ? 'Table of contents' : lang === 'id' ? 'Daftar isi' : '文章目錄',
   authorTagline: lang === 'en' ? 'Go Bali Go editorial team · Bali travel guides'
     : lang === 'zh-cn' ? 'Go Bali Go 内容团队・巴厘岛旅游攻略'
     : lang === 'id' ? 'Tim editorial Go Bali Go · panduan wisata Bali'
@@ -528,7 +534,7 @@ const spaFaqSchema = isSpaGuide ? {
 
     <main>
       <!-- Mobile 分類導覽（桌機版有 sidebar，手機版才顯示） -->
-      <nav class="mobile-breadcrumb" aria-label="分類導覽">
+      <nav class="mobile-breadcrumb" aria-label={i18n.catNavLabel}>
         <a href={blogIndexUrl} class="breadcrumb-home">{i18n.breadcrumbAll}</a>
         {category && (
           <>
@@ -555,14 +561,14 @@ const spaFaqSchema = isSpaGuide ? {
             <div class="author-byline">
               <span class="author-avatar" aria-hidden="true">小</span>
               <span class="author-meta">
-                <a href="/about/" class="author-name" rel="author">{i18n.byAuthor}{AUTHOR.name}</a>
+                <a href="/about/" class="author-name" rel="author">{i18n.byAuthor}{i18n.authorName}</a>
                 <span class="author-tagline">{i18n.authorTagline}</span>
               </span>
             </div>
             <div class="date">
-              <FormattedDate date={pubDate} />
+              <FormattedDate date={pubDate} locale={i18n.dateLocale} />
               {updatedDate && (
-                <span class="last-updated-on">· 更新於 <FormattedDate date={updatedDate} /></span>
+                <span class="last-updated-on">· {i18n.updatedOn} <FormattedDate date={updatedDate} locale={i18n.dateLocale} /></span>
               )}
               <a href={`/admin/#/collections/blog/entries/${Astro.params.slug}`} class="edit-link" target="_blank" rel="noopener">✏️ 編輯文章</a>
             </div>
@@ -630,7 +636,7 @@ const spaFaqSchema = isSpaGuide ? {
           )}
 
           {showToc && (
-            <nav class="toc" aria-label="文章目錄">
+            <nav class="toc" aria-label={i18n.tocLabel}>
               <div class="toc-header">
                 <span class="toc-title">{i18n.tocTitle}</span>
                 <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list" data-collapse={i18n.tocCollapse} data-expand={i18n.tocExpand}>{i18n.tocCollapse}</button>
@@ -685,7 +691,7 @@ const spaFaqSchema = isSpaGuide ? {
           )}
 
           <!-- Trip Planner Banner -->
-          <TripPlannerBanner lang={lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : lang === 'en' ? 'en' : 'zh-tw'} />
+          <TripPlannerBanner lang={lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : lang === 'en' ? 'en' : lang === 'id' ? 'id' : 'zh-tw'} />
 
           <!-- 分享列（底部） -->
           <div class="share-bar share-bar--bottom" data-url={canonicalUrl} data-title={title} data-bookmark-label={i18nShare.bookmark} data-bookmarked-label={i18nShare.bookmarked} data-copy-label={i18nShare.copy} data-copied-label={i18nShare.copied}>
@@ -740,7 +746,7 @@ const spaFaqSchema = isSpaGuide ? {
             <h2 class="related-title">{i18n.relatedTitle}</h2>
             <div class="related-grid">
               {randomPosts.map(post => (
-                <a href={`${blogBase}/${post.id}/`} class="related-card">
+                <a href={`${blogBase}/${post.data.slug || post.id}/`} class="related-card">
                   <div class="related-image">
                     {post.data.heroImage && (
                       <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />

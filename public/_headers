@@ -41,8 +41,11 @@
 /hero-map.json
   Cache-Control: public, max-age=300, stale-while-revalidate=86400
 
-# /en/blog/ 前端篩選／分頁用的完整文章清單（每次部署重產，短 TTL 讓新文章很快出現）
+# /en/blog/、/id/blog/ 前端篩選／分頁用的完整文章清單（每次部署重產，短 TTL 讓新文章很快出現）
 /en/blog/posts.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/id/blog/posts.json
   Cache-Control: public, max-age=300, stale-while-revalidate=86400
 
 # Static images in public/

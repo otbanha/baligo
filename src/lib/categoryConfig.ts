@@ -3,6 +3,8 @@
 // 本模組提供其餘 4 語言的分類頁設定，並集中管理 hreflang cluster 用的語言中繼資料。
 // 文章的 category 值一律為繁中（例：住宿推薦），各語言只 overlay 標題/描述，不影響分類比對。
 
+import { CAT_SLUG_EN, CAT_SLUG_ID } from './categorySlugs.mjs';
+
 export type Lang = 'zh-tw' | 'zh-hk' | 'zh-cn' | 'en' | 'id';
 
 // hreflang cluster 用：所有語言的分類頁網址（指向真實 /blog/category/ 頁，非 ?cat=）
@@ -29,24 +31,10 @@ export function categoryUrl(lang: Lang, cat: string): string {
   return `https://gobaligo.id${lp(lang, `blog/category/${encodeURIComponent(catUrlSlug(lang, cat))}/`)}`;
 }
 
-// 英文分類頁網址 slug——只有 en 語言使用全英文網址，其餘語言網址沿用繁中分類值。
-// key 為繁中分類值，需與 catLabel('en', ...) 對應的分類保持同步。
-const CAT_URL_SLUG_EN: Record<string, string> = {
-  '新手指南': 'beginners-guide',
-  '住宿推薦': 'accommodation',
-  '峇里島分區攻略': 'area-guide',
-  '簽證通關': 'visa-entry',
-  '叫車包車': 'transport',
-  '家庭親子': 'family-travel',
-  '遊記分享': 'travel-stories',
-  '美食景點活動': 'food-activities',
-  '套裝行程': 'package-tours',
-  '購物指南': 'shopping',
-};
-
-// 分類頁網址用的 slug（依語言）；en 用英文 slug，其餘語言沿用繁中分類值原文。
+// 分類頁網址用的 slug（依語言）；en / id 用各自語言的 slug，其餘語言沿用繁中分類值原文。
 export function catUrlSlug(lang: Lang, cat: string): string {
-  if (lang === 'en') return CAT_URL_SLUG_EN[cat] ?? cat;
+  if (lang === 'en') return (CAT_SLUG_EN as Record<string, string>)[cat] ?? cat;
+  if (lang === 'id') return (CAT_SLUG_ID as Record<string, string>)[cat] ?? cat;
   return cat;
 }
 
@@ -517,8 +505,8 @@ const GENERIC: Record<Lang, {
     relatedItems: [
       { path: 'trip-planner/', label: '🗺️ Bali Trip Planner', desc: 'Personalised area picks in 5 minutes' },
       { path: 'bali-budget-calculator/', label: '💰 Bali Budget Calculator', desc: 'Estimate the cost of a 5/7/10-day trip' },
-      { path: 'blog/category/住宿推薦/', label: '🏨 Bali Accommodation Guides', desc: 'The island’s most complete stay picks' },
-      { path: 'blog/category/峇里島分區攻略/', label: '📍 Bali Area Guides', desc: 'Kuta, Seminyak, Ubud, Canggu and more' },
+      { path: `blog/category/${CAT_SLUG_EN['住宿推薦']}/`, label: '🏨 Bali Accommodation Guides', desc: 'The island’s most complete stay picks' },
+      { path: `blog/category/${CAT_SLUG_EN['峇里島分區攻略']}/`, label: '📍 Bali Area Guides', desc: 'Kuta, Seminyak, Ubud, Canggu and more' },
     ],
   },
   'id': {
@@ -533,8 +521,8 @@ const GENERIC: Record<Lang, {
     relatedItems: [
       { path: 'trip-planner/', label: '🗺️ Perencana Perjalanan Bali', desc: 'Rekomendasi area personal dalam 5 menit' },
       { path: 'bali-budget-calculator/', label: '💰 Kalkulator Budget Bali', desc: 'Perkirakan biaya perjalanan 5/7/10 hari' },
-      { path: 'blog/category/住宿推薦/', label: '🏨 Panduan Akomodasi Bali', desc: 'Pilihan menginap terlengkap di pulau ini' },
-      { path: 'blog/category/峇里島分區攻略/', label: '📍 Panduan Area Bali', desc: 'Kuta, Seminyak, Ubud, Canggu, dan lainnya' },
+      { path: `blog/category/${CAT_SLUG_ID['住宿推薦']}/`, label: '🏨 Panduan Akomodasi Bali', desc: 'Pilihan menginap terlengkap di pulau ini' },
+      { path: `blog/category/${CAT_SLUG_ID['峇里島分區攻略']}/`, label: '📍 Panduan Area Bali', desc: 'Kuta, Seminyak, Ubud, Canggu, dan lainnya' },
     ],
   },
 };

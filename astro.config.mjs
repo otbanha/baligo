@@ -3,6 +3,8 @@ import { remarkBlocks } from './src/remark-blocks.mjs';
 import { rehypeImages } from './src/rehype-images.mjs';
 import { rehypeAffiliateLinks } from './src/rehype-affiliate-links.mjs';
 import { rehypeExternalLinks } from './src/rehype-external-links.mjs';
+import { rehypeInternalLinks } from './src/rehype-internal-links.mjs';
+import { CAT_SLUG_EN, CAT_SLUG_ID } from './src/lib/categorySlugs.mjs';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
@@ -17,23 +19,12 @@ if (existsSync(PRIORITY_FILE)) {
 }
 
 
-// 分類頁網址 slug：只有 en 用英文 slug，其餘語言沿用繁中分類值原文。
-// 與 src/lib/categoryConfig.ts 的 CAT_URL_SLUG_EN 為同一份資料，改動時需同步。
-// （astro.config.mjs 無法直接 import 該 .ts，故在此複製一份。）
-const CAT_SLUG_EN = {
-  '新手指南': 'beginners-guide',
-  '住宿推薦': 'accommodation',
-  '峇里島分區攻略': 'area-guide',
-  '簽證通關': 'visa-entry',
-  '叫車包車': 'transport',
-  '家庭親子': 'family-travel',
-  '遊記分享': 'travel-stories',
-  '美食景點活動': 'food-activities',
-  '套裝行程': 'package-tours',
-  '購物指南': 'shopping',
-};
+// 分類頁網址 slug（en / id 用各自語言的 slug），單一來源在 src/lib/categorySlugs.mjs。
 const CAT_FROM_SLUG_EN = Object.fromEntries(
   Object.entries(CAT_SLUG_EN).map(([zh, en]) => [en, zh])
+);
+const CAT_FROM_SLUG_ID = Object.fromEntries(
+  Object.entries(CAT_SLUG_ID).map(([zh, id]) => [id, zh])
 );
 // 讀取地圖 lastmod（從 maps.ts 的 lastmod 欄位，以 JSON 快取）
 const MAP_LASTMOD_FILE = './src/data/maps-lastmod.json';
@@ -254,15 +245,16 @@ export default defineConfig({
         }
 
         // hreflang for /blog/category/{cat}/ pages
-        // 注意：en 的分類頁網址是英文 slug，其餘語言是繁中分類值原文，所以不能把
+        // 注意：en / id 的分類頁網址是各自語言的 slug，其餘語言是繁中分類值原文，所以不能把
         // 同一個網址片段直接套到 5 種語言——那會讓 sitemap 自己宣告 45 個 404
         // （2026-09 由 GSC 涵蓋範圍報表查出：90 個分類 hreflang 有一半是死的）。
         // 先把片段還原成繁中分類值，再依語言組出正確 slug；非標準分類不輸出 hreflang。
         const categoryMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/category\/([^/]+)\/?$/);
         if (categoryMatch) {
           const seg = decodeURIComponent(categoryMatch[2]);
-          const cat = CAT_FROM_SLUG_EN[seg] ?? seg;
+          const cat = CAT_FROM_SLUG_EN[seg] ?? CAT_FROM_SLUG_ID[seg] ?? seg;
           const enSlug = CAT_SLUG_EN[cat];
+          const idSlug = CAT_SLUG_ID[cat];
           item.priority = 0.8;
           item.changefreq = 'weekly';
           if (catLastmod[cat]) item.lastmod = catLastmod[cat];
@@ -274,7 +266,7 @@ export default defineConfig({
               { lang: 'zh-TW',     url: zhUrl('') },
               { lang: 'zh-HK',     url: zhUrl('/zh-hk') },
               { lang: 'zh-CN',     url: zhUrl('/zh-cn') },
-              { lang: 'id',        url: zhUrl('/id') },
+              { lang: 'id',        url: `https://gobaligo.id/id/blog/category/${idSlug}/` },
               { lang: 'en',        url: `https://gobaligo.id/en/blog/category/${enSlug}/` },
             ];
           }
@@ -305,7 +297,8 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [[remarkBlocks, {}]],
-    rehypePlugins: [rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
+    // rehypeInternalLinks 的 cacheVersion：改了該外掛邏輯就加 1，讓 content layer 快取失效（見該檔說明）
+    rehypePlugins: [[rehypeInternalLinks, { cacheVersion: 1 }], rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
   },
   build: {
     format: 'directory'

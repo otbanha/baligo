@@ -1,13 +1,14 @@
 ---
 interface Props {
   date: Date | string | undefined;
+  locale?: string;   // 依頁面語言傳入（en-US / id-ID…），預設繁中
 }
-const { date } = Astro.props;
+const { date, locale = 'zh-TW' } = Astro.props;
 const dateObj = date ? new Date(date) : null;
 ---
 {dateObj && !isNaN(dateObj.getTime()) && (
   <time datetime={dateObj.toISOString()}>
-    {dateObj.toLocaleDateString('zh-TW', {
+    {dateObj.toLocaleDateString(locale, {
       year: 'numeric',
       month: 'short',
       day: 'numeric',

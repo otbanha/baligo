@@ -7,26 +7,33 @@ const { lang } = Astro.props;
 
 const i18n = {
   bubbleLabel:  lang === 'en'    ? 'Bali Travel AI'
+              : lang === 'id'    ? 'AI Wisata Bali'
               : lang === 'zh-cn' ? '峇里岛旅游AI'
               :                    '峇里島旅遊AI',
   title:        lang === 'en'    ? 'The Most Accurate Bali AI'
+              : lang === 'id'    ? 'AI Wisata Bali Paling Akurat'
               : lang === 'zh-cn' ? '最精准的峇里岛知识库AI'
               :                    '最精準的峇里島知識庫AI',
   subtitle:     lang === 'en'    ? 'Ask me anything about Bali travel!'
+              : lang === 'id'    ? 'Tanya apa saja soal liburan ke Bali!'
               : lang === 'zh-cn' ? '有任何峇里岛旅游问题都可以问我！'
               :                    '有任何峇里島旅遊問題都可以問我！',
-  closeLabel:   lang === 'en'    ? 'Close' : '關閉',
+  closeLabel:   lang === 'en'    ? 'Close' : lang === 'id' ? 'Tutup' : '關閉',
   greeting:     lang === 'en'    ? 'Hi! I\'m the Bali Travel AI 👋<br>Visas, transport, hotels, itineraries… ask me anything!'
+              : lang === 'id'    ? 'Halo! Aku AI Wisata Bali 👋<br>Transportasi, hotel, itinerary… tanya saja!'
               : lang === 'zh-cn' ? '你好！我是峇里岛知识库AI 👋<br>签证、交通、住宿、行程⋯⋯随时为您解答！'
               :                    '你好！我是峇里島知識庫AI 👋<br>簽證、交通、住宿、行程⋯⋯隨時為您解答！',
   placeholder:  lang === 'en'    ? 'Ask a question, e.g. Best time to visit Bali?'
+              : lang === 'id'    ? 'Tulis pertanyaan, mis. kapan waktu terbaik ke Bali?'
               : lang === 'zh-cn' ? '输入问题，例如：峇里岛最佳旅游季节？'
               :                    '輸入問題，例如：峇里島最佳旅遊季節？',
-  send:         lang === 'en'    ? 'Send' : lang === 'zh-cn' ? '发送' : '送出',
+  send:         lang === 'en'    ? 'Send' : lang === 'id' ? 'Kirim' : lang === 'zh-cn' ? '发送' : '送出',
   errNetwork:   lang === 'en'    ? 'Network error, please try again.'
+              : lang === 'id'    ? 'Gangguan jaringan, silakan coba lagi.'
               : lang === 'zh-cn' ? '网络错误，请稍后再试。'
               :                    '網路錯誤，請稍後再試。',
   errFallback:  lang === 'en'    ? 'Sorry, unable to answer right now. Please try again later.'
+              : lang === 'id'    ? 'Maaf, belum bisa menjawab sekarang. Coba lagi nanti ya.'
               : lang === 'zh-cn' ? '抱歉，暂时无法回答，请稍后再试。'
               :                    '抱歉，暫時無法回答，請稍後再試。',
 };

@@ -23,6 +23,11 @@ const i18n: Record<string, { title: string; datePrefix: string; disclaimer: stri
     datePrefix: 'Updated: ',
     disclaimer: 'Source: Market reference rate. Actual rates vary by money changer.',
   },
+  'id': {
+    title: '💱 Kurs Harian',
+    datePrefix: 'Diperbarui: ',
+    disclaimer: 'Sumber: kurs acuan pasar. Kurs sebenarnya bisa berbeda di tiap money changer.',
+  },
 };
 
 const t = i18n[lang] ?? i18n['zh-tw'];
@@ -34,7 +39,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     <span class="exr-date" id="exr-date"></span>
   </div>
   <div class="exr-grid" id="exr-row">
-    <span class="exr-loading">{lang === 'en' ? 'Loading…' : '載入中…'}</span>
+    <span class="exr-loading">{lang === 'en' ? 'Loading…' : lang === 'id' ? 'Memuat…' : '載入中…'}</span>
   </div>
   <p class="exr-disclaimer">{t.disclaimer}</p>
 </div>

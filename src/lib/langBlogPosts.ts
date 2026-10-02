@@ -1,5 +1,5 @@
-// 英文版部落格首頁（/en/blog/）的文章清單：頁面本身與 /en/blog/posts.json 共用同一份邏輯，
-// 確保靜態輸出的第一頁、分頁總數與前端篩選用的 JSON 永遠一致。
+// en / id 部落格首頁（/en/blog/、/id/blog/）的文章清單：頁面本身與 /xx/blog/posts.json
+// 共用同一份邏輯，確保靜態輸出的第一頁、分頁總數與前端篩選用的 JSON 永遠一致。
 import { getCollection } from 'astro:content';
 
 function extractFirstImage(body: string): string {
@@ -22,18 +22,20 @@ export const getCategories = (cat: any): string[] => {
   return [];
 };
 
-export type EnPostData = {
+export type IndexLang = 'en' | 'id';
+
+export type LangPostData = {
   id: string;
   slug: string;
-  hasEnTranslation: boolean;
+  hasTranslation: boolean;
   title: string;
   description: string;
   heroImage: string;
   category: string[];
 };
 
-export async function getEnBlogPosts(now = new Date()) {
-  const langPosts = await getCollection('en');
+export async function getLangBlogPosts(lang: IndexLang, now = new Date()) {
+  const langPosts = await getCollection(lang);
   const langMap = new Map(langPosts.map(p => [p.data.slug || p.id, p]));
   const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
 
@@ -54,10 +56,10 @@ export async function getEnBlogPosts(now = new Date()) {
     })
     .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
 
-  const allPostsData: EnPostData[] = allPosts.map(p => ({
+  const allPostsData: LangPostData[] = allPosts.map(p => ({
     id: p.id,
     slug: p.data.slug || p.id,
-    hasEnTranslation: langMap.has(p.id),
+    hasTranslation: langMap.has(p.id),
     title: p.data.title,
     description: p.data.description || '',
     heroImage: p.data.heroImage || '',

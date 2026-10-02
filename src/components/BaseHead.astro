@@ -35,16 +35,23 @@ const markdownURL = new URL(
 ).href;
 
 const pathLang = Astro.url.pathname.startsWith('/en/')     ? 'en'    :
+                 Astro.url.pathname.startsWith('/id/')     ? 'id'    :
                  Astro.url.pathname.startsWith('/zh-cn/')  ? 'zh-cn' :
                  Astro.url.pathname.startsWith('/zh-hk/')  ? 'zh-hk' : 'zh-tw';
 
+// id 原本沒有對應，印尼文頁面的 og:locale／og:site_name 一直是 zh_TW／繁中站名（2026-10 修正）
 const siteName = pathLang === 'en'    ? 'Go Bali Go — Smart Bali Guide' :
+                 pathLang === 'id'    ? 'Go Bali Go — Panduan Wisata Bali' :
                  pathLang === 'zh-cn' ? 'Go Bali Go 巴厘岛旅游攻略' :
                  SITE_TITLE;
 
 const ogLocale = pathLang === 'en'    ? 'en_US'  :
+                 pathLang === 'id'    ? 'id_ID'  :
                  pathLang === 'zh-cn' ? 'zh_CN'  :
                  pathLang === 'zh-hk' ? 'zh_HK'  : 'zh_TW';
+
+const authorName = pathLang === 'en' ? 'Go Bali Go Editorial Team' :
+                   pathLang === 'id' ? 'Tim Redaksi Go Bali Go' : AUTHOR.name;
 
 // Article pages get "標題 | Go Bali Go" format; index pages already have the brand name
 const title = noSuffix ? rawTitle : (rawTitle.includes('Go Bali Go') ? rawTitle : `${rawTitle} | Go Bali Go`);
@@ -162,7 +169,7 @@ const fontsHref = fontsPath.startsWith('/zh-cn/')
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
-<meta name="author" content={AUTHOR.name} />
+<meta name="author" content={authorName} />
 
 <!-- Open Graph -->
 <meta property="fb:app_id" content="1994862997907037" />
