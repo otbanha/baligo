@@ -11,6 +11,7 @@ import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection } from 'astro:content';
 import { ACCOMMODATION_PINS } from '../../../lib/accommodationPins';
 import { catUrlSlug } from '../../../lib/categoryConfig';
+import { getEnBlogPosts, getCategories } from '../../../lib/enBlogPosts';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
 import qaI18n from '../../../qa-i18n.json';
@@ -26,48 +27,9 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
   coverImage: p.data.coverImage || null,
 })));
 
-function extractFirstImage(body: string): string {
-  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
-  return m ? m[1] : '';
-}
-
-const langPosts = await getCollection('en');
-const langMap = new Map(langPosts.map(p => [p.data.slug || p.id, p]));
-
-function getPublishTime(p: any): Date {
-  const d = new Date(p.data.pubDate);
-  if (p.data.pubHour != null) {
-    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
-  }
-  return d;
-}
-const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
-
-const allPosts = (await getCollection('blog'))
-  .filter(isPublished)
-  .map(p => {
-    const t = langMap.get(p.data.slug || p.id);
-    return {
-      ...p,
-      data: {
-        ...p.data,
-        title: t?.data.title ?? p.data.title,
-        description: t?.data.description ?? p.data.description,
-        pubDate: new Date(p.data.pubDate),
-        heroImage: p.data.heroImage || extractFirstImage(p.body),
-      }
-    };
-  })
-  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+const { allPosts, allPostsData } = await getEnBlogPosts(now);
 
 const countFloor = Math.floor(allPosts.length / 100) * 100;
-
-const getCategories = (cat: any): string[] => {
-  if (!cat) return [];
-  if (Array.isArray(cat)) return cat;
-  if (typeof cat === 'string') return [cat];
-  return [];
-};
 
 const CAT_EN: Record<string, string> = {
   '新手指南': "Beginner's Guide",
@@ -99,18 +61,6 @@ const categoryCounts = categories.reduce((acc, cat) => {
   return acc;
 }, {} as Record<string, number>);
 
-const allPostsData = allPosts
-  .filter(p => true /* include 新聞存檔 */)
-  .map(p => ({
-    id: p.id,
-    slug: p.data.slug || p.id,
-    hasEnTranslation: langMap.has(p.id),
-    title: p.data.title,
-    description: p.data.description || '',
-    heroImage: p.data.heroImage || '',
-    category: getCategories(p.data.category),
-  }));
-
 // ── SEO ──────────────────────────────────────────────────────────────────────
 const year = now.getFullYear();
 const SITE = 'https://gobaligo.id';
@@ -130,7 +80,10 @@ const catHref = (cat: string) => STATIC_CATEGORY_PAGES.has(cat)
 // 第一頁文章直接輸出在靜態 HTML（與下方 JS 初次渲染的 18 篇相同）。
 // 原本 #posts-grid 完全靠 JS 填入，不執行 JS 的爬蟲（Bing、AI crawler）在這頁看不到任何文章連結。
 const POSTS_PER_PAGE = 18;
-const firstPagePosts = allPostsData.filter(p => !p.category.includes('新聞存檔')).slice(0, POSTS_PER_PAGE);
+const listPosts = allPostsData.filter(p => !p.category.includes('新聞存檔'));
+const firstPagePosts = listPosts.slice(0, POSTS_PER_PAGE);
+const initialTotal = listPosts.length;
+const postsUrl = `${blogBase}/posts.json`;
 
 // 首頁的「旅遊必知」問答：讓這頁有實質內容可排名「Bali travel guide」類查詢，
 // 並以關鍵字錨文字連到各主題的深度文章。數字與規定取自所連文章，文章更新時這裡要一起改。
@@ -587,8 +540,19 @@ const socialLinks = [
   <Footer lang="en" />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, accommodationPins, top5Posts, blogBase, CAT_EN, qaData, POSTS_PER_PAGE }}>
+<script is:inline define:vars={{ featuredData, postsUrl, initialTotal, youtubeVideos, accommodations, accommodationPins, top5Posts, blogBase, CAT_EN, qaData, POSTS_PER_PAGE }}>
   window.addEventListener('DOMContentLoaded', () => {
+    // 完整文章清單另存 posts.json（原本內嵌在 HTML 裡約 580KB），載入後非同步取得。
+    // 第一頁已在靜態 HTML，分頁總數用 initialTotal 先顯示；篩選／換頁等 JSON 到了再執行。
+    let allPostsData = [];
+    let postsLoaded = false;
+    let postsFailed = false;
+    const postsReady = fetch(postsUrl)
+      .then(r => { if (!r.ok) throw new Error(String(r.status)); return r.json(); })
+      .then(d => { allPostsData = Array.isArray(d) ? d : []; })
+      .catch(() => { postsFailed = true; })
+      .then(() => { postsLoaded = true; });
+
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
     if (sidebarToggle && sidebarInner) {
@@ -607,7 +571,7 @@ const socialLinks = [
       if (Array.isArray(data.hotArticles) && data.hotArticles.length > 0) {
         const section = document.getElementById('top5-section');
         const list = document.getElementById('top5-list');
-        if (section && list) {
+        if (section && list) postsReady.then(() => {
           const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
           const enOnly = data.hotArticles
             .map(item => ({ item, postData: findPost(item.id) }))
@@ -622,12 +586,12 @@ const socialLinks = [
             }).join('');
             section.style.display = '';
           }
-        }
+        });
       }
 
       if (data.featured && typeof data.featured === 'object' && Object.keys(data.featured).length > 0) {
         dynamicFeatured = data.featured;
-        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
+        if (currentCat && currentCat !== 'all') postsReady.then(() => updateFeatured(currentCat));
       }
     }).catch(() => {}).finally(() => {
       const randomVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
@@ -705,9 +669,8 @@ const socialLinks = [
       return blogBase + (params.toString() ? '?' + params.toString() : '');
     }
 
-    // keepStatic：初次載入預設檢視時，第一頁已在靜態 HTML 裡，不重畫（避免閃爍），只補分頁
-    function renderCards(keepStatic = false) {
-      if (keepStatic) { updatePagination(); return; }
+    function renderCards() {
+      if (!postsLoaded) { postsReady.then(() => renderCards()); return; }
       const grid = document.getElementById('posts-grid');
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
@@ -739,8 +702,8 @@ const socialLinks = [
       updatePagination();
     }
 
-    function updatePagination() {
-      const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
+    function updatePagination(total = filteredPosts.length) {
+      const totalPages = Math.ceil(total / POSTS_PER_PAGE);
       const pagination = document.getElementById('pagination');
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
@@ -778,19 +741,25 @@ const socialLinks = [
         const el = document.getElementById(id);
         if (el && !isInitial) el.style.display = (cat === 'all' && !q) ? '' : 'none';
       });
-      const qLower = q ? q.toLowerCase() : '';
-      filteredPosts = allPostsData.filter(post => {
-        const catList = post.category || [];
-        if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
-        if (cat !== 'all' && !catList.includes(cat)) return false;
-        if (qLower) return post.title.toLowerCase().includes(qLower);
-        return true;
-      });
-      updateFeatured(cat);
+      // keepStatic：初次載入預設檢視時，第一頁已在靜態 HTML 裡，不重畫（避免閃爍），只補分頁
       const grid = document.getElementById('posts-grid');
       const keepStatic = isInitial && grid.dataset.ssr === '1' && cat === 'all' && page === 1 && !q;
       delete grid.dataset.ssr;
-      renderCards(keepStatic);
+      if (keepStatic) updatePagination(initialTotal);
+      postsReady.then(() => {
+        if (currentCat !== cat || currentQ !== q) return; // 已被之後的篩選取代
+        const qLower = q ? q.toLowerCase() : '';
+        filteredPosts = allPostsData.filter(post => {
+          const catList = post.category || [];
+          if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
+          if (cat !== 'all' && !catList.includes(cat)) return false;
+          if (qLower) return post.title.toLowerCase().includes(qLower);
+          return true;
+        });
+        updateFeatured(cat);
+        if (keepStatic && currentPage === 1) updatePagination();
+        else renderCards();
+      });
     }
 
     function filterCategory(cat) {
@@ -804,6 +773,8 @@ const socialLinks = [
     buttons.forEach(btn => btn.addEventListener('click', (e) => {
       // Ctrl/⌘/中鍵等開新分頁的點擊交給瀏覽器，直接開啟分類頁
       if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      // posts.json 取不到時無法前端篩選，改走連結直接開分類頁
+      if (postsFailed) return;
       e.preventDefault();
       filterCategory(btn.dataset.category);
     }));
