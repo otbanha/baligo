@@ -120,6 +120,17 @@ export async function onRequest({ request, next }) {
     });
   }
 
+  // /en/、/zh-cn/、/zh-hk/、/id/ 只是轉到各語言部落格首頁的空殼頁（原本靠 JS
+  // location.replace），搜尋引擎會把它當成另一個薄內容頁、分散首頁訊號。
+  // 改成伺服器端 301，爬蟲與使用者都直接到 /xx/blog/。同樣放在 isBot 放行之前。
+  const langRoot = normalizedPath.match(/^\/(en|zh-cn|zh-hk|id)\/?$/);
+  if (langRoot) {
+    return new Response(null, {
+      status: 301,
+      headers: { 'Location': `${url.origin}/${langRoot[1]}/blog/${url.search}` },
+    });
+  }
+
   // Agent 探索用的 well-known 文件（副檔名不是 .json，靠靜態檔給不了正確
   // 的 application/linkset+json，所以在這裡直接回）
   const wellKnown = serveWellKnown(pathname, url.origin);

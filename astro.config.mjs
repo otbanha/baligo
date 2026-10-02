@@ -147,6 +147,8 @@ export default defineConfig({
           !page.endsWith('/news/rss.xml')
         ) {
           const path = new URL(page).pathname;
+          // /en/、/zh-cn/、/zh-hk/、/id/ 在 functions/_middleware.js 301 到 /xx/blog/，不能放進 sitemap
+          if (/^\/(en|zh-cn|zh-hk|id)\/?$/.test(path)) return false;
           const blogMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/([^/]+)\/?$/);
           if (blogMatch && isStaleNewsArchive(blogMatch[2])) return false;
           return true;
@@ -192,18 +194,18 @@ export default defineConfig({
           ];
         }
 
-        // hreflang for homepage (/ , /en/, /zh-cn/, /zh-hk/)
-        const homepageMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/?$/);
-        if (homepageMatch) {
+        // 根路徑 /（各語言根路徑 /en/ 等已 301，不在 sitemap 內）
+        // 其他語言版本指向實際內容所在的 /xx/blog/，不指向會轉址的網址
+        if (path === '/') {
           item.priority = 1.0;
           item.changefreq = 'daily';
           item.links = [
             { lang: 'x-default', url: 'https://gobaligo.id/' },
             { lang: 'zh-TW',     url: 'https://gobaligo.id/' },
-            { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/' },
-            { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/' },
-            { lang: 'en',        url: 'https://gobaligo.id/en/' },
-            { lang: 'id',        url: 'https://gobaligo.id/id/' },
+            { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/blog/' },
+            { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/blog/' },
+            { lang: 'en',        url: 'https://gobaligo.id/en/blog/' },
+            { lang: 'id',        url: 'https://gobaligo.id/id/blog/' },
           ];
         }
 
