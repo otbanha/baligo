@@ -1,7 +1,7 @@
 ---
 title: 峇里島包車司機推薦名單（第二頁）｜社團真實分享
 slug: bali-drivers-recommendations-2
-description: 峇里島包車司機推薦名單第二頁，每個司機底下嘅分享連結都可以㩒入去睇返原始社團貼文。附埋 2026 包車行情同聯絡時要提供嘅資訊。
+description: 峇里島包車司機推薦名單第二頁，每個司機底下嘅分享連結都可以㩒入去睇返原始社團貼文。附 2026 包車行情同聯絡時要提供嘅資訊。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,17 +17,17 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-10-02T19:18:30+08:00'
-updatedDate: 2026-10-02T00:00:00.000Z
+contentUpdatedAt: '2026-10-03T16:43:12+08:00'
+updatedDate: 2026-10-03T00:00:00.000Z
 lang: zh-hk
-_srcHash: e2916e862010010f50136b74cb895b1f
+_srcHash: d4aacb6325e15bfde79cf564ecc68bd1
 ---
 
-**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，收錄咗 20 **位司機、258 則團友喺 Facebook 社團自己出嘅文分享搭車經驗**。每個司機底下嗰排數字都係原始貼文連結，可以自己㩒入去查證。
+**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，收錄咗20**位司機、258 則團友喺 Facebook 社團自己出嘅文分享搭車經驗**。每個司機底下嗰排數字都係原始貼文連結，可以自己㩒入去查證。
 
-包車行情大約 **Rp 600,000–800,000／10 小時／五人座**（計車唔計人頭，烏布以南），2026 年 7 月 1 號開始另加油費補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加價、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
+包車行情大約 **Rp 600,000–800,000／10 個鐘／五人車**（計車唔計人頭，烏布以南），2026 年 7 月 1 日起另外加燃油補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加錢、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
 
-> 聯絡司機嗰陣請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，仲要問清楚包唔包跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
+> 聯絡司機嗰陣請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，仲要問清楚包埋跨區加錢嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
 
 **👉 第一頁仲有另外 24 位司機（包括 9 位中文司機）：**[**峇里島包車司機推薦名單（第一頁）**](/zh-hk/blog/bali-private-car-drivers-guide/)
 
@@ -169,16 +169,16 @@ _srcHash: e2916e862010010f50136b74cb895b1f
 
 👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
-## **（中文司機）Yoga Setiawan**
+## （中文司機）Dirga Yusa 長壽
 
-![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
+![](https://images.gobaligo.id/images/2026-06/1781362159693-_2026-06-13_21.48.27.png)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/19Jg1L5WjX/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1AspU9bSJ2/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1BUyEqjf1C/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1F8XpboZz5/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1CVXibCifc/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/16cnSfa37J/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/14NT4DBz1o4/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/16wh9a4bF2/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1AN3UG2GBq/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1B19RExpLc/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CiqAznMmG/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18JY9F5fwP/) 👍🏼[網友推薦](https://www.facebook.com/share/p/19T9L7NGPU/)[12](https://www.facebook.com/share/p/19T9L7NGPU/)
 
 ***
 
 <!-- no-shuffle -->
 
-👈 **返去峇里島自由行終極指南**
+👈 **返到峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[撳呢度閱讀「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

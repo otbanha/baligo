@@ -2,9 +2,9 @@
 title: Recommended Bali Private Car Drivers (Page 2) | Real Community Reviews
 slug: bali-drivers-recommendations-2
 description: >-
-  Bali private car driver recommendations on page two, with links to original
-  community posts for each driver. Includes 2026 rates and details to provide
-  when contacting.
+  Page 2 of recommended Bali private car drivers, with links to original
+  community posts for each driver's reviews. Includes 2026 rates and details to
+  provide when contacting.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -20,17 +20,17 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-10-02T19:18:30+08:00'
-updatedDate: 2026-10-02T00:00:00.000Z
+contentUpdatedAt: '2026-10-03T16:43:12+08:00'
+updatedDate: 2026-10-03T00:00:00.000Z
 lang: en
-_srcHash: e2916e862010010f50136b74cb895b1f
+_srcHash: d4aacb6325e15bfde79cf564ecc68bd1
 ---
 
-**What this page is**: The **second page** of recommended Bali private car drivers, featuring **20 drivers and 258 ride reviews posted by community members on Facebook**. The numbers below each driver are direct links to the original posts—feel free to click and verify.
+**What This Page Is**: The **second page** of recommended Bali private car drivers, featuring **20 drivers and 258 real ride reviews posted by community members on Facebook**. The numbers below each driver are direct links to the original posts, which you can click to verify.
 
-Typical rates are around **Rp 600,000–800,000 / 10 hours / 5-seater car** (per vehicle, not per person, for areas south of Ubud). Starting July 1, 2026, there will be an additional fuel surcharge (Rp 50,000 for half-day, Rp 100,000 for full-day). Cross-zone surcharges, overtime fees, and booking procedures are all detailed on [Page 1](/en/blog/bali-private-car-drivers-guide/).
+Typical rates are around **Rp 600,000–800,000 / 10 hours / 5-seater car** (per car, not per person, for areas south of Ubud). Starting July 1, 2026, there will be an additional fuel surcharge (Rp 50,000 for half-day, Rp 100,000 for full-day). Cross-zone surcharges, overtime fees, and booking procedures are all detailed on [Page 1](/en/blog/bali-private-car-drivers-guide/).
 
-> When contacting a driver, be clear upfront: **date, number of days, number of people and luggage, pickup and drop-off locations, and places you want to visit**. Also ask for the total amount including any cross-zone surcharges. ⚠️ Line cross-zone cannot add friends by ID—**scan the QR Code** instead.
+> When contacting a driver, be clear about: **dates, number of days, number of people and luggage, pick-up and drop-off locations, and places you want to visit**. Also, ask for the total amount including any cross-zone surcharges. ⚠️ On Line, you can't add friends across zones using an ID; you need to **scan the QR Code**.
 
 **👉 Page 1 features 24 more drivers (including 9 Chinese-speaking drivers):** [**Recommended Bali Private Car Drivers (Page 1)**](/en/blog/bali-private-car-drivers-guide/)
 
@@ -134,7 +134,7 @@ The order **does not indicate ranking**,
 
 ![Odon](https://images.gobaligo.id/images/2026-03/1774788129506-odon_new.jpg)
 
-👍🏼[Recommendation 1](https://www.facebook.com/share/p/1AMUy8XQJC/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[Recommendation 3](https://www.facebook.com/share/1ED9boaUC7/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/1AK9XoQjiH/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/15tr79GCtL/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1GHbhFPc3F/)
+👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1AMUy8XQJC/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/1ED9boaUC7/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/1AK9XoQjiH/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/15tr79GCtL/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
 ##
 
@@ -142,19 +142,19 @@ The order **does not indicate ranking**,
 
 ![Gede Mahendra](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍🏼[Recommendation 1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1CwwL8mTrC/)
+👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
 ## **Manx Liega**
 
 ![](https://images.gobaligo.id/images/2026-06/1781187526230-_2026-06-11_20.39.43.png)
 
-👍🏼[Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[Recommendation 14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[Recommendation 15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[Recommendation 16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[Recommendation 17](https://www.facebook.com/share/p/1CWDjmBc14/)
+👍🏼[User Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[User Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[User Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[User Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[User Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[User Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[User Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[User Recommendation 11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[User Recommendation 12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[User Recommendation 13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[User Recommendation 14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[User Recommendation 15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[User Recommendation 16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[User Recommendation 17](https://www.facebook.com/share/p/1CWDjmBc14/)
 
 ## Gede John (UD Sadana)
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍 **5 Real User Reviews** (click numbers for original posts): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍 **5 Verified User Reviews** (click numbers for original posts): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
@@ -164,7 +164,7 @@ The order **does not indicate ranking**,
 
 ![](https://images.gobaligo.id/vocus/vocus_b7880431d7ebd0564f47b379a0e30127.png)
 
-👍🏼[Recommendation 1](https://www.facebook.com/share/p/STuNxqR73ZZFPK2u/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/Xm5jTtnPQPBo6oqG/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/KJwUVWbP99bC7Wnw/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/Rv5XSyAEKuedtWi6/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/RDyarvBUSycxdh3y/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/Xsfw3sEeD7u4Nngu/) 👍🏼[Recommendation 7](https://www.facebook.com/share/p/15aJF3dLmK/) 👍🏼[Recommendation 8](https://www.facebook.com/share/p/16HTnwHGFi/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/1ABia4u9MD/) 👍🏼[Recommendation 10](https://www.facebook.com/share/v/1BoUyc4YfZ/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/1QLAmoxkox/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/19XBo22eSd/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/1Ceax3HyFr/) 👍🏼[Recommendation 14](https://www.facebook.com/share/p/1AAVGjw14V/) 👍🏼[Recommendation 15](https://www.facebook.com/share/p/185JM5bBCA/) 👍🏼[Recommendation 16](https://www.facebook.com/share/p/1BJni5S98k/) 👍🏼[Recommendation 17](https://www.facebook.com/share/p/1KZ89irDsf/) 👍🏼[Recommendation 18](https://www.facebook.com/share/p/19J6zyoa3B/)
+👍🏼[User Recommendation 1](https://www.facebook.com/share/p/STuNxqR73ZZFPK2u/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/Xm5jTtnPQPBo6oqG/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/KJwUVWbP99bC7Wnw/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/Rv5XSyAEKuedtWi6/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/RDyarvBUSycxdh3y/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/Xsfw3sEeD7u4Nngu/) 👍🏼[User Recommendation 7](https://www.facebook.com/share/p/15aJF3dLmK/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/16HTnwHGFi/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/1ABia4u9MD/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/v/1BoUyc4YfZ/) 👍🏼[User Recommendation 11](https://www.facebook.com/share/p/1QLAmoxkox/) 👍🏼[User Recommendation 12](https://www.facebook.com/share/p/19XBo22eSd/) 👍🏼[User Recommendation 13](https://www.facebook.com/share/p/1Ceax3HyFr/) 👍🏼[User Recommendation 14](https://www.facebook.com/share/p/1AAVGjw14V/) 👍🏼[User Recommendation 15](https://www.facebook.com/share/p/185JM5bBCA/) 👍🏼[User Recommendation 16](https://www.facebook.com/share/p/1BJni5S98k/) 👍🏼[User Recommendation 17](https://www.facebook.com/share/p/1KZ89irDsf/) 👍🏼[User Recommendation 18](https://www.facebook.com/share/p/19J6zyoa3B/)
 
 ## Amy Utama
 
@@ -172,11 +172,11 @@ The order **does not indicate ranking**,
 
 👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[User Recommendation 7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/19QSZ8VTs3/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
-## **Yoga Setiawan (Chinese-Speaking Driver)**
+## (Chinese-Speaking Driver) Dirga Yusa Longevity
 
-![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
+![](https://images.gobaligo.id/images/2026-06/1781362159693-_2026-06-13_21.48.27.png)
 
-👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[User Recommendation 7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/p/19Jg1L5WjX/)
+👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1AspU9bSJ2/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/1BUyEqjf1C/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/1F8XpboZz5/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/1CVXibCifc/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/16cnSfa37J/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/14NT4DBz1o4/) 👍🏼[User Recommendation 7](https://www.facebook.com/share/p/16wh9a4bF2/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/1AN3UG2GBq/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/1B19RExpLc/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/p/1CiqAznMmG/) 👍🏼[User Recommendation 11](https://www.facebook.com/share/p/18JY9F5fwP/) 👍🏼[User Recommendation 12](https://www.facebook.com/share/p/19T9L7NGPU/)
 
 ***
 
@@ -184,4 +184,4 @@ The order **does not indicate ranking**,
 
 👈 **Back to the Ultimate Bali Travel Guide**
 
-Want the full beginner's cheat sheet? [Click here to read the '2026 Ultimate Bali Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.
+Want the full beginner's guide? [Click here to read the '2026 Bali Ultimate Travel Guide'](/en/blog/bali-ultimate-guide-2026/) and get everything sorted before you go.

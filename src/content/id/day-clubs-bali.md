@@ -1,16 +1,17 @@
 ---
 title: >-
-  10+ Day Club Murah di Bali: Gak Perlu Bayar Day Pass Mahal, Makan Aja Udah
-  Bisa Main Kolam
+  10+ Day Club Murah di Bali: Gak Perlu Bayar Day Pass Mahal, Makan Juga Bisa
+  Main Kolam
 slug: day-clubs-bali
 description: >-
-  Rekomendasi Day Club Murah di Bali! Aku udah ngumpulin Banana Lounge, Folk
-  Pool & Gardens, Delpi Cafe, Jungle Fish, dan lainnya. Gak perlu Day Pass
-  mahal, kamu tetap bisa makan, berenang di kolam, dan pakai kursi santai.
-pubDate: 2026-10-04T00:00:00.000Z
+  Rekomendasi Day Club Murah di Bali! Ada Banana Lounge, Folk Pool & Gardens,
+  Delpi Cafe, Jungle Fish, dan lainnya. Gak perlu Day Pass mahal, kamu tetap
+  bisa makan, berenang, dan pakai kursi santai.
+pubDate: 2026-10-03T00:00:00.000Z
 pubHour: 10
 category:
   - 美食景點活動
+  - 峇里島分區攻略
 tags:
   - 峇里島 Day Club
   - 峇里島平價 Day Club
@@ -32,93 +33,101 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-contentUpdatedAt: '2026-10-02T23:58:24+08:00'
-updatedDate: 2026-10-02T00:00:00.000Z
+contentUpdatedAt: '2026-10-03T16:19:32+08:00'
+updatedDate: 2026-10-03T00:00:00.000Z
 lang: id
-_srcHash: ed0509d2001b115028bb5620b383e18e
+_srcHash: 28ecf43da1323094025c4f01e90daeaa
 ---
 
-Mau main kolam, berjemur, atau foto-foto di Daybed pas liburan ke Bali, tapi males keluar duit banyak buat Day Pass? 
-Sebenernya di Bali ada banyak **Day Club, Pool Club, dan restoran dengan kolam renang** yang lebih ramah di kantong. Gak harus keluar IDR 1.000.000 ke atas, bahkan ada yang **gratis masuk, tanpa minimum pembelian** — cukup pesan makanan atau minuman, kamu udah bisa pakai kolamnya.
-Di beberapa tempat, kalau konsumsinya udah mencapai jumlah tertentu, kamu bisa pakai Sunbed, Daybed, atau handuk kolam.
-Cara main kayak gini cocok banget buat traveler mandiri: gak perlu bayar mahal cuma buat beberapa jam di kolam, dan kamu bisa **makan + renang + foto + santai** dalam satu tempat.
-Ini dia daftar Day Club murah di Bali yang worth it, dari Uluwatu, Melasti, Canggu, Seminyak, sampai Ubud.
+Mau main kolam, berjemur, atau foto-foto di Daybed pas liburan ke Bali, tapi gak mau keluar banyak uang buat Day Pass? 
+
+Sebenarnya ada banyak **Day Club, Pool Club, dan restoran dengan kolam renang** yang lebih ramah di kantong di Bali. Gak harus bayar IDR 1.000.000 ke atas, bahkan ada yang **gratis masuk, tanpa minimum pembelian**. Cukup pesan makanan atau minuman, kamu sudah bisa pakai kolamnya.
+
+Di beberapa tempat, kalau total belanja sudah mencapai nominal tertentu, kamu bisa pakai Sunbed, Daybed, atau handuk kolam secara gratis.
+
+Cara main kayak gini cocok banget buat traveler mandiri: gak perlu bayar mahal cuma buat main kolam beberapa jam, dan kamu bisa **makan + renang + foto-foto + santai** dalam satu tempat.
+
+Berikut ini daftar Day Club murah di Bali yang patut kamu coba, dari Uluwatu, Melasti, Canggu, Seminyak, sampai Ubud.
 
 ## Mrs Sippy｜Seminyak
 
 https://youtube.com/shorts/6CLaiuAloo8
 
-Kalau kamu cari pool club yang asik di Seminyak, **Mrs Sippy** bisa jadi pilihan. Tapi ini bukan Day Club gratis masuk ya. Biasanya kamu harus bayar tiket masuk, info terbaru sekitar **IDR 100.000～150.000/orang**, dan biaya masuknya belum tentu bisa dipotong dari pesanan makanan. Kalau mau pakai Day Bed, biasanya ada minimum pembelian yang lebih tinggi.
+Kalau kamu cari pool club yang asyik di Seminyak, **Mrs Sippy** bisa jadi pilihan. Tapi ingat, ini bukan Day Club gratis masuk. Tiket masuk biasanya sekitar **IDR 100.000–150.000/orang**, dan biaya masuk ini belum tentu bisa dipakai buat bayar makanan/minuman. Kalau mau pakai Day Bed, biasanya ada minimum pembelian yang lebih tinggi.
 
-Ini dia daftar Day Club murah yang worth it di Bali sekarang, dari Uluwatu, Melasti, Canggu, Seminyak sampai Ubud.
+Jadi, Mrs Sippy lebih cocok buat kamu yang **pengin dapetin suasana kolam renang, musik, makanan-minuman, dan vibe Beach Club dalam satu tempat**, bukan yang cuma cari 'kolam murah' doang. Kalau budget kamu terbatas, saran sih pilih tiket masuk biasa plus akses kolam, lebih gampang ngontrol pengeluaran daripada langsung booking Day Bed yang mahal.
 
-## Mrs Sippy｜Seminyak
-
-https://youtube.com/shorts/6CLaiuAloo8
-
-Kalau kamu lagi cari pool club yang vibes-nya oke di Seminyak, **Mrs Sippy** bisa jadi pilihan. Tapi ini bukan Day Club gratis masuk ya. Biasanya masuk bayar tiket, info terbaru sekitar **IDR 100.000–150.000/orang**, dan biaya masuknya belum tentu bisa dipakai buat beli makanan atau minuman. Kalau mau pakai Day Bed, biasanya ada minimum spend yang lebih tinggi.
-
-Jadi, Mrs Sippy lebih cocok buat kamu yang **pengin dapetin pengalaman kolam renang, musik, makanan, dan suasana Beach Club dalam satu tempat**, bukan yang cari 'kolam murah' doang. Kalau budget terbatas, saran sih ambil tiket masuk biasa plus akses kolam, lebih gampang ngontrol pengeluaran daripada langsung booking Day Bed yang mahal.
-
-**Cocok buat:** Pasangan, teman-teman, grup kecil, dan traveler yang pengin ngerasain vibe Beach Club hits di Seminyak.
+**Cocok buat:** Pasangan, teman-teman, grup kecil, dan traveler yang pengin ngerasain suasana Beach Club hits di Seminyak.
 
 ## Ocean Grand Beach Bali｜Seminyak
 
 https://www.instagram.com/reel/DYy10WbBlqc/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Kalau kamu nginep di Seminyak dan males repot ke Canggu atau Uluwatu, bisa cek Ocean Grand Beach Bali yang ada di Seminyak.
+Kalau kamu nginep di Seminyak dan males banget jalan jauh ke Canggu atau Uluwatu, bisa cek Ocean Grand Beach Bali yang ada di Seminyak.
 
-Tempat ini lebih ke model **'Day Club + Restoran'**, fokusnya buat makan, minum, dan santai di kolam renang pinggir pantai.
+Tempat ini lebih ke model **'Day Club + Restoran'**, fokusnya buat makan, minum, dan santai di kolam renang sambil lihat pantai.
 
-Sekarang resminya dikategorikan sebagai Day Club, buka dari sarapan, makan siang, sampai malam — kamu juga bisa makan di pinggir kolam.
+Sekarang resminya mereka posisikan sebagai Day Club, buka dari sarapan, makan siang, sampai malam — kamu juga bisa makan di pinggir kolam.
 
 Cocoknya diatur kayak gini:
 
 **Makan siang → Chill di kolam → Minum-minum sore → Lihat sunset**
 
-Kalau kamu udah nginep di Seminyak, nggak perlu repot atur transportasi khusus buat ke Beach Club. Malah bisa jadi itinerary santai setengah hari di dekat penginapan.
+Kalau kamu udah nginep di Seminyak, nggak perlu repot atur transportasi khusus buat dateng ke Beach Club. Bisa jadi itinerary setengah hari santai di dekat penginapan.
 
-Informasi yang tersedia saat ini belum mencantumkan secara jelas aturan minimum spending untuk Daybed dan penggunaan handuk terbaru. Jadi, sebelum booking, saran sih cek dulu kondisi tempat duduk dan akses kolam renang di hari itu. Cocok buat: tamu yang nginep di Seminyak, yang mau makan sambil main kolam, atau yang pengen lihat sunset.
+Informasi yang tersedia saat ini belum mencantumkan secara jelas aturan minimum spending untuk Daybed dan penggunaan handuk terbaru. Jadi sebelum booking, saran sih kamu konfirmasi dulu kondisi tempat duduk dan akses kolam renang di hari itu. 
 
-**Cocok untuk:** tamu yang menginap di Seminyak, yang mau makan sambil berenang di kolam, atau yang ingin menikmati matahari terbenam
+**Cocok untuk:** Tamu yang nginep di Seminyak, yang mau makan sambil main di kolam renang, dan yang pengen lihat sunset.
 
 ## Cocoon Seminyak | Seminyak
 
 https://www.instagram.com/reel/CyANYGtxaxw/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Cocoon Seminyak ada di Double Six Beach, Seminyak — tempat yang menggabungkan kolam renang, bar, restoran, dan ruang acara. Tempat ini terkenal dengan vibe santai di pinggir kolam, lokasi yang menghadap pantai, dan pengalaman seru dari siang sampai malam.
+Cocoon Seminyak ada di Double Six Beach, Seminyak. Tempat ini gabungan kolam renang, bar, restoran, dan ruang acara. Dikenal dengan vibe santai di pinggir kolam, lokasi yang menghadap pantai, dan pengalaman seru dari siang santai sampai malam hangout.
 
-Dari info yang saya temukan:
+Dari info yang didapat:
 
 - **Gratis masuk**
 - **Kolam renang gratis dipakai**
 - Ada opsi tempat duduk / Day Bed **tanpa minimum spending**
 - Single Day Bed dan Double Day Bed di pinggir kolam semuanya bertuliskan **No minimum spend**
-- Ada juga area duduk biasa seperti restoran, Garden, Sports Bar, dll.
+- Ada juga area tempat duduk biasa seperti restoran, Garden, Sports Bar, dll.
 - Jam operasional saat ini sekitar **11:00–23:00**
-- Info terbaru per September 2026 masih mencantumkan **FREE POOL ACCESS / NO MINIMUM SPEND**.
+- Info terbaru hingga September 2026 masih menyebutkan **FREE POOL ACCESS / NO MINIMUM SPEND**.
 
-**Cocok untuk:** Kamu yang pengin santai setengah hari di kolam renang Seminyak sambil makan dan minum, tanpa harus terikat Day Pass mahal atau minimum spend. Pas banget buat pasangan, teman-teman, atau traveler biasa.
+**Cocok untuk:** Kamu yang ingin santai setengah hari di kolam renang Seminyak, sambil makan dan minum, tanpa harus terikat biaya Day Pass atau minimum spend yang mahal. Cocok buat pasangan, teman-teman, dan traveler biasa.
+
+## Azul Beach Club｜Legian
+
+https://www.instagram.com/reel/DbCcfOapli6/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+
+Azul **gratis masuk**, dan area tempat duduk biasa juga tanpa minimum spend. Kalau mau langsung rebahan di Poolside Sun Bed, minimum spend-nya sekitar **IDR 150.000 per bed**, bisa dipakai buat pesan makanan dan minuman. Infinity Pool dan Whirlpool bisa kamu nikmati setelah pesan makanan/minuman.
+
+Yang paling khas dari sini adalah bangunan bambu di tepi pantai dan Infinity Pool-nya. Cocok banget buat pasangan atau teman-teman yang mau makan siang, berenang, minum, lalu lanjut nongkrong sampai sunset. Tapi perlu diingat, area kolam renang dan lantai atas punya batasan usia **15 tahun ke atas**, jadi kurang cocok buat keluarga yang bawa anak kecil sebagai pilihan utama kolam renang.
+
+> [Kupon Azul Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1474973&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89711-azul-beach-club-afternoon-tea-legian-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D99d63c1d4e)
+
+{{block:smk}}
 
 ## Alternative Beach｜Canggu
 
 https://www.instagram.com/reel/DQ-xS41k_ZZ/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Kalau kamu cari tempat di Canggu yang **gak perlu keluar banyak uang buat main di kolam renang**, Alternative Beach wajib masuk list. Ini bukan beach club biasa, tapi lebih ke kolam besar, Pool Bar, Day Bed, dan Bean Bag. **Minimum spend cuma IDR 100.000 per orang**, bisa dipakai buat makanan, minuman, Day Bed, atau handuk kolam — intinya, uang masukmu kepake buat nikmatin kolam seharian.
+Kalau kamu lagi di Canggu dan pengen **ngabisin waktu di kolam renang tanpa bikin dompet jebol**, Alternative Beach wajib banget dicoba. Tempat ini bukan beach club biasa, tapi lebih ke kolam besar, Pool Bar, Day Bed, dan Bean Bag. **Minimum spend cuma IDR 100.000 per orang**, bisa dipakai buat makan-minum, sewa Day Bed, atau handuk kolam. Intinya, modal segitu udah dapet satu sore seru di kolam.
 
-Tempat ini cocok buat **pasangan, teman-teman, dan traveler muda**, apalagi yang pengin berenang, ngopi-ngopi, dan berjemur tanpa harus bayar puluhan bahkan ratusan ribu rupiah buat Day Pass. Tapi catatan: Alternative Beach **bukan beach club dengan pemandangan laut**, dan hanya buat **usia 17 tahun ke atas** — jadi kurang cocok kalau bawa anak kecil.
+Cocok banget buat **pasangan, temen-temen, dan traveler muda**, apalagi yang pengen berenang, ngopi-ngopi, jemuran, tapi nggak mau bayar Day Pass puluhan atau ratusan ribu rupiah. Tapi catat ya, Alternative Beach **bukan Beach Club dengan pemandangan laut**, dan cuma buat **usia 17 tahun ke atas**. Jadi kurang cocok kalau bawa anak kecil.
 
 ## COMO Beach Club｜Canggu
 
 https://www.instagram.com/reel/DdyjiEkyeLQ/?utm_source=ig_web_button_share_sheet
 
-Kalau kamu tinggal di Canggu dan lagi cari tempat renang yang nyaman, bukan yang kaya party banget, coba deh cek COMO Beach Club.
+Buat kamu yang nginep di Canggu dan pengen cari tempat kolam renang yang lebih santai, bukan yang party-party, COMO Beach Club bisa jadi pilihan.
 
-Tempatnya ada di COMO Uma Canggu, suasananya lebih ke resort santai, bisa lihat pemandangan laut, ada kolam renang, Daybed, dan layanan kolam yang lengkap.
+Tempatnya ada di COMO Uma Canggu, suasananya kayak resort banget — bisa lihat laut, ada kolam renang, Daybed, dan layanan kolam yang oke.
 
-Saat ini aturan resminya, **tamu non-menginap yang mau pakai Daybed di pinggir kolam wajib minimum pemakaian IDR 500,000**.
+Sekarang aturannya, **tamu yang bukan penginap dan mau pakai Daybed di pinggir kolam wajib minimum spend IDR 500.000**.
 
-Biaya ini bukan cuma tiket masuk, tapi bisa dipotong untuk makanan dan minuman, plus sudah termasuk:
+Biaya ini bukan cuma tiket masuk, tapi bisa dipotong buat pesan makanan-minum, dan udah termasuk:
 
 - Akses kolam renang
 - Daybed
@@ -126,27 +135,29 @@ Biaya ini bukan cuma tiket masuk, tapi bisa dipotong untuk makanan dan minuman, 
 
 Setiap Daybed maksimal bisa dipakai 3 orang.
 
-Jadi kalau 2–3 orang pergi bareng, dibagi rata, sebenarnya itu cuma pindahin budget makan dan minum biasa ke pemakaian Daybed.
+Jadi kalau 2–3 orang pergi bareng, pas dibagi rata, sebenarnya ini kayak pake budget makan & minum buat sewa Daybed.
 
-Yang perlu diingat, tamu non-menginap yang mau pakai Daybed disarankan reservasi dulu, soalnya tempatnya terbatas.
+Yang perlu diingat, kalo kamu bukan tamu hotel, mending booking Daybed dari jauh-jauh hari, soalnya tempatnya terbatas.
 
-**Cocok untuk:** Pasangan, keluarga, yang pengalaman kolam renang lebih tenang, tamu yang nginep di Canggu
+**Cocok untuk:** Pasangan, keluarga, yang pengen pengalaman kolam renang yang lebih tenang, tamu yang nginep di Canggu
 
 ## Le Bajo｜Canggu Pererenan
 
 https://www.instagram.com/reel/DYMV3OPR5LD/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Le Bajo ada di Pererenan, tempat lain yang konsepnya mirip 'restoran + kolam renang' dan lebih ramah keluarga.
+Le Bajo ada di Pererenan, tempat lain yang konsepnya lebih ke 'restoran + kolam renang' ramah keluarga.
 
-Tempat ini nggak se-party vibe kayak Beach Club gede, lebih cocok buat yang mau makan, minum, lalu santai di kolam renang.
+Nggak kayak Beach Club gede yang super rame pesta, tempat ini lebih cocok buat kamu yang cari tempat makan, minum, lalu santai nikmatin kolam renang.
 
-Info terbaru bilang, **gratis masuk**, beberapa spot duduk di jam tertentu bisa tanpa minimum belanja; Daybed tergantung waktu dan tempat, ada minimum belanja yang beda-beda.
+Saat ini informasinya menunjukkan, **gratis masuk**, beberapa kursi di jam tertentu tidak perlu minimum pemakaian; Daybed tergantung waktu dan tempat dengan minimum pemakaian yang berbeda.
 
-Jadi kalau kamu nggak harus duduk di Daybed paling depan, mending ambil kursi biasa aja, budgetnya fokus ke makanan dan minuman.
+Jadi kalau kamu nggak harus rebutan Daybed paling depan, sebenarnya bisa pilih kursi biasa aja, budgetnya dialokasikan buat makanan dan minuman.
 
-Kalau mau pakai Daybed tertentu, saran sih cek dulu minimum belanja hari itu.
+Kalau mau pakai Daybed tertentu, saran sih cek dulu minimum pemakaian hari itu.
 
-**Cocok untuk:** Tamu yang nginep di Pererenan, Canggu, bawa anak kecil, yang mau hindari Beach Club gede
+**Cocok untuk:** Tamu yang nginep di Pererenan, Canggu, bawa anak kecil, atau yang pengin hindari Beach Club yang rame banget.
+
+{{block:canggu}}
 
 ## Folk Pool & Gardens｜Ubud
 
@@ -154,103 +165,117 @@ https://www.instagram.com/reel/Dch4REsRRSa/?utm_source=ig_web_copy_link&stkn=NTc
 
 Ke Ubud, nggak harus ke pantai dulu buat nikmatin Day Club.
 
-Folk Pool & Gardens ada di kawasan Monkey Forest, tempat nongkrong di kolam renang yang super praktis di pusat Ubud.
+Folk Pool & Gardens ada di kawasan Monkey Forest, tempat santai kolam renang yang cukup nyaman di pusat Ubud.
 
-Yang paling keren tuh **biaya masuk kolamnya murah banget**.
+Yang paling keren tuh **biaya masuk kolam renangnya murah banget**.
 
-Harga resmi sekarang:
+Harga resmi saat ini:
 
-- Masuk kolam: IDR 50.000/orang
+- Tiket masuk kolam renang: IDR 50.000/orang
 - Sun Lounger: IDR 150.000/orang/4 jam
 - Daybed/Teepee: IDR 350.000/tempat tidur, maksimal 4 orang/4 jam
 
-Harga masuk kolam udah termasuk handuk dan Welcome Drink.
+Tiket masuk kolam renang sudah termasuk handuk dan Welcome Drink.
 
-Kalau mau pakai Sun Lounger atau Daybed, bisa pilih paket tempat duduk yang lain.
+Kalau mau pakai Sun Lounger atau Daybed, kamu bisa pilih paket tempat duduk yang lain.
 
-Buat kamu yang tinggal di pusat kota Ubud, model kayak gini tuh super praktis: nggak perlu habisin seharian, nggak perlu keluar banyak duit, cukup atur beberapa jam aja udah cukup.
+Buat yang tinggal di pusat kota Ubud, model kayak gini tuh praktis banget: nggak perlu habiskan seharian, nggak perlu keluar banyak uang, cukup luangkan beberapa jam aja.
 
-Joni Indonesia punya [[panduan pusat kota Ubud](https://youtu.be/JtxZHtijEkE?si=VV2axTo-TialiAJN)] yang udah pernah dikunjungi
+Xiao Jie Indonesia punya [[panduan pusat kota Ubud](https://youtu.be/JtxZHtijEkE?si=VV2axTo-TialiAJN)] yang udah dikunjungi
 
-**Cocok buat:** traveler di pusat Ubud, keluarga, pasangan, backpacker budget
+**Cocok untuk:** Wisatawan di pusat Ubud, keluarga, pasangan, traveler budget
 
 ## TIS Café｜Ubud Tegallalang
 
 https://www.instagram.com/reel/DaArCqOh727/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-TIS Café adalah cara lain yang seru buat nikmatin suasana khas Bali.
+TIS Café adalah salah satu cara seru buat menikmati vibes khas Bali yang beda.
 
-Tempat ini lebih mirip **restoran pemandangan + kolam renang**, bukan Beach Club biasa.
+Tempat ini lebih mirip ke **restoran dengan pemandangan + kolam renang**, bukan Beach Club tradisional.
 
-Yang paling keren adalah sawah dan pemandangan alam di sekitarnya, jadi cocok banget dimasukin ke itinerary sehari di Tegallalang.
+Yang paling khas adalah sawah dan pemandangan alam di sekitarnya, jadi cocok banget dimasukin ke itinerary sehari di Tegallalang.
 
-Dari info yang ada, masuknya gratis, tapi kalau mau pakai kolam renang dan Daybed, minimal belanja sekitar **IDR 300.000/orang**.
+Dari info yang ada, masuknya gratis, tapi kalau mau pakai kolam renang dan daybed, ada minimum spending sekitar **IDR 300.000/orang**.
 
-Jadi kamu bisa atur itinerary kayak gini:
+Jadi kamu bisa atur jadwal kayak gini:
 
-**Lihat sawah terasering → Makan siang → Berenang di kolam → Foto-foto**
+**Lihat terasering sawah → Makan siang → Berenang di kolam → Foto-foto**
 
-Gaya jalan-jalan ini cocok banget buat kamu yang memang sudah mau ke Tegallalang, jadi nggak perlu repot-repot khusus ke Beach Club.
+Model liburan kayak gini lebih cocok buat kamu yang memang sudah rencana ke Tegallalang, nggak perlu repot khusus datang cuma buat Beach Club.
 
-**Cocok untuk:** Tegallalang, itinerary Ubud bagian utara, traveler yang suka pemandangan alam
+**Cocok buat:** Tegallalang, itinerary Ubud bagian utara, traveler yang suka pemandangan alam
 
 ## Jungle Fish Pool Bar｜Ubud
 
 https://www.instagram.com/reel/DUMqFywigbq/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Kalau kamu lagi cari Day Club versi hutan, Jungle Fish Pool Bar ini punya vibe yang unik banget.
+Kalau kamu lagi cari 'Day Club versi hutan', Jungle Fish Pool Bar tuh unik banget.
 
-Di sini nggak ada pantai, tapi kolam renangnya diletakkan di tengah hutan dan lembah Ubud.
+Di sini nggak ada pantai, tapi kolam renangnya ditaruh di tengah hutan dan lembah Ubud.
 
-Yang paling keren, dari kolam renang kamu bisa lihat hamparan lembah hijau yang luas.
+Yang paling keren, pas di kolam kamu bisa lihat pemandangan lembah hijau yang luas.
 
-Info resmi terbaru bilang, **tamu non-menginap bisa masuk gratis**, tapi tiap tempat duduk punya minimum konsumsi makanan dan minuman yang beda.
+Info resmi bilang, **tamu non-menginap bisa masuk gratis**, tapi tiap tempat duduk punya minimum konsumsi yang beda.
 
-Dining Table, Sofa, dan Sun Lounger sekitar **IDR 350.000/orang**, sementara Daybed pakai paket tempat duduk yang lain.
+Dining Table, Sofa, dan Sun Lounger sekitar **IDR 350.000/orang**, sementara Daybed paket tempat duduk terpisah.
 
-Handuk perlu disewa terpisah, sekitar **IDR 35.000 / lembar**.
+Handuk harus sewa terpisah, sekitar **IDR 35.000/lembar**.
 
-Jadi bukan benar-benar tanpa minimum pemesanan, tapi kalau memang sudah berencana makan siang atau ngopi sore, dengan menggabungkan biaya makanan-minuman, kolam renang ini tetap worth it buat dipertimbangkan.
+Jadi bukan benar-benar tanpa minimum, tapi kalau kamu udah rencana makan siang atau ngemil sore, biaya makannya bisa diitung bareng — worth it buat dicoba.
 
-**Cocok untuk:** Pasangan, yang pengen foto kolam hutan, traveler di Ubud
+**Cocok untuk:** pasangan, yang mau foto kolam hutan, traveler di Ubud
+
+> [Kupon Jungle Fish](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1474973&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71140-jungle-fish-pool-bar-day-pass-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dc3c4910e67)
 
 ## Good Day Resto & Pool Bar｜Ubud Sayan
 
 https://www.instagram.com/reel/DS4aqp9kagA/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Kalau kamu lagi cari tempat yang **gratis masuk, gratis berenang, sambil makan sekalian main di kolam**, Good Day Resto & Pool Bar wajib banget masuk list.
+Kalau kamu lagi cari tempat yang **gratis masuk, gratis renang, dan sambil makan bisa sekalian nyemplung kolam**, Good Day Resto & Pool Bar wajib banget masuk list.
 
-Letaknya di kawasan Sayan, Ubud — bukan di pusat kota yang ramai, tapi dikelilingi sawah dan pepohonan hijau, suasananya santai banget. Tempat ini gabungan restoran, Pool Bar, Spa, dan Coworking Space. Yang paling keren: **gratis masuk dan gratis pakai kolam renang**.
+Tempatnya ada di kawasan Sayan, Ubud — bukan di pusat kota yang ramai, tapi dikelilingi sawah dan pepohonan hijau, suasananya super santai. Di sini ada restoran, Pool Bar, Spa, dan Coworking Space, dan yang paling keren: **gratis masuk, gratis pakai kolam renang**.
 
-Di tepi kolam ada kursi bantal, Pool Bar Lounge, juga tempat duduk restoran biasa; kolam renangnya sendiri nggak perlu beli Day Pass tambahan.
+Di pinggir kolam ada kursi bantal, Lounge Pool Bar, dan juga tempat duduk restoran biasa. Kamu nggak perlu beli Day Pass khusus buat akses kolam.
 
-Dulu informasinya bahkan jelas bilang nggak ada minimum pemesanan, dan info terbaru masih mengonfirmasi 'Entry and swimming are free'. Tapi perlu diingat, **minimum pemesanan untuk kursi tertentu, biaya handuk, dan syarat reservasi belum diumumkan secara terbuka**. Kalau mau duduk di spot tertentu dekat kolam, mending tanya langsung ke tempatnya.
+Dulu infonya bahkan jelas bilang nggak ada minimum pembelian, dan info terbaru masih nyebutin 'Entry and swimming are free'. Tapi perlu diingat, **minimal pembelian untuk kursi tertentu, biaya handuk, dan syarat reservasi belum diumumkan secara terbuka**. Kalau mau duduk di spot tertentu dekat kolam, mending tanya langsung ke tempatnya.
 
-Ada satu kelebihan yang cocok buat keluarga: tersedia **Kids Playground**, dan kedalaman kolam juga dibagi beberapa area. Tentu saja, anak-anak tetap harus ditemani orang tua saat di kolam.
+Ada satu kelebihan yang cocok banget buat keluarga: tersedia **Kids Playground**, dan kedalaman kolam juga dibagi beberapa area. Tentu aja, anak-anak tetap harus ditemani orang tua kalau mau berenang.
 
-Kalau cuma mau cari tempat makan siang, ngopi, sambil sekalian nyemplung kolam, model Good Day ini sebenarnya lebih simpel dibanding banyak Beach Club yang harus booking Daybed mahal.
+Kalau kamu cuma mau makan siang, ngopi, sambil sekalian nyemplung kolam, model Good Day ini lebih simpel dibanding banyak Beach Club yang harus booking Daybed mahal.
 
-Terus di review traveler terbaru juga ada yang bilang, sekali makan sekitar **IDR 100.000～125.000／orang**, udah bisa pakai kolam renang. Tapi ini catatan pengeluaran riil traveler ya, bukan paket tetap atau minimum spend dari tempatnya.
+Beberapa ulasan terbaru dari pengunjung juga bilang, sekali makan sekitar **IDR 100.000–125.000/orang**, udah bisa pakai kolam renang. Tapi ini catatan pengeluaran pengunjung, bukan paket tetap atau minimum pembelian dari tempatnya.
 
-**Cocok buat:** Traveler kantong tipis, keluarga, tamu yang nginep di Ubud, yang pengen gratis berenang di kolam
+**Cocok buat:** traveler budget, keluarga, tamu yang nginep di Ubud, dan siapa aja yang mau gratis renang di kolam
 
-**Keunggulan:** Gratis masuk + gratis renang + pemandangan sawah + Pool Bar + area bermain anak
+**Highlight:** gratis masuk + gratis renang + pemandangan sawah + Pool Bar + area bermain anak
+
+## LUME Café & Pool Bar｜Ubud
+
+https://www.instagram.com/reel/Db2KsfaJK0K/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+
+Ubud akhir-akhir ini punya tempat baru yang patut dilirik — **LUME Café & Pool Bar**. Kalau kamu udah puas keliling pusat Ubud dan pengen cari spot buat makan, minum, plus sekalian berenang, LUME bisa masuk list kamu.
+
+LUME baru buka belum lama, jadi info publik di internet masih terbatas. Makanya, **soal cara masuk, minimum charge, apakah Day Bed dan handuk sudah termasuk, saran saya cek dulu aturan terbaru sebelum datang**. Dibanding Beach Club gede, Café & Pool Bar kayak gini biasanya lebih cocok buat jadi agenda setengah hari: 'makan + renang + santai', bukan sengaja bayar mahal buat Day Pass.
+
+**Cocok buat:** traveler yang pengen eksplor tempat baru di Ubud, suka konsep kolam renang plus makanan-minuman, tapi nggak mau ribet ngeluarin budget gede buat Beach Club.
+
+{{block:ubud}}
 
 ## Banana Lounge｜Bingin
 
 https://www.instagram.com/reel/Dd0tPdgThfM/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
 
-Kalau kamu cari tempat yang **tanpa minimum spend tapi tetap bisa main di kolam**, Banana Lounge ini cocok banget.
+Kalau kamu cari tempat yang **nggak perlu minimum charge tapi tetap bisa berenang**, Banana Lounge adalah pilihan yang pas banget.
 
-Lokasinya di Bingin, bukan Beach Club gede mewah, tapi lebih ke Lounge + restoran + kolam renang yang santai.
+Tempat ini ada di Bingin, bukan Beach Club mewah gede, tapi lebih ke Lounge + restoran + kolam renang yang santai.
 
-Dari info resmi sekarang, **gratis masuk, nggak ada minimum spend**, kolam renang juga terbuka buat tamu, dan mereka sediain handuk gratis, shower, sama ruang ganti.
+Dari info resmi, **gratis masuk, nggak ada minimum charge**, kolam renang terbuka buat tamu, dan mereka juga sediain handuk gratis, shower, serta ruang ganti.
 
-Artinya, kamu nggak perlu keluar duit banyak dulu buat Day Pass, tinggal pesan makanan, minum, kalau mau nyemplung ya langsung aja.
+Artinya, kamu nggak perlu keluar duit banyak dulu buat beli Day Pass. Mau pesan makanan, minum-minum, atau pengen nyemplung kolam renang — tinggal cebur aja.
 
-Buat kamu yang cuma mau nyari tempat buat ngaso beberapa jam di Uluwatu, model kayak gini emang bikin praktis banget.
+Buat traveler yang cuma mau nyari tempat ngaso beberapa jam di Uluwatu, model kayak gini tuh bikin jauh lebih praktis.
 
-**Cocok buat:** Traveler budget terbatas, pasangan, yang suka foto-foto sambil main kolam renang, dan yang nggak mau bayar Day Pass
+**Cocok buat:** Traveler kantong tipis, pasangan, yang pengen foto-foto sambil main air, dan yang males bayar Day Pass.
 
 ***
 
@@ -258,17 +283,17 @@ Buat kamu yang cuma mau nyari tempat buat ngaso beberapa jam di Uluwatu, model k
 
 https://www.tiktok.com/@eats.travels/video/7609446333358902550?is_from_webapp=1&sender_device=pc
 
-Delpi Cafe terletak di kawasan Suluban, Uluwatu. Keunikannya, kamu bisa sambil lihat laut sambil pakai kolam renang.
+Delpi Cafe ada di kawasan Suluban, Uluwatu. Keunikannya, kamu bisa nikmatin pemandangan laut sambil pakai kolam renang.
 
-Tempat ini lebih mirip kafe dengan pemandangan laut, bukan Beach Club gede, jadi harganya juga lebih santai.
+Tempatnya lebih mirip kafe dengan pemandangan laut, bukan Beach Club gede, jadi harganya juga lebih santai.
 
-Dari info yang ada, **minimal biaya pakai kolam renang sekitar IDR 100,000**.
+Dari info yang ada, **minimal pemakaian kolam renang sekitar IDR 100,000**.
 
-Kalau kebetulan kamu punya rencana one day trip ke Uluwatu, pagi ke pantai atau tempat wisata, sore cari tempat makan sambil main air, Delpi Cafe bisa jadi pilihan.
+Kalo kebetulan kamu punya rencana one day trip ke Uluwatu, pagi main ke pantai atau tempat wisata, siangnya cari tempat makan sambil berendam — Delpi Cafe bisa jadi pilihan yang worth it.
 
-Tapi perlu diingat, belum ada info terbaru yang cukup jelas soal apakah handuk gratis atau nggak, jadi jangan jadikan 'handuk gratis' sebagai daya tarik utama.
+Perlu diingat, belum ada info terbaru yang cukup terpercaya soal apakah handuk disediakan atau nggak. Jadi jangan jadikan 'handuk gratis' sebagai daya tarik utama ya.
 
-**Cocok untuk:** Tur setengah hari Uluwatu, traveler yang ingin lihat laut sambil berenang di kolam renang
+**Cocok untuk:** Jalan-jalan setengah hari di Uluwatu, traveler yang mau lihat laut sambil berenang di kolam renang
 
 ***
 
@@ -278,53 +303,91 @@ https://www.instagram.com/reel/DYEFCwgyvm0/?utm_source=ig_web_button_share_sheet
 
 Magus Warung terletak di dekat Pantai Melasti yang terkenal, dan ini pilihan yang lebih santai.
 
-Di sini **gratis masuk, beberapa tempat duduk tanpa minimum pemesanan**, jadi kalau cuma mau makan, minum, dan lihat laut, kamu nggak perlu bayar biaya masuk yang mahal dulu.
+Di sini **gratis masuk, beberapa tempat duduk tanpa minimum pembelian**. Kalau cuma mau makan, minum, dan lihat laut, kamu nggak perlu bayar biaya masuk yang mahal dulu.
 
 Tapi perlu diingat, **Sunbed di pinggir kolam renang nggak semuanya gratis**.
 
-Dari info yang aku dapat, minimum pemesanan untuk beberapa Sunbed kolam renang sekitar **IDR 500.000～750.000**.
+Dari info yang ada, minimum pembelian untuk beberapa Sunbed kolam renang sekitar **IDR 500.000–750.000**.
 
-Jadi kalau cari tempat makan, pilih kursi biasa aja; kalau mau rebahan seharian di Sunbed pinggir kolam, pastikan dulu minimum pemesanannya hari itu.
+Jadi kalau cari tempat makan, pilih kursi biasa aja. Tapi kalau mau rebahan seharian di Sunbed kolam, pastikan dulu minimum pembelian hari itu.
 
-Tempat ini lebih cocok dijadikan pilihan 'makan + istirahat di Pantai Melasti', bukan sekadar cari kolam renang gratis.
+Tempat ini lebih cocok dijadikan pilihan untuk 'makan dan istirahat di Melasti Beach', bukan sekadar mengejar kolam renang gratis.
 
-**Cocok untuk:** yang mau one day trip ke Melasti Beach, atau cari tempat santai dengan pemandangan laut
+**Cocok untuk:** wisatawan yang mau one day trip ke Melasti Beach, atau yang cari tempat santai dengan restoran pemandangan laut
 
 ## Timbis Beach Club｜Pandawa
 
 https://www.instagram.com/reel/DTrLqoZAdG_/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Timbis Beach Club meskipun namanya Beach Club, sistemnya beda sama beach club mahal pada umumnya.
+Meskipun namanya Beach Club, Timbis Beach Club punya sistem pembayaran yang beda sama beach club besar yang mahal.
 
-Sekarang paket dasar dari pihak resmi sekitar **IDR 200.000/orang**, tergantung tempat duduknya ada minimum pemakaian yang beda.
+Saat ini paket dasar yang diumumkan sekitar **IDR 200.000/orang**, dengan minimum spending berbeda tergantung tempat duduk.
 
-Contohnya:
+Contoh:
 
 - Sky Area: IDR 200.000/orang
 - Anjungan: IDR 200.000/orang
 - Beanbag: IDR 350.000/orang
-- Single Bed: IDR 400.000/orang
-- Sun Lounger: IDR 550,000 / orang
-- Daybed: IDR 1,500,000 / maksimal 4 orang
+- Single Bed：IDR 400,000／orang
+- Sun Lounger：IDR 550,000／orang
+- Daybed：IDR 1,500,000／maksimal 4 orang
 
 Beberapa paket sudah termasuk Beach Towel.
 
-Kalau kamu nggak ngotot duduk di barisan depan Sun Lounger dan pilih area yang lebih basic, biayanya masih bisa cukup masuk akal.
+Kalau kamu nggak ngincer Sun Lounger paling depan dan milih area yang lebih basic, biayanya masih bisa ditekan cukup wajar.
 
-Jadi kalau kamu lagi jalan-jalan di sekitar Pantai Pandawa, Timbis bisa jadi pilihan santai yang menawarkan 'pemandangan laut + kolam renang'.
+Jadi kalau kamu lagi jalan-jalan di sekitar Pantai Pandawa, Timbis bisa jadi pilihan santai yang menawarkan pemandangan laut plus kolam renang.
 
-**Cocok untuk:** Wisatawan yang jalan-jalan di sekitar Pandawa dan Melasti, yang pengin pemandangan laut plus kolam renang.
+**Cocok untuk:** Wisatawan yang main di sekitar Pandawa dan Melasti, pengen pemandangan laut plus kolam renang
 
-# Saat memilih Day Club, **jangan cuma lihat 'Free Entry'**
+{{block:uluwatu}}
 
-'Gratis masuk' bukan berarti kursi santainya gratis; 'minimum spend' juga belum tentu berarti biaya tambahan — di beberapa tempat, minimum spend itu bisa kamu pakai sepenuhnya untuk makan dan minum.
+## Byrd House Bali｜Sanur
 
-Yang benar-benar perlu dibandingkan adalah:
+https://www.tiktok.com/@bali_kidz_hire/video/7487388817708682503?is_from_webapp=1&sender_device=pc
 
-**Berapa minimum spend-nya? Bisa dipakai untuk makanan dan minuman? Apakah sudah termasuk akses kolam renang? Termasuk Daybed? Apakah handuk disediakan?**
+Kalau kamu bawa anak kecil, aku malah sangat merekomendasikan **Byrd House Bali** masuk itinerary. Tempatnya ada di pinggir pantai Sanur, dan dari info terbaru yang tersedia, **gratis masuk, tanpa minimum pemesanan**. Kamu bisa pakai kolam renang dewasa, kolam anak, dan beberapa fasilitas santai lainnya — cukup bayar sesuai pesanan makanan dan minuman aja. Info terbaru juga mengonfirmasi kalau ini salah satu dari sedikit Beach Club tipe kolam renang di Bali yang benar-benar 'Free Entry + No Minimum'.
 
-Kalau udah paham beberapa syarat ini, bakal lebih gampang nemuin Day Club di Bali yang cocok banget buat kamu.
+Keunggulan terbesar Byrd House bukan soal kehidupan malam, tapi **nyaman, santai, dan ramah keluarga**. Ada kolam renang anak-anak, area bermain, dan ruang santai dekat pantai. Orang dewasa bisa makan dan minum kopi, sementara anak-anak punya tempat untuk bermain. Kalau kamu nggak mau keluar banyak uang cuma untuk Day Pass kolam renang, cara bayar di sini jauh lebih ringan.
 
-Terakhir, harga, aturan tempat duduk, dan minimum spending di tiap Day Club Bali bisa berubah tergantung musim ramai, akhir pekan, acara, atau kebijakan masing-masing tempat. **Sebaiknya cek lagi harga terbaru dan syarat reservasi sebelum berangkat**, apalagi soal aturan pakai Daybed dan kolam renang.
+**Cocok untuk:** Keluarga dengan anak, pasangan suami-istri, traveler yang pengin bersantai setengah hari.
+
+{{block:sanur}}
+
+## Reef Beach Club｜Nusa Dua
+
+https://www.tiktok.com/@hi_ian.id/video/7519809643779034424?is_from_webapp=1&sender_device=pc
+
+Kalau kamu nginep di Nusa Dua dan pengin merasakan suasana kolam renang dan pantai ala resort bintang lima tanpa harus bayar Day Pass resort biasa, **Reef Beach Club** adalah pilihan yang unik banget. Tempat ini ada di dalam The Apurva Kempinski Bali. Info terbaru bilang **gratis masuk, kolam renang dan kursi santai biasa bisa dipakai gratis, tanpa minimum pembelian**. Tapi kamu harus **reservasi dulu**, dan beberapa cabana premium mungkin punya minimum pembelian atau deposit.
+
+Keunggulan utama di sini adalah suasananya: kolam Infinity Pool sepanjang 42 meter menghadap Samudra Hindia, dan vibe resortnya jelas lebih mewah daripada pool bar biasa. Buat pasangan atau traveler yang nginep di Nusa Dua dan pengin menghabiskan sore santai, tempat ini bisa jadi **pengalaman kolam renang bintang lima tanpa bayar Day Pass**. Tapi karena harus reservasi duluan, jangan harap bisa langsung masuk kapan aja dan pasti bisa pakai kolam. [[Link reservasi](https://www.kempinski.com/en/the-apurva-kempinski-bali/restaurants-bars/reef-beach-club)]
+
+## Manarai Beach House｜Nusa Dua
+
+https://youtu.be/BUl5vPzVHGw
+
+Nusa Dua juga punya pilihan lain yang cocok buat bersantai setengah hari—**Manarai Beach House**. Tempat ini ada di samping pantai Sofitel Bali Nusa Dua Beach Resort, punya dua kolam renang, Day Bed di pasir, restoran, dan bar. Dan sekarang pakai sistem **gratis masuk**, nggak perlu beli Day Pass tradisional. Info terbaru juga bilang biasanya nggak ada minimum pembelian yang wajib.
+
+Kalau kamu mau pakai Day Bed atau Sofa yang lebih bagus di pinggir pantai, mungkin ada paket minimum pembelian. Info terbaru mulai dari **IDR 250.000 / dua orang**, dan bisa dipakai untuk pesan makanan-minuman. Jadi lebih cocok buat pasangan atau dua orang teman yang bareng.
+
+Keunggulan Manarai adalah **kolam renang + pantai pasir putih + tempat makan dalam satu paket**, lebih terasa liburan dibanding restoran kolam renang biasa. Cocok buat kamu yang tinggal di Nusa Dua, pengen cari tempat nyaman buat ngabisin setengah hari, tapi nggak mau keluar biaya besar buat Day Pass dulu.
+
+**Cocok untuk:** Pasangan, teman-teman, grup kecil, dan traveler yang pengen menikmati suasana resort Nusa Dua.
+
+**Konsep biaya:** Masuk gratis; kursi biasa tanpa minimum spend wajib, sebagian Day Bed / kursi premium punya paket minimum spend.
+
+{{block:dua}}
+
+# Saat pilih Day Club, **jangan cuma lihat 'Free Entry'**
+
+"Gratis masuk" bukan berarti kursi santai gratis; "minimum spend" juga belum tentu biaya tambahan — di beberapa tempat, minimum spend bisa dipakai sepenuhnya buat makan dan minum.
+
+Yang bener-bener perlu dibandingkan adalah:
+
+**Berapa minimum spend-nya? Bisa dipakai buat makanan? Kolam renang termasuk? Daybed termasuk? Handuk disediakan?**
+
+Kalau udah paham kondisi ini, lebih gampang nemuin Day Club di Bali yang cocok buat kamu.
+
+Terakhir diingatkan, harga, aturan kursi, dan minimum spend Day Club di Bali bisa berubah tergantung musim ramai, akhir pekan, acara khusus, atau kebijakan masing-masing tempat. **Sebaiknya cek ulang harga terbaru dan syarat reservasi sebelum berangkat**, terutama aturan pakai Daybed dan kolam renang.
 
 {{block:戶外}}
