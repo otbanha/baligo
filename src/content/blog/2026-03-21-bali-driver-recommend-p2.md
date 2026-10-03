@@ -17,7 +17,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-10-02T19:18:30+08:00'
+contentUpdatedAt: 2026-10-02T19:18:30+08:00
 updatedDate: 2026-10-02
 ---
 
@@ -167,11 +167,11 @@ updatedDate: 2026-10-02
 
 👍🏼[網友推薦 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[網友推薦8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[網友推薦9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
-## **（中文司機）Yoga Setiawan**
+## （中文司機）Dirga Yusa 長壽
 
-![](https://images.gobaligo.id/vocus/vocus_458b983ef0ab6b298514e985cfcf5848.png)
+![](https://images.gobaligo.id/images/2026-06/1781362159693-_2026-06-13_21.48.27.png)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1AP58KzH2d/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1C4aXxQwhq/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1ASdzcswfr/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Ah7xbBpKs/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1BFRHsCER6/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1BbLb1W2bd/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/15xR6QFQeD/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1Crf66PdE2/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/19NUnKFN3w/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/19Jg1L5WjX/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1AspU9bSJ2/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1BUyEqjf1C/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1F8XpboZz5/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1CVXibCifc/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/16cnSfa37J/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/14NT4DBz1o4/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/16wh9a4bF2/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1AN3UG2GBq/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1B19RExpLc/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CiqAznMmG/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18JY9F5fwP/) 👍🏼[網友推薦](https://www.facebook.com/share/p/19T9L7NGPU/)[12](https://www.facebook.com/share/p/19T9L7NGPU/)
 
 ***
 
