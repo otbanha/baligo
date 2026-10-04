@@ -1,12 +1,12 @@
 ---
 title: >-
   Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 2)｜Review Asli dari
-  Anggota Grup
+  Komunitas
 slug: bali-drivers-recommendations-2
 description: >-
-  Halaman kedua rekomendasi driver sewa mobil di Bali, setiap link di bawah nama
+  Halaman kedua rekomendasi driver sewa mobil di Bali. Setiap link di bawah nama
   driver bisa diklik untuk cek postingan asli di grup. Disertai harga sewa 2026
-  dan info yang perlu kamu kasih saat menghubungi driver.
+  dan info yang perlu kamu siapkan saat menghubungi driver.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -26,16 +26,16 @@ contentUpdatedAt: '2026-10-03T16:43:12+08:00'
 updatedDate: 2026-10-03T00:00:00.000Z
 lang: id
 _srcHash: PENDING_RETRY_d4aacb6325e15bfde79cf564ecc68bd1
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 
-**Apa isi halaman ini**: Ini adalah **halaman kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi **20 driver dan 258 review perjalanan** yang diposting langsung oleh anggota grup di Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli, bisa kamu klik sendiri untuk verifikasi.
+**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi **20 driver, 258 ulasan perjalanan** yang diposting langsung oleh anggota grup di Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
 
-Harga sewa sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud), mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan antar zona, tarif overtime, dan cara booking, semuanya sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
+Harga sewa sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, berlaku untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan antar zona, tarif lembur, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
 
-> Saat menghubungi driver, kasih info lengkap: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & antar, tempat wisata yang mau dikunjungi**, dan tanya total harga termasuk biaya antar zona. ⚠️ Untuk Line, antar zona nggak bisa pakai ID, harus **scan QR Code**.
+> Saat menghubungi driver, sampaikan dengan jelas: **tanggal, berapa hari, jumlah orang & bagasi, lokasi jemput & antar, tempat wisata yang ingin dikunjungi**, dan tanyakan total harga termasuk biaya antar zona. ⚠️ Untuk Line, akun antar zona tidak bisa ditambah pakai ID, harus **scan QR Code**.
 
-**👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver yang bisa bahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
+**👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
 
 ## Daftar 20 Driver di Halaman Ini
 
@@ -175,7 +175,7 @@ Urutan **bukan peringkat**,
 
 👍🏼[Rekomendasi netizen 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[Rekomendasi netizen 4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[Rekomendasi netizen 8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[Rekomendasi netizen 9](https://www.facebook.com/share/p/19Hj8nNgVo/)
 
-## (Sopir Bisa Bahasa Mandarin) Dirga Yusa — Panjang Umur
+## (Sopir Bisa Bahasa Mandarin) Dirga Yusa Panjang Umur
 
 ![](https://images.gobaligo.id/images/2026-06/1781362159693-_2026-06-13_21.48.27.png)
 
