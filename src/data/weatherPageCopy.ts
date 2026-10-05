@@ -166,7 +166,7 @@ const COPY: Record<WeatherLang, WeatherCopy> = {
 
     camsH2: '峇里島即時攝影機',
     camsIntro: '想直接看現在的天空長什麼樣子，點下面的畫面就會載入 YouTube 即時直播。',
-    camLabels: ['峇里島南部（庫塔 / 水明漾一帶）', '烏布'],
+    camLabels: ['峇里島南部（庫塔 / 水明漾一帶）', '印尼各地'],
     playAria: (l) => `播放${l}即時直播`,
 
     readMoreH2: '延伸閱讀：峇里島天氣與雨季攻略',
@@ -255,7 +255,7 @@ const COPY: Record<WeatherLang, WeatherCopy> = {
 
     camsH2: '巴厘岛实时摄影机',
     camsIntro: '想直接看现在的天空长什么样子，点下面的画面就会载入 YouTube 实时直播。',
-    camLabels: ['巴厘岛南部（库塔 / 水明漾一带）', '乌布'],
+    camLabels: ['巴厘岛南部（库塔 / 水明漾一带）', '印尼各地'],
     playAria: (l) => `播放${l}实时直播`,
 
     readMoreH2: '延伸阅读：巴厘岛天气与雨季攻略',
@@ -344,7 +344,7 @@ const COPY: Record<WeatherLang, WeatherCopy> = {
 
     camsH2: '峇里島即時攝影機',
     camsIntro: '想直接睇下而家個天點，撳下面畫面就會載入 YouTube 即時直播。',
-    camLabels: ['峇里島南部（庫塔 / 水明漾一帶）', '烏布'],
+    camLabels: ['峇里島南部（庫塔 / 水明漾一帶）', '印尼各地'],
     playAria: (l) => `播放${l}即時直播`,
 
     readMoreH2: '延伸閱讀：峇里島天氣同雨季攻略',
@@ -433,7 +433,7 @@ const COPY: Record<WeatherLang, WeatherCopy> = {
 
     camsH2: 'Bali Live Cams',
     camsIntro: 'Want to see the sky right now? Click a thumbnail to load the YouTube live stream.',
-    camLabels: ['South Bali (Kuta / Seminyak area)', 'Ubud'],
+    camLabels: ['South Bali (Kuta / Seminyak area)', 'Across Indonesia'],
     playAria: (l) => `Play the ${l} live stream`,
 
     readMoreH2: 'Further Reading: Bali Weather and Wet Season Guides',
@@ -522,7 +522,7 @@ const COPY: Record<WeatherLang, WeatherCopy> = {
 
     camsH2: 'Bali Live Cam',
     camsIntro: 'Ingin langsung melihat kondisi langit sekarang? Klik gambarnya untuk memuat siaran langsung YouTube.',
-    camLabels: ['Bali Selatan (area Kuta / Seminyak)', 'Ubud'],
+    camLabels: ['Bali Selatan (area Kuta / Seminyak)', 'Seluruh Indonesia'],
     playAria: (l) => `Putar siaran langsung ${l}`,
 
     readMoreH2: 'Bacaan Lanjutan: Cuaca dan Musim Hujan Bali',
