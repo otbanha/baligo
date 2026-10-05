@@ -6,6 +6,15 @@ on:
   schedule:
     - cron: '0 22 * * *'   # Bali 06:00
     - cron: '0 23 * * *'   # Bali 07:00
+    - cron: '0 0 * * *'    # Bali 08:00
+    - cron: '0 2 * * *'    # Bali 10:00
+    - cron: '0 4 * * *'    # Bali 12:00
+    - cron: '0 6 * * *'    # Bali 14:00
+    - cron: '0 8 * * *'    # Bali 16:00
+    - cron: '0 10 * * *'   # Bali 18:00
+    - cron: '0 12 * * *'   # Bali 20:00
+    - cron: '0 14 * * *'   # Bali 22:00
+    - cron: '0 16 * * *'   # Bali 00:00
 
   # 允許手動觸發（測試用）
   workflow_dispatch:
