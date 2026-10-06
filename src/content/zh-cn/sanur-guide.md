@@ -3,7 +3,7 @@ title: 【巴厘岛亲子景点】沙努尔攻略 Sanur 终极地图：50+吃喝
 slug: sanur-guide
 description: >-
   最适合带长辈、嫩娃的慢活天堂！2026 巴厘岛沙努尔（Sanur）自由行最强全攻略。一文打包 50 个当地人才知道的吃喝玩乐景点：直击全新 Icon
-  Bali 漂浮市场商场、辛杜夜市地道沙爹、老字号儿童咖啡馆与海滨单车看日出路线。附上 20+ 精选顶级与平价 Villa、高质感 Spa
+  Bali 漂浮市场商场、辛杜夜市地道沙爹、老字号儿童咖啡厅与海滨单车看日出路线。附上 20+ 精选顶级与平价 Villa、高质感 Spa
   推荐，带全家享受最丝滑的海岛假期！
 pubDate: 2024-02-11T00:00:00.000Z
 pubHour: null
@@ -26,13 +26,13 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65bf2f75fd89780001dbf162'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-09-29T00:00:00.000Z
-updatedAt: '2026-09-29T20:52:07+08:00'
+contentUpdatedAt: '2026-10-05T22:29:59+08:00'
+updatedDate: 2026-10-05T00:00:00.000Z
 lang: zh-cn
-_srcHash: 65a0edcfb15238b2a8fff61646523717
+_srcHash: 70746bebd7542c564b0993c30342def5
 ---
 
-**先说结论**：沙努尔距巴厘岛国际机场约 **30 分钟车程**，交通便利却远离喧嚣，本文精选 **50+ 个吃喝玩乐景点**，包含 Icon Bali 商场、兴都夜市（Pasar Sindhu）地道沙爹、海滨自行车道与 20+ 家住宿推荐，适合带长辈或婴幼儿的慢活家庭旅游。
+**先说结论**：沙努尔距巴厘岛国际机场约 **30 分钟车程**，交通便利却远离喧嚣，本文精选 **50+ 个吃喝玩乐景点**，包含 Icon Bali 商场、辛杜夜市（Pasar Sindhu）地道沙爹、海滨单车道与 20+ 家住宿推荐，适合带长辈或婴幼儿的慢活家庭旅游。
 
 你是否厌倦了巴厘岛的喧嚣？你是否在寻找一个可以放松身心的度假胜地？还是你想找一个足够方便又不是那么热闹的地方？那么，沙努尔（Sanur）就是你的最佳选择！
 
@@ -44,15 +44,15 @@ _srcHash: 65a0edcfb15238b2a8fff61646523717
 
 ## 沙努尔的历史
 
-沙努尔（Sanur）是巴厘岛上一个历史悠久的滨海小镇，其历史可以追溯到数百年前。在巴厘岛的历史中，沙努尔曾是一个重要的港口和渔村，吸引了来自印尼群岛以及其他国家的船只停靠交易。在这个过程中，沙努尔成为了巴厘岛的商业和文化交流中心之一。
+沙努尔（Sanur）是巴厘岛上一个历史悠久的海滨小镇，其历史可以追溯到数百年前。在巴厘岛的历史中，沙努尔曾是一个重要的港口和渔村，吸引了来自印尼群岛以及其他国家的船只停靠交易。在这个过程中，沙努尔成为了巴厘岛的商业和文化交流中心之一。
 
-随着印尼在20世纪中叶取得了独立，并开始了国家多方面的建设和发展。巴厘岛在印尼国父苏卡诺时代开始发展，而沙努尔正是巴厘岛旅游业发展的起点！当时巴厘岛第一家五星级酒店就落脚在沙努尔。
+随着印尼在20世纪中叶取得了独立，并开始了国家多方面的建设和发展。巴厘岛在印尼国父苏卡诺时代开始发展，而沙努尔正是巴厘岛旅游业发展的起点！当时巴厘岛第一家五星级酒店就坐落在沙努尔。
 
 而如今沙努尔凭借得天独厚的环礁保护，有着风平浪静、坡度平缓的金黄色沙滩，发展成为一个适合家庭度假的圣地。也有不少来自世界各国的老外选择在这个没有灯红酒绿、喧嚣市井的小镇退休养老。
 
 ## 沙努尔家庭景点
 
-对于正在寻找一个安静、放松且适合亲子的旅游目的地的家庭来说，沙努尔绝对是一个理想的选择。这里有各种家庭友好的景点和活动，让大人和小孩都能在度假中尽情享受，创造出美好的回忆。接下来，让我们一起探索沙努尔的家庭景点魅力吧！
+对于正在寻找一个安静、放松且适合亲子的旅游目的地的家庭来说，沙努尔绝对是一个理想的选择。这里各种家庭友好的景点和活动，让大人和小孩都能在度假中尽情享受，创造出美好的回忆。接下来，让我们一起探索沙努尔的家庭景点魅力吧！
 
 三分钟视频介绍认识沙努尔
 
@@ -66,7 +66,7 @@ https://youtu.be/SpcgZ4iK7qs?si=0Ry2ZH0IZo79bAiL
 
 https://youtu.be/Xp5gyMslrVE?si=mPledHphy4xTtRUO
 
-独木舟和立桨都可以在沙滩上找到出租的商家，比较集中在Pantai Karang这一带，同时地图标示的这个地方有非常多当地小贩在卖泳衣、游泳浮具、水枪、水上玩具、挖沙工具等（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）。独木舟和立桨2023价位皆为一小时25K，约USD$1。
+独木舟和立桨都可以在沙滩上找到出租的商家，比较集中在Pantai Karang这一带，同时地图标示的这个地方有非常多当地小贩在卖泳衣、游泳浮具、水枪、水上玩具、挖沙工具等（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）。独木舟和立桨2023价位皆为一小时25K，约1美元。
 
 ![Bopel Beach 免費的沙灘遊樂場](https://images.gobaligo.id/vocus/vocus_2d0f7048e37c3a787f43c41df39ade22.jpg)
 
@@ -74,15 +74,15 @@ Bopel Beach也是沙努尔亲子友善的一区（📌[地图](https://www.googl
 
 ![Mertasari Beach 退潮的時候露出的沙灘有數百公尺！](https://images.gobaligo.id/vocus/vocus_629c7393918cd56ab168b8a899176d9a.jpg)
 
-Mertasari Beach 退潮的时候露出的沙滩有数百公尺！
+Mertasari Beach 退潮时露出的沙滩有数百米！
 
-另外一区是沙努尔最南端的 Mertasari Beach（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)），这一带的浅水滩连绵几百公尺，又几乎没有浪，非常适合小朋友在这一区戏水。此外也有很多当地业者在这里出租玩沙工具、游泳圈、浮板、独木舟、立桨、水上摩托车等。价格合理，且不像其他东南亚地区那样容易遇到租借纠纷。
+另外一区是沙努尔最南端的 Mertasari Beach（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)），这一带的浅水滩连绵几百米，又几乎没有浪，非常适合小朋友在这一区戏水。此外也有很多当地业者在这里出租玩沙工具、游泳圈、浮板、独木舟、立桨、水上摩托车等。价格合理，且不像其他东南亚地区那样容易遇到租借纠纷。
 
 ### 海滩步道
 
 ![海灘步道](https://images.gobaligo.id/vocus/vocus_d124800f990b3fd545451b4c77015a4f.jpg)
 
-说到Sanur就不能不提到这里长达四公里以上的滨海步道！长长的滨海步道是沙努尔最具特色的一部分，可以沿着步道旁的商店逛逛，散步、慢跑或租辆脚踏车和孩子在平坦的步道上悠哉地骑行。而步道一侧的沙滩，凭借着沿途的长度和变化保证您会找到一片可以独享的沙滩，拥有巨大的树木和可爱的阴凉处，而且旁边没有抽烟的游客！您可以铺上垫子在这个你独享的区域放松身心。
+说到Sanur就不能不提到这里长达四公里以上的滨海步道！长长的滨海步道是沙努尔最具特色的一部分，可以沿着步道旁的商店逛逛，散步、慢跑或租辆自行车和孩子在平坦的步道上悠哉地骑行。而步道一侧的沙滩，凭借著沿途的长度和变化保证您会找到一片可以独享的沙滩，拥有巨大的树木和可爱的阴凉处，而且旁边没有抽烟的游客！您可以铺上垫子在这个你独享的区域放松身心。
 
 此外，您还可以考虑参加底下这两项半日游的行程。
 
@@ -103,7 +103,7 @@ Mertasari Beach 退潮的时候露出的沙滩有数百公尺！
 参加「沙努尔乡村电动自行车之旅」穿过红树林，感受大自然的静谧；穿越青翠的稻田，享受风景的美丽。
 
 - 这趟旅程还包括：骑电动自行车参观正宗的巴厘岛村庄和传统的当地市场，深入了解当地文化和生活方式。
-- 去海龟保护区观看海龟，并有机会可以帮助释放，参与到它们的保护工作中。
+- 去海龟保护区观看海龟，并有机会可以帮忙释放，参与到它们的保护工作中。
 
 电动自行车之旅结束后，在海滩上享用新鲜的椰子，感受海风拂面，回味着一天中的美好时光。
 
@@ -137,7 +137,7 @@ Kids SoHo Playground的主要特色之一是其现代化的游戏设施，旨在
 
 此外，Kids SoHo Playground还设有一个舒适的休息区，供父母和监护人放松身心，同时观察孩子们的活动。这里还提供了各种饮料和小吃，让游客可以在轻松愉快的氛围中享受美食。
 
-门票价格为100K，约6美元。
+门票价格为100K，约USD$6。
 
 ### Byrd House Bali/Kids Club（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -149,7 +149,7 @@ Byrd House Bali是一个家庭度假的理想选择。从清晨到黄昏，这�
 
 ![Lamis Resto（地圖）](https://images.gobaligo.id/vocus/vocus_2453c147ea0d93e61521ed542f155fa1.jpg)
 
-Lamis Resto整家餐厅就是一个中型游乐场！有很多让小朋友放电的游乐设施和大草坪。带着小朋友的家长可以来这里用餐，顺便让小孩子奔跑发泄精力！
+Lamis Resto整家餐厅就是一个中型游乐场！有很多让小朋友放电的游乐设施和大草坪。带着小朋友的家长可以来这里用餐，顺便让孩子奔跑发泄精力！
 
 ### 猫咪咖啡厅 Cat Cafe & Cat Boarding Sanur（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -173,7 +173,7 @@ Big Garden Corner 是位于沙努尔的一个迷人景点，对于小朋友来�
 
 票价 250K起
 
-[> Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49224-big-garden-corner-pass-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dfa4c632de3)
+[> [Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49224-big-garden-corner-pass-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dfa4c632de3)
 
 ### Arta Sedana 超市（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -209,7 +209,7 @@ Big Garden Corner 是位于沙努尔的一个迷人景点，对于小朋友来�
 
 📅 **开放时间**：约 8:00–17:00
 
-这里是由当地两家五星酒店业者凯悦与安达士自发建立的小型海龟保育点，规模虽不大，却非常适合亲子共游。你可以看到小型孵化池与展示墙，了解海龟从蛋到幼龟的成长历程。
+这里是由当地两家五星酒店业者凯悦与安达仕自发建立的小型海龟保育点，规模虽不大，却非常适合亲子共游。你可以看到小型孵化池与展示墙，了解海龟从蛋到幼龟的成长历程。
 
 ### Sindu Dwarawati Turtle Conservation Center（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -223,7 +223,7 @@ Big Garden Corner 是位于沙努尔的一个迷人景点，对于小朋友来�
 
 https://youtu.be/9EeW2YH0iY0?si=QB33KX6XY-p3KexG
 
-这个据点位置在 Sindu Beach 附近，与 Sea Turtle Village 性质不同，**更偏向教育与研究导向**。志愿者会为访客解说海龟种类、栖息环境与保育挑战。
+这个据点在 Sindu Beach 附近，与 Sea Turtle Village 性质不同，**更偏向教育与研究导向**。志愿者会为访客解说海龟种类、栖息环境与保育挑战。
 
 ### Serangan Island Turtle Conservation & Education Center（📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -251,7 +251,7 @@ https://youtu.be/9EeW2YH0iY0?si=QB33KX6XY-p3KexG
 
 https://youtube.com/shorts/yebdtkV5tX0
 
-位于沙努尔南端的Mertasari Beach，是当地人周末休闲的好去处。这里的 [Bali Camel Ride](https://www.instagram.com/balicamelride?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 提供轻松、亲民的骑骆驼体验，非常适合亲子共游。
+位于沙努尔南端的Mertasari Beach，是当地人周末休闲的好去处。这里的[Bali Camel Ride](https://www.instagram.com/balicamelride?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)提供轻松、亲民的骑骆驼体验，非常适合亲子共游。
 
 📍 地点：Mertasari Beach（需付入场费）
 
@@ -298,7 +298,7 @@ Cheeky Monkeys提供的各种课程和活动，包括：早教课程、艺术和
 
 ![Icon Bali （地圖）](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
 
-Icon Bali是一个于2024年6月7日开幕的购物中心，它是一个沿海购物中心，有两个主要入口，分别位于Danau Tamblingan街和Sanur海滩。Icon Bali将拥有多个独特景点，包括最大的室内水上市场、室内文化舞台、垂直森林、海滨餐厅、海滩日落水幕秀、海滩画廊、蝴蝶公园和可食用花园等。
+Icon Bali是一个于2024年6月7日开业的购物中心，它是一个沿海购物中心，有两个主要入口，分别位于Danau Tamblingan街和Sanur海滩。Icon Bali将拥有多个独特景点，包括最大的室内水上市场、室内文化舞台、垂直森林、海滨餐厅、海滩日落水幕秀、海滩画廊、蝴蝶公园和可食用花园等。
 
 https://youtu.be/hdIKOX5wghU?si=_9o-EEDW6YYSivzj
 
@@ -306,7 +306,7 @@ https://youtu.be/hdIKOX5wghU?si=_9o-EEDW6YYSivzj
 
 ![沙努爾假日市集 Sunday Market Sanur (地圖)](https://images.gobaligo.id/vocus/vocus_6b92283c8ba5447559940806117f0c1d.jpg)
 
-沙努尔美居度假村（Mercure Resort Sanur）过去举办的「每月最后一个周日市集（Sanur Sunday Market）」**目前已非常态性的定期活动**。该市集在几年前非常活跃，但随后调整为不定期或特定主题的快闪活动（Pop-up Market），若想前往建议事先通过饭店官方社群确认最新公告。
+沙努尔美居度假村（Mercure Resort Sanur）过去举办的「每月最后一个周日市集（Sanur Sunday Market）」**目前已非常态性的定期活动**。该市集在几年前非常活跃，但随后调整为不定期或特定主题的快闪活动（Pop-up Market），若要前往建议事先通过饭店官方社群确认最新公告。
 
 如果想在沙努尔寻找现行运营中的周末市集，目前较活跃的选择包括：
 
@@ -325,19 +325,19 @@ Sindhu夜市位于Sanur北部，是一处热闹非凡的当地美食天堂，让
 
 这个钓鱼活动从沙努尔出发，为您呈现一场极富冒险精神的海上钓鱼之旅。您将有机会钓到多种令人垂涎的渔获，包括石斑鱼、鲷鱼、引金鱼等众多五光十色的热带鱼种。
 
-无论您是初次尝试还是有丰富经验的钓手，此项活动有提供钓具、鱼饵，以及经验丰富的向导，确保您能够尽兴参与这场钓鱼冒险。在专业渔夫兼导游的引领下，您无需担心技巧或设备，专心享受在湛蓝海域中的愉悦体验。让巴厘岛的海上钓鱼之旅成为您难忘的回忆，沉浸在大海的宁静中，品味着捕获美味的瞬间。
+无论您是初次尝试还是有丰富经验的钓手，此项活动提供钓具、鱼饵，以及经验丰富的向导，确保您能够尽兴参与这场钓鱼冒险。在专业渔夫兼导游的引领下，您无需担心技巧或设备，专心享受在湛蓝海域中的愉悦体验。让巴厘岛的海上钓鱼之旅成为您难忘的回忆，沉浸在大海的宁静中，品味着捕获美味的瞬间。
 
 > ▶沙努尔[出发的海上钓鱼活动](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5b6b4e95f9)
 
-### Sanur离岸浮潜体验
+### 沙努尔离岸浮潜体验
 
 ![Sanur離岸浮潛體驗](https://images.gobaligo.id/vocus/vocus_15a2c8eecada6b4cdeb2eed7d2474a5b.png)
 
-探索巴厘岛Sanur海岸的水下世界！1.5小时的浮潜体验，搭船10分钟即可抵达浮潜地点，在清澈海水中与丰富海洋生物近距离接触。您将看到各种美丽鱼类、绚烂珊瑚礁，以及独特的水下传统巴厘岛石门。最精彩的喂鱼体验让成群热带鱼围绕身边，创造梦幻海底奇观。全程提供GoPro记录，让您带回珍贵的水下回忆。
+探索巴厘岛沙努尔海岸的水下世界！1.5小时的浮潜体验，搭船10分钟即可抵达浮潜地点，在清澈海水中与丰富海洋生物近距离接触。您将看到各种美丽鱼类、绚烂珊瑚礁，以及独特的水下传统巴厘岛石门。最精彩的喂鱼体验让成群热带鱼围绕身边，创造梦幻海底奇观。全程提供GoPro记录，让您带回珍贵的水下回忆。
 
 适合与家人朋友一同参与，无论初学者或有经验者都能尽情享受。活动时间依每日潮汐/天气预报调整，预订后将通过电子邮件通知确切出发时间。
 
-快来体验Sanur海岸的水下奇迹，让浮潜之旅成为您巴厘岛行程的难忘亮点！
+快来体验沙努尔海岸的水下奇迹，让浮潜之旅成为您巴厘岛行程的难忘亮点！
 
 > 预约[沙努尔离岸浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
 
@@ -345,9 +345,9 @@ Sindhu夜市位于Sanur北部，是一处热闹非凡的当地美食天堂，让
 
 ![南灣水上活動 （地圖）](https://images.gobaligo.id/vocus/vocus_5704c6a04122fc501a0c2b8e65672e36.jpg)
 
-如果您觉得沙努尔的水上活动不够刺激，可以从沙努尔向南行驶半小时车程到达Tanjung Benoa，俗称“南湾”，是整个巴厘岛水上活动的大本营。这里是一片充满活力的海域，提供各种令人兴奋的水上活动，为游客带来一场无与伦比的冒险之旅。摩托艇疾速掠过湛蓝海水，让人感受到风的狂野，而滑翔伞冒险则带您从高空俯瞰整片美丽的海景，将惊奇与蔚蓝融为一体。香蕉船和甜甜圈船则是提供快节奏乐趣的水上活动，适合家庭和朋友一起享受。
+如果您觉得沙努尔的水上活动不够刺激，可以从沙努尔向南驱车半小时到达Tanjung Benoa，俗称“南湾”，是整个巴厘岛水上活动的大本营。这里是一片充满活力的海域，提供各种令人兴奋的水上活动，为游客带来一场无与伦比的冒险之旅。摩托艇疾速掠过湛蓝海水，让人感受到风的狂野，而滑翔伞冒险则带您从高空俯瞰整片美丽的海景，将惊奇与蔚蓝融为一体。香蕉船和甜甜圈船则是提供快节奏乐趣的水上活动，适合家庭和朋友一起享受。
 
-然而，游客需要注意，南湾的水上活动非常受欢迎，建议提前预订，以避免现场临时涨价的情况。预订可以确保您有足够的机会体验所有想玩的水上活动，同时避免在现场支付额外的昂贵费用。在南湾海滩，让我们一起扬帆，享受这片水上活动的乐土，带给您一场充满冒险和欢笑的海上之旅。
+然而，游客需留意的是，南湾的水上活动非常受欢迎，建议提前预订，以避免现场临时涨价。预订能确保您有足够机会体验所有想玩的水上活动，同时避免在现场支付额外的高昂费用。在南湾海滩，让我们一起扬帆，享受这片水上活动的乐土，带给您一场充满冒险和欢笑的海上之旅。
 
 > ▶[预订南湾水上活动（多种组合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 
@@ -357,7 +357,7 @@ Sindhu夜市位于Sanur北部，是一处热闹非凡的当地美食天堂，让
 
 ![AeroXSpace Adventure室內遊樂場](https://images.gobaligo.id/vocus/vocus_c11c0e168c9578f14f9bfa0b8be57f1f.jpg)
 
-AeroXSpace室内冒险乐园的开业为巴厘岛的家庭和游客带来了新的娱乐选择。这个面积达3500平方米的冒险中心，拥有26种不同的吸引力和游戏活动，无论晴天还是雨天，都能让所有年龄段的游客享受其中。
+AeroXSpace室内冒险乐园的开业为巴厘岛的家庭和游客带来了新的娱乐选择。这个面积达3,500平方米的冒险中心，拥有26种不同的吸引力和游戏活动，无论晴天还是雨天，都能让所有年龄段的游客享受其中。
 
 详细介绍[在这里](/zh-cn/blog/aeroxspace-sanur-indoor-playground/)。
 
@@ -391,7 +391,7 @@ https://www.instagram.com/reel/DbzUYihj8e0/
 
 **巴厘岛高尔夫室内球场：适合所有人的欢乐聚集地**
 
-来到巴厘岛，除了沙滩和美食，巴厘岛国际高尔夫球场的VVIP包厢是个意外好玩的活动。无论是高尔夫爱好者还是初学者，这项运动的魅力在于它的包容性。初学者开心地挥杆失误，经验丰富的玩家展现球技，每一杆都能引发笑声和友善的竞争。
+来到巴厘岛，除了沙滩和美食，巴厘岛国际高尔夫球场的VVIP包厢是个意外好玩的活動。无论是高尔夫爱好者还是初学者，这项运动的魅力在于它的包容性。初学者开心地挥杆失误，经验丰富的玩家展现球技，每一杆都能引发笑声和友善的竞争。
 
 VVIP包厢的设计贴心实用。客人拥有独立私人空间，各式饮品和餐点可直接送到包厢内享用。朋友和家人可以轮流比试，这些互动往往成了最难忘的回忆。
 
@@ -403,11 +403,19 @@ VVIP包厢的设计贴心实用。客人拥有独立私人空间，各式饮品�
 
 > [官网](https://www.baliinternationalgolf.com/)
 
+### COSTA Beach Restaurant
+
+https://www.instagram.com/p/DeGowDSM3Rl/?utm_source=ig_web_copy_link
+
+坐落于沙努尔海滩旁，是一间结合地中海与意大利美食的高人气海景餐厅。这里不仅有绝佳的无敌海景与窑烤披萨、手工意大利面等美味餐点，更以超强的亲子友善游乐设施闻名。
+
+餐厅特别规划了设施完善的户外遮阳游乐场、弹跳床以及PlayStation游戏区，让小朋友在海风吹拂下拥有专属的欢乐冒险。玩累了还能直接享用美味冰淇淋。这样兼顾大人放松与小孩放电的梦幻设计，让父母能安心坐在沙滩露台享受浪漫海景与微风，是沙努尔极具代表性的亲子度假天堂。
+
 ## 沙努尔的美食
 
 ![沙努爾的美食](https://images.gobaligo.id/vocus/vocus_37bc5de638c92dd66ae48ac85fb4cfd2.jpg)
 
-巴厘岛的沙努尔以其丰富多样的美食而闻名，我们一共推荐超过30家餐厅和cafe提供各种口味和风格的美食。这些餐厅包括传统的印度尼西亚料理、新鲜的海鲜、国际美食以及当地特色小吃，满足了各种饮食偏好和口味需求。让我们一起来探索这些引人入胜的美食场所吧！
+巴厘岛的沙努尔以其丰富多样的美食而闻名，我们一共推荐超过30家餐厅和咖啡馆，提供各种口味和风格的美食。这些餐厅包括传统的印度尼西亚料理、新鲜的海鲜、国际美食以及当地特色小吃，满足了各种饮食偏好和口味需求。让我们一起来探索这些引人入胜的美食场所吧！
 
 ### 沙努尔洲际酒店Pier Eight下午茶 （Google 4.6颗星 📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
@@ -421,7 +429,7 @@ VVIP包厢的设计贴心实用。客人拥有独立私人空间，各式饮品�
 
 ![沙努爾Naughty Nuri's Warung美食體驗 （Google 4.8顆星 地圖）](https://images.gobaligo.id/vocus/vocus_c30b3be26b7b1ea8d571bb2c3778cccb.png)
 
-Naughty Nuri's Warung 是一家位于水明漾著名的猪肋排餐厅，现在在Sanur的交通要道上也有他们的分店啦。这家餐厅以其浓郁多汁的猪肋排闻名于世，吸引了众多食客前来品尝。其在Sanur的新分店不仅延续了原店的独特风格和美味菜品，更为当地居民和游客带来了新的美食体验。
+Naughty Nuri's Warung 是一家位于水明漾著名的猪肋排餐厅，现在在沙努尔的交通要道上也有他们的分店啦。这家餐厅以其浓郁多汁的猪肋排闻名于世，吸引了众多食客前来品尝。其在沙努尔的新分店不仅延续了原店的独特风格和美味菜品，更为当地居民和游客带来了新的美食体验。
 
 > ▶[沙努尔Naughty Nuri's Warung美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89220-naughty-nuris-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D781924f20c)
 
@@ -463,9 +471,9 @@ The Village Cucina是沙努尔高人气的标志性意大利餐厅，位于沙�
 
 https://www.instagram.com/reel/Dcnm0cnRMRA/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-Mozza Sanur 是沙努尔一家知名的餐饮与酒吧，坐落在热闹的Jl. Danau Tamblingan，提供兼具舒适氛围与丰富美食的绝佳去处。
+Mozza Sanur 是一家沙努尔的知名餐饮与酒吧，坐落于热闹的Jl. Danau Tamblingan，提供兼具舒适氛围与丰富美食的绝佳去处。
 
-- **环境与氛围**：餐厅靠近海滩，拥有充满度假风情的轻松海岸氛围，是旅客在探索当地后放松休憩、享受微风与美食的热门据点。
+- **环境与氛围**：餐厅邻近海滩，拥有充满度假风情的轻松海岸氛围，是旅客在探索当地后放松休憩、享受微风与美食的热门据点。
 - **餐点特色**：主打多元的欧陆西式料理与精致印尼在地风味，包含招牌的碳烤猪肋排、肋眼牛排、手工意大利面、窑烤披萨，以及经典的印尼炒饭与巴东牛肉等，深受食客喜爱。
 
 > [Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1455156&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144852-dining-experience-at-mozza-restaurant-sanur%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0edb982727)
@@ -476,7 +484,7 @@ https://www.instagram.com/reel/DdvgjDDPSwj/?utm_source=ig_web_copy_link&stkn=NTc
 
 Neun cafe 是一家位于巴厘岛沙努尔（Sanur）的热门网红咖啡厅，以浪漫唯美的梦幻花园造景与古典奢华的氛围闻名，是当地备受瞩目的打卡热点。
 
-特色环境：店名「Neun」源自德语的「九」，店内设计巧妙融入数字9的元素。园区内布满色彩缤纷的九重葛花丛与优雅的水池，营造出仿佛热带秘境般的舒适氛围。
+特色环境：店名「Neun」源自德语的「九」，店内设计巧妙融入数字9的元素。园区内布满色彩缤纷的三角梅花丛与优雅的水池，营造出仿佛热带秘境般的舒适氛围。
 
 餐点选择：提供多样化的早午餐、精致西式餐点、地道印尼美食（如巴厘岛杂菜饭）以及特色咖啡与饮品。
 
@@ -514,7 +522,7 @@ Sanur的美食还有很多，各位可以参考我们提供的【[沙努尔家�
 - Danau Poso路
 - Danau Tamblingan路
 - Danau Toba路
-- 最后停靠点为沙努尔医疗特区（Sanur Special Economic Zone）邻近的SMP Wisata区域
+- 最后停靠点为沙努尔医疗特区（Sanur Special Economic Zone）附近的SMP Wisata区域
 
 详细站点及说明请看[这里](https://gobaligo.id/zh-cn/blog/sanur-tourist-shuttle-launch/)
 
@@ -524,19 +532,19 @@ Sanur的美食还有很多，各位可以参考我们提供的【[沙努尔家�
 
 ![Sanur 享受 SPA](https://images.gobaligo.id/vocus/vocus_ad4d06b0cc123f9e7ea112e0b6fb25c0.png)
 
-[Byrd House Spa and Wellness水疗体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425)
+> [Byrd House Spa and Wellness水疗体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425)
 
-[五星villa内的巴厘式按摩&漂浮下午茶](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
+> [五星villa内的巴厘式按摩&漂浮下午茶](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
-[沙努尔最顶级度假村Maya Resort SPA体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F147642-the-spa-experience-at-maya-sanur-resort%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D935932afe1)
+> [沙努尔最顶级度假村Maya Resort SPA体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F147642-the-spa-experience-at-maya-sanur-resort%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D935932afe1)
 
-[沙努尔上门按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca)
+> [沙努尔上门按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca)
 
 ## Sanur 住宿推荐 （📌[地图](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)）
 
 ### 沙努尔住宿指南
 
-我们收集了超过20家包括奢华的沙努尔度假村、靠近沙努尔码头（沙努尔港）的旅馆、villa推荐、还有平价旅馆的「[Sanur沙努尔20+从奢华到平价的度假村/villa收集](/zh-cn/blog/sanur-luxury-budget-resorts/)」不要错过哦！
+我们收集了超过20家包括奢华的沙努尔度假村、靠近沙努尔码头（沙努尔港）的旅馆、villa推荐、还有平价旅馆的「[Sanur沙努尔20+从奢华到平价的度假村/villa收集](/zh-cn/blog/sanur-luxury-budget-resorts/)」不要错过喔！
 
 ![Sanur沙努爾21家從奢華到平價的渡假村/villa收集](https://images.gobaligo.id/vocus/vocus_c9b555d1a2f729dc2eec89a632d5ffe1.jpg)
 
@@ -546,7 +554,7 @@ Sanur的美食还有很多，各位可以参考我们提供的【[沙努尔家�
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_7367aefbce2dfaf311e700d4fe626662.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如Kuta、Legian、Seminyak、Canggu、Uluwatu、Nusa Dua和Sanur，您便能轻松享受到好多种造型的大型浮床所带来的乐趣。
 
 这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 
