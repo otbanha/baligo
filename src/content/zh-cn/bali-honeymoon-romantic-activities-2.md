@@ -23,9 +23,10 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65d0e089fd89780001320e4c'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-09-15T00:00:00.000Z
+contentUpdatedAt: '2026-10-06T12:36:59+08:00'
+updatedDate: 2026-10-06T00:00:00.000Z
 lang: zh-cn
-_srcHash: d869f2acaf96167daad286836ebf8d24
+_srcHash: 6b62ebecbd1929c1df913462659f2c74
 ---
 
 **先说结论**：巴厘岛蜜月经典玩法首选——**乌鲁瓦图悬崖双人凯恰火舞（日落时段）、金巴兰海滩日落晚餐、双人精油SPA、北乌布丛林无边泳池Villa**，本文完整收录36种浪漫玩法，并附避开观光区堵车的分区行程建议，适合规划蜜月或情侣旅行时逐项参考安排。
@@ -66,23 +67,25 @@ _srcHash: d869f2acaf96167daad286836ebf8d24
 
 > 【水明漾】[水明漾阿丽拉酒店Seasalt用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D493fe83922)
 
-[> 【Seminyak】[MoonLite Kitchen and Bar：水明漾的日落美食天堂](/zh-cn/blog/moonlite-kitchen-bar-seminyak-sunset/)
+> 【水明漾】[MoonLite Kitchen and Bar：水明漾的日落美食天堂](/zh-cn/blog/moonlite-kitchen-bar-seminyak-sunset/)
+
+> 【乌布】[Ely's Kitchen & Sky Lounge 餐饮体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1481996&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F196851-ely-s-kitchen-ubud-dining-experience-in-ubud-bali%2F)
 
 ## **美景午餐**
 
 在山水美景的环绕下享用午餐，感受独特的感觉，共创美好的回忆。
 
-[> 【Nusa Dua】[巴厘岛凯宾斯基下午茶游记：Selasar Deli的梦幻午后时光](/zh-cn/blog/kempinski-selasar-deli-afternoon-tea/)
+> 【努沙杜瓦】[巴厘岛凯宾斯基下午茶游记：Selasar Deli的梦幻午后时光](/zh-cn/blog/kempinski-selasar-deli-afternoon-tea/)
 
-[> 【Ubud】[乌布Bale Udang Mang Engking用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106498-bale-udang-mang-engking-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D628e0eac4e)
+> 【乌布】[乌布Bale Udang Mang Engking用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106498-bale-udang-mang-engking-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D628e0eac4e)
 
-[> 【Ubud】[乌布 The Sayan House 用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91296-the-sayan-house-dining-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9e3a8f65e5)
+> 【乌布】[乌布 The Sayan House 用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91296-the-sayan-house-dining-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9e3a8f65e5)
 
-[> 【Ubud】[浪漫游船野餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1017900&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F134451-romantic-picnic-by-boat-in-dua-dari-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6c77c6026b)
+> 【乌布】[浪漫游船野餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1017900&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F134451-romantic-picnic-by-boat-in-dua-dari-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6c77c6026b)
 
-[> 【Canggu】[海神庙De Jukung Resto And Bar 美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D88b0b13a2e)
+> 【坎古】[海神庙De Jukung Resto And Bar 美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D88b0b13a2e)
 
-[> 【Uluwatu】[【巴厘岛美食体验记】Alila Villas Uluwatu Brisa Brunch：悬崖边的周日味觉盛宴](/zh-cn/blog/alila-uluwatu-brisa-brunch/)
+> 【乌鲁瓦图】[【巴厘岛美食体验记】Alila Villas Uluwatu Brisa Brunch：悬崖边的周日味觉盛宴](/zh-cn/blog/alila-uluwatu-brisa-brunch/)
 
 ## **浪漫按摩水疗**
 
@@ -108,11 +111,11 @@ _srcHash: d869f2acaf96167daad286836ebf8d24
 
 > 【乌布】[乌布Omma Dayclub俱乐部](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd02e5d95e4)
 
-> 【Ubud】[Wanna Jungle Pool & Bar通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7ec12c0692)
+> 【乌布】[Wanna Jungle Pool & Bar通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7ec12c0692)
 
-> 【Uluwatu】[White Rock Beach 俱乐部通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddb21a121cc)
+> 【乌鲁瓦图】[White Rock Beach 俱乐部通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddb21a121cc)
 
-> 【Seminyak】[巴厘岛水明漾 Ku De Ta Beach Club 完整攻略：餐饮、派对、日落的梦幻海滩体验](/zh-cn/blog/ku-de-ta-beach-club/)
+> 【水明漾】[巴厘岛水明漾 Ku De Ta Beach Club 完整攻略：餐饮、派对、日落的梦幻海滩体验](/zh-cn/blog/ku-de-ta-beach-club/)
 
 ## **参加活动**
 
@@ -120,25 +123,25 @@ _srcHash: d869f2acaf96167daad286836ebf8d24
 
 ![參加活動](https://images.gobaligo.id/vocus/vocus_475b9cb987750d1edf53d38d93246b3e.jpg)
 
-> 【Ubud】[巴杜尔神庙＆巴杜尔火山日出吉普车之旅（含摄影师）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F103903-ubud-cafes-tour-and-sunrise-jeep-mount-batur-with-photographer%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e10a77451)
+> 【乌布】[巴杜尔神庙＆巴杜尔火山日出吉普车之旅（含摄影师）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F103903-ubud-cafes-tour-and-sunrise-jeep-mount-batur-with-photographer%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e10a77451)
 
-> 【Ubud】[乌布ATV驾驶 & 漂流 & 丛林秋千之旅（含午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F31963-jungle-swing-atv-ride-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D13642c910f)
+> 【乌布】[乌布ATV驾驶 & 漂流 & 丛林秋千之旅（含午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F31963-jungle-swing-atv-ride-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D13642c910f)
 
-> 【Ubud】[乌布探险必玩：双人 UTV 越野车 + 泛舟/秋千完全体验](https://gobaligo.id/zh-cn/blog/utv-rafting-swing/)
+> 【乌布】[乌布探险必玩：双人 UTV 越野车 + 泛舟/秋千完全体验](https://gobaligo.id/zh-cn/blog/utv-rafting-swing/)
 
-> 【Ubud】[2.5小时泛舟体验（含午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F163-telagawaja-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2e8e39ce33)
+> 【乌布】[2.5小时泛舟体验（含午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F163-telagawaja-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2e8e39ce33)
 
-> 【Nusa Dua】[海行者（海底漫步 seawalker）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F51733-bali-seawalker-watersports-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6f69f93a73)
+> 【努沙杜瓦】[海行者（海底漫步 seawalker）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F51733-bali-seawalker-watersports-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6f69f93a73)
 
 **快速参考：**[巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 ## 留下珍贵美好回忆
 
-专业摄影师为你们的巴厘岛甜蜜之旅拍摄成最完美的回忆
+专业摄影师帮你们的巴厘岛甜蜜之旅拍摄成最完美的回忆
 
 ![留下珍貴美好回憶](https://images.gobaligo.id/vocus/vocus_1b7528a1d4521658a1c7ec612dd5b798.png)
 
-- [高评价巴厘岛摄影一日游（相机与航拍机拍摄）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F143975-bali-day-tour-with-photographer-video-drone%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd652e75354)
+- [高评价巴厘岛摄影一日游（相机与无人机拍摄）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F143975-bali-day-tour-with-photographer-video-drone%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd652e75354)
 - [巴厘岛网红打卡拍照之旅（含摄影师）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83678b38d4)
 - [巴厘岛私人旅拍体验（地点自选）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F34183-private-photoshoot-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1787619b85)
 - [评价满分巴厘岛摄影体验（含摄影师）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86690-photoshoot-bali-photographer%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd0c02634a9)
@@ -166,25 +169,25 @@ https://youtube.com/shorts/fG9pNzin-94
 
 > 【Ubud】[ATV四轮摩托车骑行（含午餐 & 自选活动）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99822-atv-quad-bike-jatiluwih-north-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D944329f3a2)
 
-> 【Ubud】[巴厘岛精选Instagram景点一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df296c9cc4d)
+> 【乌布】[巴厘岛精选Instagram景点一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23429-best-instagram-spots-photographer-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df296c9cc4d)
 
-> 【Ubud】[巴厘岛圣泉寺净身私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16083-eat-pray-love-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df2f12be40c)
+> 【乌布】[巴厘岛圣泉寺净身私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16083-eat-pray-love-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df2f12be40c)
 
-> 【Ubud】[乌布完整网红一日游：锦鲤池、丛林秋千、梯田、Kanto Lampo 瀑布、Tis Cafe 一日游](https://gobaligo.id/zh-cn/blog/koipond-baliswing-kantolampo-tiscafe/)
+> 【乌布】[乌布完整网红一日游：锦鲤池、丛林秋千、梯田、Kanto Lampo 瀑布、Tis Cafe 一日游](https://gobaligo.id/zh-cn/blog/koipond-baliswing-kantolampo-tiscafe/)
 
-> 【Ubud】[Poh Gading 瀑布＋圣泉寺＋彭里普兰村｜巴厘岛乌布私人一日游攻略](https://gobaligo.id/zh-cn/blog/Pohgading-tirtaempul-penglipuran-tour/)
+> 【乌布】[Poh Gading 瀑布＋圣泉寺＋彭里普兰村｜巴厘岛乌布私人一日游攻略](https://gobaligo.id/zh-cn/blog/Pohgading-tirtaempul-penglipuran-tour/)
 
 > 【东部】[巴厘岛东部景点探索私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21886-east-exploration-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcfd136758a)
 
 > 【中部+海神庙】[巴厘岛世界遗产景点一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49408-taman-ayun-jatiluwih-ulun-danu-tanah-lot-cultural-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9b6baa21c)
 
-> 【Uluwatu】[巴厘岛顶级南部海滩一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5900009da6)
+> 【乌鲁瓦图】[巴厘岛顶级南部海滩一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5900009da6)
 
-> 【Uluwatu】[乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc2c9d108c)
+> 【乌鲁瓦图】[乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc2c9d108c)
 
-> 【Uluwatu】[巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25347-bali-beaches-garuda-wisnu-kencana-tour-uluwatu-kecak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3e19cc51ff)
+> 【乌鲁瓦图】[巴厘岛海滩＆神鹰广场＆乌鲁瓦图神庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25347-bali-beaches-garuda-wisnu-kencana-tour-uluwatu-kecak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3e19cc51ff)
 
-> 【Nusa Penida】[可选中文司机/导游佩尼达岛一日游（巴厘岛出发）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17c3aa566)
+> 【佩尼达岛】[可选中文司机/导游佩尼达岛一日游（巴厘岛出发）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17c3aa566)
 
 ## 中文司机/导游
 
@@ -200,7 +203,7 @@ https://youtube.com/shorts/fG9pNzin-94
 
 ### [中文导览巴厘岛东部/北部IG网红景点打卡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D69d806c9e7)
 
-在您的巴厘岛之旅中，别忘了去网红景点打卡哦！一定要造访连普扬寺内的知名景点“天空之门”，这里的美景绝对令人难忘。接着，您可以前往巴厘岛北部，朝圣布拉坦水神庙，在汉达拉门留下美丽的倩影。如果您想要更多的探索，也可以选择前往巴厘岛东部，参观蒂尔塔冈加水上宫殿。此行程包含中文司机/酒店往返接送服务，让您完全无需烦恼语言和交通问题，专心享受旅程的每一刻。
+在您的巴厘岛之旅中，别忘了前往网红景点打卡哦！一定要造访连普扬寺内的知名景点“天空之门”，这里的美景绝对令人难忘。接着，您可以前往巴厘岛北部，朝圣布拉坦水神庙，在汉达拉门留下美丽的倩影。如果您想要更多的探索，也可以选择前往巴厘岛东部，参观蒂尔塔冈加水上宫殿。此行程包含中文司机/酒店往返接送服务，让您完全无需烦恼语言和交通问题，专心享受旅程的每一刻。
 
 （延伸阅读：[根本人间仙境！巴厘岛东部的三大景点：天空之门、恒河圣泉花园、乌戎水宫](/zh-cn/blog/bali-east-tour-guide/)）
 
@@ -228,7 +231,7 @@ https://youtube.com/shorts/fG9pNzin-94
 
 ### [中文导游佩尼达岛一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 
-从巴厘岛出发搭船来到佩尼达岛，展开令人难以置信的一日游冒险。中文导游将引领您抵达神秘的精灵海滩（Kelingking Beach），站在高处俯瞰，岛屿的形状宛如一只雄伟的暴龙。接下来，踏入被火山岩环绕的「天使浴池」，感受碧绿澄澈的海水如同天使之泉。若您渴望更深入地体验海底奇观，可选择加购浮潜项目，漫游水晶湾，欣赏巴厘岛海洋生态的多样风貌，使您的冒险之旅更加丰富多元。
+从巴厘岛出发搭船来到佩尼达岛，展开令人难以置信的一日游冒险。中文导游将引领您抵达神秘的精灵海滩（Kelingking Beach），站在高处俯瞰，岛屿的形状宛如一只雄伟的暴龙。接下来，踏入被火山岩环绕的「天使浴池」，感受碧绿清澈的海水如同天使之泉。若您渴望更深入地体验海底奇观，可选择加购浮潜项目，漫游水晶湾，欣赏巴厘岛海洋生态的多样风貌，使您的冒险之旅更加丰富多元。
 
 （延伸阅读：[【Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/zh-cn/blog/nusa-penida-guide/)）
 
@@ -240,6 +243,6 @@ https://youtube.com/shorts/fG9pNzin-94
 
 {{block:戶外}}
 
-为了更方便地与司机事先联系，**建议您在开始您的旅程之前务必先安装Whatsapp通讯软件**。 让我们一同享受巴厘岛之旅，随停随玩，尽情探索这片热带天堂的美丽！期待您踏上巴厘岛，与我们一同探索更多令人惊叹的景点，创造更多难忘的回忆！
+为了方便地与司机事先联系，**建议您在开始您的旅程之前务必先安装Whatsapp通讯软件**。 让我们一同享受巴厘岛之旅，随停随玩，尽情探索这片热带天堂的美丽！期待您踏上巴厘岛，与我们一同探索更多令人惊叹的景点，创造更多难忘的回忆！
 
 {{block:蜜月}}
