@@ -32,6 +32,8 @@ type Driver = {
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean; line_qr_guide?: boolean };
 const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false, newsCategory, source, sourceUrl, tags } = Astro.props;
+// 這些文章不顯示頂端/末端的互動地圖卡片
+const hideMapCard = slug === 'seminyak-guide';
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -652,7 +654,7 @@ const spaFaqSchema = isSpaGuide ? {
           )}
 
           <!-- D.2-1: hero 位置 — 目錄下方、內文前 -->
-          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
+          {slug && !hideMapCard && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
 
           <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'} data-qr-guide={lineQrGuide ? 'true' : undefined}>
             <slot />
@@ -683,7 +685,7 @@ const spaFaqSchema = isSpaGuide ? {
           )}
 
           <!-- D.2-3: footer 位置 — 文末 CTA 卡片 -->
-          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
+          {slug && !hideMapCard && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
 
           <!-- 促銷區塊 -->
           {activePromos.length > 0 && (
