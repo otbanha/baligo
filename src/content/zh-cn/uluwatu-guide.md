@@ -14,47 +14,48 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65dfd410fd897800019f4b40'
 source: ''
 sourceUrl: ''
-contentUpdatedAt: '2026-10-05T21:44:39+08:00'
-updatedDate: 2026-10-05T00:00:00.000Z
+contentUpdatedAt: '2026-10-07T14:49:16+08:00'
+updatedDate: 2026-10-07T00:00:00.000Z
 lang: zh-cn
-_srcHash: a62909745e858e205b32e7eb563d1a1b
+_srcHash: PENDING_RETRY_5a565ab01047c7dcbd6698f8d4b2011d
+_translateAttempts: 1
 ---
 
 **先讲结论**：乌鲁瓦图必玩三件事——① **秘境沙滩探险**（Suluban Beach、Padang Padang Beach、Green Bowl Beach 等六个悬崖秘境沙滩）② **乌鲁瓦图神庙看悬崖景观与卡恰火舞表演** ③ 世界级冲浪点挑战。地名「Ulu」意为陆地尽头、「Watu」意为岩石，整个南端海岩地形是全岛最壮观的悬崖景观区。以下是完整 50 个景点推荐。
 
-**乌鲁瓦图：巴厘岛新兴热区的崛起**
+## **乌鲁瓦图：巴厘岛新兴热区的崛起**
 
 近年来，乌鲁瓦图（Uluwatu）已然成为巴厘岛最炙手可热的度假地点。位于岛屿南端，这片广袤的区域正逐渐蜕变成国内外游客必访的旅游圣地。
 
-**地名背后的地理故事**
+## **地名背后的地理故事**
 
 「乌鲁瓦图」这个名字蕴含着深刻的地理意义——「Ulu」意为「陆地的尽头」，而「Watu」则代表「岩石」。这个名称完美诠释了乌鲁瓦图的地形特色：整个区域由巨大的海岸岩石组成，地势起伏多变，崎岖险峻，尽是大大小小的丘陵和悬崖峭壁。也正是这份独特的地形，赋予了乌鲁瓦图无可替代的魅力。
 
-**景观与特色**
+## **景观与特色**
 
 乌鲁瓦图以壮观的悬崖美景、隐匿于崖边的秘密沙滩、屹立于崖顶的巴厘岛古寺，以及享誉世界的冲浪圣地而闻名。虽然这里的沙滩面积不大，却是巴厘岛本岛上最璀璨夺目的海滨——细致的沙粒、清澈的海水、壮丽的自然背景，完美构成了度假者心中的理想乐园。
 
-**交通发展带动热区崛起**
+## **交通发展带动热区崛起**
 
-正是因为近年来的基础设施建设投资，特别是[乌鲁瓦图南环路](https://gobaligo.id/zh-cn/blog/uluwatu-south-ring-road/)的兴建，大幅缩短了到达乌鲁瓦图各景点的时间，让这片过去较难抵达的秘境变得触手可及。便利的交通网络不仅提升了游客体验，更加速了乌鲁瓦图作为度假热区的成熟发展。
+正是由于近年来的基础设施建设投资，特别是[乌鲁瓦图南环路](https://gobaligo.id/zh-cn/blog/uluwatu-south-ring-road/)的兴建，大幅缩短了到达乌鲁瓦图各景点的时间，让这片过去较难抵达的秘境变得触手可及。便利的交通网络不仅提升了游客体验，更加速了乌鲁瓦图作为度假热门区域的成熟发展。
 
-**不容错过的必访景点**
+要求：
 
-以下是您在乌鲁瓦图度假的必访景点推荐：
+1. 使用中国大陆惯用词汇和地名（如峇里岛→巴厘岛、乌布→乌布、庙宇→寺庙、出租车→出租车）
 
-![【烏魯瓦圖攻略】Uluwatu烏魯瓦圖景點 50個吃喝玩樂推薦](https://images.gobaligo.id/vocus/vocus_f2bf46c2ae5b8af8d849b77c261cfcf2.png)
+2. 地名统一对照（不论原文写法）：长谷/仓古/苍古/坎古→坎古、水明漾→水明漾、库塔→库塔、沙努尔→沙努尔、金巴兰→金巴兰、努沙杜瓦→努沙杜瓦
 
-## 乌鲁瓦图必访景点
+3. 语气自然，符合大陆读者习惯
 
-### 秘境沙滩 (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
+### 秘境沙灘 (📌[位置地圖](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 这个地区有很多在陆地上很难发现的秘境沙滩值得你来探险，这些沙滩在陆地上难以发现，通常都要走下悬崖才能发现。巴厘岛除了众所周知的熱门海滩外，这个岛屿还藏着许多秘境小海滩，这些沙滩在陆地上难以发现，通常都要走下悬崖才能发现，等待着探险家的发现。介绍六个秘境沙滩推荐：「[探索巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/zh-cn/blog/bali-hidden-beaches-guide/)」
 
-底下是三个小杰去过的秘境沙滩：
+6. 以 JSON 对象回传，格式：{"translations": ["翻译1", "翻译2", ...]}
 
-### **Suluban Beach**
+    数组长度必须与输入相同
 
-https://youtu.be/hQbBTktqEqY
+## 乌鲁瓦图必访景点
 
 ### **Padang Padang Beach**
 
@@ -64,7 +65,7 @@ https://youtube.com/shorts/isVxI2UEq6U
 
 https://youtu.be/8mzJm_UrjSg
 
-Klook提供四种两人即可成团的乌鲁瓦图秘境海滩一日游行程，大家可以参考看看：
+Klook有提供四种两人就能成团的乌鲁瓦图秘境海滩一日游行程，大家可以参考看看：
 
 > [巴厘岛顶级南部海滩一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824135&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8f78b20b0e)
 
@@ -78,57 +79,57 @@ Klook提供四种两人即可成团的乌鲁瓦图秘境海滩一日游行程，
 
 ![烏魯瓦圖神廟 Uluwatu Temple (位置地圖)](https://images.gobaligo.id/vocus/vocus_73f1698ba36e1b9c8e46a30af016165b.jpg)
 
-乌鲁瓦图神庙（Uluwatu Temple）是巴厘岛著名的海边神庙之一，位于乌鲁瓦图地区的高耸悬崖上，俯瞰着壮丽的印度洋景观。这座神庙建于公元11世纪，是巴厘岛上最古老的神庙之一。除了宗教意义，乌鲁瓦图神庙也以其壮丽的断崖日落景观而闻名，每天傍晚都吸引了大量游客前来欣赏。
+__VID0__、__VID1__ 等占位符，必须原封不动保留，不可翻译或修改
 
-提醒大家一点，这个地方的猴子很调皮，手上拿的东西、背上的背包、眼镜/墨镜都要小心会被抢走！
+> 详细的介绍请看[乌鲁瓦图寺庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
-> 详细的介绍请看[乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/zh-cn/blog/uluwatu-temple-travel-guide/)
+> 詳細的介紹請看[烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/zh-cn/blog/uluwatu-temple-travel-guide/)
 
-### 卡恰火舞 Kecak Fire Dance (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
+### 卡恰火舞 Kecak Fire Dance (📌[位置地圖](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![卡恰火舞 Kecak Fire Dance (位置地圖)](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
-「卡恰火舞」主要重现印度神话史诗罗摩衍那（Ramayana）其中一段，内容为猴王与恶魔大战等情节，耀眼火焰、斑斓服装，令人目眩神迷！想了解这段印度教知名表演内容的朋友可以[点击这里](/zh-cn/blog/kecak-fire-dance-bali/)，我们曾经做过详细的介绍。这是一段几乎看过的人都觉得值回票价的精彩表演！
+「卡恰火舞」主要在重現印度神話史詩羅摩衍那（Ramayana）其中一段，內容為猴王與惡魔大戰等情節，耀眼火焰、斑斕服裝，令人目眩神迷！想了解這段印度教知名表演內容的朋友可以[點擊這裡](/zh-cn/blog/kecak-fire-dance-bali/)，我們曾經做過詳細的介紹。這是一段幾乎看過的人都覺得值回票價的精彩表演！
 
-想去观看火舞表演的朋友，可以参考底下Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
+[中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
 
 - [中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
-- [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
-- [乌布Exotic瀑布 & 乌鲁瓦图寺私人游（含卡恰舞体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47697-kato-lampo-tegenungan-tibumana-waterfall-uluwatu-kecak-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9d80dd262f)
-- [巴厘岛顶级南部海滩一日游(含火舞&金巴兰海滩晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
+- [海神庙 & 巴东海滩 & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
+- [烏布Exotic瀑布 & 烏魯瓦圖寺私人遊（含卡恰舞體驗）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47697-kato-lampo-tegenungan-tibumana-waterfall-uluwatu-kecak-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9d80dd262f)
+- [峇里島頂級南部海灘一日遊(含火舞&金巴蘭海灘晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [乌鲁瓦图火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 
-> 这类景点的门票行情会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
+> 这类景点的门票价格会随旺季调整，建议出发前到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 确认最新参考价。
 
 ### Balangan Viewpoint (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![Balangan Viewpoint (位置地圖)](https://images.gobaligo.id/vocus/vocus_a8d6822261073280c90836feccfdebd6.jpg)
 
-Balangan cliff sunset point是一个迷人的地方，以其壮丽的海滨景观而闻名。这里是观赏巴厘岛壮观日落的绝佳场所之一，您可以在崖边欣赏太阳逐渐沉入海平线，留下令人难忘的美丽景象。此外，您还可以享受徒步穿过岩石，感受自然之美，或在海滩上放松身心。
-
-这里也是拍摄婚纱的绝佳地点，许多新人都选择在Balangan崖日落观景点留下珍贵的回忆。在这个浪漫的地方，您可以与挚爱一起捕捉美丽的瞬间，留下永恒的愛情印记。
+这里也是拍摄婚纱的绝佳地点，许多新人都选择在Balangan悬崖日落观景点留下珍贵的回忆。在这个浪漫的地方，您可以与挚爱一起捕捉美丽的瞬间，留下永恒的愛情印记。
 
 ### Oneeighty Day Club (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-![Oneeighty Day Club (位置地圖)](https://images.gobaligo.id/vocus/vocus_44e74ce8b0647d69768d007cb4a8c9c4.jpg)
+### Oneeighty Day Club (📌[位置地圖](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-脚底下是162米高的悬崖峭壁是什么感觉？
+![Oneeighty Day Club (位置地圖)](https://images.gobaligo.id/vocus/vocus_44e74ce8b0647d69768d007cb4a8c9c4.jpg)
 
 Oneeighty是一个位于印度洋海平面以上162米的空中泳池酒吧和俱乐部。它有一个独一无二的，带有玻璃墙的悬崖顶游泳池。你可以在游泳池突出悬崖的部分享受180度的印度洋景观。请看我们这里有介绍、拍照点推荐、消费方式等说明：[探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
 
-小杰的介绍视频
+Oneeighty是一个位于印度洋海平面以上162米的空中泳池酒吧和俱乐部。它有一个独一无二的、带有玻璃墙的悬崖顶游泳池。你可以在游泳池突出悬崖的部分享受180度的印度洋景观。请看我们这里有介绍、拍照点推荐、消费方式等说明：[探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/zh-cn/blog/oneeighty-dayclub-uluwatu-pool/)
+
+__VID0__
 
 https://youtu.be/Czw4ALduV14
 
-> 官网预约[请按这里](https://www.oneeightybali.com/)
+> 官网预约[请点击这里](https://www.oneeightybali.com/)
 
-> Klook提供的[Oneeighty通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)（约USD$0）
+> Klook提供的[Oneeighty通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
 
 ### Pandawa Beach/Tanah Barak Cliff 断崖公路/蓝色公路 (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![Pandawa Beach/Tanah Barak Cliff 斷崖公路/藍色公路 (位置地圖)](https://images.gobaligo.id/vocus/vocus_e249047f24fcaf820748a7f940fc9d01.jpg)
 
-巴厘岛的Pandawa Beach/（也有人称 Tanah Barak Cliff）是一个隐藏的宝石，最近成为了热门景点。这个海滩是一个新开放的地方，令人惊叹的蓝色海水和色彩斑斓的岩石使其独特。除了壮丽的海景外，这里的道路还是在巨大的石灰岩开凿出来的，远处的蔚蓝海水、马路两侧高耸的岩壁，形成一种巨大的视觉冲击。 Pandawa Beach距离机场约30分钟车程，入场需要门票。开放时间为每天上午6:00至下午6:00。
+巴厘岛的Pandawa Beach/（也有人称 Tanah Barak Cliff）是一个隐藏的宝石，最近成为了热门景点。这个海滩是一个新开放的地方，令人惊叹的蓝色海水和色彩斑斓的岩石使其独特。除了壮丽的海景外，这里的道路还是在巨大的石灰岩开凿出来的，远处的蔚蓝海水、马路两侧高耸的岩壁，形成一种巨大的视觉冲击。Pandawa Beach距离机场约30分钟车程，入场需要门票。开放时间为每天上午6:00至下午6:00。
 
 > 这里有蓝色断崖公路攻略：[巴厘岛断崖公路 Batu Barak 旅游指南：入园费、路况分析与乌鲁瓦图南端一日游规划](https://gobaligo.id/zh-cn/blog/batu-barak-cliff-road/)
 
@@ -163,7 +164,7 @@ https://youtu.be/Czw4ALduV14
 
 > [Roosterfish 海滩俱乐部门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F68445-day-pass-roosterfish-beach-club-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21f98d092a)
 
-### 2025新开业海滩俱乐部(📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
+### 2025新开幕海滩俱乐部(📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
 ![2025新開幕海灘俱樂部(位置地圖)](https://images.gobaligo.id/vocus/vocus_6f087b868b59c7b3133b7951c608e6fa.jpg)
 
@@ -233,7 +234,7 @@ Umana Bali LXR 是希尔顿旗下顶级品牌，非住客根本不知道可以�
 
 https://www.instagram.com/reel/DbZrP6Xh9bh/?utm_source=ig_web_button_share_sheet
 
-2026/08新开业，这里不只是一家餐厅，更像是巴厘岛乌鲁瓦图一个超大型的派对现场。官方将其定位为品牌目前**最大、最有气势**的据点之一，空间可容纳约 **350 人**，内有双酒吧、现场音乐、DJ台、开放式吧台和充满墨西哥风情的热闹布置，气氛从白天一直延续到晚上，越晚派对感越强。这里很适合朋友聚会、庆生、喝酒拍照，如果你想找“吃饭只是顺便，重点是玩气氛”的地方，这里非常对味。
+2026年8月新开业，这里不只是餐厅，更像是巴厘岛乌鲁瓦图一个超大型的派对场所。官方将其定位为品牌目前**最大、最有气势**的据点之一，空间可容纳约 **350 人**，里面有双酒吧、现场音乐、DJ台、开放式吧台与充满墨西哥风情的热闹布置，气氛会从白天一直延伸到晚上，越晚越有派对感。这里很适合朋友聚会、庆生、喝酒拍照，想找「吃饭只是顺便，重点是玩气氛」的地方，这里非常对味。
 
 ***
 
@@ -243,21 +244,21 @@ https://www.instagram.com/reel/DbZrP6Xh9bh/?utm_source=ig_web_button_share_sheet
 
 https://youtube.com/shorts/rtgyCnmGfEs
 
-提供各种菜肴，包括印尼菜、西餐和儿童餐。餐厅还设有儿童游乐场和电影院，适合家庭用餐。
+提供各种菜肴，包括印尼菜、西餐和儿童餐。餐厅还有一个儿童游乐场和电影院，适合家庭用餐。
 
 ### The Cashew Tree
 
 https://youtube.com/shorts/zpc6L_iRHxo
 
-离Bingin悬崖顶只有一步之遥，提供从露天早午餐到家庭友好午餐，再到晚上的现场吉他表演的一切。丰富的菜单新鲜、健康、有机，有许多素食和纯素菜肴，还有一个丰富的鸡尾酒清单。甚至这里还有超受欢迎的儿童户外游乐场。
+距离Bingin悬崖顶仅一步之遥，提供从露天早午餐到家庭友好午餐，再到晚上的现场吉他表演的一切。丰富的菜单新鲜、健康、有机，有许多素食和纯素菜肴，还有一个丰富的鸡尾酒清单。甚至这里还有超受欢迎的儿童户外游乐场。
 
 ### Pangolin Kids Club
 
 https://www.instagram.com/reel/DX8Favuvvl6/?utm_source=ig_web_button_share_sheet
 
-位于乌鲁瓦图的 Family Nest Experience Villas，是专为 0–16 岁儿童打造的游乐空间，面积高达 1,000 m²，有两层楼和户外区。运营时间为每日 08:00–20:00（5 岁以下孩童需有成人陪同）。这里结合攀爬网架、绳桥、树屋等多元设备，并由专业人员设计每日活动，让孩子安全放电、尽情探索。
+位于乌鲁瓦图的Family Nest Experience Villas，是专为0–16岁儿童打造的游乐空间，面积高达1,000 m²，有两层楼和户外区。运营时间为每日08:00–20:00（5岁以下孩童需有成人陪同）。这里结合攀爬网架、绳桥、树屋等多元设备，并由专业人员设计每日活动，让孩子安全放电、尽情探索。
 
-除了常态游乐设施，亦可举办生日派对或参与季节活动（如复活节寻宝）。此 Kids Club 是 Family Nest Villa 家族体验的一部分，整体设计注重亲子共享和孩子自主发展，非常适合全家在巴厘岛乌鲁瓦图度过愉快假期😊。
+除了常态游乐设施，亦可举办生日派对或参与季节活动（如复活节寻宝）。此Kids Club是Family Nest Villa家族体验的一部分，整体设计注重亲子共享和孩子自主发展，非常适合全家在巴厘岛乌鲁瓦图度过愉快假期😊。
 
 ***
 
@@ -265,7 +266,7 @@ https://www.instagram.com/reel/DX8Favuvvl6/?utm_source=ig_web_button_share_sheet
 
 ![烏魯瓦圖購物 (位置地圖)](https://images.gobaligo.id/vocus/vocus_1dc2f0c2149160f91de8e9b9aa544137.jpg)
 
-悠闲的岛屿度假氛围，使得乌鲁瓦图拥有一些高水准的精品店，出售你所有的沙滩必需品-其中大部分都在本地制造。你会在这里找到来自 ELCE 的巴厘岛制造的比基尼、The Find Bali 设计师服饰精品店、Drifter 的岛屿海洋服装等。
+悠闲的岛屿度假氛围，使得乌鲁瓦图拥有一些高水准的精品店，出售你所有的沙滩必需品-其中大部分都在本地制造。你会在这里找到来自ELCE的巴厘岛制造的比基尼、The Find Bali设计师服饰精品店、Drifter的岛屿海洋服装等。
 
 这些店的相关位置，请看我们的「[乌鲁瓦图攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)」
 
@@ -273,39 +274,39 @@ https://www.instagram.com/reel/DX8Favuvvl6/?utm_source=ig_web_button_share_sheet
 
 ![假日市集SUNDAZE ULUWATU MARKET (位置地圖)](https://images.gobaligo.id/vocus/vocus_31780ca28b4ab70f84049322bda1a491.jpg)
 
-SUNDAZE ULUWATU MARKET 位于巴厘岛南端的 Hatch Bali Uluwatu，每逢星期日上午11点至下午6点，这里变身为一个充满活力的市集。在这里，您可以欣赏才华横溢的原声音乐家演奏，品尝当地供应商提供的美味烧烤，无论您是想寻找独特的产品还是享用美味的小吃，这个市集都是您放松身心、与朋友连接的完美场所，为乌鲁瓦图的魅力定义了轻松愉快的周末氛围！
+### 乌鲁瓦图海滩与冲浪
 
-延伸阅读：[【2026年版】还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/zh-cn/blog/bali-weekend-markets-2026/)
+延伸阅读：[【2026年版】还在举办的巴厘岛四个假日市集：最接地气的购物体验](/zh-cn/blog/bali-weekend-markets-2026/)
 
 ### ULU LOVE MARKET (📌[位置地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing))
 
-https://www.instagram.com/reel/DZcE7QqTy1z/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
+乌鲁瓦图最著名的文化地标是**, 乌鲁瓦图寺（Pura Luhur Uluwatu）**，这座寺庙傲然矗立在陡峭的悬崖顶端，俯瞰着印度洋。它被认为是巴厘岛六座精神支柱寺庙之一，旨在保护岛屿免受邪恶力量的侵害。参观寺庙时，请务必穿着得体（提供纱笼），并留意那些顽皮的猴子，它们以偷取游客的财物而闻名。每天傍晚，这里都会上演传统的**, 克差舞（Kecak Dance）**，以壮丽的日落为背景，讲述罗摩衍那史诗的故事，是绝对不容错过的体验。
 
-巴厘岛乌鲁瓦图热闹的 Jl. Labuansait 主干道上，陆续开了三家分店，形成了一个有趣的市集据点连线。是近年来南加禄地区备受喜爱的高人气精品市集与购物据点。
+### 乌鲁瓦图餐饮与夜生活
 
-这里汇集了充满岛屿风情的在地独立品牌与手作摊位。走进市集，琳琅满目的精致商品让人目不暇接，特别是各式各样设计感十足的**手工饰品、波希米亚风服饰、海滩度假配件以及别具特色的伴手礼**，被许多游客誉为饰品控与寻宝的天堂。
+乌鲁瓦图的餐饮和夜生活场景与其环境一样令人印象深刻。许多餐厅和酒吧都建在悬崖边，提供令人叹为观止的海景。**, 单鳍餐厅（Single Fin）** 是乌鲁瓦图最具标志性的场所之一，以其日落派对和热闹的氛围而闻名，DJ 音乐和悬崖跳水活动使其成为必去之地。**, 马利欧博罗餐厅（Malioboro Restaurant）** 则提供更轻松的海鲜用餐体验，可以一边享用美食，一边欣赏海浪拍打海岸。对于追求浪漫晚餐的情侣，**, 卡玛坎达拉（Karma Kandara）** 的迪瓦餐厅（Di Mare）提供精致的悬崖边用餐体验。
 
-相较于大型商场，这里洋溢着轻松惬意的南国氛围，不仅能买到独一无二的文创小物，还能体验巴厘岛独有的慢活美学。非常适合在探索完乌鲁瓦图的海滩与冲浪胜地后，来此悠闲漫步、挑选纪念品。
+### 乌鲁瓦图购物
 
-***
+乌鲁瓦图的购物体验更偏向于精品和手工艺品，而非大型商场。**, 乌鲁瓦图市场（Uluwatu Market）** 是一个受欢迎的周日市集，汇集了当地设计师、手工艺人和美食摊位。您可以在这里找到独特的服装、配饰、家居装饰品和有机产品。另一个值得探索的地方是**, 乌鲁瓦图艺术市场（Uluwatu Art Market）**，那里出售各种巴厘岛艺术品、木雕和纪念品。
 
-## 乌鲁瓦图活动
+### 乌鲁瓦图住宿
 
 ![烏魯瓦圖活動](https://images.gobaligo.id/vocus/vocus_678bb4fb32a1ba904eeafae220c4249f.jpg)
-
-### 冲浪
-
-对于喜欢冲浪的人来说，乌鲁瓦图提供了初级和中级冲浪课程，让您在巴厘岛的海浪中尽情享受冲浪的乐趣。专业的教练将带领您进入波涛汹涌的海域，教授您技巧和技术，让您能够安全地驾驭浪头，体验冲浪的刺激和快感。
-
-> [乌鲁瓦图初级&中级冲浪课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F105831-surfing-lesson-cakrawala-asia-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdd2e27de9)
-
-### 滑翔伞
-
-![滑翔傘](https://images.gobaligo.id/vocus/vocus_09e07f049ec2370016fc28e80f9805ba.png)
 
 如果您想要体验巴厘岛的壮丽日落，乌鲁瓦图也提供滑翔伞和日落之旅。在专业指导下，您将穿上滑翔伞，由教练带领从高处飞翔而下，俯瞰乌鲁瓦图海岸线和美丽的日落景色，这将是一次难忘的体验，让您流连忘返。
 
 > [滑翔伞 & 乌鲁瓦图日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74904-paragliding-uluwatu-sunset-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db657b34bf1)
+
+[乌鲁瓦图初级&中级冲浪课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F105831-surfing-lesson-cakrawala-asia-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdd2e27de9)
+
+### ATV
+
+![滑翔傘](https://images.gobaligo.id/vocus/vocus_09e07f049ec2370016fc28e80f9805ba.png)
+
+除了以上活动外，乌鲁瓦图还提供ATV探险。骑着ATV车穿越巴厘岛的郊野和农田，探索乌鲁瓦图周围壮丽的自然风景，感受速度和冒险的刺激。
+
+[> [滑翔伞 & 乌鲁瓦图日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74904-paragliding-uluwatu-sunset-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db657b34bf1)
 
 > [乌鲁瓦图海滩滑翔伞体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1035510&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17558-paragliding-activity-timbis-beach-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D33d23d8e1e)
 
@@ -313,7 +314,7 @@ https://www.instagram.com/reel/DZcE7QqTy1z/?utm_source=ig_web_copy_link&stkn=MzR
 
 除了以上活动外，乌鲁瓦图还提供ATV探险。骑着ATV车穿越巴厘岛的郊野和农田，探索乌鲁瓦图周围壮丽的自然风景，感受速度和冒险的刺激。
 
-> [乌鲁瓦图ATV探险](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82213-atv-quad-bike-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df4802ed51a)
+> [烏魯瓦圖ATV探險](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82213-atv-quad-bike-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df4802ed51a)
 
 ### SPA
 
@@ -339,7 +340,7 @@ https://www.instagram.com/reel/DZcE7QqTy1z/?utm_source=ig_web_copy_link&stkn=MzR
 
 傍晚前往观赏知名的乌鲁瓦图火舞，非常适合与心爱的人一起欣赏日落，体验难忘的浪漫时刻。这个行程是5.0满分的行程，参加过的都说赞：
 
-> [参加乌鲁瓦图一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=858156&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D363524ee7b)
+[> 参加乌鲁瓦图一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=858156&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D363524ee7b)
 
 ### Alila Uluwatu SPA
 
@@ -362,7 +363,7 @@ https://www.instagram.com/reel/DZcE7QqTy1z/?utm_source=ig_web_copy_link&stkn=MzR
 - 适合初级至中级的冲浪者
 - 包含基础知识、安全须知与实地练习
 - 教练会根据当日海况挑选最合适的浪点
-- 装备（冲浪板、防晒衣）全数包含
+- 装备（冲浪板、防晒衣）全部包含
 
 无论你是第一次接触冲浪，还是想更进一步提升技巧，在Balangan的浪花中，这将会是一段难忘又刺激的巴厘岛体验！
 
@@ -382,17 +383,17 @@ https://www.instagram.com/reel/DZcE7QqTy1z/?utm_source=ig_web_copy_link&stkn=MzR
 
 ![烏魯瓦圖住宿推薦](https://images.gobaligo.id/vocus/vocus_066cc3116059f1ef4abd123f1f4a3d25.jpg)
 
-乌鲁瓦图是巴厘岛南端最受欢迎的旅游区之一。乌鲁瓦图地区提供了多种多样的住宿选项，满足了不同游客的需求和预算。比较特别的一些高端的度假村和私人别墅，这些住宿选项通常位于悬崖上，享有壮观的海景。这些度假村提供了极高的舒适度，配有奢华的设施，包括私人泳池、水疗中心、美食餐厅，有些还有自己的私人海滩。
+乌鲁瓦图是巴厘岛南端最受欢迎的旅游区之一。乌鲁瓦图地区提供了多种多样的住宿选项，满足了不同游客的需求和预算。比较特别的是一些高端的度假村和私人别墅，这些住宿选项通常位于悬崖上，享有壮观的海景。这些度假村提供了极高的舒适度，配有奢华的设施，包括私人泳池、水疗中心、美食餐厅，有些还有自己的私人海滩。
 
-如果你正在寻找一个舒适、豪华的、无敌海景的住宿，那么你可以考虑以下我们精选的12个选项：
+如果你正在寻找一个舒适、豪华、无敌海景的住宿，那么你可以考虑以下我们精选的12个选项：
 
-[> [乌鲁瓦图 Uluwatu住宿推荐：15+无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)
+> [乌鲁瓦图 Uluwatu住宿推荐：15+无敌海景的私密别墅度假村](/zh-cn/blog/uluwatu-bali-villas-resorts-guide/)
 
 ## 租借大型浮床拍美照
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_830861404e997a67dbdccf0fdea30853.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如Jimbaran、Kuta、Legian、Seminyak、Canggu、Uluwatu、Nusa Dua和Sanur，您便能轻松享受到好多种造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多种造型的大型浮床所带来的乐趣。
 
 这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 
@@ -402,7 +403,7 @@ https://www.instagram.com/reel/DZcE7QqTy1z/?utm_source=ig_web_copy_link&stkn=MzR
 
 ## 乌鲁瓦图攻略地图
 
-![烏魯瓦圖攻略地圖](https://images.gobaligo.id/vocus/vocus_e323fdfd98f3d0a3a7db516860026e01.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&ehbc=2E312F" width="640" height="480"></iframe>
 
 为了让大家更了解以上介绍的这些景点位置，我们特地准备了一份「[乌鲁瓦图攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1caV88xn9M89ulNo9cVhNF6dyakGSo0g&usp=sharing)」标示了所有景点的相关位置。如果想去乌鲁瓦图旅游或探险的朋友，别忘了保存下来喔！
 
