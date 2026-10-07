@@ -5,8 +5,6 @@ import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import { areaMaps, thematicMaps } from '../../data/maps';
 
-const title = '峇里島攻略地圖｜27 張互動地圖一次看 | Go Bali Go';
-const description = '峇里島 13 大分區攻略 + 14 張主題地圖，換匯所、ATM、醫院、住宿、美食全覆蓋，手機最佳化，自由行規劃必備工具。';
 const lang = 'zh-tw';
 
 const areaLinkOverrides: Record<string, string> = {
@@ -19,6 +17,13 @@ const extraThematicLinks = [
   { href: '/blog/seminyak-work-cafe/', emoji: '☕', name: '水明漾適合工作咖啡廳', description: '網速穩、插座多、冷氣舒適，水明漾數位游牧與遠端工作者的咖啡廳推薦' },
   { href: '/blog/sanur-work-cafe/', emoji: '💻', name: '沙努爾適合工作咖啡廳', description: '悠閒氛圍、環境安靜，沙努爾適合久坐辦公的咖啡廳推薦' },
 ];
+
+// 主題地圖 = 資料檔主題地圖 + 寫死的 Gojek 費用查詢 + 額外連結
+const thematicCount = thematicMaps.length + 1 + extraThematicLinks.length;
+const totalCount = areaMaps.length + thematicCount;
+
+const title = `峇里島攻略地圖｜${totalCount} 張互動地圖一次看 | Go Bali Go`;
+const description = `峇里島 ${areaMaps.length} 大分區攻略 + ${thematicCount} 張主題地圖，換匯所、ATM、醫院、住宿、美食全覆蓋，手機最佳化，自由行規劃必備工具。`;
 
 const siteUrl = 'https://gobaligo.id';
 const indexSchema = {
