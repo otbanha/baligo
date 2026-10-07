@@ -9,6 +9,12 @@ const title = '峇里島攻略地圖｜27 張互動地圖一次看 | Go Bali Go'
 const description = '峇里島 13 大分區攻略 + 14 張主題地圖，換匯所、ATM、醫院、住宿、美食全覆蓋，手機最佳化，自由行規劃必備工具。';
 const lang = 'zh-tw';
 
+const areaLinkOverrides: Record<string, string> = {
+  uluwatu: '/blog/uluwatu-guide/',
+  seminyak: '/blog/seminyak-guide/',
+  sanur: '/blog/sanur-guide/',
+};
+
 const siteUrl = 'https://gobaligo.id';
 const indexSchema = {
   "@context": "https://schema.org",
@@ -214,7 +220,7 @@ const indexSchema = {
 
   <div class="map-grid">
     {areaMaps.map(area => (
-      <a href={`/map/${area.slug}/`} class="map-card">
+      <a href={areaLinkOverrides[area.slug] ?? `/map/${area.slug}/`} class="map-card">
         <span class="emoji">{area.emoji}</span>
         <span class="name">{area.name}</span>
         <span class="desc">{area.description}</span>
