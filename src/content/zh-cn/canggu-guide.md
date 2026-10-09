@@ -28,8 +28,8 @@ sourceUrl: ''
 contentUpdatedAt: '2026-10-07T16:02:02+08:00'
 updatedDate: 2026-10-07T00:00:00.000Z
 lang: zh-cn
-_srcHash: PENDING_RETRY_a365d189ac28f9351bc6ae0f426dfb0b
-_translateAttempts: 2
+_srcHash: a365d189ac28f9351bc6ae0f426dfb0b
+_translateIncomplete: true
 ---
 
 # 巴厘岛Canggu坎古旅游攻略
@@ -38,7 +38,7 @@ _translateAttempts: 2
 
 巴厘岛Canggu是现在巴厘岛最热门的区域，没有之一！这个迷人的地方吸引着无数的游客，不论是想要沉浸在美丽的海滩风光中，还是寻找时尚的咖啡厅和餐厅，Canggu都能够满足各种不同的旅行爱好者。
 
-以下我们为您介绍100个坎古景点，是您在坎古不能错过的必访清单，一探这片潮流与传统共存的宝地。底下有我们准备的攻略地图和详细说明，包含超过30多个坎古美食推荐、3家新开张的海滩俱乐部、3个亲子乐园、超多必访景点... 总共有100个景点收集，是您成为巴厘岛旅游专家的唯一攻略！
+以下我们为您介绍100个坎古景点，是您在坎古不能错过的必访清单，一探这片潮流与传统共存的宝地。底下有我们准备的攻略地图和详细说明，包含超过30多个坎古美食推荐、3家新开幕的海滩俱乐部、3个亲子乐园、超多必访景点... 总共有100个景点收集，是您成为巴厘岛旅游专家的唯一攻略！
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&ehbc=2E312F" width="640" height="480"></iframe>
 
@@ -98,7 +98,7 @@ _translateAttempts: 2
 
 ### **La Brisa的Sunday Market（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
 
-__VID0__
+https://youtube.com/shorts/f0N6FE2dxys
 
 La Brisa是坎古地区一家享有盛誉的海滩俱乐部，而他们的Sunday Market更是每周一次激动人心的活动。在这个市集上，您将有机会发现当地艺术家的手工艺品、独特的手工制品以及当地新鲜食材。这不仅是一个品味当地特色的好地方，还是与当地人/外国人互动、感受他们热情的场合。
 
@@ -118,15 +118,15 @@ Samadi Sunday Market 是一个购买当地产品和支持当地企业的好地�
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1790409098689-tropicallife.jpeg)
 
-Tropicalife Canggu（又称Tropicalife Bazaar）位于坎古的热闹街区，是一个充满海岛风情的露天创意市集与文创空间。这里汇集了当地特色的独立品牌、精美手工艺品、海岛风格服饰以及各式美味小吃。它完美展现了巴厘岛蓬勃的在地手作与社群活力，是旅客寻找独特纪念品、感受悠闲度假氛围的绝佳去处。
+Tropicalife Canggu（又称Tropicalife Bazaar）位于坎古的热闹街区，是一个充满海岛风情的露天创意市集与文创空间。   这里汇集了当地特色的独立品牌、精美手工艺品、海岛风格服饰以及各式美味小吃。它完美展现了巴厘岛蓬勃的在地手作与社群活力，是旅客寻找独特纪念品、感受悠闲度假氛围的绝佳去处。
 
 ### Lestari Thrift Shop Canggu（👉🏼地图：[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1790409538207-lestari_thrift_shop_canggu.jpg)
 
-Lestari Thrift Shop 是一间结合二手服饰淘宝与休闲咖啡厅的热门复合式空间。
+Lestari Thrift Shop 是一间结合二手服饰挖宝与休闲咖啡厅的热门复合式空间。
 
-该店为两层独栋建筑，内部空间宽敞明亮且充满文艺氛围。一楼设有舒适的咖啡区，供顾客品尝咖啡与轻食；二楼则为服饰区，整齐陈列着琳琅满目的男女二手衣物、特色包款及饰品配件。不同于传统拥挤的旧衣仓库，这里逛起来相当舒适，是游客在巴厘岛体验可持续时尚、寻找复古单品及拍照打卡的绝佳去处。
+该店为两层楼独栋建筑，内部空间宽敞明亮且充满文艺氛围。一楼设有舒适的咖啡区，供顾客品尝咖啡与轻食；二楼则为服饰区，整齐陈列着琳琅满目的男女二手衣物、特色包款及饰品配件。不同于传统拥挤的旧衣仓库，这里逛起来相当舒适，是游客在巴厘岛体验可持续时尚、寻找复古单品及拍照打卡的绝佳去处。
 
 ## **参加瑜伽课程**
 
@@ -150,15 +150,15 @@ Lestari Thrift Shop 是一间结合二手服饰淘宝与休闲咖啡厅的热门
 
 > [烹饪课程文化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
 
-[Blou Cafe Canggu 餐饮和烹饪课程体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D23c16646d2)
+> [Blou Cafe Canggu 餐饮和烹饪课程体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D23c16646d2)||### 各种体验课程的乐趣||> [陶艺/绘画工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144332-pottery-or-painting-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc0c0aa776c)||> [蜡烛制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144526-candle-making-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0cee806a03)||> [调制香水精油工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144531-perfumery-body-oil-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2926bb5447)||> [银饰制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D914d183a6a)||## **文化盛宴的用餐体验**||在坎古品尝美食不仅仅是味蕾的享受，还包含著文化和艺术的盛宴。有些餐厅提供文化表演，如巴厘岛舞蹈和音乐，为用餐体验增添了独特的风采。||> [Canggu文化盛宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)||## 参观海神庙（👉🏼地图：[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
 
 ### 各种体验课程的乐趣
 
 > [陶藝/繪畫工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144332-pottery-or-painting-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc0c0aa776c)
 
-[蜡烛制作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144526-candle-making-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0cee806a03)
+> [蠟燭製作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144526-candle-making-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0cee806a03)
 
-> [调制香水精油工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144531-perfumery-body-oil-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2926bb5447)
+> [調製香水精油工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144531-perfumery-body-oil-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2926bb5447)
 
 > [銀飾製作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D914d183a6a)
 
@@ -166,7 +166,7 @@ Lestari Thrift Shop 是一间结合二手服饰淘宝与休闲咖啡厅的热门
 
 ![文化饗宴的用餐體驗](https://images.gobaligo.id/vocus/vocus_2c2ca051f028f10fefdad167d643fb3e.jpg)
 
-在坎古品尝美食不仅仅是味蕾的享受，还包含着文化和艺术的盛宴。有些餐厅提供文化表演，如巴厘岛舞蹈和音乐，为用餐体验增添了独特的风采。
+在坎古品尝美食不仅仅是味蕾的享受，还包含著文化和艺术的盛宴。有些餐厅提供文化表演，如巴厘岛舞蹈和音乐，为用餐体验增添了独特的风采。
 
 > [Canggu文化饗宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)
 
@@ -206,7 +206,7 @@ Lestari Thrift Shop 是一间结合二手服饰淘宝与休闲咖啡厅的热门
 
 ![咖啡廳美食探險之旅（地圖：長谷飲食/咖啡廳推薦Canggu Cafe & Restaurants）](https://images.gobaligo.id/vocus/vocus_fb14d08a33d5af623ce7a1edbcc7d450.jpg)
 
-坎古以其独特的咖啡文化而闻名，这里拥有各种风格各异的咖啡店。从古老的传统风格到现代潮流，您可以进行一场巴厘岛的咖啡店探险之旅，品味到丰富多样的咖啡口味和美食选项。
+坎古以其独特的咖啡文化而闻名，这里拥有各种风格各异的咖啡店。从古老的传统风格到现代潮流，您可以进行一场巴厘岛的咖啡店探险之旅，品尝到丰富多样的咖啡口味和美食选项。
 
 ![Canggu 攻略地圖](https://images.gobaligo.id/vocus/vocus_bf1ab12e7f5b71849c2a0a8aefd2a3ef.png)
 
@@ -282,7 +282,7 @@ Canggu 攻略地图
 
 ![](https://images.gobaligo.id/images/2026-07/1785395370014-banner.png)
 
-「Wellness Travel（健康旅游）」逐渐成为新的旅游趋势。位于坎古Berawa 海滩附近的 **Holywings Wellness Club**，正是近期最受瞩目的新景点之一。它由打造亚洲知名 **Atlas Beach Club** 的 **HW Group（Holywings Group）** 推出，将健身、恢复与社交三大元素结合，打造一站式的健康生活空间。馆内除了配备高规格健身房外，还提供HYROX训练、Hot Yoga、Hot Pilates、拳击课程，以及近年相当热门的冰浴（Ice Bath）、冷水池、芬兰桑拿与SPA等恢复设施，让旅客能在运动后彻底放松身心。无论是长住巴厘岛的数码游牧族、健身爱好者，还是希望在旅行中维持健康生活步调的游客，都能在这里找到适合自己的体验。如果你的行程安排在坎古或水明漾一带，不妨将 Holywings Wellness Club 纳入行程，感受巴厘岛结合运动、疗愈与度假的全新魅力。
+「Wellness Travel（健康旅游）」逐渐成为新的旅游趋势。位于坎古Berawa 海滩附近的 **Holywings Wellness Club**，正是近期最受瞩目的新景点之一。它由打造亚洲知名 **Atlas Beach Club** 的 **HW Group（Holywings Group）** 推出，将健身、恢复与社交三大元素结合，打造一站式的健康生活空间。馆内除了配备高规格健身房外，还提供 HYROX 训练、Hot Yoga、Hot Pilates、拳击课程，以及近年相当热门的冰浴（Ice Bath）、冷水池、芬兰桑拿与 SPA 等恢复设施，让旅客能在运动后彻底放松身心。无论是长住巴厘岛的数码游牧族、健身爱好者，还是希望在旅行中维持健康生活步调的游客，都能在这里找到适合自己的体验。如果你的行程安排在坎古或水明漾一带，不妨将 Holywings Wellness Club 纳入行程，感受巴厘岛结合运动、疗愈与度假的全新魅力。
 
 详细介绍看[这里](https://gobaligo.id/zh-cn/blog/holywings-wellness-club-bali/)。
 
@@ -314,7 +314,7 @@ Mai Main (发音为：my ma-in 麦马印) 是坎古的一个儿童游乐场，�
 
 ![3.Magic Garden](https://images.gobaligo.id/vocus/vocus_c8bbf58bba752051e9dd287f40fdb9e5.jpg)
 
-位于海神庙附近的 **Magic Garden（魔法花园）** 是2024/11新开幕的自然公园，非常适合家庭与亲子游。这座占地3600平方米的景点拥有丰富的植物和多样的互动体验，既有教育意义又充满乐趣。
+位于海神庙附近的的 **Magic Garden（魔法花园）** 是2024/11新开幕的自然公园，非常适合家庭与亲子游。这座占地3600平方米的景点拥有丰富的植物和多样的互动体验，既有教育意义又充满乐趣。
 
 园区内的亮点包括 **兰花园** 和 **蝴蝶园**，孩子们可以近距离观察蝴蝶的生态，学习它们在维护自然平衡中的重要性。另外，园内还设有 **植物博物馆**，展示400多种珍稀植物和500种兰花，让孩子们在游玩的同时了解自然与保育的知识。
 
@@ -338,7 +338,7 @@ Aurora Park不仅是夜间游览的景点，更是一个结合艺术、自然与
 
 如果你正在寻找一个适合全家出游的巴厘岛景点，位于坎古的 **Pacha Alpaca 羊驼互动体验** 绝对是理想选择！这里不仅能让孩子们与温驯可爱的羊驼近距离接触，还能通过导览和工作人员的讲解，学习到关于羊驼的知识，是一场充满教育意义的自然之旅。家长可以和孩子一起喂食、抚摸羊驼，甚至参与野餐或摄影活动，创造难忘的亲子回忆。
 
-Pacha Alpaca 提供多种套票选择，包括导览互动、羊驼摄影、野餐体验以及竹屋住宿，满足不同家庭的需求。无论是想要放松身心，还是让孩子们在大自然中尽情探索，这里都能为全家带来一场治愈而欢乐的冒险。快来预订你的专属体验，与羊驼共度一段美好时光吧！详细介绍&官网预订链接请看[这里](/zh-cn/blog/pacha-alpaca-family-canggu/)。
+Pacha Alpaca 提供多种套票选择，包括导览互动、羊驼摄影、野餐体验以及竹屋住宿，满足不同家庭的需求。无论是想要放松身心，还是让孩子们在大自然中尽情探索，这里都能为全家带来一场疗愈而欢乐的冒险。快来预订你的专属体验，与羊驼共度一段美好时光吧！详细介绍&官网预订链接请看[这里](/zh-cn/blog/pacha-alpaca-family-canggu/)。
 
 ## 新开幕的海滩/泳池俱乐部（👉🏼地图：[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
 
@@ -376,7 +376,7 @@ Le Bajo 是一家全新开业的日间俱乐部，拥有独特的Labuan Bajo主�
 
 坎古北边的Nuanu Creative City是一个融合创意、文化、艺术、环保、自然等元素的新兴园区。
 
-这里除了有2024开业最新的高档海滩俱乐部，还有许多家庭/亲子景点、科技+传统魔幻的大型表演。请继续观看Nuanu Creative City攻略在[这里](/zh-cn/blog/nuanu-creative-city-luna-guide/)
+这里除了有2024年开业最新的高档海滩俱乐部，还有许多家庭/亲子景点、科技+传统魔幻的大型表演。请继续观看Nuanu Creative City攻略在[这里](/zh-cn/blog/nuanu-creative-city-luna-guide/)
 
 ## **享受豪华波西米亚风格的酒店**
 
@@ -384,7 +384,7 @@ Le Bajo 是一家全新开业的日间俱乐部，拥有独特的Labuan Bajo主�
 
 坎古地区的酒店种类繁多，其中以波西米亚风格的酒店最为独特。这些酒店以其独特的设计、精致的装饰和放松的氛围而闻名，为您提供别开生面的住宿体验。无论是怀旧风情还是现代时尚，您都能找到符合心意的波西米亚风格酒店。请看我们的「[坎古你不能错过的住宿推荐](/zh-cn/blog/canggu-top-hotels-guide/)」
 
-如果你偏好villa，这一篇可不要错过「[坎古区私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)」
+如果你偏好别墅，这一篇可不要错过「[坎古区私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/zh-cn/blog/canggu-villas-guide/)」
 
 {{block:住宿}}
 
