@@ -1,5 +1,5 @@
 ---
-title: 【独旅艳遇！？】巴厘岛乌布+努沙杜瓦游记｜火山日出、Alas Harum、Finns 一次玩
+title: 【独旅艳遇！？】巴厘岛乌布＋努沙杜瓦游记｜火山日出、Alas Harum、Finns 一次玩
 slug: bali-ubud-nusa-dua-uluwatu-travelogue
 description: >-
   凌晨3点搭吉普车追巴杜尔火山日出，一路玩到乌布梯田、Alas Harum、Cretya Ubud，再到努沙杜瓦 Pandawa
@@ -35,8 +35,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: PENDING_RETRY_a63533d2380ae5b2d179a1ba02555e97
-_translateAttempts: 1
+_srcHash: a63533d2380ae5b2d179a1ba02555e97
 ---
 
 > 以下改编自团友 [陈晨曦](https://www.facebook.com/share/p/1HgQ2iv9vh/) 独旅游记
@@ -57,27 +56,27 @@ https://youtu.be/T-4sinPmSV8
 
 天还黑漆漆的，我先被载到一间休息室等日出，现在什么都看不到，就点了杯热巧克力，一杯20,000 IDR。
 
-**作者实测小提醒**：建议租借毛毯，一条 50K 印尼盾。半夜山上非常冷，只穿薄外套完全不够。
+这趟最让我意外的，是吉普车司机大哥的摄影功力。眼前一片漆黑，我本来觉得什么都拍不到，结果他拿着手机在我面前手动绕圈打光，我到现在还是不知道他怎么做到的，但成品看起来意外的厉害，技巧真是精湛。
+
+然后，太阳出来了，好漂亮！
+
+> 参加 [巴杜尔火山日出吉普车之旅](https://mn-tz.com/re?campaign_id=137&marker=654252&p=4110&trs=519937&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3FclickId%3Dfeaa0638d7%26needQueryIdentification%3Dtrue%26query%3D%25E5%25B7%25B4%25E6%259D%259C%25E7%2588%25BE%25E7%2581%25AB%25E5%25B1%25B1%25E5%2590%2589%25E6%2599%25AE%25E8%25BB%258A%26spm%3DTNA_ActivityList.SearchSuggest_LIST&product_type=linkswitcher&journey_id=R3tukFBDmArm5ziUK4MJY&trace_id=Zz1d43521213b64b549b2e3c7-654252&promo_kind=tp_other&page_url=https%3A%2F%2Fgobaligo.id%2Fblog%2Fbatur-volcano-jeep-sunrise-tour%2F&install_type=partner)
+
+> **作者实测小提醒**：建议租借毛毯，一条50K印尼盾。半夜山上非常冷，只穿薄外套完全不够。
 
 > 快速参考：[【巴厘岛日出攻略】巴杜尔火山吉普车之旅：黑熔岩探险、云海奇景与最美摄影取景点](https://gobaligo.id/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
 
-> 參加 [巴杜爾火山日出吉普車之旅](https://mn-tz.com/re?campaign_id=137&marker=654252&p=4110&trs=519937&u=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3FclickId%3Dfeaa0638d7%26needQueryIdentification%3Dtrue%26query%3D%25E5%25B7%25B4%25E6%259D%259C%25E7%2588%25BE%25E7%2581%25AB%25E5%25B1%25B1%25E5%2590%2589%25E6%2599%25AE%25E8%25BB%258A%26spm%3DTNA_ActivityList.SearchSuggest_LIST&product_type=linkswitcher&journey_id=R3tukFBDmArm5ziUK4MJY&trace_id=Zz1d43521213b64b549b2e3c7-654252&promo_kind=tp_other&page_url=https%3A%2F%2Fgobaligo.id%2Fblog%2Fbatur-volcano-jeep-sunrise-tour%2F&install_type=partner)
-
-（照片：陈晨曦提供）
-
-> 快速参考：[【巴厘岛日出攻略】巴杜尔火山吉普车之旅：黑熔岩探险、云海奇景与最美摄影取景点](https://gobaligo.id/zh-cn/blog/batur-volcano-jeep-sunrise-tour/)
-
-大哥会跟我分享这里的历史故事，用英文解说：熔岩流下来，之后变硬，就变成像石头一样的东西。不过说真的，这里没什么特别的，就是很多火山岩。
+## 黑熔岩、火山咖啡厅，还有仙女餐厅
 
 ![raw-image](https://images.gobaligo.id/images/2026-10/1791383961624-mixcollage-07-oct-2026-09-26-pm-1834.jpg)
 
-接着来到一间叫 **Amora** 的咖啡厅，可以直接欣赏火山，景色超级壮观，这景观真的超厉害。
+（照片：陈晨曦提供）
 
 看完日出，吉普车一路晃到下一站「黑熔岩」，路还是一样的晃。
 
 大哥会跟我分享这里的历史故事，用英文解说：熔岩流下来，之后变硬，就变成像石头一样的东西。不过说真的，这里没什么特别的，就是很多火山岩。
 
-接着来到一家叫 **Amora** 的咖啡厅，可以直接欣赏火山，景色超级壮观，这景观真的超厉害。
+接着来到一间叫 **Amora** 的咖啡厅，可以直接欣赏火山，景色超级壮观，这景观真的超厉害。
 
 再来是一间装置艺术超级厉害的餐厅，也就是 **Taman Dedari（仙女餐厅）**。这里有壮观的仙女造景，附近全是绿色植栽，漂亮。
 
@@ -103,9 +102,9 @@ https://youtu.be/T-4sinPmSV8
 
 哇，超嫩！完全不同的风格，这家偏软烂一点。后来我看了一下，它好像是**巴厘岛风味炖鸡**，不算是脏鸭饭。
 
-配菜这次是长豆，不是我喜欢的。这家最大的缺点，应该是因为在户外，很多苍蝇飞来飞去。不过它的造景是目前所有餐厅里最漂亮的。比起来，口味还是第一家比较惊艳，这家稍微普通点，但就景观餐厅来说，还不错。
+配菜这次是长豆，不是我喜欢的。这家最大的缺点，应该是因为在户外，蛮多苍蝇飞来飞去。不过它的造景是目前所有餐厅里最漂亮的。比较起来，口味还是第一家比较惊艳，这家稍微普通点，但就景观餐厅来说，还不错。
 
-## Alas Harum：梯田、猫屎咖啡和一瞬间结束的高空滑索
+## Alas Harum：梯田、猫屎咖啡和一瞬間结束的高空滑索
 
 接着来到超红的 **Alas Harum**。进门之前要先过安检，而且**不能带水**，水要留在柜台前面。
 
@@ -119,35 +118,35 @@ https://youtu.be/T-4sinPmSV8
 
 工作人员讲解制作过程：
 
-- 豆子烘焙约 45 分钟到 1 小时，边烘边搅拌，直到变色、香气出来
-- 使用传统方式研磨成咖啡粉，大约 20 到 30 分钟，磨到粉末变细致
-- __VID0__
+- 豆子烘焙约45分钟到1小时，边烘边搅拌，直到变色、香气出来
+- 使用传统方式研磨成咖啡粉，大约20到30分钟，磨到粉末变细致
+- 我也体验了研磨咖啡
 
-__VID1__
+这个简短的咖啡之旅，蛮酷的。
 
-这里人潮众多，入内不能带水。秋千的排队人潮非常夸张，其他设施（像高空滑索等）完全不用等，建议提早抵达。
+## Alas Harum 商业化与兑换票券的小心得
 
 ![raw-image](https://images.gobaligo.id/images/2026-10/1791384122738-alas1.jpg)
+
+（照片：陈晨曦提供）
+
+不过这里有点过于商业化，每个设施都要领号码牌、等待。
+
+我分享一个独旅踩雷经验：**网络订票的话，其实可以直接走下去兑换**。我刚才还以为要去购票所兑换，结果兑换处在更下面一点的地方，白白浪费时间排队。拿到号码牌后速度蛮慢的，没有到很刺激。
+
+> **作者附注**：这里人潮众多，入内不能带水。秋千的排队人潮非常夸张，其他设施（像高空滑索等）完全不用等，建议提早抵达。
 
 高空滑索呢？一个瞬间就结束了，转瞬即逝。
 
 ## Cretya Ubud：梯田背景的三层泳池
 
-（照片：陈晨曦提供）
-
-翻譯1
-
-高空滑索呢？一瞬间就结束了，转瞬即逝。
-
-## Cretya Ubud：梯田背景的三层泳池
-
 ![raw-image](https://images.gobaligo.id/images/2026-10/1791384158740-mixcollage-07-oct-2026-09-24-pm-1702.jpg)
 
-translations
+（照片：陈晨曦提供）
 
 园区内有各式各样的造景，基础设备大多集中在中间：厕所、更衣室、淋浴间、储物柜等。储物柜和毛巾需要额外租借。
 
-我放好东西，先往下去。**Cretya Ubud** 是 Alas Harum 内部的泳池俱乐部，门票可兑换一杯饮料。
+我放好东西，先往下层去。**Cretya Ubud** 是 Alas Harum 内部的泳池俱乐部，门票可兑换一杯饮料。
 
 - 一共有**三层泳池**
 - 圆形的是**热 Spa**
@@ -164,24 +163,24 @@ Alas Harum 旁边有一间叫 **Teba Sari** 的餐厅。我今天点的是巴厘
 
 {{block:ubud}}
 
-一个人去巴厘岛，可以吗？
+## 一个人搭Grab：司机跟疯狗一样
 
-当然可以！
+吃完饭，我从乌布搭Grab前往水明漾的Bintang超级市场。这次遇到的司机跟疯狗一样，一路狂飙、疯狂超车，竟然还有空档一直跟我聊天，超级厉害。
 
-这次我独自去了巴厘岛，待了5天4夜，全程都住在坎古。
+所以我想分享给想独旅的人：如果情况允许，其实可以搭 **Grab摩托车**，比较便宜，没有太多行李的话很方便。但有些司机真的会一路狂冲，很可怕，要自己能接受才行。
 
-我去了水明漾、坎古和乌布。
+## 超市、Bintang和140,000印尼盾的足底按摩
 
-这次旅行，我总共花了大约USD$1,000。
+超市逛起来很有趣，应有尽有，什么都买得到。
 
-- 其中，机票USD$300，住宿USD$200，吃饭USD$200，交通USD$100，购物USD$200。
-- 我坐的是亚航，从台北出发，在吉隆坡转机。
+- **巧克力**：听说很好吃，我看到的是比利时巧克力。巴厘岛会产可可豆，所以巴厘岛巧克力也很有名，可以尝试看看
+- **Bintang啤酒**：听说来巴厘岛必喝，大家好像都推荐柠檬口味
 
-> 快速參考：[【網友推薦】六大種類，超過30項必買推薦、峇里島伴手禮推薦指南：留住珍貴回憶的絕佳選擇](https://gobaligo.id/zh-cn/blog/bali-souvenirs-gift-guide/)
+> 快速参考：[【网友推荐】六大种类，超过30项必买推荐、巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/zh-cn/blog/bali-souvenirs-gift-guide/)
 
-我住在坎古的一家旅馆，4晚总共USD$200。
+接着，我去体验Threads网友推荐的平价足底按摩。60分钟的足底按摩只要 **140,000印尼盾**，真的有够便宜。
 
-旅馆有游泳池，还有免费早餐。
+不过服务和环境都蛮普通的：这是我第一次看到洗脚只用清水冲一下就结束，也没有额外的茶或点心，就是单纯的按摩。但店里满满都是人，大家都想来，可能就是因为真的很划算。
 
 ![raw-image](https://images.gobaligo.id/images/2026-10/1791384196406-massage.jpeg)
 
@@ -193,8 +192,8 @@ Alas Harum 旁边有一间叫 **Teba Sari** 的餐厅。我今天点的是巴厘
 
 接着前往最南部的 **努沙杜瓦**。早上，我来到了 **潘达瓦海滩**。
 
-- 入场券：**30,000 印尼盾**
-- 搭接驳车去悬崖公路：**30,000 印尼盾**
+- 入场券：**30,000 IDR**
+- 搭接驳车去悬崖公路：**30,000 IDR**
 
 沿途山壁超美，接驳车大约3分钟就到，超快。是因为前面人太多，才害我等很久。回程不一定要搭接驳车，也可以自己走下去，大约15分钟。
 
@@ -226,7 +225,7 @@ Alas Harum 旁边有一间叫 **Teba Sari** 的餐厅。我今天点的是巴厘
 
 https://youtube.com/shorts/eCTaZX10U7Y?feature=share
 
-接着是滑翔伞。工作人员让我一次带两支相机：他的 GoPro，加上我自己的 360 相机，一次左右开弓。
+接着是飞行伞。工作人员让我一次带两支相机：他的 GoPro，加上我自己的 360 相机，一次左右开弓。
 
 我选择只飞 **10 分钟**，一个速度就结束，俯瞰印度洋，超级美。
 
@@ -236,7 +235,7 @@ https://youtube.com/shorts/eCTaZX10U7Y?feature=share
 
 （照片：陈晨曦提供）
 
-> **作者附注**：只要 32 美元出头就能体验的滑翔伞，10 分钟的体验非常值得。但附赠的 GoPro 摄影只能拍到自己，我是自己携带全景相机，才能同时拍到印度洋的美景。
+> **作者附注**：只要 32美元出头就能体验的滑翔伞，10分钟的体验非常值得。但附赠的GoPro摄影只能拍到自己，我是自己携带全景相机，才能同时拍到印度洋的美景。
 
 > 快速参考：[【巴厘岛滑翔翼体验】在乌鲁瓦图飞翔！超美海景+注意事项分享](https://gobaligo.id/zh-cn/blog/uluwatu-paragliding-ocean-view/)
 
@@ -253,14 +252,14 @@ https://youtube.com/shorts/eCTaZX10U7Y?feature=share
 
 最后来到 **FINNS**。这里其实可以免费进场，但我不想排队，所以买了快速入场。我刚才去看了一般入口，现在人超多。
 
-**入场须知：**
+**进场须知：**
 
-- 入场需先安检，专业相机设备和水都不允许带入
-- 有歌手驻唱的用餐区有免费座位，现场有许多表演人员
-- 工作人员会引导去柜台，消费是用号码牌扣款
+- 进来要先安检，专业相机设备和水都不允许带入
+- 有歌手的用餐区有免费座位，现场有许多表演人员
+- 工作人员会带路去柜台，消费是用号码牌扣款
 - 快速通关包含 **240,000 IDR** 的点数折抵，另外还有储物柜和毛巾
 
-白天的 FINNS 比较休闲，但到了晚上，就会特别不一样……
+白天的 FINNS 比较休闲，但是等到晚上，就会特别不一样……
 
 "Welcome to the world's best beach club!"
 
@@ -274,18 +273,18 @@ https://youtube.com/shorts/eCTaZX10U7Y?feature=share
 
 {{block:canggu}}
 
-__VID0__ 看完整视频 __VID1__ 下集预告 __VID2__ 佩妮妲岛（Nusa Penida） 沉浸于乌布 的魔幻灯光秀 最后打卡 网红咖啡厅 推荐
+## 看完整视频
 
-翻譯1
+https://youtu.be/PM84T92VEqw?si=go6UrhKFavA6Wei-
 
-translations
+## 下集预告：佩妮达岛
 
-translations
+下一集，我即将登陆 **佩妮达岛（Nusa Penida）**，解锁 iPhone 壁纸的取景地：
 
-- translations
-- 翻譯1
-- translations
-- 翻譯1
+- 精灵坠崖
+- 绝美的破碎沙滩
+- 天神浴池
+- 入夜后沉浸在 Nuanu 的魔幻灯光秀
 - 最后打卡网红咖啡厅 GiGiSuSu
 
 ## 包车司机推荐
@@ -297,7 +296,7 @@ translations
 
 ***
 
-**路线一览**：巴杜尔火山日出 → 黑熔岩 → Amora → Taman Dedari → Alas Harum → Cretya Ubud → Teba Sari → 超市＋足底按摩 → Pandawa 海滩 → CANNA → Rung Paragliding → FINNS
+**路线一览**：巴杜尔火山日出 → 黑熔岩 → Amora → Taman Dedari → Alas Harum → Cretya Ubud → Teba Sari → 超市＋足底按摩 → Pandawa 海滩 → CANNA → Riug Paragliding → FINNS
 
 {{block:遊記}}
 
