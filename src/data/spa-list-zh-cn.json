@@ -99,6 +99,15 @@
           "kkday": "",
           "trip": ""
         }
+      },
+      {
+        "name": "Desa Spa at Desa Potato Head",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F235589-spa-experience-at-desa-potato-head-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da1b9cd6db8",
+          "kkday": "",
+          "trip": ""
+        }
       }
     ]
   },
@@ -158,6 +167,60 @@
           "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153161-heavenly-spa-at-the-westin-ubud%2F",
           "kkday": "https://www.kkday.com/zh-tw/product/259262?cid=25072",
           "trip": "https://tw.trip.com/things-to-do/detail/85420804?language=TW&locale=zh_tw&ext-searchpage=1&ext-mixlist=activity_main&ext-hasFilter=2&lasttraceid=253b07e5-603f-5d9d-f221-177889951056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        }
+      },
+      {
+        "name": "Chaya Spa at Kamandalu Ubud",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1383343&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F210138-relaxing-balinese-spa-by-chaya-spa-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D66f22be5b6",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Hammana Spa floating sound healing",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F241386-floating-sound-healing-experience-at-hammana-spa-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df7a4aea0d2",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Svaha Spa Kenderan Floating Sound Bath",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F241390-floating-sound-bath-experience-at-svaha-spa-kenderan-ubud%2F%3Fspm%3DLanguageCurrencySelectionPopup.SuggestLanguage_LIST%26clickId%3D1608498dda",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Aranya Spa at Anumana De Suite Ubud",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F212850-aranya-spa-at-anumana-de-suite-ubud%2F%3Fspm%3DLanguageCurrencySelectionPopup.SuggestLanguage_LIST%26clickId%3D53148cda9b",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Tejas Spa Experience at Adiwana Alas Harum",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F212437-tejas-spa-alas-harum%2F%3Fspm%3DLanguageCurrencySelectionPopup.SuggestLanguage_LIST%26clickId%3Da1983d9210",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Jaens Spa Bisma",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F238587-jaens-spa-bisma-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2e102f49d1",
+          "kkday": "",
+          "trip": ""
         }
       }
     ]
@@ -475,6 +538,15 @@
           "trip": "https://tw.trip.com/things-to-do/detail/56375205?language=TW&locale=zh_tw&ext-searchpage=1&lasttraceid=3b2aec55-a99f-d7f7-4262-17788922f736&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
         },
         "description": "2022年环球小姐指定水疗中心"
+      },
+      {
+        "name": "Tara Spa & Wellness Ubud",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1383343&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F219310-bali-spa-treatment-at-tara-spa-wellness-ubud%2F%3Fspm%3DLanguageCurrencySelectionPopup.SuggestLanguage_LIST%26clickId%3Dfafe3b09ee",
+          "kkday": "",
+          "trip": ""
+        }
       }
     ]
   },
