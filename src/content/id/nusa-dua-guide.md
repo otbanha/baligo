@@ -1,17 +1,17 @@
 ---
 title: >-
-  【Panduan Nusa Dua】Peta Liburan Mandiri Ultimate Nusa Dua/Tanjung Benoa: 40+
-  Resort Mewah, Tips Anti-Rip-Off Aktivitas Air, Panduan Kuliner Top & Rute
-  Anti-Gagal
+  【Nusa Dua攻略】Nusa Dua / Tanjung Benoa Panduan Liburan Mandiri Terlengkap: 40+
+  Resor Mewah, Tips Hindari Tipuan Aktivitas Air, Panduan Kuliner Terbaik & Rute
+  Perjalanan Anti Boncos
 slug: nusa-dua-guide
 description: >-
-  Perpaduan Sempurna Kemewahan Ekstrem & Surga Air! Peta Liburan Mandiri Terkuat
-  Nusa Dua & Tanjung Benoa, Bali 2026. Satu artikel merangkum 40 proposal
-  kenikmatan kelas atas: intip langsung resort all-inclusive mewah Paradisus
-  yang baru, tips anti-rip-off parasailing & flying fish di Tanjung Benoa,
-  keajaiban ombak Water Blow yang memukau, wisata keluarga di Dolphin Park,
-  serta spa mewah dengan pemandangan laut tersembunyi. Bantu kamu merencanakan
-  liburan premium paling berkelas tanpa repot!
+  Perpaduan Sempurna Antara Kemewahan Ekstrem & Surga Air! Peta Liburan Mandiri
+  Terkuat Nusa Dua & Tanjung Benoa, Bali 2026. Satu artikel merangkum 40
+  proposal kenikmatan kelas atas: intip langsung resor all-inclusive mewah
+  Paradisus yang baru, tips hindari tipuan parasailing & flying fish di Tanjung
+  Benoa, keajaiban ombak raksasa Water Blow yang memukau, wisata keluarga di
+  Dolphin Park, serta spa mewah dengan pemandangan laut tersembunyi. Bawa kamu
+  merencanakan liburan premium paling berkelas tanpa repot!
 pubDate: 2024-01-25T00:00:00.000Z
 pubHour: null
 category:
@@ -34,59 +34,59 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65afb7bbfd897800017023b4'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-09-27T00:00:00.000Z
-updatedAt: '2026-09-27T22:06:13+08:00'
+contentUpdatedAt: '2026-10-11T14:31:56+08:00'
+updatedDate: 2026-10-11T00:00:00.000Z
 lang: id
-_srcHash: 93c1e7d287ffff1f47b16facd3fb0865
+_srcHash: 25bd76ea32b845bf739a99ad5d333576
 ---
 
-**Kesimpulan Awal**: Nusa Dua hanya butuh **30 menit** dari bandara lewat jalan tol berbayar, terkenal dengan deretan resort bintang lima. Artikel ini pilihkan **40+ tempat/aktivitas**, termasuk keajaiban ombak Water Blow, aktivitas air parasailing/flying fish di Tanjung Benoa (ingat tawar-menawar biar nggak kena tipu) dan Dolphin Park, cocok untuk itinerary mewah yang berpusat di resort.
+**Kesimpulan Awal**: Nusa Dua hanya butuh waktu sekitar **30 menit** dari bandara lewat jalan tol berbayar. Terkenal dengan deretan resor bintang lima, artikel ini pilihkan **40+ tempat/aktivitas**, termasuk keajaiban ombak Water Blow, aktivitas air parasailing/flying fish di Tanjung Benoa (perhatikan tawar-menawar hindari tipuan) dan Dolphin Park, cocok untuk merencanakan itinerary mewah kelas atas yang berpusat di resor.
 
 Nusa Dua adalah kawasan resor di selatan Bali, terkenal dengan deretan hotel/resor tepi pantai bintang lima yang mewah.
 
-![【努沙杜瓦攻略】Nusa Dua/南灣終極自由行攻略地圖：40+豪華度假村、水上活動防坑、頂級美食與避雷行程指南](https://images.gobaligo.id/vocus/vocus_45506b59e53f3929c79b4d1a511643fb.png)
-
-Nusa Dua terletak di pesisir timur Bali selatan, hanya 30 menit berkendara dari bandara lewat jalan tol berbayar. Nusa Dua punya pantai berpasir keemasan, air laut jernih, dan vegetasi tropis yang rimbun, tempat ideal buat menikmati sinar matahari, pasir, dan laut.
+Nusa Dua terletak di pesisir timur Bali selatan, hanya 30 menit berkendara dari bandara melalui jalan tol berbayar. Nusa Dua memiliki pantai berpasir keemasan, air laut jernih, dan vegetasi tropis yang rimbun, menjadikannya tempat ideal untuk menikmati sinar matahari, pasir, dan laut.
 
 https://youtu.be/zxDZJ93EqA4
 
-Kenalan Sama Nusa Dua dalam Dua Menit
+Kenali Nusa Dua dalam Dua Menit
 
-Nusa Dua juga terkenal sebagai destinasi liburan mewah di Bali. Sepanjang pesisir pantai, semuanya dipenuhi hotel/resor bintang lima besar, menawarkan berbagai pengalaman liburan mewah dan pengalaman bersantap unik bagi wisatawan.
+Pada saat yang sama, Nusa Dua juga merupakan destinasi liburan mewah terkenal di Bali. Di sepanjang kawasan tepi pantai, semuanya dipenuhi hotel/resor bintang lima besar, menawarkan berbagai pengalaman liburan mewah dan pengalaman bersantap unik bagi para wisatawan.
 
-Di bawah ini kita mulai dari perkenalan kuliner Nusa Dua:
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&ehbc=2E312F" width="640" height="480"></iframe>
+
+Berikutnya, kita mulai dari kuliner di Nusa Dua:
 
 ***
 
-## Kuliner Nusa Dua / Tanjung Benoa
+## Nusa Dua / Makanan di Teluk Selatan
 
 ![多加利用我們提供的優惠就可以在努沙杜瓦享受五星級美食！](https://images.gobaligo.id/vocus/vocus_fee0377dd4f03a20af7b48c903846011.png)
 
-Manfaatin diskon yang kami kasih, kamu bisa makan bintang lima di Nusa Dua!
+Manfaatin promo yang kami kasih, kamu bisa menikmati makanan bintang lima di Nusa Dua!
 
-Pemandangan kuliner Nusa Dua didominasi restoran mewah dan tempat makan di dalam resort, menawarkan petualangan gastronomi yang kaya.
+Pemandangan kuliner Nusa Dua didominasi restoran mewah dan tempat makan di dalam resor, bener-bener jadi pesta kuliner yang kaya banget.
 
-Restoran hotel bintang lima di sini terkenal dengan menu elegan dan suasana makan yang cantik, kasih pengalaman kuliner yang maksimal buat traveler. Dari cita rasa internasional sampai lokal, semua restoran menyajikan hidangan lezat dengan standar tertinggi.
+Restoran hotel bintang lima di sini terkenal dengan menu yang elegan dan suasana makan yang cantik, kasih pengalaman kuliner yang maksimal buat para traveler. Dari rasa internasional sampai khas lokal, semua restoran di sini menyajikan hidangan lezat dengan standar tertinggi.
 
-Meski kebanyakan restoran ada di resort bintang lima, tenang aja — kamu tetap bisa cobain kuliner premium Nusa Dua meski nggak nginep di resort mewah itu. Lewat diskon dan voucher yang kami sediakan, kamu bisa menikmati santapan eksklusif di restoran高档 ini tanpa perlu khawatir soal budget.
+Meskipun sebagian besar restoran ada di dalam resor bintang lima, tenang aja — meskipun kamu nggak nginep di resor mewah itu, kamu tetap bisa cobain kuliner terbaik Nusa Dua. Lewat diskon dan voucher yang kami sediakan, kamu bisa dengan mudah menikmati santapan eksklusif di restoran kelas atas ini tanpa perlu khawatir soal budget.
 
-### Piasan Restaurant （📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Piasan Restaurant (📌 [Lokasi di peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![Piasan Restaurant （ 位置地圖）](https://images.gobaligo.id/vocus/vocus_ac29b7de42d95e43872828ca86401ec7.jpg)
 
-Tersembunyi di Kayu Manis Nusa Dua, Piasan Restaurant adalah restoran Italia bintang lima yang menyajikan masakan Italia lezat dan pengalaman makan unik. Suasananya super mempesona, tenang, dan penuh nuansa magis — bikin kamu ngerasain esensi makan malam ala keluarga Italia. Hidangannya dibuat dengan teliti, rasanya segar, setiap gigitan bikin nagih. Mereka pakai bahan-bahan terbaik, dipadu sentuhan tropis, kasih pengalaman kuliner yang beda. Kalau kamu lagi cari restoran berkualitas tinggi, Piasan wajib banget kamu coba.
+Tersembunyi di Kayu Manis Nusa Dua, Piasan Restaurant adalah restoran Italia bintang lima yang menyajikan masakan Italia lezat dan pengalaman makan yang unik. Suasananya benar-benar memesona, tenang, dan penuh nuansa magis — bikin kamu ngerasain esensi makan ala keluarga Italia yang sesungguhnya. Makanannya dibuat dengan hati-hati, rasanya mantap, setiap gigitan bikin nagih. Restoran ini pakai bahan-bahan terbaik, dipadukan dengan cita rasa tropis, kasih pengalaman kuliner yang beda. Kalau kamu lagi cari restoran berkualitas tinggi, Piasan Restaurant adalah pilihan yang nggak boleh kamu lewatkan.
 
-> [Restoran Italia Bintang Lima mulai USD$55](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99493-piasan-restaurant-dining-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D18b9a6fdfc)
+> [Restoran Italia bintang lima mulai USD$ 55.35](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99493-piasan-restaurant-dining-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D18b9a6fdfc)
 
 > [Menginap di Kayu Manis Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6481286)
 
-### Pengalaman Kuliner di Mulia Resort（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Pengalaman Kuliner di Mulia Resort (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![穆麗雅度假村美食體驗（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_546854596e721986c3454a1e8f8d769b.png)
 
-Mulia Resort di Nusa Dua, Bali, adalah grup hotel mewah ternama di Indonesia yang terkenal dengan pelayanannya yang kelas satu. Bahkan pernah dinobatkan sebagai salah satu resort terbaik di dunia oleh beberapa majalah travel bergengsi. Di dalam resort ini ada beberapa restoran高档 seperti The Café, Table8, dan Cascade Lounge. Meskipun kamu nggak nginep di sini, kamu tetap bisa menikmati hidangan istimewa di tempat-tempat ini. Di Mulia Resort, habiskan waktu berkualitas bareng orang tersayang sambil merasakan pesona fine dining ala Bali.
+Mulia Resort di Nusa Dua, Bali, adalah grup hotel mewah ternama di Indonesia yang terkenal dengan pelayanannya yang kelas satu. Resor ini pernah dinobatkan sebagai salah satu resor terbaik di dunia oleh berbagai majalah perjalanan bergengsi. Di dalamnya ada beberapa restoran高档 seperti The Café, Table8, dan Cascade Lounge — meski kamu nggak nginep di sini, tetap bisa menikmati hidangan istimewa yang berkelas. Di Mulia Resort, habiskan waktu berkualitas bersama orang tersayang sambil merasakan pesona fine dining ala Bali.
 
-> [Pengalaman buffet bintang 5 mulai USD$ 22](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
+> [Pengalaman buffet bintang lima mulai USD$22](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94019-dining-experience-the-mulia-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ddeb73f43)
 
 > [Menginap di Mulia Resort, Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)
 
@@ -94,23 +94,23 @@ Mulia Resort di Nusa Dua, Bali, adalah grup hotel mewah ternama di Indonesia yan
 
 ![麗思卡爾頓酒店美食體驗（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_a6b96e1124e2c1fb137ad50235c56c0c.jpg)
 
-Grup hotel ini punya lebih dari 100 hotel dan resort di lebih dari 90 negara. Berdiri sejak 1983, mereka jadi salah satu brand terdepan di dunia untuk hotel dan resort mewah. The Ritz-Carlton, Bali menawarkan pengalaman menginap yang super mewah, khusus buat kamu yang pengen suasana eksklusif.
+Grup hotel ini punya lebih dari 100 hotel dan resor di lebih dari 90 negara. Berdiri sejak 1983, mereka jadi salah satu pemimpin global di dunia hotel dan resor mewah. The Ritz-Carlton, Bali menawarkan pengalaman menginap yang super mewah, menyasar kalangan atas banget.
 
-Ritz-Carlton di Nusa Dua punya tiga pilihan pengalaman makan yang nggak bakal kamu lupakan. Pertama, afternoon tea yang elegan—kamu bisa nikmatin kue-kue dan teh sambil duduk di meja dengan lilin berkelap-kelip, santai banget. Kedua, restoran Bejana di atas tebing yang nggak cuma menyajikan makanan enak, tapi juga pemandangan laut yang bikin speechless—cocok buat dinner romantis. Ketiga, restoran BBQ di pantai, di mana kamu bisa makan seafood segar ditemani suara ombak dan bintang-bintang yang berkilauan di atas laut. Ajak orang tersayang dan tenggelam dalam suasana romantis ini—staf resort yang ramah bakal bikin pengalaman makanmu makin berkesan.
+Ritz-Carlton di Nusa Dua punya tiga pilihan dining yang unforgettable. Pertama, afternoon tea yang elegan — nikmati camilan dan teh lezat di meja bermandikan cahaya lilin, santai banget. Kedua, restoran Bejana di atas tebing yang nggak cuma menyajikan makanan enak, tapi juga pemandangan laut yang bikin speechless — cocok buat dinner romantis yang berkesan. Terakhir, restoran BBQ di pantai bikin kamu bisa makan seafood bakar segar ditemani deburan ombak, dengan bintang-bintang berkilau di atas laut yang bikin suasana makin magical. Ajak orang tersayang dan tenggelam dalam vibes romantis ini — staf resor yang ramah bakal bikin pengalaman makanmu makin berkesan.
 
-> [Pengalaman fine dining bintang 5 mulai USD$ 27](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94002-the-ritz-carlton-dining-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfd7054b3ef)
+> [Pengalaman fine dining bintang lima mulai USD$27](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94002-the-ritz-carlton-dining-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfd7054b3ef)
 
 > [Menginap di The Ritz-Carlton, Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)
 
-### Pengalaman Makan Malam di Gua Samabe (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Pengalaman Dinner di Gua Pantai Samabe (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![Samabe海灘洞穴晚餐體驗（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_dfb9f299710048cf4319fec2e021b751.jpg)
 
-Samabe Bali Suites & Villas adalah bagian dari grup resort milik Indonesia Tourism Development Corporation (ITDC). ITDC adalah perusahaan BUMN besar yang bergerak di bidang pengembangan dan operasional pariwisata dan resort, berkantor pusat di Jakarta. ITDC punya beberapa brand resort top kayak Hotel Indonesia Kempinski, The Apurva Kempinski, Grand Hyatt Bali, dan lain-lain. Samabe Bali Suites & Villas adalah salah satu brand resort pantai mewah dan privat yang jadi andalan ITDC.
+Samabe Bali Suites & Villas adalah bagian dari grup resort milik Indonesia Tourism Development Corporation (ITDC). ITDC adalah perusahaan pengembang dan operator resort serta pariwisata milik penuh pemerintah Indonesia, berkantor pusat di Jakarta. ITDC memiliki beberapa brand resort mewah seperti Hotel Indonesia Kempinski, The Apurva Kempinski, Grand Hyatt Bali, dan lainnya. Samabe Bali Suites & Villas adalah salah satu brand resort pantai privat mewah andalan ITDC.
 
-Samabe Cave Dining adalah tempat makan unik di dalam Samabe Bali Suites & Villas, yang terletak di gua alami menghadap ke laut lepas. Dari mulut gua, kamu bisa menikmati pemandangan Samudra Hindia yang megah. Desain gua yang memukau dipadukan dengan pencahayaan lembut menciptakan suasana makan malam yang elegan, romantis, dan privat. Restoran ini menyajikan masakan lokal Bali dan hidangan Asia, serta memiliki gudang anggur kelas atas. Samabe Cave Dining dinobatkan sebagai salah satu restoran paling unik dan romantis di Bali — bukan cuma pemandangannya yang ciamik, tapi juga ada layanan privat ala butler yang siap memenuhi kebutuhan setiap tamu. Menikmati hidangan lezat dan wine ditemani pemandangan pantai yang indah, Samabe Cave Dining bener-bener jadi pengalaman kuliner yang wajib kamu coba selama liburan di Bali.
+Samabe Cave Dining adalah tempat makan unik di dalam Samabe Bali Suites & Villas, terletak di gua alami yang menghadap ke laut lepas. Dari mulut gua, kamu bisa menikmati pemandangan Samudra Hindia yang megah. Desain gua yang memukau dengan pencahayaan lembut menciptakan suasana makan malam yang elegan dan romantis. Restoran ini menyajikan masakan lokal Bali dan Asia, serta punya gudang wine kelas atas. Samabe Cave Dining dijuluki sebagai salah satu restoran paling unik dan romantis di Bali — bukan cuma pemandangannya yang ciamik, tapi juga ada layanan butler pribadi yang siap memenuhi kebutuhan setiap tamu. Dengan latar pantai yang indah, Samabe Cave Dining bikin liburanmu di Bali makin berkesan.
 
-> [Paket berdua mulai USD$330](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94251-samabe-beach-cave-dinner-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De4ad092582)
+> [Paket untuk dua orang mulai dari USD$ 330](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94251-samabe-beach-cave-dinner-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De4ad092582)
 
 > [Menginap di Samabe Bali Suites & Villas](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=462022)
 
@@ -118,155 +118,155 @@ Samabe Cave Dining adalah tempat makan unik di dalam Samabe Bali Suites & Villas
 
 ![阿普爾瓦凱賓斯基飯店 Koral 海底餐廳用餐體驗（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_9fc04b75fe12f30118b914321d81bf86.jpg)
 
-The Apurva Kempinski, Bali adalah resor mewah bintang lima yang terletak di kawasan Nusa Dua, Bali. Resor ini dibuka pada tahun 2022 dan merupakan hotel flagship terbaru dari Kempinski Group di Bali.
+The Apurva Kempinski, Bali adalah resort mewah bintang lima yang terletak di kawasan Nusa Dua, Bali. Resort ini dibuka pada tahun 2022 dan merupakan hotel flagship terbaru Kempinski di Bali.
 
-Resor ini berdiri di atas tebing yang megah dengan pemandangan Samudra Hindia yang spektakuler. Ada 475 kamar dan suite yang masing-masing punya balkon atau teras pribadi dengan pemandangan laut atau taman. Kamar dan suite dilengkapi fasilitas mewah seperti kamar mandi marmer, TV LCD 42 inci, WiFi gratis, dan lainnya.
+Resort ini berada di tebing yang megah, dengan pemandangan Samudra Hindia yang spektakuler. Ada 475 kamar dan suite, semuanya punya balkon atau teras pribadi dengan pemandangan laut atau taman. Kamar dan suite dilengkapi fasilitas mewah seperti kamar mandi marmer, TV LCD 42 inci, WiFi gratis, dan lainnya.
 
-Bayangin kamu lagi makan di dunia bawah laut ala SpongeBob, ditemani ikan warna-warni, karang, dan biota laut lainnya. Itulah pengalaman yang bakal kamu rasakan di Koral Restaurant — restoran akuarium pertama di Bali yang ada di dalam The Apurva Kempinski.
+Bayangin kamu lagi makan di dunia bawah laut ala SpongeBob, ditemani ikan warna-warni, karang, dan biota laut lainnya. Itulah pengalaman makan di Koral Restaurant, akuarium restoran pertama di Bali yang ada di The Apurva Kempinski.
 
-Desain Koral Restaurant terinspirasi dari lautan, dengan warna biru dan putih sebagai tema utama yang menciptakan suasana elegan dan romantis. Di tengah restoran ada akuarium sepanjang 18 meter yang menampung lebih dari 2.000 spesies bawah laut, termasuk hiu, penyu, ikan tropis, dan lainnya.
+Desain Koral Restaurant terinspirasi dari lautan, dengan warna biru dan putih sebagai tema utama, menciptakan suasana elegan dan romantis. Di tengah restoran ada akuarium sepanjang 18 meter yang menampung lebih dari 2.000 spesies bawah air, termasuk hiu, penyu, ikan tropis, dan lainnya.
 
-Koral Restaurant cocok banget buat kencan romantis bareng pasangan, atau quality time sama keluarga dan teman. Sambil makan, kamu bisa lihat gerakan anggun biota laut di akuarium — rasanya kayak lagi benar-benar di dasar laut!
+Koral Restaurant cocok banget buat kencan romantis bareng pasangan, keluarga, atau teman. Sambil makan, kamu bisa lihat gerakan anggun biota laut di akuarium, bikin pengalaman serasa benar-benar berada di dasar laut.
 
-> [Pengalaman makan di restoran bawah laut mulai USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
+> [Pengalaman Makan di Restoran Akuarium Mulai USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
-[Pesan The Apurva Kempinski Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
+> [Pesan Kamar di The Apurva Kempinski Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
 
-Di Kempinski, selain restoran akuarium, ada juga kafe sore dengan pemandangan super keren, namanya Selasar Deli
+Di Kempinski, selain restoran akuarium, ada juga restoran teh sore dengan pemandangan super keren, namanya Selasar Deli
 
 ![按我：Selasar Deli 下午茶體驗記](https://images.gobaligo.id/vocus/vocus_d1404fae059635c1384855f142381263.jpg)
 
-[Klik: Pengalaman Afternoon Tea di Selasar Deli](/id/blog/kempinski-selasar-deli-afternoon-tea/)
+[Klik di sini: Pengalaman Teh Sore di Selasar Deli](/id/blog/kempinski-selasar-deli-afternoon-tea/)
 
-> Pesan [Afternoon Tea di Selasar Deli](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
+> Pesan [Teh Sore di Restoran Selasar Deli](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
 ### Restoran Tebing di Canna Bali
 
 ![Canna Bali的懸崖餐廳](https://images.gobaligo.id/vocus/vocus_5b49549c5f7cae80ec976c334737fb40.png)
 
-Cliff at Canna bener-bener bikin pengalaman makan yang romantis dan elegan. Mau lunch atau afternoon tea, kamu bakal dimanjain sama makanan enak dan pemandangan kece. Lewat jendela kaca besar, kamu bisa lihat pantai Nusa Dua yang cantik dan laut biru nan luas — setiap suapan ditemani panorama alam yang bikin speechless. Dijamin unforgettable! 
+Cliff at Canna berkomitmen untuk menciptakan pengalaman bersantap yang romantis dan elegan. Baik untuk makan siang maupun teh sore, kamu bisa menikmati kombinasi makanan lezat dan pemandangan indah. Lewat jendela kaca besar, restoran ini menyuguhkan panorama pantai Nusa Dua yang memukau dan laut biru yang luas — setiap suapan makanan ditemani pemandangan alam yang bikin takjub, benar-benar pesta untuk indra.
 
-Baik buat quality time bareng pasangan, atau hangout sama keluarga dan teman, Cliff at Canna tuh pilihan yang pas banget. Di sini, kamu nggak cuma nikmatin makanan kelas atas, tapi juga bisa lihat pemandangan laut Nusa Dua yang memesona dari setiap sudut restoran. Ajak orang spesial kamu, dan rasakan sendiri pesta visual dan rasa di Cliff at Canna!
+Entah untuk quality time romantis bersama pasangan, atau momen seru bareng keluarga dan teman, Cliff at Canna adalah pilihan yang pas. Di sini, kamu nggak cuma bisa mencicipi makanan kelas atas, tapi juga bisa menikmati pemandangan laut Nusa Dua di Bali dari setiap sudut restoran. Ajak orang tersayangmu, dan rasakan sendiri pesta visual dan rasa di Cliff at Canna!
 
-> [Bisa pilih afternoon tea di pinggir pantai atau cliff lunch spesial](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1015016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148670-cliff-at-canna-bali-in-nusa-dua%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3Dcddc1574d8)
+> [Bisa pilih teh sore di pantai atau makan siang spesial di tebing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1015016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148670-cliff-at-canna-bali-in-nusa-dua%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3Dcddc1574d8)
 
-> [Day Pass Canna Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87003-canna-beach-club-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9555fa5ed3)
+> [Tiket Harian Canna Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87003-canna-beach-club-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9555fa5ed3)
 
-### Bumbu Bali（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Bumbu Bali（📌 [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtu.be/_BB2mrH-BUU
 
-Nah, sekarang kita bahas tempat makan seru di luar resort bintang lima. Kalau kamu nggak mau makan di hotel mewah, cek rekomendasi kita ya! Pertama, ada Bumbu Bali.
+Sekarang kita bahas beberapa tempat makan enak yang bukan di resort bintang lima. Kalau kamu nggak mau makan di resort mewah, bisa cek rekomendasi kita nih! Pertama, kita kasih tahu Bumbu Bali.
 
-「Bumbu」dalam bahasa Indonesia artinya 'bumbu masak'. Pasti udah kebayang kan kalau Bumbu Bali ini terkenal banget sama rempah-rempah khas Bali! Suasana restonya klasik elegan, dekorasi dalamnya detail dan cantik — perpaduan nuansa Bali yang kental tapi tetap modern.
+「Bumbu」dalam bahasa Indonesia artinya "rempah-rempah". Pasti udah bisa nebak dong kalau restoran Bumbu Bali ini terkenal banget sama rempah khas Bali! Dekorasi restorannya klasik elegan, interiornya detail dan rapi, punya nuansa Bali yang kental tapi tetap modern.
 
-Mereka nyajiin makanan Bali autentik, jago banget mainin rempah dan herbal. Menunya lengkap banget, dari babi guling slow-cook andalan sampai seafood. Yang paling keren, setiap malam ada pertunjukan tari Gamelan Bali ▲tonton video di atas▲. Makan sambil nikmatin vibes Bali asli, seru banget!
+Restoran ini menyajikan masakan Bali autentik, jago banget pakai berbagai rempah dan herba. Menunya lengkap banget, dari babi guling panggang lambat andalan sampai seafood, semua ada. Yang paling spesial adalah pertunjukan tari gamelan Bali setiap malam, ▲lihat video di atas▲. Sambil makan di sini, kamu bisa merasakan atmosfer asli Bali!
 
-### Ketut's BBQ Kitchen（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Ketut's BBQ Kitchen（📌 [Lokasi di Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtu.be/5J4yTeo8lXg
 
-Ketut's BBQ Kitchen adalah resto yang nyajiin BBQ khas Bali asli. Didirikan sama Pak Ketut dan keluarganya, mereka fokus kasih makanan Bali yang segar dan lezat.
+Ketut's BBQ Kitchen adalah restoran yang menyajikan masakan BBQ khas Bali asli. Didirikan oleh Pak Ketut dan keluarganya, mereka berkomitmen untuk menyajikan makanan Bali yang segar dan lezat.
 
-Menu di Ketut's BBQ Kitchen ada berbagai hidangan BBQ klasik Bali kayak sate, sate ayam, sate sapi, sate ikan, dan lainnya. Semua pakai bahan lokal segar dan cara masak tradisional. Dapur restonya terbuka, jadi kamu bisa lihat langsung chef-nya masak.
+Menu di Ketut's BBQ Kitchen mencakup berbagai hidangan BBQ klasik Bali, seperti sate, tusuk ayam, tusuk sapi, tusuk ikan, dan lain-lain. Semua hidangan dibuat dengan bahan lokal segar dan metode masak tradisional. Desain restorannya pakai dapur terbuka, jadi tamu bisa lihat langsung proses masaknya oleh koki.
 
-Ketut's BBQ Kitchen tempat wajib buat cobain kuliner Bali. Makanan enak dan pelayanan oke bakal bikin kamu punya kenangan tak terlupakan.
+Ketut's BBQ Kitchen adalah tempat yang wajib dikunjungi buat merasakan kuliner Bali. Makanan enak dan pelayanan oke di sini bakal bikin kamu punya kenangan yang nggak terlupakan.
 
-### Mr. Bob Bar & Grill（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Mr. Bob Bar & Grill（📌 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtu.be/-_ZciznHi-4
 
-Mr. Bob Bar & Grill terkenal banget sama iga babi panggangnya. Igonya di sini tuh luar garing dalam empuk, dagingnya juicy banget. Sausnya juga enak, manis asin pas, bikin nagih.
+Mr. Bob Bar & Grill terkenal banget sama iga babinya. Iga babinya di sini tuh luar garing dalam empuk, dagingnya juicy banget. Sausnya juga enak banget, manis asin pas, bikin nagih terus.
 
-Iga babi Mr. Bob Bar & Grill dapet rating tinggi di Tripadvisor, dijuluki 'Iga Babi Terbaik di Bali'. Resto ini juga menang Tripadvisor 2023 Travelers' Choice, bukti pelayanan dan makanannya juara.
+Iga babi Mr. Bob Bar & Grill dapet rating tinggi di Tripadvisor, dijuluki sebagai 'Iga Babi Terbaik di Bali'. Restoran ini juga dapet penghargaan Tripadvisor 2023 Travelers' Choice, bukti pelayanan dan makanannya juara.
 
-Kalau kamu lagi di daerah Nusa Dua atau Tanjung Benoa, mampir aja ke Mr. Bob Bar & Grill buat nyobain iga babi andalannya. Dijamin puas!
+Kalau kamu ada di area Nusa Dua atau Tanjung Benoa, mampir aja ke Mr. Bob Bar & Grill buat nyobain iga babi andalannya. Dijamin nggak bakal kecewa.
 
-### Restoran Bali Murah dengan Value Terbaik: Atlichnaya (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Restoran Bali Paling Worth It: Atlichnaya（📌 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtu.be/GHadByjhafo
 
-Atlichnaya adalah restoran murah di Nusa Dua, Bali, yang punya tiga cabang di area ini. Terkenal karena makanan enak dan harga bersahabat. Meski namanya Rusia, ini bukan restoran Rusia, ya!
+Atlichnaya adalah restoran murah di Nusa Dua, Bali, yang punya tiga cabang di area ini. Terkenal karena makanan enak dan harga ramah di kantong. Meskipun namanya Rusia, ini bukan restoran masakan Rusia, ya!
 
-Menu Atlichnaya beragam, mulai dari sate, lawar, ayam bakar, sampai iga babi. Semua pakai bahan lokal segar, harganya juga ramah di kantong.
+Menu Atlichnaya beragam, dari masakan Bali sampai internasional, kayak sate, lawar, ayam bakar, iga babi, dan lainnya. Semua pakai bahan lokal segar, dan harganya ramah banget.
 
-Dekorasi Atlichnaya simpel dan terang, suasananya santai dan nyaman. Pelayanannya juga ramah, bikin kamu betah makan di sini.
+Dekorasi Atlichnaya simpel dan terang, bikin suasana makan santai dan nyaman. Pelayanannya juga oke, bikin kamu betah.
 
-### Manarai Beach House (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Manarai Beach House（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtu.be/BUl5vPzVHGw
 
-Manarai Beach House adalah beach club yang terbuka untuk umum, terletak di dalam hotel Sofitel Bali Nusa Dua di Nusa Dua, Bali. Klub ini berada di tepi pantai hotel dan menawarkan pemandangan indah Samudra Hindia.
+Manarai Beach House adalah beach club yang terbuka untuk umum, terletak di dalam hotel Sofitel Bali Nusa Dua di kawasan Nusa Dua, Bali. Klub ini berada di tepi pantai hotel, dengan pemandangan Samudra Hindia yang cantik banget.
 
-Dekorasi Manarai Beach House bergaya modern, menciptakan suasana makan yang nyaman dan elegan. Klub ini juga memiliki kolam renang, jadi kamu bisa berenang atau sekadar bersantai di tepi kolam.
+Dekorasi Manarai Beach House bergaya modern, bikin suasana makan yang nyaman dan elegan. Klub ini juga punya kolam renang, jadi kamu bisa berenang atau sekadar santai di tepi kolam.
 
-Manarai Beach House adalah tempat yang pas buat menikmati makanan enak, pemandangan cantik, dan waktu santai. Klub ini cocok untuk semua kalangan, mulai dari keluarga, pasangan, sampai teman-teman.
+Manarai Beach House tempat yang pas buat menikmati makanan enak, pemandangan kece, dan waktu santai. Klub ini cocok buat semua kalangan, mulai dari keluarga, pasangan, sampai teman-teman.
 
-### Bebek Bengil (Bebek Goreng Kotor) (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Bebek Bengil Bebek Goreng Kotor（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 ![Bebek Bengil 髒鴨飯 （ 位置地圖）](https://images.gobaligo.id/vocus/vocus_03227d5ca04a23150a86bda0c7abaac6.jpg)
 
-Bebek Bengil adalah restoran bebek panggang legendaris di Bali, dijuluki sebagai 'Bebek Panggang Terbaik di Bali'.
+Bebek Bengil adalah restoran bebek panggang legendaris dan terkenal di Bali, dijuluki sebagai 'Bebek Panggang Terbaik di Bali'.
 
-Bebek Bengil buka sejak tahun 1990, berlokasi di Ubud, pusat seni Bali. Restoran ini adalah pelopor bebek goreng kotor (dirty duck) yang mendunia. Menu andalannya adalah 'Bebek Kriuk', dengan saus spesial yang diracik dari lebih 20 jenis rempah dan herbal, dimasak dengan teknik panggang kayu bakar tradisional. Hasilnya, kulit bebek renyah, dagingnya juicy dan empuk, dengan rasa yang super kaya dan berlapis.
+Restoran Bebek Bengil buka sejak tahun 1990, berlokasi di Ubud, kota seni Bali. Tempat ini adalah restoran pertama yang menciptakan bebek goreng kotor (dirty duck) yang mendunia. Menu andalannya adalah 'Bebek Kriuk', dengan saus spesial yang diracik dari lebih 20 jenis rempah dan herba, dimasak dengan teknik bakar kayu tradisional. Hasilnya, kulit bebek renyah, dagingnya juicy dan lembut, dengan rasa yang super kaya dan berlapis.
 
-Sebagai salah satu restoran bebek panggang paling terkenal di Bali, Bebek Bengil wajib banget kamu coba. Ini sudah jadi destinasi klasik yang nggak boleh dilewatkan saat liburan ke Bali. Cabang Nusa Dua-nya ada di 'Bali Collection' yang akan kita bahas di bawah.
+Sebagai salah satu restoran bebek panggang paling terkenal di Bali, Bebek Bengil wajib banget kamu coba. Tempat ini sudah jadi destinasi klasik yang harus dikunjungi saat liburan ke Bali. Cabang Nusa Dua ada di 'Bali Collection' yang akan kita bahas di bawah.
 
-> [Voucher Pengalaman Makan Bebek Goreng Kotor](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91304-bebek-bengil-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84b1537207)
+> [Voucher Makan Bebek Goreng Kotor](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91304-bebek-bengil-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84b1537207)
 
-### The Royal Kitchen Bali (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### The Royal Kitchen Bali（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 ![太好吃了，劉社長和嬌妻連吃了兩天](https://images.gobaligo.id/vocus/vocus_1787d383aa0ad80f287094ae48ef57ec.jpg)
 
-Enak banget, Pak Liu dan istrinya sampai dua hari berturut-turut makan di sini
+Enak banget, Pak Liu dan istrinya sampai balik lagi dua hari berturut-turut
 
-The Royal Kitchen Bali adalah restoran India paling terkenal di Bali, dijuluki sebagai jawara di papan peringkat lokal. Pak Liu bilang ini 'masakan India terenak yang pernah saya coba', sampai-sampai beliau dan istrinya balik lagi dua hari berturut-turut. Selain makanannya, suasananya juga bikin jatuh cinta. Ada tempat duduk indoor dan outdoor, baik kamu pilih yang elegan di dalam atau romantis di luar, semuanya bikin kamu serasa di India beneran. Mau buat kencan romantis atau makan keluarga, The Royal Kitchen Bali tuh pengalaman bersantap yang bikin lupa waktu. Buat kamu yang liburan ke Bali, wajib banget masukin tempat ini ke itinerary — sambil nikmatin masakan India, sambil happy-happy jalan-jalan. (Diperkenalkan oleh [Presiden Direktur Liu Canrong](https://www.facebook.com/groups/baligo/permalink/1526978931182680/))
+The Royal Kitchen Bali adalah restoran India paling terkenal di Bali, dijuluki sebagai jawara nomor satu di antara restoran sejenis. Pak Liu menyebutnya 'Indian food terenak yang pernah aku coba', sampai-sampai dia dan istrinya balik lagi dua hari berturut-turut. Selain makanannya, suasananya juga bikin jatuh cinta. Ada pilihan duduk di dalam maupun outdoor — mau makan dengan vibe elegan di dalam atau romantis di luar, sama-sama bikin betah. Cocok buat kencan romantis atau makan keluarga, The Royal Kitchen Bali bener-bener pengalaman bersantap yang bikin lupa waktu. Kalau kamu liburan ke Bali, wajib banget masukin tempat ini ke itinerary, sambil nikmatin masakan India sambil jalan-jalan seru. (Dari rekomendasi [Pak Liu Canrong](https://www.facebook.com/groups/baligo/permalink/1526978931182680/))
 
-### Pengalaman Makan di The St. Regis Bali Resort (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Pengalaman Makan di The St. Regis Bali Resort（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 ![The St. Regis Bali Resort 用餐體驗](https://images.gobaligo.id/vocus/vocus_9b585c6a17daa7175a500e9f16f4284c.png)
 
-The St. Regis Bali Resort kasih kamu pengalaman bersantap yang unik banget, cocok buat para pecinta kuliner. Restoran Boneka terkenal dengan sarapan bintang lima, brunch, dan prasmanan malam terbaik di Bali — pokoknya puas banget!
+St. Regis Bali Resort kasih pengalaman bersantap yang unik banget, cocok buat kamu para pecinta kuliner. Restoran Boneka terkenal dengan sarapan, brunch, dan prasmanan malam terbaik di Bali — pokoknya puas banget.
 
-Resort St. Regis punya pilihan restoran paling kece dengan suasana yang menggoda. Setiap restoran punya karakter unik dan hidangan yang lezat. Mau pilih yang mana aja, kamu bakal dapet layanan khas St. Regis yang legendaris, bikin setiap santapan jadi petualangan kuliner yang nggak terlupakan.
+Resort ini punya pilihan tempat makan paling kece dengan suasana yang menggoda. Setiap restorannya punya karakter dan hidangan yang beda. Mau pilih yang mana aja, kamu bakal dapet pelayanan khas St. Regis yang legendaris, bikin setiap santapan jadi petualangan kuliner yang tak terlupakan.
 
-Kalau kamu mau cobain afternoon tea kelas atas, makanan enak, dan pelayanan maksimal, mampir aja ke The St. Regis Bali Resort. Dijamin seru!
+Kalau kamu pengin menikmati afternoon tea kelas atas, makanan enak, dan pelayanan maksimal, mampir aja ke St. Regis Bali Resort. Dijamin vibes-nya beda sendiri.
 
 > [Pengalaman Makan di The St. Regis Bali Resort](https://affiliate.klook.com/redirect?aid=116349&aff_adid=891867&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F119083-dining-experience-at-the-st-regis-bali-resort%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D0b3500437b)
 
-### Mr. Lobster Cabang Tanjung Benoa (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Mr. Lobster Cabang South Bay（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtube.com/shorts/0pk0syQh5sw
 
-Restoran seafood murah meriah yang dijalankan orang Taiwan. Masakannya segar dan porsinya pas, lagi hits banget. Sering ada promo spesial buat anggota grup. Wajib dicoba buat pecinta seafood! [Di sini](/id/blog/mr-lobster-seafood-restaurant-bali/) ada alamat dan kontak, mending reservasi dulu sama Bos Hsu ya!
+Restoran seafood murah meriah punya orang Taiwan, masakannya segar dan porsinya pas, lagi hits banget, sering ada diskon spesial buat anggota grup. Wajib coba buat pecinta seafood! [Klik di sini](/id/blog/mr-lobster-seafood-restaurant-bali/) buat alamat dan kontak, saran reservasi dulu sama Bos Xu ya!
 
-### Siki（📌 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Siki（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://www.instagram.com/p/DVxlmsGjP2H/?utm_source=ig_web_copy_link
 
-SIKI ini restoran yang fokus banget sama fusion masakan Jepang dan Bali (Japanese-Balinese Fusion). Dijalankan oleh Chef Vincent Hiew, tempat ini menggabungkan teknik halus masakan Jepang dengan cita rasa lokal Bali dengan sempurna. Berlokasi di taman tepi pantai yang cantik, SIKI punya menu tasting unik dan cocktail spesial — lewat hidangan, suasana, dan estetikanya, mereka menyajikan harmoni budaya Jepang dan Bali. Pokoknya tempat makan yang lagi hits banget di sini.
+SIKI ini restoran fusion Jepang-Bali yang elegan banget (Japanese-Balinese Fusion). Dikelola oleh Chef Vincent Hiew, tempat ini menggabungkan teknik masak Jepang yang detail dengan cita rasa lokal Bali. Berlokasi di taman tepi pantai yang cantik, SIKI nawarin menu tasting dan cocktail khas yang unik. Lewat hidangan, suasana, dan estetika yang apik, restoran ini menampilkan harmoni budaya Jepang dan Bali — jadi tempat kuliner yang lagi naik daun di sini.
 
 ***
 
-## Belanja & Jalan-jalan di Nusa Dua / Tanjung Benoa
+## Belanja di Nusa Dua / Tanjung Benoa
 
-### Bali Collection（📌 [Lokasi di Peta](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Bali Collection（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 https://youtu.be/3AqPucmnSLE
 
-Bali Collection itu pusat perbelanjaan dan hiburan kelas atas yang gede banget di kawasan Nusa Dua. Letaknya di jantung Nusa Dua, dekat dengan beberapa resor bintang lima dan spa. Di sini ada toko-toko fashion dari berbagai brand terkenal, plus restoran, bar, dan kafe dengan tema yang macam-macam. Ada juga supermarket besar, toko kerajinan, dan toko oleh-oleh.
+「Bali Collection」adalah pusat perbelanjaan dan hiburan mewah skala besar di kawasan Nusa Dua. Letaknya di jantung Nusa Dua, dekat dengan beberapa resor bintang lima dan spa. Di sini ada banyak toko fashion brand ternama, plus restoran tematik, bar, dan kafe. Ada juga supermarket besar serta toko kerajinan dan oleh-oleh.
 
-Kamu bisa lihat video review dari Xiao Jie di atas — Bali Collection emang tempat yang worth it banget dikunjungi pas liburan ke Bali.
+Bisa lihat video review dari Xiao Jie di atas — Bali Collection emang tempat yang worth it buat dikunjungi pas liburan ke Bali.
 
 ### Pasar Rakyat Nusa Dua
 
 https://www.instagram.com/reel/Db11yHTSiE0/?utm_source=ig_web_button_share_sheet
 
-Pasar Rakyat yang baru dibuka tahun 2026 ini ada di Main Plaza Bali Collection. Suasananya nggak kayak mal besar yang kaku, lebih ke pasar lokal yang santai banget. Kamu bisa jalan-jalan nemuin baju khas, kerajinan tangan, aksesoris, jajanan, dan berbagai barang pilihan bernuansa Bali. Cocok banget buat mampir cari hidden gem sambil dukung pengusaha lokal. Situs resmi Bali Collection juga bilang tempat ini adalah destinasi lifestyle yang gabungin belanja, makan, pertunjukan budaya, dan fasilitas keluarga. Jam operasional resmi tiap hari 10:00–23:00.
+Pasar rakyat yang baru dibuka tahun 2026 ini ada di Main Plaza Bali Collection. Suasananya beda banget sama mal besar yang kaku, lebih terasa santai kayak pasar lokal. Kamu bisa jalan-jalan santai sambil lihat-lihat baju khas, kerajinan tangan, aksesoris, jajanan, dan berbagai barang pilihan bernuansa Bali. Cocok banget buat mampir cari hidden gem sambil dukung pengusaha lokal. Di website resmi Bali Collection, tempat ini disebut sebagai destinasi lifestyle yang menggabungkan belanja, kuliner, pertunjukan budaya, dan fasilitas keluarga. Jam operasional resminya setiap hari pukul 10:00–23.00.
 
 ***
 
-## Aktivitas Air/Darat di Nusa Dua/Tanjung Benoa
+## Aktivitas Air & Darat di Nusa Dua/Tanjung Benoa
 
 ![努沙杜瓦/南灣水上活動是全峇里島最精彩的！](https://images.gobaligo.id/vocus/vocus_6187bcb04aa5ffae5567a3796249bd83.png)
 
@@ -274,37 +274,37 @@ Aktivitas air di Nusa Dua/Tanjung Benoa adalah yang paling seru se-Bali!
 
 Resor tepi pantai di kawasan Nusa Dua/Tanjung Benoa emang cocok buat kamu yang males keluar kamar, tapi tetap ada banyak aktivitas seru di sini, terutama olahraga air.
 
-Olahraga air di Nusa Dua pilihannya lebih terbatas dibanding Tanjung Benoa, karena mayoritas resor bintang lima punya pantai pribadi yang bikin garis pantai jadi kawasan eksklusif. Tata letak unik ini bikin susah nemuin penyedia olahraga air tradisional di kebanyakan pantai. Tapi untungnya, di area Nusa Dua Beach, kamu masih bisa nemuin beberapa penyedia yang menawarkan aktivitas air seru. Penyedia olahraga air di Nusa Dua terkonsentrasi di satu bagian pantai ini, menyediakan layanan one-stop untuk kebutuhan petualangan air para wisatawan.
+Dibandingkan Tanjung Benoa, pilihan aktivitas air di Nusa Dua lebih terbatas. Soalnya sebagian besar resor bintang lima punya pantai pribadi, bikin garis pantainya jadi kawasan liburan eksklusif. Tata letak yang unik ini bikin kamu susah nemuin penyedia olahraga air tradisional di kebanyakan pantai. Tapi untungnya, di area Nusa Dua Beach, kamu masih bisa nemuin beberapa penyedia aktivitas air yang seru. Penyedia olahraga air di Nusa Dua terkonsentrasi di satu area pantai kecil ini, menawarkan layanan one-stop buat memenuhi kebutuhan petualangan air para wisatawan.
 
 ### Pantai Nusa Dua (Nusa Dua Beach) (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![努沙杜瓦海灘（Nusa Dua Beach）（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_acb04fe54ab144df2f9cfbfb9b7b0522.png)
 
-Di Pantai Nusa Dua, kamu bisa menikmati berbagai aktivitas air yang seru. Pertama, coba sensasi naik banana boat yang melaju kencang di atas air biru, merasakan hembusan angin. Kalau kamu pengen terbang di langit, parasailing wajib dicoba — dipandu instruktur profesional, terbang di langit biru sambil lihat pemandangan garis pantai yang indah. Cari sensasi kecepatan dan kendali? Jet ski siap bikin kamu melompat di atas ombak, kombinasi sempurna antara kecepatan dan adrenalin. Buat yang suka petualangan bawah laut, sea walking kasih kesempatan deket sama dunia bawah laut — pakai helm khusus, lihat karang dan biota laut warna-warni. Kalau mau uji keseimbangan, flying board jadi pilihan keren buat meluncur anggun di atas air. Terakhir, kalau mau petualangan air seharian, coba paket kombo aktivitas air biar kamu bisa habiskan waktu penuh keseruan di Pantai Nusa Dua. Di pantai kayak surga ini, jadikan olahraga air sebagai highlight liburan Bali yang nggak terlupakan.
+Di Pantai Nusa Dua, kamu bisa menikmati berbagai aktivitas air yang menantang. Pertama, coba sensasi naik banana boat yang melaju kencang di atas air biru, merasakan hembusan angin di wajah. Kalau kamu pengen terbang di langit, parasailing wajib banget dicoba. Dipandu instruktur profesional, kamu akan terbang di langit biru sambil menikmati pemandangan garis pantai yang indah. Cari sensasi kecepatan dan kendali? Jet ski siap bikin kamu berguling-guling di ombak, perpaduan sempurna antara kecepatan dan adrenalin. Buat yang suka petualangan bawah air,海底漫步 (sea walker) kasih kesempatan buat dekat-dekat sama dunia bawah laut. Pakai helm khusus, kamu bisa lihat karang dan biota laut yang warna-warni. Kalau mau uji keseimbangan, flying board jadi pilihan keren buat meluncur anggun di atas air. Terakhir, kalau mau petualangan air seharian, coba aja paket kombinasi aktivitas air biar kamu bisa puas bersenang-senang di Pantai Nusa Dua. Di pantai kayak surga ini, biarkan aktivitas air jadi highlight liburan Bali-mu yang nggak terlupakan.
 
-> [Pesan Aktivitas Air Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16169-nusa-dua-water-sport-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f428dbc40)
+[Pesan Aktivitas Air Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16169-nusa-dua-water-sport-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f428dbc40)
 
-### **南灣（Tanjung Benoa）** 📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)
+### Tanjung Benoa (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![南灣（Tanjung Benoa）（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_82d973b544b91c9f5f74aa5bdcf0d73f.png)
 
-Dari Nusa Dua ke utara sedikit, kamu bakal nemu Tanjung Benoa, yang biasa disebut **南灣** (South Bay). Ini markas besar semua olahraga air di Bali. Perairannya super hidup, penuh dengan aktivitas seru yang bikin liburan makin berkesan. Naik jet ski melesat di atas air biru jernih, rasanya kayak ngebut bareng angin liar. Terus paralayang? Wah, kamu bisa lihat pemandangan laut yang indah dari ketinggian, bikin jantung deg-degan tapi puas banget. Banana boat dan donat boat juga jadi pilihan seru buat keluarga atau teman-teman yang pengen ketawa bareng.
+Dari Nusa Dua ke utara sedikit, kamu bakal nemu Tanjung Benoa, yang biasa disebut 'Teluk Selatan'. Ini markas besar semua aktivitas air di Bali. Perairan di sini super hidup, menawarkan berbagai macam olahraga air yang seru banget, bikin liburanmu jadi petualangan yang nggak terlupakan. Jet ski melesat cepat di atas air biru jernih, bikin kamu merasakan sensasi angin liar. Sementara paralayang bakal bawa kamu terbang tinggi melihat pemandangan laut yang indah dari atas, perpaduan antara kejutan dan birunya laut. Banana boat dan donat boat juga jadi pilihan seru buat yang suka kecepatan, cocok banget dinikmati bareng keluarga atau teman-teman.
 
-Tapi ingat, olahraga air di sini lagi hits banget. Saran gue, **pesan dari jauh-jauh hari** biar nggak kena harga dadakan yang mahal. Dengan booking duluan, kamu bisa cobain semua aktivitas yang kamu mau tanpa khawatir dompet jebol. Di Pantai Tanjung Benoa, yuk kita berlayar dan nikmatin surga olahraga air ini—dijamin penuh petualangan dan tawa!
+Tapi, perlu diingat ya, aktivitas air di Tanjung Benoa ini cukup populer. Makanya, saran banget buat booking duluan sebelum datang, biar nggak kena harga mendadak yang lebih mahal di tempat. Dengan booking, kamu bisa pastiin dapet kesempatan buat nyobain semua aktivitas air yang kamu mau, sekaligus terhindar dari biaya tambahan yang nggak perlu. Di Pantai Tanjung Benoa, yuk kita berlayar bareng dan nikmati surga aktivitas air ini, yang bakal kasih kamu petualangan dan tawa seru di laut.
 
-> [Pesan Olahraga Air Tanjung Benoa (Banyak Pilihan Paket)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
+> [Pesan Aktivitas Air Tanjung Benoa (Banyak Pilihan Paket)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F71411-tanjung-benoa-watersports-bali-bintang-dive-watersport-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dee5cfca3a7)
 
 > [Pesan Paket Banana Boat Tanjung Benoa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F9106-banana-boat-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D461f80f005)
 
-### **Snorkeling di Nusa Dua** 🌊
+### **Pengalaman Snorkeling di Nusa Dua** 🌊
 
 https://youtu.be/QDIhGaAuwlU
 
-Dari pantai dekat Nusa Dua, naik perahu cuma 20 menit lebih, kamu udah sampai di spot snorkeling karang. Bisa lihat ikan tropis, bintang laut, teripang, bahkan ikan badut—pokoknya beragam banget. Kadang-kadang, kamu juga bisa deket-deket sama kuda laut 🐠✨
+Berangkat dari pantai dekat Nusa Dua, naik perahu cuma butuh waktu 20 menit lebih buat sampai ke spot snorkeling di terumbu karang. Kamu bisa lihat berbagai macam biota laut seperti ikan tropis, bintang laut, teripang, bahkan ikan badut. Kadang-kadang juga ada kesempatan buat lihat kuda laut dari dekat 🐠✨
 
-Tempat ini cocok banget buat keluarga atau teman-teman. Dengan pemandu profesional, pemula snorkeling pun bisa eksplorasi bawah air dengan tenang. Nggak perlu bawa alat sendiri, karena semua perlengkapan (snorkel, dll.) udah disediakan.
+Tempat ini cocok banget buat jalan-jalan bareng keluarga atau teman. Dengan ditemani pemandu profesional, bahkan pemula snorkeling pun bisa eksplorasi dunia bawah laut dengan aman. Nggak perlu bawa perlengkapan sendiri, karena di lokasi sudah disediakan snorkel dan
 
-Meskipun ombak kadang agak besar dan jarak pandang bawah air biasa-biasa aja, pengalaman keseluruhan tetap santai dan menyenangkan. Kalau waktu kamu **terbatas** dan pengen coba snorkeling pertama kali, ini pilihan yang oke banget! 📸 Kamu juga bisa tambah layanan foto underwater buat kenang-kenangan seru di Bali～
+Meskipun ombaknya kadang agak besar dan jarak pandang di bawah air biasa-biasa aja, secara keseluruhan pengalamannya santai dan menyenangkan. Kalau waktu kamu **melek** dan pengen pertama kali coba snorkeling, tempat ini pilihan yang oke banget! 📸 Bisa juga tambah paket foto underwater biar punya kenang-kenangan bawah laut di Bali.
 
 > [Pesan Snorkeling Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1083509&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53090-snorkeling-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c694d5dca)
 
@@ -312,116 +312,134 @@ Meskipun ombak kadang agak besar dan jarak pandang bawah air biasa-biasa aja, pe
 
 ![高爾夫球（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_ce8e073add04f7914d81b28a1da9d1c5.jpg)
 
-Ke Bali, selain pantai yang cantik dan budaya yang keren, Bali National Golf Club Nusa Dua kasih pengalaman yang super unik buat kamu yang pengen main golf sambil santai. Lapangan golf 18 hole di Nusa Dua ini dianggap salah satu yang terbaik di Bali.
+Pas liburan ke Bali, selain pantai yang cantik dan budaya yang keren, Bali National Golf Club Nusa Dua nawarin pengalaman yang super unik. Kamu bisa tantang skill golf sambil santai di suasana liburan. Lapangan golf 18 hole di Nusa Dua ini terkenal sebagai salah satu yang terbaik di Bali.
 
-Bali National Golf Club Nusa Dua menggabungkan suasana mewah resort dengan tantangan golf, bikin pengalaman main yang beda. Lapangannya didesain dengan apik, nguji skill dan strategi kamu. Angin laut, rumput hijau nan mulus, dan Samudra Hindia di kejauhan bikin suasana golf jadi surga banget.
+Bali National Golf Club Nusa Dua menggabungkan nuansa elegan resort mewah dengan tantangan golf, kasih pengalaman main yang beda. Lapangannya didesain dengan apik, nguji skill dan strategi pemain. Angin laut yang berhembus, rumput hijau nan mulus, dan Samudra Hindia biru di kejauhan, bikin suasana golf yang bikin betah.
 
-> [Main 18 hole di Bali National Golf Club Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a3d991fe8)
+> [Main 18 Hole di Bali National Golf Club Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a3d991fe8)
 
 ### Kelas Masak Dapur Bali (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![Dapur Bali 烹飪課程（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_637aebfbb06d66216cc833cda4f50395.png)
 
-Kelas masak Dapur Bali ada di dalam Kayumanis Nusa Dua Private Villa, nawarin pengalaman kuliner Bali yang unik. Kelasnya termasuk belajar bikin masakan klasik Bali, dapet ilmu sejarah makanan, dan diajak ke pasar lokal buat milih bahan. Abis kelas, kamu bisa nikmatin masakan buatan sendiri yang enak, cocok banget sama pemandangan alam Bali. Ini perjalanan seru yang gabungin skill masak, budaya, dan pengalaman pasar.
+Kelas Masak Dapur Bali ada di dalam Kayumanis Nusa Dua Private Villa, nawarin pengalaman kuliner Bali yang unik banget. Di sini kamu bakal belajar masak hidangan klasik Bali, dapet pengetahuan soal sejarah makanannya, dan diajak jalan-jalan ke pasar lokal buat milih bahan. Setelah masak, kamu bisa nikmatin hasil masakanmu sendiri, berpadu sama pemandangan alam Bali yang indah. Ini petualangan seru yang gabungin skill masak, budaya, dan pengalaman pasar.
 
 > [Kelas Masak Dapur Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99505-dapur-bali-cooking-class-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De540a8b5fb)
 
-### Canna Beach Club (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Kekeb Cooking Class
+
+![raw-image](https://images.gobaligo.id/images/2026-10/1791699382559-71.png)
+
+Mau bawa pulang aroma khas Bali? Cobain deh ikut kelas masak dengan pemandangan laut di Kekeb Restaurant, Nusa Dua! Kelasnya sekitar 3 jam, dipandu sama Chef Teddy yang super humoris. Dari teknik potong, kontrol api, sampai bikin bumbu dan sambal kacang dari nol — kamu bakal belajar bikin beberapa hidangan khas Bali. Cocok banget buat pemula, Chef juga siapin meja rendah biar anak-anak ikut nimbrung. Abis masak, kamu bisa nikmatin hasil masakan sendiri sambil lihat laut, plus dapat dessert klepon gratis, resep, dan sertifikat. Dijamin bisa recook di rumah! Rating di Klook 4.9, ini pengalaman kuliner paling berkesan di Nusa Dua sih.
+
+Kekeb buka tahun 2018, salah satu tenant di The Bay Bali — kawasan kuliner dan hiburan pantai. Letaknya persis di pinggir pantai, jadi salah satu restoran dengan harga ramah kantong dan rating bagus di Nusa Dua.
+
+> [Kelas Masak Kekeb](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F88531-kekeb-cooking-class-nusa-dua-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.SuggestLanguage_LIST%26clickId%3Dca0943876d)
+
+### Canna Beach Club（📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
 
 ![Canna Beach Club（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_e061b557bfab6d27160a4fb99829ea61.jpg)
 
-Selain [Manarai Beach House](https://youtu.be/BUl5vPzVHGw) yang udah kita bahas di atas, Canna Beach Club di Nusa Dua juga beach club yang kece dan mewah banget. Tempat pantai yang bikin hati ini punya teras matahari yang luas buat kamu berjemur, plus kolam renang dan fasilitas pantai yang keren. Canna Beach Club terkenal dengan desain stylish dan suasananya yang santai, cocok banget buat chilling dan nongkrong.
+Selain [Manarai Beach House](https://youtu.be/BUl5vPzVHGw) yang udah kita bahas, Canna Beach Club di Nusa Dua juga jadi beach club yang kece dan mewah banget. Tempat ini punya sun deck luas buat berjemur, kolam renang yang keren, dan fasilitas pantai yang oke. Desainnya stylish, suasananya santai — cocok banget buat chill atau hangout.
 
-Pengalaman makan di sini juga nggak kalah memorable, lho. Ada banyak pilihan makanan yang menggabungkan cita rasa internasional dan Indonesia dengan sempurna. Saat matahari terbenam, suasana di Canna Beach Club makin romantis dan bikin hati meleleh — ditemani garis pantai biru yang cantik, kamu bakal punya malam yang nggak terlupakan. Buat kamu yang suka gaya hidup kekinian dan pengen seru-seruan di pantai, Canna Beach Club wajib banget masuk bucket list pas di Nusa Dua.
+Pengalaman makannya juga unforgettable, dengan pilihan makanan internasional dan Indonesia yang fusion abis. Pas matahari terbenam, suasananya makin romantis — bikin malam kamu di tepi laut jadi spesial. Buat kamu yang suka gaya dan seru-seruan di pantai, Canna Beach Club wajib masuk list destinasi di Nusa Dua!
 
 > [Tiket Harian Canna Beach Club](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87003-canna-beach-club-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9555fa5ed3)
 
-### 🎣 Memancing di Laut Bali
+### Mancing Seru di Laut Bali
 
 ![峇里島海上釣魚](https://images.gobaligo.id/vocus/vocus_5bb72d3f7207d29f6c6d6524074921bd.jpg)
 
-Aktivitas memancing di Bali dimulai dari Tanjung Benoa — petualangan seru di laut lepas yang penuh adrenalin. Kamu berkesempatan menangkap berbagai ikan yang bikin ngiler, seperti kerapu, kakap, triggerfish, dan berbagai jenis ikan tropis warna-warni lainnya.
+Aktivitas mancing di Bali berangkat dari Tanjung Benoa, siap kasih kamu petualangan seru di laut lepas. Kamu bisa dapat berbagai ikan kece kayak kerapu, kakap, triggerfish, dan berbagai ikan tropis warna-warni.
 
-Baik kamu pemula atau udah jago mancing, aktivitas ini udah nyediain alat pancing, umpan, dan pemandu yang berpengalaman. Dijamin kamu bisa menikmati petualangan mancing ini sepuasnya. Dengan bimbingan nelayan profesional yang juga jadi guide, kamu nggak perlu khawatir soal teknik atau perlengkapan — tinggal fokus nikmatin serunya memancing di laut biru yang jernih. Biarkan petualangan mancing di laut Bali jadi kenangan manis yang nggak terlupakan, sambil menikmati ketenangan lautan dan momen saat berhasil menangkap ikan.
+Baik kamu pemula atau udah pro, semua alat pancing, umpan, dan pemandu berpengalaman udah disediain. Ditemani nelayan lokal yang jago, kamu nggak perlu pusing soal teknik atau alat — tinggal fokus nikmatin serunya mancing di laut biru. Biar pengalaman mancing di Bali jadi kenangan manis, sambil menikmati ketenangan laut dan momen dapat ikan segar.
 
-> [Aktivitas Memancing dari Tanjung Benoa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5b6b4e95f9)
+[>  Aktivitas Memancing dari Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5b6b4e95f9)
 
-### 🎭 Pertunjukan Devdan yang Wajib Ditonton di Bali 🎶
+### 🎭 Pertunjukan Taman Langit Wajib Ditonton di Bali 🎶
 
 ![峇里島必看天壇秀](https://images.gobaligo.id/vocus/vocus_ab5ece28ded1d750897fc0c35de3d97e.jpg)
 
-【Devdan Show】💫 Akrobat udara + budaya lima pulau + panggung spektakuler — semuanya dalam satu pertunjukan!
+【Devdan Show】💫 Akrobat Udara + Budaya Lima Pulau + Panggung Spektakuler dalam Satu Pertunjukan!
 
-Pertunjukan panggung besar yang cuma digelar tiga kali seminggu ini membawa penonton dalam perjalanan budaya melintasi lima pulau utama Indonesia lewat musik, tari, dan akrobat udara. Cocok buat semua umur, dari anak-anak sampai kakek-nenek — sayang banget kalau dilewatkan.
+Pertunjukan panggung besar yang hanya digelar tiga kali seminggu ini membawa penonton dalam perjalanan budaya melintasi lima pulau utama Indonesia lewat musik, tarian, dan akrobat udara. Cocok untuk segala usia, wajib banget ditonton.
 
-Baca ulasan lengkapnya di [sini](/id/blog/devdan-show-nusa-dua/)
+Kami punya ulasan lengkap, cek di [sini](/id/blog/devdan-show-nusa-dua/)
 
-[Link pembelian Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-[Link pembelian kkday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
+> [Link Pembelian Tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
+> [Link Pembelian Tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
-### Pulau Penyu, Perahu Kaca, & Jelajah Hutan Mangrove
+### Pulau Penyu, Perahu Kaca, dan Jelajah Hutan Mangrove
 
 ![海龜島、玻璃底船、紅樹林巡航](https://images.gobaligo.id/vocus/vocus_4cab4e18847962c033e94cf68f67b39e.png)
 
-Dimulai dari snorkeling sambil memberi makan ikan di laut, kamu bakal merasakan serunya interaksi jarak dekat dengan biota laut. Lalu, naik perahu kecil pelan-pelan masuk ke hutan mangrove, eksplorasi ekosistem pesisir yang unik ini. Setelah itu, naik perahu kaca menuju Pulau Penyu, nikmati pemandangan dunia bawah laut yang jernih lewat dasar perahu yang transparan. Sesampainya di Pulau Penyu, kamu punya kesempatan untuk ikut serta langsung dalam kegiatan konservasi penyu, belajar lebih dalam tentang ekologi hewan berharga ini. Selain penyu, di sini kamu juga bisa melihat dari dekat bahkan menyentuh hewan-hewan langka lainnya, bikin takjub terus. Dijamin jadi highlight perjalanan yang nggak terlupakan.
+Mulai dari snorkeling sambil memberi makan ikan di laut, rasakan serunya interaksi jarak dekat dengan biota laut. Lalu naik perahu kecil masuk ke hutan mangrove, jelajahi ekosistem pesisir yang unik ini. Setelah itu, naik perahu kaca menuju Pulau Penyu, nikmati dunia bawah laut yang jernih dari dasar perahu. Sesampainya di Pulau Penyu, kamu bisa ikut serta langsung dalam kegiatan konservasi penyu, pelajari lebih dalam tentang ekosistem makhluk berharga ini. Selain penyu, di sini juga bisa lihat bahkan sentuh hewan-hewan langka lainnya — bikin kaget dan senang banget, pasti jadi highlight perjalanan yang nggak terlupakan.
 
-Selain itu, aku sangat saranin untuk tambah layanan fotografer profesional, buat foto atau video grup sebagai kenang-kenangan. Meskipun bayar ekstra, hasil fotonya bikin terharu banget, dan harganya juga cukup worth it. Yang lebih penting, dengan fotografer profesional yang ngikutin sepanjang jalan, kamu nggak perlu repot motret sendiri, bisa lebih fokus menikmati setiap momen seru dan benar-benar menikmati perjalanan ini.
+Selain itu, saran banget tambah paket fotografer profesional buat foto atau video grup. Meski bayar ekstra, hasil fotonya bikin terharu dan harganya worth it. Yang lebih penting, dengan fotografer profesional yang ngikutin sepanjang jalan, kamu nggak perlu repot motret sendiri, bisa lebih fokus menikmati setiap momen seru dan benar-benar menikmati perjalanan.
 
-Rangkaian aktivitas petualangan air yang seru ini bakal bikin kamu dekat dengan alam dengan cara paling langsung. Saran pesan paket yang sudah termasuk antar-jemput hotel, biar nggak pusing urus transportasi, dan bisa santai menikmati pengalaman tanpa beban!
+Rangkaian aktivitas petualangan air yang seru ini bikin kamu bisa dekat dengan alam dengan cara paling langsung. Saran pesan paket yang sudah termasuk antar-jemput hotel, biar nggak pusing urus transportasi, tinggal santai nikmati pengalaman yang bebas repot!
 
-Ikutan [Half Day Tour Pulau Penyu, Perahu Kaca, & Jelajah Hutan Mangrove](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1228132&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F59606-turtle-island-glass-bottom-boat-mangrove-cruise-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D922086c944)
+Ikuti [Tur Setengah Hari ke Pulau Penyu, Perahu Kaca & Jelajah Mangrove](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1228132&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F59606-turtle-island-glass-bottom-boat-mangrove-cruise-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D922086c944)
 
-### Bali Exotic Marine Park｜Lompat ke Biru, Dunia Impian Menari dengan Lumba-lumba
+### Bali Exotic Marine Park｜Lompat ke Biru, Dunia Air Impian Menari Bersama Lumba-lumba
 
 **📍 Alamat:** Tanjung Benoa, Nusa Dua
 
 ![](https://images.gobaligo.id/images/2026-05/1779966642880-mixcollage-28-may-2026-06-10-pm-4374.jpg)
 
-Kalau harus milih satu pengalaman paling mengharukan saat liburan keluarga di Bali, interaksi dengan lumba-lumba di Bali Exotic Marine Park pasti masuk daftar teratas. Taman laut yang terletak di Tanjung Benoa, pesisir tenggara ini terkenal dengan **pengalaman interaksi lumba-lumba jarak dekat yang super intim**. Pengunjung bisa pakai baju renang, turun langsung ke air, dan berenang bersama makhluk laut yang lincah ini di birunya samudra yang sama.
+Kalau harus milih satu pengalaman paling mengharukan saat liburan keluarga di Bali, interaksi dengan lumba-lumba di Bali Exotic Marine Park pasti masuk jajaran teratas. Taman laut yang terletak di Tanjung Benoa, pesisir tenggara ini terkenal banget dengan **pengalaman interaksi super dekat dengan lumba-lumba**, di mana pengunjung bisa pakai baju renang, turun langsung ke air, dan berenang bareng makhluk laut yang lincah ini di birunya lautan yang sama.
 
-**Swim with Dolphins (Berenang dengan Lumba-lumba)** adalah pengalaman andalan di sini: lumba-lumba yang terlatih bakal mendekat, biarin kamu sentuh kulitnya yang halus, bahkan di bawah arahan pelatih, kamu bisa merasakan sensasi didorong lumba-lumba berenang cepat. Momen saat anak-anak berhadapan langsung dengan lumba-lumba di dalam air seringkali jadi momen paling berbinar sepanjang perjalanan ke Bali.
+**Swim with Dolphins (Berenang Bareng Lumba-lumba)** adalah pengalaman andalan di sini: lumba-lumba yang terlatih bakal mendekat, bikin kamu bisa menyentuh kulit mulus mereka, bahkan di bawah arahan pelatih, kamu bisa merasakan sensasi didorong lumba-lumba melaju kencang di air. Momen anak-anak berhadapan langsung dengan lumba-lumba di dalam air sering jadi momen paling berbinar sepanjang liburan Bali.
 
-Selain interaksi dengan lumba-lumba, kawasan ini juga punya pertunjukan singa laut, kolam observasi bawah air, dan berbagai pameran edukasi ekologi laut. Cocok banget buat quality time keluarga — sambil tertawa bareng, anak-anak juga makin paham dan sayang sama kehidupan laut.
+Selain interaksi dengan lumba-lumba, taman ini juga punya pertunjukan singa laut, kolam observasi bawah air, dan berbagai pameran edukasi ekologi laut, biar keluarga bisa tertawa sambil makin menghargai dan peduli sama kehidupan laut.
 
-**Tips Travel:** Kuota interaksi lumba-lumba terbatas, banget disaranin booking dari jauh-jauh hari lewat platform online. Beberapa aktivitas interaktif punya batasan usia dan tinggi badan, pastikan cek dulu sebelum pesan tiket.
+**Tips Travel:** Kuota interaksi lumba-lumba terbatas, banget disaranin buat booking lewat platform online dari jauh-jauh hari. Beberapa aktivitas interaksi punya batasan umur dan tinggi badan, pastikan cek dulu sebelum beli tiket.
 
-Info lengkap: [Panduan Bali Exotic Marine Park: Interaksi super dekat, turun ke air dansa bareng lumba-lumba, tips hindari keramaian & itinerary keluarga](/id/blog/Bali-Exotic-Marine-Park/)
+Baca selengkapnya: [Panduan Lengkap Bali Exotic Marine Park: Interaksi Super Dekat, Berenang Bareng Lumba-lumba, Tips Hindari Keramaian & Rencana Liburan Keluarga](/id/blog/Bali-Exotic-Marine-Park/)
 
-> Beli tiket online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
+> Beli Tiket Online: [Kkday](https://www.kkday.com/zh-tw/product/138734-bali-exotic-dolphin-marine-park-indonesia?cid=25072) [Trip](https://us.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065/?locale=en-US&curr=IDR&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
+
+### Kelas Membuat Perak di Nusa Dua, Bali
+
+![raw-image](https://images.gobaligo.id/images/2026-10/1791698361624-69.png)
+
+Mau coba bikin perak tradisional Bali, nggak perlu repot-repot ke Ubud! Di Nusa Dua ada bengkel perak keluarga kecil yang dipandu langsung sama pengrajin berpengalaman. Dari leleh, bentuk, las, ukir, sampai poles — kamu bisa bikin cincin, gelang, atau liontin perak sendiri step by step. Instrukturnya sabar banget jelasin tiap langkah, dan kamu bisa pilih desain sesuai selera. Cocok buat semua umur, anak-anak juga happy. Selama proses, ada welcome drink, teh, kopi, dan jajanan khas Indonesia — suasananya santai dan hangat. Buat yang nginep di resort Nusa Dua, jaraknya dekat, pakai Grab juga gampang. Bawa pulang perak buatan sendiri, jadi oleh-oleh paling unik dari liburan ini. Rating Klook 5.0, cocok buat pasangan, keluarga, atau teman-teman.
+
+> [Pesan kelas online](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1491675&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171242-silver-jewelry-making-class-in-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5bc360ba62)
 
 ### Nikmatin SPA (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
 ![享受SPA（ 位置地圖）](https://images.gobaligo.id/vocus/vocus_638b053ba68a83d4518818b74c044ecb.png)
 
-Kalau kamu udah puas main air dan darat di Nusa Dua / Tanjung Benoa yang seru dan padat, pas selesai aktivitas, cobain deh SPA terkenal di Bali — dijamin bikin rileks maksimal.
+Kalau kamu habis puas-puasan main air dan darat di Nusa Dua/Tanjung Benoa, pas banget setelahnya cobain SPA terkenal di Bali buat relaksasi maksimal.
 
-Wilayah ini nggak cuma punya SPA mewah di resort bintang lima, tapi juga beberapa SPA terkenal yang siap manjain tubuh dan pikiran kamu. Rekomendasi SPA di bawah ini, pilih aja yang dekat sama hotel kamu.
+Area ini bukan cuma punya SPA mewah di resort bintang lima, tapi juga beberapa SPA terkenal yang kasih pengalaman relaksasi jiwa dan raga. SPA rekomendasi kami di bawah ini, cari aja yang dekat sama hotel kamu.
 
 **SPA Bintang Lima:**
 
-> [Spa Experience at The Ritz Carlton](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87731-spa-the-ritz-carlton-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76aca86b13): SPA bintang lima super mewah, kasih pengalaman penyembuhan tubuh dan jiwa yang eksklusif.
+> [Spa Experience at The Ritz Carlton](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87731-spa-the-ritz-carlton-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76aca86b13): SPA bintang lima super mewah, kasih pengalaman penyembuhan jiwa raga yang elegan.
 
 **SPA Kualitas Premium Harga Menengah:**
 
-> [Kayumanis Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98871-kayumanis-spa-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D246e4dbe3f): Kelas menengah dengan ketenangan maksimal, menyediakan lingkungan penyembuhan yang nyaman dan mewah.
+> [Kayumanis Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98871-kayumanis-spa-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D246e4dbe3f): Ketenangan maksimal di kelas harga menengah, dengan lingkungan penyembuhan yang nyaman dan mewah.
 
-> [Heavenly Spa by The Westin Resort Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F58448-heavenly-spa-treatment-westin-resort-nusa-dua-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D266d1b14cb): Heavenly Spa di bawah resort Westin, menawarkan pengalaman ketenangan jiwa dan raga yang super mewah, menggabungkan standar tinggi resort dengan perawatan holistik yang menyeluruh.
+> [Heavenly Spa by The Westin Resort Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F58448-heavenly-spa-treatment-westin-resort-nusa-dua-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D266d1b14cb): SPA surga di bawah Westin Resort, kasih pengalaman ketenangan jiwa raga super mewah, gabungin standar tinggi resort dengan perawatan holistik lengkap.
 
-> [Royal Orchid Spa Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F46807-spa-experience-royal-orchid-spa-bali-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3afed4ab80): Salah satu pilihan terbaik di Bali, menggabungkan pijat khas Bali yang kaya dengan lingkungan yang nyaman.
+> [Royal Orchid Spa Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F46807-spa-experience-royal-orchid-spa-bali-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3afed4ab80): Salah satu pilihan terbaik di Bali, menggabungkan pijat khas Bali yang kaya dengan suasana nyaman.
 
-> [ZEN Family Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84154-zen-family-spa-reflexology-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a3ac10042): Spa keluarga dengan harga menengah, menciptakan suasana nyaman dan tenang, khusus untuk pengalaman menyenangkan bersama keluarga.
+> [ZEN Family Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84154-zen-family-spa-reflexology-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a3ac10042): Spa keluarga dengan harga menengah, menciptakan suasana tenang dan damai, khusus untuk pengalaman menyenangkan bersama keluarga.
 
 > [Nusa Bali Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90593-nusa-bali-spa-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3cccdbe0b8): Permata tersembunyi di kelas menengah, menawarkan beragam pilihan penyembuhan tubuh dan jiwa, biar kamu merasakan keindahan budaya Bali.
 
-> [Rumah Spa Spa House](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89877-rumah-spa-experience-nusa-dua%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9cd2300bd): Ruang pribadi di kelas menengah, dengan gaya sederhana dan elegan untuk menciptakan pengalaman spa yang berkelas.
+> [Rumah Spa Spa House](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89877-rumah-spa-experience-nusa-dua%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9cd2300bd): Tempat privat di kelas menengah, dengan gaya simpel dan elegan untuk pengalaman spa yang mewah.
 
-> [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9cc762c110): Terapi bunga di kelas menengah, fokus pada elemen alami, menghadirkan kenyamanan dan ketenangan.
+> [Sekar Jepun Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9cc762c110): Terapi bunga di kelas menengah, fokus pada elemen alami, bawa rasa nyaman dan tenang.
 
 > [Zahra Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdc597388e): Spa seperti taman di kelas menengah, menyediakan perawatan berkualitas tinggi, bikin kamu tenggelam dalam aroma tanaman.
 
-> [Pijat ke Rumah](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dce3a661701): Kenyamanan dan kemewahan, layanan pijat profesional langsung ke tempat tinggal atau kamar hotelmu.
+> [Pijat ke Kamar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dce3a661701): Nikmati kenyamanan dan kemewahan, layanan pijat profesional langsung ke tempat tinggal atau kamar hotelmu.
 
-Biar perjalananmu nggak terganggu gara-gara belum booking spa, pastikan kamu reservasi duluan di spa-spa terkenal ini, ya! Biar kamu bisa menikmati perawatan yang kamu butuhin tepat waktu.
+Biar nggak ganggu rencana perjalananmu karena lupa booking spa, pastikan kamu reservasi duluan buat spa-spa terkenal di atas, biar kamu bisa dapetin perawatan yang diinginkan sesuai jadwal!
 
 ## Rekomendasi Hotel/Resor (📌 [Peta Lokasi](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
 
@@ -429,9 +447,9 @@ Biar perjalananmu nggak terganggu gara-gara belum booking spa, pastikan kamu res
 
 ### Top 16 Hotel/Resor Bintang 5
 
-Di kawasan Nusa Dua/Tanjung Benoa, kamu bakal nemuin deretan hotel bintang lima yang super elegan dan bikin takjub. Peringkat ini berdasarkan penilaian traveler global di Tripadvisor, yang nunjukin keunggulan layanan dan kualitas hotel-hotel ini. Cek langsung: [16 Resor Bintang 5 Terbaik di Nusa Dua, Bali versi Tripadvisor](/id/blog/nusa-dua-resorts-guide/)
+Di kawasan Nusa Dua / Tanjung Benoa, kamu bakal nemuin deretan hotel bintang lima yang super elegan dan bikin takjub. Peringkat ini berdasarkan ulasan para traveler di Tripadvisor dari seluruh dunia, yang nunjukin keunggulan layanan dan kualitas hotel-hotel ini. Cek langsung: [16 Resort Terbaik di Nusa Dua, Bali – Rekomendasi Menginap](/id/blog/nusa-dua-resorts-guide/)
 
-Pengalaman Xiao Jie menginap di Conrad Bali:
+Pengalaman nginepnya si Jie di Conrad Bali:
 
 https://youtu.be/-CJsTy4C3AQ
 
@@ -439,10 +457,12 @@ https://youtu.be/-CJsTy4C3AQ
 
 ![租借大型浮床拍美照](https://images.gobaligo.id/vocus/vocus_c8ea263dd91e7e5781d702fd3f7de7f8.png)
 
-Udah dapet hotelnya, masa di hotel/villa cantik gak foto-foto? Nah, pelampung besar dengan bentuk unik jadi道具 wajib di kolam renang pas liburan di pulau tropis. Tapi, pelampung besar plus pompa angin ukurannya gak kecil dan lumayan berat, jadi agak repot dibawa ke luar negeri. Untungnya, ada layanan di Bali yang bikin kamu gak perlu pusing soal itu. Cukup nginep di area selatan kayak Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, dan Sanur, kamu bisa dengan mudah menikmati serunya berbagai pelampung besar keren.
+Udah dapet tempat nginep, di hotel/villa yang cantik, masa nggak foto-foto!? Nah, pelampung besar dengan bentuk unik jadi properti wajib di kolam renang pas liburan di pulau tropis. Tapi, pelampung besar plus pompa angin ukurannya gede dan berat, jadi agak repot dibawa ke luar negeri. Untungnya, ada layanan di Bali yang bikin kamu nggak perlu pusing mikirin itu. Asal kamu nginep di daerah selatan kayak Kuta, Legian, Seminyak, Canggu, Uluwatu, Nusa Dua, dan Sanur, kamu bisa dengan mudah menikmati serunya berbagai macam pelampung besar yang keren.
 
-Layanan ini anter langsung ke depan hotel atau villa kamu, petugasnya siap isi angin dan kempesin, bikin kamu puas main di kolam tanpa perlu bawa barang berat. Ini sih udah kayak liburan level dewa, bikin kamu santai banget di bawah sinar matahari Bali sambil menikmati waktu luang di kolam.
+Layanan ini anter langsung ke depan hotel atau villa tempat kamu nginep, ada staf yang ngisiin angin dan ngempesin, bikin kamu puas main di kolam renang tanpa perlu bawa barang-barang berat itu ke tempat liburan. Ini sih bener-bener kemewahan liburan, bikin kamu santai menikmati sinar matahari dan kolam renang di Bali, sambil bersantai.
 
 > [Sewa Pelampung Besar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&ehbc=2E312F" width="640" height="480"></iframe>
 
 {{block:攻略}}

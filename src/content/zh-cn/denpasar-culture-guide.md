@@ -5,7 +5,6 @@ description: >-
   探索荣登 2025 全球百大城市的巴厘岛首府——登巴萨 (Denpasar)。本篇完整收录登巴萨文化地图，包含小梅蒂 (Bajra Sandhi)
   纪念塔、巴厘岛博物馆、传统市场与地道美食推荐。带您深入这座城市的文化底蕴，看见最真实的巴厘岛生活面貌。
 pubDate: 2025-03-08T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 峇里島分區攻略
@@ -22,13 +21,19 @@ tags:
   - Denpasar travel guide 2026
   - Best things to do in Denpasar
 heroImage: 'https://images.gobaligo.id/vocus/vocus_832915d1992752e67d6e2819f83e091c.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/67cbb3befd89780001c01e9b'
+source: ''
+sourceUrl: ''
+updatedDate: 2026-10-11T00:00:00.000Z
+contentUpdatedAt: '2026-10-11T22:10:26+08:00'
 lang: zh-cn
-_srcHash: 037e8f478152c79ce9b74b609c0fc18a
+_srcHash: 37cb8cd58dc2bc86611cf6a332b8244b
 ---
+
 update：2026/05/20
 
-**先讲结论**：登巴萨（Denpasar）于 2025 年获评选为全球百大城市第 **94 名**，是巴厘岛的文化与历史中心，代表景点包括小梅蒂纪念塔（Bajra Sandhi）与巴厘岛博物馆，适合安排半天到一天，体验有别于海滩度假的真实巴厘岛城市生活面貌。
+**先说结论**：登巴萨（Denpasar）于 2025 年获评选为全球百大城市第 **94 名**，是巴厘岛的文化与历史中心，代表景点包括小梅蒂纪念塔（Bajra Sandhi）与巴厘岛博物馆，适合安排半天到一天，体验有别于海滩度假的真实巴厘岛城市生活面貌。
 
 巴厘岛的首府登巴萨（Denpasar）近日被[列入2025年全球百大城市](https://www.forbes.com/sites/laurabegleybloom/2025/02/27/the-100-best-cities-in-the-world-to-visit-in-2025-according-to-a-new-report/)之一，排名第94位。这座古老的城市不仅是巴厘岛的文化中心，更拥有丰富的历史遗产和现代艺术氛围，成为旅客探索巴厘岛的另一个绝佳选择。
 
@@ -74,19 +79,19 @@ update：2026/05/20
 
 https://youtu.be/gEcE2e4TFaM
 
-作为巴厘岛河川改造计划的一部分，Taman Tukad Korea河滨公园是登巴萨的新兴景点。这里不仅有绿意盎然的步道和休憩区，还设有儿童游乐设施和露天表演场地，是当地居民和旅客放松身心的好去处。
+作为巴厘岛河流改造计划的一部分，Taman Tukad Korea河滨公园是登巴萨的新兴景点。这里不仅有绿意盎然的步道和休憩区，还设有儿童游乐设施和露天表演场地，是当地居民和游客放松身心的好去处。
 
 ### **Pasar Kreneng夜市**
 
 https://youtu.be/FphhiUzB7gM
 
-作为巴厘岛最大的夜市，Pasar Kreneng是体验当地夜生活的绝佳地点。这里汇集了各式各样的小吃摊位，从传统巴厘岛美食到印尼各地特色料理应有尽有。夜市热闹的氛围和丰富的美食选择，让旅客能够深入感受巴厘岛的夜间魅力。
+作为巴厘岛最大的夜市，Pasar Kreneng是体验当地夜生活的绝佳地点。这里汇集了各式各样的小吃摊位，从传统巴厘岛美食到印尼各地特色料理应有尽有。夜市热闹的氛围和丰富的美食选择，让游客能够深入感受巴厘岛的夜间魅力。
 
 >>[巴厘岛最大夜市美食体验记：跟着在地中文导游吃遍Kreneng夜市的道地美味](/zh-cn/blog/2025-06-05-684118d7fd897800017b1abb/)
 
-### Taman Ayun 神庙：巴厘岛的宁静圣地
+### Taman Ayun 寺庙：巴厘岛的宁静圣地
 
-Taman Ayun Water Temple 距离登巴萨约18公里，建于1634年，曾是孟格威王国的皇家寺庙。这座寺庙以其独特的建筑风格和宁静的环境闻名，并于2012年被列为世界文化遗产。
+Taman Ayun Water Temple 距离登巴萨约18公里，建于1634年，曾是孟格威王国的皇家寺庙。这座寺庙以其独特的建筑风格和宁静的环境闻名，并于2012年被列为世界文化遗产。
 
 ![](https://res.cloudinary.com/dksxqobud/image/upload/v1774091103/MixCollage-08-Mar-2025-11-02-AM-4254_wxvvry.jpg)
 
@@ -105,7 +110,9 @@ Taman Ayun 水神庙融合了自然美景与文化底蕴，是探索巴厘岛历
 
 ![Living World Denpasar](https://images.gobaligo.id/images/2026-03/1774615058614-living_world_denpasar.jpg)
 
-Living World Denpasar 是巴厘岛登巴萨最新的购物中心，结合了时尚、娱乐与美食，成为当地居民和旅客的热门去处。这里拥有国际与本地品牌商店、现代化的电影院，以及多样化的餐饮选择，从地道巴厘岛美食到国际料理应有尽有。商场设计宽敞明亮，并融入巴厘岛传统元素，提供舒适的购物体验。无论是逛街购物、享受美食，还是与家人朋友共度休闲时光，Living World Denpasar 都是登巴萨不可错过的现代化景点！
+Living World Denpasar 是巴厘岛目前占地最大、规模最宏伟的购物中心，结合了时尚、娱乐与美食，成为当地居民和旅客的热门去处。这里拥有国际与本地品牌商店、现代化的电影院，以及多样化的餐饮选择，从地道巴厘岛美食到国际料理应有尽有。商场设计宽敞明亮，并融入巴厘岛传统元素，提供舒适的购物体验。无论是逛街购物、享受美食，还是与家人朋友共度休闲时光，Living World Denpasar 都是登巴萨不可错过的现代化景点！
+
+延伸阅读：[【Living World Denpasar】巴厘岛最大购物中心攻略｜品牌、美食(巴厘岛海底捞)、超市、交通一次看](https://gobaligo.id/zh-cn/blog/Living-World-Denpasar/)
 
 ## 登巴萨美食
 
@@ -115,11 +122,29 @@ Kaneshiro Resto 是登巴萨知名的日式放题火锅餐厅（All You Can Eat�
 
 ### Ameno Coffee and Eatery
 
-来这里喝过两次咖啡
+位于登巴萨的Ameno Coffee and Eatery来这里喝过两次咖啡，在网络上拥有高达 4.8 星的极佳评论，是当地备受喜爱的质感咖啡馆与聚会空间。这里的环境舒适、氛围放松，深受咖啡爱好者与在地居民的推崇。
+
+造访这家店绝对不能错过他们的招牌特调咖啡（Signature Coffee）。许多评论指出，其独特的特调风味层次丰富、香气浓郁，完美平衡了咖啡豆本身的醇厚与顺滑口感，让人一喝就惊艳，是许多人特地前往朝圣的灵魂亮点！
+
+### Warung Wardani (Yudistira)
+
+位于登巴萨市中心的Warung Wardani - Yudistira，是当地极具名气的印尼传统复合饭（Nasi Campur）名店。店内干净明亮，招牌餐点集结了多种印尼经典好料，包括香酥炸虾饼、风味牛肉块、沙嗲与鸡肉丝等，搭配特制的微辣酱汁，丰富且美味。由于口味大众化且卫生品质极佳，不仅深受观光客喜爱，也是当地商务人士与家庭聚餐的热门选择。
+
+### Ayam Betutu Khas Gilimanuk
+
+这家餐厅是品尝巴厘岛传统香料烤鸡（Ayam Betutu）的指标性老店。主打将全鸡裹满姜黄、南姜、蒜头与香茅等多种辛香料后，经长时间慢火炖烤，使肉质达到骨肉分离、鲜嫩多汁的状态。浓郁的香料精华完全渗透，搭配特制的Sambal Matah（生红葱辣椒）与炒空心菜，香辣交织且层次丰富，是体验道地重口味印尼料理的最佳去处。
+
+### Warung Babi Guling Pan Ana
+
+隐身于登巴萨市区巷弄中的Babi Guling Pan Ana，是在地人私藏的脆皮烤乳猪（Babi Guling）名店。这里的猪皮烤得极其酥脆，内层肉质则保持软嫩多汁。一份标准的套餐包含烤猪肉、香辣猪肉丝、血肠与酥炸猪皮，佐以风味独特的传统香料与辣酱。整体口感层次分明、充满在地风情，是喜爱肉食与传统小吃的饕客必访之处。
+
+### Sate Plecing Arjuna
+
+以独特的风味沙嗲闻名。与一般常见的花生酱沙嗲不同，这里主打印尼特有的Plecing酱汁——以大量红辣椒、西红柿与虾酱调配而成，口感酸辣开胃。现烤的肉串带有淡淡炭火香气，沾上清爽又刺激味蕾的特制辣椒酱，让人一口接一口，是极具代表性的市区平民美食。
 
 {{block:klook}}
 
-## 2025年的旅游计划
+## 登巴萨旅游计划
 
 登巴萨旅游局长Ni Luh Putu Riyastiti表示，2025年登巴萨的目标是吸引210万名旅客（参考：巴厘岛一年的观光客数量为600多万）。为实现这一目标，当地政府将通过社交媒体、线上推广、与旅游业者合作等方式，积极宣传登巴萨的旅游资源。此外，登巴萨还计划提升旅游景点的品质，并举办多样化的文化活动，进一步提升城市的吸引力。
 
@@ -143,11 +168,11 @@ Kaneshiro Resto 是登巴萨知名的日式放题火锅餐厅（All You Can Eat�
 
 ## 登巴萨攻略地图
 
-![登巴薩攻略地圖](https://images.gobaligo.id/vocus/vocus_f2221d446da58c692559cd133adbacab.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qf8jdykPPjEIcpg0_e62iM58ye_8dK4&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 [登巴萨攻略地图](/map/denpasar/)
 
-以上的景点位置都已经收集在「登巴萨攻略地图」，点击[这里](/map/denpasar/)储存到你的手机吧！
+以上的景点位置都已经收集在「登巴萨攻略地图」，点击[这里](/map/denpasar/)保存到你的手机吧！
 
 > [登巴萨文化遗产与街头美食夜间导览](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1256541&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F197385-denpasar-heritage-street-food-evening-tour%2F)
 

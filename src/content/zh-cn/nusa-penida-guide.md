@@ -1,25 +1,32 @@
 ---
-slug: nusa-penida-guide
 title: 【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点
+slug: nusa-penida-guide
 description: >-
   当您在巴厘岛度假时，Nusa
   Penida绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往Nusa
-  Penida可能需要进行详细的研究和计划。在本文中，将为您提供从巴厘岛前往Nusa Penida的旅游指南，并提供最新的信息
-pubDate: '2023-08-16'
-update: 2026/05/24
-heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
+  Penida可能需要进行详细的研究和计划。在本篇文章中，将为您提供从巴厘岛前往Nusa Penida的旅游指南，并提供最新的信息
+pubDate: 2023-08-16T00:00:00.000Z
+updatedDate: 2026-10-11T00:00:00.000Z
+contentUpdatedAt: '2026-10-11T20:34:42+08:00'
+pubHour: null
+category:
+  - 峇里島分區攻略
 tags:
   - nusapenida
   - 努沙佩妮達
   - 地圖
+  - 佩尼達島
+heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
-category:
-  - 峇里島分區攻略
+source: ''
+sourceUrl: ''
+update: 2026/05/24
 lang: zh-cn
-_srcHash: 818f49577d9805016108274d73da1dfa
+_srcHash: 0c9e0d2dd42bf089c38c8e6e0c4020a6
 ---
 
-当您在巴厘岛度假时，Nusa Penida绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往Nusa Penida可能需要进行详细的研究和计划。在本文中，将为您提供从巴厘岛前往Nusa Penida的旅游指南，并提供最新的信息，以帮助您计划您的行程。
+当您在巴厘岛度假时，Nusa Penida绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往Nusa Penida可能需要进行详细的研究和计划。在本篇文章中，将为您提供从巴厘岛前往Nusa Penida的旅游指南，并提供最新的信息，以帮助您计划您的行程。
 
 ## 佩尼达岛简介
 
@@ -38,7 +45,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ## 佩尼达岛热门景点
 
-![佩尼達島攻略地圖](https://images.gobaligo.id/vocus/vocus_fbf1d99b951273c05a8ad34aca271a26.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&ehbc=2E312F" width="640" height="480"></iframe>
 
 佩尼达岛攻略地图
 
@@ -48,7 +55,9 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
 
-要下去底下那个海滩并不容易哦！现在正在盖一座玻璃透明电梯，预计2025完工
+要下去底下那个海滩并不容易哦！现在正在盖一座玻璃透明电梯
+
+快速参考：[Kelingking Beach安全吗？绝美T-Rex悬崖的隐藏风险与注意事项](https://gobaligo.id/zh-cn/blog/kelingking-beach-nusa-penida-safety-tips)
 
 ▼Nusa Penida必游景点 Broken Beach
 
@@ -70,7 +79,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ### 巴厘岛出发东西佩尼达岛精华一日游
 
-准备好探索佩尼达岛的热门景点了吗？无论是精灵海滩的壮观岩壁、钻石海滩的纯白沙滩，还是天使浴池的自然奇景，都能让您一边享受清爽海风，一边捕捉令人惊艳、随手一拍就是 Instagram 大片的绝美画面。此行程已为您准备好所需一切——包含快艇接送、当地司机、午餐等多项服务，轻松出发无负担。无论您是冒险爱好者、团体出游，还是热爱打卡的摄影玩家，这趟旅程都将成为你的难忘回忆！
+准备好探索佩尼达岛的热门景点了吗？无论是精灵海滩的壮观岩壁、钻石海滩的纯白沙滩，还是天使浴池的自然奇景，都能让您一边享受清爽海风，一边捕捉令人惊艳、随手一拍就是Instagram大片的绝美画面。此行程已为您准备好所需一切——包含快艇接送、当地司机、午餐等多项服务，轻松出发无负担。无论您是冒险爱好者、团体出游，还是热爱打卡的摄影玩家，这趟旅程都将成为你的难忘回忆！
 
 - [巴厘岛出发佩尼达岛一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D7f2ac4053e)
 - [巴厘岛出发佩尼达东西岸任选一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F159418-nusa-penida-west-east-trip-sanur-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3De011eaaadc)
@@ -91,7 +100,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ## 如何去佩尼达岛
 
-从巴厘岛前往 Nusa Penida 有两个方法，首先让我们看一下独自前往的方式。从巴厘岛东岸的沙努尔港口乘坐渡轮是前往Nusa Penida的最常见方式。沙努尔港口距离库塔约30分钟，距离坎古约1小时，您可以事先预订船票并前往沙努尔的港口。从那里，您可以乘坐渡轮前往Nusa Penida。虽然这是一种经济实惠的方式，但同时也需要耗费时间和精力进行规划。
+从巴厘岛前往Nusa Penida有两个方法，首先让我们看一下独自前往的方式。从巴厘岛东岸的沙努尔港口乘坐渡轮是前往Nusa Penida最常见的方式。沙努尔港口距离库塔约30分钟，距离坎古约1小时，您可以事先预订船票并前往沙努尔的港口。从那里，您可以乘坐渡轮前往Nusa Penida。虽然这是一种经济实惠的方式，但同时也需要耗费时间和精力进行规划。
 
 - [佩尼达岛快艇船票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
 - [八人以上团体可以考虑包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
@@ -106,33 +115,33 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 以下是渡轮时间表：
 
-![如何從峇里島乘坐渡輪前往Nusa Penida（Canggu, Kuta, Seminyak）？](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-10/1791721915144-73.png)
 
-仅供参考
+(仅供参考，以实际调度为准)
 
-如果天气太恶劣，船只将不会运行。这有点难以预测
+如果天气太恶劣或风浪过大，船只将不会运行。这有点难以预测
 
-### **从乌布到珀尼达岛怎么去？**
+### **从乌布到Nusa Penida如何去？**
 
-从乌布前往珀尼达岛比较麻烦，因为距离更远。目前还没有快艇票可以预订。
+从乌布前往Nusa Penida比较麻烦，因为距离更远。目前还没有快艇票可以预订。
 
-不过，您可以在乌布安排交通前往沙努尔的港口。驾车/搭车大约需要一个小时，但时常发生的堵车情况可能会更长。
+不过，您可以在乌布安排交通前往Sanur的港口。驾车/搭车大约需要一个小时，但时常发生的堵车情况可能会更长。
 
-### **从沙努尔港搭乘前往珀尼达岛的船是怎样的体验？**
+### **从Sanur港搭乘前往Nusa Penida的船是怎样的体验？**
 
-从沙努尔搭乘快艇前往珀尼达岛一定要事先订好船票，如果没有提前预订票，到达港口后会被“热情”的推销员围住，他们提供了一些非常荒谬的价格。
+从Sanur搭乘快艇前往Nusa Penida一定要事先订好船票，如果没有提前预订票，到达港口后会被「热情」的推销员围住，他们提供了一些非常荒谬的价格。
 
-一旦搭上船出发，从沙努尔港到珀尼达岛需要大约45分钟的时间。旧的“慢艇”不再为游客提供旅行，因为它们有点危险，过去甚至翻船。根据天气及海况，可能是风平浪静的短程搭船体验，也有可能是疯狂的海洋过山车之旅！
+一旦搭上船出发，从Sanur港到Nusa Penida需要大约45分钟的时间。旧的“慢艇”不再为游客提供旅行，因为它们有点危险，过去甚至翻船。根据天气及海况，可能是风平浪静的短程搭船体验，也有可能是疯狂的海洋云霄飞车之旅！
 
 ### **行李限制**
 
-巴厘岛前往珀尼达岛的快艇船通常都有行李限制，最多携带两个行李箱，总重量为30公斤。但是，他们其实并不会称重您的行李。他们会将其放在甲板上，用大型防水布盖着以避免被溅湿。
+巴厘岛前往Nusa Penida的快艇船通常都有行李限制，最多携带两个行李箱，总重量为30公斤。但是，他们其实并不会称重您的行李。他们会将其放在甲板上，用大型防水布盖着以避免被溅湿。
 
-如果您想把大件行李寄存在巴厘岛本岛，可以参考：[【出发前往巴厘岛离岛】沙努尔行李寄存攻略](/zh-cn/blog/sanur-luggage-storage-guide/)
+如果您想把大件行李寄放在巴厘岛本岛，可以参考：[【出发前往巴厘岛离岛】沙努尔行李寄存攻略](/zh-cn/blog/sanur-luggage-storage-guide/)
 
 ## **住宿推荐**
 
-如果是自行安排行程的朋友，到达Nusa Penida后可以在多个选择中选择住宿地点。以下是推荐的三个选择，分别是平价、中价位和豪华住宿。
+如果是自行安排旅程的朋友，到达Nusa Penida后可以在多个选择中选择住宿地点。以下是推荐的三个选择，分别是平价、中价位和豪华住宿。
 
 **豪华住宿：**[**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
@@ -140,7 +149,7 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 这不是Nusa Penida上最昂贵的豪华度假村，但绝对是最好的之一！这个度假村位于海滨，设有大型豪华套房和丰盛的早餐。
 
-**豪华私人villa：**[**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1)4.5星级私人泳池滨海villa
+**豪华私人别墅：**[**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1)4.5星级私人泳池海滨别墅
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
 
@@ -156,17 +165,13 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
 
-最后有几个注意事项要特别提醒前往 Nusa Penida的游客：
+最后有几个注意事项要特别提醒前往Nusa Penida的游客：
 
-1. 直接在港口可以订票，但务必提前在开船前一个小时到达售票处
-
-2. 事先在[Klook订票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)有优惠，还能免去排队购票的时间
-
-3. 可携带大件行李，但最好尽量避免，在岛上携带非常不方便
-
+1. 直接在港口可以订票，但是务必提早在开船前一个小时到达售票处
+2. 事先在[Klook订票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)有优惠又可以免去排队购票的时间
+3. 可携带大件行李，但是最好尽量避免，在岛上携带非常不方便
 4. 寄存服务请[参考这里](/zh-cn/blog/sanur-luggage-storage-guide/)
-
-5. Klook购票者开船前提前至少30分钟抵达港口
+5. Klook购票者开船前提早至少30分钟抵达港口
 
 6. Klook购票者最好提前一天以上先订票
 
@@ -185,13 +190,13 @@ Nusa penida 是一个巴厘岛的离岸小岛，从巴厘岛本岛搭船约45分
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - [KKday方案](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-![住宿推薦](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&ehbc=2E312F" width="640" height="480"></iframe>
 
 [点我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
 
-### 我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅
+### 我们还介绍了十家拥有无边泳池、金黄沙滩、夕阳美景的Nusa Penida美食餐厅
 
-**▶努沙佩尼达岛攻略第二集：**[享受佩尼达岛的碧海蓝天美食，TOP 9绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
+**▶努沙佩尼达岛攻略第二集：**[享受佩尼达岛的碧海蓝天美食，TOP 10绝佳选择](/zh-cn/blog/nusa-penida-best-restaurants/)
 
 ![我們還介紹了九家擁有無邊際泳池、金黃沙灘、夕陽美景的Nusa Penida美食餐廳](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
