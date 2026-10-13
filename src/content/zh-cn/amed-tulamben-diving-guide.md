@@ -1,29 +1,31 @@
 ---
-title: 巴厘岛东北角秘境：艾眉 Amed 与土兰奔 Tulamben 完整攻略：潜水、水宫与秘境全收集
+title: 巴厘岛东北角秘境：艾眉Amed与土兰奔Tulamben完整攻略：潜水、水宫与秘境全收集
 slug: amed-tulamben-diving-guide
 description: >-
-  探索巴厘岛最美黑沙滩与潜水天堂！本篇详尽整理 Amed 与 Tulamben
-  旅游攻略，包含自由沉船潜水、绝美蒂尔塔冈加水宫、大门入口拍照点。无论是寻求宁静海景还是深度潜水体验，这里有你需要的完整指南。
+  探索巴厘岛最美黑沙滩与潜水天堂！本篇详尽整理Amed与Tulamben旅游攻略，包含自由沉船潜水、绝美蒂尔塔冈加水宫、大门入口拍照点。无论是寻求宁静海景还是深度潜水体验，这里有你需要的完整指南。
 pubDate: 2025-06-23T00:00:00.000Z
 pubHour: null
 category:
   - 峇里島分區攻略
-tags: []
+tags:
+  - Amed
+  - Tulamben
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6727b9f6f57b7ae2c320641b63c0569c.jpg'
 imageAlt: ''
 originalUrl: 'https://vocus.cc/article/68578b01fd89780001dd5208'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-09-10T00:00:00.000Z
+contentUpdatedAt: '2026-10-11T19:21:27+08:00'
+updatedDate: 2026-10-11T00:00:00.000Z
 lang: zh-cn
-_srcHash: 9e99f6de6c4fe2e2fe3b09dfa21501e7
+_srcHash: 5f3238a5fec0f6532f015c345808e86f
 ---
 
 ## 巴厘岛火山壮景与宁静海岸的完美结合
 
 **先讲结论**：艾眉（Amed）与土兰奔（Tulamben）位于巴厘岛东北角，从机场车程约 **2.5-3.5 小时**，是远离闹区、以自由沉船潜水与黑沙滩闻名的秘境，天气好时可同时眺望阿贡、阿邦、巴杜尔三座火山，适合安排 1-2 天的深度潜水或宁静海景行程。
 
-位于巴厘岛东北角的艾眉（Amed）与土兰奔（Tulamben），是一处与闹区截然不同的世外桃源。这里既没有库塔的热闹喧嚣，也没有乌布的文艺气息，取而代之的是静谧渔村氛围与壮观的自然景观。
+位于巴厘岛东北角的艾眉（Amed）与土兰奔（Tulamben），是一处与闹区截然不同的世外桃源。这里既没有库塔的热闹喧嚣，也没有乌布的文藝气息，取而代之的是静谧渔村氛围与壮观的自然景观。
 
 ![阿貢火山（Gunung Agung）  峇里島最高、最具宗教與文化意義的活火山，海拔約 3,031 公尺；上古火山殘留的 Gunung Abang，海拔約 2,151 公尺；巴杜爾火山（Gunung Batur）  是一座活火山錐，海拔約 1,717 公尺](https://images.gobaligo.id/vocus/vocus_38b4f9c2c400c72b9f94875f5af8aeaa.jpg)
 
@@ -31,7 +33,7 @@ _srcHash: 9e99f6de6c4fe2e2fe3b09dfa21501e7
 
 https://youtube.com/shorts/Hce-BK5I-NU
 
-从这片宁静的黑沙海岸线，你可以一次饱览三座巴厘岛著名火山：阿贡火山（Mount Agung）、阿邦火山（Mount Abang）巴杜尔火山（Mount Batur）。当云雾散去时，三座火山同时映入眼帘，仿佛置身神话世界。
+从这片宁静的黑沙海岸线，你可以一次饱览三座巴厘岛著名火山：阿贡火山（Mount Agung）、阿邦火山（Mount Abang）和巴杜尔火山（Mount Batur）。当云雾散去时，三座火山同时映入眼帘，仿佛置身神话世界。
 
 从巴厘岛国际机场（Ngurah Rai International Airport）前往这里，车程大约需要2.5至3.5小时，沿途会穿越村落、山林与梯田，是一次风景丰富的公路旅行。
 
@@ -45,7 +47,7 @@ https://youtube.com/shorts/7lFkNVJzyso
 
 ### 土兰奔水肺潜水
 
-土兰奔的「自由号沉船」（USAT Liberty Wreck）是世界知名的潜水点之一，水深适中、能见度高，让你在与色彩斑斓的热带鱼共舞的同时，也能近距离欣赏这艘被海洋接纳的历史残骸。
+土兰奔的“自由号沉船”（USAT Liberty Wreck）是世界知名的潜水点之一，水深适中、能见度高，让你在与色彩斑斓的热带鱼共舞的同时，也能近距离欣赏这艘被海洋接纳的历史残骸。
 
 ![土蘭奔的自由號沈船](https://images.gobaligo.id/vocus/vocus_48a7dc85553f97e116fe4b29e5b7d33b.jpg)
 
@@ -85,23 +87,25 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 由于地形的缘故，很神奇的是Sunset Point这个角度面向西边
 
-在艾眉（Amed），欣赏夕阳最受欢迎的地点非 **Sunset Point Amed Bali** 莫属。这个位于山坡上的观景台，位置绝佳，能一览无遗整片海岸线，还能远眺火山与小渔村的景致，是许多旅人心中的“日落圣地”。
+在艾眉（Amed），欣赏夕阳最受欢迎的地点非 **Sunset Point Amed Bali** 莫属。这个位于山坡上的观景台，位置绝佳，能一览无遗整片海岸线，还能远眺火山与小渔村的景致，是许多旅人心中的「日落圣地」。
 
 当太阳慢慢往火山背后沉落，整片天空从湛蓝转为橘红、紫粉，与海面相互映照，画面如梦如幻。加上周围环境宁静，少有商业气息，是一个能让人真正静下心来、与自然对话的地方。
 
-观景台附近有几间小咖啡厅与酒吧，可以一边喝着冷饮、一边静静欣赏夕阳，在此享受一段平静悠闲的时光。小杰上次去的是[这里](https://www.sunsetpointamedbali.com/)，餐点普普，但是美景无价！
+观景台附近有几间小咖啡厅与酒吧，可以一边喝着冷饮、一边静静欣赏夕阳，在此享受一段平静悠闲的时光。小杰上次去的是[这里](https://www.sunsetpointamedbali.com/)，餐点一般，但是美景无价！
 
 若你来到艾眉，别忘了留一个傍晚给 Sunset Point，这里的夕阳绝对值得等待。
 
 ### 料理人必访：Amed 传统制盐工坊
+
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789050589867-amed_salt_center2.webp)
 
-在艾眉（Amed）除了潜水之外，还有着传统的制盐工法值得一探。在东部海岸，盐农将海水撒在黑色火山沙上曝晒浓缩，经过过滤后再次日晒，最终取得带着矿物感的海盐，是“从海到餐桌”的完美诠释。
+在艾眉（Amed）除了潜水之外，还有着传统的制盐工法值得一探。在东部海岸，盐农将海水撒在黑色火山沙上曝晒浓缩，经过过滤后再次日晒，最终取得带着矿物感的海盐，是「从海到餐桌」的完美诠释。
 
 #### Amed Salt Center （📍[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)）
+
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789050519786-amed_salt_center.jpg)
 
-位于小镇上的 **Amed Salt Center** 贩售这些本地制造的盐巴，每种盐都带着 Amed 海岸的独特风味。除了购买外，若愿意 donate，还可以参观后方的盐场，亲眼目睹传统制盐过程，是一次难得的文化体验。这些手工制的海盐也是巴厘岛料理人必备的调味料，能为各式料理增添独特层次。
+位于小镇上的 **Amed Salt Center** 售卖这些本地制造的盐巴，每种盐都带着 Amed 海岸的独特风味。除了购买外，若愿意 donate，还可以参观后方的盐场，亲眼目睹传统制盐过程，是一次难得的文化体验。这些手工制的海盐也是巴厘岛料理人必备的调味料，能为各式料理增添独特层次。
 
 {{block:戶外}}
 
@@ -171,7 +175,7 @@ Rimba Café 是艾眉少见结合自然风格与轻食创意的咖啡馆，环�
 
 在艾眉山坡上的 **Asmat 餐厅（Asmat Restaurant at Mathis Lodge Amed）**，用餐绝对不只是吃一顿饭，而是一场视觉与味蕾的双重盛宴。餐厅位于群山与海岸之间，视野辽阔，是约会与纪念日的梦幻地点。专属的浪漫晚餐套餐让人沉醉于夕阳染红天际的时刻，一边享用精致的西式料理与现调鸡尾酒，一边沉浸在山海交织的景色中，每一口都是爱情的延伸。
 
-而早晨，则可以选择在无边泳池享用无与伦比的 **漂浮托盘早餐**，在热带阳光中开启悠闲的一天。喜欢私密用餐体验的旅人，还可以预订双人专属 **烧烤套餐**，由主厨现场烹饪新鲜食材，搭配凉爽晚风与星空陪伴，在这片热带天堂中共度难忘夜晚。这里，不只是吃得好，更是一场与自然与彼此的深度连结。
+而早晨，则可以选择在无边泳池享用无与伦比的 **漂浮托盘早餐**，在热带阳光中开启悠闲的一天。喜欢私密用餐体验的旅人，还可以预订双人专属 **烧烤套餐**，由主厨现场烹饪新鲜食材，搭配凉爽晚风与星空陪伴，在这片热带天堂中共度难忘夜晚。这里，不只是吃得好，更是一场与自然与彼此的深度连接。
 
 https://youtu.be/PgGyeZIXHwc?si=HdhPdTL9fs_kHUv7
 
@@ -215,7 +219,7 @@ Villa Butik Segara
 
 [**Blue Moon Villas Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=16341879) 👈点看详情
 
-位于山腰海景位置，拥有多栋独立式别墅与多层露台泳池，适合情侣或小家庭远离尘嚣，享受安静的假期。
+位于山腰海景位置，拥有多栋独立式别墅与多层露台泳池，适合情侣或小家庭远离喧嚣，享受安静的假期。
 
 [**Villa Butik Segara**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=461255) 👈点看详情
 
@@ -269,7 +273,7 @@ https://youtube.com/shorts/XS1j72uEtTY
 
 我们将以上提到的地点都整理在「Amed/Tulamben攻略地图」，[点我](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)放大/收藏
 
-![攻略地圖](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&ehbc=2E312F" width="640" height="480"></iframe>
 
 ***
 
@@ -293,7 +297,7 @@ https://youtube.com/shorts/XS1j72uEtTY
 
 **附近还有什么景点？**
 
-如果你时间充裕，推荐游览周边的三个绝美景点：
+若你有多一点时间，推荐造访周边的三个绝美景点：
 
 ![FAQ 常見問題解答](https://images.gobaligo.id/vocus/vocus_ed589a98d59d6d3d1de01faf3eb0b822.jpg)
 
