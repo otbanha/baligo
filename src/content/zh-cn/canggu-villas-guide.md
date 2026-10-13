@@ -42,11 +42,11 @@ originalUrl: 'https://vocus.cc/article/66b20b15fd89780001ceef6b'
 source: ''
 sourceUrl: ''
 shuffle_h2: true
-updatedDate: 2026-09-27T00:00:00.000Z
-updatedAt: '2026-09-27T09:48:33+08:00'
+contentUpdatedAt: '2026-10-11T23:14:44+08:00'
+updatedDate: 2026-10-11T00:00:00.000Z
 update: 2026/06/06
 lang: zh-cn
-_srcHash: 514ded6ed94887bf468605dd662b122b
+_srcHash: f3208e33292642dbc33477d28264f10a
 ---
 
 update: 2026/06/06
@@ -85,7 +85,7 @@ Canggu（发音为：坎古），这个位于巴厘岛西南海岸的迷人小�
 
 ![ZIN Canggu Resort & Villas - 地點/舒適取勝](https://images.gobaligo.id/images/2026-03/1774451202341-520973143.jpg)
 
-ZIN Resort & Villas这家四星住宿位于坎古的中心，拥有绝佳的地理位置，距离海滩仅一分钟步行路程。这种近距离让您可以轻松享受悠闲的沙滩漫步，并无缝前往The Lawn、Echo Beach Club、La Brisa等知名的海滩俱乐部。
+ZIN Resort & Villas这家四星住宿位于坎古的中心，拥有绝佳的地理位置，距离海滩仅一分钟步行路程。这种近距离使您可以轻松享受悠闲的沙滩漫步，并无缝地前往The Lawn、Echo Beach Club、La Brisa等知名的海滩俱乐部。
 
 **位置** | ZIN Canggu Resort & Villas距离坎古海滩仅一分钟步行路程/Nelayan Beach 200米，靠近多个知名海滩俱乐部和餐饮场所。（🗺️[地图指引](/map/canggu/)
 
@@ -285,7 +285,7 @@ ZIN Resort & Villas这家四星住宿位于坎古的中心，拥有绝佳的地�
 
 Theanna Villa and Spa的坎古精品别墅提供高端的室内设计和卓越的客户服务。
 
-**位置** | 酒店位于坎古的一个安静小巷里，距离Batu Bolong海滩两公里，开车六分钟可达Echo海滩。周围100米内有三家餐厅。（🗺️[地图指引](/map/canggu/)）
+**位置** | 酒店位于坎古的一个安静小巷里，距离Batu Bolong海滩两公里，开车六分钟可达Echo海滩。周围100米内有三家餐厅。（🗺️[地图指引](/map/canggu/)
 
 **设施** | Theanna Villa and Spa设有24小时前台、餐厅、酒吧、小型杂货店和自动提款机。客人可额外付费使用洗衣服务。酒店内的水疗中心提供按摩服务，还提供免费自行车和免费当地区域接送服务。17栋一居室和两居室别墅设有休息区、户外用餐区和一间带独立浴缸和淋浴的浴室。泳池为潜水池，除Kirana别墅外，拥有一个大型泳池。
 
@@ -317,7 +317,7 @@ Theanna Villa and Spa的坎古精品别墅提供高端的室内设计和卓越�
 
 Clifton Canggu Villas提供舒适且豪华的别墅，地处绝佳中心位置。
 
-**位置** | 别墅距离Nelayan海滩200米，距离Batu Bolong海滩600米。步行距离内有许多用餐选择。（🗺️[地图指引](/map/canggu/)）
+**位置** | 别墅距离Nelayan海滩200米，距离Batu Bolong海滩600米。步行距离内有许多用餐选择。（🗺️[地图指引](/map/canggu/)
 
 **设施** | 每间独栋别墅拥有一间卧室、一间带雨淋式淋浴的浴室和一个休息区。每日提供点菜早餐（需额外付费）。私人泳池尺寸适合情侣，泳池和露台周围的高墙提供隐私。别墅还提供付费机场接送服务和24小时前台。
 
@@ -445,7 +445,7 @@ Clifton Canggu Villas提供舒适且豪华的别墅，地处绝佳中心位置�
 
 ![Villa Canggu by Plataran - 青蔥稻田中的奢華住宿](https://images.gobaligo.id/images/2026-03/1774452440975-251726579.jpg)
 
-Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带花园和河流旁。
+Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，坐落于热带花园和河流旁。
 
 **位置** | 酒店虽然位于市中心，但感觉非常偏远。客人住在高级别墅中，别墅范围从一居室到两居室，多数设有私人泳池。（🗺️[地图指引](/map/canggu/)
 
@@ -477,7 +477,7 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 ![Morning Glory Villa – 設計感私人泳池別墅](https://images.gobaligo.id/images/2026-03/1774452498663-452956917.jpg)
 
-如果您正在寻找坎古巴厘岛提供的最佳豪华别墅，请查看新建的Morning Glory Villa。它被设计、建造和装修到高标准，提供豪华的住宿体验。
+如果您正在寻找Canggu Bali提供的最佳豪华别墅，请查看新建的Morning Glory Villa。它被设计、建造和装修到高标准，提供豪华的住宿体验。
 
 **位置** | 别墅距离Pererenan海滩略超过两公里。距离别墅一公里内有三家餐厅，最近的杂货店需步行20分钟。（🗺️[地图指引](/map/canggu/)
 
@@ -485,9 +485,9 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 **客房** | 双卧室别墅，每间宽敞的空调卧室设有超大双人床、边桌和衣柜。 其中一间卧室直接通向花园和泳池。黑白主题别墅设计出色，配有高端配件、墙面艺术、植物和软装饰。拱形窗户和门增加了独特的触感。这座别墅确实非常特别，查看它，您一定不会失望。
 
-> ▶Morning Glory Villa 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=56830063) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-102963630/morning-glory-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)”、“## Villa Yasa – 最适合群体的坎古最佳别墅之一”、“如果您喜欢卓越的建筑和充满光线的房间，独一无二的Villa Yasa是完美的选择。
+[> ▶Morning Glory Villa 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=56830063) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-102963630/morning-glory-villa/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)](#)
 
-**位置** | 别墅距离Batu Bolong海滩700米。如果您不想使用自助设施，周围200米内有三家餐厅。最近的杂货店需步行20分钟。（🗺️[地图指引](/map/canggu/)）
+## Villa Yasa – 最适合群体的坎古最佳别墅之一
 
 ![Villa Yasa – 最適合群體的Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452543059-374888377.jpg)
 
@@ -509,15 +509,15 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 ![Villa Yasa – 最適合群體的Canggu最佳別墅之一](https://images.gobaligo.id/images/2026-03/1774452547099-374888367.jpg)
 
+如果您喜欢卓越的建筑和充满光线的房间，独一无二的Villa Yasa是完美的选择。
+
+**位置** | 别墅距离Batu Bolong海滩700米。如果您不想使用自助设施，周围200米内有三家餐厅。最近的杂货店需步行20分钟。（🗺️[地图指引](/map/canggu/)）
+
 **设施** | 酒店提供自行车和汽车租赁服务。三间卧室的别墅可舒适地容纳六人。拥有巨大的双层高度开放式起居区，配有沙发和电视，一个带炉灶、冰箱和咖啡机的厨房，以及一个用餐区。室外泳池尺寸适中，周围环绕着绿色植物和露台。
 
-**位置** | 别墅距离Batu Bolong海滩700米。如果您不想使用自助设施，周围200米内有三家餐厅。最近的杂货店需步行20分钟。（🗺️[地图指引](/map/canggu/)
+**客房** | 每间宽敞的瓷砖地板空调卧室均为双面房；其中一间位于顶楼的玻璃盒内，可以360度地欣赏周围景色。每间卧室均设有一间带淋浴和浴缸的宽敞套房。装饰现代但温馨，带有桌灯、雕塑和壁画等舒适装饰。这座别墅必须亲眼所见，无疑是坎古最佳别墅之一。
 
-> ▶Villa Yasa 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105629617/villa-yasa-canggu-by-exotic-bali-properties/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)”、“## Villa Umami – 适合团体旅行”、“这个现代化的四星级别墅提供了充足的空间和优良的自助设施。
-
-**位置** | Villa Umami距离Batu Bolong海滩稍超过一公里，距离Pererenan海滩两公里。周围250米内有三家餐厅，最近的杂货店需步行15分钟。（🗺️[地图指引](/map/canggu/)）
-
-> ▶Villa Yasa 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105629617/villa-yasa-canggu-by-exotic-bali-properties/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+[> ▶Villa Yasa 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-105629617/villa-yasa-canggu-by-exotic-bali-properties/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)](#)
 
 ## Villa Umami – 适合团体旅行
 
@@ -541,13 +541,13 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 ![Villa Umami – 適合團體旅行](https://images.gobaligo.id/images/2026-03/1774452592484-384481861.jpg)
 
-这家现代化的四星级别墅提供了充足的空间和优良的自助设施。
+这个现代化的四星级别墅提供了充足的空间和优良的自助设施。
 
-**位置** | Villa Umami距离Batu Bolong海滩稍超过一公里，距离Pererenan海滩两公里。周围250米内有三家餐厅，最近的杂货店需步行15分钟。（🗺️[地图指引](/map/canggu/)
+**位置** | Villa Umami距离Batu Bolong海滩稍超过一公里，距离Pererenan海滩两公里。周围250米内有三家餐厅，最近的杂货店需步行15分钟。（🗺️[地图指引](/map/canggu/)）
 
 **设施** | 别墅可容纳多达六人，拥有三间卧室。设有一个大型开放式客厅，配有沙发、一个带冰箱、炉灶和烤箱的小厨房以及一个用餐区。起居室的门通向一个细长的阳光露台，配有座椅和一个尺寸适中的泳池。Villa Umami也提供付费机场接送服务。
 
-**客房** | 三间空调卧室均为大房，设有双人床、衣柜和床边桌。该物业的装潢现代且极简，采用优雅的黑白配色方案。
+**客房** | 三间空调卧室均为大房，设有双人床、衣柜和床边桌。该物业的装修现代且极简，采用优雅的黑白配色方案。
 
 > ▶Villa Umami 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28833708)
 
@@ -606,7 +606,7 @@ OXO Townhouses设立了坎古现代生活的新标准，提供一系列私人别
 
 Domisili Villa Canggu Bali By Fays Hospitality 以宽敞的设施、全新家具和精心维护著称，拥有漂亮的游泳池和休闲区，特别之处在于独立的客房别墅设计，提供更多隐私。这是一间新落成的精品别墅群，以现代极简设计结合热带风格著称。([**罗茜露** 推荐](https://www.facebook.com/share/p/1E4Y3wDVig/))
 
-**位置**｜别墅位于坎古，四周被稻田包围，营造宁静放松的氛围，距坎古海滩约15分钟车程，步行5分钟可抵达餐厅和洗衣店，交通便利且靠近主要道路。 （🗺️[地图指引](/map/canggu/)
+**位置**｜别墅位于坎古，四周被稻田包围，营造宁静放松的氛围，距坎古海滩约15分钟车程，步行5分钟可抵达餐厅和洗衣店，交通便利且靠近主要道路。 （🗺️[地图指引](/map/canggu/)）
 
 **设施**｜每间房都设有私人泳池和厨房，整个度假村配有10个室内泳池，免费提供WiFi和停车。公共室外起居室设计优美舒适，是与朋友或伴侣放松的完美场所，另提供24小时保安和Amolas Cafe。
 
@@ -638,7 +638,7 @@ Domisili Villa Canggu Bali By Fays Hospitality 以宽敞的设施、全新家具
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1789797041905-603283233.jpg)
 
-**位置**｜White Palm Villa 位于坎古，环境安静，却离坎古区域和海滩不远，能同时享有隐私和便利。距离伍拉·赖国际机场19公里（约12英里），并提供付费机场接驳。情侣旅客对位置的评分高达9.2。
+**位置**｜White Palm Villa 位于坎古（Canggu），环境安静，却离坎古区域和海滩不远，能同时享有隐私和便利。距离伍拉·赖国际机场19公里（约12英里），并提供付费机场接驳。情侣旅客对位置的评分高达9.2。
 
 **设施**｜每一间别墅皆有户外泳池，搭配日光露台、户外座位和池景露台。免费WiFi、串流服务和工作桌，让度假与远程工作都能兼顾。洗衣机、空调和设施齐全的小厨房也一应俱全。服务方面，有礼宾服务、迷你超市、每日清洁、私人入住与退房、行李寄存，还能停放自行车。
 
@@ -676,21 +676,25 @@ https://www.instagram.com/reel/DdWU39yzPAp/?utm_source=ig_web_copy_link&stkn=NTc
 
 ![raw-image](https://images.gobaligo.id/images/2026-09/1790472087746-809972978.jpg)
 
-The Huntley Canggu 是坎古Berawa新开业的高端别墅度假村，以加州中世纪设计风格独树一帜。
+The Huntley Canggu 是坎古贝拉瓦新开业的高端别墅度假村，以加州中世纪设计风格独树一帜。
 
-**位置｜**坐落于安静住宅街，步行10分钟可达Finns Beach Club与Atlas Beach Club，Berawa Beach与Canggu Beach近在咫尺。Parque Café餐厅及周边餐饮选择丰富，交通便利。
+**位置｜**坐落于安静住宅街，步行 10 分钟可达 Finns Beach Club 与 Atlas Beach Club，贝拉瓦海滩与坎古海滩近在咫尺。Parque Café 餐厅及周边餐饮选择丰富，交通便利。
 
-**设施**｜度假村融合米色调与大理石饰面，打造Palm Springs风情。配备24小时礼宾服务、健身中心、桑拿冰浴、自行车租赁，以及全日餐饮的Parque Café。
+**设施**｜度假村融合米色调与大理石饰面，打造棕榈泉风情。配备 24 小时礼宾服务、健身中心、桑拿冰浴、自行车租赁，以及全日餐饮的 Parque Café。
 
-**客房**｜13栋独立别墅，提供1至4卧室选择。全数配备私人泳池、Tempur-Pedic床垫、完整厨房、免费WiFi。4卧室Premium房型额外拥有屋顶健身室、按摩浴缸等高端设施，适合大型聚会。
+**客房**｜13 栋独立别墅，提供 1 至 4 卧室选择。全数配备私人泳池、Tempur-Pedic 床垫、完整厨房、免费 WiFi。4 卧室 Premium 房型额外拥有屋顶健身室、按摩浴缸等高端设施，适合大型聚会。
 
-**评论**｜Booking.com ⭐ 9.9/10（76评论）、Google ⭐ 5.0满分。住客赞扬设计执行与服务质量。
+**评论**｜Booking.com ⭐ 9.9/10（76 评论）、Google ⭐ 5.0满分。住客赞扬设计执行与服务质量。
 
 **适合人群**：蜜月旅客、朋友聚会、长住数字游民、设计爱好者。
 
 > **订房链接**：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64066733) | [Booking](https://booking.tpm.li/WnWOIw3J)
 
 <!-- no-shuffle -->
+
+## 坎古住宿位置地图
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BYgJ-BGp8_un1OjN2-zrpxIJm4E3SwM&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 {{block:canggu}}
 {{block:住宿}}

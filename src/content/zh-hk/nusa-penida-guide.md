@@ -1,35 +1,42 @@
 ---
+title: 【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、影相、景點
 slug: nusa-penida-guide
-title: 【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點
 description: >-
   當你去峇里島度假嗰陣，Nusa
-  Penida絕對係唔可以錯過嘅一站。呢個島以佢靚到爆嘅景點同迷人嘅文化聞名，俾旅客好多豐富嘅體驗。不過，因為佢比較偏僻，去Nusa
-  Penida可能要花啲時間做詳細嘅研究同計劃。喺呢篇文章入面，會為你提供由峇里島去Nusa Penida嘅旅遊指南，仲會俾最新嘅資訊
-pubDate: '2023-08-16'
-update: 2026/05/24
-heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
+  Penida絕對係唔可以錯過嘅一站。呢個島以佢靚到爆嘅景點同有魅力嘅文化聞名，俾旅客好多豐富嘅體驗。不過，因為佢比較偏僻，去Nusa
+  Penida可能要花啲時間研究同計劃。呢篇文章會同你提供由峇里島去Nusa Penida嘅旅遊指南，仲會俾最新嘅資訊
+pubDate: 2023-08-16T00:00:00.000Z
+updatedDate: 2026-10-11T00:00:00.000Z
+contentUpdatedAt: '2026-10-11T20:34:42+08:00'
+pubHour: null
+category:
+  - 峇里島分區攻略
 tags:
   - nusapenida
   - 努沙佩妮達
   - 地圖
+  - 佩尼達島
+heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
-category:
-  - 峇里島分區攻略
+source: ''
+sourceUrl: ''
+update: 2026/05/24
 lang: zh-hk
-_srcHash: 818f49577d9805016108274d73da1dfa
+_srcHash: 0c9e0d2dd42bf089c38c8e6e0c4020a6
 ---
 
-當你去峇里島度假嗰陣，Nusa Penida絕對係唔可以錯過嘅一站。呢個島以佢靚到爆嘅景點同迷人嘅文化聞名，俾旅客好多豐富嘅體驗。不過，因為佢比較偏僻，去Nusa Penida可能要花啲時間做詳細嘅研究同計劃。喺呢篇文章入面，會為你提供由峇里島去Nusa Penida嘅旅遊指南，仲會俾最新嘅資訊，幫你計劃好你嘅行程。
+當你去峇里島度假嗰陣，Nusa Penida絕對係唔可以錯過嘅一站。呢個島以佢靚到爆嘅景點同有魅力嘅文化聞名，俾旅客好多豐富嘅體驗。不過，因為佢比較偏僻，去Nusa Penida可能要花啲時間研究同計劃。呢篇文章會同你提供由峇里島去Nusa Penida嘅旅遊指南，仲會俾最新嘅資訊，幫你計劃好行程。
 
 ## 佩尼達島簡介
 
-Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45分鐘左右就到。出名嘅係佢天然未開發嘅原始美景，加上懸崖峭壁、海蝕洞、沙灘呢啲奇妙地形，同蔚藍嘅海水形成一幅世外桃源嘅景象！Nusa 呢個字喺印尼文就係「island」嘅意思，所以 Nusa Penida 都俾人翻譯成「佩尼達島」、「珀尼達島」，或者直接音譯做「努沙佩尼達」
+Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45分鐘左右就到。出名嘅係佢天然未開發嘅原始美景，加上懸崖峭壁、海蝕洞、沙灘呢啲奇妙地形，同蔚藍嘅海水形成一幅世外桃源嘅景象！Nusa 呢個字喺印尼文就係「island」嘅意思，所以 Nusa Penida 都譯做「佩尼達島」、「珀尼達島」，或者直接音譯做「努沙佩尼達」
 
 ## 佩尼達島攻略
 
-針對佩尼達島我哋總共有四集介紹，其他四集呢度有傳送門：
+針對佩尼達島我哋共有四集介紹，其他四集呢度有傳送門：
 
-針對佩尼達島我哋總共有五集介紹，一齊嚟更加深入認識呢個海島天堂！其他四集呢度有傳送門：
+針對佩尼達島我哋共有五集介紹，一齊嚟深入認識呢個海島天堂！其他四集呢度有傳送門：
 
 1. [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
 2. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/zh-hk/blog/nusa-penida-snorkeling-guide/)
@@ -38,7 +45,7 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 ## 佩尼達島熱門景點
 
-![佩尼達島攻略地圖](https://images.gobaligo.id/vocus/vocus_fbf1d99b951273c05a8ad34aca271a26.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&ehbc=2E312F" width="640" height="480"></iframe>
 
 佩尼達島攻略地圖
 
@@ -48,7 +55,9 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 ![佩尼達島熱門景點](https://images.gobaligo.id/vocus/vocus_292b0e4de7b79d70086bc92c66b6524b.jpg)
 
-要落去下面嗰個沙灘唔係咁易㗎！而家起緊一座玻璃透明電梯，預計2025年完工
+要落到下面嗰個海灘並唔係咁易㗎！而家起緊一座玻璃透明電梯
+
+快速參考：[Kelingking Beach安全嗎？絕美T-Rex懸崖嘅隱藏風險同注意事項](https://gobaligo.id/zh-hk/blog/kelingking-beach-nusa-penida-safety-tips)
 
 ▼Nusa Penida必遊景點 Broken Beach
 
@@ -70,7 +79,7 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 ### 峇里島出發東西佩尼達島精華一日遊
 
-準備好探索佩尼達島嘅熱門景點未？無論係精靈海灘嘅壯觀岩壁、鑽石海灘嘅純白沙灘，定係天使浴池嘅自然奇景，都可以俾你一邊享受清爽海風，一邊捕捉令人驚豔、隨手一拍就係 Instagram 大片嘅絕美畫面。呢個行程已經幫你準備好晒所需一切——包括快艇接送、當地司機、午餐等多項服務，輕鬆出發冇負擔。無論你係冒險愛好者、團體出遊，定係鍾意打卡嘅攝影玩家，呢趟旅程都會成為你嘅難忘回憶！
+準備好探索佩尼達島嘅熱門景點未？無論係精靈海灘嘅壯觀岩壁、鑽石海灘嘅純白沙灘，定係天使浴池嘅自然奇景，都可以俾你一邊享受清爽海風，一邊捕捉令人驚豔、隨手一拍就係 Instagram 大片嘅絕美畫面。呢個行程已經幫你準備好晒所需一切——包括快艇接送、當地司機、午餐等多項服務，輕鬆出發冇負擔。無論你係冒險愛好者、團體出遊，定係熱愛打卡嘅攝影玩家，呢趟旅程都會成為你嘅難忘回憶！
 
 - [峇里島出發佩尼達島一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D7f2ac4053e)
 - [峇里島出發佩尼達東西岸任選一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F159418-nusa-penida-west-east-trip-sanur-bali%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3De011eaaadc)
@@ -91,84 +100,80 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 
 ## 點樣去佩尼達島
 
-由峇里島去Nusa Penida有兩個方法，首先睇下自己出發嘅方式。由峇里島東岸嘅Sanur港口搭渡輪係去Nusa Penida最常見嘅方法。Sanur港口距離庫塔大約30分鐘車程，距離坎古大約1個鐘，你可以預先訂好船飛，然後去Sanur嘅港口。喺嗰度，你可以搭渡輪去Nusa Penida。雖然呢個方法比較經濟，但同時都要花時間同心機去規劃。
+由峇里島去Nusa Penida有兩個方法，首先講下自己過去嘅方式。由峇里島東岸嘅沙努爾港口搭渡輪係去Nusa Penida最常見嘅方法。沙努爾港口距離庫塔大約30分鐘車程，距離坎古大約1個鐘，你可以預先訂好船飛，然後去沙努爾嘅港口。喺嗰度，你就可以搭渡輪去Nusa Penida。雖然呢個方法比較經濟實惠，但同時都要花時間同心機去計劃。
 
 - [佩尼達島快艇船飛](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
-- [八人以上團體可以考慮包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
+- [八個人以上嘅團體可以考慮包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
 - [佩尼達島私人包車](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
 - [Nusa Penida多日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
-- [Nusa Penida電單車出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路況好差，請三思）
+- [Nusa Penida電單車出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路況好差，要諗清楚先好租）
 - [KKday方案](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-### **點樣由峇里島搭渡輪去Nusa Penida（坎古、庫塔、水明漾）？**
+### **點樣由峇里島搭渡輪去Nusa Penida（Canggu, Kuta, Seminyak）？**
 
-對於想由峇里島去Nusa Penida嘅人，你要知道去呢個島嘅快艇係由一個位置出發：沙努爾——位於峇里島嘅東南海岸，距離庫塔大約40分鐘車程，距離坎古大約80分鐘車程。新港口叫Pemelisan Harbor。
+想由峇里島去Nusa Penida嘅話，你要知道去嗰個島嘅快艇係由一個地方出發：Sanur——位於峇里島嘅東南海岸，距離Kuta大約40分鐘車程，距離Canggu大約80分鐘。新碼頭叫Pemelisan Harbor。
 
 以下係渡輪時間表：
 
-![如何從峇里島乘坐渡輪前往Nusa Penida（Canggu, Kuta, Seminyak）？](https://images.gobaligo.id/vocus/vocus_00a1f99f9b40877bd7047828e486803d.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-10/1791721915144-73.png)
 
-僅供參考
+（僅供參考，以實際調度為準）
 
-如果天氣太惡劣，船就唔會開。呢樣嘢有啲難預測
+如果天氣太差或者風浪太大，船就唔會開。呢樣嘢有啲難預測
 
-### **由Ubud去Nusa Penida點樣去？**
+### **由Ubud去Nusa Penida點去？**
 
 由Ubud去Nusa Penida比較麻煩，因為距離遠啲。暫時未有快艇飛可以預訂。
 
-不過，你可以喺烏布安排交通去Sanur嘅碼頭。揸車/搭車大約要一個鐘，但成日塞車嘅話可能會耐啲。
+不過，你可以喺烏布安排交通去Sanur嘅港口。揸車/搭車大概要一個鐘，但成日塞車嘅話可能會耐啲。
 
-### **由Sanur碼頭搭船去Nusa Penida係點嘅體驗？**
+### **從Sanur港搭船去Nusa Penida係點嘅體驗？**
 
-由Sanur搭快艇去Nusa Penida一定要預先訂好船飛，如果冇提前訂飛，去到碼頭就會俾「熱情」嘅推銷員圍住，佢哋會開啲好離譜嘅價錢。
+從Sanur搭快艇去Nusa Penida一定要預先訂好船飛，如果冇提前預訂，到咗港口就會俾「熱情」嘅推銷員圍住，佢哋會開出啲好離譜嘅價錢。
 
-一旦上咗船出發，由Sanur碼頭去Nusa Penida大約需要45分鐘。舊嘅「慢艇」已經唔再俾遊客搭，因為有啲危險，以前甚至試過反船。視乎天氣同海面情況，可能係風平浪靜嘅短程搭船體驗，亦有可能係瘋狂嘅海洋過山車之旅！
+一上船出發，從Sanur港到Nusa Penida大概要45分鐘。以前嗰啲「慢艇」已經唔再俾遊客搭，因為有啲危險，以前仲試過反船。視乎天氣同海面情況，可能係風平浪靜嘅短途船程，亦可能係瘋狂嘅海洋過山車之旅！
 
 ### **行李限制**
 
-峇里島去Nusa Penida嘅快艇通常都有行李限制，最多帶兩個行李箱，總重量係30公斤。不過，佢哋其實唔會秤你嘅行李。佢哋會將行李放喺甲板上，用大防水布冚住避免整濕。
+峇里島去Nusa Penida嘅快艇通常都有行李限制，最多帶兩個行李箱，總重量30公斤。不過，佢哋其實唔會秤你嘅行李。佢哋會將行李放喺甲板，用大防水布冚住避免整濕。
 
-如果你打算將大件行李寄存在峇里島本島，可以參考：[【出發前往峇里島離島】沙努爾行李寄存攻略](/zh-hk/blog/sanur-luggage-storage-guide/)
+如果你想將大件行李寄放喺峇里島本島，可以參考：[【出發前往峇里島離島】沙努爾行李寄放攻略](/zh-hk/blog/sanur-luggage-storage-guide/)
 
 ## **住宿推薦**
 
-如果係自己安排行程嘅朋友，去到Nusa Penida之後可以喺多個選擇入面揀住宿地點。以下係推薦嘅三個選擇，分別係平價、中價位同豪華住宿。
+如果係自己安排行程嘅朋友，去到Nusa Penida之後可以喺多個選擇中揀住宿地點。以下係推薦嘅三個選擇，分別係平價、中價位同豪華住宿。
 
 **豪華住宿：**[**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 
-呢個唔係Nusa Penida上最貴嘅豪華度假村，但絕對係最好嘅之一！呢個度假村位於海濱，設有大型豪華套房同豐富嘅早餐。
+呢間唔係Nusa Penida最貴嘅豪華度假村，但絕對係最好嘅之一！呢個度假村喺海邊，有大型豪華套房同豐富嘅早餐。
 
-**豪華私人villa：**[**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1)4.5星級私人泳池海濱villa
+**豪華私人villa：**[**MAUA Nusa Penida**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756874&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F716134-maua-nusa-penida-bali%2F%3Fcheck_in%3D2023-10-16%26check_out%3D2023-10-17%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26server_data%3D81124443136e8db398c4150149cf9cb8ad5d0b7952d56cc9b85d7c43ece88c583ef6a94734cddb541b772abe3853618168df7d3b4ca6468acc19f1de2836e7826a1d47060ff118517ead41986362fdcfc40dfd9c44da728ef31f43dd57fe7804%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjo3MTAxLjAsInNvdXJjZSI6MX0%3D%26is_suggest_time%3D1)4.5星級私人泳池海邊villa
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_9582b5f63acf8e9f46b2ade9f8b1ed2f.jpg)
 
 中價位：[Jukung Cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=25688678)
 
-呢個位於沙灘邊嘅度假村式小屋招待所性價比好高。佢設有餐廳、室外游泳池、酒吧同共用休息室。
+呢間喺沙灘邊嘅度假村式小屋招待所性價比好高。佢有餐廳、室外泳池、酒吧同共用休息室。
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_251cd6f79234af91002d2fa6ac0c00ff.png)
 
 平價住宿：[Hostel Bukit Sangcure](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=10306621)
 
-背包客喺Nusa Penida揀嘅住宿地點。呢間係平價嘅背包客旅館，近港口，提供早餐同單車租賃。
+背包客喺Nusa Penida揀嘅住宿地方。呢間係平價背包客旅館，近港口，有早餐同單車租。
 
 ![住宿推薦](https://images.gobaligo.id/vocus/vocus_551a7a5e13dc852eeff5da3abefc508c.png)
 
-最後有幾個注意事項要特別提醒去 Nusa Penida嘅遊客：
+最後有幾個注意事項要特別提醒去Nusa Penida嘅遊客：
 
-1. 直接喺港口可以買飛，但係一定要提早喺開船前一個鐘去到售票處
+1. 直接喺港口可以買飛，但記住要喺開船前一個鐘到售票處
+2. 預先喺[Klook訂飛](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)有優惠，又可以慳返排隊買飛嘅時間
+3. 可以帶大件行李，但最好盡量避免，喺島上帶住好唔方便
+4. 寄存服務請[參考呢度](/zh-hk/blog/sanur-luggage-storage-guide/)
+5. Klook買飛嘅人開船前最少30分鐘到港口
 
-2. 預先喺[Klook訂飛](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)有優惠又可以慳返排隊買飛嘅時間
-
-3. 可以帶大件行李，但係最好盡量避免，喺島上帶住好唔方便
-
-4. 寄物服務請[參考呢度](/zh-hk/blog/sanur-luggage-storage-guide/)
-
-5. Klook買飛嘅人要喺開船前提早至少30分鐘到港口
-
-6. Klook買飛嘅人最好提前一日以上先訂飛
+6. Klook買飛嘅人最好提前一日以上訂飛
 
 **Klook優惠行程：**
 
@@ -181,17 +186,17 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船大約45
 - [Nusa Penida多日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
 - [藍夢島 & 曼塔灣浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 - [Nusa Penida浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
-- [Nusa Penida摩托車出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路況好差，請自己諗清楚）
-- [佩尼達島 & 藍夢島私人包船遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
+- [Nusa Penida電單車出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路況好差，自己諗清楚先）
+- [佩尼達島同藍夢島私人包船遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 - [KKday方案](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=25072)
 
-![住宿推薦](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&ehbc=2E312F" width="640" height="480"></iframe>
 
-[撳我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
+[撳呢度](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
 
-### 我哋仲介紹咗九間有無邊際泳池、金黃沙灘、夕陽靚景嘅Nusa Penida美食餐廳
+### 我哋仲介紹咗十間有無邊際泳池、金黃沙灘、夕陽美景嘅Nusa Penida美食餐廳
 
-**▶努沙佩尼達島攻略第二集：**[享受佩尼達島嘅碧海藍天美食，TOP 9絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
+**▶努沙佩尼達島攻略第二集：**[享受佩尼達島嘅碧海藍天美食，TOP 10絕佳選擇](/zh-hk/blog/nusa-penida-best-restaurants/)
 
 ![我們還介紹了九家擁有無邊際泳池、金黃沙灘、夕陽美景的Nusa Penida美食餐廳](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
