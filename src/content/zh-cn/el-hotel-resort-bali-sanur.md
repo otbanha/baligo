@@ -1,9 +1,8 @@
 ---
 title: 巴厘岛沙努尔新酒店｜éL Hotel & Resort Bali 2026年开业
 slug: el-hotel-resort-bali-sanur
-description: 2026年4月沙努尔最新开业的海景酒店！109间房间、直接面临Karang Beach、独特水上活动体验。家庭度假、蜜月旅行、长住者的理想选择。
+description: 2026年4月沙努尔最新开业的海景酒店！109间房间、直接面对Karang Beach、独特水上活动体验。家庭度假、蜜月旅行、长住者的理想选择。
 pubDate: 2026-08-21T00:00:00.000Z
-updatedDate: 2026-08-20T00:00:00.000Z
 pubHour: 22
 category:
   - 住宿推薦
@@ -22,14 +21,15 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-08/1787212661683-mixcollage-20-aug-2026-02-57-pm-42.jpg
 imageAlt: ''
 originalUrl: ''
-newsCategory: ''
 source: ''
 sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+contentUpdatedAt: '2026-10-14T19:20:11+08:00'
+updatedDate: 2026-10-14T00:00:00.000Z
 lang: zh-cn
-_srcHash: 0befb708f2d639147603137cf50b58d0
+_srcHash: b4a0488c1d8e1a7d4101a30682351bc2
 ---
 
 # 🆕 2026/04 新开业｜沙努尔滨海度假新选择 - éL Hotel & Resort Bali
@@ -52,7 +52,7 @@ Karang Beach是沙努尔最受欢迎的海滩，距酒店近在咫尺。这里�
 
 https://youtu.be/Xp5gyMslrVE
 
-周边便利设施完善，距离国际机场（Ngurah Rai International Airport）约9公里，约30分钟车程。酒店附近有著名的Artasedana超市、Sindu Night Market传统市场，以及新开幕的Icon Bali购物中心（距离不到1公里），为旅客提供便捷的购物与饮食选择。对于水上活动爱好者，酒店离Sanur渡轮港口也不算太远，可轻松预订前往Nusa Penida、Nusa Lembongan等离岛进行浮潜和潜水活动。
+周边便利设施完善，距离国际机场（Ngurah Rai International Airport）约9公里，约30分钟车程。酒店附近有著名的Artasedana超市、Sindu Night Market传统市场，以及新开幕的Icon Bali购物中心（距离不到1公里），为旅客提供便捷的购物与餐饮选择。对于水上活动爱好者，酒店离Sanur渡轮港口也不算太远，可轻松预订前往Nusa Penida、Nusa Lembongan等离岛进行浮潜和潜水活动。
 
 ***
 
@@ -164,7 +164,7 @@ https://youtu.be/Xp5gyMslrVE
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787223993457-unnamed.webp)
 
-「在沙努尔El酒店的住宿体验堪称完美。我们获得了卓越的服务与无敌海滩位置，每位员工都极其友善与热情。他们甚至在我们三晚住宿期间为我们升级了房间。我的孩子们玩得不亦乐乎，我们创造了美好的回忆，下次一定会再来！」（来源：TripAdvisor）
+「在沙努尔El Hotel的住宿体验堪称完美。我们获得了卓越的服务与无敌海滩位置，每位员工都极其友善与热情。他们甚至在我们三晚住宿期间为我们升级了房间。我的孩子们玩得不亦乐乎，我们创造了美好的回忆，下次一定会再来！」（来源：TripAdvisor）
 
 「我们喜爱这里正宗巴厘岛度假村的风格——两座泳池、出色的客房服务、许多回头客，每个人都很开心。」（来源：Google Reviews）
 
@@ -190,12 +190,16 @@ https://youtu.be/Xp5gyMslrVE
 - **入住时间：** 下午3:00-11:00
 - **退房时间：** 中午12:00前
 
+## 每周六还有weekend market
+
+https://www.instagram.com/reel/DeY6OthSWCL/?utm_source=ig_web_copy_link&exln=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==
+
 ***
 
 ## 🎯 旅游建议
 
 https://www.instagram.com/reel/DYWNUlaziJI/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
-如果你向往沙努尔的慢调度假风格，éL Hotel & Resort Bali是值得列入行程的优先选择。这家新酒店不仅提供现代便利设施，更以保护与弘扬巴厘岛文化为核心价值，让你在度假中深刻感受当地的文化底蕴。早期预订可享受软开幕优惠，现在正是体验沙努尔新宠的绝佳时机。
+如果你向往沙努尔的慢调度假风格，éL Hotel & Resort Bali是值得列入行程的优先选择。这家新酒店不仅提供现代便利设施，更以保护和弘扬巴厘岛文化为核心价值，让你在度假中深刻感受当地的文化底蕴。早期预订可享受软开幕优惠，现在正是体验沙努尔新宠的绝佳时机。
 
 {{block:sanur}}
