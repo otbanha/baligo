@@ -1,8 +1,8 @@
 ---
-title: 2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力
+title: 2026峇里島完整烏布攻略：100種深入認識烏布嘅方法｜探索烏布嘅魅力
 slug: ubud-guide
 description: >-
-  2026年最新烏布周邊完整攻略，帶你認識呢個令人著迷嘅目的地。從文化景點到美食探險，呢篇攻略會帶你認識100種全新嘅體驗方式。準備好探索峇里島心靈之旅嘅無盡可能性！
+  2026年最新烏布周邊完整攻略，帶你認識呢個令人著迷嘅目的地。由文化景點到美食探險，呢篇攻略會帶你認識100種全新嘅體驗方式。準備好探索峇里島心靈之旅嘅無盡可能性！
 pubDate: 2023-11-17T00:00:00.000Z
 pubHour: null
 category:
@@ -27,15 +27,14 @@ contentUpdatedAt: '2026-10-13T15:43:26+08:00'
 updatedDate: 2026-10-13T00:00:00.000Z
 update: 2026/05/22
 lang: zh-hk
-_srcHash: PENDING_RETRY_5307267ef7998c6d57d46e2eda4b9982
-_translateAttempts: 2
+_srcHash: 5307267ef7998c6d57d46e2eda4b9982
 ---
 
-**先講結論**：烏布早在**公元8世紀**已經係一個村落，呢篇完整攻略收錄咗超過**100個景點同活動**，包括40幾個美食推薦、3間叢林泳池俱樂部、10幾個親子活動，啱晒用嚟規劃烏布深度旅遊嘅主力參考地圖。
+**先講結論**：烏布早在**公元8世紀**已經係村落，呢篇完整攻略收錄咗超過 **100個景點同活動**，包括40幾個美食推薦、3間叢林泳池俱樂部、10幾個親子活動，適合用嚟規劃烏布深度旅遊嘅主力參考地圖。
 
-烏布位於峇里島中部，係佢嘅旅遊同文化核心。呢度歷史悠久，早在公元8世紀已經係一個村落。而家，烏布成為峇里島最出名嘅旅遊勝地之一。
+烏布位於峇里島中部，係旅遊同文化嘅核心。呢度歷史悠久，早在公元八世紀已經係村落。而家，烏布成為峇里島最出名嘅旅遊勝地之一。
 
-呢度嘅景致同島上其他地區好唔同，以佢獨特嘅宗教、藝術同自然美景而聞名。山城特有嘅文化氛圍令人陶醉，烏布係捕捉IG靚相嘅絕佳地點。古老寺廟、壯觀梯田同周圍都係嘅峇里島建築，無一唔展現引人入勝嘅視覺魅力。烏布每一個轉角都好似一幅獨特風格嘅藝術畫，令你感受到呢座城市深遠嘅靈魂同豐富嘅歷史。
+呢度嘅景致同島上其他地區好唔同，以獨特嘅宗教、藝術同自然美景聞名。山城特有嘅文化氛圍令人陶醉，烏布係捕捉IG靚相嘅絕佳地點。古老寺廟、壯觀梯田同周圍都係嘅峇里島建築，無一唔展現引人入勝嘅視覺魅力。烏布每一個轉角都好似一幅獨特風格嘅藝術畫，令你感受到呢座城市深遠嘅靈魂同豐富嘅歷史。
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&ehbc=2E312F" width="640" height="480"></iframe>
 
@@ -43,17 +42,17 @@ _translateAttempts: 2
 
 下面有我哋準備嘅烏布攻略地圖同詳細說明，包括超過50幾個烏布美食推薦、3間2024新開幕嘅叢林泳池俱樂部、10幾個親子同樂活動、超多必訪景點... 總共有100幾個景點同各種有趣精彩嘅活動收集，係你成為峇里島深度旅遊高手嘅唯一攻略！
 
-喺烏布可以進行啲咩旅遊活動呢？我哋將內容拆分為【烏布熱門景點】、【烏布熱門活動】、【沉浸山水美景嘅好地方】、烏布以北嘅【水神廟周邊】、同烏布以東嘅【天空之門周邊】幾個大項目，等各位更全面咁了解烏布同佢周邊。
+喺烏布可以進行啲咩旅遊活動呢？我哋將內容拆分做【烏布熱門景點】、【烏布熱門活動】、【沉浸山水美景嘅好地方】、烏布以北嘅【水神廟周邊】、同烏布以東嘅【天空之門周邊】幾個大項目，等各位更全面咁了解烏布同佢周邊。
 
 ## 【烏布熱門景點】
 
 ### 烏布中心：烏布皇宮、烏布市場（👉🏼地圖：[烏布中心](/map/ubud/)）
 
-行入烏布市區，就好似踏上咗一段穿越時光嘅旅程。烏布皇宮就好似一座有千年歷史嘅寶藏，佢典雅嘅峇里島建築風格展現咗當地文化嘅深厚底蘊。喺呢個古老又神秘嘅皇宮入面，你會感受到宗教同王室嘅結合，仲可以見到各式各樣古老文物嘅輝煌。
+行入烏布市區，就好似踏上咗一段穿越時光嘅旅程。烏布皇宮就好似一座有千年歷史嘅寶庫，佢典雅嘅峇里島建築風格展現咗當地文化嘅深厚底蘊。喺呢個古老而神秘嘅皇宮入面，你會感受到宗教同王室嘅結合，仲會見到各式各樣古老文物嘅輝煌。
 
-烏布皇宮門票、開放時間等詳細資訊，請睇[呢度](/zh-hk/blog/ubud-royal-palace-tour-guide/)。
+烏布皇宮嘅門票、開放時間等詳細資訊，請睇[呢度](/zh-hk/blog/ubud-royal-palace-tour-guide/)。
 
-> 呢類景點嘅門票行情會隨旺季調整，建議出發前到 [**峇里島門票票價總表**](/zh-hk/tickets/) 確認最新參考價。
+> 呢類景點嘅門票行情會隨旺季調整，建議出發前去 [**峇里島門票票價總表**](/zh-hk/tickets/) 確認最新參考價。
 
 ![烏布中心地圖。小傑的視頻帶你徒步逛一圈！](https://images.gobaligo.id/vocus/vocus_c6fdef7285695a13059f6b83b709d9a1.png)
 
@@ -65,9 +64,9 @@ https://youtu.be/JtxZHtijEkE
 
 ### 烏布水皇宮（👉🏼地圖：[烏布中心](/map/ubud/)）
 
-烏布水皇宮（Pura Taman Saraswati）坐落喺離烏布皇宮只係三分鐘路程嘅地方，係一個隱藏喺星巴克後面嘅角落，成日俾遊客忽略，但係就有令人嘆為觀止嘅美景。相比起烏布皇宮，呢座寺廟更加幽靜同神秘，提供咗一個絕佳嘅影相地方，令你可以捕捉到獨特又精緻嘅瞬間。
+烏布水皇宮（Pura Taman Saraswati）坐落喺離烏布皇宮得三分鐘路程嘅地方，係一個隱藏喺星巴克後面嘅角落，成日俾遊客忽略，但係就有令人嘆為觀止嘅美景。相比起烏布皇宮，呢座寺廟更加幽靜同神秘，提供咗一個絕佳嘅影相位，令你可以捕捉到獨特而精緻嘅瞬間。
 
-烏布水皇宮以佢獨特嘅水景聞名，佢坐落喺一個蓮花水池步道嘅盡頭，烏布水皇宮嘅建築亦充滿咗峇里島特有嘅藝術風格，神秘嘅石刻同建築展現咗當地文化嘅深厚底蘊。喺呢度漫步，就好似穿越時空，感受到古老神話同宗教信仰嘅薰陶。
+烏布水皇宮以佢獨特嘅水景聞名，佢坐落喺一個蓮花水池步道嘅盡頭，烏布水皇宮嘅建築亦充滿峇里島特有嘅藝術風格，神秘嘅石刻同建築展現咗當地文化嘅深厚底蘊。喺呢度漫步，就好似穿越時空，感受到古老神話同宗教信仰嘅薰陶。
 
 2026年國際旅客嘅票價同影相方案整理，俾大家參考👇
 
@@ -84,13 +83,13 @@ https://youtu.be/JtxZHtijEkE
 
 📌 **溫馨提示（個人觀察）**
 
-烏布水皇宮本身唔大，齋參觀唔會留好耐，但影相真係好睇光線同人潮。如果你係為咗影相嚟嘅，揀包影相嘅方案會方便啲；如果只係順便睇吓，其實齋買入場飛都夠。
+烏布水皇宮本身唔大，淨係參觀嘅話唔會留好耐，但影相真係好睇光線同人潮。如果你係為咗影相嚟嘅，揀包影相嘅方案會慳好多功夫；如果只係順便睇吓，其實淨係買入場飛都夠晒。
 
 ### 烏布皇宮卡恰火舞秀（👉🏼地圖：[烏布中心](/map/ubud/)）
 
 ![烏布皇宮卡恰火舞秀（地圖：烏布中心）](https://images.gobaligo.id/vocus/vocus_71b471a674052df7495db6869ab3fe8f.jpg)
 
-夜晚嘅烏布皇宮，會有一場精彩嘅表演，帶你睇卡恰火舞秀嘅神秘魅力。呢個表演結合咗峇里島獨特嘅舞蹈、音樂同戲劇元素，火焰跳動同優雅舞姿喺皇宮庭院交織，為你帶嚟一場難忘嘅文化盛宴。
+喺烏布皇宮，夜晚黑嘅時候會有一場好精彩嘅表演，帶你睇吓卡恰火舞秀嘅神秘魅力。呢場表演結合咗峇里島獨特嘅舞蹈、音樂同戲劇元素，火焰跳動同優雅舞姿喺皇宮嘅庭院交織，為你帶嚟一場難忘嘅文化盛宴。
 
 烏布皇宮卡恰火舞表演時間、票價等詳細資訊，請睇[呢度](/zh-hk/blog/ubud-royal-palace-tour-guide/)。
 
@@ -100,81 +99,81 @@ https://youtu.be/JtxZHtijEkE
 
 ### 猴子森林（👉🏼地圖：[烏布中心](/map/ubud/)）
 
-烏布嘅猴子森林（Ubud Monkey Forest）係一個自然同文化交融嘅寶地。走入呢片綠油油嘅樹海，猴子喺你周圍玩嚟玩去，好似變成大自然嘅一部分。你可以同呢啲精靈嘅小動物互動，感受到同自然共生嘅奇妙體驗。
+烏布嘅猴子森林（Ubud Monkey Forest）係一個自然同文化交融嘅寶地。行入呢片綠油油嘅樹海，猴子喺你周圍玩嚟玩去，好似成為大自然嘅一部分。你可以同呢啲精靈嘅小動物互動，感受到同自然共生嘅奇妙體驗。
 
-不過因為呢度啲猴子太百厭，遊客入猴子森林時要打醒十二分精神。呢啲好奇心爆棚嘅小動物可能會喺你身上爬嚟爬去，甚至偷走或者搶走你嘅眼鏡、隨身物品等。所以，遊客要小心同猴子互動，唔好帶食物或者明顯嘅物品，以免引起佢哋嘅注意。
+不過因為呢度啲猴子太百厭，遊客入猴子森林時要打醒十二分精神。呢啲好奇心爆棚嘅小動物可能會喺你身上爬嚟爬去，甚至偷走或者搶走你嘅眼鏡、隨身物品等。所以，遊客要小心同猴子互動，唔好帶食物或者顯眼嘅物品，以免引起佢哋嘅注意。
 
 > [猴子森林優惠門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dce3208bb81)
 
 > [烏布猴子森林 & 德格拉朗私人遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F30049-ubud-monkey-forest-tegalalang-private-trip%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D718d91e510)
 
-[> 【烏布猴子森林＆秘境瀑布之旅（連專業影相服務）】](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)「### 烏布藝術市集（👉🏼地圖：[烏布中心](/map/ubud/)）」，「烏布嘅藝術市集唔止得個出名嘅「Ubud Art Market」！想探索在地文化同藝術之美，呢啲隱藏版市集絕對值得去睇下。等我哋帶你行勻四個各有特色、由在地藝術家經營嘅市集，體驗最地道嘅烏布藝術風情。由手工藝品到繪畫作品，每個市集都藏住獨特嘅寶藏等你發掘。」，「請睇：[推薦烏布五大藝術市集完整指南：買紀念品/手信，尋訪峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)」，「### Sweet Orange Walk Trail（👉🏼地圖：[烏布中心](/map/ubud/)）」，「__VID0__」，「隱藏喺峇里島烏布市中心嘅 **Sweet Orange Walk Trail**（甜橙步道）係一個難得嘅秘境。呢條步道全程都係平坦好行嘅石板路，就算係悠閒咁行，都唔使一個鐘就行得完。」，「最令人陶醉嘅時刻係傍晚五點半至六點半之間。行喺其中，四周係翠綠嘅稻田景色，隨住夕陽慢慢西沉，天空染上一層溫柔嘅橘紅色，令人難以想像嘈雜嘅市中心旁邊竟然藏住咁療癒人心嘅田園風光。」，「詳細步道入口/路徑，請睇：[https://gobaligo.id/zh-hk/blog/sweet-orange-walk-trail-ubud/](https://gobaligo.id/zh-hk/blog/sweet-orange-walk-trail-ubud/)」，「### Folk Pool & Gardens 隱藏喺烏布鬧區中嘅幽靜Pool Club」]}  
+[> 【烏布猴子森林＆秘境瀑布之旅（連專業拍攝服務）】](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49143-ubud-monkey-forest-tegalalang-tukad-cepung-waterfall-tour-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D748d67cbb5)
 
 ### 烏布藝術市集（👉🏼地圖：[烏布中心](/map/ubud/)）
 
 ![烏布藝術市集](https://images.gobaligo.id/vocus/vocus_67fb13bc56e5bc20ca5def2d59d70a41.jpg)
 
-烏布嘅藝術市集唔止得個出名嘅「Ubud Art Market」！想探索在地文化同藝術之美，呢啲隱藏版市集絕對值得去睇下。等我哋帶你行勻四個各有特色、由本地藝術家打理嘅市集，體驗最地道嘅烏布藝術風情。由手工藝品到畫作，每個市集都藏住獨特嘅寶藏等你發掘。
+烏布嘅藝術市集唔止得「Ubud Art Market」咁簡單！想探索地道文化同藝術之美，呢啲隱藏版市集絕對值得去行吓。等我哋帶你走訪四個各有特色、由本地藝術家經營嘅市集，體驗最地道嘅烏布藝術風情。由手工藝品到畫作，每個市集都藏住獨特嘅寶藏等你發掘。
 
-請睇：[推薦烏布五大藝術市集完整指南：買紀念品/手信，搵峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
+請睇：[推薦烏布五大藝術市集完整指南：買紀念品/手信，尋訪峇里島文化寶藏](/zh-hk/blog/ubud-art-markets-guide/)
 
 ### Sweet Orange Walk Trail（👉🏼地圖：[烏布中心](/map/ubud/)）
 
 https://www.tiktok.com/@marlousbrinkman/video/7427773637245127968?is_from_webapp=1&sender_device=pc
 
-隱匿於峇里島烏布市中心的 **Sweet Orange Walk Trail**（甜橙步道）是一處難得的秘境。這條步道全程皆為平坦好走的石板路，即使是悠閒漫步，也能在不到一小時內輕鬆走完。
+匿藏喺峇里島烏布市中心嘅 **Sweet Orange Walk Trail**（甜橙步道）係一個難得嘅秘境。呢條步道全程都係平坦好行嘅石板路，就算係慢慢行，都唔使一個鐘就行得晒。
 
-最令人陶醉的時刻莫過於傍晚 5 點半至 6 點半之間。漫步其中，四周是翠綠的稻田景致，隨著夕陽緩緩西沈，天空被染上一層溫柔的橘紅色，讓人難以想像喧囂的市中心旁竟藏著這般療癒人心的田園風光。
+最令人陶醉嘅時刻係傍晚五點半至六點半之間。行喺其中，四周係翠綠嘅稻田景致，隨住夕陽慢慢西沉，天空染上一層溫柔嘅橘紅色，令人難以想像喧囂嘅市中心旁邊竟然藏住咁療癒人心嘅田園風光。
 
-詳細步道入口/路徑, 請看: [https://gobaligo.id/zh-hk/blog/sweet-orange-walk-trail-ubud/](https://gobaligo.id/zh-hk/blog/sweet-orange-walk-trail-ubud/)
+詳細步道入口/路徑，請睇：https://gobaligo.id/zh-hk/blog/sweet-orange-walk-trail-ubud/
 
-### Folk Pool & Gardens 隱藏喺烏布鬧區入面嘅幽靜Pool Club
+### Folk Pool & Gardens 隱藏喺烏布鬧區中嘅幽靜Pool Club
 
 ![Folk Pool & Gardens 隱藏在烏布鬧區中的幽靜Pool Club](https://images.gobaligo.id/vocus/vocus_2cc396ec6670466a36f49416c315f046.jpg)
 
-喺峇里島烏布嘅鬧區，除咗有數唔完嘅舖頭、逛唔完嘅特色手信、好食又健康嘅各國美食、放鬆身心嘅Yoga同Spa... 之外，竟然仲隱藏咗一個與世隔絕嘅世外桃源：Folk Pool & Garden
+喺峇里島烏布嘅鬧區，除咗有數唔完嘅舖頭、行唔完嘅特色手信、好食又健康嘅各國美食、舒展身心嘅Yoga同Spa... 之外，竟然仲隱藏咗一個與世隔絕嘅世外桃源：Folk Pool & Garden
 
-呢度唔似一般餐廳咁，啲人通常食完飯就走。佢與眾不同，獨特又寬敞。你可以喺度消磨一整日，係一個好正嘅影相打卡位㗎！
+呢度唔似一般餐廳咁，啲人通常食完飯就走。佢與眾不同，獨特又寬敞。你可以喺度消磨一整日，係個好正嘅影相位㗎！
 
-呢個地方可以安排成用一日時間徒步漫遊/行街烏布鬧區嘅最後一站，嚟呢度放鬆休息，影靚相。夜晚仲有露天電影院播戲添！
+呢個地方可以安排成用一日時間徒步漫遊/行街烏布鬧區嘅最後一站，嚟呢度放鬆休息，影啲靚相。呢度夜晚仲有露天電影院播電影添！
 
-入Folk Pool & Garden如果想游水，單人嘅SUN LOUNGER係印尼盾150,000，折合美金約$5，佢哋會俾毛巾你，你就可以喺度游水影相。如果想租最多容納四個人嘅亭仔，就係印尼盾350,000，折合美金約$11，最好[預先預約](https://www.folkubud.com/)。
+入Folk Pool & Garden如果想游水，單人嘅SUN LOUNGER係印尼盾150,000，折合美金約$5，佢哋會俾毛巾你，你就可以喺度游水影相。如果想租最多容納四人嘅亭子就係印尼盾350,000，折合美金約$11，最好[先預約](https://www.folkubud.com/)。
 
-呢個地方嘅影片喺[呢度](https://youtu.be/JtxZHtijEkE?si=BRDnMk_1u0E3eheX&t=686)。
+呢個地方嘅視頻喺[呢度](https://youtu.be/JtxZHtijEkE?si=BRDnMk_1u0E3eheX&t=686)。
 
 ### 世界遺產梯田景觀（👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 ![世界遺產梯田景觀（地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_b32736a5ef98517bd7b4ebd87af9506f.jpg)
 
-烏布周邊嘅梯田景觀係峇里島嘅一大亮點，一幅好似畫卷咁壯麗嘅景致，仲攞咗聯合國教科文組織嘅世界遺產稱號。呢片梯田區域唔單止呈現出大自然嘅奇蹟，仲彰顯咗自然同人類和諧相處嘅美好場景，成為峇里島唔可以錯過嘅旅遊勝地之一。
+烏布周邊嘅梯田景觀係峇里島嘅一大亮點，一幅好似畫卷咁嘅壯麗景致，仲攞咗聯合國教科文組織嘅世界遺產稱號。呢片梯田區域唔單止呈現出大自然嘅奇蹟，仲彰顯咗自然同人類和諧相處嘅美好場景，成為峇里島唔可以錯過嘅旅遊勝地之一。
 
 德格拉郎梯田（Tegalalang Rice Terrace）係烏布最容易去到同最受歡迎嘅梯田區之一。呢片梯田地區嘅佈局獨特，梯田之間嘅蜿蜒小徑好似交織出一幅綠色嘅畫布，將大自然嘅生機盎然展現得淋漓盡致。喺呢片土地上，稻浪翻滾，形成一幅動人嘅農耕詩篇，融合咗自然美同農耕文化。
 
-另一個冇咁商業化嘅梯田區係Jatiluwih Rice Terrace，但係都離烏布比較遠，由烏布皇宮做起點要90分鐘車程，但係更能感受原始嘅梯田之美！
+另外一個冇咁商業化嘅梯田區係Jatiluwih Rice Terrace，但係都離烏布比較遠，由烏布皇宮做起點要90分鐘車程，但係更能感受原始嘅梯田之美！
 
 最佳捕捉梯田美景嘅時間係喺清晨初曉，當太陽啱啱升起嘅時候。呢一刻，金黃嘅陽光灑喺梯田上，勾勒出層次豐富嘅陰影，呈現出令人陶醉嘅光影效果。呢個係攝影愛好者同遊客最愛嘅時刻，因為呢個時候嘅梯田好似沉浸喺一片金色嘅夢幻中。
 
-[> [峇里島中部一日遊：德格拉朗梯田＆聖猴森林公園＆象洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F10810-tegalalang-monkey-forest-tour-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc33480c5f6)
+[> 峇里島中部一日遊：德格拉朗梯田＆聖猴森林公園＆象洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F10810-tegalalang-monkey-forest-tour-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc33480c5f6)
 
-> [Jatiluwih 梯田電動單車之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F33428-jatiluwih-rice-terraces-electric-bike-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3124496931)
+[> Jatiluwih 梯田電動單車之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F33428-jatiluwih-rice-terraces-electric-bike-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3124496931)
 
 ### Alas Harum （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 ![Alas Harum （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_bb9942f9c364faf4117fcfd96a564d01.jpg)
 
-喺上面講嘅德格拉朗梯田附近，有個叫「Alas Harum」嘅園區。Alas Harum位於烏布市中心以北大概20分鐘車程嘅地方。Alas Harum最出名嘅景點係佢嘅水稻梯田景觀。
+啱啱講到嘅德格拉郎梯田附近，有個叫「Alas Harum」嘅園區。Alas Harum位於烏布市中心以北大約20分鐘車程嘅地方。Alas Harum最出名嘅景點就係佢嘅水稻梯田景觀。
 
-呢度仲提供各種戶外活動，包括飛狐、鞦韆同最新嘅天空單車（sky biking）。遊客可以喺度玩刺激嘅冒險活動，亦可以喺寧靜嘅環境入面放鬆吓。
+呢度仲提供各種戶外活動，包括飛狐、鞦韆同最新嘅天空單車（sky biking）。遊客可以喺度玩刺激嘅冒險活動，亦都可以喺寧靜嘅環境入面放鬆吓。
 
 Alas Harum仲有豐富嘅文化遺產。呢個地區有好多寺廟、雕像同其他古蹟，展示咗峇里島嘅悠久歷史同文化。Alas Harum係遊覽烏布嘅理想地方。佢有壯麗嘅景色、刺激嘅活動同豐富嘅文化遺產。
 
-> [Alas Harum活動任揀](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0129827325)
+[> Alas Harum活動任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0129827325)
 
 ### 烏布天空步道 （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
-推薦一個由烏布皇宮行路好快就到，叫做「烏布天空步道」嘅Campuhan Ridge Walk（詹普漢山脊步道）。佢係一個隱藏喺烏布市中心附近嘅寶藏，帶嚟大自然嘅寧靜同靚風景。呢條步道喺山脊上面，提供壯觀嘅360度居高臨下嘅寬闊風景，遠離城市嘅嘈雜。
+推薦一個由烏布皇宮行路就可以好易去到，叫做「烏布天空步道」嘅Campuhan Ridge Walk（詹普漢山脊步道）。佢係一個隱藏喺烏布市中心附近嘅寶藏，帶嚟大自然嘅寧靜同靚風景。呢條步道位於山脊上，提供壯觀嘅360度居高臨下嘅寬闊風景，遠離城市嘅嘈雜。
 
-天空步道點去？要行幾耐？最佳去嘅時間係幾時？請睇[小傑嘅詳細介紹](/zh-hk/blog/ubud-campuhan-ridge-walk/)
+天空步點去？要行幾耐？最佳去嘅時間係幾時？請睇[小傑嘅詳細介紹](/zh-hk/blog/ubud-campuhan-ridge-walk/)
 
 ### 三大瀑布探秘 （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
@@ -182,9 +181,9 @@ Alas Harum仲有豐富嘅文化遺產。呢個地區有好多寺廟、雕像同�
 
 [烏布附近三大瀑布探秘](/zh-hk/blog/ubud-waterfalls-guide/)
 
-烏布地區唔單止以文化同藝術聞名，仲有令人讚嘆嘅自然景觀，其中瀑布更加係必去嘅地方。烏布附近嘅三大知名瀑布：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布。可以睇[呢度有「烏布周邊三大知名瀑布攻略」](/zh-hk/blog/ubud-waterfalls-guide/)
+烏布呢區唔單止以文化同藝術出名，仲有令人嘆為觀止嘅自然景觀，其中瀑布更加係必去嘅地方。烏布附近嘅三大知名瀑布：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布。可以睇[呢度有「烏布周邊三大知名瀑布攻略」](/zh-hk/blog/ubud-waterfalls-guide/)
 
-瀑布係一個探秘自然之美，仲係影IG靚相嘅理想地方。遠離城市嘅嘈雜，沿住小徑喺綠油油嘅叢林入面行，好似走入咗一個神秘嘅秘境。企喺瀑布前面，濺起嘅水花同急湍嘅水流會令你感受到大自然嘅震撼力。
+瀑布係一個探秘自然之美，仲係影IG靚相嘅理想地方。遠離城市嘅嘈雜，沿住小徑喺綠油油嘅叢林入面行，好似入咗個神秘秘境咁。企喺瀑布前面，濺起嘅水花同急湍嘅水流會令你感受到大自然嘅震撼力。
 
 > [Hidden Canyon & Tegenungan瀑布探險一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F28599-hidden-canyon-tegenungan-waterfall-goa-gajah-full-day-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D41c518ada3)
 
@@ -200,15 +199,15 @@ Dalem Pingit聖泉有圖左嘅瀑布灌頂/Pura Gunung Kawi聖泉有壯觀嘅石
 
 一般嘅旅遊網誌只會介紹烏布一個最有名嘅聖泉寺 Pura Tirta Empul，其實據我所知，烏布嘅聖泉寺最少有三個㗎！
 
-喺烏布除咗大家都知嘅Pura Tirta Empul聖泉寺之外，仲有兩個匿埋喺靜靜地角落頭嘅寺廟，距離都唔係好遠，等緊探索者嚟發掘。呢兩個聖泉寺唔單止可以令你體驗到峇里島獨特嘅宗教文化，仲可以喺相對清幽嘅環境入面享受一場真誠又寧靜嘅沐浴體驗。
+喺烏布除咗人人都知嘅Pura Tirta Empul聖泉寺之外，仲有兩個匿埋喺靜靜地角落頭嘅寺廟，距離都唔係好遠，等緊探索者嚟發掘。呢兩個聖泉寺唔單止令你體驗到峇里島獨特嘅宗教文化，仲可以喺相對清幽嘅環境入面享受一場真誠又寧靜嘅沐浴體驗。
 
 https://youtube.com/shorts/fiYs5GKdINU
 
 🔱💦 烏布聖泉寺（Tirta Empul）峇里島著名聖水寺廟，以淨化儀式🙏 同神聖泉水💧聞名，可以為信徒同遊客帶嚟祝福同好運✨！▶[Klook優惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
-以下係我哋推薦俾你嘅另外兩個聖泉寺：
+以下係我哋推薦俾你哋嘅另外兩個聖泉寺：
 
-**Dalem Pingit 聖泉**係一個相對隱秘嘅寺廟。呢座寺廟唔單止有獨特嘅建築風格，而且佢嘅聖泉都好受當地信徒尊敬。喺呢個安靜嘅環境入面，你可以感受到峇里島原始宗教嘅真摯同寧靜。Dalem Pingit以佢靚到爆嘅瀑布聖泉而聞名。
+**Dalem Pingit 聖泉**係一個相對隱秘嘅寺廟。呢座寺廟唔單止有獨特嘅建築風格，而且佢嘅聖泉亦都好受當地信徒尊崇。喺呢個安靜嘅環境入面，你可以感受到峇里島原始宗教嘅真摯同寧靜。Dalem Pingit以佢靚到爆嘅瀑布聖泉而聞名。
 
 **Pura Gunung Kawi 聖泉**係一座以岩石雕刻而聞名嘅寺廟。除咗古老嘅雕像，呢度仲有一個隱藏嘅聖泉，俾信徒同訪客沐浴以求得祝福。呢片寧靜嘅寺廟區域充滿神秘感，令你彷彿穿越時光，感受峇里島嘅古老神聖。
 
@@ -222,9 +221,9 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ![參觀彭里普蘭村 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
 
-行勻彭里普蘭村（Penglipuran Village）傳統村莊，探索佢嘅歷史同遺產。呢個被譽為「峇里島最靚村莊」嘅地方，保留咗最完整嘅峇里島傳統社區之一，特別嘅意義在於保留咗原始嘅峇里文化同獨特嘅生活方式。村莊充滿咗峇里文化嘅薰陶，係一個好有價值嘅峇里島寶藏。[請睇完整介紹](/zh-hk/blog/penglipuran-village-bali-experience/)
+漫步彭里普蘭村（Penglipuran Village）傳統村莊，探索佢嘅歷史同遺產。呢個被譽為「峇里島最靚村莊」嘅地方，保留咗最完整嘅峇里島傳統社區之一，佢嘅特殊意義在於保留住原始嘅峇里文化同獨特嘅生活方式。村莊充滿咗峇里文化嘅薰陶，係一個極具價值嘅峇里島寶藏。[請睇完整介紹](/zh-hk/blog/penglipuran-village-bali-experience/)
 
-> [彭里普蘭村一日遊（包烹飪課）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7317846487)
+> [彭里普蘭村一日遊（含烹飪課）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7317846487)
 
 > [梯田+彭里普蘭村+咖啡種植園+瀑布一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94994-ubud-penglipuran-village-bali-waterfall-private-muslim-friendly-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0423584cba)
 
@@ -232,7 +231,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ![參觀仙女園 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
 
-仙女園（Taman Dedari）係烏布一個好受注目嘅景點，以佢標誌性嘅巨大仙女雕像而聞名。呢度唔單止提供美味嘅美食，仲係一個融合咗文化藝術嘅地方。喺仙女嘅庇護下，品嚐當地美食，感受烏布特有嘅氛圍，成為一場難忘嘅用餐體驗。
+仙女園（Taman Dedari）係烏布一個備受矚目嘅景點，以佢標誌性嘅巨大仙女雕像而聞名。呢度唔單止提供美味嘅美食，仲係一個融合咗文化藝術嘅地方。喺仙女嘅庇護下，品味當地美食，感受烏布特有嘅氛圍，成為一場難忘嘅用餐體驗。
 
 場內有好多適合影相打卡嘅地方，大家可以盡情影相留念！
 
@@ -262,7 +261,7 @@ Bali Safari動物園係一趟令人驚奇嘅野生冒險之旅。園區匯聚咗
 
 喺呢片神奇嘅土地上，你會近距離接觸各種令人嘆為觀止嘅野生動物，從生猛嘅獅子、憨厚嘅大象，到優雅嘅長頸鹿。動物們喺棲息地中自在漫遊，為你呈現一場動物王國嘅真實盛宴。
 
-Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物們嘅家園，令你感受仿如置身野外嘅刺激同震撼。除咗動物觀賞，園區仲舉辦豐富嘅動物表演，為你帶來一場歡樂同自然交融嘅之旅。請睇[呢度我哋有詳細嘅介紹](/zh-hk/blog/bali-safari-night-stay/)
+Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物們嘅家園，令你感受仿如置身野外嘅刺激同震撼。除咗動物觀賞，園區仲舉辦豐富嘅動物表演，為你帶來一場歡樂同自然交融嘅旅程。請睇[呢度我哋有詳細嘅介紹](/zh-hk/blog/bali-safari-night-stay/)
 
 > [住喺動物園裡](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-685834/mara-river-safari-lodge-bali/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/PbKYpC56)
 
@@ -272,7 +271,7 @@ Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物們嘅家園
 
 想唔想去一個地方就可以睇到兩個世界？
 
-2025年新開嘅「峇里島海洋野生動物園」令你嘅親子假期更加精彩，海陸通殺！一個景點，雙重奇觀：探索海洋、暢遊野生動物園，令你嘅親子假期直接升級🚀
+2025年新開幕嘅「峇里島海洋野生動物園」令你嘅親子假期更加精彩，海陸通殺！一個景點，雙重奇觀：探索海洋、暢遊野生動物園，令你嘅親子假期直接升級🚀
 
 「峇里島海洋野生動物園」嘅詳細攻略[請睇我哋嘅介紹](/zh-hk/blog/marine-safari-bali-guide/)
 
@@ -280,13 +279,13 @@ Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物們嘅家園
 
 > 門票預訂，可以享受[優惠價錢](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)
 
-> 「「[野生動物同海洋3日通行證](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)」，喺三日嘅期間自由進出陸地動物嘅「峇里島野生動物園」同海洋生物嘅「峇里島海洋野生動物園」園區，票價好抵
+> 「「[野生動物同海洋3日通行證](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)」，喺三日嘅期間自由出入陸地動物嘅「峇里島野生動物園」同海洋生物嘅「峇里島海洋野生動物園」園區，票價好抵
 
 ### 陶藝工廠 Serayu Pot （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 ![陶藝工廠 Serayu Pot （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_92cd13cd6652629a34cb2c497e611615.jpg)
 
-Serayu Pot位於烏布嘅心臟地帶，係一間製陶工作室同畫廊。呢個獨特嘅地方唔單止展示咗傳統陶藝嘅精湛工藝，仲提供咗一個同藝術家互動嘅機會。遊客可以親身參與陶藝工作坊，了解製陶嘅過程，由泥土到精美嘅陶器，令你親身感受藝術嘅魅力。喺Serayu Pot，你可以搵到獨特嘅陶藝品，同時欣賞當地藝術家嘅精彩創作。呢度係品味烏布文化藝術嘅極佳場所，令你身臨其境感受陶藝嘅魅力。另外你仲可以喺呢度參加陶藝製作課程㗎！
+Serayu Pot位於烏布嘅心臟地帶，係一間製陶工作室同畫廊。呢個獨特嘅地方唔單止展示咗傳統陶藝嘅精湛工藝，仲提供咗一個同藝術家互動嘅機會。遊客可以親自參與陶藝工作坊，了解製陶嘅過程，由泥土到精美嘅陶器，令你親身感受藝術嘅魅力。喺Serayu Pot，你可以搵到獨特嘅陶藝品，同時欣賞當地藝術家嘅精彩創作。呢度係品味烏布文化藝術嘅極佳場所，令你身臨其境感受陶藝嘅魅力。此外你仲可以喺呢度參加陶藝製作課程㗎！
 
 > [陶藝製作課](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
 
@@ -296,33 +295,33 @@ Serayu Pot位於烏布嘅心臟地帶，係一間製陶工作室同畫廊。呢�
 
 Bali Bird Park 係烏布地區一個充滿活力同知識嘅地方，特別為親子遊客打造。呢度唔單止係一個展示近1,350種唔同鳥類嘅靚地方，仲係一個令小朋友深入了解鳥類生態世界嘅理想場所。
 
-行入呢個公園，細路仔一定會俾啲迷人嘅色彩同多樣性吸引住。除咗可以睇到各種雀仔，雀鳥園仲有互動餵食環節，小朋友可以親手用手掌餵呢啲可愛嘅生物。咁樣親密嘅接觸可以令佢哋更加親近大自然，同時啟發佢哋對生物多樣性嘅興趣。
+行入呢個公園，細路仔就會俾啲迷人嘅色彩同多樣性吸引住。除咗睇唔同種類嘅雀鳥，雀鳥公園仲有互動餵食環節，細路可以親手用手掌餵呢啲得意嘅生物。咁親密嘅接觸可以令細路更加親近大自然，同時啟發佢哋對生物多樣性嘅興趣。
 
-最令人興奮嘅係，雀鳥園入面有好多機會同雀仔影相。細路仔可以同呢啲色彩繽紛嘅雀仔合照，成為珍貴嘅回憶，等成家一齊探索呢個充滿驚喜同知識嘅雀鳥天堂。
+最令人興奮嘅係，雀鳥公園有好多機會同雀鳥影相。細路可以同呢啲色彩繽紛嘅雀鳥合照，成為珍貴嘅回憶，等成家一齊探索呢個充滿驚喜同知識嘅雀鳥天堂。
 
 > [Bali Bird Park門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=797474&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D981bbcb9e2)
 
 ### 峇里島新猴子森林 Kemenuh Monkey River（👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
-Kemenuh Monkey River 距離烏布只需20分鐘車程，呢個自然天堂可以令你沉浸喺峇里嘅原始美景入面！清澈嘅Petanu河流穿過森林，人工瀑布為環境增添涼爽宜人嘅氣氛。
+Kemenuh Monkey River 距離烏布只需20分鐘車程，呢個自然天堂令你沉浸喺峇里嘅原始美景入面！清澈嘅Petanu河流穿越森林，人工瀑布為環境增添涼爽宜人嘅氣氛。
 
 喺呢度你可以觀察長尾獼猴、稀有白猴同飛狐蝙蝠，同時喺傳統巴厘式涼亭入面放鬆身心，聽住流水聲，感受大自然嘅寧靜。
 
 而家開放參觀！營業時間：每日上晝9點至下晝6點（最後入場時間下晝5點）特惠價：成人80,000印尼盾，兒童40,000印尼盾
 
-遠離熙攘人群，體驗獨特嘅melukat淨水祝福儀式，感受峇里島嘅靈性同自然之美！
+遠離喧囂人群，體驗獨特嘅melukat淨水祝福儀式，感受峇里島嘅靈性同自然之美！
 
-溫馨建議：去峇里島想同猴子影相可以揀呢度，呢度嘅猴子比較溫順，唔會攻擊人。如果係去Ubud嘅，啲猴子會搶嘢嗰啲，比較惡
+溫馨建議：去峇里島想同猴子影相可以揀呢度，呢度嘅猴子比較溫順，唔會攻擊人。如果係去Ubud嘅，猴子會搶嘢嗰啲，比較惡
 
 ### Taman Beji Griya Waterfall（👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 ![Taman Beji Griya Waterfall（地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_e6e25f5e73d83736336089f22edff298.jpg)
 
-呢座瀑布完全隱藏喺綠油油嘅森林入面，被認為係呢區最靚同最有靈性意義嘅瀑布之一。呢個景點嘅特別之處在於佢結合咗自然美景同深厚嘅靈性元素。Taman Beji Griya Gede Manuaba Punggul寺廟有九個泉眼同兩個瀑布，俾遊客唔單止有視覺享受，仲有心靈淨化嘅體驗。大部分訪客會喺度進行傳統峇里島嘅**melukat**儀式，係一種喺聖水泉源進行嘅淨化儀式，相信可以洗走晒所有負能量。
+呢座瀑布完全隱藏喺綠油油嘅森林入面，被認為係呢區最靚同最有靈性意義嘅瀑布之一。呢個景點嘅特別之處在於佢結合咗自然美景同深厚嘅靈性元素。Taman Beji Griya Gede Manuaba Punggul寺廟有九個泉眼同兩個瀑布，俾遊客唔單止有視覺享受，仲有心靈淨化嘅體驗。大部分遊客會喺度進行傳統峇里島嘅**melukat**儀式，係一種喺聖水泉源做嘅淨化儀式，相信可以洗走晒所有負能量。
 
-遊客要穿過綠色森林同岩石峽谷嘅長步道先到瀑布，呢個過程本身就係一次親近大自然嘅靈性旅程。水嘅淨化被相信可以令身心潔淨，消除體內嘅負面力量，帶嚟療癒效果。
+遊客要穿過綠色森林同岩石峽谷嘅長步道先至到瀑布，呢個過程本身就係一次親近大自然嘅靈性旅程。水嘅淨化被相信可以令身心潔淨，消除體內嘅負面力量，帶嚟療癒效果。
 
-對呢個靈修體驗有興趣嘅遊客可以參加[Klook一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1065918&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F145098-taman-beji-griya-waterfall-holy-bathing-ritual-in-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6bfce5cd9a)，朝早出發到傍晚結束嘅充實旅程，包埋午餐，仲包括：入場門票、英文導遊、酒店來回接送、停車同燃油費、保險、完整**melukat**淨化儀式、靈性嚮導指導、聖水淨化、祈禱用品同供品、深度淨化用紗籠、私人儲物櫃、毛巾，同埋導遊拍攝服務，等遊客可以完整體驗呢個天然聖殿嘅靈性療癒力量。
+對呢個靈修體驗有興趣嘅遊客可以參加[Klook一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1065918&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F145098-taman-beji-griya-waterfall-holy-bathing-ritual-in-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6bfce5cd9a)，朝早出發到傍晚結束嘅充實旅程，包埋午餐，仲包括：入場門票、英文導遊、酒店來回接送、停車同燃油費、保險、完整**melukat**淨化儀式、靈性嚮導指導、聖水淨化、祈禱用品同供品、深度淨化用紗籠、私人儲物櫃、毛巾，同埋導遊拍攝服務，令遊客可以完整體驗呢個天然聖殿嘅靈性療癒力量。
 
 > [參加Taman Beji Griya 瀑布神聖沐浴儀式](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1065918&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F145098-taman-beji-griya-waterfall-holy-bathing-ritual-in-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6bfce5cd9a)
 
@@ -340,9 +339,9 @@ Kemenuh Monkey River 距離烏布只需20分鐘車程，呢個自然天堂可以
 
 ![烏布Hikaria沉浸式光影藝術體驗（地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_c6bc3ac263f6d6a9188ed3aa6b2c582d.jpg)
 
-喺峇里島烏布嘅沉浸式夜行光影體驗，由數位創新同沉浸式娛樂專家聯手打造，將傳統神話同尖端科技完美融合。全長一公里嘅森林步道化身為夢幻光影世界，透過先進投影映射技術，講述光之神同影之神嘅傳說。
+喺峇里島烏布嘅沉浸式夜行光影體驗，由數碼創新同沉浸式娛樂專家聯手打造，將傳統神話同尖端科技完美融合。全長一公里嘅森林步道化身為夢幻光影世界，透過先進投影映射技術，講述光之神同影之神嘅傳說。
 
-園區入面有好多打卡位，包括迷人燈光佈置同標誌性巨型月亮裝置，仲有衫租同專業攝影服務。請睇[呢度](/zh-hk/blog/hikaria-ubud-light-show/)有專文介紹/優惠飛連結。
+園區入面有好多影相靚位，包括迷人燈光佈置同標誌性巨型月亮裝置，仲有衫租同專業攝影服務。請睇[呢度](/zh-hk/blog/hikaria-ubud-light-show/)有專文介紹/優惠飛連結。
 
 呢個獨特嘅夜間體驗適合唔同年齡嘅遊客，無論係浪漫約會定家庭出遊，都可以喺夜幕下嘅魔法森林入面，享受光、文化同自然交融嘅難忘旅程。
 
@@ -350,9 +349,9 @@ Kemenuh Monkey River 距離烏布只需20分鐘車程，呢個自然天堂可以
 
 ![Wisata Kayu Putih Bayan 神木風景區（地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_2c3bc45f0626ebf69733b0745a47a021.jpg)
 
-神木風景區（Wisata Kayu Putih Bayan）位於峇里島北部布勒冷縣，以佢壯觀嘅千年神木聞名。呢棵巨大嘅白千層樹（Kayu Putih，印尼話解「白木」）樹齡估計超過千年，樹幹粗壯到要幾十個人先圍得住，高聳入雲嘅樹冠覆蓋咗好大範圍。當地居民視呢棵古樹為神聖嘅存在，相信佢有靈性力量，成日有信徒嚟祈福同舉行傳統儀式。
+神木風景區（Wisata Kayu Putih Bayan）位於峇里島北部布勒冷縣，以佢壯觀嘅千年神木而聞名。呢棵巨大嘅白千層樹（Kayu Putih，印尼話解「白木」）樹齡估計超過千年，樹幹粗壯到要幾十個人先可以圍住，高聳入雲嘅樹冠覆蓋咗好大範圍。當地居民視呢棵古樹為神聖嘅存在，相信佢有靈性力量，成日有信徒嚟祈福同舉行傳統儀式。
 
-呢棵神木唔單止係自然奇觀，仲係峇里島文化同自然和諧共存嘅象徵。樹下有個細細嘅神龕，裝飾住傳統嘅黑白格仔布（poleng），顯示佢嘅宗教重要性。遊客嚟到呢度可以感受到神聖而寧靜嘅氣氛，欣賞呢棵見證咗峇里島幾百年歷史變遷嘅古老生命。周圍嘅自然環境清幽，係體驗峇里島精神文化同自然美景嘅獨特景點。
+呢棵神木唔單止係自然奇觀，仲係峇里島文化同自然和諧共存嘅象徵。樹下有個細神龕，裝飾住傳統嘅黑白格仔布（poleng），顯示佢嘅宗教重要性。遊客嚟到呢度可以感受到神聖而寧靜嘅氣氛，欣賞呢棵見證咗峇里島幾百年歷史變遷嘅古老生命。周圍嘅自然環境清幽，係體驗峇里島精神文化同自然美景嘅獨特景點。
 
 ***
 
@@ -360,13 +359,13 @@ Kemenuh Monkey River 距離烏布只需20分鐘車程，呢個自然天堂可以
 
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-烏布係峇里島上最多旅遊活動嘅地方之一。呢度有好多唔同嘅文化特色同令人驚嘆嘅自然景觀，俾遊客豐富嘅體驗同多采多姿嘅活動選擇。
+烏布係峇里島上最多旅遊活動嘅地方之一。呢度有好多唔同嘅文化特色同令人驚嘆嘅自然景觀，為遊客提供豐富嘅體驗同多姿多彩嘅活動選擇。
 
 ### 參加泛舟
 
 ![參加泛舟](https://images.gobaligo.id/vocus/vocus_5854ad12287ebc9495ee29e43f9dbb53.jpg)
 
-對於鍾意挑戰嘅冒險家嚟講，參加泛舟活動（rafting）係一個好吸引嘅選擇。烏布周邊嘅河流彎彎曲曲，穿過藍色嘅山谷同叢林，為冒險愛好者帶嚟一場全新嘅探險旅程。喺呢趟冒險入面，你會穿過靚景，沿途遇到急流同平緩嘅水道，令你可以充分體驗刺激同放鬆並存嘅愉快感覺。呢個唔單止係一場冒險，更加係一次同大自然親密接觸嘅機會，令你感受到水流、樹木同大地嘅充沛活力。
+對於鍾意挑戰嘅冒險家嚟講，參加泛舟活動（rafting）係一個好吸引嘅選擇。烏布周邊嘅河流彎彎曲曲，穿過藍色嘅山谷同叢林，為冒險愛好者帶嚟一場全新嘅探險旅程。喺呢趟冒險入面，你會經過靚景，沿途遇到急流同平緩嘅水道，令你可以充分體驗刺激同放鬆並存嘅愉快感覺。呢個唔單止係一場冒險，仲係一次同大自然親密接觸嘅機會，令你感受到水流、樹木同大地嘅充沛活力。
 
 > [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -376,13 +375,13 @@ Kemenuh Monkey River 距離烏布只需20分鐘車程，呢個自然天堂可以
 
 https://youtu.be/ZEkv46_-_mM
 
-不過要留意，泛舟活動有一定危險性，安全與否取決於河水嘅狀況。如果想安全啲體驗水上活動，洞穴漂流河（cave tubing/river tubing，如上片介紹）就係一個比較安全嘅替代方案。
+不過，要留意嘅係，泛舟活動有一定危險性，安全與否取決於河水嘅狀況。如果想安全啲體驗水上活動，洞穴漂流河（cave tubing/river tubing，如上影片介紹）就係一個比較安全嘅替代方案。
 
-順便一提，呢啲喺烏布地區挖嘅洞穴，有好多可以追溯到日本短暫統治峇里島嘅時期。喺第二次世界大戰期間，日本軍隊喺峇里島進行工程建設，包括起掩體、洞穴同隧道等防禦工事。呢啲洞穴同隧道通常用嚟做軍事用途。
+順便一提，呢啲喺烏布地區挖掘嘅洞穴，有好多可以追溯到日本短暫統治峇里島嘅時期。喺第二次世界大戰期間，日本軍隊喺峇里島進行工程建設，包括起掩體、洞穴同隧道等防禦工事。呢啲洞穴同隧道通常用嚟做軍事用途。
 
-就算日本統治結束之後，呢啲洞穴同隧道有時都會俾當地居民或者政府機構重新利用或者改造，有啲改造成遊客參觀嘅景點，有啲改造成灌溉用嘅水道，呢啲洞穴見證咗過去嘅歷史時期，而家佢哋嘅存在就成為峇里島歷史同文化嘅一部分。
+即使日本統治結束之後，呢啲洞穴同隧道有時都會俾當地居民或者政府機構重新利用或者改造，有啲改造成遊客參觀嘅景點，有啲改造成灌溉用嘅水道，呢啲洞穴見證咗過去嘅歷史時期，而喺而家，佢哋嘅存在就成為峇里島歷史同文化嘅一部分。
 
-返番正題，呢兩種烏布嘅水上活動 - 泛舟同漂流河，為探險者帶嚟難忘嘅體驗，令你喺流動嘅河水中感受到挑戰嘅激情，同時享受大自然賦予嘅寧靜同活力。
+返返正題，呢兩種烏布嘅水上活動 - 泛舟同漂流河，為探險者帶嚟難忘嘅體驗，令你喺流動嘅河水中感受到挑戰嘅激情，同時享受大自然賦予嘅寧靜同活力。
 
 > [洞穴漂流河](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D884c037566)
 
@@ -390,7 +389,7 @@ https://youtu.be/ZEkv46_-_mM
 
 https://youtu.be/Ay_Dkm2gbnc
 
-想快啲探索烏布嘅自然美景？騎ATV（全地形車）係一個好刺激又好玩嘅選擇。烏布嘅ATV之旅通常會穿過熱帶雨林、河道、隧道同崎嶇山區，帶你投入一場刺激嘅冒險。呢種高速穿越大自然嘅方式，令你可以短時間內體驗烏布多變嘅地形同風光，絕對係冒險者嘅最愛。
+想快啲探索烏布嘅自然美景？騎ATV（全地形車）係一個好刺激又好玩嘅選擇。烏布嘅ATV之旅通常會穿過熱帶雨林、河道、隧道同崎嶇山區，帶你進入一場刺激嘅冒險。呢種高速穿越大自然嘅方式，令你可以短時間內體驗烏布多變嘅地形同風景，絕對係冒險愛好者嘅最愛。
 
 仲有一種「火山ATV之旅」，你會穿越茂密森林，攀上黑色熔岩山坡，征服挑戰性嘅越野地形。導遊會帶你走過呢啲變化萬千嘅地形，令你充分感受ATV帶嚟嘅刺激同樂趣。
 
@@ -402,11 +401,11 @@ https://youtu.be/Ay_Dkm2gbnc
 
 https://youtube.com/shorts/zlhzXPIxv7A
 
-如果你鍾意悠閒啲嘅方式，踩單車遊覽烏布嘅鄉間小徑（Cycling Tour）絕對係一個好有魅力嘅活動。導遊會帶你踩單車，沿住綠油油嘅稻田同風景如畫嘅小徑，走入烏布嘅鄉下。呢種單車之旅唔單止令你盡情欣賞峇里島獨特嘅農村風光，仲可以睇到一般遊客見唔到嘅嘢，深入感受佢哋嘅生活方式。
+如果你鍾意悠閒啲嘅方式，踩單車遊覽烏布嘅鄉間小徑（Cycling Tour）絕對係一個好吸引嘅活動。導遊帶住你踩單車，沿住綠油油嘅稻田同風景如畫嘅小徑，走入烏布嘅鄉下。呢種單車之旅唔單止令你盡情欣賞峇里島獨特嘅農村風光，仲可以睇到一般遊客見唔到嘅嘢，深入了解佢哋嘅生活方式。
 
-或者你會擔心喺山區踩車會好攰，但唔使擔心！Cycling Tour精心揀選嘅路線全部都係平地或者落斜路段，令你可以輕鬆寫意咁踩，同時沉浸喺美好嘅自然景色入面。
+或者你會擔心喺山區踩車好攰，但唔使擔心！Cycling Tour精心揀選嘅路線全部都係平地或者落斜路段，令你可以輕鬆寫意咁踩，同時沉浸喺美好嘅自然景色入面。
 
-如果你仲係擔心體力問題，而家仲有電動滑板車同電動單車嘅選擇，令你可以更輕鬆咁遊覽烏布嘅美景。呢啲現代科技嘅選擇唔單止幫你慳返體力，仲俾你更多時間慢慢感受烏布獨有嘅風情。無論你揀邊種方式，都會係一場充滿開心同探險精神嘅自然之旅。
+如果你仲係擔心體力問題，而家有電動滑板車同電動單車嘅選擇，令你可以更輕鬆咁遊覽烏布嘅美景。呢啲現代科技嘅選擇唔單止幫你慳返體力，仲俾你更多時間慢慢品味烏布獨有嘅風情。無論你揀邊種方式，都會係一場充滿開心同探險精神嘅自然之旅。
 
 > [烏布鄉村＆山地觀光單車之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F39012-cycling-tour-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5f4162bee4)
 
@@ -422,23 +421,23 @@ https://youtube.com/shorts/zlhzXPIxv7A
 
 https://youtu.be/_Lvp9cIVYz8
 
-喺烏布，就算係盪鞦韆都可以變成一種充滿異國風情嘅體驗。喺烏布一啲專門嘅地方，你會見到各式各樣獨特又精心設計嘅盪鞦韆，掛喺綠樹之間或者對住迷人嘅水景。盪鞦韆唔單止係一種玩樂方式，仲係一種喺寧靜中欣賞烏布美景嘅絕佳方法。盡情咁盪，等個心隨住微風搖曳，感受一份輕鬆同愜意。
+喺烏布，就算係盪鞦韆都可以變成一種充滿異國風情嘅體驗。喺烏布一啲專門嘅地方，你會發現各式各樣獨特又精心設計嘅盪鞦韆，掛喺綠樹之間或者對住迷人嘅水景。盪鞦韆唔單止係一種玩樂嘅方式，仲係一種喺寧靜中欣賞烏布美景嘅絕佳方法。盡情咁盪，等個心隨住微風搖曳，感受一份輕鬆同愜意。
 
 > [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) （[呢度](/zh-hk/blog/aloha-ubud-swing-guide/)有專文介紹）
 
-[> Bali Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20020-swing-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D57a4f3d075)
+[Bali Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20020-swing-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D57a4f3d075)
 
-[> Desa Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F29072-desa-swing-package-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da856b7dd6e)
+[Desa Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F29072-desa-swing-package-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da856b7dd6e)
 
-[> Picheaven鞦韆](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F35774-picheaven-bali-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1ae69beb3)
+[Picheaven鞦韆](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F35774-picheaven-bali-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1ae69beb3)
 
-[> Ubud Jungle Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F75476-ubud-jungle-swing-ubud-bali-indonesia%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d7447fc0b)
+[Ubud Jungle Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F75476-ubud-jungle-swing-ubud-bali-indonesia%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d7447fc0b)
 
-[> U Fun Field Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F138470-ubud-zipline-dreamcatcher-swing-sky-bike-and-guided-cultural-tour%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a549c850d)
+[U Fun Field Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F138470-ubud-zipline-dreamcatcher-swing-sky-bike-and-guided-cultural-tour%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6a549c850d)
 
-[> Alas Harum](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D2c54038ac7)
+[Alas Harum](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D2c54038ac7)
 
-[> 包含叢林鞦韆嘅烏布自選一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1ac6af4cc9)
+[包含叢林鞦韆嘅烏布自選一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1ac6af4cc9)
 
 快速參考：[「烏布鞦韆/租禮服攻略」](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1353681&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DUbud%2520swing%26search_scope%3Dmain_search)
 
@@ -454,15 +453,15 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![空中滑索&空中腳踏車活動](https://images.gobaligo.id/vocus/vocus_9463ace45d906d0629a44128f0abeebb.jpg)
 
-在烏布體驗冒險的Zipline或Sky Bike，欣賞美麗的梯田景色。這兩種活動都提供給初學者安全的體驗，因運營商提供高質量的安全設備。在空中盡情滑翔或踏行，將峇里島獨特的地形一覽無遺，給予你一場高空冒險的難忘體驗。
+喺烏布玩刺激嘅Zipline或者Sky Bike，欣賞靚靚嘅梯田景色。呢兩種活動都適合初學者，安全有保障，因為營運商提供高質素嘅安全裝備。喺空中盡情滑翔或者踩單車，將峇里島獨特嘅地形一覽無遺，帶畀你一場高空冒險嘅難忘體驗。
 
-[> [各種活動任揀](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82850-zipline-sky-bike-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9af1f6f8a9)
+[> 各類活動任揀](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82850-zipline-sky-bike-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9af1f6f8a9)
 
 ### 越野吉普車日出體驗
 
 ![越野吉普車日出體驗](https://images.gobaligo.id/vocus/vocus_76ca2a47f4c5c29841e4377ac301df0a.jpg)
 
-早晨，太陽啱啱喺地平線升起嘅時候，嚟參加一場越野吉普車日出體驗啦！一早起身，坐4x4吉普車穿過特魯揚山（Trunyan Hill），唔使行山就可以睇到超靚嘅日出。吉普車沿住山腳探索呢片獨特嘅風景，令你親眼見證黑色熔岩創造出嘅美麗奇觀。呢個探險之旅包埋方便嘅酒店接送服務，確保安全又舒服嘅來回。
+早晨，太陽啱啱喺地平線升起，嚟參加一場越野吉普車日出體驗啦！一早起身，坐4x4吉普車穿過特魯揚山（Trunyan Hill），唔使行山就可以睇到超靚嘅日出。吉普車沿住山腳探索呢片獨特嘅風景，等你親眼見證黑色熔岩造成嘅美麗奇觀。呢個探險之旅包埋酒店接送服務，確保安全又舒服嘅來回。
 
 [金塔馬尼 Trunyan 吉普車日出體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77109-trunyan-hill-trekking-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da93007e25e)
 
@@ -470,15 +469,15 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![越野吉普車+徒步登巴杜爾火山](https://images.gobaligo.id/vocus/vocus_ca3fb10c2862e334d2d0f094bfa2d44c.jpg)
 
-呢個係一個結合越野吉普車同埋徒步嘅冒險旅程。坐上4x4吉普車穿過巴杜爾山嘅松林，一邊睇日出時嘅火山景觀，一邊感受越野嘅刺激。日出之後，跟住專業嚮導帶路，行到巴杜爾山山頂，探索幾百年前爆發而出名嘅黑色熔岩，帶俾你一個充滿歷史同冒險色彩嘅旅程。而吉普車嘅體驗仲可以將你嘅探險之旅延伸到更遠嘅地方。
+呢個係一個結合越野吉普車同埋徒步嘅冒險旅程。坐上4x4吉普車，穿過巴杜爾山嘅松林，一邊睇住日出時分嘅火山景觀，一邊感受越野嘅刺激。日出之後，跟住專業嚮導帶路，行到巴杜爾山山頂，探索幾百年前噴發而出名嘅黑色熔岩，帶嚟一場充滿歷史同冒險色彩嘅旅程。而吉普車嘅體驗仲可以將你嘅探險之旅延伸到更遠嘅地方。
 
-> [巴杜爾火山吉普車越野+健行](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)日出[徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
+[> [巴杜爾火山吉普車越野+健行](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)日出[徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
 ### 巴杜爾火山日出徒步之旅
 
 ![巴杜爾火山日出徒步之旅](https://images.gobaligo.id/vocus/vocus_20dfb80e11967f92176cc823e6e386f6.png)
 
-為咗睇巴杜爾火山嘅日出靚景，你可以參加徒步之旅。喺天光之前，踏上巴杜爾山頂，放眼遠望，感受火山喺太陽升起嗰陣嘅神秘氣氛。同時，安排一餐豐富嘅早餐，等你可以喺巴杜爾山頂享受美食之餘，欣賞大自然最壯觀嘅奇蹟。
+為咗睇巴杜爾火山嘅日出靚景，你可以參加徒步之旅。喺天光之前，行上巴杜爾山頂，望遠啲，感受火山喺太陽升起嗰陣嘅神秘氣氛。同時，安排一餐豐富嘅早餐，等你可以喺巴杜爾山頂食住美食，欣賞大自然最壯觀嘅奇蹟。
 
 > [巴杜爾火山日出健行](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F7797-mount-batur-sunrise-trekking-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6645ae8416)
 
@@ -486,7 +485,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![巴杜爾火山吉普車日落之旅（含攝影師 & 吉普車顏色客製化）](https://images.gobaligo.id/vocus/vocus_a763e29e60960e92cc19beecc3bffb3a.png)
 
-巴杜爾火山唔止得半夜起身追日出嘅行程，仲有機會見證壯麗嘅巴杜爾火山日落㗎！坐四輪驅動吉普車嚟個私人旅行，探索巴杜爾火山嘅壯觀景色同清新氣氛，周圍係幾百年前火山爆發後留低嘅著名黑色熔岩。唔使擔心影相問題，因為呢個活動已經包埋有專業攝影技巧嘅吉普車司機，確保你喺旅程中影到靚相，留低珍貴回憶。
+巴杜爾火山唔止得半夜起身趕日出嘅行程，仲有見證壯麗巴杜爾火山日落嘅選擇㗎！坐四輪驅動吉普車嚟個私人旅遊，探索巴杜爾火山嘅壯觀景色同清新氣氛，周圍係幾百年前火山爆發後留低嘅著名黑色熔岩。唔使擔心影相問題，因為呢個活動已經包埋有專業攝影技巧嘅吉普車司機，確保你喺旅程中影到靚相，留低珍貴回憶。
 
 > [巴杜爾火山日落之旅及多種組合](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127281-mount-batur-4wd-jeep-sunset-with-photographer-and-custom-jeep-color%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbbd85da5ab)
 
@@ -506,7 +505,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![體驗農忙生活](https://images.gobaligo.id/vocus/vocus_0976bfe2e5f97ee8c6c1f971a79d3896.jpg)
 
-適合親子一齊玩嘅峇里島農村生活！呢個活動特別啱晒親子一齊參加，等你可以同七歲以上嘅細路一齊體驗成日嘅峇里島當地居民生活。感受佢哋嘅熱情好客，仲可以深入了解佢哋嘅社區。你同細路會參觀峇里島特有嘅建築風格，睇吓鐵匠嘅技藝示範，甚至親身試吓峇里島嘅葡萄酒釀製過程。同時，你哋仲有機會親眼見證椰子油嘅製作方法，同埋參與稻田嘅耕作體驗。呢個活動係一個極佳嘅家庭體驗，等你同細路更加認識同體驗峇里島當地文化同生活方式。對於想同細路一齊深入了解當地生活嘅家庭嚟講，絕對係一個唔可以錯過嘅選擇！
+適合親子一齊玩嘅峇里島農村生活！呢個活動特別啱晒親子一齊參與，等您同七歲以上嘅細路一齊體驗成日嘅峇里島當地居民生活。感受佢哋嘅熱情好客，仲可以深入了解佢哋嘅社區。您同細路會參觀峇里島特有嘅建築風格，觀摩鐵匠嘅技藝示範，甚至親身體驗峇里島嘅葡萄酒釀製過程。同時，您哋仲有機會親眼見證椰子油嘅製作方法，同埋參與稻田嘅耕作體驗。呢個活動係一個極佳嘅家庭體驗，等您同細路更加認識同體驗峇里島當地文化同生活方式。對於想同細路一齊深入了解當地生活嘅家庭嚟講，絕對係一個唔可以錯過嘅選擇！
 
 > [峇里島農民生活體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97044-a-day-as-balinese-cultural-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8b49a3092b)
 
@@ -514,7 +513,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![參加手作坊體驗](https://images.gobaligo.id/vocus/vocus_81e59086fa728481258210e23555511c.jpg)
 
-烏布唔單止係自然之美嘅寶庫，仲係藝術同手工藝嘅搖籃。參加蠟染、木雕、陶藝、銀飾等手作坊，係一次豐富嘅文化體驗。呢啲工作坊唔單止有專業導師指導，仲可以等你親手整出有峇里島風格嘅手工藝品，將當地藝術帶返屋企，成為獨特嘅紀念品。
+烏布唔單止係自然之美嘅寶庫，仲係藝術同手工藝嘅搖籃。參加蠟染、木雕、陶藝、銀飾等手作坊，係一次豐富嘅文化體驗。呢啲工作坊唔單止有專業導師指導，仲可以等你親手整出具有峇里島風格嘅手工藝品，將當地藝術帶返屋企，成為獨特嘅紀念品。
 
 > [銀製品手工體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73060-silver-making-class-bali-artika-silver%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6673fed541)
 
@@ -528,7 +527,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![烏布美食烹飪班](https://images.gobaligo.id/vocus/vocus_521ad548041599b5da96c3537a2815fb.jpg)
 
-烏布嘅烹飪班俾你一個深入體驗當地飲食文化嘅絕佳機會。活動流程包括去街市買餸、學煮餸技巧、自己落手煮同埋試食成果。參加者會同導師一齊去街市，揀新鮮食材，仲會學到峇里島特有嘅烹飪技巧。之後，喺廚房入面親手整經典菜式，最後坐低慢慢享用自己煮嘅美味大餐。呢個係一場充滿文化魅力嘅美食之旅，一定會令你深深愛上峇里島嘅獨特風味。
+烏布嘅烹飪班俾你一個深入體驗當地飲食文化嘅絕佳機會。活動流程包括去街市買餸、學烹飪技巧、自己動手煮同埋試食成果。參加者會同導師一齊去街市，揀新鮮食材，仲會學到峇里島特有嘅烹飪技巧。之後，喺廚房入面整經典菜式，最後坐低享用自己親手煮嘅美味大餐。呢個係一場充滿文化魅力嘅美食之旅，一定會令你愛上峇里島嘅獨特風味。
 
 > [烏布烹飪體驗課（包參觀猴子森林 & 水稻梯田）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44233-cooking-class-ubud-visit-monkey-forest-rice-terrace%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D37317b2419)
 
@@ -542,19 +541,19 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![瑜珈課程](https://images.gobaligo.id/vocus/vocus_fae45ccfe567f1b66f0d091afafeb441.png)
 
-喺烏布寧靜嘅環境入面，上一堂瑜珈課程係放鬆身心嘅極佳方法。喺翠綠嘅稻田之間，或者喺度假村嘅露天瑜珈空間，你可以跟住瑜伽導師嘅引導，感受身體嘅拉伸同埋呼吸嘅平靜。呢個唔單止係對身體嘅養生，更加係對心靈嘅沉澱同平衡。
+喺烏布寧靜嘅環境入面，上一堂瑜珈課程係放鬆身心嘅極佳方式。喺翠綠嘅稻田之間，或者係度假村嘅露天瑜珈空間，你可以跟住瑜伽導師嘅引導，感受身體嘅拉伸同埋呼吸嘅平靜。呢個唔單止係對身體嘅養生，更加係對心靈嘅沉潛同平衡。
 
 > [烏布瑜珈中心瑜珈課](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
 
 > [烏布叢林日出瑜伽＆冥想體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
 
-[The Yoga Barn 瑜伽體驗＆美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
+[> The Yoga Barn 瑜伽體驗＆美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
 
 ### Beji Guwang隱秘峽谷 （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 ![Beji Guwang隱秘峽谷 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_9c726e647d3b2567bae6bafd56d02973.png)
 
-你鍾意爬山、溯溪、探秘嗎？如果係，咁峇里島嘅 Beji Guwang 隱藏峽谷絕對係你嘅理想選擇！呢度有令人驚嘆嘅岩層景觀同深不可測嘅峽谷，等你挑戰自己嘅勇氣同體能。喺專業導遊帶領下，你會征服呢個壯麗嘅地方，體驗前所未有嘅探險之旅。唔止咁，仲提供往返住宿嘅私人交通服務，確保你嘅旅程舒適又方便。快啲加入我哋，探索Beji Guwang Hidden Canyon嘅神秘之處啦！
+你鍾意爬山、溯溪、探秘嗎？如果係，咁峇里島嘅 Beji Guwang 隱藏峽谷絕對係你嘅理想選擇！呢度有令人驚嘆嘅岩層景觀同深不可測嘅峽谷，等你挑戰自己嘅勇氣同體能。喺專業導遊帶領下，你會征服呢個壯麗嘅地方，體驗前所未有嘅探險之旅。唔單止咁，仲提供往返住宿嘅私人交通服務，確保你嘅旅程舒適又方便。快啲加入我哋，探索Beji Guwang Hidden Canyon嘅神秘之處啦！
 
 > 參加[Beji Guwang隱秘峽谷徒步體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=821076&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24324-beji-guwang-hidden-canyon-trekking-experience-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D92390d6d3d)
 
@@ -562,17 +561,17 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![峇里島傳統音樂/舞蹈的殿堂 Balerung Stage（地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_49ee87d707af9054711f3b8f69d816fb.jpg)
 
-如果你想要深度體驗峇里島嘅傳統文化，咁 Balerung Stage 嘅表演絕對唔可以錯過！呢個位於烏布嘅傳統舞台，每星期上演經典嘅峇里舞蹈同音樂，等觀眾有機會感受呢個島嶼豐富嘅文化遺產。同商業化嘅旅遊表演唔同，Balerung Stage 以真實性同純粹嘅藝術表現出名，令你彷彿置身於峇里嘅過去，沉浸喺舞蹈同音樂嘅魅力之中。
+如果你想要深度體驗峇里島嘅傳統文化，咁 Balerung Stage 嘅表演絕對唔可以錯過！呢個位於烏布嘅傳統舞台，每星期上演經典嘅峇里舞蹈同音樂，等觀眾有機會感受呢個島嶼豐富嘅文化遺產。同商業化嘅旅遊表演唔同，Balerung Stage 以真實性同純粹嘅藝術表現著稱，令你彷彿置身於峇里嘅過去，沉浸喺舞蹈同音樂嘅魅力之中。
 
 舞者同音樂家演出逢星期五晚上 7:30 開場，訂位專線 WhatsApp：+6281936281721
 
-如果係比較大嘅團體仲可以預約學峇里島傳統音樂、學跳Legong舞/Barong舞㗎！請睇[小傑嘅親身經歷](/zh-hk/blog/balerung-stage-cultural-show/)。
+如果係比較大嘅團體仲可以預約學習峇里島傳統音樂、學跳Legong舞/Barong舞㗎！請睇[小傑嘅親身經歷](/zh-hk/blog/balerung-stage-cultural-show/)。
 
 ### 烏布電動單車之旅
 
 ![烏布電動自行車之旅](https://images.gobaligo.id/vocus/vocus_01f4b721a6de3b756ca2ddd3873a7f60.png)
 
-烏布電動單車之旅嘅導遊好熟烏布周邊景點，會為參加者提供深度講解。參加者有機會參觀寺廟、探索傳統嘅峇里島房屋，仲可以欣賞稻田、德戈拉朗同咖啡種植園嘅美景。踩電動單車又好玩，又令穿越鄉村山區嘅行程變得更加輕鬆。呢個三小時嘅旅程提供咗近距離體驗烏布嘅絕佳方式。
+烏布電動單車之旅嘅導遊具備豐富嘅烏布周邊景點知識，為參加者提供深度解說。參加者有機會參觀寺廟、探索傳統嘅峇里島房屋，同欣賞稻田、德戈拉朗同咖啡種植園嘅美景。踩電動單車又好玩，又令穿越鄉村山區嘅行程變得更加輕鬆。呢個三小時嘅旅行提供咗近距離體驗烏布嘅絕佳方式。
 
 **小傑介紹嘅（非電動）單車之旅：**
 
@@ -584,9 +583,9 @@ https://youtu.be/_Lvp9cIVYz8
 
 峇里島吉安雅嘅夢幻海灘酒吧，2024新開幕，距離Bali Safari & Marine Park只需15分鐘車程！
 
-✨ **免費入場 | 無最低消費 | 每月滿月表演**
+✨ **免費入場 | 冇最低消費 | 每月滿月表演**
 
-🍽 美食同飲品：印尼風味結合國際菜式，必試**Rendang Pizza**同手工雞尾酒！🍹
+🍽 美食同飲品：印尼風味夾埋國際菜式，必試**Rendang Pizza**同手工雞尾酒！🍹
 
 🎶 娛樂體驗：傳統峇里島表演、現場音樂、無邊際泳池，完美享受日落同星空✨
 
@@ -601,7 +600,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![烏布的頌缽療癒](https://images.gobaligo.id/vocus/vocus_5fa73cba02836c4b4259897fb3827da9.jpg)
 
-烏布係搵身心靈療癒嘅理想聖地。頌缽療癒（singing bowl meditation）喺呢個「眾神之島」上已經成為好流行嘅養生體驗，結合咗古老嘅聲音療法同峇里島獨特嘅靈性氛圍。當銅製頌缽俾人輕輕敲擊或者摩擦嗰陣，會產生深沉而和諧嘅共鳴音頻，呢啲聲波可以穿透身體，幫手釋放壓力、平衡脈輪，仲引導參與者進入深度冥想狀態。喺峇里島嘅熱帶雨林入面、稻田邊或者河谷旁體驗頌缽療癒，更加可以令人同大自然嘅能量產生共鳴，達到身心靈嘅完全放鬆。
+烏布係搵身心靈療癒嘅理想聖地。頌缽療癒（singing bowl meditation）喺呢個「眾神之島」上已經成為好流行嘅養生體驗，結合咗古老嘅聲音療法同峇里島獨特嘅靈性氛圍。當銅製頌缽俾人輕輕敲擊或者摩擦嗰陣，會產生深沉而和諧嘅共鳴音頻，呢啲聲波可以穿透身體，幫人釋放壓力、平衡脈輪，仲引導參與者進入深度冥想狀態。喺峇里島嘅熱帶雨林入面、稻田邊或者河谷旁體驗頌缽療癒，更加可以令人同大自然嘅能量產生共鳴，達到身心靈嘅完全放鬆。
 
 烏布作為峇里島嘅文化同靈性中心，提供咗好多優質嘅頌缽療癒體驗場所：
 
@@ -609,7 +608,7 @@ https://youtu.be/_Lvp9cIVYz8
 - **Pyramids of Chi** 就提供更私密嘅個人頌缽療程，療癒師會根據個人需求度身訂造療癒過程，令參與者喺金字塔形嘅能量空間入面深度放鬆。
 - **Ubud Bodyworks Centre** 結合咗頌缽同其他峇里傳統療法，提供全面嘅身心靈療癒套餐。
 
-此外，Klook都有提供一啲新興嘅頌缽療癒服務，令訪客喺奢華舒適嘅環境入面體驗呢項古老嘅療癒藝術：
+另外，Klook都有提供一啲新興嘅頌缽療癒服務，令訪客喺奢華舒適嘅環境入面體驗呢項古老嘅療癒藝術：
 
 - [Serendipity Sounds Meditation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113155-sound-healing-and-meditation-at-serendipity-sounds-meditation-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcb611fcf25)
 - [Ubud Sound Yoga And Energy Healing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F171223-ubud-sound-yoga-and-energy-healing-experience%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5dc5342d17)
@@ -618,9 +617,9 @@ https://youtu.be/_Lvp9cIVYz8
 
 ![金塔瑪尼山林遊樂場 The Grand Lagunas（地圖：親子友善遊樂場、餐廳）](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
-喺The Grand Lagunas挑戰極限，體驗刺激冒險同絕靚景色！呢度提供好多唔同嘅戶外活動設施，包括繽紛彩虹滑道(Rainbow Slide)、飛索(Flying Fox)、樹頂探險(Tree Top)、蘇丹籃(Keranjang Sultan)、彈跳床(Trampoline Jump)、吊床(Hammock)、鳥巢(Nest)、攀爬網(Climbing Net)、爬樹體驗(Climbing Tree)同叢林吊橋(Jungle Bridge)、仲有ATV騎乘等精彩項目，等你盡情釋放冒險精神。
+喺The Grand Lagunas挑戰極限，體驗刺激冒險同絕美景色！呢度提供好多唔同嘅戶外活動設施，包括繽紛彩虹滑道(Rainbow Slide)、飛索(Flying Fox)、樹頂探險(Tree Top)、蘇丹籃(Keranjang Sultan)、彈跳床(Trampoline Jump)、吊床(Hammock)、鳥巢(Nest)、攀爬網(Climbing Net)、爬樹體驗(Climbing Tree)同叢林吊橋(Jungle Bridge)，仲有ATV騎乘等精彩項目，等你盡情釋放冒險精神。
 
-感受從繽紛滑道急速滑落嘅快感，喺欣賞壯麗景觀嘅同時享受色彩繽紛嘅樂趣；體驗驚險刺激嘅鞦韆，配上令人屏息嘅自然美景，感受飛翔快感嘅同時欣賞金塔馬尼峇里島之美。呢度係腎上腺素同大自然嘅完美結合，由你掌控冒險節奏，探索峇里島嘅隱藏秘境，體驗越野刺激，最適合想挑戰自我、親近自然嘅旅人！
+感受從繽紛滑道急速滑下嘅快感，喺欣賞壯麗景觀嘅同時享受色彩繽紛嘅樂趣；體驗驚險刺激嘅鞦韆，配上令人屏息嘅自然美景，感受飛翔快感嘅同時欣賞金塔馬尼峇里島之美。呢度係腎上腺素同大自然嘅完美結合，由你掌控冒險節奏，探索峇里島嘅隱藏秘境，體驗越野刺激，最適合想挑戰自我、親近自然嘅旅人！
 
 > [Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1201576&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F140770-the-grand-lagunas-experience-in-kintamani-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D8bb54bcb73)
 
@@ -636,13 +635,13 @@ https://youtu.be/_Lvp9cIVYz8
 
 ## 【沈浸山水美景嘅用餐地點】
 
-➡️[更多峇里島超值優惠請撳呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
 ### 喺D'Tukad River Club欣賞瀑布嘅獨特美景（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
 ![在D'Tukad River Club欣賞瀑布的獨特美景（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_5d0bb25e202668ccbce347399768abd7.jpg)
 
-D'Tukad河畔俱樂部位於Tegenungan Waterfall頂部，係一個日間俱樂部，結合咗樹屋概念同令人嘆為觀止嘅自然景觀。喺呢度，你可以盡情享受超靚嘅鞦韆同游泳池，沉浸喺峇里島藝術嘅氛圍入面。D'Tukad有360度瀑布景觀，令你喺食午餐嘅時候同時欣賞到瀑布流水嘅壯觀同自然嘅宏偉。
+D'Tukad河畔俱樂部位於Tegenungan Waterfall頂部，係一個日間俱樂部，結合咗樹屋概念同令人嘆為觀止嘅自然景觀。喺呢度，你可以盡情享受超靚嘅鞦韆同游泳池，沉浸喺峇里島藝術嘅氛圍入面。D'Tukad有360度瀑布景觀，令你喺食午餐嘅時候，同時欣賞到瀑布流水嘅壯觀同自然嘅宏偉。
 
 D'Tukad River Club喺瀑布嘅頂端，河流另一邊瀑布下面就有另一個瀑布俱樂部叫做「Omma Dayclub」
 
@@ -662,19 +661,19 @@ Omma Dayclub 以佢壯麗嘅瀑布景色聞名。瀑布高約30米，遊客可�
 
 https://youtube.com/shorts/BBIXmPYUPZo
 
-Omma Dayclub 有游泳池、日光浴床同按摩服務，仲有各種娛樂活動，包括現場音樂、DJ 表演同泳池派對。
+Omma Dayclub 有游泳池、日光浴床同按摩服務，仲有現場音樂、DJ 表演同泳池派對等娛樂活動。
 
-Omma Dayclub 提供多款套餐，等你可以一邊睇瀑布景，一邊享受美食同飲品。你可以上佢哋網站睇更多詳細資料。
+Omma Dayclub 提供多款套餐，等你可以一邊欣賞瀑布美景，一邊享受美食同飲品。你可以上佢哋網站睇更多詳細資料。
 
-> [Omma Dayclub 介紹 & 官網](/zh-hk/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> [Omma Dayclub介紹 & 官網](/zh-hk/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ### Wanna Jungle Pool & Bar （👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
 https://youtu.be/eJ0oL0O5OY8
 
-Wanna Jungle Pool & Bar 係烏布新開嘅日間俱樂部，以佢獨特嘅三層無邊際泳池聞名。喺呢度，你可以喺清涼嘅水入面暢泳，享受熱帶嘅放鬆氛圍，同茂密嘅森林同標誌性嘅無邊際泳池融為一體。呢度絕對係影 Instagram 靚相嘅好地方，令你嘅社交媒體充滿烏布獨有嘅濃厚風情。
+Wanna Jungle Pool & Bar係烏布新開嘅日間俱樂部，以獨特嘅三層無邊際泳池聞名。喺度你可以喺清涼嘅水入面暢泳，享受熱帶放鬆氛圍，同茂密森林同標誌性無邊際泳池融為一體。呢度絕對係影Instagram靚相嘅好地方，令你嘅社交媒體充滿烏布獨有嘅濃厚風情。
 
-> [Wanna Jungle Pool & Bar 通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da712e9efb5)
+> [Wanna Jungle Pool & Bar通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da712e9efb5)
 
 ### Wanna Gangga Pool & Bar（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
@@ -690,9 +689,9 @@ https://www.instagram.com/reel/DeLlvuToBPO/?utm_source=ig_web_copy_link&cplk=NTc
 
 https://www.instagram.com/p/Dd0pIetsN2S/?utm_source=ig_web_copy_link
 
-同樣隸屬於出名嘅 The Kayon 集團，喺 2026 年全新開幕。相比集團其他比較偏僻嘅據點，呢度嘅位置**更接近烏布市中心**，令旅客喺享受隱密叢林度假感嘅同時，去市區探索同交通往返都更加方便。
+同樣隸屬於出名嘅 The Kayon 集團，喺 2026 年全新開幕。相比集團其他比較偏僻嘅據點，呢度嘅位置**更接近烏布市中心**，令旅客喺享受隱密叢林度假感覺嘅同時，去市區探索同交通往返都更加方便。
 
-呢度環繞住烏布標誌性嘅翠綠河谷同熱帶雨林，完美延續咗集團嘅高質感設計。除咗提供精緻嘅池畔休憩空間同優質嘅餐酒服務之外，仲可以令人輕鬆沉浸喺療癒嘅自然美景入面，係兼顧度假隱密性同便利性嘅絕佳好去處。
+呢度環繞住烏布標誌性嘅翠綠河谷同熱帶雨林，完美延續咗集團嘅高質感設計。除咗提供精緻嘅池畔休憩空間同優質嘅餐酒服務之外，仲可以令人輕鬆沉浸喺療癒嘅自然美景入面，係兼具度假隱密性同便利性嘅絕佳好去處。
 
 ### Cretya Ubud （👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
@@ -700,35 +699,35 @@ https://www.instagram.com/p/Dd0pIetsN2S/?utm_source=ig_web_copy_link
 
 Cretya Ubud 係烏布區嘅一間豪華日間俱樂部，三層式嘅泳池極具特色。佢位於上面介紹過嘅Alas Harum入面，面對鬱鬱蔥蔥嘅稻田，坐擁壯麗嘅景色。
 
-Cretya Ubud 開放時間係每日上晝 8 點至夜晚 9 點。請繼續參考「[Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](/zh-hk/blog/cretya-ubud-alas-harum-budget-guide/)」。
+Cretya Ubud 開放時間係每日上晝8點至夜晚9點。請繼續參考「[Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](/zh-hk/blog/cretya-ubud-alas-harum-budget-guide/)」。
 
 > [旅遊套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
 
 [官網自己揀位，有最低消費](https://alasharum.com/cretya-ubud/day-club/)
 
-### Bebek Bengil食好嘢髒鴨飯 （👉🏼地圖：[沉浸山水美景](/map/ubud/)）
+### Bebek Bengil 食好嘢髒鴨飯 （👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 ![Bebek Bengil享受美食髒鴨飯 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
 
-峇里島三大特色美食入面，唔可以錯過嘅一道菜就係「髒鴨飯」，當地叫Bebek Bengil。呢道菜以獨特嘅煮法聞名，外皮脆卜卜，入面肉質嫩滑多汁。喺烏布嘅Bebek Bengil餐廳，你可以歎呢個美味嘅髒鴨飯，同時感受當地嘅飲食文化。
+峇里島三大特色美食之中，唔可以錯過嘅一道佳餚就係「髒鴨飯」，當地俗稱Bebek Bengil。呢道美食以佢獨特嘅烹調方式聞名，外皮酥脆，內裡多汁鮮嫩。喺烏布嘅Bebek Bengil餐廳，你可以享受呢道美味嘅髒鴨飯，同時感受當地嘅美食文化。
 
 > [享用髒鴨餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91304-bebek-bengil-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D77b8965c77)
 
 ###
 
-### Bebek Tebasari發呆亭食飯 （👉🏼地圖：[沉浸山水美景](/map/ubud/)）
+### Bebek Tebasari 發呆亭用餐 （👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
-嚟峇里島出名嘅發呆亭食飯啦！Bebek Tebasari係烏布地區一間好受注目嘅餐廳，以招牌菜「bebek betutu」聞名，係一道傳統嘅峇里島烤鴨菜式。呢間餐廳提供咗一種獨特嘅用餐體驗，因為佢坐落喺一個被稻田同水池包圍嘅靚環境入面。
+嚟峇里島出名嘅發呆亭用餐啦！Bebek Tebasari係烏布地區一家備受矚目嘅餐廳，以佢嘅特色菜「bebek betutu」聞名，呢道係傳統嘅峇里島烤鴨菜餚。呢間餐廳提供咗一種獨特嘅用餐體驗，因為佢位於一個被稻田同水池環繞嘅美麗環境入面。
 
-喺Bebek Tebasari，你可以坐喺寧靜嘅露天區域，欣賞周圍稻田嘅翠綠風光。呢種絕佳嘅用餐環境結合咗傳統嘅峇里島建築同輕鬆嘅氣氛，令佢成為本地人同遊客都鍾意嘅食飯勝地。呢度唔單止有美味嘅地道菜式，仲可以令你喺寧靜嘅環境入面放鬆身心，品味當地文化嘅深度。Bebek Tebasari絕對係一間值得花時間慢慢品嚐嘅餐廳，令你喺烏布嘅旅程入面增添一份美好嘅回憶。
+喺Bebek Tebasari，你可以坐喺寧靜嘅露天區域，欣賞住周圍稻田嘅青翠風光。呢種絕佳嘅用餐環境結合咗傳統嘅峇里島建築同輕鬆嘅氛圍，令佢成為當地人同遊客喜愛嘅用餐勝地。呢度唔單止提供咗美味嘅當地佳餚，仲可以令你喺寧靜嘅環境入面放鬆身心，品味當地文化嘅深度。Bebek Tebasari絕對係一個值得花時間品味嘅餐廳，令你喺烏布嘅旅程入面增添一份美好嘅回憶。
 
-> [Bebek Tebasari食飯](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daf35424019)
+> [Bebek Tebasari用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daf35424019)
 
 ### The Sayan House 用餐體驗 （👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 ![The Sayan House 用餐體驗 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
 
-居高臨下俯瞰成條阿勇河溪谷，欣賞叢林日落，再加埋享受美食，呢種係點樣嘅體驗？喺Sayan地區嘅The Sayan House，呢一切都有可能。提供融合日本、拉丁美洲同東南亞美食嘅獨特口味。你可以喺度享用美味嘅菜式，同時欣賞壯觀嘅烏布峽谷景觀。The Sayan House唔單止提供美食，仲係一場視覺同味覺嘅雙重饗宴，一定會令你留下難忘嘅用餐回憶。
+居高臨下俯瞰成條阿勇河溪谷，欣賞叢林日落，仲有得享受美食，呢種係點樣嘅體驗？喺Sayan地區嘅The Sayan House，呢一切都可以實現。佢哋提供融合日本、拉丁美洲同東南亞美食嘅獨特口味。你可以喺度享用美味嘅菜餚，同時欣賞到壯觀嘅烏布峽谷景觀。The Sayan House唔單止提供美食，仲係一場視覺同味覺嘅雙重饗宴，一定會令你留下難忘嘅用餐回憶。
 
 > [The Sayan House用餐優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91296-the-sayan-house-dining-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De62681fc52)
 
@@ -736,7 +735,7 @@ Cretya Ubud 開放時間係每日上晝 8 點至夜晚 9 點。請繼續參考�
 
 ![五星級旅館的用餐體驗 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
 
-喺烏布嘅五星度假村「麗思卡爾頓度假村」，享受一場精緻嘅用餐體驗！餐廳俯瞰美麗嘅稻田同熱帶森林，全日供應美食。呢度提供嘅菜式突顯咗峇里島美食、亞洲精緻料理同埋來自主廚有機花園嘅新鮮農產品，融合咗農場到餐桌嘅理念。優雅浪漫嘅竹編形狀用餐區提供法式菜單嘅多種選擇。喺Kubu，你可以感受熱帶微風同悠悠水聲，享用精緻嘅地中海-歐洲美食，仲可以選擇單點或品嚐菜單。
+喺烏布嘅五星渡假村「麗思卡爾頓度假村」，享受一場精緻嘅用餐體驗！餐廳俯瞰美麗嘅稻田同熱帶森林，全日供應美食。呢度提供嘅菜餚突顯咗峇里島美食、亞洲精緻料理同埋來自主廚有機花園嘅新鮮農產品，融合咗農場到餐桌嘅理念。優雅浪漫嘅竹編形狀用餐區提供法式菜單嘅多種選擇。喺Kubu，你可以感受熱帶微風同悠悠水聲，享用精緻嘅地中海-歐洲美食，仲可以揀單點或品嚐菜單。
 
 > [五星景觀餐廳用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90666-fine-dining-mandapa-a-ritz-carlton-reserve-ubud%2F%3Fspm%3DActivity.TranslateThisPagePopup%26clickId%3Dbce6538a2e%26translation%3D1)
 
@@ -744,11 +743,11 @@ Cretya Ubud 開放時間係每日上晝 8 點至夜晚 9 點。請繼續參考�
 
 ![Bebek Tepi Sawah寧靜的稻田中用餐 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
 
-Bebek Tepi Sawah 係一間位於烏布嘅知名餐廳，個名意思係「稻田邊嘅鴨」。呢間餐廳以佢嘅特色菜鴨肉料理聞名，提供多種風味豐富嘅印尼美食，尤其係招牌菜鴨肉最正。呢度嘅餐點通常用當地傳統烹飪方式製作，令你品嚐到地道嘅印尼美食風味。
+Bebek Tepi Sawah 係一間位於烏布嘅知名餐廳，個名意思係「稻田邊嘅鴨仔」。呢間餐廳以佢嘅特色菜鴨肉料理聞名，提供多種風味豐富嘅印尼美食，尤其係招牌菜鴨肉最正。呢度嘅餐點通常用當地傳統烹飪方式製作，令你品嚐到地道嘅印尼美食風味。
 
 除咗美食之外，Bebek Tepi Sawah 仲以佢獨特嘅用餐環境聞名。餐廳周圍環繞住美麗嘅稻田，提供寧靜優雅嘅用餐氛圍。你可以坐喺露天座位，享受田園風光，感受峇里島獨特嘅自然美景。
 
-此外，餐廳內部嘅裝潢都展現咗峇里島嘅傳統風格，結合咗當地嘅建築元素同藝術品，營造出舒適愜意嘅用餐環境。Bebek Tepi Sawah 提供咗一個融合美食、自然同文化嘅完美場所，令你享受美好嘅用餐體驗。
+另外，餐廳內部嘅裝潢都展現咗峇里島嘅傳統風格，結合咗當地嘅建築元素同藝術品，營造出舒適愜意嘅用餐環境。Bebek Tepi Sawah 提供咗一個融合美食、自然同文化嘅完美場所，令你享受美好嘅用餐體驗。
 
 > [Bebek Tepi Sawah用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)
 
@@ -756,11 +755,11 @@ Bebek Tepi Sawah 係一間位於烏布嘅知名餐廳，個名意思係「稻田
 
 ![Boni Bali Restaurant梯田美景餐廳 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
 
-一邊望住德格拉郎梯田嘅美景，一邊食印尼傳統美食，係峇里島旅遊嘅一大樂趣。
+一邊望住德格拉郎梯田嘅美景，一邊食印尼傳統美食，係峇里島旅行嘅一大樂趣。
 
-德格拉郎梯田位於峇里島東北部，係世界文化遺產。梯田總面積達2,500公頃，由幾千個階梯狀嘅稻田組成，層層疊疊，綿延到天邊。梯田喺陽光照射下，呈現出金黃、綠色、棕色等多彩嘅顏色，靚到不得了。
+德格拉郎梯田位於峇里島東北部，係世界文化遺產。梯田總面積達2,500公頃，由幾千個階梯狀嘅稻田組成，層層疊疊，一路延伸到天邊。梯田喺陽光照射下，呈現出金黃、綠色、棕色等繽紛色彩，靚到不得了。
 
-Boni Bali Restaurant喺德格拉郎梯田嘅旁邊，提供印尼傳統美食。遊客可以喺度品嚐到 Nasi Goreng、Sate Ayam 同 Rendang 等經典菜式。
+Boni Bali Restaurant喺德格拉郎梯田旁邊，提供印尼傳統美食。遊客可以喺度試到 Nasi Goreng、Sate Ayam 同 Rendang 等經典菜式。
 
 > [Boni峇里島餐廳用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90187-dining-experience-boni-bali-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D95e0a37ff0)
 
@@ -768,7 +767,7 @@ Boni Bali Restaurant喺德格拉郎梯田嘅旁邊，提供印尼傳統美食。
 
 ![The Cafe Lotus Ubud（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
 
-喺烏布水皇宮嘅蓮花池畔享受美食，以獨特嘅漂浮式早餐體驗開啟你嘅一日！喺迷人嘅烏布水宮旁邊享受一餐寧靜嘅蓮花池畔早餐體驗，仲可以喺周圍散步。如果揀喺呢度食晚餐，仲可以睇到精彩絕倫嘅傳統峇里舞蹈表演㗎！
+喺烏布水皇宮嘅蓮花池旁邊享受美食，用獨特嘅漂浮式早餐體驗嚟開始你嘅一日！喺迷人嘅烏布水宮隔籬享受一餐寧靜嘅蓮花池畔早餐體驗，仲可以喺周圍行吓。如果揀喺呢度食晚餐，仲可以睇到精彩絕倫嘅傳統峇里舞蹈表演㗎！
 
 > [The Cafe Lotus Ubud用餐優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845943&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113807-dining-experience-at-the-cafe-lotus-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0eddafd05b)
 
@@ -776,15 +775,15 @@ Boni Bali Restaurant喺德格拉郎梯田嘅旁邊，提供印尼傳統美食。
 
 ![The Jungle Club Ubud（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
 
-Google評價4.9粒星。The Jungle Club Ubud 係峇里島最新嘅叢林樂園，集休閒同奢華於一身。位於烏布南部茂密嘅綠意中，呢個**只限成人**嘅世外桃源重新定義咗精品日間俱樂部嘅體驗，結合咗親密、專屬同充滿野性冒險嘅氛圍。喺度，你可以品嚐精緻嘅美酒佳餚，同時欣賞壯麗嘅河景同四周環繞嘅叢林美景。隨住叢林中節奏感十足嘅聲音律動迷失自我，The Jungle Club Ubud 每星期七日都有精心策劃嘅娛樂活動同表演，為你嘅旅程增添無限樂趣。
+Google評價4.9粒星。The Jungle Club Ubud 係峇里島最新嘅叢林樂園，集休閒同奢華於一身。位於烏布南部茂密嘅綠意中，呢個**只限成人**嘅世外桃源重新定義咗精品日間俱樂部嘅體驗，結合咗親密、專屬同充滿野性冒險嘅氛圍。喺度，你可以品嚐精緻嘅美酒佳餚，同時欣賞壯麗嘅河景同四周圍繞嘅叢林美景。隨住叢林中節奏感十足嘅聲音律動迷失自我，The Jungle Club Ubud 每星期七日都有精心策劃嘅娛樂活動同表演，為你嘅旅程增添無限樂趣。
 
-Klook提供嘅餐飲抵扣仲高過票面價，[㩒呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917160&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F128374-the-jungle-club-ubud-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dfb0ad412af)
+Klook提供嘅餐飲抵扣仲高過票面價，[撳呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917160&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F128374-the-jungle-club-ubud-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dfb0ad412af)
 
 ### Kenran Resort（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
 ![Kenran Resort（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
 
-Google評分4.3粒星。喺峇里島烏布嘅Grand Kenran Resort，你會體驗到無得頂嘅用餐享受。呢個度假村坐落喺寧靜嘅稻田之間，周圍係綠油油嘅叢林，仲有佩塔努河嘅潺潺流水聲，令你完全沉浸喺大自然嘅懷抱。無論係食漂浮早餐、悠閒午餐、悠然下午茶，定係浪漫燭光晚餐，你都可以喺T'dung餐廳一邊嘆美食，一邊欣賞烏布嗰啲如畫嘅景致。呢度四周圍都係生機勃勃嘅綠植，係放鬆身心、獎勵自己嘅理想地方。
+Google評分4.3粒星。喺峇里島烏布嘅Grand Kenran Resort，你會體驗到無得頂嘅用餐享受。呢個度假村坐落喺寧靜嘅稻田之間，周圍係綠油油嘅叢林，仲有佩塔努河嘅潺潺流水聲，令你完全沉浸喺大自然懷抱。無論係食漂浮早餐、悠閒午餐、悠然下午茶，定係浪漫燭光晚餐，你都可以喺T'dung餐廳一邊嘆美食，一邊欣賞烏布如畫嘅景致。呢度四周圍都係生機勃勃嘅綠植，係放鬆身心、獎勵自己嘅理想地方。
 
 > [Klook優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935232&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124212-grand-kenran-resort-dining-experience-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2a45b1be38)
 
@@ -792,7 +791,7 @@ Google評分4.3粒星。喺峇里島烏布嘅Grand Kenran Resort，你會體驗�
 
 ![Birdhill（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
 
-Google評分4.9粒星。喺Birdhill餐廳享受非凡嘅美食體驗，呢度正宗嘅峇里島美食藝術同西方精緻美食嘅精髓相得益彰。餐廳位於翠綠色嘅泳池旁邊，優雅咁漂浮喺風景如畫嘅河谷之上，為客人提供令人難忘嘅用餐體驗，環境靚到令人嘩一聲！
+Google評分4.9粒星。喺Birdhill餐廳享受非凡嘅美食體驗，呢度正宗嘅峇里島美食藝術同西方精緻美食相得益彰。餐廳位於翠綠色嘅泳池旁邊，優雅咁漂浮喺風景如畫嘅河谷之上，為客人提供令人難忘嘅用餐體驗，環境靚到令人嘩一聲！
 
 > [Birdhill餐廳用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111543-bird-hill-restaurant-dining-voucher-in-ubud%2F)
 
@@ -800,21 +799,21 @@ Google評分4.9粒星。喺Birdhill餐廳享受非凡嘅美食體驗，呢度正
 
 ![Wedja Bali（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
 
-Google評分4.8粒星。Wedja餐廳係烏布最啱影相打卡嘅熱門餐廳之一！餐廳四周圍環繞住迷人嘅荷花池，令你喺美麗嘅自然景致中享受寫意嘅用餐時光。呢度提供多種峇里島同印尼美食選擇，滿足你嘅味蕾。同時，Wedja亦都有好多絕佳嘅影相打卡位，係享用美食同捕捉美麗瞬間嘅完美結合地。
+Google評分4.8粒星。Wedja餐廳係烏布最啱打卡嘅熱門餐廳之一！餐廳四周圍環繞住迷人嘅荷花池，令你喺美麗嘅自然景致中享受愜意嘅用餐時光。呢度提供多種峇里島同印尼美食選擇，滿足你嘅味蕾。同時，Wedja亦有多個絕佳嘅打卡位，係享用美食同捕捉美麗瞬間嘅完美結合地。
 
 > [Wedja用餐優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F126692-dining-voucher-at-wedja-restaurant-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f28f649ae)
 
-### Sans Indian Cuisine（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
+### Sans Indian Cuisine（👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 ![餐廳在頂樓，一覽田園風光](https://images.gobaligo.id/vocus/vocus_5aab484d62dc379010831b1a7d94175e.png)
 
 餐廳喺頂樓，一覽田園風光
 
-Google評價4.7粒星。Sans Indian Cuisine 餐廳係位於烏布嘅一間正宗印度餐廳，令客人喺充滿印度文化氛圍嘅環境入面，沉浸喺傳統印度嘅魅力。餐廳專注於提供正宗嘅印度用餐體驗，無論係地道嘅印度美食，定係由獲獎廚師精心調製嘅招牌飲品，都展現咗佢哋嘅獨特風味。周圍環繞住烏布稻田嘅壯麗景色，呢度係一個隱秘嘅寶藏，Tripadvisor評價滿分，令您喺享受美食嘅同時都可以得到身心嘅放鬆同煥發。
+Google評價4.7粒星。Sans Indian Cuisine 餐廳係位於烏布嘅一間正宗印度餐廳，令客人在充滿印度文化氛圍嘅環境中，沉浸喺傳統印度嘅魅力。餐廳專注於提供正宗嘅印度用餐體驗，無論係地道嘅印度美食，定係由獲獎廚師精心調製嘅招牌飲品，都展現咗佢哋嘅獨特風味。周圍環繞住烏布稻田嘅壯麗景色，呢度係一個隱秘嘅寶藏，Tripadvisor評價滿分，令您喺享受美食嘅同時都可以得到身心嘅放鬆同煥發。
 
 > [Klook七折優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110132-sans-thai-ubud-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfd4a775c60)
 
-### Botanist 餐廳餐飲同烹飪課程體驗（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
+### Botanist 餐廳餐飲同烹飪課程體驗（👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 ![Botanist 餐廳餐飲和烹飪課程體驗（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
 
@@ -822,11 +821,11 @@ Google評價4.5粒星。喺 Botanist Restaurant Ubud 盡享美味佳餚，無論
 
 > [Klook多種方案選擇](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113658-dining-and-cooking-class-experience-at-botanist-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D094d1831ad)
 
-### Terracotta Restaurant Ubud（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
+### Terracotta Restaurant Ubud（👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 ![Terracotta Restaurant Ubud（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
 
-Google評價4.7粒星。喺 Terracotta 餐廳，訪客可以逃離塵囂，進入一個寧靜浪漫嘅世界，欣賞壯麗嘅稻田美景，感受大自然帶嚟嘅祥和氛圍。同伴侶共享美味佳餚，同時沉浸喺自然嘅美景入面。呢度仲提供私人烹飪課程，令參加者踏上一段美食之旅，探索峇里島嘅濃郁風味。唔單止可以學識烹調美味嘅當地菜餚，仲可以將呢啲技巧同靈感帶返屋企，喺自己嘅廚房重現峇里島嘅滋味。加入餐飲課程探索真正嘅天堂美味，並享受奢華嘅體驗。有漂浮早餐、野餐午餐、浪漫晚餐、烹飪課程等選項。
+Google評價4.7粒星。喺 Terracotta 餐廳，訪客可以逃離塵囂，進入一個寧靜浪漫嘅世界，欣賞壯麗嘅稻田美景，感受大自然帶嚟嘅祥和氛圍。同伴侶共享美味佳餚，同時沉浸喺自然嘅美景中。呢度仲提供私人烹飪課程，令參加者踏上一段美食之旅，探索峇里島嘅濃郁風味。唔單止可以學識烹調美味嘅當地菜餚，仲可以將呢啲技巧同靈感帶返屋企，喺自己嘅廚房重現峇里島嘅滋味。加入餐飲課程探索真正嘅天堂美味，並享受奢華嘅體驗。有漂浮早餐、野餐午餐、浪漫晚餐、烹飪課程等選項。
 
 > [Terracotta餐廳優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113916-dining-and-cooking-class-experience-at-terracotta-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8fbe3df73)
 
@@ -834,9 +833,9 @@ Google評價4.7粒星。喺 Terracotta 餐廳，訪客可以逃離塵囂，進�
 
 ![The Puhu Restaurant & Lounge @Padma Resort Ubud（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_6292145b559cd7e3df3fa6b8d4c7e707.jpg)
 
-Google評價4.8粒星。喺Padma Resort Ubud享受多元化嘅美食體驗！Puhu餐廳係度假村嘅全日餐廳，提供豐富嘅菜式，仲有無得頂嘅180度視野，可以俯瞰度假村、森林同壯麗嘅熱帶山谷。漂浮下午茶就將餐廳嘅下午茶體驗帶到隱蔽嘅下層泳池，喺寧靜嘅私密氛圍下慢慢歎。你可以喺Payangan叢林嘅高地，過一個輕鬆嘅下午，品嚐豐富嘅鹹甜點心，再配返茶或咖啡。想慶祝愛情？喺竹巢入面享受浪漫嘅私密晚餐，細味一系列精選美食，為你嘅特別時刻增添更多回憶。
+Google評價4.8粒星。喺Padma Resort Ubud享受多元化嘅美食體驗！Puhu餐廳係度假村嘅全日餐廳，提供豐富嘅菜式，仲有無得頂嘅180度視野，可以俯瞰度假村、森林同壯麗嘅熱帶山谷。漂浮下午茶就將餐廳嘅下午茶體驗帶到隱蔽嘅下層泳池，喺寧靜嘅私密氛圍入面享用。你可以喺Payangan叢林嘅高地，過一個輕鬆嘅下午，品嚐豐富嘅鹹甜點心，再配埋茶或咖啡。想慶祝愛情？喺竹巢入面享受浪漫嘅私密晚餐，細味一系列精選美食，為你嘅特別時刻增添更多回憶。
 
-> [景觀下午茶、泳池漂浮下午茶、浪漫情侶晚餐任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F119144-dining-experience-at-padma-resort-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D4a0ce12ec0)
+> [景觀下午茶、泳池漂浮下午茶、浪漫情侶晚餐任揀](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F119144-dining-experience-at-padma-resort-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D4a0ce12ec0)
 
 ### Cretya Sunset by Alas Harum（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
@@ -852,7 +851,7 @@ Cretya Sunset坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅位置令�
 
 ![浪漫遊船野餐](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
 
-想喺峇里島烏布嘅叢林中享受一段寧靜又浪漫嘅時光嗎？「烏布浪漫遊船野餐」會帶你同摯愛、朋友、同事或家人，搭住精心裝飾嘅木船，航行喺烏布叢林環繞嘅靜謐湖面上，度過難忘嘅一個鐘。呢個唔單止係情侶創造美好回憶嘅完美選擇，仲係同親友分享獨特體驗嘅絕佳機會！船上仲提供精緻野餐籃，入面有美味嘅三文治、蔬菜鷹嘴豆泥沾醬、新鮮生果、乳酪穀物，同埋一支氣泡酒，令你可以邊賞景邊歎美食。
+想喺峇里島烏布嘅叢林中享受一段寧靜又浪漫嘅時光嗎？「烏布浪漫遊船野餐」會帶你同摯愛、朋友、同事或家人，搭住精心裝飾嘅木船，航行喺烏布叢林環繞嘅靜謐湖面上，度過難忘嘅一個鐘。呢個唔單止係情侶共創美好回憶嘅完美選擇，仲係同親友分享獨特體驗嘅絕佳機會！船上仲提供精緻野餐籃，入面有美味嘅三文治、蔬菜鷹嘴豆泥沾醬、新鮮生果、乳酪穀物，同埋一支氣泡酒，令你可以邊賞景邊享用美食。
 
 烏布叢林嘅壯麗景觀同湖面嘅寧靜氛圍，為你打造一個獨特而親密嘅體驗。無論係慶祝特別日子，定係純粹想逃離日常喧囂，呢項活動都可以為你帶嚟無與倫比嘅回憶。強烈建議請專業攝影師，捕捉呢個難得嘅浪漫時刻，留下令人驚豔嘅相片！快啲嚟烏布，同摯愛一齊沉浸喺呢片自然美景入面啦！
 
@@ -862,21 +861,21 @@ Cretya Sunset坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅位置令�
 
 ![Tuju Tropical Club & Dining（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
 
-喺烏布喧鬧嘅街區背後，匿埋咗一個靜靜哋嘅熱帶綠洲——Tuju Tropical Club & Dining。呢棟融合現代設計同峇里傳統元素嘅建築，隱身喺茂密嘅綠色植物之間，開放式嘅空間令自然光同微風自由流動。
+喺烏布喧鬧嘅街區背後，藏咗一個寧靜嘅熱帶綠洲——Tuju Tropical Club & Dining。呢棟融合現代設計同峇里傳統元素嘅建築，隱身喺茂密嘅綠植之間，開放式嘅空間令自然光同微風自由流動。
 
-呢度嘅菜單以峇里島當季食材為本，結合亞洲同地中海風味，再配埋特調嘅低酒精雞尾酒。日頭嗰陣，人們懶洋洋咁攤喺日光椅上，享受從樹葉間灑落嘅陽光；入夜之後，空間慢慢變得活躍，間唔中會有異國音樂喺微風中飄蕩。
+呢度嘅菜單以峇里島當季食材為本，融合亞洲同地中海風味，配埋特調嘅低酒精雞尾酒。日頭嗰陣，人們懶洋洋咁攤喺日光椅上，享受從樹葉間灑落嘅陽光；入夜之後，空間慢慢變得活躍，偶爾會有異國樂音喺微風中飄蕩。
 
-同烏布常見嘅嘈雜夜店唔同，Tuju更加似一個可以靜靜傾偈，或者自己發吽哣嘅地方。啲竹編燈飾、原生植物同粗獷嘅石屎地面，都透露住對自然材料嘅堅持。當你喺午後雷雨時分坐喺呢度，聽住雨點打落蕉葉嘅聲，或者會突然明白，乜嘢叫做「熱帶嘅寧靜」。
+同烏布常見嘅喧鬧夜店唔同，Tuju更像一個可以靜靜傾偈，或者自己發吽哣嘅地方。啲竹編燈飾、原生植栽同粗獷嘅石地面，都透露住對自然材質嘅堅持。當你喺午後雷雨時分坐喺度，聽住雨滴打落蕉葉嘅聲，或者會突然明白，咩叫做「熱帶嘅寧靜」。
 
 > [Klook優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051341&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D642cf000dc)
 
-### Sari Timbul By Kubu Bali/ST玻璃工廠（👉🏼地圖：[沈浸山水美景](/map/ubud/)）
+### Sari Timbul By Kubu Bali/ST玻璃工廠 （👉🏼地圖：[沈浸山水美景](/map/ubud/)）
 
 ![Sari Timbul By Kubu Bali/ST玻璃工廠 （地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
-呢個係位於峇里島德格拉朗（Tegallalang）嘅複合式景觀餐廳，結合美食、藝術同自然體驗，打造出好似童話咁嘅夢幻空間。餐廳被翠綠叢林同梯田包圍，提供印尼傳統料理、西式、墨西哥同印度風味等多國菜系，擺盤精緻而且味道獨特。園區入面有高空鞦韆、叢林泳池同玻璃藝術裝置、夢幻乾冰等打卡熱點，門票已經包埋攝影服務，令遊客輕鬆影到絕靚相。
+呢個係位於峇里島德格拉朗（Tegallalang）嘅複合式景觀餐廳，結合美食、藝術同自然體驗，打造出好似童話咁夢幻嘅空間。餐廳被翠綠叢林同梯田包圍，提供印尼傳統料理、西式、墨西哥同印度風味等多國菜系，擺盤精緻而且風味獨特。園區入面有高空鞦韆、叢林泳池同玻璃藝術裝置、夢幻乾冰等打卡熱點，門票已經包埋攝影服務，令遊客輕鬆影到絕美相片。
 
-呢度唔單止係美食天堂，更加係沉浸式嘅自然藝術空間。工作人員服務好親切，可以幫遊客喺鞦韆上捕捉精彩一刻，配合流水聲同熱帶花卉佈置，營造出仙氣十足嘅氛圍。無論你想享受浪漫餐點、體驗刺激鞦韆，定係純粹放鬆睇景，Sari Timbul 都能夠滿足需求，成為德格拉朗地區唔可以錯過嘅特色景點。
+呢度唔單止係美食天堂，更加係沉浸式嘅自然藝術空間。工作人員服務好親切，可以幫遊客喺鞦韆上捕捉精彩瞬間，配埋流水聲同熱帶花卉佈置，營造出仙氣十足嘅氛圍。無論你想享受浪漫餐點、體驗刺激鞦韆，定係純粹放鬆睇景，Sari Timbul 都可以滿足需求，成為德格拉朗地區唔可以錯過嘅特色景點。
 
 > [參加包含 Sari Timbul嘅超值烏布一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1046276&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd57b760724)
 
@@ -884,7 +883,7 @@ Cretya Sunset坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅位置令�
 
 ![Kamandalu Ubud 雙人船上用餐（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
 
-喺卡曼達魯度假村嘅靜謐錦鯉漂流河中央，同摯愛享受獨一無二嘅船上用餐體驗。兩個人坐喺傳統木船上，被翠綠熱帶花園包圍，色彩斑斕嘅錦鯉喺清澈水波間游嚟游去，營造出絕美嘅浪漫場景。度假村主廚特別設計咗豐盛嘅五星級雙人套餐，精選當季新鮮食材，融合印尼傳統風味同國際烹飪手法，仲配埋精選氣泡酒同特色調飲，令味蕾同視覺同步享受。
+喺卡曼達魯度假村嘅靜謐錦鯉漂流河中央，同摯愛享受獨一無二嘅船上用餐體驗。兩個人坐喺傳統木船上，被翠綠熱帶花園包圍，色彩繽紛嘅錦鯉喺清澈水波間游嚟游去，營造出絕美嘅浪漫場景。度假村主廚特別設計咗豐盛嘅五星級雙人套餐，精選當季新鮮食材，融合印尼傳統風味同國際烹飪手法，仲搭配精選氣泡酒同特色調飲，令味蕾同視覺同步享受。
 
 專業攝影團隊會幫你捕捉呢個珍貴時刻，唔使分心擺甫士，自然流露嘅幸福神情會成為永恆紀念。無論係蜜月旅行、週年紀念，定係單純想俾愛人驚喜，呢個60分鐘嘅夢幻體驗都會成為峇里島之旅中最閃亮嘅回憶。呢度有[進一步嘅介紹](/zh-hk/blog/kamandalu-ubud-koi-river-dining/)。
 
@@ -894,7 +893,7 @@ Cretya Sunset坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅位置令�
 
 ![D'Tukad Coffee Club：烏布峇里的梯田天堂（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
 
-位於峇里島烏布嘅D'Tukad Coffee Club，以面向德格拉朗梯田嘅絕佳位置聞名。遊客可以一邊食嘢，一邊欣賞令人驚嘆嘅層層稻田美景。俱樂部設有無邊際泳池，周圍環繞住舒適嘅日光浴床，俾客人在熱帶氛圍中盡情放鬆。呢度提供豐富嘅國際美食同手工調製雞尾酒，配埋專業友善嘅服務團隊，營造出完美嘅用餐體驗。
+位於峇里島烏布嘅D'Tukad Coffee Club，以面向德格拉朗梯田嘅絕佳位置聞名。遊客可以一邊食嘢，一邊欣賞令人驚嘆嘅層層稻田美景。俱樂部設有無邊際泳池，周圍環繞住舒適嘅日光浴床，俾客人在熱帶氛圍中盡情放鬆。呢度提供豐富嘅國際美食同手工調製雞尾酒，搭配專業友善嘅服務團隊，營造出完美嘅用餐體驗。
 
 如果你鍾意壯麗嘅梯田美景，但又唔鍾意另一個梯田俱樂部人滿為患，D'Tukad Coffee Club提供同樣精彩嘅氛圍同體驗，仲更加抵玩。無論係朋友聚會定浪漫約會，呢度都係創造難忘回憶嘅理想場所。
 
@@ -904,27 +903,27 @@ Cretya Sunset坐落喺烏布鬱鬱蔥蔥嘅稻田中，面向西邊嘅位置令�
 
 ![Titi Batu Ubud Club（地圖：沈浸山水美景）](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
-Titi Batu Ubud Club 係一個結合健身、休閒同親子娛樂嘅生活俱樂部。呢度有健身房、籃球場、壁球場、滑板公園、游泳池、SPA、舞蹈教室、瑜伽教室、三溫暖、餐廳同兒童遊樂設施，無論你想運動流汗、放鬆身心，定係帶埋小朋友一齊玩水，都可以喺呢度搵到合適嘅空間。由於環境寬敞舒適，氛圍帶點烏布獨有嘅自然氣息，所以吸引咗唔少長居峇里島嘅外籍家庭，成為佢哋日常生活嘅一部分，係大人同小朋友嘅天堂。
+Titi Batu Ubud Club 係一個結合健身、休閒同親子娛樂嘅生活俱樂部。呢度有健身房、籃球場、壁球場、滑板公園、游泳池、SPA、舞蹈教室、瑜伽教室、三溫暖、餐廳同兒童遊樂設施，無論你想運動流汗、放鬆身心，定係帶住小朋友一齊玩水，都可以喺呢度搵到合適嘅空間。由於環境寬敞舒適，氛圍帶點烏布獨有嘅自然氣息，所以都吸引咗唔少長居峇里島嘅外籍家庭，成為佢哋日常生活嘅一部分，係大人同小朋友嘅天堂。
 
-[> [一日通行證優惠，可以用晒所有設施](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141599-titi-batu-ubud-club-day-pass-ticket%2F)」
+[> 一日通行證優惠，可以用晒所有設施](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141599-titi-batu-ubud-club-day-pass-ticket%2F)
 
 ### Poh Gading Cafe（👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 https://www.instagram.com/reel/DcN9PiWT9Ln/?utm_source=ig_web_copy_link&igsi=NTc4MTIwNjQ2YQ==
 
-**Poh Gading Cafe** 位於峇里島吉安雅縣（Gianyar）嘅 Kemenuh 村，距離烏布市區大約 20 分鐘車程。呢間咖啡館最大嘅特色係直接坐落喺 **Poh Gading 瀑布**旁邊嘅溪谷入面，令到客人可以一邊食嘢，一邊近距離俯瞰水簾瀑布同埋滿眼翠綠嘅熱帶叢林景致。
+**Poh Gading Cafe** 位於峇里島吉安雅縣（Gianyar）嘅 Kemenuh 村，距離烏布市區大約 20 分鐘車程。呢間咖啡館最大嘅特色係直接坐落喺 **Poh Gading 瀑布**旁邊嘅溪谷入面，令到客人可以一邊食嘢，一邊近距離睇住水簾瀑布同埋成片翠綠嘅熱帶叢林景致。
 
-店舖提供即磨意式咖啡、印尼地道風味餐點（例如印尼辣醬雞肉飯 Sambal Matah、炸香蕉）同埋西式簡餐。整體氣氛靜謐自然，環境清幽而且步道相對平緩易行，係唔少旅客避開熱門大景點人潮、享受悠閒下午茶嘅隱藏版祕境。
+店舖提供即磨意式咖啡、印尼地道風味餐點（例如印尼辣醬雞肉飯 Sambal Matah、炸香蕉）同埋西式簡餐。整體氣氛寧靜自然，環境清幽而且步道相對平緩易行，係唔少旅客避開熱門大景點人潮、享受悠閒下午茶嘅隱藏版祕境。
 
-> [包含 Poh Gading、聖泉寺、彭例普蘭村、梯田嘅烏布一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1427491&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F196692-poh-gading-waterfall-tirta-empul-bud-private-day-tour-in-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.MoreLanguage_LIST%26clickId%3Daffcac7033)」
+> [包含 Poh Gading、聖泉寺、彭例普蘭村、梯田嘅烏布一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1427491&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F196692-poh-gading-waterfall-tirta-empul-bud-private-day-tour-in-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.MoreLanguage_LIST%26clickId%3Daffcac7033)
 
 ### Tlaga Singha Tropical River Club（👉🏼地圖：[沉浸山水美景](/map/ubud/)）
 
 https://youtu.be/dsFt3WmGHJg?si=rmafCPtvXi2PGjCo
 
-Tlaga Singha Tropical River Club係位於烏布近郊蘇卡瓦提嘅隱密泳池俱樂部，最大特色係坐擁熱帶雨林景觀嘅梯田式無邊際泳池，池畔仲可以啜飲新鮮椰子汁、影IG靚相。呢度嘅套票結合泳池入場同餐飲，方案包括含泳池嘅午餐套票、池畔下午茶、同埋含泳池使用權嘅晚餐方案，好啱全家人或者三五知己一齊放鬆度過悠閒嘅一日。Klook上面嘅評價有5.0分，遊客普遍讚賞泳池層次豐富、服務貼心、環境優美，係遠離烏布市區喧囂嘅好去處。
+Tlaga Singha Tropical River Club 係位於烏布近郊蘇卡瓦提嘅隱秘泳池俱樂部，最大特色係坐擁熱帶雨林景觀嘅梯田式無邊際泳池，池邊仲可以歎新鮮椰子汁、影IG靚相。呢度嘅套票結合泳池入場同餐飲，方案包括有泳池嘅午餐套票、池畔下午茶、同埋包泳池使用權嘅晚餐方案，好啱成家人或者三五知己一齊放鬆，過返個悠閒嘅一日。Klook 上面嘅評價有 5.0 分，遊客普遍讚泳池層次豐富、服務貼心、環境優美，係遠離烏布市區嘈雜嘅好地方。
 
-> [預訂優惠套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1435010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F140817-tlaga-singha-tropical-river-club-pass-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Df20fbf5522)」
+> [預訂優惠套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1435010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F140817-tlaga-singha-tropical-river-club-pass-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Df20fbf5522)
 
 ***
 
@@ -934,13 +933,13 @@ Tlaga Singha Tropical River Club係位於烏布近郊蘇卡瓦提嘅隱密泳池
 
 我哋嘅攻略地圖標咗成廿幾間網友推薦嘅必食餐廳
 
-烏布嘅美食真係好精彩，唔單止有地道嘅印尼菜，仲有各式各樣嘅國際美食等緊你去發掘。我哋嘅攻略地圖標咗成廿幾間網友推薦嘅必食餐廳，由舒服嘅咖啡店到特色餐廳，每間都有佢嘅獨特魅力。無論你想試地道嘅峇里島風味，定係搵異國風情嘅菜式，烏布都可以滿足你嘅味蕾。請參考[我哋嘅烏布攻略地圖](/map/ubud/)，一齊展開美食之旅啦！
+烏布嘅美食真係好精彩，唔單止有地道嘅印尼傳統菜，仲有各式各樣嘅國際美食等緊你去發掘。我哋嘅攻略地圖標咗成廿幾間網友推薦嘅必食餐廳，由舒服嘅咖啡館到特色餐飲，每間都有佢獨特嘅魅力。無論你想試地道嘅峇里島風味，定係搵異國風情嘅菜式，烏布都可以滿足你嘅味蕾。請參考[我哋嘅烏布攻略地圖](/map/ubud/)，一齊展開一場美食之旅啦！
 
-### 品味好味又抵食嘅地道美食
+### 品味好食又抵食嘅地道美食
 
 ![品味美味且經濟實惠的當地美食](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
-嚟到峇里島梗係要試吓地道美食啦！咁峇里島有咩地道美食呢？請睇吓小傑介紹嘅「[峇里島十大當地美食](/zh-hk/blog/bali-travel-tips/)」，呢個會係一場美食嘅冒險旅程。
+嚟到峇里島當然要試吓當地美食啦！咁峇里島有咩當地美食呢？請睇吓小傑介紹嘅「[峇里島十大當地美食](/zh-hk/blog/bali-travel-tips/)」，呢場會係一個美食嘅冒險之旅。
 
 ***
 
@@ -950,11 +949,11 @@ Tlaga Singha Tropical River Club係位於烏布近郊蘇卡瓦提嘅隱密泳池
 
 ![峇里島水神廟 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_0bcbb190a64dc4d8d05b92348d7fda9c.jpg)
 
-烏倫達努水神廟（Pura Ulun Danau）喺1633年完工，位於峇里島中部嘅布拉坦湖（Lake Bratan）湖邊，有人叫佢做「布拉坦水神廟」。因為布拉坦湖對峇里島中部嚟講係主要嘅灌溉水源，所以烏倫達努水神廟以前係用嚟祭祀峇里島嘅水、湖、河嘅達努女神（Dewi Danu）嘅儀式場地。除此之外，11層高嘅烏倫達努水神廟亦係為咗濕婆神同雪山神女而建嘅廟，如來佛祖嘅塑像都供奉喺呢間寺廟入面，係印度教同佛教融合嘅寺廟。
+烏倫達努水神廟（Pura Ulun Danau）喺1633年完工，位於峇里島中部嘅布拉坦湖（Lake Bratan）湖邊，有人叫佢做「布拉坦水神廟」。因為布拉坦湖對峇里島中部嚟講，係灌溉嘅主要水源，所以烏倫達努水神廟以前係用嚟祭祀峇里島嘅水、湖、河嘅達努女神（Dewi Danu）嘅儀式場地。除此之外，11層高嘅烏倫達努水神廟亦係為咗濕婆神同雪山神女而建嘅廟，如來佛祖嘅塑像都供奉喺呢座寺廟入面，係印度教同佛教融合嘅寺廟。
 
 ![峇里島水神廟 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_bf3c1b5963a5c33d38b37b9e3375ccf4.jpg)
 
-特別嘅係，呢個峇里島嘅水神廟，仲印咗喺印尼銀紙上面，係目前印尼流通貨幣中面額第二大嘅，50,000印尼盾折合美金大約係3蚊。
+特別嘅係，呢個峇里島嘅水神廟，仲印咗喺印尼銀紙上面，係目前印尼流通貨幣中面額第二大嘅，50,000印尼盾大約等於港幣25蚊。
 
 > [峇里島北部賞日出＆漢達拉門＆布拉坦水神廟一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F158-northern-nature-bali%2F%3Fspm%3DActivity.TranslateThisPagePopup%26clickId%3Da6d54e3cdd%26translation%3D0)
 
@@ -970,7 +969,7 @@ Tlaga Singha Tropical River Club係位於烏布近郊蘇卡瓦提嘅隱密泳池
 
 ![Toya Devasya溫泉水上樂園 （地圖：烏布周邊熱門景點）](https://images.gobaligo.id/vocus/vocus_d938aab64c88210c3c4550474c7836f5.jpg)
 
-峇里島身為一個火山島，其中最有名嘅一個溫泉就係Toya Devasya。呢個溫泉水上樂園起喺巴杜爾湖邊，係該島最受歡迎嘅景點之一。佢以天然溫泉、水上樂園同壯麗嘅湖景而聞名。
+峇里島作為一個火山島，其中最有名嘅一個溫泉就係Toya Devasya。呢個溫泉水上樂園起喺巴杜爾湖邊，係該島最受歡迎嘅景點之一。佢以天然溫泉、水上樂園同壯麗嘅湖景而聞名。
 
 溫泉水上樂園佔地2.5公頃，有七個唔同溫度嘅溫泉池。溫泉水嚟自巴杜爾火山，含有豐富嘅礦物質，據講有治療功效。水上樂園設有各種滑水道、游泳池同其他水上活動。遊客可以喺度享受放鬆嘅浸溫泉時光，亦可以喺水上樂園盡情玩樂。
 
@@ -984,11 +983,11 @@ Toya Devasya溫泉水上樂園係遊覽峇里島烏布以北嘅理想場所。�
 
 ### Pura Besakih 百沙基母廟 （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
-百沙基母廟（Pura Besakih）係峇里島最大同最神聖嘅印度教寺廟之一，位於阿貢火山嘅斜坡上。呢座廟畀人認為係峇里島宗教嘅核心，仲被尊稱為「母廟」。寺廟有好多個神殿同祭壇，主要供奉唔同嘅神祇。
+百沙基母廟（Pura Besakih）係峇里島最大同最神聖嘅印度教寺廟之一，位於阿貢火山嘅斜坡上面。呢座廟俾人認為係峇里島宗教嘅核心，仲俾人尊稱為「母廟」。寺廟有好多個神殿同祭壇，主要供奉唔同嘅神祇。
 
-呢個宏偉嘅廟宇群坐落喺靚到爆嘅山谷同綠油油嘅稻田之間，景色壯麗。遊客可以喺度感受到濃厚嘅宗教氣氛，探索複雜嘅寺廟建築同神聖嘅氛圍。百沙基母廟承擔咗好多峇里島嘅宗教同文化活動，例如慶典同儀式。
+呢個宏偉嘅廟宇群坐落喺靚到爆嘅山谷同綠油油嘅稻田之間，景色壯麗。遊客可以喺度感受到悠久嘅宗教氛圍，探索複雜嘅寺廟建築同神聖嘅氣氛。百沙基母廟承擔咗好多峇里島嘅宗教同文化活動，例如慶典同儀式。
 
-1963年，阿貢火山爆發，造成1700人死亡，但火山岩漿喺幾公尺之外流過寺廟，百沙基母廟竟然冇事。呢件事畀峇里島人視為神蹟，認為係神明展示威力但唔摧毀信仰嘅旨意。呢座寺廟蘊含住深厚嘅宗教意義同文化價值，吸引咗世界各地嘅遊客嚟參觀。遊客需要遵守相應嘅裝束規定，同埋尊重當地嘅宗教禮儀，以展現對呢個宗教聖地嘅尊重。
+1963年，阿貢火山爆發，造成1700人死亡，不過火山岩漿喺幾公尺之外流過寺廟，百沙基母廟竟然冇事。呢件事俾峇里島人視為神蹟，認為係神明展示威力但唔摧毀信仰嘅旨意。呢座寺廟蘊含住深厚嘅宗教意義同文化價值，吸引咗世界各地嘅遊客嚟參觀。遊客需要遵守相應嘅裝束規定，同埋尊重當地嘅宗教禮儀，以展現對呢個宗教聖地嘅尊重。
 
 ***
 
@@ -1002,27 +1001,27 @@ Toya Devasya溫泉水上樂園係遊覽峇里島烏布以北嘅理想場所。�
 
 https://youtu.be/H-IocbLNpE4
 
-峇里島嘅Pura Lempuyang，又叫「天空之門」，係一座重要嘅印度教寺廟。呢個景點因為可以影到阿貢火山做背景嘅超夢幻靚相而好多人關注，同時都係峇里島旅遊入面好熱門嘅打卡勝地之一。
+峇里島嘅Pura Lempuyang，又叫「天空之門」，係一座好重要嘅印度教寺廟。呢個景點因為可以影到阿貢火山做背景嘅超夢幻靚相而好多人關注，同時都係峇里島旅遊入面好Hit嘅打卡勝地之一。
 
-不過，呢個景點因為出名同靚景，吸引咗好多遊客。如果唔係天光就即刻去，好可能要排隊等兩三個鐘，先有機會影到相。實際上，真正用嚟影相嘅時間可能得五分鐘。到底值唔值得去，就要睇個人鍾唔鍾意同肯唔肯花時間等。
+不過，呢個景點因為太出名同景色太靚，所以吸引咗好多遊客。如果唔係天光就即刻去，好大機會要排隊等兩三個鐘，先有機會影到相。實際上，真正用嚟影相嘅時間可能得五分鐘。到底值唔值得去，就要睇你個人鍾唔鍾意，同埋願唔願意花時間等。
 
-> [可選中文司機導遊東部三景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b)（包旅館接送）
+> [可選中文司機導遊東部三景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b)（包酒店接送）
 
 ### Tirta Gangga 恆河聖泉花園 （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 https://youtu.be/ysUVgnICbg0
 
-恆河聖泉花園，原名「Tirta Gangga」，喺天空之門山腳下，距離峇里島出名嘅「天空之門」大概20分鐘車程。呢個地方中文叫「恆河聖泉花園」，有人就音譯做「蒂爾塔岡加水上宮殿」。
+恆河聖泉花園，原名「Tirta Gangga」，喺天空之門山腳下，距離峇里島好出名嘅「天空之門」大概20分鐘車程。呢個地方中文叫「恆河聖泉花園」，有人就音譯做「蒂爾塔岡加水上宮殿」。
 
-呢度係攝影愛好者嘅絕佳影相地點，可以喺湖度放啲魚糧，引嚟湖中嘅大錦鯉，令到人影相嗰陣有種浮喺水面嘅仙氣感覺。呢啲仙氣十足嘅相喺網上好受歡迎，係一個好有視覺魅力嘅打卡勝地。
+呢度係攝影發燒友嘅絕佳影相位，可以喺湖度放啲魚糧，引啲大錦鯉過嚟，令到人影相嗰陣好似浮喺水面咁有仙氣。呢啲仙氣十足嘅相喺網上好受歡迎，係一個好有視覺魅力嘅打卡勝地。
 
-> [可選中文司機導遊東部三景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b)（包旅館接送）
+> [可選中文司機導遊東部三景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b)（包酒店接送）
 
 ### Ujung Water Palace 烏戎水宮 （👉🏼地圖：[烏布周邊熱門景點](/map/ubud/)）
 
 https://youtu.be/zePMt3KSwTo
 
-烏戎水宮（Ujung Water Palace）喺峇里島東部，係一座古老嘅水上宮殿。佢起喺人工湖入面，有宏偉嘅建築同寧靜嘅景致，係一個好似與世隔絕嘅秘境。呢度充滿寧靜同神秘感，每一步都見到獨特嘅美景，係影靚相嘅理想地方。嚟到呢度你可以感受古老文化嘅底蘊，欣賞湖光山色，留下美好回憶同獨特嘅相片。每個角落都蘊含住古老嘅故事，展現峇里島嘅獨特歷史風貌。
+烏戎水宮（Ujung Water Palace）喺峇里島東部，係一座古老嘅水上宮殿。佢起喺人工湖入面，有宏偉嘅建築同寧靜嘅景致，係一個好似與世隔絕嘅秘境。呢度充滿寧靜同神秘感，每一步都呈現獨特嘅美景，係影靚相嘅理想地方。嚟到呢度你可以感受古老文化嘅底蘊，欣賞湖光山色，留下美好回憶同獨特嘅相片。每個角落都蘊含住古老嘅故事，展現峇里島嘅獨特歷史風貌。
 
 > [可選中文司機導遊東部三景點一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b)（包酒店接送）
 
@@ -1042,7 +1041,7 @@ https://youtu.be/zePMt3KSwTo
 
 ![](https://images.gobaligo.id/vocus/vocus_52e7a776fd44884da1d6395c25ac3717.jpg)
 
-喺烏布嘅熱帶雨林入面，沉浸喺Spa嘅愉悅體驗中。度假村同水療中心提供各種豐富嘅Spa選擇，從傳統嘅峇里島按摩到豐富嘅芳香療法，令你喺大自然嘅懷抱中感受身心靈嘅平靜。聽住風吹樹葉嘅聲音，感受雨林嘅清新空氣，呢場將會係一場令人陶醉嘅療癒之旅。
+喺烏布嘅熱帶雨林中，沉浸喺Spa嘅愉悅體驗入面。度假村同水療中心提供各種豐富嘅Spa選擇，從傳統嘅峇里島按摩到豐富嘅芳香療法，令你喺大自然嘅懷抱中感受身心靈嘅平靜。聽住風吹樹葉嘅聲音，感受雨林嘅清新空氣，呢場將會係一場令人陶醉嘅療癒之旅。
 
 > Google評價4.9粒星。[Svaha Spa Bisma 森林景觀水療＆按摩體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
 
@@ -1057,7 +1056,7 @@ https://youtu.be/zePMt3KSwTo
 > Google評分4.8粒星。[Chapung Wellness Spa按摩體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
 
 > [Sanctoo Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F101338-sanctoo-spa-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daa99e346be)
-> Google評分4.7粒星。坐落喺峇里島動物園一角，周圍被綠油油嘅植物同瀑布包圍住做按摩，保證做完之後精神爽利！
+> Google評分4.7粒星。位於峇里島動物園一角，周圍係綠油油嘅植物同瀑布，喺度按摩，保證做完之後精神爽利！
 
 > [Ayusha Wellness Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F131955-balinese-holistic-spa-at-ayusha-wellness-in-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f74b94c07)
 > Google評分5粒星！喺叢林河邊嘅spa放鬆身心，煥發活力！享受Ayusha峇里島按摩、冷熱石按摩或者情侶按摩
@@ -1068,7 +1067,7 @@ https://youtu.be/zePMt3KSwTo
 
 喺烏布嘅旅館入面，你可以沉浸喺寧靜嘅大自然之中。呢啲旅館通常位於郁郁蔥蔥嘅熱帶叢林或者綠油油嘅稻田之間，俾你一種融入自然嘅舒適體驗。你可以喺寬敞嘅露台上欣賞晨曦中升起嘅太陽，或者喺涼爽嘅泳池入面放鬆身心。
 
-好多烏布旅館提供寧靜嘅花園同綠意盎然嘅庭院，你可以喺入面漫步，感受到植物嘅香氣同微風嘅撫慰。一啲豪華嘅旅館提供私人別墅或者獨立小屋，令你置身於自然之中，同時享受高質素嘅服務同便利設施。
+好多烏布旅館提供寧靜嘅花園同綠意盎然嘅庭院，你可以喺度漫步，感受到植物嘅香氣同微風嘅撫慰。一啲豪華嘅旅館提供私人別墅或者獨立小屋，令你置身於自然之中，同時享受高質素嘅服務同便利設施。
 
 無論係聽蟲鳴鳥叫嘅自然交響曲定係被綠色植物包圍嘅寧靜氛圍，烏布旅館提供咗一個舒適、同大自然親密接觸嘅環境，令你感受到大自然嘅美好同寧靜。
 
@@ -1078,7 +1077,7 @@ https://youtu.be/zePMt3KSwTo
 
 > [叢林無邊際泳池 Padma Resort Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F80742-padma-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2a55ebc979)
 
-> [喺旅館裏面划船 Kamandalu Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F1737-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6b0f622efb)
+> [喺旅館內划船 Kamandalu Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F1737-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6b0f622efb)
 
 > [稻田風光 Kaamala Resort Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F92754-kaamala-resort-ubud-by-ini-vie-hospitality%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85030c659)
 
@@ -1102,7 +1101,7 @@ https://youtu.be/zePMt3KSwTo
 
 [Aksari Resort Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F442672-aksari-resort-ubud-by-ini-vie-hospitality%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbbd4166cbf)
 
-另外我哋仲有五個烏布嘅主題住宿可以參考，幫你慳返唔少精力，搵到唔會中伏嘅優質住宿：
+另外我哋仲有五個烏布嘅主題住宿俾你參考，可以幫你用最少精力搵到唔會中伏嘅優質住宿：
 
 ### 烏布特色酒店/度假村
 
@@ -1110,7 +1109,7 @@ https://youtu.be/zePMt3KSwTo
 
 [烏布最特色嘅28間住宿推薦](/zh-hk/blog/ubud-resorts-guide/)
 
-[【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景嘅奇幻之旅！](/zh-hk/blog/ubud-resorts-guide/)
+> [【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景嘅奇幻之旅！](/zh-hk/blog/ubud-resorts-guide/)
 
 ### Bamboo Villa
 
@@ -1140,13 +1139,13 @@ https://youtu.be/zePMt3KSwTo
 
 ![露營營地](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
 
-2025新開幕豪華露營營地 Toya Ubud，每晚USD$19起。請睇[詳細介紹](/zh-hk/blog/toya-ubud-new-attraction/)
+2025年新開幕嘅豪華露營營地 Toya Ubud，每晚USD$19起。請睇[詳細介紹](/zh-hk/blog/toya-ubud-new-attraction/)
 
 {{block:klook}}
 
 ## 全部100+景點/活動嘅「烏布攻略地圖」 （[撳我放大/收藏](/map/ubud/)）
 
-呢篇講到嘅所有地點地理位置圖，方便你根據自己嘅旅行需要同路線，計劃好你精彩嘅烏布之旅！
+呢篇講嘅所有地點地理位置圖，方便你根據自己嘅旅行需求同路線，規劃精彩嘅烏布之旅！
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&ehbc=2E312F" width="640" height="480"></iframe>
 

@@ -30,10 +30,10 @@ sourceUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-contentUpdatedAt: '2026-10-03T16:19:32+08:00'
-updatedDate: 2026-10-03T00:00:00.000Z
+contentUpdatedAt: '2026-10-14T11:35:28+08:00'
+updatedDate: 2026-10-14T00:00:00.000Z
 lang: zh-cn
-_srcHash: 28ecf43da1323094025c4f01e90daeaa
+_srcHash: 0d1c305671cba864d4c5b0ff63dce6aa
 ---
 
 来巴厘岛想泡泳池、晒太阳、躺在 Daybed 上拍照，但又不想花大钱买 Day Pass？
@@ -88,13 +88,13 @@ Cocoon Seminyak就在水明漾 Double Six Beach，结合泳池、酒吧、餐饮
 - **泳池免费使用**
 - **没有最低消费**的座位／Day Bed 选项
 - Poolside 的 Single Day Bed、Double Day Bed 都有标示 **No minimum spend**
-- 也有餐厅、Garden、Sports Bar 等一般座位
+- 也有餐厅、花园、Sports Bar 等一般座位
 - 目前营业时间约 **11:00–23:00**
 - 2026 年 9 月的近期信息也仍标注 **FREE POOL ACCESS / NO MINIMUM SPEND**。
 
-**适合：**适合想在水明漾轻松泡半天泳池、吃饭喝饮料，又不想被高额 Day Pass 或低消绑定的情侣、朋友和一般旅客。
+**适合：**适合想在水明漾轻松泡半天泳池、吃饭喝饮料，又不想被高额 Day Pass 或低消绑住的情侣、朋友和一般旅客。
 
-## Azul Beach Club｜Legian
+## Azul Beach Club｜雷吉安
 
 https://www.instagram.com/reel/DbCcfOapli6/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
 
@@ -106,11 +106,11 @@ Azul **免费入场**，一般餐饮座位也没有最低消费；如果想直�
 
 {{block:smk}}
 
-## Alternative Beach｜Canggu
+## Alternative Beach｜坎古
 
 https://www.instagram.com/reel/DQ-xS41k_ZZ/?utm_source=ig_web_copy_link&stkn=NTc4MTIwNjQ2YQ==
 
-如果你想在坎古找一个**不用花大钱就能泡泳池**的地方，Alternative Beach 很值得加入。这里不是传统的海滩俱乐部，而是以大型泳池、Pool Bar、Day Bed 和 Bean Bag 为主，**每人最低消费 IDR 100,000**，可以用于餐饮、Day Bed 或泳池毛巾，等于把基本消费拿来换一个下午的泳池时间。
+如果你想在坎古找一个**不用花大钱就能泡泳池**的地方，Alternative Beach 很值得加入。这里不是传统的海滩俱乐部，而是以大型泳池、Pool Bar、Day Bed 和 Bean Bag 为主，**每人最低消费 IDR 100,000**，可用于餐饮、Day Bed 或泳池毛巾，等于把基本消费拿来换一个下午的泳池时间。
 
 它比较适合**情侣、朋友和年轻旅客**，尤其是想游泳、喝饮料、晒太阳，又不想支付动辄数十万甚至上百万卢比 Day Pass 的人。不过要注意，Alternative Beach **不是海景 Beach Club**，而且限制 **17 岁以上**，带小孩的家庭就不适合。
 
@@ -212,7 +212,7 @@ https://www.instagram.com/reel/DUMqFywigbq/?utm_source=ig_web_copy_link&stkn=NTc
 
 最大的特色就是从泳池望出去，可以看到大片绿色山谷。
 
-目前官方信息显示，**非住客可以免费入场**，但不同座位有不同的餐饮最低消费。
+目前官方信息显示，**非住宿客人可以免费入场**，但不同座位有不同的餐饮最低消费。
 
 Dining Table、Sofa 和 Sun Lounger 约为 **IDR 350,000／人**，Daybed 则是另外的座位方案。
 
@@ -252,9 +252,20 @@ https://www.instagram.com/reel/Db2KsfaJK0K/?utm_source=ig_web_copy_link&stkn=MzR
 
 乌布最近又多了一个值得关注的新选择——**LUME Café & Pool Bar**。如果你已经逛完乌布市区，想找一个可以吃饭、喝饮料又能泡泳池的地方，LUME 可以列入清单。
 
-目前 LUME 开业时间不长，网上的公开信息还不多，因此**入场方式、最低消费、Day Bed 与毛巾是否包含等细节，建议前往前先确认最新规定**。相比大型 Beach Club，这类 Café & Pool Bar 通常更适合把它当成「吃饭＋游泳＋放空」的半日行程，而不是专程花大钱购买 Day Pass。
+目前 LUME 开业时间不长，网上的公开信息还不算多，因此**入场方式、最低消费、Day Bed 与毛巾是否包含等细节，建议前往前先确认最新规定**。相较于大型 Beach Club，这类 Café & Pool Bar 通常更适合把它当成「吃饭＋游泳＋放空」的半日行程，而不是专程花大钱购买 Day Pass。
 
 **适合：** 想探索乌布新店、喜欢泳池＋餐饮、又不想特别安排高消费 Beach Club 的旅客
+
+## Habitat Bistro Restaurant Ubud｜乌布
+
+https://www.instagram.com/reel/DeY6TjRTlrn/?utm_source=ig_web_button_share_sheet
+
+如果想在乌布寻找可以「无负担泡泳池」的地方，位于 Kaamala Resort 内的**Habitat Bistro Restaurant Ubud by Wonderspace **非常值得收进清单。这里推出了「Splash & Unwind」活动，最大的亮点就是**免费开放无边泳池使用，且完全没有设定最低消费金额（No Minimum Spend）**。
+
+这意味着你不需要购买昂贵的 Day Pass，只要造访餐厅点杯饮料或吃顿饭，就能顺便下水畅游、欣赏眼前整片翠绿的丛林景观。非常适合不想被高额低消绑住，又想安排半天「吃饭＋泡泳池＋享受放空」的旅人。不过需要提醒的是，免费入池不代表保证特定躺椅的使用权，若遇热门时段或想确认毛巾与更衣室规范，建议抵达前先向店家了解细节。
+
+- **适合：** 小资自由行、情侣、想在乌布享受无边景观与平价放空体验的旅人。
+- **亮点：** 免费入场＋免费使用泳池＋零低消门槛（No Minimum Spend）＋丛林山景无边泳池。
 
 {{block:ubud}}
 
@@ -262,9 +273,9 @@ https://www.instagram.com/reel/Db2KsfaJK0K/?utm_source=ig_web_copy_link&stkn=MzR
 
 https://www.instagram.com/reel/Dd0tPdgThfM/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
 
-如果你想找的是「**不用低消，也能泡泳池**」，Banana Lounge 是非常符合这个条件的一家。
+如果你想找的是「**不用低消，也能泡泳池**」，Banana Lounge 非常符合这个条件。
 
-这里位于 Bingin，并不是那种大型豪华 Beach Club，而是比较轻松的 Lounge＋餐厅＋泳池。
+这里位于Bingin，并不是那种大型豪华Beach Club，而是比较轻松的Lounge＋餐厅＋泳池。
 
 目前官方信息显示，**免费入场、没有最低消费**，泳池也开放给客人使用，并提供免费毛巾、淋浴及更衣室。
 
@@ -276,21 +287,21 @@ https://www.instagram.com/reel/Dd0tPdgThfM/?utm_source=ig_web_copy_link&stkn=MzR
 
 ***
 
-## Delpi Cafe｜Uluwatu
+## Delpi Cafe｜乌鲁瓦图
 
 https://www.tiktok.com/@eats.travels/video/7609446333358902550?is_from_webapp=1&sender_device=pc
 
-Delpi Cafe位于Uluwatu Suluban一带，特色是可以一边看海、一边使用泳池。
+Delpi Cafe 位于乌鲁瓦图 Suluban 一带，特色是可以一边看海、一边使用泳池。
 
-它比较像是一间海景Café，而不是大型Beach Club，所以整体消费也相对轻松。
+它更像是一间海景咖啡馆，而不是大型海滩俱乐部，所以整体消费也相对轻松。
 
-目前查到的资料显示，**泳池使用门槛约IDR 100,000**。
+目前查到的资料显示，**泳池使用门槛约 IDR 100,000**。
 
-如果你刚好安排Uluwatu一日游，上午去海滩或景点，下午找个地方吃东西、泡泡水，Delpi Cafe就是一个可以考虑的选择。
+如果你刚好安排乌鲁瓦图一日游，上午去海滩或景点，下午找个地方吃东西、泡泡水，Delpi Cafe 就是一个可以考虑的选择。
 
 需要注意的是，目前没有足够可靠的最新资料确认毛巾是否包含，因此不建议把「免费毛巾」当成它的卖点。
 
-**适合：** Uluwatu 半日游、想看海＋泡泳池的旅客
+**适合：** 乌鲁瓦图半日游、想看海＋泡泳池的旅客
 
 ***
 
@@ -333,9 +344,9 @@ Timbis Beach Club 虽然名称里有 Beach Club，但消费模式和一些大型
 
 如果不追求最前排的 Sun Lounger，而选择比较基本的区域，花费可以控制在相对合理的范围。
 
-因此如果你安排 Pandawa Beach 一带行程，可以把 Timbis 当成「海景＋泳池」的休闲选择。
+因此如果你安排 Pandawa Beach 一带行程，可以把 Timbis 当成「海景+泳池」的休闲选择。
 
-**适合：** Pandawa、Melasti 一带旅游、想要海景＋泳池的旅客
+**适合：** Pandawa、Melasti 一带旅游、想要海景+泳池的旅客
 
 {{block:uluwatu}}
 
@@ -343,41 +354,41 @@ Timbis Beach Club 虽然名称里有 Beach Club，但消费模式和一些大型
 
 https://www.tiktok.com/@bali_kidz_hire/video/7487388817708682503?is_from_webapp=1&sender_device=pc
 
-如果是带小孩的家庭，我反而很推荐把 **Byrd House Bali** 放进行程。它位于 Sanur 海边，目前公开资料显示**免费入场、没有最低消费**，可以使用泳池、儿童泳池及部分休闲设施，只需要按照实际点餐消费即可。近期资料也再次确认它是巴厘岛少数真正「Free Entry＋No Minimum」的泳池型 Beach Club。
+如果是带小孩的家庭，我反而很推荐把 **Byrd House Bali** 放进行程。它位于 Sanur 海边，目前公开资料显示**免费入场、没有最低消费**，可以使用泳池、儿童泳池及部分休闲设施，只需要按照实际点餐消费即可。近期资料也再次确认它是巴厘岛少数真正「Free Entry+No Minimum」的泳池型 Beach Club。
 
-Byrd House 最大的优势不是夜生活，而是**舒适、轻松、家庭友好**。有儿童泳池、游乐设施和靠近海滩的休闲空间，大人可以吃饭喝咖啡，小朋友则有地方活动；如果不想为了一个泳池 Day Pass 花上一大笔钱，这里的消费方式会轻松很多。
+Byrd House 最大优势不是夜生活，而是**舒服、轻松、家庭友善**。有儿童泳池、游乐设施和靠近海滩的休闲空间，大人可以吃饭喝咖啡，小朋友则有地方活动；如果不想为了一个泳池 Day Pass 花上一大笔钱，这里的消费方式会轻松很多。
 
 **适合：** 亲子家庭、夫妻、想悠闲待半天的旅客。
 
 {{block:sanur}}
 
-## Reef Beach Club｜努沙杜瓦
+## Reef Beach Club｜Nusa Dua
 
 https://www.tiktok.com/@hi_ian.id/video/7519809643779034424?is_from_webapp=1&sender_device=pc
 
-如果你住在努沙杜瓦，想体验五星级度假村的泳池与海滩环境，却不想支付一般 Resort Day Pass，**Reef Beach Club** 是一个很特别的选择。它位于 The Apurva Kempinski Bali 内，目前资料显示 **免费入场，泳池与一般躺椅也可免费使用，没有最低消费**；不过目前需要**提前预约**，部分高级 Cabana 可能另有最低消费或押金。
+如果你住在努沙杜瓦，想体验五星级度假村的泳池与海滩环境，却不想支付一般度假村日票，**Reef Beach Club** 是一个很特别的选择。它位于 The Apurva Kempinski Bali 内，目前资料显示 **免费入场，泳池与一般躺椅也可免费使用，没有最低消费**；不过目前需要**提前预约**，部分高级 Cabana 可能另有最低消费或押金。
 
-这里最大的优势就是环境：42 米长的 Infinity Pool 面向印度洋，整体度假村气氛明显比一般平价 Pool Bar 更高级。对住在努沙杜瓦、想安排一个悠闲下午的情侣或旅客来说，可以把它当成「**不用付 Day Pass 的五星级泳池体验**」。不过由于必须提前预约，不能把它理解成随时走进去就一定能使用泳池。[[订位链接](https://www.kempinski.com/en/the-apurva-kempinski-bali/restaurants-bars/reef-beach-club)]
+这里最大的优势就是环境：42 米长的无边泳池面向印度洋，整体度假村气氛明显比一般平价泳池酒吧更高档。对住在努沙杜瓦、想安排一个悠闲下午的情侣或旅客来说，可以把它当成「**不用付日票的五星级泳池体验**」。不过由于必须提前预约，不能把它理解成随时走进去就一定能使用泳池。[[订位链接](https://www.kempinski.com/en/the-apurva-kempinski-bali/restaurants-bars/reef-beach-club)]
 
 ## Manarai Beach House｜努沙杜瓦
 
 https://youtu.be/BUl5vPzVHGw
 
-努沙杜瓦还有一个很适合安排半日放松的选择——**Manarai Beach House**。它位于 Sofitel Bali Nusa Dua Beach Resort 海滩旁，拥有两座泳池、沙滩 Day Bed、餐厅和酒吧，而且目前采 **免费入场**模式，不需要购买传统 Day Pass。近期资料也显示，一般情况下没有强制最低消费。
+努沙杜瓦还有一个很适合安排半日放松的选择——**Manarai Beach House**。它位于 Sofitel Bali Nusa Dua Beach Resort 海滩旁，拥有两座泳池、沙滩躺椅、餐厅和酒吧，而且目前采用 **免费入场**模式，不需要购买传统日票。近期资料也显示，一般情况下没有强制最低消费。
 
-如果想使用比较好的海边 Day Bed 或 Sofa，则可能会有最低消费方案；近期资料约从 **IDR 250,000／两人**起，并可折抵餐饮，因此比较适合情侣或朋友两人一起使用。
+如果想使用比较好的海边躺椅或沙发，则可能会有最低消费方案；近期资料约从 **IDR 250,000／两人**起，并可折抵餐饮，因此比较适合情侣或朋友两人一起使用。
 
-Manarai 的特色是**泳池+白沙滩+餐饮一站式搞定**，比单纯的泳池餐厅更有度假感。适合住在努沙杜瓦、想找个舒服的地方待上半天，又不想先花一大笔 Day Pass 费用的旅客。
+Manarai 的特色是**泳池＋白沙滩＋餐饮一次完成**，比单纯的泳池餐厅更有度假感。适合住在努沙杜瓦、想找一个舒服待上半天，又不想先花一大笔日票费用的旅客。
 
 **适合：** 情侣、朋友、小团体，以及想享受努沙杜瓦度假氛围的旅客。
 
-**消费概念：** 免费入场；一般座位无强制最低消费，部分 Day Bed/高级座位则有最低消费方案。
+**消费概念：** 免费入场；一般座位无强制最低消费，部分躺椅／高级座位则有最低消费方案。
 
 {{block:dua}}
 
-# 选择 Day Club 时，**不要只看「Free Entry」**
+# 选择日间俱乐部时，**不要只看「免费入场」**
 
-「免费入场」不代表躺椅免费；「最低消费」也不一定等于额外收费，有些地方的最低消费其实可以全部用来吃饭、喝饮料。
+「免费入场」不代表躺椅免费；「最低消费」也不一定等于额外收费，有些地方的最低消费其实可以全部拿来吃饭、喝饮料。
 
 真正需要比较的是：
 

@@ -1,7 +1,7 @@
 ---
-title: 巴厘岛包车司机推荐名单（第二页）｜社群真实分享
+title: 巴厘岛包车司机推荐名单（第二页）｜社团真实分享
 slug: bali-drivers-recommendations-2
-description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社群贴文。附 2026 包车行情与联系时该提供的资讯。
+description: 巴厘岛包车司机推荐名单第二页，每位司机底下的分享链接都能点开查证原始社团贴文。附 2026 包车行情与联系时该提供的信息。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,13 +17,13 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-10-13T15:24:55+08:00'
-updatedDate: 2026-10-13T00:00:00.000Z
+contentUpdatedAt: '2026-10-16T22:04:00+08:00'
+updatedDate: 2026-10-16T00:00:00.000Z
 lang: zh-cn
-_srcHash: 1273cacac24e41c1822c199ba0cc1c94
+_srcHash: 8a8ef8a9bfb03c47118627bacb34d08b
 ---
 
-**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社群自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
+**本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20**位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
 
 包车行情约 **Rp 600,000–800,000／10 小时／五人座**（算车不算人头，乌布以南），2026 年 7 月 1 日起另加油费补贴（半天 Rp 50,000、整天 Rp 100,000）。跨区加价、超时费算法与预约流程，都整理在[第一页](/zh-cn/blog/bali-private-car-drivers-guide/)。
 
@@ -89,7 +89,7 @@ _srcHash: 1273cacac24e41c1822c199ba0cc1c94
 
 ![Ok Bali](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/15mCz3P1kY/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1SRP58oXXu/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1BFVR9i9Uq/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/12DosfnXN2x/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/12FmFcPRLSk/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/19KS4osEn7/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/17VpLVZLeg/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1AqLpg8w3P/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1AUBSD62BY/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/16oadyoLab/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/17LGecvBqa/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/16Xti3BogQ/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1FvfUX1Uaf/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/17sY8L42wu/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1FhxnKv2zq/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1P1HdctcH5/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1MkMRMSnyn/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/14ceo2DYRKU/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/14dHRKTTwCJ/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/1b4HP8SvMa/) 👍🏼[网友推荐21](https://www.facebook.com/share/v/18nfjeP9AX/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/191ENxgyVP/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/15mCz3P1kY/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1SRP58oXXu/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1BFVR9i9Uq/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/12DosfnXN2x/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/12FmFcPRLSk/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/19KS4osEn7/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/17VpLVZLeg/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1AqLpg8w3P/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1AUBSD62BY/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/16oadyoLab/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/17LGecvBqa/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/16Xti3BogQ/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1FvfUX1Uaf/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/17sY8L42wu/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1FhxnKv2zq/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/1P1HdctcH5/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1MkMRMSnyn/) 👍🏼[网友推荐18](https://www.facebook.com/share/p/14ceo2DYRKU/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/14dHRKTTwCJ/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/1b4HP8SvMa/) 👍🏼[网友推荐21](https://www.facebook.com/share/v/18nfjeP9AX/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/191ENxgyVP/) 👍🏼[网友推荐23](https://www.facebook.com/share/p/1EYiM3an9m/)
 
 ## Maday
 
@@ -167,7 +167,7 @@ _srcHash: 1273cacac24e41c1822c199ba0cc1c94
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[网友推荐 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[网友推荐9](https://www.facebook.com/share/p/19Hj8nNgVo/)
+👍🏼[网友推荐 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[网友推荐8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[网友推荐9](https://www.facebook.com/share/p/19Hj8nNgVo/) [网友推荐10](https://www.facebook.com/share/p/19D1wqysKm/)
 
 ## （中文司机）Dirga Yusa 长寿
 
