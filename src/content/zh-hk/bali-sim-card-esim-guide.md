@@ -1,10 +1,10 @@
 ---
-title: 峇里島 SIM 卡 / eSIM 完整指南（2026 最新）｜機場買法、品牌比較、訊號實測
+title: 峇里島 SIM 卡 / eSIM 終極懶人包（2026 最新）｜機場點買、品牌比較、訊號實測
 slug: bali-sim-card-esim-guide
 description: >-
-  峇里島網絡點算好？本文比較 Telkomsel、Airalo、Klook eSIM 等主流方案，包括機場購買步驟、詐騙警告、各區訊號實測同 APN
-  設定教學，30 秒搵到最啱你嘅選擇。
-pubDate: 2026-05-20T00:00:00.000Z
+  峇里島上網點搞？呢篇文比較 Telkomsel、Airalo、Klook eSIM 等主流方案，包括機場買法、詐騙警告、各區訊號實測同 APN
+  設定教學，30 秒就搵到最啱你嘅選擇。
+pubDate: 2026-10-21T00:00:00.000Z
 pubHour: 8
 category:
   - 新手指南
@@ -40,61 +40,63 @@ tags:
   - Indosat IM3 峇里島
   - 峇里島自由行網路
 heroImage: 'https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg'
+imageAlt: ''
 originalUrl: ''
-updatedDate: 2026-07-10T00:00:00.000Z
+updatedDate: 2026-10-19T00:00:00.000Z
 lang: zh-hk
-_srcHash: 469862a5871ee67737c83014b1442035
+_srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 ---
-## 30 秒搵到你嘅方案
 
-**先講結論**：5 日以內短期旅遊揀 **eSIM**（Klook 或 Airalo，落地即用唔使換卡）；7-14 日或者需要本地號碼揀機場買 **Telkomsel 實體 SIM**（覆蓋最廣）；長住 30 日以上直接去 **Grapari 門市**辦正式方案最抵。唔講廢話，先睇你係邊種旅客：
+## 30 秒搵到你要嘅方案
 
-| 情境 | 推薦方案 | 理由 |
+**先講結論**：5 日以內短途旅行揀 **eSIM**（Klook 或者 Airalo，落地即用唔使換卡）；7-14 日或者需要本地號碼就喺機場買 **Telkomsel 實體 SIM**（覆蓋最廣）；長住 30 日以上直接去 **Grapari 門市**搞正式方案最抵。唔講廢話，先睇你係邊種旅客：
+
+| 情況 | 推薦方案 | 理由 |
 | --- | --- | --- |
-| **5 日以內、唔想換卡** | eSIM（Klook 或 Airalo） | 台灣喺屋企裝好，落地即用 |
-| **7–14 日、需要本地號碼** | 機場買 Telkomsel 實體 SIM | 覆蓋最廣、偏遠都用到 |
-| **3 人以上同行、一台分享** | 一張 Telkomsel SIM 開熱點 | 費用除返人頭最抵 |
-| **長住 30 日以上** | Grapari 門市辦正式 SIM | 月費方案更抵 |
+| **5 日以內、唔想換卡** | eSIM（Klook 或者 Airalo） | 喺香港裝好，落地即用 |
+| **7–14 日、需要本地號碼** | 機場買 Telkomsel 實體 SIM | 覆蓋最廣、偏遠地方都用得 |
+| **3 人以上一齊、一部機分享** | 一張 Telkomsel SIM 開熱點 | 除返人頭最抵 |
+| **長住 30 日以上** | Grapari 門市搞正式 SIM | 月費方案更抵 |
 
-**最快嘅行動：** 5 日以內出發，直接撳呢度買 [Klook 峇里島 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)，落地前喺屋企裝好。
+**最快嘅行動：** 5 日內出發，直接撳呢度買 [Klook 峇里島 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)，出發前喺屋企裝好。
 
-以下係俾想深入了解嘅人嘅完整指南。
+以下係俾想深入了解嘅人睇嘅完整指南。
 
 ***
 
-## 印尼三大電信比較——旅客視角
+## 印尼三大電信比較——旅客角度
 
 ### Telkomsel（覆蓋最廣，旅客首選）
 
 ![Telkomsel（覆蓋最廣，旅客首選）](https://images.gobaligo.id/images/2026-05/1779239732579-af57c619fd217399aaa52c62626b953e.jpg)
 
-印尼最大電信商，市佔率約 55%。喺峇里島各區，包括 Amed、Munduk、Sidemen 呢類山區村落，Telkomsel 嘅 4G 訊號都係三間之中最穩定嘅。
+印尼最大電訊商，市佔率大約55%。喺峇里島各區，包括Amed、Munduk、Sidemen呢類山區村落，Telkomsel嘅4G訊號都係三間之中最穩定嘅。
 
-- **4G/5G 情況：** 庫塔去到努沙杜瓦主要旅遊區全線 4G，烏布市中心有 5G 覆蓋點
-- **旅客最常買嘅方案：** Perdana Tourist SIM（儲值SIM卡）就係 **Telkomsel Tourist SIMPATI**（機場賣大約 IDR 250,000–3500,000，包 15G\~35G流量）。市區手機鋪通常可以用1/2或1/3嘅價錢買到。
-- **Nusa Penida 訊號：** 三間之中最強，碼頭到主要景點都有穩定 4G
-- **Gili 群島訊號：** Gili Trawangan 有訊號，Gili Air 比較弱，Gili Meno 間中斷線
-- **缺點：** 比 Indosat 貴大約 30–40%，機場攤位成日有抬價加價問題
+- **4G/5G情況：** 庫塔去到努沙杜瓦主要旅遊區全線4G，烏布市中心有5G覆蓋點
+- **旅客最常買嘅方案：** Perdana Tourist SIM（儲值型SIM卡）就係 **Telkomsel Tourist SIMPATI**（機場售價大約IDR 250,000–3500,000，包15G~35G流量）。市區手機鋪通常可以用一半或三分一嘅價錢買到。
+- **Nusa Penida訊號：** 三間之中最強，碼頭到主要景點都有穩定4G
+- **Gili群島訊號：** Gili Trawangan有訊號，Gili Air比較弱，Gili Meno間中斷線
+- **缺點：** 比Indosat貴大約30–40%，機場攤位經常有抬價問題
 
-**simPATI 係 Telkomsel 旗下嘅品牌名，買嘅係同一個網絡，唔使特別分開。**
+**simPATI係Telkomsel旗下嘅品牌名，買嘅係同一個網絡，唔使特別分開。**
 
 ### Indosat Ooredoo / IM3（性價比首選）
 
-價錢比 Telkomsel 平超過 30%，喺庫塔、水明漾、沙努等都市旅遊區訊號完全夠用。
+價錢比Telkomsel平超過30%，喺庫塔、水明漾、沙努等都市旅遊區訊號完全夠用。
 
-- **4G 情況：** 主要旅遊區正常，但 Amed、Munduk 等偏遠地區會跌到 3G 或者冇訊號
+- **4G情況：** 主要旅遊區正常，但Amed、Munduk等偏遠地區會跌到3G或者冇訊號
 - **旅客成日買嘅方案：** Freedom Internet 方案，IDR 50,000–80,000 包 10–20GB
-- **適合邊類人：** 行程以庫塔、烏布市中心為主，唔去太偏遠嘅地方
+- **適合邊啲人：** 行程主要喺庫塔、烏布市中心，唔會去太偏僻嘅地方
 
-### XL Axiata（都市快，偏遠弱）
+### XL Axiata（市區快，偏遠弱）
 
-喺水明漾、庫塔嘅 4G 速度有時快過 Telkomsel，但覆蓋邊界非常明顯。
+喺水明漾、庫塔嘅 4G 速度有時快過 Telkomsel，但覆蓋範圍好明顯有限。
 
-- **最大問題：** Nusa Penida 訊號極差，部分景點完全冇訊號
-- **唔推薦旅客用嘅原因：** 訊號地圖優化集中喺城市，稍微離開旅遊核心區就唔穩定
+- **最大問題：** Nusa Penida 訊號好差，部分景點完全收唔到
+- **唔建議旅客用嘅原因：** 訊號地圖優化集中喺市區，離開旅遊核心區少少就唔穩定
 - **唯一適合嘅情況：** 只係留喺庫塔、水明漾一帶，對訊號要求高而且唔去離島
 
-**三大電信快速結論：只要行程唔係限定喺市中心，揀 Telkomsel 就冇錯。**
+**三大電信快速總結：只要行程唔係限定喺市中心，揀 Telkomsel 就冇錯。**
 
 ***
 
@@ -110,17 +112,17 @@ _srcHash: 469862a5871ee67737c83014b1442035
 | [**Saily**](https://saily.tpm.li/6TIuULiA) | 7日 3GB～ | ✅ | ❌ | ✅ | ❌ 英文 |
 | **Nomad** | 30日 10GB～ | ✅ | ❌ | ✅ | ❌ 英文 |
 
-### 各品牌適合情境
+### 各品牌適合嘅情況
 
 ![各品牌適合情境](https://images.gobaligo.id/images/2026-05/1779239791356-1301665_720.jpg)
 
-**Klook eSIM** — 最推薦第一次買 eSIM 嘅旅客。台灣官網買、繁體中文介面、客服講中文，有問題可以直接溝通。流量方案好彈性，5 日 3GB 大約 USD$8–11 左右，CP 值唔輸畀 Airalo。📎 [Klook 峇里島 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)
+**Klook eSIM** — 最推薦第一次買 eSIM 嘅旅客。台灣官網買、繁體中文介面、客服講中文，有問題可以直接溝通。流量方案好彈性，5日 3GB 大約 USD$8–11 左右，CP 值唔輸畀 Airalo。📎 [Klook 峇里島 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)
 
-[**Airalo**](https://airalo.tpm.li/Cad9REL1) — 價格最透明、方案最多，但客服全英文。適合有 eSIM 使用經驗、習慣英文介面嘅旅客。印尼卡行 Telkomsel 網絡，品質有保證。
+[**Airalo**](https://airalo.tpm.li/Cad9REL1) — 價格最透明、方案最多，但客服全部係英文。適合有 eSIM 使用經驗、慣咗英文介面嘅旅客。印尼卡行 Telkomsel 網絡，品質有保證。
 
-**Holafly** — 吃到飽方案，適合串流影片需求高嘅人。**但係唔可以分享熱點**，如果有同行朋友需要共用，呢個品牌就唔使諗。
+**Holafly** — 吃到飽方案，適合好需要串流影片嘅人。**但係唔可以分享熱點**，如果有同行朋友要共用，呢個品牌就唔啱用。
 
-[**Saily**](https://saily.tpm.li/6TIuULiA)** / Nomad** — 長天數旅行（14–30 日）或者多國行程，呢兩間嘅長期方案相對抵玩。
+[**Saily**](https://saily.tpm.li/6TIuULiA)** / Nomad** — 長日數旅行（14–30 日）或者多國行程，呢兩間嘅長期方案相對抵玩。
 
 ### 結論推薦
 
@@ -140,7 +142,7 @@ _srcHash: 469862a5871ee67737c83014b1442035
 
 **最方便，但陷阱最多。**
 
-**位置：** 入境大堂出關之後，行李轉盤旁邊就有 Telkomsel、Indosat 官方攤位，同埋大量非官方小販。
+**位置：** 入境大堂出關之後，行李輸送帶旁邊就有 Telkomsel、Indosat 官方攤位，同埋大量非官方小販。
 
 ***
 
@@ -148,8 +150,8 @@ _srcHash: 469862a5871ee67737c83014b1442035
 
 呢啲係 Klook 部落格、eSIM 品牌文章唔會話你知嘅事：
 
-1. **假「安裝費」（installasi fee）**：小販話要收 IDR 200,000–800,000 嘅設定費，呢個係詐騙。官方 SIM 卡插卡自動設定，唔需要人工安裝費。
-2. **用 "best package for tourist" 話術推銷高價方案**：一律拒絕，叫佢直接畀你 Kartu Perdana（儲值卡）標準方案。
+1. **假嘅「安裝費」（installasi fee）**：小販話要收 IDR 200,000–800,000 嘅設定費，呢個係呃人㗎。官方 SIM 卡插卡就會自動設定，唔需要人工安裝費。
+2. **用 "best package for tourist" 呢啲說話推銷貴價方案**：一律拒絕，叫佢直接俾你 Kartu Perdana（儲值卡）標準方案。
 
 **安全做法：**
 
@@ -160,44 +162,44 @@ _srcHash: 469862a5871ee67737c83014b1442035
 
 **安裝步驟（自己搞）：**
 
-1. 確認手機已經解鎖（鎖咗 SIM 嘅手機係換唔到卡㗎）
-2. 搵到 SIM 卡插槽位置，用取卡針攞返原卡出嚟
+1. 確認手機已經解鎖（鎖咗 SIM 嘅手機換唔到卡）
+2. 搵到 SIM 卡插槽位置，用取卡針拎返原卡出嚟
 3. 放入新 SIM 卡，重新開機
-4. 如果冇自動設定網絡，入 APN 設定手動填返（睇下面教學）
+4. 如果冇自動設定網絡，入 APN 設定手動填（睇下面教學）
 
-**順便講講：** 由機場去住宿嘅交通安排，詳情可以睇 [抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](/zh-hk/blog/bali-airport-transfer-guide/)，入面有包車、的士、網約車嘅比較。
+**順便講講：** 由機場去住宿嘅交通安排，詳情睇 [抵達峇里島：接機嘅交通選擇同第一日嘅實用建議](/zh-hk/blog/bali-airport-transfer-guide/)，有包車、的士、網約車嘅比較。
 
 ### 2. 市區便利店買
 
-**Indomaret 同 Alfamart** 幾乎條條街都有，大部分舖頭有賣預付 SIM 卡。
+**Indomaret 同 Alfamart** 幾乎條條街都有，多數分店有賣預付 SIM 卡。
 
-- **購買流程：** 同店員講 "mau beli kartu perdana Telkomsel"，出示護照，店員會幫你登記
-- **價錢：** 通常比機場平 20–30%，但係流量方案選擇就少啲
-- **注意事項：** 需要護照正本（影印本有時都得），未成年唔買得
-- **推薦情況：** 唔趕時間、想格價或者機場攤位排隊太耐
+- **購買流程：** 同店員講「mau beli kartu perdana Telkomsel」，出示護照，店員會幫你搞掂登錄
+- **價錢：** 通常比機場平 20–30%，但係數據計劃嘅選擇就少啲
+- **注意事項：** 要帶護照正本（影印本有時都得），未夠秤唔買得
+- **推薦情況：** 唔趕時間、想格價或者機場攤位排隊排得太耐
 
-要留意，而家好多觀光區嘅店員，其實已經好習慣幫外國旅客搞 SIM 卡。但實際上有一個「觀光客成日中伏位」：**唔係每一間便利店都可以幫你完成「護照實名登記」**！你買完之後：
+要留意，而家好多觀光區嘅店員，其實已經好習慣幫外國旅客搞 SIM 卡。但實際上有一個「觀光客成日中伏位」：**唔係間間便利店都可以幫你完成「護照實名註冊」**！你買完之後：
 
 - SIM 卡可能用唔到
-- 要自己登記
-- 或者要去官方門市搞
+- 要自己搞註冊
+- 或者要去官方門市處理
 
-尤其係外國護照登記，有啲店員真係唔熟手。
+尤其係外國護照註冊，有啲店員真係唔熟手。
 
-### 3. 官方 Grapari 門市買
+### 3. 官方 Grapari 門市購買
 
 Grapari 係 Telkomsel 嘅直營服務中心，適合長住旅客或者遇到帳號問題需要解決嘅人。
 
-- **位置：** 庫塔、登巴薩、烏布都有門市，Google Maps 搜尋 "Grapari Telkomsel"
-- **需要嘅文件：** 護照正本、個人聯絡資料
-- **優點：** 可以辦月費方案（長住 30 日以上更抵）、客服問題即場解決
-- **缺點：** 要排隊等號碼，可能要等 30–60 分鐘
+- **位置：** 庫塔、登帕薩、烏布各有門市，Google Maps 搜尋 "Grapari Telkomsel"
+- **需要嘅文件：** 護照正本、個人聯絡資訊
+- **優點：** 可以辦月費方案（長住 30 日以上更抵）、客服問題當場解決
+- **缺點：** 要排隊等號，可能等 30–60 分鐘
 
-### 4. 電訊商官方門市地圖
+### 4. 電信商官方門市地圖
 
-Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門市位置**，包地址、營業時間同行路指引，避免俾非官方攤販劏客。
+Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門市位置**，包括地址、營業時間同路線指引，避免俾非官方攤販劏客。
 
-📍 [峇里島電訊商官方門市地圖](/map/sim-card/)
+📍 [峇里島電信商官方門市地圖](/map/sim-card/)
 
 ***
 
@@ -209,37 +211,37 @@ Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門�
 
 **方法一：QR Code 掃描（最常見）**
 
-1. 買咗 eSIM 之後，從 Klook / Airalo App 攞 QR Code 圖片
+1. 買咗 eSIM 之後，喺 Klook / Airalo App 攞 QR Code 圖片
 2. 手機入「設定 → 流動網絡 → 新增 eSIM」
 3. 揀「使用 QR Code」，掃描畫面
 4. 設定「主要 SIM」（台灣號碼）同「流動 SIM」（峇里島 eSIM），按需要分別指派語音 / 數據
 
 **方法二：手動輸入啟用碼**
 
-1. 如果掃唔到，揀「手動輸入詳細資料」
+1. 如果掃唔到，揀「手動輸入詳細資訊」
 2. 輸入 SM-DP+ 地址同啟用碼（購買確認信入面有）
 
 **常見錯誤：**
 
-- _「無法新增行動方案」_：確認手機已解鎖同 iOS 版本係 12.1 或以上
+- _「無法新增流動方案」_：確認手機已經解鎖同 iOS 版本喺 12.1 以上
 - _eSIM 已安裝但冇訊號_：確認啟用碼係咪已經用過（每個 QR Code 淨用得一次）
-- _截圖 QR Code 掃唔到_：用 Klook App 直接顯示，唔好截圖再掃
+- _截圖 QR Code 掃唔到_：用 Klook App 直接顯示，唔好截圖之後再掃
 
 ### Android eSIM 安裝
 
-各品牌路徑有啲唔同，以 Samsung 做例：
+各品牌路徑有少少唔同，以 Samsung 為例：
 
 1. 設定 → 連線 → SIM 卡管理員 → 新增行動方案
 2. 掃描 QR Code 或者手動輸入
 3. 完成之後可以切換主 SIM 同 eSIM 使用
 
-**注意：** 部分 Android 手機（主要係美國電信版）鎖咗 eSIM 功能，買之前先確認清楚。
+**注意：** 部分 Android 手機（主要係美國電信版）鎖咗 eSIM 功能，買之前記得確認。
 
-[睇下你部手機支唔支援 eSIM ](https://saily.com/zh-tw/esim-supported-devices/)
+[睇吓你部手機支唔支援 eSIM ](https://saily.com/zh-tw/esim-supported-devices/)
 
 ### 實體 SIM 卡換裝 + APN 設定
 
-**換裝之後自動設定失敗，手動 APN 設定如下：**
+**換裝後自動設定失敗，手動 APN 設定如下：**
 
 | 電信商 | APN 名稱 | 使用者名稱 | 密碼 |
 | --- | --- | --- | --- |
@@ -247,21 +249,21 @@ Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門�
 | Indosat IM3 | `indosatgprs` | （留空） | （留空） |
 | XL Axiata | `internet` | （留空） | （留空） |
 
-**iOS 設定路徑：** 設定 → 行動服務 → 行動數據網絡 → APN 欄位輸入
-**Android 設定路徑：** 設定 → 連線 → 行動網絡 → 存取點名稱（APN）→ 新增
+**iOS 設定路徑：** 設定 → 行動服務 → 行動數據網路 → APN 欄位輸入
+**Android 設定路徑：** 設定 → 連線 → 行動網路 → 存取點名稱（APN）→ 新增
 
 **常見錯誤：**
 
-- _設定咗之後仲係 E/2G_：重新開機一次，等 2–3 分鐘等網絡重新連線
-- _APN 欄位變咗灰色_：手機可能俾電信商鎖咗，換卡之前要解鎖先
+- _設定後仍然係 E/2G_：重新開機一次，等 2–3 分鐘等網絡重新連線
+- _APN 欄位顯示灰色_：手機可能俾電信商鎖咗，換卡之前要解鎖先得
 
 ### 雙卡共用台灣號碼設定建議
 
 用峇里島 SIM 上網、保留台灣號碼接電話：
 
-1. **台灣 SIM 設定做「語音通話」卡**，關閉台灣卡嘅行動數據（避免漫遊費）
+1. **台灣 SIM 設定做「語音通話」卡**，熄咗台灣卡嘅行動數據（避免漫遊費）
 2. **峇里島 SIM 設定做「行動數據」卡**
-3. 如果台灣卡有 Wi-Fi 通話功能，可以開咗佢，等人打台灣號碼嗰陣可以經 Wi-Fi 接聽（完全免費）
+3. 如果台灣卡有 Wi-Fi 通話功能，可以開咗佢，等人打台灣號碼嗰陣經 Wi-Fi 接聽（完全免費）
 
 ***
 
@@ -273,11 +275,11 @@ Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門�
 
 | 方案 | 內容 | 日數 | 流量 | 價格（IDR） | 備註 |
 | --- | --- | --- | --- | --- | --- |
-| Klook Telkomsel eSIM | 印尼 eSIM | 7–30日 | 多為不限流量/高速後降速 | 120,000–280,000 | 方便、可以預先安裝 |
+| Klook Telkomsel eSIM | 印尼 eSIM | 7–30日 | 多數係無限流量/高速後降速 | 120,000–280,000 | 方便、可以預先安裝 |
 | [Airalo Indonesia eSIM](https://airalo.tpm.li/Cad9REL1) | eSIM | 7日 | 3GB | 約145,000 | 用印尼合作網絡 |
 | [Airalo Indonesia eSIM](https://airalo.tpm.li/Cad9REL1) | eSIM | 30日 | 10GB | 約355,000 | 穩定但唔算平 |
-| Holafly Indonesia eSIM | eSIM | 5日 | 不限流量 | 約320,000 | 熱點分享有限制 |
-| Holafly Indonesia eSIM | eSIM | 10日 | 不限流量 | 約520,000 | 適合重度用家 |
+| Holafly Indonesia eSIM | eSIM | 5日 | 無限流量 | 約320,000 | 熱點分享有限制 |
+| Holafly Indonesia eSIM | eSIM | 10日 | 無限流量 | 約520,000 | 適合重度用家 |
 | 機場 Telkomsel Tourist SIM | 實體SIM | 30日 | 15–30GB | 120,000–220,000 | 訊號最好 |
 | 機場 Indosat (IM3) SIM | 實體SIM | 30日 | 16–30GB | 100,000–299,000 | 市區性價比高 |
 | 市區 Telkomsel 官方店 | 實體SIM/eSIM | 30日 | 18GB 左右 | 約75,000–120,000 | 比機場平好多 |
@@ -316,21 +318,21 @@ Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門�
 | 區域 | Telkomsel | 備註 |
 | --- | --- | --- |
 | Kintamani 火山口 | ⭐⭐⭐ | 觀景台有訊號 |
-| Batur 火山步道 | ⭐⭐ | 山頂訊號斷斷續續 |
+| Batur 火山步道 | ⭐⭐ | 山頂訊號斷續 |
 | Lempuyang 天堂門 | ⭐⭐⭐ | 主廟區 OK |
 | Gili Trawangan | ⭐⭐⭐ | 碼頭強，內陸弱 |
-| Gili Air | ⭐⭐ | 斷斷續續，要準備 Wi-Fi |
-| Gili Meno | ⭐ | 幾乎冇數據 |
+| Gili Air | ⭐⭐ | 斷續，備用 Wi-Fi |
+| Gili Meno | ⭐ | 幾乎無數據 |
 
 **關鍵結論：**
 
 | 類型 | 推薦 |
 | --- | --- |
 | 訊號最穩 | Telkomsel |
-| 最平 | Indosat IM3 |
+| 最便宜 | Indosat IM3 |
 | 最方便 | Airalo / Holafly |
 | 性價比最高 | 市區官方店買 Telkomsel |
-| 落地即刻用得 | Klook eSIM |
+| 落地立即能用 | Klook eSIM |
 
 ***
 
@@ -338,31 +340,31 @@ Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門�
 
 **訊號突然消失**
 
-- 先確認 APN 設定有冇被清除（切換飛航模式再熄咗之後，APN 有時會重置）
-- 打 \*888# 確認流量餘額，如果歸零就要增值
+- 先確認 APN 設定有冇被清除（切換飛航模式再關閉後，APN 有時會重置）
+- 打 \*888# 確認流量餘額，若果歸零就要增值
 - Telkomsel 增值可以去 Indomaret 買 voucher，同店員講 "isi ulang Telkomsel XXX ribu"
 
 **eSIM 啟用失敗**
 
 - 確認安裝時嘅網絡環境（需要 Wi-Fi 先可以下載 eSIM profile）
-- 每個 QR Code 只可以安裝一次，如果手機換過，要聯絡 eSIM 品牌客服重新發碼
+- 每個 QR Code 只可以安裝一次，若果手機換過，就要聯絡 eSIM 品牌客服重新發碼
 - Klook eSIM 用戶直接喺 App 內聯絡中文客服，通常 1 個鐘內回覆
 
-**流量用完點增值**
+**流量用完點樣增值**
 
-- 實體 SIM：去 Indomaret / Alfamart 買 voucher，或者用 GoPay / Dana 增值
-- eSIM：返去購買平台再買一張（通常唔支援原 SIM 直接加購，直接買新嘅 eSIM）
+- 實體 SIM：去 Indomaret / Alfamart 買 voucher，或者用 GoPay / Dana 充值
+- eSIM：返去買嘅平台再買一張（通常唔支援原 SIM 直接加購，直接買新嘅 eSIM）
 
 **換手機點算**
 
-- 實體 SIM：直接攞出嚟插入新手機（確認新手機已解鎖）
+- 實體 SIM：直接拎出嚟插入新手機（確認新手機已經解鎖）
 - eSIM：需要喺原手機上操作刪除，再重新掃碼安裝（部分品牌支援，Klook 客服可以幫手）
 
-**返台灣後使唔使關閉**
+**返台灣之後要唔要關閉**
 
-- 實體 SIM：攞出嚟就得，印尼號碼通常 90 日冇用之後會自動失效
+- 實體 SIM：拎出嚟就得，印尼號碼通常 90 日冇用之後會自動失效
 - eSIM：可以喺手機上刪除 eSIM profile，或者保留備用（佔一個 eSIM 槽位）
-- **重要：** 返台灣後確認台灣 SIM 已切換返主要數據來源，避免繼續行峇里島 SIM 嘅漫遊計費
+- **重要：** 返台灣之後確認台灣 SIM 已經切返做主要數據來源，避免繼續行峇里島 SIM 嘅漫遊計費
 
 ***
 
@@ -377,32 +379,32 @@ Gobaligo 整理咗峇里島各區 Telkomsel、Indosat、XL 嘅**官方直營門�
 **唔識英文，喺機場攤位買 SIM 得唔得？**
 機場 Telkomsel 同 Indosat 官方攤位有英文服務，用手機翻譯 App 都可以溝通。只要講低用幾多日同大概用量，攤販都習慣處理旅客。不過交易時要小心，詳情可以睇本文詐騙警告段落。
 
-**用信用卡喺網上買 eSIM 安全嗎？**
+**信用卡喺網上買 eSIM 安唔安全？**
 Klook、Airalo、Holafly 都係全球知名平台，用 HTTPS 加密交易，安全性同一般網購差唔多。建議用有外幣免手續費嘅台幣信用卡（例如 Richart）買。
 
 **Wi-Fi 分享器同 SIM 卡邊個抵啲？**
-行程 5 日以內而且 3 人以上同行，Wi-Fi 機除返人頭可能平啲。但超過 5 日、或者得 1–2 個人，SIM 卡或 eSIM 幾乎一定更抵，而且唔使擔心分享器冇電。[峇里島 Wi-Fi 機同 SIM 卡完整比較](/zh-hk/blog/bali-sim-card-esim-roaming-guide/) 可以參考另一篇文章。
+行程 5 日以內而且 3 個人以上同行，Wi-Fi 機除返人頭可能平啲。但超過 5 日，或者得 1–2 個人，SIM 卡或者 eSIM 幾乎一定更抵，而且唔使擔心分享器冇電。[峇里島 Wi-Fi 機同 SIM 卡完整比較](/zh-hk/blog/bali-sim-card-esim-roaming-guide/) 可以參考另一篇文章。
 
-**多人同行，eSIM 抵定係實體 SIM？**
-2 人以內各自買 eSIM 最方便；3 人以上，一張 Telkomsel 實體 SIM 開熱點係費用最低嘅方案（一張 IDR 120,000 分三人大概 USD$4 左右）。但熱點分享會快啲冇電，要帶定行動電源。
+**多人同行，eSIM 抵定實體 SIM 抵？**
+2 個人以內各自買 eSIM 最方便；3 個人以上，一張 Telkomsel 實體 SIM 開熱點係最平嘅方案（一張 IDR 120,000 分三個人大概 USD$4 左右）。但熱點分享會快啲冇電，所以要帶定行動電源。
 
 **飛 Gili Trawangan 仲有冇訊號？**
-Telkomsel 喺 Gili Trawangan 碼頭附近有 4G 訊號，但島內陸地訊號斷斷續續。Gili Air 同 Gili Meno 嘅訊號好弱，幾乎靠唔住。住宿通常有 Wi-Fi，建議重要通訊改用 Wi-Fi 搞。
+Telkomsel 喺 Gili Trawangan 碼頭附近有 4G 訊號，但島入面陸地訊號斷斷續續。Gili Air 同 Gili Meno 嘅訊號好弱，幾乎靠唔住。住宿通常有 Wi-Fi，建議重要通訊改用 Wi-Fi 搞。
 
 **機場未過海關，可唔可以裝 eSIM？**
-可以。eSIM 安裝需要 Wi-Fi，而機場候機室都有免費 Wi-Fi。建議**喺台灣出發前**就裝好 eSIM profile，只係設定啟用時間等佢去到印尼先啟用。咁樣落地開飛航模式關咗台灣 SIM，eSIM 即刻用得。
+可以。裝 eSIM 需要 Wi-Fi，而機場候機室都有免費 Wi-Fi。建議**喺台灣出發前**就裝好 eSIM profile，只係設定啟用時間等佢去到印尼先啟用。咁樣落地開飛航模式熄咗台灣 SIM，eSIM 即刻用得。
 
 **護照影本可唔可以買實體 SIM 卡？**
-官方規定要護照正本，但部分攤位接受手機顯示嘅護照相。建議隨身帶住護照正本，或者喺手機相簿保存高解像度護照掃描檔以備不時之需。
+官方規定要護照正本，但部分攤位接受手機顯示嘅護照相。建議隨身帶護照正本，或者喺手機相簿保存高解像度嘅護照掃描檔以備不時之需。
 
 **Telkomsel 同 simPATI 係咪同一個嚟㗎？**
-係㗎，simPATI 係 Telkomsel 旗下嘅預付卡品牌，用嘅係完全一樣嘅 Telkomsel 網絡基站，訊號同覆蓋範圍都冇分別。機場賣嘅旅遊 SIM 多數叫 simPATI 或者 Kartu As，唔使特登分得咁清楚。
+係㗎，simPATI 係 Telkomsel 旗下嘅預付卡品牌，用嘅係完全一樣嘅 Telkomsel 網絡基站，訊號同覆蓋範圍冇分別。機場賣嘅旅遊 SIM 多數叫 simPATI 或者 Kartu As，唔使特登分開。
 
 **印尼 SIM 卡返到台灣仲用得唔得？**
-技術上係用得嘅，但係收費會跟印尼電信嘅漫遊計，貴到飛起。返到台灣之後，記得即刻轉返台灣 SIM 卡，或者熄咗印尼 SIM 卡嘅流動數據，費事收到意外帳單。
+技術上係用得嘅，但係收費會跟印尼電信嘅漫遊計，非常之貴。返到台灣之後要即刻轉返台灣 SIM，或者熄咗印尼 SIM 嘅流動數據，避免收到意外帳單。
 
-**數據用晒，仲可唔可以打電話？**
-Telkomsel 同 Indosat 嘅預付 SIM 卡，語音通話同短訊餘額係同數據流量分開計嘅。數據用晒之後，如果你張 SIM 卡仲有語音餘額，仍然可以打語音電話（適用印尼境內本地號碼）。
+**數據用晒，仲打唔打到電話？**
+Telkomsel 同 Indosat 嘅預付 SIM 卡，語音通話同短訊餘額係同數據流量分開計嘅。數據用晒之後，如果你張 SIM 仲有語音餘額，仍然可以打語音電話（適用印尼境內本地號碼）。
 
 ***
 
@@ -410,7 +412,7 @@ Telkomsel 同 Indosat 嘅預付 SIM 卡，語音通話同短訊餘額係同數�
 
 **如果你而家就出發：**
 
-1. **5 日以內或者唔想換卡** → 即刻買 [Klook 峇里島 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)，出發前喺台灣裝好
+1. **5 日以內或者唔想換卡** → 即刻買 [Klook 峇里島 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)，落機前喺台灣裝好
 2. **7 日以上要實體 SIM** → 去機場 Telkomsel 官方攤位，價錢 IDR 80,000–120,000，遇到加價就直接轉第二間
 3. **有其他問題** → 歡迎去 [峇里島 Q&A 問答](/ask/) 提問
 
@@ -418,7 +420,7 @@ Telkomsel 同 Indosat 嘅預付 SIM 卡，語音通話同短訊餘額係同數�
 
 - [峇里島機場交通完整指南](/zh-hk/blog/bali-airport-transfer-guide/)——出關之後點樣去市區
 - [峇里島換錢攻略同推薦換錢所地圖](/zh-hk/blog/bali-currency-exchange-guide/)——唔俾人呃嘅換錢技巧
-- [峇里島包車推薦同費用參考](/zh-hk/blog/bali-private-car-hire-guide/)——烏布、瀑布、日出包車點樣計
+- [峇里島包車推薦同費用參考](/zh-hk/blog/bali-private-car-hire-guide/)——烏布、瀑布、日出包車點計法
 - [峇里島 7 日行程規劃完整攻略](/zh-hk/blog/bali-free-travel-guide/)——由機場到最後一日嘅安排
 
 ***
