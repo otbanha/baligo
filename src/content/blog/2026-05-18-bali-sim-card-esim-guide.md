@@ -40,7 +40,7 @@ tags:
 heroImage: https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg
 imageAlt: ''
 originalUrl: ''
-updatedDate: 2026-07-10
+updatedDate: 2026-10-19
 ---
 
 ## 30 秒找到你的方案
