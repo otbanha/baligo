@@ -21,7 +21,7 @@ tags:
   - 整天下雨
 originalUrl: 'https://vocus.cc/article/67f65841fd897800017d3ea2'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 8d184af68445340dd661852cdfaeb063
 ---

@@ -15,7 +15,7 @@ tags:
   - 峇里島捷運
 originalUrl: 'https://vocus.cc/article/66c0857afd897800014dceb0'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: e0ca6dd09fdbdbe196a4d602942da456
 ---

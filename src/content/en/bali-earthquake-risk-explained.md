@@ -16,7 +16,7 @@ tags:
   - 北藝嚴選
 originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 121555972c12bd3f8a856696cb72f773
 ---

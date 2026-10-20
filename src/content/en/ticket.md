@@ -12,7 +12,7 @@ description: >-
 pubDate: 2026-06-06T00:00:00.000Z
 pubHour: 15
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島機票怎麼買最便宜
   - 2026 峇里島機票促銷

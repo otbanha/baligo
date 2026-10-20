@@ -17,7 +17,7 @@ tags:
   - 投資
 originalUrl: 'https://vocus.cc/article/660cf362fd89780001da676b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: c74d221ae0946b8e5f0075b915a91127
 ---

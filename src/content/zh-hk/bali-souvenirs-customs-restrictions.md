@@ -7,7 +7,7 @@ description: >-
 pubDate: 2025-04-27T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 伴手禮
   - 海關

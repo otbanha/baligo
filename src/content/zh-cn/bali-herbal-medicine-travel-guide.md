@@ -13,7 +13,7 @@ tags:
   - 保健食品
 originalUrl: 'https://vocus.cc/article/66d978c1fd89780001ada4b7'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 簽證通關
 lang: zh-cn
 _srcHash: ae97658d941fa800772ef57f7d4e83ad

@@ -19,7 +19,7 @@ tags:
   - 峇里島節日
 originalUrl: 'https://vocus.cc/article/66b9bb70fd89780001e631c6'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
 lang: id
 _srcHash: 14ae569abbabab84b1d95d0b0c227985

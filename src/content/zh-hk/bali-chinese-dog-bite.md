@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-07-15T00:00:00.000Z
 pubHour: 19
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島 狗咬 中國遊客 狂犬病
   - 峇里島 狂犬病 疫苗 哪裡打

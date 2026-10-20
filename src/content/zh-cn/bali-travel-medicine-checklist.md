@@ -5,7 +5,7 @@ description: 到巴厘岛旅游必备药品有哪些呢？成药在当地买ok�
 pubDate: 2024-03-22T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 購物指南
 tags:
   - 印尼旅遊

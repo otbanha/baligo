@@ -7,7 +7,7 @@ description: "Still reminiscing about the February Lunar New Year break? Don't w
 pubDate: 2026-02-23T00:00:00.000Z
 updatedDate: 2026-08-08T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cb9447e2f26e0a7d8a3078de03ad4620.png'
 originalUrl: 'https://vocus.cc/article/6995d6f6fd89780001575756'

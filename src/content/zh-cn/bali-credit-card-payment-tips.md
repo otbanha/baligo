@@ -13,7 +13,7 @@ tags:
   - 旅遊
 originalUrl: 'https://vocus.cc/article/6602bc60fd89780001f34c70'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 0c4ece6f07f77fc38e5eac5536d5b8c8
 ---

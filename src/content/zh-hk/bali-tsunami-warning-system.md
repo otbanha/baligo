@@ -13,7 +13,7 @@ tags:
   - 防災系統
 originalUrl: 'https://vocus.cc/article/68553ba9fd8978000171c34b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 94c8afe74efafac08018fc9ec6959342
 ---

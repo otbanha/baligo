@@ -19,7 +19,7 @@ tags:
   - 峇里島新聞
 originalUrl: 'https://vocus.cc/article/66fd2bc1fd8978000130e64c'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 ---

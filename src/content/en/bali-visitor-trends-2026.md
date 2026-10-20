@@ -14,7 +14,7 @@ description: >-
 pubDate: 2026-05-06T00:00:00.000Z
 pubHour: 9
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 2026 峇里島觀光統計
   - 峇里島遊客來源國排名

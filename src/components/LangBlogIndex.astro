@@ -62,7 +62,7 @@ const pageTitle = T.pageTitle(year);
 const pageDescription = T.pageDescription(year, countFloor);
 
 // 只有這 9 個分類有靜態 /xx/blog/category/[slug]/ 頁（見 src/pages/{en,id}/blog/category/[cat].astro），
-// 其餘（新聞存檔、旅行技巧、購物指南）沿用 ?cat= 前端篩選，避免連到 404。
+// 其餘（新聞存檔、旅遊專題、購物指南）沿用 ?cat= 前端篩選，避免連到 404。
 const STATIC_CATEGORY_PAGES = new Set([
   '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',
 ]);

@@ -10,7 +10,7 @@ description: >-
   the most popular travel destinations.
 pubDate: 2025-02-20T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50ddca2afe49b84aaa75c5d8afd50ff9.jpg'
 originalUrl: 'https://vocus.cc/article/67b69720fd89780001c24fd5'

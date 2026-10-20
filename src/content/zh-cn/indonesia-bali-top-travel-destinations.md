@@ -15,7 +15,7 @@ tags:
   - CEOWORLD排名
 originalUrl: 'https://vocus.cc/article/67eb3c73fd89780001d0ee02'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: e9d5968af80df246c1e9fa700ee55021
 ---

@@ -15,7 +15,7 @@ tags:
   - amigoolux
 originalUrl: 'https://vocus.cc/article/66c32079fd8978000136ed64'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 7d01956b971c83110a578e8f127cd7a8
 ---

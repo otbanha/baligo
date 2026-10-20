@@ -13,7 +13,7 @@ updatedDate: 2026-10-01T00:00:00.000Z
 contentUpdatedAt: '2026-10-01T19:01:56+08:00'
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 購物指南
 tags:
   - 峇里島紀念品

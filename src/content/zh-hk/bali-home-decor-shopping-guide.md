@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-04-13T00:00:00.000Z
 pubHour: 13
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島居家裝飾推薦
   - 峇里島家飾批發市場攻略

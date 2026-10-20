@@ -15,7 +15,7 @@ tags:
   - 廁所
 originalUrl: 'https://vocus.cc/article/65fce2d0fd8978000151ec93'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 7c2f64e52a248e36a01acb86729095f8
 ---

@@ -5,7 +5,7 @@ description: 峇里島半夜肚痾、俾狗咬點算？Unicare Clinic 提供24�
 pubDate: 2026-09-21T00:00:00.000Z
 pubHour: 21
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島到府醫生
   - 峇里島醫生出診

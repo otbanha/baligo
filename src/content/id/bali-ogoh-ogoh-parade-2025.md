@@ -22,7 +22,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/67d57f45fd897800019a4c9b'
 category:
   - 美食景點活動
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 5ec763b4e4d88fd9e6a911cd5da5cd93
 ---

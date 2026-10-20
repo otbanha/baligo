@@ -19,7 +19,7 @@ tags:
   - 賭場
 originalUrl: 'https://vocus.cc/article/669e605afd8978000115575b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 467570268a34cade8fc2624591d1d4bc
 ---

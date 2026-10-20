@@ -13,7 +13,7 @@ tags:
   - 訂票
 originalUrl: 'https://vocus.cc/article/67c106e5fd897800015588ec'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: d33b82e6e9f731994069cda2c47660bc
 ---

@@ -206,7 +206,7 @@ function schemaTypes(fm, body, st) {
     if (h2s.length >= 2) types.push('Article/TravelAction');
   }
   if (cats.includes('簽證通關') && h2s.length > 0) types.push('HowTo');
-  if ((cats.includes('新手指南') || cats.includes('旅行技巧')) && faqAnswerCount(body, h2s) > 0) types.push('FAQPage');
+  if ((cats.includes('新手指南') || cats.includes('旅遊專題')) && faqAnswerCount(body, h2s) > 0) types.push('FAQPage');
   if (cats.includes('美食景點活動')) types.push('LocalBusiness');
   if (fm.isSpaGuide && !types.includes('FAQPage')) types.push('FAQPage');
   if (fm.isDriverGuide && Array.isArray(fm.drivers) && fm.drivers.length) types.push('Person/LocalBusiness');
@@ -219,7 +219,7 @@ function scoreB1(info) {
   if (cats.includes('住宿推薦')) return types.includes('ItemList/Hotel') ? 10 : 3; // 缺 Hotel schema
   if (cats.includes('峇里島分區攻略')) return 10;
   if (cats.includes('簽證通關')) return types.includes('HowTo') ? 10 : 5;
-  if (cats.includes('新手指南') || cats.includes('旅行技巧')) return types.includes('FAQPage') ? 10 : 5;
+  if (cats.includes('新手指南') || cats.includes('旅遊專題')) return types.includes('FAQPage') ? 10 : 5;
   if (cats.includes('美食景點活動')) return 9; // LocalBusiness 有但為泛用型（無實體地址/營業資訊）
   if (cats.some(c => ['遊記分享', '新聞存檔'].includes(c))) return 8; // Article 即為正確型別
   if (cats.some(c => ['家庭親子', '叫車包車'].includes(c))) return 6;
@@ -333,10 +333,10 @@ function buildFixes(r, fm, info, st) {
 
   if (r.b1 <= 5) {
     if (info.cats.includes('住宿推薦')) fixes.push({ loss: 10 - r.b1, text: info.hotelPotential ? '缺Hotel schema：hotel-cache.json是空的，跑scripts/fetch-hotel-data.mjs補快取即可自動輸出（layout層一次解決）' : '文內無Agoda連結(hid)可對應飯店實體，補上飯店Agoda連結+跑fetch-hotel-data.mjs才會有Hotel schema' });
-    else if (info.cats.includes('新手指南') || info.cats.includes('旅行技巧')) fixes.push({ loss: 10 - r.b1, text: 'H2底下第一段太短(<12字)導致FAQPage schema無法擷取答案，每個H2下先放一段完整回答' });
+    else if (info.cats.includes('新手指南') || info.cats.includes('旅遊專題')) fixes.push({ loss: 10 - r.b1, text: 'H2底下第一段太短(<12字)導致FAQPage schema無法擷取答案，每個H2下先放一段完整回答' });
     else fixes.push({ loss: 10 - r.b1, text: `分類「${info.cats[0] || '無'}」只輸出泛用Article schema，補上正確分類或在SEO.astro擴充對應型別` });
   }
-  if (r.b2 <= 4) fixes.push({ loss: 10 - r.b2, text: info.cats.some(c => ['新手指南', '旅行技巧'].includes(c)) ? '文末加「常見問題」H2區塊（3-5題問答），此分類會自動產FAQPage schema' : '文末加「常見問題」區塊（3-5題）；FAQPage schema需在SEO.astro擴充此分類才會輸出' });
+  if (r.b2 <= 4) fixes.push({ loss: 10 - r.b2, text: info.cats.some(c => ['新手指南', '旅遊專題'].includes(c)) ? '文末加「常見問題」H2區塊（3-5題問答），此分類會自動產FAQPage schema' : '文末加「常見問題」區塊（3-5題）；FAQPage schema需在SEO.astro擴充此分類才會輸出' });
   if (r.b3 <= 3) fixes.push({ loss: 5 - r.b3, text: (fm.description || '').trim().length < 40 ? '補frontmatter description（60-120字直接回答式摘要，會變成頁面上的快速解答callout）' : '補updatedDate讓Google/AI知道內容有維護' });
 
   if (r.c1 <= 3) fixes.push({ loss: 7 - r.c1, text: '把價格/時間/優缺點等可比較資訊改用表格或列點呈現，不要埋在敘述裡' });

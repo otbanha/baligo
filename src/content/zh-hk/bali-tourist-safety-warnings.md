@@ -12,7 +12,7 @@ tags:
   - 峇里島小偷
 originalUrl: 'https://vocus.cc/article/66f636b7fd89780001197817'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 55fd01fe1785a588f43df5c019ae4e48
 ---

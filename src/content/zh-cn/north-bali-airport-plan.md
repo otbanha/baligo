@@ -14,7 +14,7 @@ tags:
   - 峇里島第二機場
 originalUrl: 'https://vocus.cc/article/672c9eb5fd89780001ef6ffa'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: ca16bef3dd91b4124aa4828c761c2061
 ---

@@ -9,7 +9,7 @@ description: >-
   Tahun Baru Imlek 2026 di pulau eksotis ini tetap seru dan lancar!
 pubDate: 2024-01-13T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島
   - 農曆新年

@@ -14,7 +14,7 @@ tags:
   - 峇里島
 originalUrl: 'https://vocus.cc/article/687cf195fd897800015d2985'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 5fd99ef623ed0747234f1df19ec5e1c4
 ---

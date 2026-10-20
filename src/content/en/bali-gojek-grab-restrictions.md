@@ -20,7 +20,7 @@ tags:
   - 網約車
 originalUrl: 'https://vocus.cc/article/679acca0fd89780001f544a0'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 3c3c5eaef1257a3040e929f048c484e6
 ---

@@ -13,7 +13,7 @@ tags:
   - 2024排名
 originalUrl: 'https://vocus.cc/article/65ccaacffd89780001502bc5'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
 lang: zh-hk
 _srcHash: 5357023cc7618609b0db76bfb0d67f84

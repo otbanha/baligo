@@ -12,7 +12,7 @@ tags:
   - ogohogoh
 originalUrl: 'https://vocus.cc/article/658f8575fd89780001a35141'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 47f68e0776e8b00b48e7e5834eb55076
 ---

@@ -23,7 +23,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/675170e5fd897800015c1da0'
 category:
   - 家庭親子
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 07951c420358b869c686cdaf30aa4bdd
 ---

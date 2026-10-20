@@ -51,7 +51,7 @@ const CAT_EN: Record<string, string> = {
   '套裝行程': 'Package Tours',
   '購物指南': 'Shopping', '购物指南': 'Shopping',
   '新聞存檔': 'News Archive', '新闻存档': 'News Archive',
-  '旅行技巧': 'Travel Tips',
+  '旅遊專題': 'Travel Tips',
 };
 
 const CAT_ID: Record<string, string> = {
@@ -66,7 +66,7 @@ const CAT_ID: Record<string, string> = {
   '套裝行程': 'Paket Wisata',
   '購物指南': 'Panduan Belanja', '购物指南': 'Panduan Belanja',
   '新聞存檔': 'Arsip Berita', '新闻存档': 'Arsip Berita',
-  '旅行技巧': 'Tips Traveling',
+  '旅遊專題': 'Tips Traveling',
 };
 
 export const BLOG_INDEX_COPY: Record<IndexLang, BlogIndexCopy> = {

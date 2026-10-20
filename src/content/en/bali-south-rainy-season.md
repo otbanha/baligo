@@ -12,7 +12,7 @@ pubDate: 2024-10-16T00:00:00.000Z
 updatedDate: 2026-09-06T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島雨季
   - 峇里島下雨

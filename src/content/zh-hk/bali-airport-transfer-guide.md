@@ -6,7 +6,7 @@ description: >-
 pubDate: 2024-06-05T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 叫車包車
 tags:
   - 峇里島

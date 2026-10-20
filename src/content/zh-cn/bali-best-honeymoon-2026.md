@@ -14,7 +14,7 @@ tags:
   - 蜜月勝地
 originalUrl: 'https://vocus.cc/article/697230c8fd8978000122a606'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 9edd33dc7e0594b5d24d2cd8b6501e00
 ---

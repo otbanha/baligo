@@ -5,7 +5,7 @@ description: 出國遇颱風唔使慌！從保險準備、機票選擇、住宿�
 pubDate: 2025-06-28T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 颱風季出國
   - 出國遇颱風

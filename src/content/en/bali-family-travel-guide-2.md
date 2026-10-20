@@ -16,7 +16,7 @@ updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
   - 家庭親子
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島親子遊推薦
   - 峇里島保母預約 (Bali Nanny Service)

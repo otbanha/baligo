@@ -5,7 +5,7 @@ description: 峇里島必買！六大種類，超過30個品項嘅團友推薦�
 pubDate: 2024-05-22T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 購物指南
 tags:
   - 峇里島伴手禮推薦 2026

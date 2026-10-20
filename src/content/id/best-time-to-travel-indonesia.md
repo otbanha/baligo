@@ -10,7 +10,7 @@ description: >-
 pubDate: 2026-08-12T00:00:00.000Z
 pubHour: 22
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 印尼最佳旅遊時間
   - 印尼旅遊季節

@@ -20,7 +20,7 @@ tags:
   - 峇里島電網
 originalUrl: 'https://vocus.cc/article/6814d025fd89780001feaff6'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 00edf4a720b1e6d266e4095de16e85e1
 ---

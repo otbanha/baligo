@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-04-09T00:00:00.000Z
 pubHour: 9
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 2026 峇里島機票漲價
   - ​峇里島便宜機票怎麼買

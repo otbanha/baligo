@@ -15,7 +15,7 @@ tags:
   - 亞洲第一
 originalUrl: 'https://vocus.cc/article/6881b9fafd897800011f152f'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 2a09d7416972cd2f9d11f303a6222f1d
 ---

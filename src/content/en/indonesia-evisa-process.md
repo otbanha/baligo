@@ -19,7 +19,7 @@ tags:
   - vfs
 originalUrl: 'https://vocus.cc/article/6734bbadfd89780001cc7bd1'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 8868eae8be6cdf1f9d8a8b0c37ed8b75
 ---

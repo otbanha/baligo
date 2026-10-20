@@ -13,7 +13,7 @@ tags:
   - 台灣免簽
 originalUrl: 'https://vocus.cc/article/66d83419fd89780001956ba2'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 簽證通關
 lang: zh-hk
 _srcHash: 2516b8f4f4868276b8bbea8f1226beaa

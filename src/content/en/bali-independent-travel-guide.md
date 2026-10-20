@@ -5,7 +5,7 @@ description: A seasoned Bali traveler shares hard-earned tips and insights for y
 pubDate: 2024-04-09T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
 tags:
   - 巴里島

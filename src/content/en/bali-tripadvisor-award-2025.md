@@ -14,7 +14,7 @@ tags:
   - 排名
 originalUrl: 'https://vocus.cc/article/6785b417fd89780001890203'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 1f608179e1e3bff84665fa7172f9f378
 ---

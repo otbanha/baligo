@@ -19,7 +19,7 @@ tags:
   - 安眠藥峇里島
 originalUrl: 'https://vocus.cc/article/65f4f94ffd897800016b340a'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 9e745fbd084ecc48a312ba0b4e792d20
 ---

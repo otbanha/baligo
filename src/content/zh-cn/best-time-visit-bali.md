@@ -13,7 +13,7 @@ tags:
   - 峇里島幾月去最好
 originalUrl: 'https://vocus.cc/article/668d3950fd89780001edc382'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 7241be79233f6c2cf9b26d796a8b66ba
 ---

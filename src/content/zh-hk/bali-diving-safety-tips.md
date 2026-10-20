@@ -13,7 +13,7 @@ tags:
   - 護照保管
 originalUrl: 'https://vocus.cc/article/6855271afd897800016d3b6a'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 29970aabd179917a8c1f49a2ff67ebd5
 ---

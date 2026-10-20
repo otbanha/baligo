@@ -13,7 +13,7 @@ pubDate: 2026-09-11T00:00:00.000Z
 updatedDate: 2026-09-15T00:00:00.000Z
 pubHour: 17
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 十月峇里島
   - 峇里島十月

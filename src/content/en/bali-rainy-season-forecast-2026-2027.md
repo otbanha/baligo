@@ -10,7 +10,7 @@ description: >-
 pubDate: 2026-10-19T00:00:00.000Z
 pubHour: 19
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島雨季
   - 峇里島雨季預測

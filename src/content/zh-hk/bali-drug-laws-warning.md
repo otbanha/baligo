@@ -13,7 +13,7 @@ tags:
   - 販賣毒品
 originalUrl: 'https://vocus.cc/article/65f8dca4fd89780001b57754'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 31f76c43f3cb098bb6f033b943eeb891
 ---

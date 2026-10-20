@@ -10,7 +10,7 @@ description: >-
 pubDate: 2025-09-22T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島安全
   - 印尼治安

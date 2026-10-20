@@ -18,7 +18,7 @@ tags:
   - 聖誕假期
 originalUrl: 'https://vocus.cc/article/665ef28dfd89780001adfa98'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 50a3f20824697ea7a7388f64bb2e5ab2
 ---

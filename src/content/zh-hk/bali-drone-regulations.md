@@ -7,7 +7,7 @@ pubDate: 2026-04-20T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 13
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島空拍規定
   - 巴厘岛无人机规定

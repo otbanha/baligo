@@ -18,7 +18,7 @@ tags:
   - 峇里島
 originalUrl: 'https://vocus.cc/article/68846867fd89780001b26ef9'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 簽證通關
 lang: id
 _srcHash: 757fa250701f70208e11d1e104d75c27

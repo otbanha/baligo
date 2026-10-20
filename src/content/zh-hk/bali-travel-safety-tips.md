@@ -13,7 +13,7 @@ tags:
   - 峇里島海灘安全
 originalUrl: 'https://vocus.cc/article/6870c761fd89780001d5a85b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: d6f0c0129017e22f5169492c9f9bd32f
 ---

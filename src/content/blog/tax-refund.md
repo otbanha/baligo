@@ -4,7 +4,7 @@ description: 在峇里島購物也能省錢！深度解析印尼外國遊客購�
 pubDate: 2026-04-16
 updatedDate: 2026-07-10
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 2026 峇里島購物退稅教學
   - 印尼 VAT Refund for Tourists 申請

@@ -15,7 +15,7 @@ tags:
   - 建設
 originalUrl: 'https://vocus.cc/article/67d13fd1fd89780001c6887f'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: ec0bbd5bda37ae9311667370e2d5f91c
 ---

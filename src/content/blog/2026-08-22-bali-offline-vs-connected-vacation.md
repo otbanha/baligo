@@ -6,7 +6,7 @@ pubDate: 2026-08-22
 pubHour: 10
 category:
   - 新手指南
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島網路
   - 峇里島上網

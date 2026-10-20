@@ -8,7 +8,7 @@ pubDate: 2025-01-01T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 家庭親子
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_98d8ffbc6101e9d8d140fa14f3328f9e.png'
 originalUrl: 'https://vocus.cc/article/6745a0c9fd89780001807cfa'

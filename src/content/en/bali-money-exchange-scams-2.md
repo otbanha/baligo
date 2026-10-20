@@ -22,7 +22,7 @@ tags:
   - 匯率
 originalUrl: 'https://vocus.cc/article/69933020fd89780001dd0275'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 04021aff749a30c423ec6e20a16d99db
 ---

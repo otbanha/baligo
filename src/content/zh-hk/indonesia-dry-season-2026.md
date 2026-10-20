@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-04-03T00:00:00.000Z
 updatedDate: 2026-08-09T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 印尼雨季結束
   - 2026 印尼氣候

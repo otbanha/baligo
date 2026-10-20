@@ -12,7 +12,7 @@ description: >-
 pubDate: 2025-12-04T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島雨季月份 (Rainy Season)
   - 峇里島雨天室內景點推薦

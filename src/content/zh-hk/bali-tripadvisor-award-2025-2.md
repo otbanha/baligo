@@ -6,7 +6,7 @@ description: >-
   知名旅遊平台Tripadvisor近日公佈咗2025年「旅行者之選」獎項，峇里島憑藉其獨特嘅文化、寺廟、傳統舞蹈以及令人驚嘆嘅自然風光，成功奪得東南亞地區榜首！呢份排名基於2023年至2024年間旅客嘅評論與報告，展現咗最受歡迎嘅旅遊目的地
 pubDate: 2025-02-20T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50ddca2afe49b84aaa75c5d8afd50ff9.jpg'
 originalUrl: 'https://vocus.cc/article/67b69720fd89780001c24fd5'

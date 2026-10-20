@@ -10,7 +10,7 @@ description: >-
   the most stylish island getaway, enjoying a sensory-rich flight journey.
 pubDate: 2026-04-02T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 星宇航空峇里島直飛 2026
   - 星宇航空開航時間 JX765

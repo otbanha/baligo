@@ -11,7 +11,7 @@ description: >-
 pubDate: 2026-10-01T00:00:00.000Z
 pubHour: 17
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 星宇航空 峇里島
   - 星宇航空

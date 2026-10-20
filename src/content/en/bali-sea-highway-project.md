@@ -16,7 +16,7 @@ tags:
   - 高速公路
 originalUrl: 'https://vocus.cc/article/669e65bafd8978000115c93b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 74276f45342a9512d985975528d31a4c
 ---

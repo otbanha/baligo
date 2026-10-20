@@ -7,7 +7,7 @@ description: >-
 pubDate: 2023-12-06T00:00:00.000Z
 updatedDate: 2026-08-08T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
   - 新手指南
 tags:

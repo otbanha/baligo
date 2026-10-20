@@ -12,7 +12,7 @@ tags:
   - 秘境海灘
 originalUrl: 'https://vocus.cc/article/687ee2c2fd89780001d111bf'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 7575875190e2340bdecc1f4400e93e02
 ---

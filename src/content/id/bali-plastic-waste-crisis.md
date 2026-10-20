@@ -15,7 +15,7 @@ tags:
   - 2026北藝嚴選
 originalUrl: 'https://vocus.cc/article/676b9cc9fd89780001aa5a53'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 7e0b102882345880650a1fc5416eb061
 ---

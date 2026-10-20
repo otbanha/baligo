@@ -13,7 +13,7 @@ description: >-
 pubDate: 2022-12-05T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島
   - 巴里島

@@ -5,7 +5,7 @@ description: 巴厘岛被誉为全球最具文化魅力的旅游地之一，拥�
 pubDate: 2024-11-06T00:00:00.000Z
 category:
   - 美食景點活動
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_df7277c453c8b1a8c3ddff02812adae5.jpg'
 originalUrl: 'https://vocus.cc/article/672b4440fd897800011d66b2'

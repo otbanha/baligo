@@ -5,7 +5,7 @@ description: 巴厘岛半夜拉肚子、被狗咬怎么办？Unicare Clinic 提�
 pubDate: 2026-09-21T00:00:00.000Z
 pubHour: 21
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島到府醫生
   - 峇里島醫生出診

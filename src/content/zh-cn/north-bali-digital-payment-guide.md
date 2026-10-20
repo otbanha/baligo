@@ -13,7 +13,7 @@ tags:
   - 電子支付
 originalUrl: 'https://vocus.cc/article/694a1000fd897800015461ec'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 55580a1f5e7d8c6796d86e6972d41344
 ---

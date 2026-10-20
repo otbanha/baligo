@@ -31,11 +31,11 @@ const CATEGORY_STAGE = {
   '家庭親子': 'choose-area',
   '住宿推薦': 'prepare',
   '叫車包車': 'prepare',
-  '旅行技巧': 'prepare',
+  '旅遊專題': 'prepare',
   '美食景點活動': 'onsite',
 };
 
-// prepare + 含「旅行技巧」+ 標題或 tag 命中以下任一詞 → 改判 onsite（confidence 降為 low）
+// prepare + 含「旅遊專題」+ 標題或 tag 命中以下任一詞 → 改判 onsite（confidence 降為 low）
 const ONSITE_OVERRIDE_KEYWORDS = [
   '超市', '購物', '伴手禮', '紀念品', '餐廳', '美食', '咖啡', '酒吧',
   '藥局', '醫院', '緊急', '天氣', '濾水', '飲水', '小費', 'spa', '按摩',
@@ -122,13 +122,13 @@ function decideStage(title, slug, categories, tags) {
     let decidedBy = catHit;
     const matchedKeywords = {};
 
-    if (guessedStage === 'prepare' && categories.includes('旅行技巧')) {
+    if (guessedStage === 'prepare' && categories.includes('旅遊專題')) {
       const titleTagHaystack = [title, ...tags].join(' ').toLowerCase();
       const overrideHits = ONSITE_OVERRIDE_KEYWORDS.filter(k => titleTagHaystack.includes(k.toLowerCase()));
       if (overrideHits.length) {
         guessedStage = 'onsite';
         confidence = 'low';
-        decidedBy = `旅行技巧+override`;
+        decidedBy = `旅遊專題+override`;
         matchedKeywords.onsiteOverride = overrideHits;
       }
     }

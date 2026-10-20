@@ -10,7 +10,7 @@ description: >-
   value.
 pubDate: 2026-01-21T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 峇里島網卡推薦

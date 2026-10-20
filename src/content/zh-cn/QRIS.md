@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-08-10T00:00:00.000Z
 pubHour: 22
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - QRIS
   - 印尼QRIS

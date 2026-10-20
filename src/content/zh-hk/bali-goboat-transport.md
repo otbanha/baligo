@@ -15,7 +15,7 @@ tags:
   - 峇里島搭船
 originalUrl: 'https://vocus.cc/article/670a90a5fd897800017c0ff4'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 叫車包車
 lang: zh-hk
 _srcHash: d6156e371b0ae49fc1965dd1bbf3ee20

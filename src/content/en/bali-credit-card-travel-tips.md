@@ -15,7 +15,7 @@ tags:
   - 使用信用卡
 originalUrl: 'https://vocus.cc/article/663ec407fd89780001e37610'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: dd12324d9c5ee59db7c9e2989a4e0f98
 ---

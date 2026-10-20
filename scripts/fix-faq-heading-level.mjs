@@ -4,7 +4,7 @@
  *
  * SEO.astro 的 buildAnswerMap 只掃描 H2（## ）來產生 FAQPage schema，
  * 但部分文章的 FAQ 區塊寫成「## 常見問題」包一層，底下問題卻用「### 問題」，
- * 導致 schema 完全掃不到，即使分類是 新手指南/旅行技巧 也不會輸出 FAQPage。
+ * 導致 schema 完全掃不到，即使分類是 新手指南/旅遊專題 也不會輸出 FAQPage。
  *
  * 修法：把 FAQ 包裹標題（## 常見問題...）降為 H3（避免自己被誤判成一個問題），
  * 底下的 ### 問題全部升為 ##（讓 buildAnswerMap 抓得到）。

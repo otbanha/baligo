@@ -18,7 +18,7 @@ tags:
   - 攜帶泡麵
 originalUrl: 'https://vocus.cc/article/6662ff6dfd89780001183ec4'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 09206401d7bed1c777ad52ae51367cdf
 ---

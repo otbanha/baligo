@@ -4,7 +4,7 @@ description: 在峇里島旅遊忘東西怎麼辦？這篇真實經驗分享，�
 pubDate: 2026-04-26
 pubHour: 14
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島自由行
   - 峇里島攻略

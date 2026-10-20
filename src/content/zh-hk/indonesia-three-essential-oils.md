@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-07-19T00:00:00.000Z
 pubHour: 8
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島必買藥品防蚊液
   - 印尼白樹油功效 Minyak Kayu Putih

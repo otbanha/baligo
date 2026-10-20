@@ -7,7 +7,7 @@ description: >-
 pubDate: 2024-07-16T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島 Canang Sari 意義
   - 扎囊薩利祭品組成與色彩

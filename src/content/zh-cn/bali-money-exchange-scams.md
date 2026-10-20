@@ -6,7 +6,7 @@ description: >-
 pubDate: 2025-05-10T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a1e5b9dfca863d1255e95b63e94b8cf.jpg'

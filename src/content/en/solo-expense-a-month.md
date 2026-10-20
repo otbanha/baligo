@@ -11,7 +11,7 @@ description: >-
 pubDate: 2026-08-27T00:00:00.000Z
 pubHour: 23
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 峇里島一個月生活費

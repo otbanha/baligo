@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-06-03T00:00:00.000Z
 pubHour: 15
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島機票
   - 燃油附加費

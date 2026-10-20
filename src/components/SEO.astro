@@ -7,7 +7,7 @@
  *   峇里島分區攻略 → Article + TouristDestination
  *   簽證通關      → Article + HowTo (steps from H2 headings)
  *   新手指南
- *   旅行技巧      → Article + FAQPage (Q from H2 headings)
+ *   旅遊專題      → Article + FAQPage (Q from H2 headings)
  *   美食景點活動   → Article + LocalBusiness
  *   新聞存檔      → NewsArticle
  *   家庭親子 / 叫車包車 / 遊記分享 → Article only
@@ -334,9 +334,9 @@ if ((cats.includes('簽證通關') || cats.includes('签证通关')) && h2s.leng
   });
 }
 
-// ── [新手指南] & [旅行技巧] FAQPage ──────────────────────────────────────────
+// ── [新手指南] & [旅遊專題] FAQPage ──────────────────────────────────────────
 // 只在 H2 底下能擷取到真實答案時才產出 FAQ，避免空答案佔位字。
-if (cats.includes('新手指南') || cats.includes('旅行技巧')) {
+if (cats.includes('新手指南') || cats.includes('旅遊專題')) {
   const answerMap = buildAnswerMap(body);
   const faqItems = h2s
     .filter(h => h.text?.trim())

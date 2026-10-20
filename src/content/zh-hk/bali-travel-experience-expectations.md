@@ -5,7 +5,7 @@ description: 峇里島真係適合所有人咩？由交通塞車、旅遊消費�
 pubDate: 2026-08-26T00:00:00.000Z
 pubHour: 23
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島
   - 峇里島旅遊

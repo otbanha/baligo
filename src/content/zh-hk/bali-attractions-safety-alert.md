@@ -13,7 +13,7 @@ tags:
   - 巴里島新聞
 originalUrl: 'https://vocus.cc/article/66c69317fd8978000110fabc'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 77e52dd218ea6151a63ac7f68022bb70
 ---

@@ -18,7 +18,7 @@ tags:
   - 快速通關
 originalUrl: 'https://vocus.cc/article/679f52c9fd89780001ec63b8'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 ---

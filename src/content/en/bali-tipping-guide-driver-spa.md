@@ -13,7 +13,7 @@ pubDate: 2024-05-07T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 峇里島小費

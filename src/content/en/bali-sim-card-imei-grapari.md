@@ -12,7 +12,7 @@ description: >-
 pubDate: 2026-10-17T00:00:00.000Z
 pubHour: 20
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島數位遊牧
   - 峇里島長住

@@ -5,7 +5,7 @@ description: 巴厘岛这片热带天堂中，交通方式的选择成为许多�
 pubDate: 2024-05-03T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 叫車包車
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2226fb7d129f989dbd4d56d9c73a50e0.jpg'

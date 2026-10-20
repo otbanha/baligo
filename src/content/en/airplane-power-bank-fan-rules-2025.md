@@ -19,7 +19,7 @@ tags:
   - 充電風扇
 originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: b1ce67b687652bc6a0e3855103f104df
 ---

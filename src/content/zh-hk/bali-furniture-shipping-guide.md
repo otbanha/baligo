@@ -6,7 +6,7 @@ description: >-
 pubDate: 2024-02-07T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島
   - 大型傢俱

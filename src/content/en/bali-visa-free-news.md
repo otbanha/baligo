@@ -15,7 +15,7 @@ tags:
   - 星宇
 originalUrl: 'https://vocus.cc/article/669148a9fd89780001740e5b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 ---

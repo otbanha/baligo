@@ -145,7 +145,7 @@ const CAT_EN: Record<string, string> = {
   '套裝行程': 'Package Tours', '套装行程': 'Package Tours',
   '購物指南': 'Shopping', '购物指南': 'Shopping',
   '新聞存檔': 'News Archive', '新闻存档': 'News Archive',
-  '旅行技巧': 'Travel Tips',
+  '旅遊專題': 'Travel Tips',
 };
 
 const CAT_ZH_CN: Record<string, string> = {
@@ -174,7 +174,7 @@ const CAT_ID: Record<string, string> = {
   '套裝行程': 'Paket Wisata', '套装行程': 'Paket Wisata',
   '購物指南': 'Panduan Belanja', '购物指南': 'Panduan Belanja',
   '新聞存檔': 'Arsip Berita', '新闻存档': 'Arsip Berita',
-  '旅行技巧': 'Tips Traveling',
+  '旅遊專題': 'Tips Traveling',
 };
 
 const getCatLabel = (cat: string) => {
@@ -186,12 +186,12 @@ const getCatLabel = (cat: string) => {
 
 // 文章分類 → 討論版（community.gobaligo.id phpBB 版面 id）。
 // f=5 線上版名是「換錢・SIM卡・實用資訊」，版面說明為「出發前必看的實用資訊」，
-// 所以「新手指南」與「旅行技巧」都歸這一版。
+// 所以「新手指南」與「旅遊專題」都歸這一版。
 // 沒有對應分類（例如「新聞存檔」）不會使 forumId 為 undefined 而隱藏討論區——
 // 元件會 fallback 到論壇首頁 + 全站 feed，見 ForumLatestTopics.astro。
 const CATEGORY_FORUM_ID: Record<string, number> = {
   '新手指南': 5,
-  '旅行技巧': 5,
+  '旅遊專題': 5,
   '住宿推薦': 7, '住宿推荐': 7,
   '峇里島分區攻略': 8, '峇里岛分区攻略': 8,
   '簽證通關': 3, '签证通关': 3,
@@ -217,7 +217,7 @@ const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
 const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}/?cat=`;  // 結尾斜線：/en/blog?cat= 會先被 Cloudflare 轉址一次
 // 只有這 8 個分類有靜態產生的 /category/[cat]/ 頁面（見 src/pages/blog/category/[cat].astro
 // 及各語言版本的 getStaticPaths）；新聞存檔另有 /news/ 首頁（僅繁中版），其餘分類（例如
-// 「旅行技巧」）以及非繁中語言的新聞存檔一律沒有靜態頁，改連到 /blog/?cat=... 走前端篩選，
+// 「旅遊專題」）以及非繁中語言的新聞存檔一律沒有靜態頁，改連到 /blog/?cat=... 走前端篩選，
 // 避免連到 404。
 const STATIC_CATEGORY_PAGES = new Set([
   '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',

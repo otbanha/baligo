@@ -5,7 +5,7 @@ description: 很有巴厘岛旅行经验的老手跟大家分享的巴厘岛旅�
 pubDate: 2024-04-09T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
 tags:
   - 巴里島

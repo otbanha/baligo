@@ -18,7 +18,7 @@ tags:
   - '2025'
 originalUrl: 'https://vocus.cc/article/65da07f8fd89780001e5a0a3'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
 lang: en
 _srcHash: 602ff381dd37cbd38b7caed968621c2a

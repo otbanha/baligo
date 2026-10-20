@@ -14,7 +14,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/6604201efd89780001032e98'
 category:
   - 住宿推薦
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 7163c263564a1b2839f9cec05dd49a8a
 ---

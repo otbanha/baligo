@@ -5,7 +5,7 @@ description: 去巴厘岛旅游怎么付款？完整介绍 QRIS、GoPay 电子�
 pubDate: 2026-09-18T00:00:00.000Z
 pubHour: 14
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島怎麼付款
   - 峇里島可以刷卡嗎

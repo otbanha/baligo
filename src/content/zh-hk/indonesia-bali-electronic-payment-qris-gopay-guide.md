@@ -5,7 +5,7 @@ description: 去峇里島旅行點樣俾錢？完整介紹 QRIS、GoPay 電子�
 pubDate: 2026-09-18T00:00:00.000Z
 pubHour: 14
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島怎麼付款
   - 峇里島可以刷卡嗎

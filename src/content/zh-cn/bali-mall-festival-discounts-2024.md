@@ -12,7 +12,7 @@ tags:
   - 折扣優惠
 originalUrl: 'https://vocus.cc/article/676c1649fd89780001b14110'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: d71a85097f6bde4261b1a231da604f14
 ---

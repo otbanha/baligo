@@ -5,7 +5,7 @@ description: 揭开巴厘岛最便宜旅游时间与省钱秘诀，教你如何�
 pubDate: 2025-10-04T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_21bff0d73a91b0053d0ff13563ac5241.png'
 originalUrl: 'https://vocus.cc/article/68d49203fd89780001e4c5ef'

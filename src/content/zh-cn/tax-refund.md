@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-04-16T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 2026 峇里島購物退稅教學
   - 印尼 VAT Refund for Tourists 申請

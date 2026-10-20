@@ -14,7 +14,7 @@ pubDate: 2026-04-12T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 13
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 峇里島水質

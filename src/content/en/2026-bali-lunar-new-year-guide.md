@@ -10,7 +10,7 @@ description: >-
   island during the 2026 Lunar New Year!
 pubDate: 2024-01-13T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島
   - 農曆新年

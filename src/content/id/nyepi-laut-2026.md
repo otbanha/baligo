@@ -11,7 +11,7 @@ pubDate: 2026-09-16T00:00:00.000Z
 updatedDate: 2026-09-16T00:00:00.000Z
 pubHour: 20
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - Sea Silience Day 2026
   - 海洋寧靜日

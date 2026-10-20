@@ -15,7 +15,7 @@ tags:
   - 釀電影
 originalUrl: 'https://vocus.cc/article/65ebd5ecfd89780001cf6c8b'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: efad2625194bbd20ce3426af3d61efed
 ---

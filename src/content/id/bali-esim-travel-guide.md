@@ -21,7 +21,7 @@ tags:
   - 峇里島sim卡推薦
 originalUrl: 'https://vocus.cc/article/6842f236fd897800017d78d5'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 4074c53d9b2a7a80753f95bf97892108
 ---

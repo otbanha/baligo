@@ -14,7 +14,7 @@ tags:
   - 好用app
 originalUrl: 'https://vocus.cc/article/670fc5b2fd89780001cea7ed'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: c103ddf61e721a8059d255dc395a82f9
 ---

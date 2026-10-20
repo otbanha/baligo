@@ -13,7 +13,7 @@ tags:
   - 華航
 originalUrl: 'https://vocus.cc/article/65b62204fd89780001edda35'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 64e80750267dfdc30c672ec28783043f
 ---

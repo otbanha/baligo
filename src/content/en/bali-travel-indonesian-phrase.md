@@ -16,7 +16,7 @@ tags:
   - 印尼落地簽
 originalUrl: 'https://vocus.cc/article/65fccd88fd8978000150edda'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: dddc4832549014b97314cfe641245cde
 ---

@@ -12,7 +12,7 @@ pubDate: 2026-07-29T00:00:00.000Z
 updatedDate: 2026-07-29T00:00:00.000Z
 pubHour: 7
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島髒水病
   - 峇里島拉肚子

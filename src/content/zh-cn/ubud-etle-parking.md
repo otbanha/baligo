@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-05-05T00:00:00.000Z
 pubHour: 10
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 烏布交通違規罰單 2026
   - 峇里島電子罰款系統 ETLE

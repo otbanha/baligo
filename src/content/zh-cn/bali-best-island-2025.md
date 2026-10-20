@@ -5,7 +5,7 @@ description: "每一年，国际权威旅游杂志《Travel + Leisure》都会�
 pubDate: 2025-07-01T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島亞洲最佳島嶼排名 2026
   - Travel + Leisure 亞太區最佳島嶼榜單

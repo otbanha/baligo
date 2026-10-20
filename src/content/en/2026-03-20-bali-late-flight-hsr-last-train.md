@@ -5,7 +5,7 @@ description: >-
   chance to catch the last southbound high-speed train at 10:30 PM?
 pubDate: 2026-03-20T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 高鐵
   - 高鐵末班車

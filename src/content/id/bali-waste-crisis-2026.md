@@ -14,7 +14,7 @@ description: >-
 pubDate: 2026-05-10T00:00:00.000Z
 pubHour: 18
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島垃圾危機 2026
   - 峇里島環保旅遊建議

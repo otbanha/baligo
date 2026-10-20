@@ -13,7 +13,7 @@ tags:
   - 峇里島猴痘
 originalUrl: 'https://vocus.cc/article/66c9649bfd89780001519292'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: c845dd23405ccd22b83c8740a4ba0c40
 ---

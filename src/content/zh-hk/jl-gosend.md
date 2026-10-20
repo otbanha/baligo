@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-04-26T00:00:00.000Z
 pubHour: 14
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島自由行
   - 峇里島攻略

@@ -10,7 +10,7 @@ pubDate: 2026-07-02T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: 18
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 遊記分享
 tags:
   - 峇里島自由行心得分享

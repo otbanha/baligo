@@ -7,7 +7,7 @@ description: >-
 pubDate: 2025-04-02T00:00:00.000Z
 updatedDate: 2026-09-05T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f6b90b154e37dbd50a989a42055a7abb.png'
 originalUrl: 'https://vocus.cc/article/67ecc962fd89780001212629'

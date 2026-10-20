@@ -11,7 +11,7 @@ description: >-
 pubDate: 2026-07-17T00:00:00.000Z
 pubHour: 18
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 科摩多國家公園 亂丟垃圾 中國遊客
   - 印尼 旅遊環保法規 罰款

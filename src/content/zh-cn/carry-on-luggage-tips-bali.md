@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-01-30T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 登機箱尺寸規範 2026
   - 隨身行李重量限制

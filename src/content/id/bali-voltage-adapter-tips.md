@@ -14,7 +14,7 @@ description: >-
 pubDate: 2025-11-30T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島電壓與插座型號 220V
   - 印尼旅遊轉接頭推薦

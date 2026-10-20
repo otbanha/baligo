@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-05-02T00:00:00.000Z
 pubHour: 10
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島旅遊禁忌 2026
   - 峇里島遣返原因盤點

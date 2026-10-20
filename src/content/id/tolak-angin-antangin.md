@@ -10,7 +10,7 @@ description: >-
 pubDate: 2026-09-30T00:00:00.000Z
 pubHour: 8
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島 小黃包
   - Tolak Angin

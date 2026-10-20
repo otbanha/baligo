@@ -14,7 +14,7 @@ tags:
   - 2024年人數
 originalUrl: 'https://vocus.cc/article/66d6610afd8978000151ae25'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: afe434a51540b832f64740fd5b8e4dd3
 ---

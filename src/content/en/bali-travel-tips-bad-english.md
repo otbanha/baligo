@@ -18,7 +18,7 @@ tags:
   - 翻譯軟體
 originalUrl: 'https://vocus.cc/article/65c44c29fd89780001141a3e'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 5659cee2422eb3a0853e8efffe93affc
 ---

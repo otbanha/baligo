@@ -12,7 +12,7 @@ tags:
   - 淡季
 originalUrl: 'https://vocus.cc/article/67cfefe1fd89780001ce0c4e'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 5d247844ffca1338188eb51bcadaca52
 ---

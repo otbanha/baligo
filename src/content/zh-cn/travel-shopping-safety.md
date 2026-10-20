@@ -13,7 +13,7 @@ tags:
   - gojek
 originalUrl: 'https://vocus.cc/article/64dcae12fd897800015a06a3'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: bb2e02032c9ce4405f53baf1d3e3fbc5
 ---

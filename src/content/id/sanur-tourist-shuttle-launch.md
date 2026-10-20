@@ -21,7 +21,7 @@ tags:
   - 峇里島攻略
 originalUrl: 'https://vocus.cc/article/68930961fd897800011411ce'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 叫車包車
 lang: id
 _srcHash: c7907e52832b209995baba7a5ff43c34

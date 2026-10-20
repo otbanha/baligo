@@ -16,7 +16,7 @@ tags:
   - 花生過敏
 originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 622226406cf8f26256cfc9d70d9b4ad7
 ---

@@ -5,7 +5,7 @@ pubDate: 2026-04-18
 updatedDate: 2026-07-10
 pubHour: 18
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - '#峇里島旅遊攻略'
   - '#巴厘岛旅游攻略'

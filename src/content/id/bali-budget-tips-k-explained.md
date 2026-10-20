@@ -8,7 +8,7 @@ pubDate: 2023-08-24T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 印尼
   - 峇里島

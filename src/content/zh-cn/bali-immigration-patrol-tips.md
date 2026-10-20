@@ -13,7 +13,7 @@ tags:
   - 移民局巡查
 originalUrl: 'https://vocus.cc/article/68aa78dbfd897800016d64d3'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 簽證通關
 lang: zh-cn
 _srcHash: 9e188b69e6f2cb2bf6429adb79eedd33

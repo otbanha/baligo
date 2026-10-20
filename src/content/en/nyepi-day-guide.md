@@ -17,7 +17,7 @@ tags:
   - nyepi
 originalUrl: 'https://vocus.cc/article/67d0f17dfd89780001adcccd'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: b14c051a065b2f64d8d6c44f19401fbc
 ---

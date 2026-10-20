@@ -13,7 +13,7 @@ tags:
   - 排名
 originalUrl: 'https://vocus.cc/article/678466f6fd897800015271bb'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 9dff616114e0ded6232193ee384cc299
 ---

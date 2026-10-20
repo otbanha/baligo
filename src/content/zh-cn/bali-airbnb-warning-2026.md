@@ -6,7 +6,7 @@ pubDate: 2026-03-11T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
   - 住宿推薦
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - '#airbnb'
   - '#峇里島'

@@ -11,7 +11,7 @@ pubDate: 2024-10-09T00:00:00.000Z
 updatedDate: 2026-09-16T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 海洋寧靜日
   - nyepilaut

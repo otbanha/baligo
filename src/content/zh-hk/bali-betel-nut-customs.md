@@ -5,7 +5,7 @@ description: 檳榔係台灣常見嘅零食，好多人都有食檳榔嘅習慣�
 pubDate: 2024-04-16T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 檳榔
   - 入境

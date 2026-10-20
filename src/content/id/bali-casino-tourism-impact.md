@@ -15,7 +15,7 @@ tags:
   - 峇里島輕軌
 originalUrl: 'https://vocus.cc/article/66adee4bfd89780001f50309'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 ---

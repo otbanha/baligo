@@ -13,7 +13,7 @@ tags:
   - sim卡
 originalUrl: 'https://vocus.cc/article/67bea49ffd897800012dbdce'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 37321ba9912fd9c2aeb885e1c25b1208
 ---

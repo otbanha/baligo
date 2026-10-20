@@ -14,7 +14,7 @@ description: >-
 pubDate: 2025-04-02T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 峇里島戶外活動推薦 2026

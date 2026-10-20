@@ -7,7 +7,7 @@ description: >-
 pubDate: 2026-01-02T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - balibelly
   - 巴里島腹瀉

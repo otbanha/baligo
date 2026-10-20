@@ -17,7 +17,7 @@ tags:
   - 每日觀光稅
 originalUrl: 'https://vocus.cc/article/67c2c29efd89780001b91a2f'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 簽證通關
 lang: en
 _srcHash: 8e68eae00980fd24a29defd86e64f35e

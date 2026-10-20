@@ -21,7 +21,7 @@ tags:
   - 陰陽門
 originalUrl: 'https://vocus.cc/article/66a31f0bfd8978000149ad4a'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 8d2bfb3c5bd973e8738c231d1eb6a841
 ---

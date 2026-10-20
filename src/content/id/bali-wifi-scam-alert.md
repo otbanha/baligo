@@ -20,7 +20,7 @@ tags:
   - 借熱點詐騙
 originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: dc0e55b03e2a014a5389038ba801e17b
 ---

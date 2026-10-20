@@ -12,7 +12,7 @@ tags:
   - 2025年旅遊
 originalUrl: 'https://vocus.cc/article/678382f5fd897800013125a6'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 646d6e7657bdb973c59686c35c91a55a
 ---

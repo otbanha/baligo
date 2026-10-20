@@ -8,7 +8,7 @@ pubDate: 2026-08-03T00:00:00.000Z
 updatedDate: 2026-08-03T00:00:00.000Z
 pubHour: 22
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島回台
   - 班機延誤回台怎麼辦

@@ -10,7 +10,7 @@ pubDate: 2024-03-15T00:00:00.000Z
 updatedDate: 2026-09-05T00:00:00.000Z
 pubHour: null
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島天氣
   - 峇里島乾季

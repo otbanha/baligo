@@ -16,7 +16,7 @@ tags:
   - sanur行李
 originalUrl: 'https://vocus.cc/article/65ea5fc9fd89780001f099b8'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: en
 _srcHash: 3f8317d8fd4bd8d145a94117d0acc46d
 ---

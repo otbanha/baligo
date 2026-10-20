@@ -10,7 +10,7 @@ pubDate: 2025-02-09T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 category:
   - 住宿推薦
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 烏布 Adiwana Suweta 精品旅宿
   - 峇里島 Padma Resort Ubud 住宿推薦

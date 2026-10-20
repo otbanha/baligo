@@ -13,7 +13,7 @@ tags:
   - 文化探索
 originalUrl: 'https://vocus.cc/article/67875dbafd89780001aa4818'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 511001edb85175bca2b64613428978b5
 ---

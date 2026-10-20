@@ -13,7 +13,7 @@ pubDate: 2026-07-27T00:00:00.000Z
 updatedDate: 2026-07-27T00:00:00.000Z
 pubHour: 8
 category:
-  - 旅行技巧
+  - 旅遊專題
 tags:
   - 峇里島遊客規則
   - 峇里島旅遊指南

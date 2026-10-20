@@ -16,7 +16,7 @@ tags:
   - 巴里島免簽
 originalUrl: 'https://vocus.cc/article/66d276fefd897800010ceee5'
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 簽證通關
 lang: en
 _srcHash: 86e0d0a02d3db756f3782a9dc28f3514

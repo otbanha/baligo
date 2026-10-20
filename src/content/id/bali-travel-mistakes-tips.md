@@ -9,7 +9,7 @@ description: >-
 pubDate: 2024-10-20T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 峇里島旅遊

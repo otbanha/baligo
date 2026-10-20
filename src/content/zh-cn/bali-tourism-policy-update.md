@@ -14,7 +14,7 @@ tags:
   - 巴里島
 originalUrl: 'https://vocus.cc/article/67879faefd89780001b524bc'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: 37055e34ac72ef21dbbd1163a1f55043
 ---

@@ -28,7 +28,7 @@ const CATEGORY_OG = {
   '家庭親子':       '/cat_pix/6.jpg',
   '遊記分享':       '/cat_pix/7.jpg',
   '美食景點活動':   '/cat_pix/8.jpg',
-  '旅行技巧':       '/cat_pix/9.jpg',
+  '旅遊專題':       '/cat_pix/9.jpg',
 };
 
 /**

@@ -17,7 +17,7 @@ tags:
   - 最新消息
 originalUrl: 'https://vocus.cc/article/6852983dfd89780001d2ebb4'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: id
 _srcHash: 30a2c65984e972a06977f04f3322ca6d
 ---

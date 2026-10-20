@@ -12,7 +12,7 @@ tags:
   - 海上交通
 originalUrl: 'https://vocus.cc/article/66cf433ffd89780001313079'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: aa08d5017513d642664f0be9a8918451
 ---

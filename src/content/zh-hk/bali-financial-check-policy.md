@@ -12,7 +12,7 @@ tags:
   - 峇里島旅遊攻略
 originalUrl: 'https://vocus.cc/article/695d282afd89780001d7d607'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: 98d208d414f7cf798cbd21cd612a88f1
 ---

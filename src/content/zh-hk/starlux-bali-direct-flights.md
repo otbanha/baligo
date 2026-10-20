@@ -12,7 +12,7 @@ tags:
   - 星宇航空
 originalUrl: 'https://vocus.cc/article/66d86afafd8978000199d546'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-hk
 _srcHash: c112bd6fdbf754d4c76c1156ddb6b826
 ---

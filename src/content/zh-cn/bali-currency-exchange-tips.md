@@ -14,7 +14,7 @@ tags:
   - 印尼換錢
 originalUrl: 'https://vocus.cc/article/689c380bfd8978000178bb5e'
 category:
-  - 旅行技巧
+  - 旅遊專題
 lang: zh-cn
 _srcHash: c3f4c28f6e3a55c890e576444d03d2cd
 ---

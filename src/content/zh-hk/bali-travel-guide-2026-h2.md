@@ -7,7 +7,7 @@ pubDate: 2026-06-08T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 pubHour: 20
 category:
-  - 旅行技巧
+  - 旅遊專題
   - 新手指南
 tags:
   - 2026 峇里島 7月 8月 天氣
