@@ -5,8 +5,8 @@ title: >-
 slug: bali-drivers-recommendations-2
 description: >-
   Halaman kedua rekomendasi driver sewa mobil di Bali. Setiap link di bawah nama
-  driver bisa diklik untuk cek postingan asli di grup Facebook. Lengkap dengan
-  harga sewa 2026 dan info yang perlu kamu kasih waktu hubungi driver.
+  driver bisa diklik untuk cek postingan asli di grup. Disertai harga sewa 2026
+  dan info yang perlu kamu siapkan saat menghubungi driver.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -26,16 +26,16 @@ contentUpdatedAt: '2026-10-19T22:18:05+08:00'
 updatedDate: 2026-10-19T00:00:00.000Z
 lang: id
 _srcHash: PENDING_RETRY_665a5a411a68afcb5ede523bac9d478d
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 
-**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi **20 driver dan 258 review perjalanan** yang diposting langsung oleh anggota grup Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri buat verifikasi.
+**Apa isi halaman ini**: Ini adalah **halaman kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi **20 driver dan 258 ulasan perjalanan** yang diposting langsung oleh anggota grup Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
 
-Harga sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan lintas zona, tarif overtime, dan cara booking udah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
+Harga sewa sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan antar zona, hitungan lembur, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
 
-> Waktu hubungi driver, kasih info lengkap: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & antar, tempat wisata yang mau dikunjungi**, dan tanya total harga termasuk biaya lintas zona. ⚠️ Untuk Line, kalau beda zona nggak bisa pakai ID — harus **scan QR Code**.
+> Saat menghubungi driver, sampaikan semuanya sekaligus: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & antar, tempat wisata yang mau dikunjungi**, dan tanyakan total harga termasuk biaya antar zona. ⚠️ Untuk Line, akun antar zona tidak bisa ditambah pakai ID, harus **scan QR Code**.
 
-**👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver yang bisa bahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
+**👉 Masih ada 24 driver lain di halaman pertama (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
 
 ## Daftar 20 Driver di Halaman Ini
 
@@ -157,7 +157,7 @@ Urutan **bukan peringkat**,
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍 **5 rekomendasi langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍 **5 Ulasan Langsung dari Netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
@@ -173,18 +173,18 @@ Urutan **bukan peringkat**,
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787724252955-index.jpg)
 
-👍🏼[Rekomendasi Netizen 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[Rekomendasi Netizen 2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[Rekomendasi Netizen 3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[Rekomendasi Netizen 4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[Rekomendasi Netizen 5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[Rekomendasi Netizen 6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[Rekomendasi Netizen 7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[Rekomendasi Netizen 8](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[Rekomendasi Netizen 9](https://www.facebook.com/share/p/19Hj8nNgVo/) [Rekomendasi Netizen 10](https://www.facebook.com/share/p/19D1wqysKm/)
+👍🏼[Rekomendasi netizen 1](https://www.facebook.com/share/p/1DxVS5j8HN/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/share/p/1Bj2tSZRkq/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/share/p/1DTkEheKG7/) 👍🏼[Rekomendasi netizen 4](https://www.facebook.com/share/p/1DKCtkBf7b/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/share/p/1HiWgmwJu9/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/share/p/1E2265aPKi/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/share/p/1DRgBTU1pq/) 👍🏼[Rekomendasi netizen 8 ](https://www.facebook.com/share/p/19QSZ8VTs3/)👍🏼[Rekomendasi netizen 9](https://www.facebook.com/share/p/19Hj8nNgVo/) [Rekomendasi netizen 10](https://www.facebook.com/share/p/19D1wqysKm/)
 
-## (Sopir Bahasa Mandarin) Dirga Yusa — Panjang Umur
+## (Sopir Bisa Bahasa Mandarin) Dirga Yusa — Awet Muda Banget
 
 ![](https://images.gobaligo.id/images/2026-06/1781362159693-_2026-06-13_21.48.27.png)
 
-👍🏼[Rekomendasi Netizen 1](https://www.facebook.com/share/p/1AspU9bSJ2/) 👍🏼[Rekomendasi Netizen 2](https://www.facebook.com/share/p/1BUyEqjf1C/) 👍🏼[Rekomendasi Netizen 3](https://www.facebook.com/share/p/1F8XpboZz5/) 👍🏼[Rekomendasi Netizen 4](https://www.facebook.com/share/p/1CVXibCifc/) 👍🏼[Rekomendasi Netizen 5](https://www.facebook.com/share/p/16cnSfa37J/) 👍🏼[Rekomendasi Netizen 6](https://www.facebook.com/share/p/14NT4DBz1o4/) 👍🏼[Rekomendasi Netizen 7](https://www.facebook.com/share/p/16wh9a4bF2/) 👍🏼[Rekomendasi Netizen 8](https://www.facebook.com/share/p/1AN3UG2GBq/) 👍🏼[Rekomendasi Netizen 9](https://www.facebook.com/share/p/1B19RExpLc/) 👍🏼[Rekomendasi Netizen 10](https://www.facebook.com/share/p/1CiqAznMmG/) 👍🏼[Rekomendasi Netizen 11](https://www.facebook.com/share/p/18JY9F5fwP/) 👍🏼[Rekomendasi Netizen](https://www.facebook.com/share/p/19T9L7NGPU/)[12](https://www.facebook.com/share/p/19T9L7NGPU/)
+👍🏼[Rekomendasi netizen 1](https://www.facebook.com/share/p/1AspU9bSJ2/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/share/p/1BUyEqjf1C/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/share/p/1F8XpboZz5/) 👍🏼[Rekomendasi netizen 4](https://www.facebook.com/share/p/1CVXibCifc/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/share/p/16cnSfa37J/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/share/p/14NT4DBz1o4/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/share/p/16wh9a4bF2/) 👍🏼[Rekomendasi netizen 8](https://www.facebook.com/share/p/1AN3UG2GBq/) 👍🏼[Rekomendasi netizen 9](https://www.facebook.com/share/p/1B19RExpLc/) 👍🏼[Rekomendasi netizen 10](https://www.facebook.com/share/p/1CiqAznMmG/) 👍🏼[Rekomendasi netizen 11](https://www.facebook.com/share/p/18JY9F5fwP/) 👍🏼[Rekomendasi netizen](https://www.facebook.com/share/p/19T9L7NGPU/)[12](https://www.facebook.com/share/p/19T9L7NGPU/)
 
 ***
 
 <!-- no-shuffle -->
 
-👈 **Kembali ke Panduan Lengkap Liburan ke Bali**
+👈 **Kembali ke Panduan Lengkap Liburan Mandiri ke Bali**
 
-Mau lihat paket lengkap untuk pemula? [Klik di sini untuk baca «Panduan Lengkap Liburan ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat paket lengkap untuk pemula? [Klik di sini untuk baca 「Panduan Lengkap Liburan Mandiri ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
