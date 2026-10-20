@@ -105,6 +105,14 @@ export async function onRequest({ request, next }) {
   // 原本會因為多一個斜線查不到轉址而變 404（2026-09 GSC 報表中有 8 個）。
   // 有對應轉址就直接跳最終目標（只跳一次）；沒有的話再把網址導回正規形式。
   const normalizedPath = pathname.replace(/\/{2,}/g, '/');
+
+  // 分類「旅行技巧」改名為「旅遊專題」：舊的 ?cat=旅行技巧 篩選連結 301 到新分類。
+  // _redirects 無法比對 query string，所以放在這裡。
+  if (url.searchParams.get('cat') === '旅行技巧') {
+    const target = new URL(url);
+    target.searchParams.set('cat', '旅遊專題');
+    return new Response(null, { status: 301, headers: { 'Location': target.toString() } });
+  }
   const redirectTarget =
     redirectMap[normalizedPath] ??
     (normalizedPath.endsWith('/') ? undefined : redirectMap[normalizedPath + '/']) ??
