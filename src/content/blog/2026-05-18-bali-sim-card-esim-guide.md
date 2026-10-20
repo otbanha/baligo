@@ -42,7 +42,8 @@ imageAlt: ''
 originalUrl: ''
 source: ''
 sourceUrl: ''
-updatedDate: 2026-10-19
+updatedDate: 2026-10-21
+contentUpdatedAt: '2026-10-21T07:16:25+08:00'
 ---
 
 ## 30 秒找到你的方案
