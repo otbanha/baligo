@@ -1,10 +1,10 @@
 ---
-title: 巴厘岛 SIM 卡 / eSIM 完整指南（2026 最新）｜机场购买方法、品牌比较、信号实测
+title: 巴厘岛 SIM 卡 / eSIM 完整指南（2026 最新）｜机场购买方法、品牌对比、信号实测
 slug: bali-sim-card-esim-guide
 description: >-
-  巴厘岛网络怎么办？本文比较 Telkomsel、Airalo、Klook eSIM 等主流方案，含机场购买步骤、诈骗警告、各区信号实测与 APN
+  巴厘岛网络怎么办？本文对比 Telkomsel、Airalo、Klook eSIM 等主流方案，含机场购买步骤、诈骗警告、各区信号实测与 APN
   设置教程，30 秒找到最适合你的选择。
-pubDate: 2026-10-21T00:00:00.000Z
+pubDate: 2026-10-01T00:00:00.000Z
 pubHour: 8
 category:
   - 新手指南
@@ -42,9 +42,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg'
 imageAlt: ''
 originalUrl: ''
-updatedDate: 2026-10-19T00:00:00.000Z
+source: ''
+sourceUrl: ''
+updatedDate: 2026-10-21T00:00:00.000Z
+contentUpdatedAt: '2026-10-21T07:16:25+08:00'
 lang: zh-cn
-_srcHash: 005791f52dc2998d2ec9d97ed47da3ce
+_srcHash: e0317201db8ce1c37b2c0dbe1bf8d777
 ---
 
 ## 30 秒找到你的方案
@@ -64,7 +67,7 @@ _srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 
 ***
 
-## 印尼三大电信比较——旅客视角
+## 印尼三大运营商对比——旅客视角
 
 ### Telkomsel（覆盖最广，旅客首选）
 
@@ -82,7 +85,7 @@ _srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 
 ### Indosat Ooredoo / IM3（性价比首选）
 
-价格比Telkomsel便宜30%以上，在库塔、水明漾、沙努等都市旅游区信号完全够用。
+价格比Telkomsel便宜30%以上，在库塔、水明漾、沙努尔等都市旅游区信号完全够用。
 
 - **4G状况：** 主要旅游区正常，但Amed、Munduk等偏远地区会降到3G或无信号
 - **旅客常买方案：** Freedom Internet 方案，IDR 50,000–80,000 含 10–20GB
@@ -92,7 +95,7 @@ _srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 
 在水明漾、库塔的 4G 速度有时超过 Telkomsel，但覆盖边界非常明显。
 
-- **最大问题：** Nusa Penida 信号极差，部分景点完全没信号
+- **最大问题：** Nusa Penida 信号极差，部分景点完全没有信号
 - **不推荐旅客使用的理由：** 信号地图优化集中在城市，稍微离开旅游核心区就不稳定
 - **唯一适合情境：** 只待库塔、水明漾一带、对信号要求高且不去离岛
 
@@ -104,11 +107,11 @@ _srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 
 ### 五大品牌对照表
 
-| 品牌 | 方案示例（印尼） | 热点分享 | 无限流量 | 台湾信用卡 | 中文支持 |
+| 品牌 | 方案示例（印尼） | 热点分享 | 不限流量 | 台湾信用卡 | 中文支持 |
 | --- | --- | --- | --- | --- | --- |
 | **Klook eSIM** | 5天 1GB～10GB | ✅ | 部分方案 | ✅ | ✅ 中文客服 |
 | [**Airalo**](https://airalo.tpm.li/Cad9REL1) | 7天 3GB～10GB | ✅ | ❌ | ✅ | ❌ 英文 |
-| **Holafly** | 按天无限流量 | ❌ 不可分享 | ✅ | ✅ | ❌ 英文 |
+| **Holafly** | 按天不限流量 | ❌ 不可分享 | ✅ | ✅ | ❌ 英文 |
 | [**Saily**](https://saily.tpm.li/6TIuULiA) | 7天 3GB～ | ✅ | ❌ | ✅ | ❌ 英文 |
 | **Nomad** | 30天 10GB～ | ✅ | ❌ | ✅ | ❌ 英文 |
 
@@ -120,21 +123,21 @@ _srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 
 [**Airalo**](https://airalo.tpm.li/Cad9REL1) — 价格最透明、方案最多，但客服全英文。适合有 eSIM 使用经验、习惯英文界面的旅客。印尼卡走 Telkomsel 网络，质量有保障。
 
-**Holafly** — 无限流量方案，适合串流视频需求高的人。**但不能分享热点**，如果有同行伙伴需要共用，这个品牌排除。
+**Holafly** — 不限流量方案，适合对串流视频需求高的人。**但不能分享热点**，如果有同行伙伴需要共用，这个品牌排除。
 
-[**Saily**](https://saily.tpm.li/6TIuULiA)** / Nomad** — 长天数旅行（14–30 天）或多国行程，这两家的长期方案相对划算。
+[**Saily**](https://saily.tpm.li/6TIuULiA)\*\* / Nomad\*\* — 长天数旅行（14–30 天）或多国行程，这两家的长期方案相对划算。
 
 ### 结论推荐
 
 - **首选：Klook eSIM**（中文支持、灵活方案、台湾信用卡）
-- **无限流量需求：Holafly**（但记得不能开热点分享）
-- **长天数预算优先：Airalo 或 Nomad**
+- **不限流量需求：Holafly**（但记得不能开热点分享）
+- **长期预算优先：Airalo 或 Nomad**
 
 📎 [Klook 巴厘岛 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)
 
 ***
 
-## 实体 SIM 卡哪里买——完整攻略
+## 实体SIM卡哪里买——完整攻略
 
 ![實體 SIM 卡哪裡買——完整攻略](https://images.gobaligo.id/images/2026-05/1779240020594-e5c025ea6a97e3839ab39d4ff832db68.jpg)
 
@@ -142,13 +145,13 @@ _srcHash: 005791f52dc2998d2ec9d97ed47da3ce
 
 **最方便，但陷阱最多。**
 
-**位置：** 入境大厅出关后，行李转盘旁边就有 Telkomsel、Indosat 官方摊位，以及大量非官方摊贩。
+**位置：** 入境大厅出关后，行李转盘旁边就有Telkomsel、Indosat官方摊位，以及大量非官方摊贩。
 
 ***
 
 ⚠️ **诈骗警告——这段很重要**
 
-这是 Klook 博客、eSIM 品牌文章不会告诉你的事：
+这是Klook博客、eSIM品牌文章不会告诉你的事：
 
 1. **假「安装费」（installasi fee）**：小贩说要收 IDR 200,000–800,000 的设置费，这是诈骗。官方 SIM 卡插卡自动设置，不需要人工安装费。
 2. **以 "best package for tourist" 话术推销高价方案**：一律婉拒，叫他直接给你 Kartu Perdana（储值卡）标准方案。
@@ -212,7 +215,7 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 **方法一：QR Code 扫描（最常见）**
 
 1. 购买 eSIM 后，从 Klook / Airalo App 获取 QR Code 图片
-2. 手机进入「设置 → 移动服务 → 新增 eSIM」
+2. 手机进入「设置 → 移动网络 → 添加 eSIM」
 3. 选择「使用 QR Code」，扫描画面
 4. 设置「主要 SIM」（台湾号码）和「移动 SIM」（巴厘岛 eSIM），根据需求分别分配语音 / 数据
 
@@ -223,7 +226,7 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 
 **常见错误：**
 
-- _「无法新增移动方案」_：确认手机已解锁且 iOS 版本在 12.1 以上
+- _「无法添加移动方案」_：确认手机已解锁且 iOS 版本在 12.1 以上
 - _eSIM 已安装但没信号_：确认激活码是否已被使用过（每个 QR Code 只能用一次）
 - _截图 QR Code 无法扫描_：用 Klook App 直接显示，不要截图后再扫
 
@@ -231,13 +234,13 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 
 各品牌路径略有差异，以 Samsung 为例：
 
-1. 设置 → 连接 → SIM 卡管理器 → 新增移动方案
+1. 设置 → 连接 → SIM 卡管理器 → 添加移动方案
 2. 扫描 QR Code 或手动输入
 3. 完成后可切换主 SIM 和 eSIM 使用
 
 **注意：** 部分 Android 手机（主要是美国电信版）锁定 eSIM 功能，购买前请先确认。
 
-[查看你的手机是否支持 eSIM ](https://saily.com/zh-tw/esim-supported-devices/)
+[查查你的手机是否支持 eSIM ](https://saily.com/zh-tw/esim-supported-devices/)
 
 ### 实体 SIM 卡换装 + APN 设置
 
@@ -250,7 +253,7 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 | XL Axiata | `internet` | （空白） | （空白） |
 
 **iOS 设置路径：** 设置 → 蜂窝网络 → 蜂窝数据网络 → APN 字段输入
-**Android 设置路径：** 设置 → 连接 → 移动网络 → 接入点名称（APN）→ 新增
+**Android 设置路径：** 设置 → 连接 → 移动网络 → 接入点名称（APN）→ 添加
 
 **常见错误：**
 
@@ -261,9 +264,9 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 
 使用巴厘岛 SIM 上网、保留台湾号码接电话：
 
-1. **台湾 SIM 设置为「语音通话」卡**，关闭台湾卡的移动数据（避免漫游费）
-2. **巴厘岛 SIM 设置为「移动数据」卡**
-3. 若台湾卡有 Wi-Fi 通话功能，可开启让别人打台湾号码时通过 Wi-Fi 接听（完全免费）
+1. **台湾 SIM 设置为「语音通话」卡**，关闭台湾卡的数据流量（避免漫游费）
+2. **巴厘岛 SIM 设置为「数据流量」卡**
+3. 若台湾卡有 Wi-Fi 通话功能，可开启让其他人拨打台湾号码时通过 Wi-Fi 接听（完全免费）
 
 ***
 
@@ -304,24 +307,25 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 
 ### 偏远区域
 
-| 区域 | Telkomsel | Indosat | XL |
-| --- | --- | --- | --- |
-| Amed（东部潜水区） | ⭐⭐⭐ | ⭐⭐ | ⭐ |
-| Munduk（北部山村） | ⭐⭐⭐ | ⭐⭐ | ⭐ |
-| Sidemen（东部山村） | ⭐⭐⭐ | ⭐⭐ | ⭐ |
-| Nusa Penida（离岛） | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ |
-| Nusa Lembongan | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ |
+**关键结论：**
+| 类型 | 推荐 |
+| --- | --- |
+| 信号最稳 | Telkomsel |
+| 最便宜 | Indosat IM3 |
+| 最方便 | Airalo / Holafly |
+| 性价比最高 | 市区官方店买 Telkomsel |
+| 落地即能用 | Klook eSIM |
 
-### 山区 / 特殊地点
+***
 
 | 区域 | Telkomsel | 备注 |
 | --- | --- | --- |
-| 金塔马尼火山口 | ⭐⭐⭐ | 观景台有信号 |
-| 巴杜尔火山步道 | ⭐⭐ | 山顶信号断续 |
-| 伦普扬天堂之门 | ⭐⭐⭐ | 主庙区 OK |
-| 吉利特拉旺安 | ⭐⭐⭐ | 码头强，内陆弱 |
-| 吉利空气岛 | ⭐⭐ | 断续，备用 Wi-Fi |
-| 吉利梅诺 | ⭐ | 几乎无数据 |
+| Kintamani 火山口 | ⭐⭐⭐ | 观景台有信号 |
+| Batur 火山步道 | ⭐⭐ | 山顶信号断续 |
+| Lempuyang 天堂门 | ⭐⭐⭐ | 主庙区 OK |
+| Gili Trawangan | ⭐⭐⭐ | 码头强，内陆弱 |
+| Gili Air | ⭐⭐ | 断续，备用 Wi-Fi |
+| Gili Meno | ⭐ | 几乎无数据 |
 
 **关键结论：**
 
@@ -339,15 +343,15 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 
 **信号突然消失**
 
-- 先确认 APN 设置是否被清除（切换飞行模式再关闭后，APN 有时会重置）
+- 先确认APN设置是否被清除（切换飞行模式再关闭后，APN有时会重置）
 - 拨打 *888# 确认流量余额，若已归零需充值
-- Telkomsel 充值可在 Indomaret 购买 voucher，告诉店员 "isi ulang Telkomsel XXX ribu"
+- Telkomsel充值可在Indomaret购买voucher，告诉店员 "isi ulang Telkomsel XXX ribu"
 
-**eSIM 启用失败**
+**eSIM启用失败**
 
-- 确认安装时网络环境（需要 Wi-Fi 才能下载 eSIM profile）
-- 每个 QR Code 只能安装一次，若手机已换过，需联系 eSIM 品牌客服重新发码
-- Klook eSIM 用户直接在 App 内联系中文客服，通常 1 小时内回复
+- 确认安装时网络环境（需要Wi-Fi才能下载eSIM profile）
+- 每个QR Code只能安装一次，若手机已换过，需联系eSIM品牌客服重新发码
+- Klook eSIM用户直接在App内联系中文客服，通常1小时内回复
 
 **流量用完怎么充值**
 
@@ -379,41 +383,41 @@ Gobaligo 整理了巴厘岛各区 Telkomsel、Indosat、XL 的**官方直营门�
 机场 Telkomsel 和 Indosat 官方摊位有英文服务，用手机翻译 App 也能沟通。只需说出天数和大致用量，摊贩都有处理旅客的经验。但交易时保持警觉，详见本文诈骗警告段落。
 
 **信用卡在网络上买 eSIM 安全吗？**
-Klook、Airalo、Holafly 都是全球知名平台，使用 HTTPS 加密交易，安全性等同于一般网络购物。建议使用有外币无手续费的台币信用卡（如 Richart）购买。
+Klook、Airalo、Holafly 都是全球知名平台，使用 HTTPS 加密交易，安全性等同于一般网络购物。建议使用有外币无手续费的美元信用卡（如 Richart）购买。
 
 **Wi-Fi 分享器跟 SIM 卡哪个划算？**
 行程 5 天以内且 3 人以上同行，Wi-Fi 机除以人头可能便宜。但超过 5 天、或只有 1–2 人，SIM 卡或 eSIM 几乎一定更划算，且不用担心分享器电量问题。[巴厘岛 Wi-Fi 机与 SIM 卡完整比较](/zh-cn/blog/bali-sim-card-esim-roaming-guide/) 请参考另文。
 
 **多人同行，eSIM 划算还是实体 SIM？**
-2 人以内各自买 eSIM 最省事；3 人以上，一张 Telkomsel 实体 SIM 开热点是费用最低的方案（一张 IDR 120,000 分三人只要约 USD$4 左右）。但热点分享会加速电量消耗，需备行动电源。
+2 人以内各自买 eSIM 最省事；3 人以上，一张 Telkomsel 实体 SIM 开热点是费用最低的方案（一张 IDR 120,000 分三人只要 USD$4 左右）。但热点分享会加速电量消耗，需备行动电源。
 
 **飞 Gili Trawangan 还有信号吗？**
-Telkomsel 在 Gili Trawangan 码头附近有 4G 信号，但岛内陆地形信号断续。Gili Air 和 Gili Meno 的信号极弱，几乎不可靠。住宿通常有 Wi-Fi，建议重要通讯改用 Wi-Fi 进行。
+Telkomsel 在 Gili Trawangan 码头附近有 4G 信号，但岛内陆信号断续。Gili Air 和 Gili Meno 的信号极弱，几乎不可靠。住宿通常有 Wi-Fi，建议重要通讯改用 Wi-Fi 进行。
 
 **机场还没过海关，可以装 eSIM 吗？**
 可以。eSIM 安装需要 Wi-Fi，而机场候机室都有免费 Wi-Fi。建议**在台湾出发前**就安装好 eSIM profile，只是设定启用时间让它到达印尼才启用。这样落地开飞行模式关闭台湾 SIM，eSIM 立刻可用。
 
 **护照复印件可以买实体 SIM 卡吗？**
-官方规定需护照正本，但部分摊位接受手机显示的护照照片。建议随身携带护照正本，或在手机相册保存高分辨率护照扫描档备用。
+官方规定需护照正本，但部分摊位接受手机显示的护照照片。建议随身携带护照正本，或在手机相册保存高分辨率护照扫描件备用。
 
 **Telkomsel 和 simPATI 是同一个吗？**
-是的，simPATI 是 Telkomsel 旗下的预付费卡品牌，使用的是完全相同的 Telkomsel 网络基站，信号和覆盖范围没有差异。机场售卖的旅游 SIM 卡多以 simPATI 或 Kartu As 命名，不用特别区分。
+是的，simPATI 是 Telkomsel 旗下的预付费卡品牌，使用的是完全相同的 Telkomsel 网络基站，信号和覆盖范围没有差异。机场售卖的旅游SIM卡多以 simPATI 或 Kartu As 命名，不用特别区分。
 
-**印尼 SIM 卡回台湾后还能用吗？**
-技术上可以用，但费率按印尼电信漫游计算，非常昂贵。回台后请立即切换回台湾 SIM，或关闭印尼 SIM 的移动数据，避免意外账单。
+**印尼SIM卡回台湾后还能用吗？**
+技术上可以用，但费率按印尼电信漫游计算，非常昂贵。回台后请立即切换回台湾SIM卡，或关闭印尼SIM卡的移动数据，避免意外账单。
 
 **流量用完了，还能打电话吗？**
-Telkomsel 和 Indosat 的预付费 SIM 卡，语音通话和短信余额与数据流量是分开计算的。流量归零后，如果你的 SIM 卡有语音余额，仍然可以拨打语音电话（适用于印尼境内本地号码）。
+Telkomsel 和 Indosat 的预付费SIM卡，语音通话和短信余额与数据流量是分开计算的。流量归零后，如果你的SIM卡储值有语音余额，仍然可以拨打语音电话（适用于印尼境内本地号码）。
 
-*
+***
 
 ## 总结与行动指南
 
 **如果你现在要出发：**
 
-1. **5 天以内或不想换卡** → 现在就买 [Klook 巴厘岛 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)，落地前在台湾装好
-2. **7 天以上要实体 SIM** → 到机场 Telkomsel 官方摊位，价格 IDR 80,000–120,000，遇到加价直接换一家
-3. **有其他问题** → 欢迎到 [巴厘岛 Q&A 问答](/ask/) 提问
+1. **5天以内或不想换卡** → 现在就买 [Klook 巴厘岛 SIM/eSIM](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1280819&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520sim)，落地前在台湾装好
+2. **7天以上要实体SIM** → 到机场 Telkomsel 官方摊位，价格 IDR 80,000–120,000，遇到加价直接换一家
+3. **有其他问题** → 欢迎到 [巴厘岛](https://community.gobaligo.id/)[讨论区](https://community.gobaligo.id/)提问
 
 **接下来你可能需要的攻略：**
 
@@ -424,7 +428,7 @@ Telkomsel 和 Indosat 的预付费 SIM 卡，语音通话和短信余额与数�
 
 ***
 
-📍 \*\*[巴厘岛电信商官方门店地图](/map/sim-card/)\*\*——各区 Telkomsel / Indosat / XL 直营门店位置、地址与营业时间一览。
+📍 [巴厘岛电信商官方门店地图](/map/sim-card/)——各区 Telkomsel / Indosat / XL 直营门店位置、地址与营业时间一览。
 
 [2026巴厘岛自由行终极指南｜第一次去巴厘岛必看懒人包](/zh-cn/blog/bali-ultimate-guide-2026/)
 
