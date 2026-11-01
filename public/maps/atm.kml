@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島 ATM 提款機 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-10-01 | 總計 525 台</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-11-01 | 總計 526 台</description>
     <Folder>
       <name>BCA</name>
       <Placemark>
@@ -452,14 +452,7 @@
       <name>Mandiri</name>
       <Placemark>
         <name>Mandiri</name>
-        <description><![CDATA[🏦 Bank Mandiri<br>📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/965106909" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.1733935,-8.7143806,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Mandiri</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/1512969763" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[🏦 Bank Mandiri<br>📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/1512969763" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1690742,-8.6975296,0</coordinates>
         </Point>
@@ -570,10 +563,10 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>mandiri</name>
-        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/3916639975" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Mandiri</name>
+        <description><![CDATA[🏦 Bank Mandiri<br>📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/3916639975" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2299495,-8.802116,0</coordinates>
+          <coordinates>115.2322079,-8.8016402,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -658,13 +651,6 @@
         <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Laksamana oberoi<br><a href="https://www.openstreetmap.org/node/4416036566" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1645321,-8.6828595,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bank Mandiri</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/4445113189" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.170295,-8.7169676,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -928,7 +914,7 @@
       </Placemark>
       <Placemark>
         <name>Bank Mandiri</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11781902645" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Seminyak / Legian<br>💵 Fee: yes<br><a href="https://www.openstreetmap.org/node/11781902645" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1678645,-8.7059983,0</coordinates>
         </Point>
@@ -984,7 +970,7 @@
       </Placemark>
       <Placemark>
         <name>Mandiri</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/13106133136" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[🏦 Bank Mandiri<br>📍 Seminyak / Legian<br>💵 Fee: yes<br><a href="https://www.openstreetmap.org/node/13106133136" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1681851,-8.7279283,0</coordinates>
         </Point>
@@ -1001,6 +987,13 @@
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/14061702832" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2591797,-8.704958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandiri</name>
+        <description><![CDATA[🏦 Bank Mandiri<br>📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/14299725917" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2350791,-8.8019724,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -1197,13 +1190,6 @@
       </Placemark>
       <Placemark>
         <name>BNI</name>
-        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/3916639746" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.2299665,-8.8021127,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>BNI</name>
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3933807987" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2634498,-8.6949412,0</coordinates>
@@ -1256,13 +1242,6 @@
         <description><![CDATA[📍 Ubud<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/4544132793" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2463472,-8.4846135,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>BNI</name>
-        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Imam Bonjol<br><a href="https://www.openstreetmap.org/node/4628959457" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.184872,-8.7012286,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1456,9 +1435,9 @@
       </Placemark>
       <Placemark>
         <name>BNI</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11449117771" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11449120269" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1723821,-8.7102475,0</coordinates>
+          <coordinates>115.1723782,-8.7102362,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1543,6 +1522,20 @@
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/14060398616" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2506181,-8.7044685,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BNI</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>💵 Fee: no<br><a href="https://www.openstreetmap.org/node/14258152202" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1806985,-8.7036515,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BNI ATM Gallery Surya Mart</name>
+        <description><![CDATA[🏦 BNI<br>📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/14311329663" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1693766,-8.6991911,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -2053,6 +2046,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>ATM BRI</name>
+        <description><![CDATA[🏦 Bank Rakyat Indonesia<br>📍 Karangasem (East Bali)<br>🗺️ Jl. Semarapura-Karangasem<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/10941952405" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4527207,-8.4548693,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Atm BRI</name>
         <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/11466666660" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -2169,6 +2169,20 @@
         <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/14087605463" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.3070707,-8.4337323,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BRI</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/14283021756" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1844123,-8.7098542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BRI</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/14283038112" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1742838,-8.6984233,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
@@ -2312,6 +2326,13 @@
         <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/5588422724" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2590684,-8.5065115,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CIMB</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/5658157603" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2309757,-8.8018207,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -2872,6 +2893,13 @@
           <coordinates>115.1799557,-8.7387395,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Maybank</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/14311329662" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1693974,-8.6991883,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>OCBC</name>
@@ -3288,13 +3316,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Commonwealth Bank</name>
-        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/3916639747" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.2302131,-8.8021193,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Panin</name>
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3919736217" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -3596,27 +3617,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Road ends here</name>
-        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/9847519318" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.2064112,-8.5657242,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>No road here for 100m</name>
-        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/9847521918" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.2062699,-8.5660779,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>ATM Bank Commonwealth Legian</name>
-        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/9924591188" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.1690284,-8.6973565,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Bank Syariah Indonesia</name>
         <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/10026233128" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -3712,6 +3712,13 @@
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/12317678009" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.192842,-8.6365052,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSI</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/14299725916" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.235128,-8.8019744,0</coordinates>
         </Point>
       </Placemark>
     </Folder>

@@ -89,20 +89,6 @@
   },
   {
     "type": "node",
-    "id": 965106909,
-    "lat": -8.7143806,
-    "lon": 115.1733935,
-    "tags": {
-      "amenity": "atm",
-      "brand": "Bank Mandiri",
-      "brand:wikidata": "Q806639",
-      "name": "Mandiri",
-      "operator": "Bank Mandiri",
-      "operator:wikidata": "Q806639"
-    }
-  },
-  {
-    "type": "node",
     "id": 965119244,
     "lat": -8.7154722,
     "lon": 115.1739824,
@@ -201,7 +187,11 @@
     "lon": 115.1690742,
     "tags": {
       "amenity": "atm",
-      "name": "Mandiri"
+      "brand": "Bank Mandiri",
+      "brand:wikidata": "Q806639",
+      "name": "Mandiri",
+      "operator": "Bank Mandiri",
+      "operator:wikidata": "Q806639"
     }
   },
   {
@@ -2348,36 +2338,16 @@
   },
   {
     "type": "node",
-    "id": 3916639746,
-    "lat": -8.8021127,
-    "lon": 115.2299665,
-    "tags": {
-      "amenity": "atm",
-      "name": "BNI"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3916639747,
-    "lat": -8.8021193,
-    "lon": 115.2302131,
-    "tags": {
-      "amenity": "atm",
-      "brand": "Commonwealth Bank",
-      "brand:wikidata": "Q285328",
-      "name": "Commonwealth Bank",
-      "operator": "Commonwealth Bank",
-      "operator:wikidata": "Q285328"
-    }
-  },
-  {
-    "type": "node",
     "id": 3916639975,
-    "lat": -8.802116,
-    "lon": 115.2299495,
+    "lat": -8.8016402,
+    "lon": 115.2322079,
     "tags": {
       "amenity": "atm",
-      "name": "mandiri"
+      "brand": "Bank Mandiri",
+      "brand:wikidata": "Q806639",
+      "name": "Mandiri",
+      "operator": "Bank Mandiri",
+      "operator:wikidata": "Q806639"
     }
   },
   {
@@ -3203,19 +3173,6 @@
   },
   {
     "type": "node",
-    "id": 4445113189,
-    "lat": -8.7169676,
-    "lon": 115.170295,
-    "tags": {
-      "amenity": "atm",
-      "brand": "Bank Mandiri",
-      "brand:wikidata": "Q806639",
-      "operator": "Bank Mandiri",
-      "operator:wikidata": "Q806639"
-    }
-  },
-  {
-    "type": "node",
     "id": 4446961434,
     "lat": -8.7368691,
     "lon": 115.1653438,
@@ -3462,24 +3419,6 @@
       "brand:wikidata": "Q12502751",
       "drive_through": "no",
       "name": "Panin Bank"
-    }
-  },
-  {
-    "type": "node",
-    "id": 4628959457,
-    "lat": -8.7012286,
-    "lon": 115.184872,
-    "tags": {
-      "addr:city": "Denpasar",
-      "addr:housenumber": "466A-B",
-      "addr:street": "Jalan Imam Bonjol",
-      "amenity": "bank",
-      "atm": "yes",
-      "branch": "46",
-      "brand": "BNI",
-      "brand:wikidata": "Q2882611",
-      "name": "BNI",
-      "official_name": "Bank Negara Indonesia"
     }
   },
   {
@@ -4168,6 +4107,17 @@
     "tags": {
       "amenity": "atm",
       "operator": "BNI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5658157603,
+    "lat": -8.8018207,
+    "lon": 115.2309757,
+    "tags": {
+      "amenity": "atm",
+      "name": "CIMB",
+      "operator": "CIMB"
     }
   },
   {
@@ -5247,26 +5197,6 @@
   },
   {
     "type": "node",
-    "id": 9847519318,
-    "lat": -8.5657242,
-    "lon": 115.2064112,
-    "tags": {
-      "amenity": "atm",
-      "operator": "Road ends here"
-    }
-  },
-  {
-    "type": "node",
-    "id": 9847521918,
-    "lat": -8.5660779,
-    "lon": 115.2062699,
-    "tags": {
-      "amenity": "atm",
-      "operator": "No road here for 100m"
-    }
-  },
-  {
-    "type": "node",
     "id": 9916534978,
     "lat": -8.6992967,
     "lon": 115.1694558,
@@ -5313,16 +5243,6 @@
     "tags": {
       "amenity": "atm",
       "name": "ATM BCA Alfamart Kerobokan 2"
-    }
-  },
-  {
-    "type": "node",
-    "id": 9924591188,
-    "lat": -8.6973565,
-    "lon": 115.1690284,
-    "tags": {
-      "amenity": "atm",
-      "name": "ATM Bank Commonwealth Legian"
     }
   },
   {
@@ -5637,6 +5557,32 @@
   },
   {
     "type": "node",
+    "id": 10941952405,
+    "lat": -8.4548693,
+    "lon": 115.4527207,
+    "tags": {
+      "addr:country": "ID",
+      "addr:district": "Karangasem",
+      "addr:place": "Sindu Wati",
+      "addr:postcode": "80864",
+      "addr:province": "Bali",
+      "addr:street": "Jl. Semarapura-Karangasem",
+      "addr:subdistrict": "Sidemen",
+      "amenity": "atm",
+      "brand": "BRI",
+      "brand:wikidata": "Q814770",
+      "cash_out": "yes",
+      "currency:IDR": "yes",
+      "drive_through": "no",
+      "name": "ATM BRI",
+      "opening_hours": "24/7",
+      "operator": "Bank Rakyat Indonesia",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes"
+    }
+  },
+  {
+    "type": "node",
     "id": 10996525424,
     "lat": -8.6451628,
     "lon": 115.1139907,
@@ -5765,16 +5711,16 @@
   },
   {
     "type": "node",
-    "id": 11449117771,
-    "lat": -8.7102475,
-    "lon": 115.1723821,
+    "id": 11449120269,
+    "lat": -8.7102362,
+    "lon": 115.1723782,
     "tags": {
-      "amenity": "atm",
+      "amenity": "bank",
+      "atm": "yes",
       "brand": "BNI",
       "brand:wikidata": "Q2882611",
-      "official_name": "Bank Negara Indonesia",
-      "operator": "BNI",
-      "operator:wikidata": "Q2882611"
+      "name": "BNI",
+      "official_name": "Bank Negara Indonesia"
     }
   },
   {
@@ -6009,6 +5955,9 @@
       "amenity": "atm",
       "brand": "Bank Mandiri",
       "brand:wikidata": "Q806639",
+      "charge": "50000",
+      "fee": "yes",
+      "last_checked": "2026-10-07",
       "operator": "Bank Mandiri",
       "operator:wikidata": "Q806639"
     }
@@ -6525,7 +6474,14 @@
     "lon": 115.1681851,
     "tags": {
       "amenity": "atm",
-      "name": "Mandiri"
+      "brand": "Bank Mandiri",
+      "brand:wikidata": "Q806639",
+      "charge": "50000",
+      "fee": "yes",
+      "last_checked": "2026-10-07",
+      "name": "Mandiri",
+      "operator": "Bank Mandiri",
+      "operator:wikidata": "Q806639"
     }
   },
   {
@@ -6652,6 +6608,100 @@
     "tags": {
       "amenity": "atm",
       "name": "ATM BRI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14258152202,
+    "lat": -8.7036515,
+    "lon": 115.1806985,
+    "tags": {
+      "amenity": "atm",
+      "brand": "BNI",
+      "brand:wikidata": "Q2882611",
+      "fee": "no",
+      "last_checked": "2026-10-15",
+      "operator": "BNI",
+      "operator:wikidata": "Q2882611"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14283021756,
+    "lat": -8.7098542,
+    "lon": 115.1844123,
+    "tags": {
+      "amenity": "atm",
+      "brand": "BRI",
+      "brand:wikidata": "Q623042",
+      "operator": "BRI",
+      "operator:wikidata": "Q623042"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14283038112,
+    "lat": -8.6984233,
+    "lon": 115.1742838,
+    "tags": {
+      "amenity": "atm",
+      "brand": "BRI",
+      "brand:wikidata": "Q623042",
+      "operator": "BRI",
+      "operator:wikidata": "Q623042"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14299725916,
+    "lat": -8.8019744,
+    "lon": 115.235128,
+    "tags": {
+      "amenity": "atm",
+      "name": "BSI",
+      "operator": "BSI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14299725917,
+    "lat": -8.8019724,
+    "lon": 115.2350791,
+    "tags": {
+      "amenity": "atm",
+      "brand": "Bank Mandiri",
+      "brand:wikidata": "Q806639",
+      "name": "Mandiri",
+      "operator": "Bank Mandiri",
+      "operator:wikidata": "Q806639"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14311329662,
+    "lat": -8.6991883,
+    "lon": 115.1693974,
+    "tags": {
+      "amenity": "atm",
+      "brand": "Maybank",
+      "brand:wikidata": "Q1364018",
+      "name": "Maybank",
+      "operator": "Maybank",
+      "operator:wikidata": "Q1364018"
+    }
+  },
+  {
+    "type": "node",
+    "id": 14311329663,
+    "lat": -8.6991911,
+    "lon": 115.1693766,
+    "tags": {
+      "amenity": "atm",
+      "brand": "BNI",
+      "brand:wikidata": "Q2882611",
+      "name": "BNI ATM Gallery Surya Mart",
+      "operator": "BNI",
+      "operator:wikidata": "Q2882611"
     }
   }
 ]
