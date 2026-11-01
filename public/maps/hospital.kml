@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島醫院 / 診所 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-10-01 | 總計 215 筆</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-11-01 | 總計 215 筆</description>
     <Folder>
       <name>國際醫院</name>
       <Placemark>
@@ -832,7 +832,7 @@
       </Placemark>
       <Placemark>
         <name>Javanese alternative therapist</name>
-        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>📞 +62 857-3845-0935<br>⏰ Mo-Sa 09:00-20:00<br><a href="https://m.facebook.com/alternatif.healerdewi?ref=bookmarks" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/4456513890" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>📞 +62 857-3845-0935<br>⏰ Mo-Sa 09:00-20:00<br><a href="https://m.facebook.com/alternatif.healerdewi" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/4456513890" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1525384,-8.7997226,0</coordinates>
         </Point>
@@ -1401,7 +1401,7 @@
         <name>Praktik Dr. Ni Wayan Wildayanti</name>
         <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/562639040" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2187758,-8.7993814,0</coordinates>
+          <coordinates>115.2187395,-8.7993367,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
