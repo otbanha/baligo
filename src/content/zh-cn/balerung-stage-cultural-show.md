@@ -1,23 +1,28 @@
 ---
-slug: balerung-stage-cultural-show
 title: 探索巴厘岛的文化瑰宝：Balerung Stage 传统表演体验
+slug: balerung-stage-cultural-show
 description: >-
   如果你想深度体验巴厘岛的传统文化，那么 Balerung Stage
   的表演绝对不容错过！这个位于乌布的传统舞台，每周上演经典的巴厘舞蹈和音乐，让观众有机会感受这座岛屿丰富的文化与艺术遗产。
-pubDate: '2024-09-19'
-updatedDate: 2026-07-25T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_7770545f2196462288a475ec4bedfb3f.jpg'
+pubDate: 2024-09-19T00:00:00.000Z
+pubHour: null
+category:
+  - 美食景點活動
 tags:
   - balerung
   - 峇里島傳統音樂
   - 甘美蘭音樂
   - 峇里島傳統舞蹈
   - legongdance
+heroImage: 'https://images.gobaligo.id/vocus/vocus_7770545f2196462288a475ec4bedfb3f.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/66eb78bafd89780001edcec6'
-category:
-  - 美食景點活動
+source: ''
+sourceUrl: ''
+updatedDate: 2026-11-02T00:00:00.000Z
+contentUpdatedAt: '2026-11-02T17:35:37+08:00'
 lang: zh-cn
-_srcHash: 18bd81aaf2967f9fceb73249aee1648c
+_srcHash: 3d3a21b6b794247949dd2257f87889ab
 ---
 
 ![探索峇里島的文化瑰寶：Balerung Stage 傳統表演體驗](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
@@ -40,7 +45,7 @@ _srcHash: 18bd81aaf2967f9fceb73249aee1648c
 
 ### 适合雨天的室内舞台
 
-Balerung Stage 的室内设计，特别适合在雨季观赏表演。一位观众提到：「当外面下着大雨时，我们在舒适的室内欣赏了一场精彩的表演。」这对于想在雨季拜访巴厘岛的人来说，无疑是一个加分项。
+Balerung Stage 的室内设计，特别适合在雨季观看表演。一位观众提到：「当外面下着大雨时，我们在舒适的室内欣赏了一场精彩的表演。」这对于想在雨季拜访巴厘岛的人来说，无疑是一个加分项。
 
 Balerung Stage专业演出片段：
 
@@ -58,22 +63,4 @@ Balerung Stage专业演出片段：
 
 > 延伸阅读：[「票价为5美元」... 5美元是什么意思？](/zh-cn/blog/bali-budget-tips-k-explained/)
 
-## 注册加入我们的博客
-
-📩 **立即加入「巴厘岛旅游攻略」博客，成为巴厘岛旅游达人！**
-
-![註冊加入我們的網誌](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
-
-**通过免费订阅，你将获得：**
-
-✅最新的巴厘岛新闻，让你第一时间掌握旅游信息  
-
-✅深度攻略，让你的行程既省钱又无忧  
-
-✅独家推荐的私房景点与当地美食地图  
-
-✅在脸书社群里看不到的内容  
-
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
-
-用谷歌或脸书账号即可轻松完成注册！
+##

@@ -6,7 +6,7 @@ slug: bali-drivers-recommendations-2
 description: >-
   Ini halaman kedua dari daftar rekomendasi driver sewa mobil di Bali. Setiap
   link di bawah nama driver bisa diklik untuk cek postingan asli di grup
-  Facebook. Disertai juga info tarif 2026 dan hal-hal yang perlu kamu sampaikan
+  Facebook. Disertai juga info tarif 2026 dan hal-hal yang perlu kamu siapkan
   saat menghubungi driver.
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
@@ -27,16 +27,16 @@ contentUpdatedAt: '2026-11-01T10:35:00+08:00'
 updatedDate: 2026-11-01T00:00:00.000Z
 lang: id
 _srcHash: PENDING_RETRY_21d709b47cc5b0c3ad6923c0982d1fd3
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 
-**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi 20+ **driver** dan **258 cerita perjalanan** yang diposting langsung oleh anggota grup di Facebook. Deretan angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
+**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi 20+ **driver** dan **258 pengalaman naik** yang dibagikan langsung oleh anggota grup di Facebook. Angka-angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
 
 Tarif sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan lintas zona, tarif lembur, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
 
-> Saat menghubungi driver, tolong sampaikan sekaligus: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & turun, tempat wisata yang mau dikunjungi**. Tanyakan juga total harga termasuk biaya lintas zona. ⚠️ Untuk Line, ID tidak bisa dipakai add friend lintas zona — harus **scan QR Code**.
+> Saat menghubungi driver, tolong jelaskan sekaligus: **tanggal, berapa hari, jumlah orang & bagasi, lokasi jemput & antar, tempat wisata yang mau dikunjungi**. Juga tanyakan total harga termasuk biaya lintas zona. ⚠️ Untuk Line, ID tidak bisa dipakai di luar zona — harus **scan QR Code**.
 
-**👉 Masih ada 24 driver lain (termasuk 9 driver berbahasa Mandarin) di halaman pertama:** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
+**👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
 
 ## Daftar 20+ Driver di Halaman Ini
 
@@ -158,7 +158,7 @@ Urutan **bukan peringkat**,
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍 **5 rekomendasi langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍 **5 testimoni langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
