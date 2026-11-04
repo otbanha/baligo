@@ -17,7 +17,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-11-01T10:35:00+08:00'
+contentUpdatedAt: 2026-11-01T10:35:00+08:00
 updatedDate: 2026-11-01
 ---
 
@@ -39,7 +39,7 @@ updatedDate: 2026-11-01
 
 ![Jimmi Liu 吉米劉](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[網友推薦2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1ERGJqTW86/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/183DMoePq4/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[網友推薦2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1ERGJqTW86/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/183DMoePq4/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CBr6tG2mu/)
 
 ## Betty Pinsky & 小吳
 
