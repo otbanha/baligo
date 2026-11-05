@@ -137,13 +137,13 @@ img {
 }
 
 blockquote {
-  border-left: 4px solid var(--gold);
-  padding: 0.5em 0 0.5em 1.2em;
+  border: 1px dashed #9ca3af;
+  padding: 0.8em 1.2em;
   margin: 1.5em 0;
   font-size: 1.05em;
   color: var(--ocean-light);
-  background: rgba(201, 168, 76, 0.06);
-  border-radius: 0 8px 8px 0;
+  background: #eaf4fd;
+  border-radius: 12px;
   /* 訂房按鈕多半住在 blockquote 裡，換行時需要垂直間距才不會黏成一團 */
   line-height: 1.9;
 }
