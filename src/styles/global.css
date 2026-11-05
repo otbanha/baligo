@@ -213,21 +213,21 @@ h5 { font-size: 1em; }
 
 /* 第一層：內文 inline 連結基礎樣式 */
 .prose a {
-  color: #c2410c;
+  color: #2563eb;
   text-decoration: underline;
   text-decoration-thickness: 1.5px;
-  text-decoration-color: rgba(194, 65, 12, 0.4);
+  text-decoration-color: rgba(37, 99, 235, 0.4);
   text-underline-offset: 3px;
   font-weight: 500;
   transition: color 0.15s ease, background-color 0.15s ease, text-decoration-color 0.15s ease;
 }
 .prose a:hover {
-  color: #9a3412;
-  text-decoration-color: #9a3412;
-  background-color: rgba(254, 215, 170, 0.4);
+  color: #1e3a8a;
+  text-decoration-color: #1e3a8a;
+  background-color: rgba(147, 197, 253, 0.3);
 }
 .prose a:visited {
-  color: #7c2d12;
+  color: #1d4ed8;
 }
 
 /* 第二層：聯盟連結按鈕化（Agoda / Trip.com / Booking）
@@ -242,7 +242,7 @@ h5 { font-size: 1em; }
 .prose a[href*="booking.tpm.li"] {
   display: inline-block;
   padding: 4px 12px;
-  background-color: #ea580c;
+  background-color: #2563eb;
   color: white;
   text-decoration: none;
   border-radius: 6px;
@@ -258,7 +258,7 @@ h5 { font-size: 1em; }
 .prose a[href*="booking.tpm.li"]:hover {
   color: white;
   text-decoration: none;
-  background-color: #c2410c;
+  background-color: #1e40af;
   transform: translateY(-1px);
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
 }
@@ -274,16 +274,16 @@ h5 { font-size: 1em; }
 .prose a[href*="trip.com"]:visited,
 .prose a[href*="booking.com"]:visited,
 .prose a[href*="booking.tpm.li"]:visited {
-  background-color: #fdba74;
-  color: #7c2d12;
+  background-color: #93c5fd;
+  color: #1e3a8a;
 }
 
 /* KKday 專屬：淡黃色按鈕（Klook 改用第一層一般連結樣式） */
 .prose a[href*="kkday.com"] {
   display: inline-block;
   padding: 4px 12px;
-  background-color: #fef9c3;
-  color: #713f12;
+  background-color: #2563eb;
+  color: white;
   text-decoration: none;
   border-radius: 6px;
   font-weight: 600;
@@ -293,15 +293,15 @@ h5 { font-size: 1em; }
   transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
 }
 .prose a[href*="kkday.com"]:hover {
-  background-color: #fef08a;
-  color: #713f12;
+  background-color: #1e40af;
+  color: white;
   text-decoration: none;
   transform: translateY(-1px);
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
 }
 .prose a[href*="kkday.com"]:visited {
-  background-color: #fdf6b2;
-  color: #a16207;
+  background-color: #93c5fd;
+  color: #1e3a8a;
 }
 
 /* 手機觸控目標。實測 375px 下原本只有 35px，低於 44px 觸控標準，
