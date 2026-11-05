@@ -17,7 +17,7 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-11-04T08:41:43+08:00'
+contentUpdatedAt: 2026-11-04T08:41:43+08:00
 updatedDate: 2026-11-04
 ---
 
@@ -105,7 +105,7 @@ updatedDate: 2026-11-04
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19aDki14Zu/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19aDki14Zu/)[ ](https://www.facebook.com/share/p/14rYvw4atCQ/)👍🏼[網友推薦15](https://www.facebook.com/share/p/14rYvw4atCQ/)
 
 ## Iwayan Suantara 康哥
 
