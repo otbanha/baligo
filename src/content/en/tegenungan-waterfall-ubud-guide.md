@@ -3,7 +3,7 @@ slug: tegenungan-waterfall-ubud-guide
 title: >-
   Bali Travel Diary｜The Hidden Secrets of Bali's Waterfalls You Never Knew!｜Ubud
   Attractions with a Local Guide – Enjoy Waterfalls Without Tired Legs｜The
-  Closest Waterfall to Ubud: Tegenungan Waterfall (繁/简/Eng Sub)
+  Closest Waterfall to Ubud: Tegenungan Waterfall (Eng Sub)
 description: >-
   Tegenungan Waterfall, a Ubud attraction, is the closest natural waterfall to
   Ubud city center. Although it's only a 25-minute drive away, the steep

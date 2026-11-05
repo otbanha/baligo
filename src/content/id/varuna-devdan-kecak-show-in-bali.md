@@ -8,7 +8,7 @@ description: >-
   Malam ajaib yang menerangi Pulau Dewata! Panduan lengkap empat pertunjukan
   spektakuler wajib ditonton di Bali tahun 2026. Simak selengkapnya: pertunjukan
   bawah air magis Varuna yang pertama di Indonesia, pertunjukan panggung Devdan
-  dengan akrobat高空 yang mendebarkan, serta Kecak Fire Dance tradisional seratus
+  dengan akrobat ketinggian yang mendebarkan, serta Kecak Fire Dance tradisional seratus
   orang di tebing Uluwatu, dan Barong Dance yang megah. Dilengkapi panduan
   bertahan untuk orang tua yang tidak ingin repot, anak-anak yang ingin bermain,
   dan cara menghindari penipuan saat musim ramai!

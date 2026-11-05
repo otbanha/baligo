@@ -1,6 +1,6 @@
 ---
 title: >-
-  【2026 Bali景点】Jangan cari-cari daftar wajib kunjung lagi! Buka rumus itinerary
+  【Tempat Wisata Bali 2026】Jangan cari-cari daftar wajib kunjung lagi! Buka rumus itinerary
   pribadimu dan hidden gem versi rahasia
 slug: bali-hidden-gems-travel-formula
 description: >-

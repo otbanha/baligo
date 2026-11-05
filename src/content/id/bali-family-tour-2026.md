@@ -9,7 +9,7 @@ description: >-
   terbatas 2026-2027 sudah dimulai! Mulai USD$769 per orang, nikmati menginap di
   hotel taman safari dan villa bintang di Ubud. Perjalanan mencakup Pura Ulun
   Danu Beratan, sawah terasering warisan dunia, tanpa biaya tambahan dan tanpa
-  toko oleh-oleh. Direncanakan oleh ahli lokal, kasih anak-anak pengalaman震撼
+  toko oleh-oleh. Direncanakan oleh ahli lokal, kasih anak-anak pengalaman yang berkesan
   dengan laut dan hewan, kasih kamu liburan penyembuhan paling santai.
 pubDate: 2026-03-29T00:00:00.000Z
 pubHour: null

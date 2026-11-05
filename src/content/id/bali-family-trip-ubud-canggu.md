@@ -3,7 +3,7 @@ title: 'Rekomendasi Trip 6 Hari 5 Malam Liburan Keluarga ke Bali: Dari Ubud ke C
 slug: bali-family-trip-ubud-canggu
 description: >-
   Liburan keluarga ke Bali kali ini, kami berangkat dengan penuh semangat,
-  menjelajahi nuansa budaya Ubud, menikmati waktu santai di Canggu, kemewahan时尚
+  menjelajahi nuansa budaya Ubud, menikmati waktu santai di Canggu, kemewahan yang modis
   Seminyak, dan mencicipi jajanan lezat di pasar malam lokal. Mulai dari
   kedatangan penerbangan red-eye, keluarga kami langsung terpesona oleh pesona
   Bali. Catatan perjalanan ini akan membawamu menyusuri itinerary 6 hari 5 malam

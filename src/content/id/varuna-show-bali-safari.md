@@ -6,7 +6,7 @@ title: >-
 description: >-
   Pertunjukan kelas internasional wajib tonton kalau bawa anak ke Bali! Bahas
   tuntas proses masuk Varuna Show yang ada di Gianyar. Rangkum jadwal
-  pertunjukan teater bawah air, plus kombinasi行程 sempurna dengan petualangan
+  pertunjukan teater bawah air, plus kombinasi itinerary sempurna dengan petualangan
   darat Bali Safari. Kasih tips nonton bareng anak dan detail makan di dalam
   taman, biar liburan keluarga kamu makin bermakna dan penuh kejutan sensori.
 pubDate: 2025-06-08T00:00:00.000Z

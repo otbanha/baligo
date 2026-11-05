@@ -1,6 +1,6 @@
 ---
 title: >-
-  【Bali景点】Panduan Lengkap Pura Uluwatu & Tebing Cinta: Cara Dapat Tiket Tari
+  【Tempat Wisata Bali】Panduan Lengkap Pura Uluwatu & Tebing Cinta: Cara Dapat Tiket Tari
   Kecak Api, Cari Spot Sunset, & Hindari Monyet Liar
 slug: uluwatu-temple-travel-guide
 description: >-

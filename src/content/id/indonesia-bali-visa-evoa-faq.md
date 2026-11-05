@@ -5,7 +5,7 @@ description: >-
   Buat kamu yang mau masuk, jalan-jalan, dan berkunjung ke Indonesia, masih ada
   beberapa detail yang perlu diperhatikan. Di bawah ini kami rangkum
   pertanyaan-pertanyaan umum dari anggota grup Facebook
-  '[Bali/Indonesia吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide/)'
+  '[Bali/Indonesia Travel Guide](https://www.facebook.com/groups/indonesia.travelguide/)'
   yang udah apply langsung — biar kamu makin paham soal perjalanan dan visa.
 pubDate: '2023-01-13'
 updatedDate: 2026-07-10T00:00:00.000Z

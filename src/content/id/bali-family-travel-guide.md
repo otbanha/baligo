@@ -1,5 +1,5 @@
 ---
-title: 【2026 峇里島親子遊】100+ 親子友善景點與活動大全：帶小孩玩遍全島最強攻略
+title: '【Wisata Keluarga Bali 2026】100+ Tempat Wisata & Aktivitas Ramah Anak: Panduan Terlengkap Jalan-Jalan Bareng Anak di Seluruh Pulau'
 slug: bali-family-travel-guide
 description: >-
   Mau liburan keluarga ke Bali? Artikel ini udah ngumpulin lebih dari 100

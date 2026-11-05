@@ -1,6 +1,6 @@
 ---
 slug: ubud-coffee-rice-terrace-tour
-title: 烏布一日深度遊｜貓屎咖啡體驗×絕美梯田打卡×震撼火舞秀｜避雷攻略＆私房路線全分享！
+title: Ubud Sehari Penuh｜Kopi Luwak × Terasering Tegallalang × Pertunjukan Tari Api｜Tips Anti Zonk & Rute Rahasia
 description: >-
   Dari cahaya pagi di Terasering Tegallalang, sampai kucing luwak yang menguap
   malas di perkebunan kopi; dari hujan deras yang memaksamu berteduh di festival

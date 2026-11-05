@@ -1,6 +1,6 @@
 ---
 title: >-
-  【2026 住宿 Bali】Baru Buka Langsung Menang! Intip Hotel Baru Terbaik Indonesia:
+  【Akomodasi Bali 2026】Baru Buka Langsung Menang! Intip Hotel Baru Terbaik Indonesia:
   Pemandangan Pantai Super Indah, Desain Mewah Berkelanjutan Lengkap Dibongkar
 slug: ''
 description: >-

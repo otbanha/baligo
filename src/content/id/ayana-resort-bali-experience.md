@@ -1,7 +1,7 @@
 ---
 title: Pengalaman Menginap di Ayana Resort Bali - Surga Liburan yang Bikin Betah
 slug: ayana-resort-bali-experience
-description: '峇里島的Ayana度假村是一個極其受歡迎的峇里島住宿點。YouTuber 設計師不累designer play發佈的視頻,帶觀眾認識他在這裡的精彩體驗。'
+description: 'Ayana Resort Bali adalah salah satu tempat menginap paling populer di Bali. Lewat video YouTuber designer play, simak pengalaman menginapnya di resort tepi tebing ini — mulai dari kamar, pantai privat, sampai fasilitasnya.'
 pubDate: 2024-04-10T00:00:00.000Z
 updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null

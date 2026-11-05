@@ -1,7 +1,7 @@
 ---
 slug: kanto-lampo-waterfall-ig-spot
 title: >-
-  Mau foto瀑布 di Bali yang kece abis? Jangan sampai skip Kanto Lampo
+  Mau foto air terjun di Bali yang kece abis? Jangan sampai skip Kanto Lampo
   Waterfall!｜Air terjun hits di IG Ubud｜Gimana cara milih salak yang
   manis?｜Jangan lupa tonton sampai akhir, ada tips & trik rahasia!
 description: >-

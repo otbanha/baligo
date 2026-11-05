@@ -5,6 +5,7 @@ import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import { SITE_URL } from '../../consts';
+import { enhancedTitle, enhancedDescription } from '../../utils/seo-keywords';
 
 export async function getStaticPaths() {
   const allQA = await getCollection('qa');
@@ -16,6 +17,14 @@ export async function getStaticPaths() {
 
 const { q } = Astro.props;
 const { Content } = await render(q);
+
+// 問答頁的標題原本是「問題全文 — 峇里島求救箱 | Go Bali Go」，問題本身就是一個句子，
+// 在 SERP 幾乎必被截斷（2026-11 量測：/ask/ 的標題視覺寬度 70～74，預算是 64）。
+// 走同一套 SERP 長度控制，描述也一併處理。
+const metaTitle = enhancedTitle(`${q.data.title} — 峇里島求救箱`, [], 'zh-tw');
+const metaDesc = enhancedDescription(
+  `峇里島旅遊問答：${q.data.title}。實用解答，幫你規劃順利的峇里島旅程。`, [], 'zh-tw',
+);
 
 const qaCategoryMap: Record<string, { label: string; icon: string; blogCat: string }> = {
   entry:         { label: '入境 / 簽證',  icon: '🛂', blogCat: '簽證通關' },
@@ -51,8 +60,8 @@ const faqSchema = {
 
 <html lang="zh-TW">
 <head>
-  <BaseHead title={`${q.data.title} — 峇里島求救箱`} description={`峇里島旅遊問答：${q.data.title}。實用解答，幫你規劃無障礙的峇里島旅程。`} />
-  <meta property="og:title" content={`${q.data.title} — 峇里島求救箱`} />
+  <BaseHead title={metaTitle} description={metaDesc} noSuffix={true} />
+  <meta property="og:title" content={metaTitle} />
   <meta property="og:url" content={`${SITE_URL}/ask/${q.id}/`} />
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 </head>

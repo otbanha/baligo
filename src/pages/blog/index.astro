@@ -334,7 +334,6 @@ const socialLinks = [
     ]
   })} />
   <!-- 新手指南分類 schema（JS 動態注入） -->
-  <script type="application/ld+json" id="newbie-schema-slot"></script>
 </head>
 <body>
   <Header />
@@ -540,7 +539,7 @@ const socialLinks = [
 
       <!-- 分類大標題 -->
       <div id="cat-heading" style="display:none">
-        <h1 id="cat-heading-text" class="cat-heading-title"></h1>
+        <h2 id="cat-heading-text" class="cat-heading-title"></h2>
       </div>
 
       <!-- 住宿推薦分類：Travelpayouts 飯店搜尋內容小工具（JS 控制顯示，切到此分類時才動態載入 script，避免容器 display:none 時初始化失敗） -->
@@ -966,8 +965,18 @@ const socialLinks = [
           document.querySelector('meta[property="og:description"]')?.setAttribute('content', NEWBIE_DESC);
           document.querySelector('link[rel="canonical"]')?.setAttribute('href', NEWBIE_CANONICAL);
 
-          const schemaSlot = document.getElementById('newbie-schema-slot');
-          if (schemaSlot && !schemaSlot.textContent) {
+          // 這段 schema 只在「新手指南」分類檢視下才有意義，所以 script 元素是
+          // 這裡才建出來的。原本在 head 放一個空的 application/ld+json script 標籤
+          // 等 JS 填，但空的 ld+json 區塊本身就是 Search Console 的結構化資料
+          // 解析錯誤（每個語系的 /blog/ 都中一次），所以改成需要時才插入。
+          let schemaSlot = document.getElementById('newbie-schema-slot');
+          if (!schemaSlot) {
+            schemaSlot = document.createElement('script');
+            schemaSlot.type = 'application/ld+json';
+            schemaSlot.id = 'newbie-schema-slot';
+            document.head.appendChild(schemaSlot);
+          }
+          if (!schemaSlot.textContent) {
             schemaSlot.textContent = JSON.stringify({
               "@context": "https://schema.org",
               "@type": "ItemList",

@@ -35,6 +35,15 @@ const categories = [
 const getCatName = (slug: string) => catLabel(L, slug);
 const catUrl = (slug: string) => `${blogBase}/category/${encodeURIComponent(catUrlSlug(L, slug))}/`;
 
+// 關於／編輯部頁：E-E-A-T 實體頁原本只有文章 byline 連過去，頁尾沒有，
+// 從首頁、分類頁、工具頁都走不到。各語言各有自己的 /about/。
+const aboutUrl = (lang === 'en' || lang === 'zh-cn' || lang === 'zh-hk' || lang === 'id')
+  ? `/${lang}/about/` : '/about/';
+const aboutLabel = lang === 'en' ? 'About us' :
+                   lang === 'zh-cn' ? '关于我们' :
+                   lang === 'id' ? 'Tentang kami' :
+                   lang === 'zh-hk' ? '關於我們' : '關於我們';
+
 // 峇里島新聞 hub：全站僅有繁中版一個 /news/，各語系 footer 皆連向同一網址以集中內部連結
 const newsLabel = lang === 'en' ? 'Bali News' :
                   lang === 'zh-cn' ? '巴厘岛新闻' :
@@ -91,6 +100,7 @@ const fireBannerUrl = lang === 'en' ? '/en/tickets/' :
       <h4>{catTitle}</h4>
       <ul>
         <li><a href="/news/">{newsLabel}</a></li>
+        <li><a href={aboutUrl} rel="author">{aboutLabel}</a></li>
         {categories.map(c => (
           <li><a href={catUrl(c.slug)}>{getCatName(c.slug)}</a></li>
         ))}

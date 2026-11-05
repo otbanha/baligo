@@ -1,7 +1,7 @@
 ---
 slug: nyepi-day-bali-guide-2026
 title: >-
-  【攻略Hari Raya Nyepi】2026 Nyepi Day di Bali｜Yang Perlu Kamu Tahu soal Pawai
+  【Panduan Hari Raya Nyepi】2026 Nyepi Day di Bali｜Yang Perlu Kamu Tahu soal Pawai
   Ogoh-ogoh
 description: >-
   Hari Raya Nyepi di Bali, ini salah satu hari raya paling unik dan sakral di

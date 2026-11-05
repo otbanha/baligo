@@ -9,7 +9,7 @@ description: >-
   persis di samping Eat Street yang terkenal, begitu keluar langsung nemu
   restoran hits, pas di dalam ada kolam renang pribadi bergaya tradisional Bali.
   Bahas tuntas desain 1-2 kamar yang cocok buat keluarga, privasi super tinggi,
-  dan review terbaru tahun 2026. Cari spot slow living南洋 paling worth it di
+  dan review terbaru tahun 2026. Cari spot slow living bernuansa tropis paling worth it di
   tengah keramaian.
 pubDate: 2026-04-20T00:00:00.000Z
 updatedDate: 2026-07-20T00:00:00.000Z

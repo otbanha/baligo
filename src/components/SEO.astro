@@ -21,7 +21,7 @@
 import { readFileSync, existsSync } from 'fs';
 import { enhancedTitle, enhancedDescription, applyHkSubs } from '../utils/seo-keywords';
 import { getMapSlugByBlogUrl } from '../data/mapBlogMapping';
-import { AUTHOR_ORG } from '../data/author';
+import { authorOrgFor } from '../data/author';
 
 interface Props {
   title: string;
@@ -71,8 +71,16 @@ const ogImage = (typeof heroImage === 'string' && heroImage.startsWith('http'))
 const pubIso  = pubDate     ? new Date(pubDate).toISOString()     : undefined;
 const modIso  = updatedDate ? new Date(updatedDate).toISOString() : pubIso;
 
-// H2 headings for step-based schemas
-const h2s = headings.filter(h => h.depth === 2);
+// H2 headings for step-based schemas。
+// rehype-demote-h1 把內文開頭重複的 H1 降成 H2（見該檔說明），所以這裡要把
+// 「和文章標題同一句」的那個標題排掉，否則它會變成 HowTo 的第一個步驟、
+// TouristDestination 的第一個景點，或 FAQ 的第一個問題。
+const normalizeHeading = (s: string) =>
+  s.replace(/\s+/g, '').replace(/[！！?？。．，、：；｜|~～\-—–]/gu, '').toLowerCase();
+const titleKey = normalizeHeading(title ?? '');
+const h2s = headings.filter(
+  h => h.depth === 2 && (!titleKey || normalizeHeading(h.text ?? '') !== titleKey),
+);
 
 // ── Markdown answer extraction (for FAQPage) ─────────────────────────────────
 // 擷取每個 H2 底下的第一個內容區塊（段落或清單）作為 FAQ 的真實答案，
@@ -181,7 +189,7 @@ const schemaArticle = {
   "datePublished": pubIso,
   "dateModified": modIso,
   "inLanguage": lang === 'en' ? 'en' : lang === 'id' ? 'id' : lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : 'zh-TW',
-  "author": AUTHOR_ORG,
+  "author": authorOrgFor(lang),
   "publisher": {
     "@type": "Organization",
     "name": "Go Bali Go 峇里島旅遊攻略",

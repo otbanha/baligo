@@ -7,7 +7,7 @@ description: >-
   Bali nggak cuma soal pantai dan pura yang kece, tapi juga punya banyak
   aktivitas seru yang bikin kamu surprise. Kali ini keluarga kami nyobain
   pengalaman River Tubing di Nukuwera & Pandawa — petualangan arus sungai dalam
-  goa. Ini beneran jadi salah satu highlight paling难忘 dari trip keluarga 6 hari
+  goa. Ini beneran jadi salah satu highlight paling tak terlupakan dari trip keluarga 6 hari
   5 malam kami di Bali. Beda sama arung jeram biasa, river tubing ini gabungin
   eksplorasi sejarah sama petualangan air, jadi semua anggota keluarga dari
   kecil sampai dewasa bisa ikut dengan aman dan seru.

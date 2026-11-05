@@ -4,7 +4,7 @@ title: >-
   Kamu Coba
 slug: raffles-bali-luxury-review
 description: >-
-  Eksplorasi Hidden Gem di Teluk Jimbaran!攻略 Lengkap Raffles Bali 2026. Kupas
+  Eksplorasi Hidden Gem di Teluk Jimbaran! Panduan Lengkap Raffles Bali 2026. Kupas
   tuntas kenapa Rumari dinobatkan sebagai restoran terbaik, plus cara menikmati
   dinner romantis di bawah bintang-bintang di pantai pribadi. Lengkap dengan
   tips reservasi restoran, info antar-jemput hotel, dan pengalaman eksklusif

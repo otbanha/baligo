@@ -3,7 +3,7 @@ slug: tegenungan-waterfall-ubud-guide
 title: >-
   Bali Travel Diary｜Rahasia Air Terjun Bali yang Jarang Diketahui!｜Jalan-Jalan
   Bareng Local Guide ke Air Terjun Ubud, Gak Capek Naik Turun｜Air Terjun
-  Terdekat dari Ubud: Tegenungan Waterfall (繁/简/Eng Sub)
+  Terdekat dari Ubud: Tegenungan Waterfall (Eng Sub)
 description: >-
   Air Terjun Tegenungan, salah satu destinasi di Ubud, Bali, adalah air terjun
   alami terdekat dari pusat kota Ubud. Meski cuma 25 menit naik mobil, tangga

@@ -33,3 +33,27 @@ export const AUTHOR_ORG = {
   description: AUTHOR.description,
   sameAs: AUTHOR.sameAs,
 } as const;
+
+/**
+ * 文章 JSON-LD 的 author：名稱與介紹依語言輸出，@id / sameAs 五個語言共用一個
+ * （Google 才會把它們當同一個實體合併，而不是五個不同的作者）。
+ * 文案來源與各語言 /about/ 頁同一份：src/data/about-i18n.ts。
+ */
+import { ABOUT_COPY, type AboutLang } from './about-i18n';
+
+export function authorOrgFor(lang?: string) {
+  const key: AboutLang =
+    lang === 'en' ? 'en' :
+    lang === 'id' ? 'id' :
+    lang === 'zh-cn' ? 'zh-cn' :
+    lang === 'zh-hk' ? 'zh-hk' : 'zh-tw';
+  const c = ABOUT_COPY[key];
+  return {
+    '@type': 'Organization',
+    '@id': AUTHOR.id,
+    name: c.orgName,
+    url: key === 'zh-tw' ? AUTHOR.url : `https://gobaligo.id/${key}/about/`,
+    description: c.orgDescription,
+    sameAs: AUTHOR.sameAs,
+  };
+}

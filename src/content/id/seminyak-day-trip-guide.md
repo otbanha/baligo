@@ -1,7 +1,7 @@
 ---
 slug: seminyak-day-trip-guide
 title: >-
-  【2026 Seminyak一日遊】Bali paling kece攻略: dari brunch estetik, belanja barang
+  【Seminyak Sehari 2026】Panduan Bali paling kece: dari brunch estetik, belanja barang
   branded, sampai sunset mewah di pinggir laut
 description: >-
   Mau liburan ke Seminyak, Bali? Ini dia itinerary lengkap dari sunrise sampai

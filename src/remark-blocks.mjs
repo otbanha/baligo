@@ -107,10 +107,26 @@ export function remarkBlocks(embedMap = {}) {
         .replace(/^(?!<[hpuolia])(.+)$/mg, '<p>$1</p>');
     }
 
+    // /tools/ 底下的互動工具有各語言版本的靜態檔，iframe 的 src 要跟著換。
+    // 區塊內容是 AI 從繁中翻的，HTML 原樣保留，所以每個語言的區塊檔裡都還是
+    // 指向繁中版的 quiz——英文／印尼文讀者在 /en/blog/bali-transport-quiz/
+    // 看到的是一個全中文的測驗。在這裡換掉才不會被下次重新翻譯蓋回去。
+    // 印尼文還沒有自己的版本，先用英文版（總比中文版好）。
+    const TOOL_LANG_SUFFIX = { en: '-en', id: '-en', 'zh-cn': '-zh-cn', 'zh-hk': '-zh-hk' };
+
+    function rewriteToolSrc(html) {
+      const suffix = TOOL_LANG_SUFFIX[lang];
+      if (!suffix) return html;
+      return html.replace(
+        /(["'])\/tools\/([a-z0-9-]+?)\.html(["'#?])/gi,
+        (m, q1, name, q2) => (/-(en|zh-cn|zh-hk|id)$/.test(name) ? m : `${q1}/tools/${name}${suffix}.html${q2}`),
+      );
+    }
+
     // Rewrite /blog/ links to language-specific path for translated pages
     function rewriteLinks(html) {
       if (lang === 'default') return html;
-      return html
+      return rewriteToolSrc(html)
         .replace(/href="\/blog\//g, `href="/${lang}/blog/`)
         .replace(/href="https:\/\/gobaligo\.id\/blog\//g, `href="https://gobaligo.id/${lang}/blog/`);
     }
@@ -124,7 +140,7 @@ export function remarkBlocks(embedMap = {}) {
       }
 
       if (block.type === 'html') {
-        return block.content;
+        return rewriteToolSrc(block.content);
       }
 
       if (block.type === 'random-cards' || block.type === 'random-list') {

@@ -28,6 +28,9 @@ const categories = Array.from(allCats).sort();
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>文章索引 — gobaligo</title>
+  <!-- 內部用的全文章連結清單（已排除在 sitemap 外）：純連結頁沒有排名價值，
+       又會跟真正的分類頁搶同一批關鍵字，所以 noindex 但保留 follow 讓爬蟲沿著連結走。 -->
+  <meta name="robots" content="noindex,follow" />
   <style>
     body { font-family: sans-serif; padding: 1.5rem; max-width: 960px; margin: 0 auto; color: #1a1a1a; }
     h1 { font-size: 1.3rem; margin-bottom: 0.5rem; }

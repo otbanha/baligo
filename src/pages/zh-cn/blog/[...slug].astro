@@ -39,15 +39,18 @@ export async function getStaticPaths() {
   for (const blogPost of blogPosts) {
     const slug = blogPost.data.slug || blogPost.id;
     usedSlugs.add(slug);
-    const post = langMapBySlug.get(slug) ?? blogPost;
-    paths.push({ params: { slug }, props: { post } });
+    // 找不到該語言的翻譯時會退回繁中原文。這種頁面是整篇中文的複製頁，
+    // BlogPost 收到 untranslated 就會輸出 noindex,follow（翻譯進來後自動恢復）。
+    const translated = langMapBySlug.get(slug);
+    const post = translated ?? blogPost;
+    paths.push({ params: { slug }, props: { post, untranslated: !translated } });
   }
 
   // Add entries from zh-cn collection that don't have a blog version (by slug)
   for (const langPost of langPosts) {
     const slug = langPost.data.slug || langPost.id;
     if (!usedSlugs.has(slug)) {
-      paths.push({ params: { slug }, props: { post: langPost } });
+      paths.push({ params: { slug }, props: { post: langPost, untranslated: false } });
     }
   }
 
@@ -56,7 +59,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { post } = Astro.props;
+const { post, untranslated } = Astro.props;
 const { Content, headings } = await render(post as any);
 
 const blogDir = join(process.cwd(), 'src/content/blog');
@@ -82,6 +85,6 @@ rawEmbeds.forEach((e: any) => {
 });
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="zh-cn" slug={post.id}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} untranslated={untranslated} lang="zh-cn" slug={post.id}>
   <Content />
 </BlogPost>

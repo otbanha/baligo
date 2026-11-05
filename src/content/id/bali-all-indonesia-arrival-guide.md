@@ -1,7 +1,7 @@
 ---
 slug: bali-all-indonesia-arrival-guide
 title: >-
-  【2026版】Bali Masuk Pakai Kartu Kedatangan "All Indonesia"｜1 Menit Paham Proses
+  【Edisi 2026】Bali Masuk Pakai Kartu Kedatangan "All Indonesia"｜1 Menit Paham Proses
   Terbaru: Turun Pesawat → Lewati Imigrasi → Ambil Bagasi
 description: >-
   Rencana ke Bali tahun 2026? Simak penjelasan lengkap soal ECD (Electronic

@@ -4,7 +4,7 @@ title: 'Toko ''Pasar Kecil'' ala Taiwan di Bali: Amigoo Lux Bali'
 description: >-
   Kalau kamu lagi cari perlengkapan rumah tangga yang murah meriah dan lengkap
   di Bali, Amigoo Lux Bali wajib banget kamu mampir. Tempat ini kayak versi
-  Bali-nya 'Pasar Kecil' (小北百貨) lho.
+  Bali-nya 'Pasar Kecil' ala Taiwan (Xiaobei Department Store) lho.
 pubDate: '2024-08-21'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_66c32079fd8978000136ed64.png'
 tags:

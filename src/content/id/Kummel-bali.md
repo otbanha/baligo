@@ -1,8 +1,8 @@
 ---
-title: Kummel阿毛峇里島自由行｜Canggu、Ubud、Jimbaran真實體驗
+title: Jalan-Jalan Mandiri ke Bali bareng Kummel Amao｜Pengalaman Nyata di Canggu, Ubud & Jimbaran
 slug: Kummel-bali
 description: >-
-  Kummel阿毛 pertama kali ke Bali, dari Jimbaran, Canggu sampai Ubud, cobain
+  Kummel Amao pertama kali ke Bali, dari Jimbaran, Canggu sampai Ubud, cobain
   villa, kuliner lokal, Gojek, Sound Healing sama Ogoh-Ogoh, lihat gimana dia
   ngerasain sisi asli Bali.
 pubDate: 2026-08-14T00:00:00.000Z

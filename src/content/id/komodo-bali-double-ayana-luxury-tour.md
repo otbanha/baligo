@@ -6,7 +6,7 @@ slug: komodo-bali-double-ayana-luxury-tour
 description: >-
   Menginap di AYANA Resort Bali dan AYANA Komodo, masing-masing dua malam
   liburan mewah. Jelajahi Komodo Dragon, Pantai Pink, Pulau Padar, snorkeling
-  Manta, dan destinasi kelas dunia lainnya.全程 private car, tanpa grup, ciptakan
+  Manta, dan destinasi kelas dunia lainnya. Sepanjang perjalanan pakai private car, tanpa grup, ciptakan
   liburan mewah ganda pulau Komodo + Bali paling impian.
 pubDate: 2026-07-25T00:00:00.000Z
 pubHour: 8

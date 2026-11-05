@@ -6,11 +6,14 @@ import Footer from '../../components/Footer.astro';
 
 const SITE_URL = 'https://gobaligo.id';
 
+// /en/ /id/ /zh-cn/ /zh-hk/ 都會 301 到 /xx/blog/（functions/_middleware.js），
+// hreflang 指向會轉址的網址會被 Google 判為無效，所以直接寫最終網址。
 const hreflangs = [
   { hreflang: 'zh-TW',     href: `${SITE_URL}/` },
-  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/` },
-  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/` },
-  { hreflang: 'en',        href: `${SITE_URL}/en/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/blog/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/blog/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/blog/` },
+  { hreflang: 'id',        href: `${SITE_URL}/id/blog/` },
   { hreflang: 'x-default', href: `${SITE_URL}/` },
 ];
 
@@ -57,7 +60,7 @@ const schemaItemList = {
 };
 ---
 
-<html lang="zh-Hant-HK">
+<html lang="zh-HK">
   <head>
     <BaseHead
       title="峇里島旅遊攻略2026｜每日匯率・峇里島新聞・行程規劃・住宿推薦 - Gobaligo"

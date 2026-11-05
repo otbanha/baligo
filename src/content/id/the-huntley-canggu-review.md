@@ -1,5 +1,5 @@
 ---
-title: The Huntley Canggu 古典加州風別墅 - 9.9分評價
+title: The Huntley Canggu — Villa Bergaya California Klasik, Rating 9,9
 slug: the-huntley-canggu-review
 description: >-
   The Huntley Canggu ada di Canggu Berawa, terkenal banget sama desain ala

@@ -6,7 +6,7 @@ title: >-
 description: >-
   Wajib baca kalau liburan sekeluarga! Jelajahi surga water sports paling hits
   di Bali. Bahas tuntas itinerary Turtle Island yang cocok buat anak-anak,
-  sensasi海底漫步 (sea walker) dan jet ski yang bikin deg-degan. Lengkap dengan tips
+  sensasi sea walker dan jet ski yang bikin deg-degan. Lengkap dengan tips
   transportasi sekitar Tanjung Benoa serta panduan anti-gosong dan anti-panas
   biar liburanmu di Bali makin seru dan penuh tawa.
 pubDate: 2025-08-13T00:00:00.000Z

@@ -5,7 +5,7 @@ title: >-
   Rata-rata / Indeks Kesesuaian Wisata... Pembahasan Lengkap
 description: >-
   Sebelum menjawab pertanyaan yang paling sering ditanyakan di dua grup Facebook
-  kami, yaitu「Bali/Indonesia吃喝玩樂」dan「Go Bali Go 峇里島旅遊」, biar aku kasih gambaran
+  kami, biar aku kasih gambaran
   cepat lewat tabel ini dulu:  Saat membaca data di tabel ini, ada beberapa hal
   yang perlu kamu perhatikan:  Probabilitas Hujan Rata-rata  「Probabilitas Hujan
   Rata-rata」adalah kemungkinan terjadinya hujan di suatu daerah dan rentang

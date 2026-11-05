@@ -5,7 +5,7 @@ description: >-
   Teman grup Li Ly dan temannya baru aja selesai liburan ke Bali di musim hujan,
   langsung sharing pengalaman traveling mereka! Berkat banyak info dari grup,
   aku mau bagi-bagi pengalaman liburan mandiri ke Bali akhir Februari kemarin,
-  buat referensi aja ya!行程 kita kali ini terutama: ikut beberapa Activity, SPA,
+  buat referensi aja ya! Perjalanan kita kali ini terutama: ikut beberapa Activity, SPA,
   kuliner, sisanya disebut 'menikmati'
 pubDate: 2024-03-14T00:00:00.000Z
 updatedDate: 2026-07-20T00:00:00.000Z

@@ -1,7 +1,7 @@
 ---
 slug: 2026-bali-lunar-new-year-guide
 title: >-
-  【2026版】Liburan Keluarga ke Bali saat Imlek: Panduan Lengkap Tiket Pesawat,
+  【Edisi 2026】Liburan Keluarga ke Bali saat Imlek: Panduan Lengkap Tiket Pesawat,
   Visa, Transportasi, Tempat Wisata, dan Tips Penting
 description: >-
   Ada trik khusus buat liburan Imlek di Bali? Siapkan semuanya dari jauh-jauh

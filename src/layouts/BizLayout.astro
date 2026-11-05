@@ -19,7 +19,9 @@ const basePath = pathname
   .replace(/^\/(zh-cn|zh-hk|en)\//, '')
   .replace(/^\//, '')
   .replace(/\/$/, '');
-const htmlLang = currentLang === 'zh-cn' ? 'zh-Hans'
+// 'zh-Hans' / 'zh-Hant-HK' 這種寫法與站上 hreflang、sitemap 的 xhtml:link 用的
+// 'zh-CN' / 'zh-HK' 不一致，同一頁對搜尋引擎講了兩種語言代碼，統一成後者。
+const htmlLang = currentLang === 'zh-cn' ? 'zh-CN'
                : currentLang === 'en'    ? 'en'
                : 'zh-TW';
 ---

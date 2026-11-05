@@ -7,7 +7,7 @@ description: >-
   Keluar dari bandara Bali dalam 25 menit, beres! Sharing pengalaman teman grup
   DC! Mau hemat waktu? Gampang! Urus eVisa dan e-Customs dari rumah, dijamin
   nggak perlu antre lama-lama atau isi dokumen ribet. Semuanya bisa diurus
-  online dengan mudah. Siapin dari sekarang, tinggal scan di mesin自助通关机
+  online dengan mudah. Siapin dari sekarang, tinggal scan di gerbang otomatis (autogate)
   (self-service immigration), nggak perlu cap manual. Prosesnya cepat dan
   efisien banget. Cara hemat tenaga ini nggak cuma buat DC aja, tapi bisa bikin
   liburanmu makin santai dan menyenangkan!

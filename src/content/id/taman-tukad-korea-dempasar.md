@@ -1,7 +1,7 @@
 ---
 slug: taman-tukad-korea-dempasar
 title: >-
-  Spot Baru di Bali｜Taman Tukad Korea 韓國河濱公園｜청계천｜Taman Kumbasari di Denpasar,
+  Spot Baru di Bali｜Taman Tukad Korea (Taman Sungai ala Cheonggyecheon)｜Taman Kumbasari di Denpasar,
   Bali
 description: >-
   Jelajahi keindahan Bali, kok Taman Sungai Cheonggyecheon Korea bisa pindah ke

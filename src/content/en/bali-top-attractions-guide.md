@@ -6,7 +6,7 @@ slug: bali-top-attractions-guide
 description: >-
   The ultimate 2026 Bali travel guide! This article handpicks 20 classic and
   hidden gems across the island, from Ubud's jungles and Uluwatu's cliffside
-  ocean views to eastern volcanic temples and offshore snorkeling at the断层. Each
+  ocean views to eastern volcanic temples and offshore snorkeling at the offshore reef drop-off. Each
   spot includes real Google reviews and itinerary recommendations!
 pubDate: 2026-06-15T00:00:00.000Z
 pubHour: 12

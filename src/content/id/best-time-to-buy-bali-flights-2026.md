@@ -8,7 +8,7 @@ description: >-
   biaya tambahan bahan bakar penerbangan internasional turun drastis, rute
   pendek langsung lebih murah. Artikel ini bakal kasih bocoran harga terbaru
   biaya bahan bakar, tiket langsung maskapai nasional, dan harga maskapai murah.
-  Travel达人 juga kasih tips 'waktu paling cuan buat bayar pakai kartu kredit',
+  Travel expert juga kasih tips 'waktu paling cuan buat bayar pakai kartu kredit',
   biar kamu bisa hindari tarif mahal dan hemat budget tiket dengan cara paling
   cerdas!
 pubDate: 2026-06-03T00:00:00.000Z

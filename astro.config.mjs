@@ -4,6 +4,7 @@ import { rehypeImages } from './src/rehype-images.mjs';
 import { rehypeAffiliateLinks } from './src/rehype-affiliate-links.mjs';
 import { rehypeExternalLinks } from './src/rehype-external-links.mjs';
 import { rehypeInternalLinks } from './src/rehype-internal-links.mjs';
+import { rehypeDemoteH1 } from './src/rehype-demote-h1.mjs';
 import { CAT_SLUG_EN, CAT_SLUG_ID } from './src/lib/categorySlugs.mjs';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
@@ -142,6 +143,9 @@ export default defineConfig({
           if (/^\/(en|zh-cn|zh-hk|id)\/?$/.test(path)) return false;
           const blogMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/([^/]+)\/?$/);
           if (blogMatch && isStaleNewsArchive(blogMatch[2])) return false;
+          // 還沒翻譯好的語言版本：該語言的路由會退回繁中原文（見各語言
+          // [...slug].astro），頁面本身已經是 noindex，sitemap 不該再推它。
+          if (blogMatch && blogMatch[1] && !(slugLangs.get(blogMatch[2])?.has(blogMatch[1]))) return false;
           return true;
         }
         return false;
@@ -272,6 +276,21 @@ export default defineConfig({
           }
         }
 
+        // hreflang for /about/（五語言各一頁，作者／編輯部實體頁）
+        const aboutMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/about\/?$/);
+        if (aboutMatch) {
+          item.priority = 0.8;
+          item.changefreq = 'monthly';
+          item.links = [
+            { lang: 'x-default', url: 'https://gobaligo.id/about/' },
+            { lang: 'zh-TW',     url: 'https://gobaligo.id/about/' },
+            { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/about/' },
+            { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/about/' },
+            { lang: 'en',        url: 'https://gobaligo.id/en/about/' },
+            { lang: 'id',        url: 'https://gobaligo.id/id/about/' },
+          ];
+        }
+
         // hreflang for 5 語言皆有的工具頁（trip-planner / 預算計算機 / 天氣）
         const toolMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/(trip-planner|bali-budget-calculator|weather)\/?$/);
         if (toolMatch) {
@@ -298,7 +317,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [[remarkBlocks, {}]],
     // rehypeInternalLinks 的 cacheVersion：改了該外掛邏輯就加 1，讓 content layer 快取失效（見該檔說明）
-    rehypePlugins: [[rehypeInternalLinks, { cacheVersion: 1 }], rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
+    rehypePlugins: [[rehypeInternalLinks, { cacheVersion: 2 }], rehypeDemoteH1, rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
   },
   build: {
     format: 'directory'

@@ -30,7 +30,7 @@ type Driver = {
 };
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean; line_qr_guide?: boolean };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false, newsCategory, source, sourceUrl, tags } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false, newsCategory, source, sourceUrl, tags, untranslated = false } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -67,14 +67,30 @@ const ogImage = (typeof heroImage === 'string' && heroImage) ? heroImage : extra
 const cats = Array.isArray(category) ? category : (category ? [category] : []);
 const metaTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
 const metaDesc  = enhancedDescription(description ?? '', cats, lang ?? 'zh-tw', slug, body);
-// en/id：enhancedTitle 已回傳含品牌後綴的最終標題，不能讓 BaseHead 再追加一次
-const titleIsFinal = lang === 'en' || lang === 'id';
+// enhancedTitle 已回傳「最終」標題（放得下就自己接品牌後綴，放不下就不接），
+// 全語系都不能讓 BaseHead 再追加一次，否則中文標題會超出 SERP 預算。
+const titleIsFinal = true;
 
 // 每日新聞存檔文章時效短、內容薄，45 天後改用 /news/ hub 彙整頁承接排名，
 // 個別舊文加 noindex 避免大量薄內容稀釋全站品質信號（2026-07 流量調查發現的優化項）。
 const NEWS_STALE_DAYS = 45;
 const isStaleNewsArchive = cats.includes('新聞存檔') && pubDate &&
   (Date.now() - new Date(pubDate).getTime()) / 86400000 > NEWS_STALE_DAYS;
+
+// 還沒翻譯好的語言版本：/en/blog/… 等路由在找不到該語言的內容檔時會退回繁中原文
+// （見各語言 [...slug].astro 的 langMapBySlug.get(slug) ?? blogPost），於是整篇
+// 中文內容被掛在 <html lang="en"> 底下、自己 canonical 自己、還進 sitemap。
+// 翻譯是每天凌晨跑的，所以每篇新文章發佈後都會有一段時間在 /en/、/id/、/zh-cn/、
+// /zh-hk/ 各留一份中文複製頁（2026-11 查到 2 篇正處於這個狀態）。
+// 先 noindex（follow 保留站內連結傳遞），翻譯進來後自動恢復可索引。
+const isUntranslatedClone = untranslated === true && lang !== 'zh-tw' && lang !== 'blog';
+
+// 作者 byline 原本在每個語言版本都連到繁中的 /about/，等於約 4,000 個
+// /en/、/id/、/zh-cn/、/zh-hk/ 頁面把作者實體指向一個讀者看不懂的頁面。
+// 各語言已各有自己的 /about/（src/pages/<lang>/about.astro）。
+const aboutHref = (lang === 'en' || lang === 'id' || lang === 'zh-cn' || lang === 'zh-hk')
+  ? `/${lang}/about/`
+  : '/about/';
 
 // ── 「答案先講」摘要 ──────────────────────────────────────────────────────────
 // 在文章開頭放一段可見、可被 Google AI 模式/AI Overviews 直接擷取的結論。
@@ -451,7 +467,7 @@ const spaFaqSchema = isSpaGuide ? {
   />
 
   {isPrivate && <meta name="robots" content="noindex,nofollow" />}
-  {!isPrivate && isStaleNewsArchive && <meta name="robots" content="noindex,follow" />}
+  {!isPrivate && (isStaleNewsArchive || isUntranslatedClone) && <meta name="robots" content="noindex,follow" />}
 
   <!-- LCP preload: fetch hero image early to reduce Largest Contentful Paint -->
   {ogImage && ogImage !== 'https://gobaligo.id/og-default.jpg' && (
@@ -560,7 +576,7 @@ const spaFaqSchema = isSpaGuide ? {
             <div class="author-byline">
               <span class="author-avatar" aria-hidden="true">小</span>
               <span class="author-meta">
-                <a href="/about/" class="author-name" rel="author">{i18n.byAuthor}{i18n.authorName}</a>
+                <a href={aboutHref} class="author-name" rel="author">{i18n.byAuthor}{i18n.authorName}</a>
                 <span class="author-tagline">{i18n.authorTagline}</span>
               </span>
             </div>

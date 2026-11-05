@@ -4,9 +4,9 @@ title: >-
   Hong Kong - Bali 5 Hari, Gimana Seru-seruannya? Cerita Trip Naik Gunung Turun
   Laut
 description: >-
-  「Hea遊美食」adalah YouTuber asal Hong Kong yang sering banget share video kuliner
+  "Hea Yau Mei Sik" adalah YouTuber asal Hong Kong yang sering banget share video kuliner
   dan traveling di channel-nya. Kali ini, dia mampir ke Bali, Indonesia, dan
-  bawa攻略 liburan 5 hari yang kece abis...
+  bawa panduan liburan 5 hari yang kece abis...
 pubDate: 2024-07-22T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:

@@ -4,7 +4,7 @@ title: >-
   Terrace Instagram Cafés
 slug: ubud-food-guide
 description: >-
-  What must you eat in Ubud? This guide curates the ultimate Ubud food攻略! It
+  What must you eat in Ubud? This guide curates the ultimate Ubud food guide! It
   includes must-try local dirty duck rice, super popular pork ribs, hidden rice
   terrace cafés, and refined vegetarian restaurants. Whether you want to dine
   overlooking terraced rice fields or explore bustling market snacks, this Ubud

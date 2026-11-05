@@ -1,9 +1,9 @@
 ---
 slug: bali-weekend-markets-2026
 title: >-
-  【2026年版】Masih Ada! Empat Pasar Mingguan di Bali yang Paling Otentik buat
+  【Edisi 2026】Masih Ada! Empat Pasar Mingguan di Bali yang Paling Otentik buat
   Belanja
-description: Pasar Mingguan yang Masih Berlangsung di 2024
+description: Empat pasar mingguan di Bali yang masih berjalan sampai 2026 — jadwal, lokasi, barang yang dijual, dan tips menawar biar dapat harga lokal.
 pubDate: '2024-02-25'
 updatedDate: 2026-07-10T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_189eda1ec3d044932cb95fbd6120cd77.png'

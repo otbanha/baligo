@@ -3,7 +3,7 @@ slug: nusa-penida-ferry-experience-bali
 title: Pengalaman naik feri dari Bali ke Nusa Penida / catatan perjalanan seru
 description: >-
   Pengalaman/catatan perjalanan Mei Yi Liao, anggota grup Facebook
-  【Bali/Indonesia吃喝玩樂】, ke Nusa Penida bareng teman-teman
+  【Bali/Indonesia Travel Guide】, ke Nusa Penida bareng teman-teman
 pubDate: 2024-05-29T00:00:00.000Z
 updatedDate: 2026-07-10T00:00:00.000Z
 category:

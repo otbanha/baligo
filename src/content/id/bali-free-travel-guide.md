@@ -1,6 +1,6 @@
 ---
 title: >-
-  【Biar Gak Macet Gini Caranya!】攻略 Liburan Seru ke Bali: Transportasi,
+  【Biar Gak Macet Gini Caranya!】Panduan Liburan Seru ke Bali: Transportasi,
   Akomodasi, Tempat Wisata, Kuliner, Belanja, SPA, Nightlife — Semua Terencana
 slug: bali-free-travel-guide
 description: >-

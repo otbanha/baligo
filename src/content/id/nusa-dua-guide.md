@@ -1,6 +1,6 @@
 ---
 title: >-
-  【Nusa Dua攻略】Nusa Dua / Tanjung Benoa Panduan Liburan Mandiri Terlengkap: 40+
+  【Panduan Nusa Dua】Nusa Dua / Tanjung Benoa Panduan Liburan Mandiri Terlengkap: 40+
   Resor Mewah, Tips Hindari Tipuan Aktivitas Air, Panduan Kuliner Terbaik & Rute
   Perjalanan Anti Boncos
 slug: nusa-dua-guide

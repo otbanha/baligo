@@ -40,8 +40,11 @@ export async function getStaticPaths() {
     const slug = blogPost.data.slug || blogPost.id;
     usedSlugs.add(slug);
     // Prefer en collection version if available
-    const post = langMapBySlug.get(slug) ?? blogPost;
-    paths.push({ params: { slug }, props: { post } });
+    // 找不到該語言的翻譯時會退回繁中原文。這種頁面是整篇中文的複製頁，
+    // BlogPost 收到 untranslated 就會輸出 noindex,follow（翻譯進來後自動恢復）。
+    const translated = langMapBySlug.get(slug);
+    const post = translated ?? blogPost;
+    paths.push({ params: { slug }, props: { post, untranslated: !translated } });
   }
 
   // Add entries from en collection that don't have a blog version (by slug)
@@ -50,7 +53,7 @@ export async function getStaticPaths() {
     const slug = langPost.data.slug || langPost.id;
     if (!usedSlugs.has(slug)) {
       idOnlyCount++;
-      paths.push({ params: { slug }, props: { post: langPost } });
+      paths.push({ params: { slug }, props: { post: langPost, untranslated: false } });
     }
   }
 
@@ -59,7 +62,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { post } = Astro.props;
+const { post, untranslated } = Astro.props;
 const { Content, headings } = await render(post as any);
 
 const blogDir = join(process.cwd(), 'src/content/blog');
@@ -108,6 +111,6 @@ rawEmbeds.forEach((e: any) => {
 // Use manually parsed drivers/isDriverGuide/isSpaGuide since Astro content loader doesn't pick them up from YAML
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="id" slug={post.id} drivers={rawDrivers} isDriverGuide={rawIsDriverGuide} isSpaGuide={rawIsSpaGuide}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} untranslated={untranslated} lang="id" slug={post.id} drivers={rawDrivers} isDriverGuide={rawIsDriverGuide} isSpaGuide={rawIsSpaGuide}>
   <Content />
 </BlogPost>
