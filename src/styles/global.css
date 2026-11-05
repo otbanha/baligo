@@ -324,8 +324,8 @@ h5 { font-size: 1em; }
 /* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
    排除聯盟連結（已有按鈕樣式） */
 .prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]) {
-  color: #C0392B;
-  background-color: #FDE8D8;
+  color: #2563eb;
+  background-color: transparent;
   padding: 1px 8px;
   border-radius: 4px;
   text-decoration: none;
@@ -333,12 +333,11 @@ h5 { font-size: 1em; }
   font-weight: 500;
 }
 .prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):hover {
-  background-color: #F9C9B6;
-  color: #8B3A2A;
-  background-color: #F9C9B6;
+  background-color: transparent;
+  color: #1e3a8a;
 }
 .prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):visited {
-  color: #8B3A2A;
+  color: #2563eb;
 }
 
 /* ──────────────────────────────────────────────────────────────────── */
