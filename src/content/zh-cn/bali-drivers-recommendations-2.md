@@ -17,10 +17,10 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-11-01T10:35:00+08:00'
-updatedDate: 2026-11-01T00:00:00.000Z
+contentUpdatedAt: '2026-11-04T08:41:43+08:00'
+updatedDate: 2026-11-04T00:00:00.000Z
 lang: zh-cn
-_srcHash: 21d709b47cc5b0c3ad6923c0982d1fd3
+_srcHash: e7385b4f04fe20426922903bebbb8ec4
 ---
 
 **本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20+**位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
@@ -41,7 +41,7 @@ _srcHash: 21d709b47cc5b0c3ad6923c0982d1fd3
 
 ![Jimmi Liu 吉米劉](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[网友推荐2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1ERGJqTW86/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/183DMoePq4/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[网友推荐2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1ERGJqTW86/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/183DMoePq4/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1CBr6tG2mu/)
 
 ## Betty Pinsky & 小吴
 
