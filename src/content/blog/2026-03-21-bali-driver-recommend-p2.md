@@ -17,8 +17,8 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: 2026-11-04T08:41:43+08:00
-updatedDate: 2026-11-04
+contentUpdatedAt: '2026-11-06T07:39:13+08:00'
+updatedDate: 2026-11-06
 ---
 
 **本頁是什麼**：峇里島包車司機推薦名單的**第二頁**，收錄20+**位司機、258 則團友在臉書社團自己發文的搭乘分享**。每位司機底下那排數字都是原始貼文連結，可以自己點開查證。
