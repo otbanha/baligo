@@ -1,7 +1,7 @@
 ---
 title: 峇里島包車司機推薦名單（第二頁）｜社團真實分享
 slug: bali-drivers-recommendations-2
-description: 峇里島包車司機推薦名單第二頁，每個司機底下嘅分享連結都可以㩒入去睇返原始社團貼文。附埋 2026 包車行情同聯絡時要提供嘅資訊。
+description: 峇里島包車司機推薦名單第二頁，每位司機底下嘅分享連結都可以㩒入去查證原始社團貼文。附 2026 包車行情同聯絡時要提供嘅資訊。
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
 category:
@@ -17,17 +17,17 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-11-04T08:41:43+08:00'
-updatedDate: 2026-11-04T00:00:00.000Z
+contentUpdatedAt: '2026-11-06T07:39:13+08:00'
+updatedDate: 2026-11-06T00:00:00.000Z
 lang: zh-hk
-_srcHash: e7385b4f04fe20426922903bebbb8ec4
+_srcHash: 8ad8d1ac9a4e1cf30e70f0d8eae32849
 ---
 
-**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，收錄咗 20+ **位司機、258 則團友喺 Facebook 社團自己出 post 嘅搭車分享**。每個司機底下嗰排數字都係原始貼文連結，可以自己㩒入去查證。
+**呢頁係咩**：峇里島包車司機推薦名單嘅**第二頁**，收錄咗 20+ **位司機、258 則團友喺 Facebook 社團自己出嘅文分享搭車經驗**。每位司機底下嗰排數字都係原始貼文連結，可以自己㩒入去查證。
 
 包車行情大約 **Rp 600,000–800,000／10 小時／五人座**（計車唔計人頭，烏布以南），2026 年 7 月 1 日起另加油費補貼（半日 Rp 50,000、全日 Rp 100,000）。跨區加價、超時費算法同預約流程，都整理咗喺[第一頁](/zh-hk/blog/bali-private-car-drivers-guide/)。
 
-> 聯絡司機時請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，同埋問清楚包埋跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
+> 聯絡司機嘅時候請一次講清楚：**日期、日數、人數同行李、上落車地點、想去邊啲景點**，仲要問清楚包跨區加價嘅總金額。⚠️ Line 跨區冇辦法用 ID 加好友，要**掃 QR Code**。
 
 **👉 第一頁仲有另外 24 位司機（包括 9 位中文司機）：**[**峇里島包車司機推薦名單（第一頁）**](/zh-hk/blog/bali-private-car-drivers-guide/)
 
@@ -43,7 +43,7 @@ _srcHash: e7385b4f04fe20426922903bebbb8ec4
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[網友推薦2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1ERGJqTW86/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/183DMoePq4/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CBr6tG2mu/)
 
-## Betty Pinsky 同小吳
+## Betty Pinsky & 小吳
 
 ![Betty Pinsky & 小吳](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
@@ -107,7 +107,7 @@ _srcHash: e7385b4f04fe20426922903bebbb8ec4
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19aDki14Zu/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19aDki14Zu/)[ ](https://www.facebook.com/share/p/14rYvw4atCQ/)👍🏼[網友推薦15](https://www.facebook.com/share/p/14rYvw4atCQ/)
 
 ## Iwayan Suantara 康哥
 
@@ -173,6 +173,6 @@ _srcHash: e7385b4f04fe20426922903bebbb8ec4
 
 <!-- no-shuffle -->
 
-👈 **返去峇里島自由行終極指南**
+👈 **返到峇里島自由行終極指南**
 
-想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[㩒呢度睇「2026峇里島自由行終極指南」](/zh-hk/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

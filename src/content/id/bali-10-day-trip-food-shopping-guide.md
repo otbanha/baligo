@@ -1,12 +1,13 @@
 ---
 title: >-
-  Bali 10 Hari｜Empat Tahun Berturut-turut, Rekomendasi Kuliner, Belanja & Sewa
-  Mobil
+  Bali 10 Hari｜Datang Empat Tahun Berturut-turut, Rekomendasi Kuliner, Belanja,
+  dan Sewa Mobil
 slug: bali-10-day-trip-food-shopping-guide
 description: >-
-  Tahun keempat berturut-turut ke Bali, topan bikin rencana 5 hari jadi 10 hari.
-  Share rekomendasi babi guling, iga babi, restoran dengan pemandangan, pusat
-  perbelanjaan, pasar tradisional, plus supir & guide tepercaya.
+  Untuk tahun keempat berturut-turut aku kembali ke Bali. Topan bikin rencana
+  lima hari jadi sepuluh hari. Aku mau share rekomendasi nasi babi guling, iga
+  babi, restoran dengan pemandangan, pusat perbelanjaan, pasar tradisional, dan
+  supir guide yang bisa diandalkan.
 pubDate: 2026-12-03T00:00:00.000Z
 pubHour: 12
 category:
@@ -32,99 +33,98 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: id
-_srcHash: PENDING_RETRY_6bcf3401462d12d3c97afd1ea4d880ef
-_translateAttempts: 1
+_srcHash: 6bcf3401462d12d3c97afd1ea4d880ef
 ---
 
-# Bali 10 Hari: Tahun Keempat Kembali, Topan Bikin 5 Hari Jadi 10 Hari
+# Bali 10 Hari: Tahun Keempat Kembali, Topan Bikin Lima Hari Jadi Sepuluh Hari
 
 https://www.facebook.com/share/p/1Cnsz9KqJZ/
 
 
-Dari 19 sampai 28 Oktober, kami kembali lagi ke Bali — ini sudah tahun keempat berturut-turut. Perjalanan kali ini ada kejutan: topan bikin rencana 5 hari molor jadi 10 hari, jadi kami menikmati lebih banyak waktu di Bali.
+Dari tanggal 19 sampai 28 Oktober, kami kembali lagi ke Bali. Ini sudah tahun keempat berturut-turut. Perjalanan kali ini ada kejutan: topan bikin rencana lima hari jadi sepuluh hari, jadi kami menikmati lebih banyak waktu di Bali.
 
-Catatan perjalanan ini bukan cuma soal tempat yang dikunjungi, tapi juga kenapa kami terus balik ke pulau ini tahun demi tahun. Dari cuaca, keramahan orang, sampai setiap gigitan makanan yang bikin kangen — jawabannya sederhana: setiap kali datang, rasanya makin sayang sama Bali.
+Catatan perjalanan ini bukan cuma soal tempat yang dikunjungi, tapi juga kenapa kami terus kembali ke pulau ini tahun demi tahun. Dari cuaca, keramahan, sampai setiap gigitan makanan yang bikin kangen, jawabannya sederhana: setiap kali datang, kami makin suka.
 
-## Kenapa Kita Begitu Cinta Bali
+## Kenapa Kami Begitu Cinta Bali
 
-### Cuaca Kering yang Nyaman
+### Cuaca yang Kering dan Nyaman
 
-Bali emang panas, sinar mataharinya terik, tapi udaranya kering — rasanya lebih nyaman dari yang dibayangkan. Keuntungan paling nyata: cuci baju. Pakaian yang dicuci tangan langsung kering besoknya, jadi selama perjalanan gak perlu khawatir kehabisan baju ganti.
+Bali emang panas, sinar mataharinya terik, tapi udaranya kering. Rasanya lebih nyaman dari yang dibayangkan. Keuntungan paling nyata: cuci baju. Pakaian yang dicuci tangan langsung kering besoknya, jadi selama perjalanan nggak perlu khawatir kehabisan baju ganti.
 
 
-Kualitas udara juga bikin kami terkesan. Di Taiwan kalau naik motor, lap muka pakai tisu basah — tisu sering hitam. Di Bali, hal yang sama gak terjadi. Ini sih pengalaman pribadi, tapi setiap kali ke sini rasanya sama.
+Kualitas udara juga bikin kami terkesan. Di Taiwan kalau naik motor dan lap muka pakai tisu basah, tisu sering hitam. Tapi di Bali, hal yang sama nggak terjadi. Ini sih pengalaman pribadi, tapi setiap kali ke sini rasanya sama.
 
 ### Orang-orang yang ramah dan sedikit pemalu
 
-Wajah lokal selalu tersenyum malu-malu. Beberapa kali mobil kami mau belok tapi susah, kami turunkan kaca jendela, minta tolong dengan sopan biar dikasih jalan, yang kami dapat biasanya senyuman lebar, dan mobil pun lancar belok. Interaksi kecil kayak gini sering bikin hati kami senang seharian.
+Wajah penduduk lokal selalu tersenyum malu-malu. Beberapa kali mobil kami mau belok tapi susah, kami turunkan kaca jendela, minta tolong dengan sopan biar dikasih jalan, yang kami dapat biasanya senyum lebar, dan mobil pun lancar belok. Interaksi kecil kayak gini sering bikin hati kami senang seharian.
 
 ### Makanan yang cocok di lidah
 
-Masakan Bali penuh rempah, rasanya kuat, banget cocok di lidah kami. Kali ini, kami ikut rekomendasi restoran dan tempat wisata dari grup, makan dari satu ke lain, dan hasilnya nggak ada satu pun yang mengecewakan: enak, pemandangannya juga oke. Kami sungguh berterima kasih sama admin grup yang rapi ngatur, bikin perjalanan makin banyak kejutan.
+Masakan Bali itu pedas-pedas gurih banget, cocok banget sama lidah kami. Perjalanan kali ini, kami ikut rekomendasi restoran dan tempat wisata dari grup, makan terus, dan hasilnya nggak ada satu pun yang mengecewakan: enak, pemandangannya juga oke. Kami benar-benar berterima kasih sama admin grup yang udah rapi ngumpulin, bikin perjalanan makin penuh kejutan.
 
-## Peta kuliner yang kami cicipi kali ini
+## Peta kuliner yang kami cicipi
 
-### Olahan babi: nasi babi guling dan iga babi
+### Olahan daging babi: nasi babi guling dan iga babi
 
-**Warung Babi Guling Pande Egi** adalah nasi babi guling super enak yang kami coba, dan yang dateng kebanyakan warga lokal, rasanya gurih, kering, dan mantap. Di samping parkir ada pisang goreng, enak dan murah, bonus yang nggak terduga.
+**Warung Babi Guling Pande Egi** adalah nasi babi guling super enak yang kami cicipi, dan yang dateng kebanyakan warga lokal, rasanya kaya, gurih, dan kering. Di samping parkir ada pisang goreng, enak dan murah, bonus yang nggak terduga.
 
 https://youtube.com/shorts/sVxycGvyT9w?si=F01pQSLZnir4fMjv
 
 
-Tambahan: Pande Egi di daerah Beng, Gianyar, letaknya di tengah sawah luas, sambil makan babi guling bisa lihat pemandangan sawah, makanya sering disebut 'nasi babi guling dengan pemandangan'. Menurut publikasi pemerintah provinsi Bali, kulit babi di sini renyah, kalau mau lebih puas, bisa pesan paket spesial yang lengkap dengan kulit babi, sate, dan lawar; pemiliknya pengusaha muda. Ada juga panduan kuliner yang bilang, paket spesial dan sate babi dijual dengan harga ramah di kantong, bumbu rempahnya kuat, cocok buat yang suka pedas Bali.
+Tambahan info: Pande Egi di daerah Beng, Gianyar, letaknya di tengah sawah luas, sambil makan babi guling bisa lihat pemandangan sawah, makanya sering disebut 'nasi babi guling dengan pemandangan'. Menurut publikasi pemerintah provinsi Bali, kulit babi guling di sini renyah, kalau mau lebih puas, bisa pesan paket spesial yang lengkap dengan kulit babi, sate, dan lawar; pemiliknya adalah pengusaha muda. Ada juga panduan kuliner yang bilang, paket spesial dan sate babi dijual dengan harga terjangkau, bumbu rempahnya kuat, cocok buat yang suka pedas khas Bali.
 
 **Wahaha Pork Ribs** ada di Seminyak, iga babi dan kaki babinya enak banget. Di tempat, koki potong kaki babi langsung, rasanya segar; alpukat cokelatnya juara.
 
-Tambahan info: Wahaha didirikan oleh Bli Hendra, orang asli Bali. Toko pertama dibuka bulan Desember 2009 di Seminyak. Iga babi andalannya dimarinasi pakai bumbu khas Bali, dibakar pakai arang, lalu dioles saus BBQ original buatan sendiri. Cabang utama di Seminyak ada di Sunset Road, lalu buka juga di Jimbaran, Pecatu, dan Canggu. Tempat di Seminyak punya ruangan dalam yang luas dan adem, belakangnya ada taman, cocok banget buat makan bareng keluarga atau teman.
+Tambahan: Wahaha didirikan oleh Bli Hendra, orang asli Bali. Toko pertamanya dibuka di Seminyak pada Desember 2009. Iga babi andalannya dimarinasi dengan rempah khas Bali, dibakar pakai arang, lalu diolesi saus BBQ original buatan sendiri. Toko utama di Seminyak ada di Sunset Road, lalu buka cabang juga di Jimbaran, Pecatu, dan Canggu. Toko Seminyak punya ruangan dalam yang luas dan ventilasi bagus, di belakang ada taman, cocok banget buat makan bareng keluarga atau teman.
 
 ### Makanan Laut & Pemandangan: Udang Kukus Bawang Putih Mentega, Taman Dedari
 
-**Bale Udang Mang Engking** di Kuta, udang kukus bawang putih mentega jadi andalan di sini. Ada saung di atas air, harus reservasi dulu; suasana restoran pas sore hari tuh cantik banget.
+**Bale Udang Mang Engking** di Kuta, udang kukus bawang putih mentega jadi primadona di sini. Ada saung di atas air, harus reservasi dulu; suasana restoran saat senja tuh cantik banget.
 
 https://youtu.be/mxnU1BxJCcM?si=3ewclKJQrpk7Qmwd
 
-Tambahan info: Bale Udang ada di Jalan Nakula No.88, Kuta. Restorannya mengelilingi kolam ikan besar, dikelilingi saung tradisional Bali (bale) dari bambu dan alang-alang. Satu saung muat maksimal delapan orang, sambil nunggu pesanan bisa kasih makan ikan. Malam hari lampu dinyalakan, suasananya makin romantis. Nama 'udang' di sini artinya udang, jadi hidangan udang jelas bintang utamanya; udang madu bakar, udang telur asin, dll jadi menu andalan. Selain itu, cabang di Ubud juga ada, dan sudah bersertifikat halal, nggak ada menu babi, cocok ajak teman yang nggak makan babi.
+Tambahan: Bale Udang ada di Jalan Nakula No.88, Kuta. Restorannya mengelilingi kolam ikan besar, dikelilingi saung tradisional Bali (bale) dari bambu dan alang-alang. Satu saung muat maksimal delapan orang, sambil nunggu pesanan bisa kasih makan ikan. Malam hari lampu dinyalakan, suasananya makin romantis. Nama 'udang' di sini artinya udang, jadi hidangan udang jelas bintang utamanya; udang madu panggang, udang telur asin, dll. jadi menu andalan. Selain itu, restoran ini juga punya cabang di Ubud, dan sudah bersertifikat halal, nggak ada menu babi, jadi cocok ajak teman yang nggak makan babi.
 
 
-**Taman Dedari** adalah restoran dengan pemandangan keren, makanannya elegan, pemandangannya indah. Stafnya profesional dan ramah, pas hidangan datang mereka jelasin sendiri dan tanya soal selera. Patung bidadari di taman bikin takjub, bener-bener bikin melek.
+**Taman Dedari** adalah restoran dengan pemandangan indah, makanannya elegan, pemandangannya cakep. Stafnya profesional dan ramah, setelah hidangan diantar mereka jelasin satu-satu dan tanya soal selera. Patung bidadari di taman ini megah banget, bikin takjub.
 
 ![](https://images.gobaligo.id/vocus/vocus_af793a02c768b26700df81f73fe8356f.jpg)
 
-Tambahan info: Taman Dedari sebenarnya ada di kawasan Kedewatan, dekat Ubud, sekitar 5 km dari pusat Ubud, naik mobil sekitar 15 menit. Tempat ini dibuka awal 2021, bagian dari The Royal Pita Maha, menghadap ke Sungai Ayung yang terlebar dan terpanjang di Bali. 'Dedari' artinya bidadari, terinspirasi dari legenda Rsi Markandeya yang lihat bidadari turun ke Sungai Ayung. Ada sekitar lima puluh patung bidadari di taman, jadi pemandangan paling ikonik di sini.
+Tambahan: Taman Dedari sebenarnya ada di kawasan Kedewatan, dekat Ubud, sekitar 5 km dari pusat Ubud, naik mobil sekitar 15 menit. Tempat ini dibuka awal 2021, bagian dari The Royal Pita Maha, menghadap ke Sungai Ayung yang terlebar dan terpanjang di Bali. 'Dedari' artinya bidadari, terinspirasi dari legenda Rsi Markandeya yang melihat bidadari turun ke Sungai Ayung. Ada sekitar lima puluh patung bidadari di taman ini, jadi pemandangan paling ikonik di sini.
 
-[【Ubud Kuliner + Pemandangan Rekomendasi】Taman Dedari Taman Bidadari](https://gobaligo.id/id/blog/taman-dedari-ubud-food-scenery/)
+[【Ubud Kuliner + Pemandangan Rekomendasi】Taman Dedari](https://gobaligo.id/id/blog/taman-dedari-ubud-food-scenery/)
 
-### Jajanan Lokal: Sate & Roti Bakar Godaan Setan
+### Jajanan Lokal: Sate & Roti Bakar 'Setan'
 
-**Sate Babi Bli Ketut** adalah warung sate lokal kecil. Dulu kami ikut tour guide coba, sekali nyoba langsung jatuh cinta. Wanginya gosong khas bakar, harganya ramah di kantong. Kali ini kami pakai Grab pesen tiga hari berturut-turut.
+**Sate Babi Bli Ketut** adalah warung sate lokal kecil. Kami dulu ikut tour guide ke sini, sekali coba langsung jatuh cinta. Wanginya gosong khas sate bakar, harganya ramah di kantong. Kali ini kami pakai Grab pesen tiga hari berturut-turut buat makan lagi.
 
-Tambahan info: Di Kuta, Bali, ada Sate Babi Bli Ketut, tempat spesialis sate babi yang ratingnya bagus banget. Menu andalannya sate babi panggang yang murah meriah dan enak, biasa disajikan sama nasi putih atau nasi ketan plus sambal khas yang pedas nendang. Tempatnya outdoor, pelayanannya cepet dan ramah, suasananya santai, cocok buat turis maupun lokal yang doyan kuliner. Sate babi ini daging babinya dimarinasi pakai rempah khas Bali, dibakar, terus dimakan sama sambal tomat-cabe atau cabe garam — beda sama sate ayam yang pake bumbu kacang. Rasanya gurih pedas, dan sering jadi hidangan wajib di upacara adat Bali, biasanya ditemenin nasi putih, jadi menu sehari-hari yang simpel.
+Tambahan info: Sate Babi Bli Ketut di Kuta, Bali, adalah tempat sate babi yang ratingnya juara banget. Menu andalannya sate babi panggang yang murah meriah dan enak, biasa disajikan sama nasi putih atau nasi ketan plus sambal pedas khas yang mantap. Tempatnya ada outdoor seating, pelayanannya cepet dan ramah, suasananya santai — recommended banget buat turis maupun lokal yang doyan kuliner tradisional. Sate babi ini daging babinya dimarinasi pakai bumbu khas Bali, dibakar, terus dimakan sama sambal tomat-cabe atau cabe garam — beda sama sate ayam yang pake bumbu kacang. Rasanya gurih pedas, dan juga jadi makanan wajib di upacara adat Bali, biasa dimakan sama nasi putih — jadi menu sehari-hari yang simpel.
 
-**Bendol's Roti Bakar - Kuta** roti bakarnya kita julukin 'roti panggang maksiat', karena campuran susu kental manis, selai kacang, sama cokelat jadi satu, wanginya kebangetan. Sama kayak sebelumnya, kita pake Grab buat order tiga hari berturut-turut.
+**Bendol's Roti Bakar - Kuta** roti bakarnya kita sebut 'roti bakar nakal' — perpaduan susu kental manis, selai kacang, dan cokelat jadi satu, aromanya juara. Sama kayak sebelumnya, kita pesen lewat Grab tiga hari berturut-turut.
 
-Tambahan info: Di Kuta, Bali, Bendol's Roti Bakar - Kuta (klik buat buka panel samping, liat info lengkap) adalah warung roti bakar lokal yang buka sampe larut malam. Mereka jual roti isi manis dan asin, kayak keju, cokelat, susu kental manis, dll. Harganya ramah di kantong, jadi favorit turis dan lokal yang lagi nyari cemilan malam. Nah, soal roti bakar: artinya 'roti panggang', muncul jaman kolonial Belanda, awalnya buat ngabisin roti sisa kemarin. Olesan yang umum: susu kental manis, mentega, cokelat, selai kacang. Sekarang jadi sarapan dan jajanan kaki lima khas Indonesia, macem-macem varian rasanya.
+Tambahan info: Bendol's Roti Bakar - Kuta di Kuta, Bali (klik buat panel samping, lihat info lengkap) adalah warung roti bakar lokal yang buka sampai larut malam. Menunya banyak pilihan roti isi manis dan gurih kayak keju, cokelat, susu kental manis — harganya ramah di kantong, jadi favorit wisatawan dan lokal yang lagi nyari cemilan malam. Di sini aku spill sedikit soal roti bakar. Roti bakar artinya 'roti panggang', muncul zaman kolonial Belanda, awalnya buat ngabisin roti sisa kemarin. Olesan yang umum: susu kental manis, mentega, cokelat, selai kacang. Sekarang jadi sarapan dan jajanan kaki lima khas Indonesia, macem-macem varian rasanya terus bermunculan.
 
-### Tradisi Klasik dan Cita Rasa Mancanegara
+### Tradisi dan Cita Rasa Internasional dari Toko Legendaris
 
-**Made's Warung Seminyak** adalah restoran legendaris yang nyajiin masakan tradisional Bali dan internasional. Pilihan menunya banyak banget, nasi goreng andalannya juara. Suasana makannya luas dan nyaman, pas akhir pekan malem ada pertunjukan, menu lainnya juga worth it buat dicoba.
+**Made's Warung Seminyak** adalah restoran legendaris yang nyajiin masakan tradisional Bali dan internasional. Pilihan menunya banyak banget, nasi goreng andalannya juara. Tempatnya luas dan nyaman, pas akhir pekan ada pertunjukan malam, menu lainnya juga worth it buat dicoba.
 
-Tambahan info: Cerita Made's Warung dimulai dari Kuta. Menurut Fodor's, tempat ini berdiri sekitar tahun 1969, awalnya Made buka lapak pinggir jalan di Kuta, lalu jadi legenda. Cabang Seminyak nerusin tradisi, konsepnya open space, ada pertunjukan tari tradisional Bali. Saran: pesen tempat dekat panggung. Menunya dari klasik Indonesia sampe kreasi chef ala Italia dan Jepang. Cobain nasi campur sama rujak kuah pindang (salad buah kuah asam). Made, salah satu pendiri, bareng suaminya yang orang Belanda, Peter Steenbergen, yang tahun 1973 nyetir dari Amsterdam ke Bali dan ketemu warung ini di Kuta.
+Tambahan info: Cerita Made's Warung dimulai dari Kuta. Menurut Fodor's, tempat ini pertama kali dibuka tahun 1969 oleh Made sebagai tenda pinggir jalan di Kuta, lalu jadi toko legendaris yang kita kenal sekarang. Cabang Seminyak melanjutkan tradisi dengan konsep open space, lengkap dengan tari tradisional Bali — saran: pesen tempat dekat panggung. Menunya dari klasik Indonesia sampai kreasi koki bergaya Italia dan Jepang. Cobain nasi campur sama rujak kuah pindang (salad buah dengan kuah asam). Salah satu pendiri, Made, bareng suaminya yang orang Belanda, Peter Steenbergen, yang tahun 1973 nyetir dari Amsterdam ke Bali dan ketemu tempat ini di Kuta.
 
-## Oleh-Oleh yang Worth It
+## Oleh-oleh yang Bisa Dibawa Pulang
 
-Selain makan, gue juga bawa pulang beberapa barang yang kepake dan disukai:
-• Rejoice 3 in 1 Shampoo Rich Soft Smooth (P&G): sampo yang dijual di sana, bikin rambut lembut banget.
-• Mustika Ratu Royal Blue & Moringa Body Lotion: wanginya enak, nggak lengket (di catatan asli ditulis varian telang; nama resmi Royal Blue & Moringa, Moringa itu kelor, komposisi pastinya cek kemasan).
-• Parfum Secret Garden: banyak ditemukan di mal-mal, wanginya kita suka, harganya juga terjangkau.
-• SHAKEEL BEADS: toko perhiasan di Kuta, modelnya banyak banget, recommended banget buat mampir.
+Selain makan, aku juga bawa pulang beberapa barang yang kepake dan aku suka:
+• Rejoice 3 in 1 Shampoo Rich Soft Smooth (Fēiróu): sampo yang dijual di sana, bikin rambut lembut banget.
+• Mustika Ratu Royal Blue & Moringa Body Lotion: wanginya enak, nggak lengket (di catatan asli ditulis varian telang; nama resmi Royal Blue & Moringa, Moringa itu kelor — bahan asli cek kemasan ya).
+• Parfum Secret Garden: banyak di mall, wanginya kita suka, harganya juga worth it.
+• SHAKEEL BEADS: toko perhiasan di Kuta, modelnya banyak banget — recommended banget buat mampir.
 
 Tambahan info:
-• Mustika Ratu: brand kosmetik herbal (Jamu) dan natural terkenal di Indonesia. Royal Blue & Moringa adalah varian body lotion edisi spesial untuk acara Puteri Indonesia 2025. Series ini juga punya varian Rose Radiance, Javanese Jasmine, Lily & Honey Nectar, dll.
-• Secret Garden: brand ini berasal dari Secret Garden Village di Bali, berdiri tahun 2016, mottonya 'Inspired by Earth, Made for You'. Kabarnya, sekarang udah punya 75 toko di seluruh Indonesia, makanya gampang ditemuin di mal-mal. Oktober 2025, brand ini ngeluarin koleksi Extrait de Parfum pertama yang terinspirasi dari aroma Bali.
+• Mustika Ratu: brand kosmetik herbal (Jamu) dan natural terkenal di Indonesia. Royal Blue & Moringa adalah varian body lotion edisi spesial untuk acara Puteri Indonesia 2025 — satu seri juga ada Rose Radiance, Javanese Jasmine, Lily & Honey Nectar.
+• Secret Garden: brand ini lahir tahun 2016 dari Secret Garden Village di Bali, konsepnya 'Inspired by Earth, Made for You'. Katanya sekarang udah punya 75 toko di seluruh Indonesia, makanya gampang ditemuin di mall. Oktober 2025 mereka launching seri Extrait de Parfum pertama, aroma terinspirasi Bali.
 
-## Jalan-Jalan dan Pasar: Dari Mal Sampai Kehidupan Lokal
+## Jalan-Jalan dan Pasar: dari Mal sampai Kehidupan Lokal
 
-• Icon Bali（Sanur）：Mal baru yang dibuka tahun 2024, ada pertunjukan tari tradisional di dalamnya, dan mal-nya langsung terhubung ke pantai — belanja sambil lihat laut bisa kamu dapatkan sekaligus.
+• Icon Bali（Sanur）：Mal yang baru dibuka tahun 2024, ada pertunjukan tari tradisional di dalamnya, dan mal-nya langsung terhubung ke pantai — belanja sambil lihat laut bisa kamu dapatkan sekaligus.
 
 https://youtu.be/hdIKOX5wghU?si=AAMKvUO3vdACuGBS
 
@@ -133,30 +133,31 @@ https://youtu.be/hdIKOX5wghU?si=AAMKvUO3vdACuGBS
 
 • Living World Mall Denpasar（Denpasar）：Ruangannya luas, sirkulasinya nyaman, jalan-jalannya santai banget; kalau capek, ada kursi goyang yang enak buat duduk, dan banyak brand lokal Indonesia.
 
-[【Living World Denpasar】峇里島最新購物中心攻略｜品牌、美食(峇里島海底撈)、超市、交通一次看](https://gobaligo.id/id/blog/Living-World-Denpasar/)
+[【Living World Denpasar】Panduan Mal Terbaru di Bali｜Brand, Kuliner (Haidilao Bali), Supermarket, Transportasi Sekalian](https://gobaligo.id/id/blog/Living-World-Denpasar/)
 
-• Pasar Seni Kumbasari（Pasar Tradisional Denpasar）：Ini pasar paling lokal, bisa lihat kehidupan sehari-hari warga setempat. Turis biasanya nggak ke sini, tapi kami suka banget; ada berbagai macam barang seperti aksesoris seni, rempah-rempah, dan lain-lain.
+• Pasar Seni Kumbasari（Pasar Tradisional Denpasar）：Ini pasar paling lokal, bisa lihat kehidupan sehari-hari warga setempat. Turis biasanya nggak ke sini, tapi kami suka banget; ada kerajinan seni, rempah-rempah, dan berbagai barang lainnya lengkap.
 
 https://youtu.be/RRurkFC7UG4?si=NxDtfxrgEQ3RkfpT
 
-Tambahan:
-• Icon Bali：Resmi dibuka 7 Juni 2024, lokasinya di pinggir Pantai Sanur, punya dua pintu masuk — satu menghadap jalan utama, satu langsung ke pantai. Luasnya 38.570 meter persegi, sekitar 200 toko, termasuk Uniqlo, H&M, dan Marks & Spencer, plus bioskop IMAX pertama di Bali. "8 Wonders of Icon Bali" meliputi pasar terapung, taman kupu-kupu, hutan vertikal, dan teater budaya; panggung budaya setiap hari ada pertunjukan tari tradisional Bali. Mal juga punya ruang untuk UMKM lokal memamerkan produk mereka.
-• Mall Bali Galeria：Ada di samping Bundaran Dewa Ruci, Kuta, dekat Jl. Bypass Ngurah Rai, lokasinya strategis. Bangunan paling mencolok adalah DFS Galleria bebas bea, di dalam mal ada Cinema XXI, buka setiap hari jam 10 pagi sampai 10 malam.
-• Living World Denpasar：Dibuka 24 Maret 2023, ini Living World pertama Kawan Lama Group di Bali, berlokasi di Jl. Gatot Subroto Timur. Luas lantai sekitar 120.000 meter persegi, lima lantai, sebelum dibuka diumumkan ada lebih dari 350 tenant; pakai desain hemat energi seperti panel surya dan lampu LED, menurut info resmi, sekitar 70% karyawannya orang lokal.
-• Pasar Seni Kumbasari：Ada di Jl. Gajah Mada, berseberangan dengan Pasar Badung di seberang Sungai Badung; pasar ini terdiri dari dua gedung, menggabungkan jual-beli sehari-hari lokal dengan kerajinan wisata. Menurut Kementerian Pariwisata Indonesia, ada lebih dari 1000 kios di sini, jual batik, ukiran kayu, perak, tas anyaman rotan, dll. Sebagian besar pedagang bisa ditawar; parkir terbatas, lebih enak naik motor atau jalan kaki. Jam buka dari berbagai sumber agak beda, umumnya sekitar jam 8-9 pagi sampai 5-6 sore, mending cek lagi sebelum berangkat.
+Tambahan info:
+• Icon Bali: Resmi dibuka 7 Juni 2024, lokasinya di pinggir Pantai Sanur, punya dua pintu masuk — satu menghadap jalan utama, satu langsung ke pantai. Luasnya 38.570 meter persegi, sekitar 200 toko, termasuk Uniqlo, H&M, dan Marks & Spencer, plus bioskop IMAX pertama di Bali. "8 Wonders of Icon Bali" meliputi pasar terapung, taman kupu-kupu, hutan vertikal, dan teater budaya; panggung budaya punya pertunjukan tari tradisional Bali setiap hari. Mal juga punya ruang untuk UMKM lokal memamerkan produk mereka.
+• Mall Bali Galeria: Ada di samping Bundaran Dewa Ruci, Kuta, dekat Jl. Bypass Ngurah Rai, lokasinya strategis. Bangunan paling mencolok adalah DFS Galleria bebas bea, di dalam mal ada Cinema XXI, buka setiap hari jam 10 pagi sampai 10 malam.
+• Living World Denpasar: Dibuka 24 Maret 2023, ini Living World pertama Kawan Lama Group di Bali, berlokasi di Jl. Gatot Subroto Timur. Luas lantai sekitar 120.000 meter persegi, lima lantai, sebelum dibuka diumumkan ada lebih dari 350 toko; pakai panel surya dan lampu LED untuk desain hemat energi, menurut info resmi, sekitar 70% karyawannya adalah warga lokal.
+• Pasar Seni Kumbasari: Ada di Jl. Gajah Mada, berseberangan dengan Pasar Badung di seberang Sungai Badung; pasar ini terdiri dari dua gedung, menggabungkan jual-beli sehari-hari lokal dengan kerajinan wisata. Menurut Kementerian Pariwisata Indonesia, ada lebih dari 1.000 kios di sini, jual batik, ukiran kayu, perak, dan tas anyaman rotan. Sebagian besar pedagang bisa ditawar; parkir terbatas, lebih enak naik motor atau jalan kaki. Jam buka dari berbagai sumber sedikit berbeda, kira-kira jam 8-9 pagi sampai jam 5-6 sore, disarankan cek lagi sebelum berangkat.
 
 Kalau mau merasakan sisi lain Bali, dibanding tempat wisata, pasar yang dekat dengan kehidupan sehari-hari ini lebih bikin kami terkesan.
 
-## Supir Pemandu Terbaik: Jimmi Liu
+## Supir & Pemandu Wisata Terbaik: Jimmi Liu
 
 ![](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
 Yang paling patut disyukuri dari perjalanan ini adalah berkenalan dengan Jimmi Liu lewat grup. Buat kami, dia bukan cuma sopir, tapi sahabat paling perhatian dan bisa diandalkan di Bali.
 
-Waktu topan kemarin bikin penerbangan dibatalkan, keesokan harinya Jimmi langsung sigap anter kami ke konter China Airlines di lantai 2 bandara buat negosiasi ganti tiket. Di momen kayak gini, punya teman yang bisa komunikasi pake bahasa lokal itu penting banget. Meskipun pake bahasa Inggris juga bisa, tapi begitu staf China Airlines lokal dengar Jimmi ngomong, mereka langsung lega dan cepet urus tiket kami, jadinya kami bisa atur ulang rencana perjalanan.
+Waktu itu topan bikin penerbangan dibatalkan. Keesokan harinya, Jimmi langsung bawa kami ke konter China Airlines di lantai 2 bandara buat negosiasi ganti tiket. Di saat kayak gini, punya teman yang bisa bahasa lokal itu penting banget. Meskipun pakai bahasa Inggris juga bisa, tapi pas staf China Airlines lokal dengar Jimmi ngomong, mereka langsung lega dan cepet ngurus tiket kami, jadi kami bisa atur ulang itinerary.
 
-Dari urusan sebesar ganti tiket sampe hal kecil kayak tukar uang, cek pesanan, dan hitung tagihan, Jimmi selalu siap bantu. Bantuan lainnya juga nggak usah diragukan lagi. Dengan dia di samping kami, perjalanan di Bali jadi terasa lebih aman dan hangat.
+Dari urusan sebesar ganti tiket sampai hal kecil kayak tukar uang, cek pesanan makanan, dan hitung tagihan — Jimmi selalu siap bantu. Bantuan lainnya juga nggak perlu diragukan lagi. Dengan dia di samping kami, perjalanan di Bali jadi terasa lebih aman dan hangat.
+
 Penutup
-Sudah tahun keempat berturut-turut ke Bali, dan gara-gara topan malah nambah lima hari, kami malah makin ngerasain pesona tempat ini: cuaca yang kering, senyum ramah, makanan khas yang enak, dan satu teman lokal yang bisa dipercaya.
+Ini tahun keempat berturut-turut kami ke Bali, dan gara-gara topan malah nambah lima hari. Tapi justru di situ kami makin ngerasain pesona Bali: cuaca yang cerah, senyum ramah, makanan lokal yang enak, dan satu teman lokal yang benar-benar bisa dipercaya.
 
-Makasih juga buat admin grup yang rekomendasinya tulus, bikin perjalanan kami penuh kenangan enak, seru, dan asyik. Lain kali datang lagi, pasti kami bakal bawa harapan yang sama buat balik ke pulau ini.
+Makasih juga buat admin grup yang rekomendasinya tulus, bikin perjalanan kami penuh kenangan seru — makan enak, jalan-jalan asik, dan tempat-tempat keren. Lain kali kami pasti bakal balik lagi ke pulau ini dengan rasa penasaran yang sama.

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 2)｜Sharing Asli dari
+  Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 2)｜Pengalaman Nyata dari
   Anggota Grup
 slug: bali-drivers-recommendations-2
 description: >-
@@ -23,20 +23,20 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-11-04T08:41:43+08:00'
-updatedDate: 2026-11-04T00:00:00.000Z
+contentUpdatedAt: '2026-11-06T07:39:13+08:00'
+updatedDate: 2026-11-06T00:00:00.000Z
 lang: id
-_srcHash: PENDING_RETRY_e7385b4f04fe20426922903bebbb8ec4
+_srcHash: PENDING_RETRY_8ad8d1ac9a4e1cf30e70f0d8eae32849
 _translateAttempts: 1
 ---
 
-**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi 20+ **driver, 258 cerita perjalanan** yang dibagikan langsung oleh anggota grup di Facebook. Deretan angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
+**Apa isi halaman ini**: Halaman **kedua** dari daftar rekomendasi driver sewa mobil di Bali, berisi 20+ **driver** dan **258 pengalaman naik** yang dibagikan langsung oleh anggota grup di Facebook. Deretan angka di bawah setiap driver adalah link ke postingan asli — bisa kamu klik sendiri untuk verifikasi.
 
 Tarif sewa mobil sekitar **Rp 600.000–800.000 / 10 jam / mobil 5 penumpang** (harga per mobil, bukan per orang, untuk area selatan Ubud). Mulai 1 Juli 2026 ada tambahan biaya bensin (Rp 50.000 untuk setengah hari, Rp 100.000 untuk sehari penuh). Biaya tambahan lintas zona, tarif lembur, dan cara booking sudah dirangkum di [halaman pertama](/id/blog/bali-private-car-drivers-guide/).
 
-> Saat menghubungi driver, tolong jelaskan sekaligus: **tanggal, berapa hari, jumlah orang & bagasi, lokasi jemput dan antar, tempat wisata yang ingin dikunjungi**. Juga tanyakan total harga termasuk biaya lintas zona. ⚠️ Untuk Line, ID tidak bisa dipakai di luar zona — harus **scan QR Code**.
+> Saat menghubungi driver, tolong jelaskan sekaligus: **tanggal, berapa hari, jumlah orang & barang bawaan, lokasi jemput & turun, tempat wisata yang ingin dikunjungi**. Tanyakan juga total harga termasuk biaya lintas zona. ⚠️ Untuk Line, ID tidak bisa dipakai di luar zona — harus **scan QR Code**.
 
-**👉 Di halaman pertama ada 24 driver lainnya (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
+**👉 Masih ada 24 driver lain di halaman pertama (termasuk 9 driver berbahasa Mandarin):** [**Daftar Rekomendasi Driver Sewa Mobil di Bali (Halaman 1)**](/id/blog/bali-private-car-drivers-guide/)
 
 ## Daftar 20+ Driver di Halaman Ini
 
@@ -114,7 +114,7 @@ Urutan **bukan peringkat**,
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[Rekomendasi Netizen 1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[Rekomendasi Netizen 2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[Rekomendasi Netizen 3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[Rekomendasi Netizen 4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[Rekomendasi Netizen 5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[Rekomendasi Netizen 6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[Rekomendasi Netizen 7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[Rekomendasi Netizen 8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[Rekomendasi Netizen 9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[Rekomendasi Netizen 10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[Rekomendasi Netizen 11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[Rekomendasi Netizen 12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[Rekomendasi Netizen 13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[Rekomendasi Netizen 14](https://www.facebook.com/share/p/19aDki14Zu/)
+👍🏼[Rekomendasi Netizen 1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[Rekomendasi Netizen 2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[Rekomendasi Netizen 3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[Rekomendasi Netizen 4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[Rekomendasi Netizen 5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[Rekomendasi Netizen 6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[Rekomendasi Netizen 7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[Rekomendasi Netizen 8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[Rekomendasi Netizen 9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[Rekomendasi Netizen 10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[Rekomendasi Netizen 11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[Rekomendasi Netizen 12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[Rekomendasi Netizen 13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[Rekomendasi Netizen 14](https://www.facebook.com/share/p/19aDki14Zu/)[ ](https://www.facebook.com/share/p/14rYvw4atCQ/)👍🏼[Rekomendasi Netizen 15](https://www.facebook.com/share/p/14rYvw4atCQ/)
 
 ## Iwayan Suantara si Kakang
 
@@ -158,7 +158,7 @@ Urutan **bukan peringkat**,
 
 ![raw-image](https://images.gobaligo.id/images/2026-08/1787101679043-_2026-01-17_16.18.26.png)
 
-👍 **5 testimoni langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
+👍 **5 review langsung dari netizen** (klik angka untuk lihat postingan asli di grup): [1](https://www.facebook.com/share/p/1DKfhiZWRu/) [2](https://www.facebook.com/share/p/1G9hdFE9Up/) [3](https://www.facebook.com/share/p/18MAFMbc4m/) [4](https://www.facebook.com/share/p/1JgMwhqdGu/) [5](https://www.facebook.com/share/p/19G8jZNwM8/)
 
 {{block:klook}}
 
@@ -174,7 +174,7 @@ Urutan **bukan peringkat**,
 
 ![](https://images.gobaligo.id/vocus/vocus_e3807e924227e1f84d02c4dbf3775962.png)
 
-👍🏼[Rekomendasi netizen 1](https://www.facebook.com/groups/baligo/permalink/1526195867927653/) 👍🏼[Rekomendasi netizen 2](https://www.facebook.com/groups/baligo/permalink/1526515297895710/) 👍🏼[Rekomendasi netizen 3](https://www.facebook.com/groups/baligo/permalink/1526526447894595/) 👍🏼[Rekomendasi netizen](https://www.facebook.com/groups/baligo/permalink/1519567841923789/)[4](https://www.facebook.com/groups/baligo/permalink/1519567841923789/) 👍🏼[Rekomendasi netizen 5](https://www.facebook.com/groups/baligo/permalink/1538004816746758/) 👍🏼[Rekomendasi netizen 6](https://www.facebook.com/groups/baligo/permalink/1526540011226572/) 👍🏼[Rekomendasi netizen 7](https://www.facebook.com/groups/baligo/permalink/1587991575081415/)👍🏼[Rekomendasi netizen 8](https://www.facebook.com/groups/baligo/permalink/1563962710817635/) 👍🏼[Rekomendasi netizen 9](https://www.facebook.com/groups/baligo/permalink/1590943894786183/) 👍🏼[Rekomendasi netizen 10](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 👍🏼[Rekomendasi netizen 11](https://www.facebook.com/share/p/6WBU99FVzzoMyKxX/) 👍🏼[Rekomendasi netizen 12](https://www.facebook.com/share/p/EdQnB6HJuKmUuLkG/) 👍🏼[Rekomendasi netizen 13](https://www.facebook.com/share/p/14jZ6DXCbi/) 👍🏼[Rekomendasi netizen 14](https://www.facebook.com/share/p/1BGQxkPaMh/) 👍🏼[Rekomendasi netizen 15](https://www.facebook.com/share/p/1GZVcrBKdK/) 👍🏼[Rekomendasi netizen 16](https://www.facebook.com/share/p/14NuU8JxQih/) 👍🏼[Rekomendasi netizen 17](https://www.facebook.com/share/p/17TxuW7aF6/) 👍🏼[Rekomendasi netizen 18](https://www.facebook.com/share/p/1QP4H6kkdZ/) 👍🏼[Rekomendasi netizen 19](https://www.facebook.com/share/p/18WqAmhZDE/) 👍🏼[Rekomendasi netizen 20](https://www.facebook.com/share/p/1Cjq4T2Dpd/) 👍🏼[Rekomendasi netizen 21](https://www.facebook.com/share/p/1DfhWtfhJJ/)
+👍🏼[Rekomendasi Netizen 1](https://www.facebook.com/groups/baligo/permalink/1526195867927653/) 👍🏼[Rekomendasi Netizen 2](https://www.facebook.com/groups/baligo/permalink/1526515297895710/) 👍🏼[Rekomendasi Netizen 3](https://www.facebook.com/groups/baligo/permalink/1526526447894595/) 👍🏼[Rekomendasi Netizen](https://www.facebook.com/groups/baligo/permalink/1519567841923789/)[4](https://www.facebook.com/groups/baligo/permalink/1519567841923789/) 👍🏼[Rekomendasi Netizen 5](https://www.facebook.com/groups/baligo/permalink/1538004816746758/) 👍🏼[Rekomendasi Netizen 6](https://www.facebook.com/groups/baligo/permalink/1526540011226572/) 👍🏼[Rekomendasi Netizen 7](https://www.facebook.com/groups/baligo/permalink/1587991575081415/)👍🏼[Rekomendasi Netizen 8](https://www.facebook.com/groups/baligo/permalink/1563962710817635/) 👍🏼[Rekomendasi Netizen 9](https://www.facebook.com/groups/baligo/permalink/1590943894786183/) 👍🏼[Rekomendasi Netizen 10](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 👍🏼[Rekomendasi Netizen 11](https://www.facebook.com/share/p/6WBU99FVzzoMyKxX/) 👍🏼[Rekomendasi Netizen 12](https://www.facebook.com/share/p/EdQnB6HJuKmUuLkG/) 👍🏼[Rekomendasi Netizen 13](https://www.facebook.com/share/p/14jZ6DXCbi/) 👍🏼[Rekomendasi Netizen 14](https://www.facebook.com/share/p/1BGQxkPaMh/) 👍🏼[Rekomendasi Netizen 15](https://www.facebook.com/share/p/1GZVcrBKdK/) 👍🏼[Rekomendasi Netizen 16](https://www.facebook.com/share/p/14NuU8JxQih/) 👍🏼[Rekomendasi Netizen 17](https://www.facebook.com/share/p/17TxuW7aF6/) 👍🏼[Rekomendasi Netizen 18](https://www.facebook.com/share/p/1QP4H6kkdZ/) 👍🏼[Rekomendasi Netizen 19](https://www.facebook.com/share/p/18WqAmhZDE/) 👍🏼[Rekomendasi Netizen 20](https://www.facebook.com/share/p/1Cjq4T2Dpd/) 👍🏼[Rekomendasi Netizen 21](https://www.facebook.com/share/p/1DfhWtfhJJ/)
 
 ***
 
@@ -182,4 +182,4 @@ Urutan **bukan peringkat**,
 
 👈 **Kembali ke Panduan Lengkap Liburan ke Bali**
 
-Mau lihat panduan lengkap untuk pemula? [Klik di sini baca «Panduan Lengkap Liburan ke Bali 2026»](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.
+Mau lihat panduan lengkap untuk pemula? [Klik di sini baca 「Panduan Lengkap Liburan ke Bali 2026」](/id/blog/bali-ultimate-guide-2026/), langsung paham apa yang harus dilakukan sebelum berangkat.

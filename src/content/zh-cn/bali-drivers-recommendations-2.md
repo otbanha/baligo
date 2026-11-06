@@ -17,10 +17,10 @@ source: ''
 sourceUrl: ''
 shuffle_h2: true
 embeds: []
-contentUpdatedAt: '2026-11-04T08:41:43+08:00'
-updatedDate: 2026-11-04T00:00:00.000Z
+contentUpdatedAt: '2026-11-06T07:39:13+08:00'
+updatedDate: 2026-11-06T00:00:00.000Z
 lang: zh-cn
-_srcHash: e7385b4f04fe20426922903bebbb8ec4
+_srcHash: 8ad8d1ac9a4e1cf30e70f0d8eae32849
 ---
 
 **本页是什么**：巴厘岛包车司机推荐名单的**第二页**，收录20+**位司机、258 则团友在脸书社团自己发文的搭乘分享**。每位司机底下那排数字都是原始贴文链接，可以自己点开查证。
@@ -107,7 +107,7 @@ _srcHash: e7385b4f04fe20426922903bebbb8ec4
 
 ![Vina](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/19aDki14Zu/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18mL44rk89/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1UCWrJKutL/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1FWDiN8vP8/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/19aDki14Zu/)[ ](https://www.facebook.com/share/p/14rYvw4atCQ/)👍🏼[网友推荐15](https://www.facebook.com/share/p/14rYvw4atCQ/)
 
 ## Iwayan Suantara 康哥
 
