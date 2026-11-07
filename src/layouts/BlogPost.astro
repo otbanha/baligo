@@ -15,6 +15,7 @@ import { getPostIndex, seededShuffle } from '../utils/post-index';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 import { getAvailableLangs } from '../utils/lang-availability';
 import { AUTHOR } from '../data/author';
+import { getAuthorPersona } from '../data/authors';
 import { catUrlSlug } from '../lib/categoryConfig';
 import bridgeEnabledSlugs from '../data/bridge-enabled.json';
 import { readFileSync } from 'fs';
@@ -30,7 +31,9 @@ type Driver = {
 };
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean; line_qr_guide?: boolean };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false, newsCategory, source, sourceUrl, tags, untranslated = false } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false, newsCategory, source, sourceUrl, tags, author, untranslated = false } = Astro.props;
+
+const authorPersona = getAuthorPersona(author);
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -588,9 +591,13 @@ const spaFaqSchema = isSpaGuide ? {
             )}
             <h1>{title}</h1>
             <div class="author-byline">
-              <span class="author-avatar" aria-hidden="true">小</span>
+              {isZhTw && authorPersona.avatar ? (
+                <img src={authorPersona.avatar} alt="" class="author-avatar author-avatar-img" aria-hidden="true" width="2.2em" height="2.2em" />
+              ) : (
+                <span class="author-avatar" aria-hidden="true">{isZhTw ? authorPersona.initial : '小'}</span>
+              )}
               <span class="author-meta">
-                <a href={aboutHref} class="author-name" rel="author">{i18n.byAuthor}{i18n.authorName}</a>
+                <a href={aboutHref} class="author-name" rel="author">{i18n.byAuthor}{isZhTw ? authorPersona.name : i18n.authorName}</a>
                 <span class="author-tagline">{i18n.authorTagline}</span>
               </span>
             </div>
@@ -1473,6 +1480,7 @@ main {
 .title h1 { font-size: 1.6em; line-height: 1.4; font-weight: 700; color: var(--ocean); margin: 0 0 0.4em; }
 .author-byline { display: flex; align-items: center; gap: 0.6em; margin: 0.3em 0 0.6em; }
 .author-avatar { flex: none; width: 2.2em; height: 2.2em; border-radius: 50%; background: linear-gradient(135deg, var(--ocean), #2a7bb8); color: #fff; font-weight: 700; font-size: 0.95em; display: flex; align-items: center; justify-content: center; }
+.author-avatar-img { object-fit: cover; background: none; }
 .author-meta { display: flex; flex-direction: column; line-height: 1.3; }
 .author-name { font-size: 0.92em; font-weight: 600; color: var(--ocean); text-decoration: none; }
 .author-name:hover { text-decoration: underline; }
