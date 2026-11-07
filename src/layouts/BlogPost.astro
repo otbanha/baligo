@@ -941,6 +941,7 @@ window.addEventListener('load', () => {
     // ── 圖片 wrapper（浮水印 + 燈箱） ────────────────────
     function wrapImg(img: HTMLImageElement) {
       if (img.closest('.img-wrap')) return;
+      if (img.classList.contains('author-avatar-img')) return; // 作者頭像不是內文圖片，不套浮水印/燈箱包裝
       const wrap = document.createElement('div');
       wrap.className = 'img-wrap';
       img.parentNode!.insertBefore(wrap, img);
