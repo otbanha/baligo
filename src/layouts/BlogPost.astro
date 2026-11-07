@@ -14,7 +14,7 @@ import { getCollection } from 'astro:content';
 import { getPostIndex, seededShuffle } from '../utils/post-index';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 import { getAvailableLangs } from '../utils/lang-availability';
-import { AUTHOR } from '../data/author';
+import { getAuthorName, getAuthorBio, getNewsAuthorName } from '../data/author';
 import { catUrlSlug } from '../lib/categoryConfig';
 import bridgeEnabledSlugs from '../data/bridge-enabled.json';
 import { readFileSync } from 'fs';
@@ -294,17 +294,18 @@ const i18n = {
   discussionTitle: lang === 'en' ? '💬 Join the Discussion' : lang === 'zh-cn' ? '💬 加入讨论' : lang === 'id' ? '💬 Ikut Diskusi' : '💬 加入討論',
   discussionCta: lang === 'en' ? 'Discuss in Forum →' : lang === 'zh-cn' ? '前往讨论区留言 →' : lang === 'id' ? 'Diskusi di Forum →' : '前往討論區留言 →',
   byAuthor: lang === 'en' ? 'By ' : lang === 'id' ? 'Oleh ' : '作者：',
-  // en / id 的署名、日期、aria 標籤原本是中文（「Gobaligo編輯部」「2023年12月6日 · 更新於」）
-  authorName: lang === 'en' ? 'Go Bali Go Editorial Team' : lang === 'id' ? 'Tim Redaksi Go Bali Go' : AUTHOR.name,
+  // 新聞存檔文章不掛小傑爸，byline 顯示「Go Bali Go 新聞室」
+  authorName: cats.includes('新聞存檔') ? getNewsAuthorName(lang) : getAuthorName(lang),
   dateLocale: lang === 'en' ? 'en-US' : lang === 'id' ? 'id-ID' : 'zh-TW',
   updatedOn: lang === 'en' ? 'Updated' : lang === 'id' ? 'Diperbarui' : '更新於',
   catNavLabel: lang === 'en' ? 'Category navigation' : lang === 'id' ? 'Navigasi kategori' : '分類導覽',
   tocLabel: lang === 'en' ? 'Table of contents' : lang === 'id' ? 'Daftar isi' : '文章目錄',
-  authorTagline: lang === 'en' ? 'Go Bali Go editorial team · Bali travel guides'
-    : lang === 'zh-cn' ? 'Go Bali Go 内容团队・巴厘岛旅游攻略'
-    : lang === 'id' ? 'Tim editorial Go Bali Go · panduan wisata Bali'
-    : lang === 'zh-hk' ? 'Go Bali Go 內容團隊・峇里島旅遊攻略'
-    : 'Go Bali Go 內容團隊・峇里島旅遊攻略',
+  authorTagline: cats.includes('新聞存檔')
+    ? (lang === 'en' ? 'Go Bali Go Newsroom · Bali travel news'
+      : lang === 'zh-cn' ? 'Go Bali Go 新闻室・巴厘岛旅游资讯'
+      : lang === 'id' ? 'Redaksi Berita Go Bali Go · berita wisata Bali'
+      : 'Go Bali Go 新聞室・峇里島旅遊資訊')
+    : getAuthorBio(lang),
 };
 
 // 相關文章推薦：同分類優先，補足用 companion 分類（Topical Authority Siloing）
@@ -448,6 +449,7 @@ const spaFaqSchema = isSpaGuide ? {
     type="article"
     publishedTime={pubDate ? new Date(pubDate).toISOString() : undefined}
     modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined)}
+    isNews={cats.includes('新聞存檔')}
   />
 
   {isPrivate && <meta name="robots" content="noindex,nofollow" />}

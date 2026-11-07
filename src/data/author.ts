@@ -1,35 +1,107 @@
 /**
- * author.ts — 站方掛名作者：Gobaligo編輯部（團隊 EEAT 實體）
+ * author.ts — 站方掛名作者：小傑爸（真人作者，EEAT 實體）
  *
  * 用於：
- *   - SEO.astro：文章 JSON-LD 的 author（Organization）
- *   - about.astro：作者頁的 AboutPage + Organization 主體（@id 一致，做實體整合）
+ *   - SEO.astro：文章 JSON-LD 的 author（Person；新聞存檔文章例外，見 getArticleAuthorSchema）
+ *   - about.astro：作者頁的 ProfilePage + Person 主體（@id 一致，做實體整合）
  *   - BlogPost.astro：文章可見的作者 byline
  *   - BaseHead.astro：<meta name="author">
  *
  * sameAs 對應真實社群帳號（與 src/pages/index.astro 的 Organization sameAs 一致），
- * 讓 Google 把「Gobaligo編輯部」這個作者實體與 YouTube 頻道／FB 專頁綁在一起，補強 E-E-A-T。
+ * 讓 Google 把「小傑爸」這個作者實體與 YouTube 頻道／FB 專頁／討論區綁在一起，補強 E-E-A-T。
  */
 
+export type Lang = 'zh-tw' | 'zh-hk' | 'zh-cn' | 'en' | 'id';
+
+const SAME_AS = [
+  'https://www.facebook.com/bali.guide.blog',
+  'https://www.facebook.com/groups/indonesia.travelguide',
+  'https://www.youtube.com/@j_indonesia',
+  'https://www.instagram.com/go.bali.go/',
+  'https://www.threads.com/@go.bali.go',
+  'https://community.gobaligo.id/',
+] as const;
+
+const AVATAR = 'https://gobaligo.id/images/author/xiaojie-ba.jpg';
+
+const NAMES: Record<Lang, string> = {
+  'zh-tw': '小傑爸',
+  'zh-hk': '小傑爸',
+  'zh-cn': '小杰爸',
+  en: "Mac (J's Dad)",
+  id: 'Mac (Ayah J)',
+};
+
+// byline 下方那行短介紹
+const BIOS: Record<Lang, string> = {
+  'zh-tw': '台灣人，長住印尼，Go Bali Go 站長',
+  'zh-hk': '台灣人，長住印尼，Go Bali Go 站長',
+  'zh-cn': '台湾人，长住印尼，Go Bali Go 站长',
+  en: 'Taiwanese, long-term resident of Indonesia, founder of Go Bali Go',
+  id: 'Orang Taiwan, tinggal lama di Indonesia, pendiri Go Bali Go',
+};
+
+export const AUTHOR_URL = 'https://gobaligo.id/about/';
+export const AUTHOR_ID = 'https://gobaligo.id/about/#person';
+
+function normalizeLang(lang?: string): Lang {
+  return (lang && lang in NAMES) ? (lang as Lang) : 'zh-tw';
+}
+
+export function getAuthorName(lang?: string): string {
+  return NAMES[normalizeLang(lang)];
+}
+
+export function getAuthorBio(lang?: string): string {
+  return BIOS[normalizeLang(lang)];
+}
+
+/** 預設（zh-TW）作者資料，供尚未改用 getAuthorName/getAuthorPerson 的地方讀取 */
 export const AUTHOR = {
-  name: 'Gobaligo編輯部',
-  // 作者頁（作者實體的正規網址；@id 用於跨頁實體整合）
-  url: 'https://gobaligo.id/about/',
-  id: 'https://gobaligo.id/about/#editorial-team',
-  sameAs: [
-    'https://www.youtube.com/@j_indonesia',
-    'https://www.facebook.com/bali.guide.blog',
-  ],
-  description:
-    'Gobaligo編輯部是「小傑印尼」YouTube 頻道與 Go Bali Go 峇里島旅遊攻略站背後的內容團隊。長期蒐集與實查島上住宿、簽證、交通與景點資訊，持續更新第一手內容，只為幫每位第一次去峇里島的旅人少走冤枉路、訂房不踩雷。',
+  name: NAMES['zh-tw'],
+  url: AUTHOR_URL,
+  id: AUTHOR_ID,
+  avatar: AVATAR,
+  sameAs: SAME_AS,
+  description: BIOS['zh-tw'],
 } as const;
 
-/** 可直接嵌入 JSON-LD `author` 欄位的 Organization 物件 */
-export const AUTHOR_ORG = {
-  '@type': 'Organization',
-  '@id': AUTHOR.id,
-  name: AUTHOR.name,
-  url: AUTHOR.url,
-  description: AUTHOR.description,
-  sameAs: AUTHOR.sameAs,
-} as const;
+/** 可直接嵌入 JSON-LD `author` 欄位的 Person 物件 */
+export function getAuthorPerson(lang?: string) {
+  return {
+    '@type': 'Person',
+    '@id': AUTHOR_ID,
+    name: getAuthorName(lang),
+    url: AUTHOR_URL,
+    image: AVATAR,
+    description: getAuthorBio(lang),
+    sameAs: [...SAME_AS],
+  } as const;
+}
+
+// ── 新聞存檔例外 ──────────────────────────────────────────────────────────────
+// /news/ 與 bali-news-* 文章不掛小傑爸，改用「Go Bali Go 新聞室」（Organization）。
+const NEWS_AUTHOR_NAMES: Record<Lang, string> = {
+  'zh-tw': 'Go Bali Go 新聞室',
+  'zh-hk': 'Go Bali Go 新聞室',
+  'zh-cn': 'Go Bali Go 新闻室',
+  en: 'Go Bali Go Newsroom',
+  id: 'Redaksi Berita Go Bali Go',
+};
+
+export function getNewsAuthorName(lang?: string): string {
+  return NEWS_AUTHOR_NAMES[normalizeLang(lang)];
+}
+
+export function getNewsAuthorOrg(lang?: string) {
+  return {
+    '@type': 'Organization',
+    name: getNewsAuthorName(lang),
+    url: 'https://gobaligo.id/news/',
+  } as const;
+}
+
+/** 文章 JSON-LD 的 author：新聞存檔用 Organization，其餘用小傑爸 Person */
+export function getArticleAuthorSchema(lang: string | undefined, isNews: boolean) {
+  return isNews ? getNewsAuthorOrg(lang) : getAuthorPerson(lang);
+}
