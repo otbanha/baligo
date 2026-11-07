@@ -10,8 +10,8 @@ export type AuthorPersona = '小傑爸' | '小傑媽';
 export const DEFAULT_AUTHOR_PERSONA: AuthorPersona = '小傑爸';
 
 export const AUTHOR_PERSONAS: Record<AuthorPersona, { name: string; initial: string; avatar?: string }> = {
-  小傑爸: { name: '小傑爸', initial: '爸' },
-  小傑媽: { name: '小傑媽', initial: '媽' },
+  小傑爸: { name: '小傑爸', initial: '爸', avatar: '/images/author-xiaojie-dad.jpg' },
+  小傑媽: { name: '小傑媽', initial: '媽', avatar: '/images/author-xiaojie-mom.jpg' },
 };
 
 export function getAuthorPersona(author?: string | null) {
