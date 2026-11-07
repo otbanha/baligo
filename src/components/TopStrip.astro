@@ -235,6 +235,25 @@ const row3Rendered = renderRow(row3);
   z-index: 40;
 }
 
+/* 手機版每列功能圖示會橫向捲動，右側加淡出提示讓使用者知道可以滑動 */
+.top-strip::after {
+  content: '';
+  display: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 28px;
+  background: linear-gradient(90deg, rgba(18, 40, 73, 0) 0%, #122849 85%);
+  pointer-events: none;
+}
+
+@media (max-width: 640px) {
+  .top-strip::after {
+    display: block;
+  }
+}
+
 .top-strip .strip-row {
   display: flex;
   align-items: stretch;
