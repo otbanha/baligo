@@ -1,6 +1,6 @@
 # Go Bali Go 峇里島旅遊攻略
 
-> 由「Gobaligo編輯部」（YouTube 頻道「小傑印尼」背後的內容團隊）維護的峇里島旅遊內容站，994 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。
+> 由「Gobaligo編輯部」（YouTube 頻道「小傑印尼」背後的內容團隊）維護的峇里島旅遊內容站，973 篇實地攻略，涵蓋住宿、簽證、交通、包車、分區選擇、景點美食、親子與行程規劃。主語言繁體中文，另有英文 /en/、简体中文 /zh-cn/、粵語 /zh-hk/ 版本，slug 相同。
 
 每一個頁面都有 markdown 版本：帶 `Accept: text/markdown` 請求，或在網址後面加 `.md`
 （例如 `https://gobaligo.id/blog/{slug}.md`）。回應會帶 `x-markdown-tokens` 供估算長度。
@@ -56,7 +56,6 @@
 
 ## 住宿推薦
 
-- [Canggu 新住宿｜The Arc House 私人泳池別墅：位置、設施、房型、評價](https://gobaligo.id/blog/the-arc-house-canggu-bali/): 香港Portier Hotels 旗下 The Arc House 首間據點落腳峇里島 Canggu，19 間私人泳池別墅、屋頂泳池、MYKAZA 餐廳與 Mello Spa，一篇看懂位置、設施、住房與開幕初期評價。
 - [2025新開幕｜Maar Resort Ubud 烏布叢林Villa推薦，稻田私人泳池渡假村](https://gobaligo.id/blog/maar-resort-ubud/): 2025年8月新開幕！Maar Resort & Spa Ubud 位於烏布 Payangan 高地，10間精品Villa含私人泳池與按摩浴缸，設有義大利餐廳 Cantina Classe 與 Svaha Spa。距 Tegallalang 梯田僅10分鐘，位置滿分10/10，是蜜月、療癒旅遊首選。
 - [Villa FEH 峇里島住宿｜25公尺私人泳池三房別墅推薦](https://gobaligo.id/blog/villa-feh/): 峇里島 Villa FEH 位於烏瑪拉斯一帶，擁有25公尺私人泳池、熱帶植栽與現代設計，適合家庭及朋友包棟入住。整理住宿設施、客房特色、住客評價與訂房注意事項。
 - [The Huntley Canggu 古典加州風別墅 - 9.9分評價](https://gobaligo.id/blog/the-huntley-canggu-review/): The Huntley Canggu 位於 Canggu Berawa，以加州中世紀設計聞名。私人泳池、4房選擇、Booking 9.9/10（76評論）。靠近 Finns & Atlas 海灘俱樂部
@@ -76,10 +75,10 @@
 - [【2026 水明漾住宿推薦】美食控必收！精選 8 間 Eat Street 走路就到、高 CP 值別墅與質感飯店清單](https://gobaligo.id/blog/seminyak-eat-street-hotels-villas/): 住在水明漾最精華地段！本文為美食愛好者嚴選 8 間鄰近 Eat Street (Jalan Kayu Aya) 的優質住宿。從主打超高 CP 值的私人泳池別墅，到鬧中取靜的精品度假村全收錄。出門即是 Sisterfields、Revolver 等熱門餐廳，讓您省下塞車時間，盡情享受峇里島最頂級的美食與購物體驗！
 - [【水明漾住宿推薦】RC Villas & Spa Seminyak 開箱：鬧中取靜的私人泳池別墅，出門即是美食街與潮流選物店](https://gobaligo.id/blog/RC-Villas-Spa-Seminyak/): 想住在水明漾最繁華的核心地段，又渴望私人別墅的寧靜嗎？本文開箱 RC Villas & Spa Seminyak，這間位於美食街（Eat Street）旁的私人泳池 Villa，不僅生活機能無敵，更提供寬敞的起居空間與專業 Spa 服務。是您峇里島自由行、情侶度假或家庭出遊的完美首選！
 - [【2026 烏布新飯店】Alaya Suites Ubud 開箱：隱身綠意的靜謐質感套房，烏布慢活度假的新據點](https://gobaligo.id/blog/alaya-suites-ubud/): 烏布住宿新選擇！Alaya Suites Ubud 正式開幕，延續 Alaya 集團的優雅美學，提供更具私密感的靜謐套房體驗。本文詳細介紹飯店環境、套房特色與周邊景點，帶您領略這座隱身於田園綠意中的質感據點，是您 2026 年峇里島烏布避世度假的理想之選。
+- [麗晶峇里島長谷 Regent Bali Canggu 開箱體驗，IHG 頂級度假村定義海濱美學新高度](https://gobaligo.id/blog/regent-bali-canggu/): 長谷不再只有衝浪與咖啡廳！Regent Bali Canggu 正式營運，為峇里島東海岸帶來極致奢華體驗。本文深入解析 Regent Bali Canggu 的房型設計、無邊際泳池與頂級餐廳，告訴您為何這間 IHG 旗艦度假村是 2026 年必住的奢華清單。立即探索這座結合現代美學與峇里島靈魂的最新地標！
 
 ## 峇里島分區攻略
 
-- [峇里島新景點一直開，為什麼我還是回水明漾？](https://gobaligo.id/blog/seminyak-perfect-vacation-guide/): 水明漾（Seminyak）是峇里島最適合度假的區域之一。從海灘飯店與私人別墅、Eat Street 餐廳、海灘俱樂部日落，到 SPA、交通與季節重點，出發前一篇看懂。
 - [峇里島沙努爾 Coworking & Work Cafe 攻略｜10+間適合工作的咖啡廳](https://gobaligo.id/blog/sanur-work-cafe/): 峇里島 Sanur 遠端工作攻略，整理 Sanur Coworking Space 與 Work Cafe，包含 FLOW Workspace、Livit Hub、Genius Cafe、Medin、Blend、Goldmine Coffee 等，找適合工作的咖啡廳。
 - [峇里島水明漾 Coworking & Work Cafe 攻略｜20+間適合工作的咖啡廳](https://gobaligo.id/blog/seminyak-work-cafe/): 峇里島水明漾 Coworking、Work Cafe 推薦，整理水明漾、Petitenget、Batu Belig 一帶適合遠端工作的空間，包含 Wi-Fi、插座、冷氣與工作環境。
 - [峇里島平價10+ Day Club 推薦：不用買昂貴 Day Pass，吃飯也能玩泳池](https://gobaligo.id/blog/day-clubs-bali/): 峇里島平價 Day Club 推薦！整理 Banana Lounge、Folk Pool & Gardens、Delpi Cafe、Jungle Fish 等，不用昂貴 Day Pass，也能吃飯、泡泳池、使用躺椅。
@@ -99,6 +98,7 @@
 - [【2026 峇里島住宿指南】五大熱門區域比較：庫塔、水明漾、倉古/長谷、烏布怎麼選？](https://gobaligo.id/blog/bali-accommodation-area-guide/): 計畫峇里島自由行卻不知道住哪區？本篇深入分析庫塔、雷吉安、水明漾、倉古與烏布五大熱門區域。從交通便利度、逛街購物、夜生活到自然景觀全面評比，助你做出明智的住宿選擇，打造最完美的峇里島假期！
 - [峇里島沙努爾/ Sanur 大升級！為什麼現在是衝一波的最佳時機？🌴✨](https://gobaligo.id/blog/sanur-upgrade-guide/): 別再以為沙努爾只是養老區！本篇解析 Sanur 如何從老牌海灘蛻變為現代度假勝地。包含全新 Icon Bali 購物中心、五星級飯店與碼頭升級資訊。如果你渴望寧靜卻又不捨棄生活機能，現在就是衝一波沙努爾的最佳時機！
 - [【2026 長谷攻略】Canggu 旅遊地圖 100 選：網美咖啡廳、衝浪秘境與最潮市集全收錄](https://gobaligo.id/blog/canggu-guide/): 走進峇里島最酷的區域！本篇終極攻略揭示長谷 (Canggu) 100 個必遊地點，包含 Instagram 熱門打卡咖啡廳、連兩年爆紅的 La Brisa 週末市集、世界級衝浪點與隱藏版夕陽酒吧。帶您深入倉古的創意靈魂，體驗最道地的峇里島時髦生活。
+- [烏布美食推薦｜峇里島最強食記：從髒鴨飯、豬肋排到稻田網美咖啡廳](https://gobaligo.id/blog/ubud-food-guide/): 烏布必吃什麼？本篇精選烏布最強美食攻略！包含在地必吃髒鴨飯、超人氣豬肋排、隱藏版稻田咖啡廳與精緻素食餐廳。無論是想看著梯田用餐，還是探索熱鬧市集小吃，這份烏布美食清單讓你的味蕾不踩雷！
 
 ## 叫車包車
 
@@ -125,9 +125,6 @@
 
 ## 美食景點活動
 
-- [峇里島 Penjor Festival 2026｜GWK免費文化節、活動日期與表演時間](https://gobaligo.id/blog/Penjor-Festival-2026/): 峇里島 GWK Penjor Festival 2026 將於11月5日至8日在 Lotus Pond 免費登場！欣賞傳統 Penjor 竹飾、峇里島音樂表演、文化工作坊及在地美食市集，完整活動資訊一次看。
-- [峇里島森林系餐廳推薦｜烏布、長谷、水明漾 5 家療癒花園餐廳](https://gobaligo.id/blog/bali-forest-garden-restaurants/): 厭倦海灘俱樂部與市區車陣？精選烏布、長谷、水明漾共 5 家被綠意包圍的森林與花園餐廳，附營業時間，從稻田景觀咖啡館到室內有機農場一次看。
-- [峇里島 AYANA 餐廳推薦：從懸崖夕陽酒吧、日式鐵板燒、義大利料理，一篇搞懂怎麼吃！](https://gobaligo.id/blog/ayana-bali-restaurants-guide/): 峇里島 AYANA Bali 餐廳怎麼選？介紹 Padi、To’Ge、HONZEN 日式鐵板燒、Sami Sami、Damar Terrace、Rock Bar、Kampoeng Bali 與 KISIK，整理餐飲特色、旅客評價、預算及訂位建議。
 - [Beachwalk Shopping Center: 庫塔區首屈一指的購物中心：逛街、吃飯、看海一次搞定](https://gobaligo.id/blog/Beachwalk-Shopping-Center/): 峇里島庫塔 Beachwalk Shopping Center 購物攻略！整理 Zara、Uniqlo 等品牌、印尼料理與日式餐廳、Candylicious 糖果店、Cocomart 超市、電影院及交通資訊，逛街、吃飯、看庫塔海灘夕陽一次搞定。
 - [峇里島平價10+ Day Club 推薦：不用買昂貴 Day Pass，吃飯也能玩泳池](https://gobaligo.id/blog/day-clubs-bali/): 峇里島平價 Day Club 推薦！整理 Banana Lounge、Folk Pool & Gardens、Delpi Cafe、Jungle Fish 等，不用昂貴 Day Pass，也能吃飯、泡泳池、使用躺椅。
 - [峇里島秘境峽谷貝吉古旺攻略｜Beji Guwang Hidden Canyon Trekking、評價與注意事項](https://gobaligo.id/blog/beji-guwang-hidden-canyon-trekking/): 貝吉古旺峽谷 Beji Guwang Hidden Canyon 攻略，介紹峇里島隱藏峽谷 Trekking、游泳攀岩體驗、網友評價、Klook行程與注意事項
@@ -145,6 +142,9 @@
 - [佩妮達島Kelingking Beach安全嗎？絕美T-Rex懸崖的隱藏風險與注意事項](https://gobaligo.id/blog/kelingking-beach-nusa-penida-safety-tips/): 峇里島佩妮達島Kelingking Beach絕美聞名,但陡峭步道缺乏防護、離岸流暗藏危機。出發前必看的安全提醒與實用建議,讓你安全欣賞這片網美聖地。
 - [烏布 ATV 越野車｜免帶相機！Insta360 租借拍攝第三人稱電影大片（含午餐保險）](https://gobaligo.id/blog/ubud-atv-with-insta-360/): 烏布 ATV 越野車終極體驗！免自備相機，每車標配 Insta360，第三人稱與隱形自拍棒捕捉泥濘叢林、黑暗隧道與梯田全景。含午餐、保險、90 分鐘騎乘、雲端影片下載。一人一車 250cc，出發當電影主角！
 - [榴槤的歷史｜從皇室貢品到水果之王，揭開榴槤千年傳奇｜峇里島榴槤產季](https://gobaligo.id/blog/history-of-durian/): 榴槤為何被稱為水果之王？本文帶你認識榴槤名稱的由來、婆羅洲起源、古代文獻記載、皇室貢品傳說，以及榴槤在印尼與東南亞文化中的重要地位。
+- [峇里島首座 Premium Outlet 開幕！海龜島 Sira Village Grand Outlet Bali 必逛品牌、購物亮點一次看](https://gobaligo.id/blog/sira-village-grand-outlet-bali/): 峇里島第一座 Premium Outlet 正式開幕！Sira Village Grand Outlet Bali 位於 Kura Kura Bali 海龜島經濟特區，集結超過 100 個國際品牌、全年 Outlet 折扣、美食、夕陽海景及即時航班資訊，是峇里島最新必訪購物景點。
+- [峇里島最新打卡熱點！Holywings Wellness Club 開幕，打造海景健身、冰浴、桑拿一站式療癒體驗](https://gobaligo.id/blog/holywings-wellness-club-bali/): 峇里島 Holywings Wellness Club 正式開幕！結合海景健身房、HYROX、Hot Pilates、冰浴、桑拿與 SPA，打造全新 Wellness Travel 體驗。本文整理設施亮點、地點、適合族群與 FAQ。
+- [水明漾夕陽美景餐廳大集合｜8間必訪海景餐廳，在世界級夕陽下享受最浪漫的峇里島時光](https://gobaligo.id/blog/seminyak-sunset-restaurants-guide/): |-
 
 ## 家庭親子
 
@@ -171,8 +171,6 @@
 
 ## 旅遊專題
 
-- [峇里島雨季延後！南部12月中才來，11月初強降雨別誤會!](https://gobaligo.id/blog/bali-rainy-season-2026-delayed/): 11月初峇里島下起強降雨，但南部雨季預計12月11日到20日才開始。聖嬰現象讓雨季延後，附近期旅遊與防淹水提醒。
-- [峇里島蛇皮果怎麼吃？營養、功效與最好吃的砂糖蛇皮果](https://gobaligo.id/blog/snake-fruit/): 峇里島蛇皮果怎麼吃、營養價值有哪些？一次看懂蛇皮果的熱量、膳食纖維、「記憶之果」由來與美容說法，並推薦甜度高、澀味少的砂糖蛇皮果（Salak Gula Pasir）與產地 Sibetan 村。
 - [印尼火燒山空污爆表，峇里島有霧霾影響嗎？](https://gobaligo.id/blog/indonesia-forest-fire-haze-bali-air-quality/): 印尼加里曼丹火燒山霧霾蔓延新加坡、馬來西亞，峇里島有受影響嗎？整理最新空氣指數、風向與旅客建議，出發前先看這篇。
 - [峇里島 2026–2027 雨季預測｜11 月、12 月會一直下雨嗎？](https://gobaligo.id/blog/bali-rainy-season-forecast-2026-2027/): 峇里島最新雨季預測：大部分地區預計 2026 年 12 月進入雨季，2027 年 2 月可能迎來高峰。了解雨季時間及旅遊注意事項。
 - [峇里島 SIM 卡別亂買！數位遊牧待 1 個月以上必看 IMEI 注意事項](https://gobaligo.id/blog/bali-sim-card-imei-grapari/): 在峇里島待超過 1 個月？路邊買 SIM 卡常遇到價格偏高、30 天後 IMEI 被鎖而斷網的狀況。直接去 Telkomsel GraPARI 官方門市辦理，資費透明又安心，已買卡的人也能續期。
@@ -191,6 +189,8 @@
 - [峇里島行李清單｜21項自由行必備準備秘訣](https://gobaligo.id/blog/bali-packing-checklist/): 第一次去峇里島自由行不知道帶什麼？整理了21項行李準備秘訣，從護照、防曬到防水包，還有在地購買的省錢技巧。看完這篇再看完整影片，成為巴里島旅行專家。
 - [印尼最佳旅遊時間｜峇里島、科摩多、龍目島、日惹旅遊季節指南](https://gobaligo.id/blog/best-time-to-travel-indonesia/): 印尼什麼時候最適合旅遊？整理峇里島、科摩多、龍目島、日惹、雅加達、民丹島等地的雨季與乾季，掌握各地最佳旅遊月份。
 - [印尼QRIS是什麼？2026峇里島無現金數位支付完全攻略｜台灣/香港人這樣用](https://gobaligo.id/blog/QRIS/): 台灣/香港人到峇里島能直接用手機掃QRIS付款嗎？本文完整說明印尼QRIS付款系統、跨境合作國家最新名單，以及GoPay、DANA、OVO儲值教學與注意事項，讓你輕鬆應付路邊攤到高級餐廳的各種消費場景。
+- [峇里島回台班機延誤趕不上大眾運輸？4 大交通方案 + 費用表](https://gobaligo.id/blog/bali-return-transport/): 從峇里島搭飛機回台常遇深夜或班機延誤？看這篇整理 4 大交通方案：機場接送 $800 起、計程車 $600、客運+機車只要 $120、URiDE 租車平日 $79/小時。含完整費用表、決策表、常見問題 QA，幫你秒選最省錢回家方式。
+- [峇里島「髒水病」真的這麼可怕？50+網友真實經驗談：從地獄拉肚子到全身而退的關鍵是什麼？](https://gobaligo.id/blog/water-of-bali/): 去峇里島怕「髒水病」？冰塊有毒？該不該帶濾芯？本文統整上百則網友第一手回饋，教你如何避開峇里島胃，大人小孩都能健康回家。
 
 ## 套裝行程
 
@@ -217,7 +217,6 @@
 
 ## 遊記分享
 
-- [峇里島十日遊｜連四年重返，美食、購物與包車推薦](https://gobaligo.id/blog/bali-10-day-trip-food-shopping-guide/): 連續第四年造訪峇里島，颱風讓五天變十天。分享烤豬飯、豬肋排、景觀餐廳、購物中心、傳統市集，以及可靠的司機導遊推薦。
 - [【獨旅豔遇！？】峇里島烏布＋努沙杜瓦遊記｜火山日出、Alas Harum、Finns 一次玩](https://gobaligo.id/blog/bali-ubud-nusa-dua-uluwatu-travelogue/): 凌晨3點搭吉普車追巴杜爾火山日出，一路玩到烏布梯田、Alas Harum、Cretya Ubud，再到努沙杜瓦 Pandawa 海灘、飛行傘與 Finns。附票價、兌換訣竅與實用小提醒。
 - [去完峇里島我才發現:它根本不是「便宜的東南亞」](https://gobaligo.id/blog/bali-travel-review-not-cheap/): 七天六夜峇里島旅行心得:一餐 NT$1,000～2,000,飯店餐廳水準接近美國城市餐廳,但一離開 Resort 就是塞車與公共建設的落差。聊聊《Eat Pray Love》效應,以及旅客該怎麼消費。
 - [峇里島海豚體驗推薦｜Bali Exotic Marine Park門票、海豚互動、親子攻略](https://gobaligo.id/blog/wks-bali-exotic-marine-park/): 峇里島 Bali Exotic Marine Park 海豚體驗完整攻略！介紹海豚互動方案、親子適合年齡、門票、注意事項與行程安排，還有優惠訂票連結。
@@ -237,6 +236,7 @@
 - [峇里島旅遊費用? 峇里島旅遊要準備多少現金？](https://gobaligo.id/blog/bali-travel-cash-budget-guide/): 你知道峇里島要用什麼貨幣嗎？峇里島什麼情況下會用到現金？峇里島旅遊的預算如何估算？剩下的當地貨幣要怎麼辦？峇里島旅遊費用? 這一集通通幫您解答！
 - [峇里島八日遊：天堂美景與Bali Belly地獄！狂瀉5公斤的慘痛代價](https://gobaligo.id/blog/bali-eight-day-trip-review/): 這是我們今年第二次造訪峇里島。從10月11日到18日,我們在這座「神之島」度過了難忘的八天七夜。之所以選擇再次前來,是因為深深被峇里島的人文風情、自然景緻與道地美食所吸引。這次旅程,我們分別入住了三間風格各異的飯店,從熱鬧的庫塔海灘區、寧靜的烏布
 - [【峇里島親子8日遊攻略遊記分享】八天玩遍大半個峇里島](https://gobaligo.id/blog/bali-family-8-day-itinerary/): 峇里島親子八天七夜遊記，玩遍金巴蘭、烏魯瓦圖、藍夢島、沙努爾、烏布、巴杜爾日出、海神廟、水明漾...
+- [騎機車遊峇里島：夫妻8天7夜的真實體驗與遊記、心得](https://gobaligo.id/blog/ljs-travel-with-scooter-bali/): 在峇里島租機車是最省錢又自由的交通方式，但同時也存在風險。對於有經驗、熟悉東南亞道路的人來說，機車旅行方便又能避免被抬高交通費，缺點就是曝曬太陽。不過在異國若發生意外，不論是被撞或撞到人，後續醫療費與賠償都可能高得嚇人...
 
 ## 工具與主題頁
 

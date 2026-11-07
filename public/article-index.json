@@ -11,72 +11,48 @@
     "snippet": "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro. Headings The following HTML <h1—<h6 elements represent six levels of section headings. <h1 is the highest section level while <h6 is the lowest. H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt "
   },
   {
-    "id": "bali-10-day-trip-food-shopping-guide",
-    "title": "峇里島十日遊｜連四年重返，美食、購物與包車推薦",
-    "url": "/blog/bali-10-day-trip-food-shopping-guide/",
-    "description": "連續第四年造訪峇里島，颱風讓五天變十天。分享烤豬飯、豬肋排、景觀餐廳、購物中心、傳統市集，以及可靠的司機導遊推薦。",
-    "heroImage": "",
-    "category": [
-      "遊記分享"
-    ],
-    "tags": [
-      "峇里島自由行",
-      "峇里島美食推薦",
-      "峇里島購物",
-      "峇里島包車司機",
-      "Pande Egi 烤豬飯",
-      "Wahaha 豬肋排",
-      "Taman Dedari",
-      "Icon Bali",
-      "Pasar Seni Kumbasari",
-      "Made's Warung"
-    ],
-    "pubDate": "2026-12-03",
-    "snippet": "峇里島十日遊：第四年重返，颱風讓五天變十天 https://www.facebook.com/share/p/1Cnsz9KqJZ/ 10 月 19 日到 28 日，我們再次回到峇里島，這已經是連續第四年。這趟旅程多了一個意外的插曲：一場颱風讓原本五天的行程延長成十天，我們因此多享受了好幾天的峇里島時光。 這篇遊記想記錄的，不只是去了哪些地方，更是我們為什麼年復一年地回到這座島。從天氣、人情到每一口讓人念念不忘的美食，答案其實很簡單：每一次來，都讓人更喜歡一點。 為什麼我們這麼愛峇里島 乾爽宜人的氣候 峇里島很熱，陽光也很曬，但空氣乾爽，體感比想像中舒服。最實際的好處是洗衣服：手洗的衣物隔天就"
+    "id": "using-mdx",
+    "title": "Using MDX",
+    "url": "/blog/using-mdx/",
+    "description": "Lorem ipsum dolor sit amet",
+    "heroImage": "../../assets/blog-placeholder-5.jpg",
+    "category": [],
+    "tags": [],
+    "pubDate": "Jun 01 2024",
+    "snippet": "This theme comes with the @astrojs/mdx integration installed and configured in your astro.config.mjs config file. If you prefer not to use MDX, you can disable support by removing the integration from your config file. Why MDX? MDX is a special flavor of Markdown that supports embedded JavaScript & "
   },
   {
-    "id": "the-arc-house-canggu-bali",
-    "title": "Canggu 新住宿｜The Arc House 私人泳池別墅：位置、設施、房型、評價",
-    "url": "/blog/the-arc-house-canggu-bali/",
-    "description": "香港Portier Hotels 旗下 The Arc House 首間據點落腳峇里島 Canggu，19 間私人泳池別墅、屋頂泳池、MYKAZA 餐廳與 Mello Spa，一篇看懂位置、設施、住房與開幕初期評價。",
-    "heroImage": "https://images.gobaligo.id/images/2026-11/1793799842590-15488.jpg",
-    "category": [
-      "住宿推薦"
-    ],
-    "tags": [
-      "The Arc House Canggu",
-      "峇里島新飯店",
-      "Canggu 住宿推薦",
-      "Canggu 私人泳池別墅",
-      "Portier Hotels",
-      "Batu Bolong 住宿",
-      "峇里島新開幕",
-      "MYKAZA"
-    ],
-    "pubDate": "2026-11-06",
-    "snippet": "🆕 2026/11 品牌正式發表｜Canggu 拱門設計私人泳池別墅 - The Arc House Canggu 香港酒店集團 Portier Hotels 於 2026 年 11 月 4 日推出全新精品生活旅宿系列 The Arc House，首間據點就落在峇里島 Canggu，Hong Kong 與 Melbourne 將陸續登場。極簡室內搭配拱門作為建築標誌，再加上在地藝術品，讓每間酒店都有自己的個性。Canggu 這間主打私人泳池別墅，是今年想住進設計感新住宿的人，值得先放進口袋名單的一間。 📍 位置｜酒店位於 Batu Bolong Beach 附近，周邊聚集了現代餐飲、獨立選"
+    "id": "third-post",
+    "title": "Third post",
+    "url": "/blog/third-post/",
+    "description": "Lorem ipsum dolor sit amet",
+    "heroImage": "../../assets/blog-placeholder-2.jpg",
+    "category": [],
+    "tags": [],
+    "pubDate": "Jul 22 2022",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac ha"
   },
   {
-    "id": "bali-news-2026-11-06",
-    "title": "峇里島最新新聞｜GWK Penjor Festival免費、電車計畫2兆印尼盾、WhatsApp天氣警報及海浪預警",
-    "url": "/blog/bali-news-2026-11-06/",
-    "description": "2026年11月6日峇里島新聞整理：GWK Penjor Festival於11月5日至8日舉行，Lotus Pond活動區免費入場；峇里島電車計畫編列約2兆印尼盾，規劃機場至長谷；BMKG研議WhatsApp天氣警報，南部海域海浪最高2.5公尺。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "GWK Penjor Festival 2026",
-      "峇里島電車",
-      "峇里島交通建設",
-      "峇里島WhatsApp天氣警報",
-      "峇里島雨季",
-      "峇里島海浪預警",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-11-06",
-    "snippet": "🎪 GWK Penjor Festival登場！Lotus Pond活動免費入場，持續至11月8日 峇里島南部的GWK Cultural Park於11月5日正式迎來第四屆Penjor Festival 2026。今年活動在Lotus Pond舉行，結合峇里島傳統文化、藝術、音樂及當地美食，配合即將到來的Galungan節慶氛圍。 今年活動最大的亮點是：Lotus Pond festival活動區免費開放，不需要購買GWK Cultural Park全園門票。 不過，免費範圍僅限Lotus Pond的節慶活動區。若想參觀GWK巨型神像、Festival Park或其他園區景點，仍須依照正常票"
+    "id": "second-post",
+    "title": "Second post",
+    "url": "/blog/second-post/",
+    "description": "Lorem ipsum dolor sit amet",
+    "heroImage": "../../assets/blog-placeholder-4.jpg",
+    "category": [],
+    "tags": [],
+    "pubDate": "Jul 15 2022",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac ha"
+  },
+  {
+    "id": "first-post",
+    "title": "First post",
+    "url": "/blog/first-post/",
+    "description": "Lorem ipsum dolor sit amet",
+    "heroImage": "../../assets/blog-placeholder-3.jpg",
+    "category": [],
+    "tags": [],
+    "pubDate": "Jul 08 2022",
+    "snippet": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac ha"
   },
   {
     "id": "bali-ubud-nusa-dua-uluwatu-travelogue",
@@ -107,464 +83,6 @@
     "snippet": "以下改編自團友 陳晨曦 獨旅遊記 先看精華版： https://youtu.be/T-4sinPmSV8 凌晨三點，沒睡也要追火山日出 （照片：陳晨曦提供） 現在是凌晨 3 點，我起了個超早，說實話根本沒睡。一個人坐上吉普車，準備去看火山日出。 這條路的狀況只能用「超級無敵爛」來形容，晃得跟雲霄飛車一樣，真的超扯。 天還黑漆漆的，我先被載到一間休息室等日出，現在什麼都看不到，就點了杯熱巧克力，一杯 20,000 IDR。 這趟最讓我意外的，是吉普車司機大哥的攝影功力。眼前一片烏漆麻黑，我本來覺得什麼都拍不到，結果他拿著手機在我面前手動繞圈打光，我到現在還是不知道他怎麼辦到的，但成品看起來意外的"
   },
   {
-    "id": "bali-news-2026-11-05",
-    "title": "峇里島最新新聞｜Seraya Culture Fest登場、長谷新開私人泳池Villa、TMD站點調整與雨季災情",
-    "url": "/blog/bali-news-2026-11-05/",
-    "description": "2026年11月5日峇里島新聞整理：東峇里島Seraya Culture Fest於11月5日至7日舉行，長谷The Arc House Canggu正式推出19間私人泳池Villa，Trans Metro Dewata調整Kediri Terminal上下車位置，邦利Kehen寺附近土石流造成商店受損。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [],
-    "pubDate": "2026-11-05",
-    "snippet": "🎭 東峇里島Seraya Culture Fest明天登場！Gebug Ende傳統表演連續三天 峇里島東部卡朗阿森（Karangasem）的Seraya Culture Festival將於11月5日至7日舉行，今年已經是第五屆。 活動以「Harmony of Art, Tradition, Nature & Culture」為主題，主要場地包括Ki Kopang廣場及Bias Lantang海灘，結合傳統文化、藝術表演、自然體驗與社區活動。 今年最受關注的依然是Gebug Ende傳統表演。這是一種結合藤盾與棍棒的傳統競技，具有當地文化及祈求降雨的歷史意義。 活動期間，Gebug End"
-  },
-  {
-    "id": "Penjor-Festival-2026",
-    "title": "峇里島 Penjor Festival 2026｜GWK免費文化節、活動日期與表演時間",
-    "url": "/blog/Penjor-Festival-2026/",
-    "description": "峇里島 GWK Penjor Festival 2026 將於11月5日至8日在 Lotus Pond 免費登場！欣賞傳統 Penjor 竹飾、峇里島音樂表演、文化工作坊及在地美食市集，完整活動資訊一次看。",
-    "heroImage": "https://images.gobaligo.id/images/2026-11/1793864089186-15490.jpg",
-    "category": [
-      "美食景點活動"
-    ],
-    "tags": [
-      "峇里島 Penjor Festival 2026",
-      "GWK Cultural Park",
-      "峇里島免費活動",
-      "峇里島文化節",
-      "峇里島11月活動",
-      "峇里島文化體驗",
-      "峇里島旅遊攻略"
-    ],
-    "pubDate": "2026-11-05",
-    "snippet": "峇里島 GWK Penjor Festival 2026 免費登場！11月5日至8日欣賞傳統竹飾、文化表演與在地市集 如果你11月初剛好在峇里島，不妨安排一趟 GWK Cultural Park（Garuda Wisnu Kencana）文化公園！一年一度的 Penjor Festival 2026 將於 11月5日至8日 舉行，今年最吸引人的亮點是：Lotus Pond 活動區免費開放，不需要購買 GWK 文化公園門票，就能參與這場結合峇里島傳統文化、音樂、美食與手作體驗的節慶活動。 這項活動已經邁入第四屆，適合想深入認識峇里島文化、體驗在地節慶，或是安排一趟不同於一般海灘與咖啡廳的旅遊行程"
-  },
-  {
-    "id": "bali-forest-garden-restaurants",
-    "title": "峇里島森林系餐廳推薦｜烏布、長谷、水明漾 5 家療癒花園餐廳",
-    "url": "/blog/bali-forest-garden-restaurants/",
-    "description": "厭倦海灘俱樂部與市區車陣？精選烏布、長谷、水明漾共 5 家被綠意包圍的森林與花園餐廳，附營業時間，從稻田景觀咖啡館到室內有機農場一次看。",
-    "heroImage": "https://images.gobaligo.id/images/2026-10/1791211329582-index.jpg",
-    "category": [
-      "美食景點活動"
-    ],
-    "tags": [
-      "峇里島餐廳",
-      "烏布餐廳",
-      "長谷餐廳",
-      "水明漾餐廳",
-      "花園餐廳",
-      "早午餐",
-      "咖啡廳"
-    ],
-    "pubDate": "2026-11-04",
-    "snippet": "厭倦了千篇一律的峇里島海灘俱樂部，與市區擁擠的車陣嗎？如果你想找一個能讓身心靈慢下來、被綠意與大自然溫柔包圍的用餐空間，這份名單很適合收藏。 本篇精選 5 家分佈在不同區域的森林系與花園餐廳，從白天生氣盎然的綠洲，到夜幕低垂後依然迷人的特色餐館，每一處都藏著驚喜。 5 家餐廳一覽 | 餐廳 | 區域 | 營業時間 | 特色 | 適合 | | --- | --- | --- | --- | --- | | FERRO Grill Restaurant & Bar | 烏布 | 12:00–00:00 | 燒烤與酒吧，熱帶綠意環繞 | 午餐、晚餐小酌 | | The Hidden Space Ub"
-  },
-  {
-    "id": "bali-news-2026-11-04",
-    "title": "峇里島最新新聞｜雨季豪雨災情、Pelaga Glamping土石流、13家換錢店遭查及Bangli景點收費",
-    "url": "/blog/bali-news-2026-11-04/",
-    "description": "2026年11月4日峇里島新聞整理：峇里島雨季豪雨造成多地災害，Pelaga Eco Park Glamping Retreat土石流事件仍有兩名旅客待搜救，不合法換匯店被撤銷，Bangli五大景點全面導入電子售票。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島雨季",
-      "峇里島豪雨",
-      "Pelaga Eco Park Glamping",
-      "峇里島住宿安全",
-      "峇里島換匯",
-      "Klungkung旅遊",
-      "Penglipuran Village",
-      "Bangli景點門票",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-11-04",
-    "snippet": "🌧️ 峇里島雨季災情持續！豪雨引發土石流、道路坍塌，北部與山區須提高警覺 峇里島11月初受到極端天氣影響，多個地區出現水災、土石流及道路損壞。峇里島災害管理單位（BPBD）於11月3日持續進行災情統計及現場查核，確保各地災害處理工作順利進行。 近期受到強降雨影響的區域包括： - 巴東縣（Badung）： 北部山區發生土石流，部分住宿設施受到嚴重破壞。 - 邦利（Bangli）： 部分道路因豪雨造成地面坍塌。 - 吉安雅（Gianyar）： 部分道路及低窪地區受到降雨影響。 - 塔巴南（Tabanan）、珍布拉娜（Jembrana）： 持續受到強降雨及局部災害風險影響。 BMKG也持續發布天氣"
-  },
-  {
-    "id": "seminyak-perfect-vacation-guide",
-    "title": "峇里島新景點一直開，為什麼我還是回水明漾？",
-    "url": "/blog/seminyak-perfect-vacation-guide/",
-    "description": "水明漾（Seminyak）是峇里島最適合度假的區域之一。從海灘飯店與私人別墅、Eat Street 餐廳、海灘俱樂部日落，到 SPA、交通與季節重點，出發前一篇看懂。",
-    "heroImage": "https://images.gobaligo.id/images/2026-11/1793616688060-15464.jpg",
-    "category": [
-      "峇里島分區攻略"
-    ],
-    "tags": [
-      "水明漾",
-      "Seminyak",
-      "水明漾住宿",
-      "水明漾美食",
-      "水明漾日落",
-      "水明漾夜店",
-      "水明漾spa"
-    ],
-    "pubDate": "2026-11-03",
-    "snippet": "水明漾，為什麼總是峇里島度假的「安全牌」？ 峇里島每隔一陣子就冒出新的熱門地點，大家一窩蜂追過去。繞了一圈回頭看，水明漾（Seminyak）還在原地，安靜地接待一批又一批旅客。它跟著潮流更新餐廳、酒吧和住宿，骨子裡卻始終是那種「對，我來峇里島就是要這種感覺」的經典度假氛圍。 不管你是第一次來，還是想換個新區域住住看，水明漾都很難讓人失望。完整的景點與地圖，我們整理在這篇 水明漾攻略，這篇先帶你抓整體感覺。 住宿：從海灘大飯店到私人別墅都有 https://youtube.com/shorts/duJnciipawE?si=Y8GITb07h9aX4CA 水明漾的住宿設計很有看頭，常把俐落的現代"
-  },
-  {
-    "id": "bali-news-2026-11-03",
-    "title": "峇里島最新新聞｜11月大雨警戒、9月旅客人數、Jatiluwih違規餐廳停工及Villa安全檢查",
-    "url": "/blog/bali-news-2026-11-03/",
-    "description": "2026年11月3日峇里島新聞整理：BBMKG發布11月2日至4日強降雨警戒，峇里島9月外國旅客達65萬人次，Jatiluwih綠地違規餐廳工程遭勒令停工，巴東縣政府將全面評估旅遊住宿安全。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島雨季",
-      "峇里島大雨警戒",
-      "峇里島旅客人數2026",
-      "Jatiluwih梯田",
-      "峇里島Villa安全",
-      "峇里島住宿管理",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-11-03",
-    "snippet": "🌧️ 峇里島發布大雨警戒至11月4日！北部、西部及塔巴南須特別留意 峇里島氣象、氣候及地球物理局（BBMKG）於11月2日發布最新天氣預警，提醒島上多個地區在11月2日至4日期間，可能出現中至強降雨，部分地區達到強降雨至非常強降雨的警戒等級。 根據氣象單位預報，11月2日至3日上午，以下地區可能受到較強降雨影響： - 布勒冷（Buleleng）： 強降雨至非常強降雨警戒 - 珍布拉娜（Jembrana）： 強降雨至非常強降雨警戒 - 塔巴南（Tabanan）： 強降雨至非常強降雨警戒 - 巴東（Badung）、邦利（Bangli）、吉安雅（Gianyar）、卡朗阿森（Karangasem）："
-  },
-  {
-    "id": "bali-news-2026-11-02",
-    "title": "峇里島最新新聞｜連日大雨造成淹水、懸崖跳水熱門、Banyu Pinaruh與VW復古車之旅",
-    "url": "/blog/bali-news-2026-11-02/",
-    "description": "2026年11月2日峇里島新聞整理：近期強降雨造成登巴薩及南部旅遊區淹水，Blue Lagoon與Mahana Point懸崖跳水受到關注，Jasri海灘舉行Banyu Pinaruh傳統儀式，以及塔巴南推出VW復古車串聯Tanah Lot與Jatiluwih的旅遊產品。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島淹水",
-      "峇里島雨季",
-      "Blue Lagoon cliff jumping",
-      "Mahana Point",
-      "Banyu Pinaruh",
-      "Jasri Beach",
-      "Tanah Lot",
-      "Jatiluwih",
-      "峇里島VW Tour"
-    ],
-    "pubDate": "2026-11-02",
-    "snippet": "🌧️ 峇里島連日大雨造成多地淹水！部分遊客需要搭乘橡皮艇撤離 峇里島近期受到強降雨影響，登巴薩及周邊多個地區出現淹水情況，部分遊客甚至需要透過橡皮艇協助撤離。 根據11月1日公布的災情報導，強降雨從10月26日晚間開始，影響峇里島多個行政區。當地災害管理單位證實，部分受困遊客已經獲得協助撤離。 受到關注的淹水風險區域包括： - 登巴薩： Sanur、Padangsambian、Renon - 巴東縣： 水明漾（Seminyak）、庫塔（Kuta） 峇里島政府目前已在部分容易發生洪水的河川周邊設置12個洪水警報器，其中6個位於登巴薩，希望能在水位達到危險程度時及早通知居民。 此前BMKG也曾發"
-  },
-  {
-    "id": "bali-rainy-season-2026-delayed",
-    "title": "峇里島雨季延後！南部12月中才來，11月初強降雨別誤會!",
-    "url": "/blog/bali-rainy-season-2026-delayed/",
-    "description": "11月初峇里島下起強降雨，但南部雨季預計12月11日到20日才開始。聖嬰現象讓雨季延後，附近期旅遊與防淹水提醒。",
-    "heroImage": "https://images.gobaligo.id/images/2026-11/1793594886842-15462.jpg",
-    "category": [
-      "旅遊專題"
-    ],
-    "tags": [
-      "峇里島雨季",
-      "峇里島天氣",
-      "峇里島11月",
-      "峇里島12月",
-      "峇里島雨季2026",
-      "聖嬰現象",
-      "峇里島強降雨",
-      "峇里島旅遊提醒"
-    ],
-    "pubDate": "2026-11-02",
-    "snippet": "11月初下了場大雨，但峇里島南部的雨季其實還沒開始？ 這幾天只要人在峇里島，大概都感覺到了：天色說變就變，11月初突然來一場強降雨，雨勢又急又猛。氣象單位在10月底就針對全島發布了中到大雨的預警，沿海海浪也不低。 https://www.instagram.com/reel/DfHxuRPKtrr/?utmsource=igwebcopylink&obrf=NTc4MTIwNjQ2YQ== 很多人會以為「下這麼大，雨季來了吧？」老實講，還沒有。 南部的雨季，要等到12月中 預報把峇里島分成20個區域。包含登巴薩、庫塔、長谷、烏魯瓦圖所在的南部，雨季預計落在12月11日到20日之間才會正式開始。"
-  },
-  {
-    "id": "bali-news-2026-11-01",
-    "title": "峇里島最新新聞｜Jatiluwih梯田收費澄清、北部新地標Turyapada、交通改革與船舶安全檢查",
-    "url": "/blog/bali-news-2026-11-01/",
-    "description": "2026年11月1日峇里島新聞：Jatiluwih梯田管理單位澄清單純經過不必付門票，北峇里島Turyapada Tower預計12月底完工，峇里島研議改善大眾運輸，印尼11月起檢查2,140艘船隻，包括821艘觀光船。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "Jatiluwih梯田門票",
-      "Turyapada Tower",
-      "北峇里島新景點",
-      "峇里島交通",
-      "Metro Dewata",
-      "峇里島快艇安全",
-      "峇里島離島旅遊"
-    ],
-    "pubDate": "2026-11-01",
-    "snippet": "🎫 Jatiluwih梯田收費引發爭議！管理單位澄清：單純經過不必買門票 峇里島世界文化遺產景點Jatiluwih梯田，近日因為入口收費問題引發當地居民討論。 事件起因是一名峇里島居民開車經過Jatiluwih景區時，被入口工作人員要求確認是否購買門票，相關影片在社群媒體流傳後，引起不少爭議。 對此，Jatiluwih景區管理單位於10月31日出面澄清，表示並不會向單純經過當地的居民收取入場費，入口人員檢查車輛，主要是為了確認駕駛人究竟只是通過，還是準備進入景區觀光。 管理單位也向受到影響的居民表達歉意。 不過，如果旅客進入景區並停留參觀，即使只是到餐廳吃飯或喝飲料，仍須依照相關規定支付觀光"
-  },
-  {
-    "id": "ayana-bali-restaurants-guide",
-    "title": "峇里島 AYANA 餐廳推薦：從懸崖夕陽酒吧、日式鐵板燒、義大利料理，一篇搞懂怎麼吃！",
-    "url": "/blog/ayana-bali-restaurants-guide/",
-    "description": "峇里島 AYANA Bali 餐廳怎麼選？介紹 Padi、To’Ge、HONZEN 日式鐵板燒、Sami Sami、Damar Terrace、Rock Bar、Kampoeng Bali 與 KISIK，整理餐飲特色、旅客評價、預算及訂位建議。",
-    "heroImage": "https://images.gobaligo.id/images/2026-10/1793285605427-15427.jpg",
-    "category": [
-      "美食景點活動"
-    ],
-    "tags": [
-      "峇里島 AYANA 餐廳",
-      "AYANA Bali 餐廳推薦",
-      "AYANA HONZEN 鐵板燒",
-      "AYANA Rock Bar 評價",
-      "AYANA Sami Sami",
-      "AYANA Kampoeng Bali",
-      "AYANA 早餐推薦"
-    ],
-    "pubDate": "2026-10-31",
-    "snippet": "入住峇里島 AYANA Bali，除了享受泳池、海景和度假村設施，餐飲也是值得提前規劃的一部分。 AYANA 園區涵蓋 AYANA Resort、RIMBA、AYANA Segara 等住宿區域，餐廳選擇相當多，從國際自助早餐、義大利料理、日式鐵板燒，到海灘海鮮晚餐、結合傳統舞蹈的峇里島文化晚宴都有。 但餐廳多不代表每一間都值得安排。住兩三晚，如何挑選才不會浪費預算？哪些餐廳適合好好吃一頓飯，哪些主要是為了景觀和氣氛？ 這篇整理 AYANA 園區內值得認識的餐廳，結合公開旅客評論、餐廳官方資訊與用餐情境，幫你找出最符合自己需求的選擇。 AYANA 餐廳快速比較 | 餐廳 | 主要特色 | 適合"
-  },
-  {
-    "id": "bali-news-2026-10-31",
-    "title": "峇里島最新新聞｜8地大雨預警、觀光費擬漲至100萬、紐西蘭新增直飛航班",
-    "url": "/blog/bali-news-2026-10-31/",
-    "description": "2026年10月31日峇里島新聞整理：BMKG對8個縣市發布中至強降雨預警，南部海域浪高可能達2.5公尺；地方議員提議將外國旅客觀光費整合至100萬印尼盾；紐西蘭航空新增基督城直飛峇里島航線，以及印尼積極拓展中國旅遊市場。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島天氣預報",
-      "峇里島大雨預警",
-      "峇里島觀光費",
-      "峇里島旅遊稅",
-      "紐西蘭航空峇里島航班",
-      "基督城直飛峇里島",
-      "中國旅客峇里島旅遊",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-10-31",
-    "snippet": "🌧️ 峇里島8個縣市發布大雨預警！南部海域浪高可能達2.5公尺 峇里島氣象、氣候及地球物理局（BMKG）10月30日發布最新天氣預警，提醒峇里島多個地區可能出現中度至強降雨。 預警期間為 10月30日上午8時至10月31日上午8時，涵蓋以下8個縣市： - 巴東（Badung） - 邦利（Bangli） - 布勒冷（Buleleng） - 吉安雅（Gianyar） - 克隆孔（Klungkung） - 卡朗阿森（Karangasem） - 珍布拉娜（Jembrana） - 塔巴南（Tabanan） BMKG預測，10月30日峇里島整體以小雨為主，但部分地區可能出現較強降雨，最高氣溫約32°C。"
-  },
-  {
-    "id": "bali-news-2026-10-30",
-    "title": "峇里島最新新聞｜降雨警報、上海直飛航班增加、旅客人數穩定、永續時尚創世界紀錄",
-    "url": "/blog/bali-news-2026-10-30/",
-    "description": "2026年10月30日峇里島新聞整理：峇里島每天接待1.9萬至2.4萬名外國旅客，中國東方航空12月增加上海直飛航班，Labdanation Fashion Week以67套永續服裝創下世界紀錄，三位峇里島調酒師將代表當地參加波蘭國際賽事。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島雨季",
-      "峇里島旅客人數2026",
-      "上海直飛峇里島",
-      "中國東方航空峇里島航班",
-      "峇里島永續時尚",
-      "Labdanation Fashion Week",
-      "Arak Bali",
-      "峇里島在地文化"
-    ],
-    "pubDate": "2026-10-30",
-    "snippet": "🌧️ 峇里島連日大雨！BMKG警告多地可能出現淹水，南部海域浪高達3公尺 峇里島進入雨季前的天氣轉變期，近期多地出現降雨。印尼氣象、氣候及地球物理局（BMKG）峇里島第三區氣象單位於10月28日發布最新預警，提醒10月28日至31日期間，峇里島部分地區可能出現中度至強降雨。 根據氣象分析，10月28日至29日，可能受到降雨影響的地區包括巴東（Badung）、邦利（Bangli）、吉安雅（Gianyar）、卡朗阿森（Karangasem）及塔巴南（Tabanan）。 10月30日至31日，降雨風險區域則包括巴東、布勒冷（Buleleng）、珍布拉娜（Jembrana）、卡朗阿森及塔巴南。 除了"
-  },
-  {
-    "id": "bali-news-2026-10-29",
-    "title": "峇里島最新新聞｜強降雨預警、換錢注意事項、國內機票優惠與Villa土地管理",
-    "url": "/blog/bali-news-2026-10-29/",
-    "description": "2026年10月29日峇里島新聞整理：峇里島部分地區強降雨預警延續至10月31日、央行提醒外幣兌換業者維護旅客信任、印尼國內機票優惠預計2027年1月10日結束，以及綠地違規住宿與土地使用管理議題。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島天氣預報",
-      "峇里島換錢注意事項",
-      "印尼國內機票優惠",
-      "峇里島Villa住宿",
-      "峇里島土地使用管理",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-10-29",
-    "snippet": "🌧️ 峇里島發布強降雨預警！部分地區雨勢持續至10月31日 峇里島氣象單位發布最新天氣預警，預計10月28日至31日，島上部分地區可能出現中至強降雨。雨勢分布不均，旅客前往不同區域時，應留意當地天氣變化。 10月28日至29日，預警涵蓋巴東、邦利、吉安雅、卡朗阿森及塔巴南等地；10月30日至31日，則包括巴東、布勒冷、珍布拉娜、卡朗阿森及塔巴南。 此外，南峇里島部分海域浪高可能達3公尺，巴東海峽及龍目海峽等海域也需要留意海象變化。 對旅客有什麼影響？ 如果你最近準備前往烏布、金塔馬蘭或峇里島東部景點，建議預留交通時間，並準備雨具。山區道路在降雨時可能較濕滑，戶外景點也可能因天候調整開放安排。"
-  },
-  {
-    "id": "bali-news-2026-10-28",
-    "title": "峇里島最新新聞｜韓國計畫在登巴薩設立領事館、Amankila停業、精靈海灘階梯工程",
-    "url": "/blog/bali-news-2026-10-28/",
-    "description": "026年10月28日峇里島新聞：韓國計畫在登巴薩設立領事館，Amankila暫停營業至2027年1月19日，精靈海灘規劃興建永久階梯，登巴薩垃圾發電廠工程進度達20%。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "韓國峇里島領事館",
-      "Amankila暫停營業",
-      "精靈海灘永久階梯",
-      "努沙佩尼達旅遊安全",
-      "登巴薩垃圾發電廠",
-      "峇里島永續旅遊"
-    ],
-    "pubDate": "2026-10-28",
-    "snippet": "🇰🇷 韓國計畫在峇里島設立領事館！將加強旅客服務與安全保障 韓國政府計畫在峇里島登巴薩設立領事館，以改善在峇里島居住及旅遊的韓國公民所能獲得的領事服務。 韓國駐印尼大使 Yoon Soon-gu 於10月23日會見峇里島省長 Wayan Koster 時，透露了這項計畫。雙方也討論了旅遊安全、清潔能源、公共交通、數位科技、人工智慧及垃圾管理等合作方向。 韓國是峇里島重要的國際旅遊客源市場之一。若領事館計畫落實，未來韓國旅客在當地遇到護照遺失、緊急事故或其他需要領事協助的情況時，有望獲得更便利的服務。 台灣、香港及其他地區的旅客也會受益嗎？ 目前公布的是韓國設立領事館的計畫，尚不能視為已經正"
-  },
-  {
-    "id": "bali-news-2026-10-27",
-    "title": "峇里島最新新聞｜南部海域巨浪、14天交通執法、六大低排放區與健康旅遊",
-    "url": "/blog/bali-news-2026-10-27/",
-    "description": "2026年10月26日峇里島新聞整理：南部海域10月27日至30日浪高可能達4公尺、峇里島交通執法行動持續至11月8日、六大低排放區分階段推動，以及峇里島探索澳洲健康旅遊合作、Penglipuran傳統村落再獲國際關注。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島巨浪預警",
-      "努沙佩尼達船班",
-      "峇里島交通執法",
-      "峇里島低排放區",
-      "峇里島健康旅遊",
-      "Penglipuran傳統村落",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-10-27",
-    "snippet": "🌊 峇里島南部海域浪高上看4公尺！10月27日至30日離島交通要留意 峇里島氣象單位最新預報指出，10月27日至30日，峇里島南部海域及龍目海峽南部部分海域的浪高可能達到 4公尺。海象變化與風勢有關，可能增加船舶航行風險。 對計畫前往努沙佩尼達、藍夢島，或安排海上活動的旅客而言，這是近期值得優先留意的消息。 巴東海峽是往返沙努爾與努沙佩尼達的重要航道。即使峇里島陸地天氣晴朗，海面也不一定平靜，因此不能單憑出發地的天氣判斷是否適合搭船。 旅客應該注意什麼？ - 出發前向船公司確認船班是否正常。 - 如果船公司因海況調整或取消航班，應配合安排，不要冒險出海。 - 預訂離島一日遊時，先確認取消、改"
-  },
-  {
-    "id": "bali-news-2026-10-25",
-    "title": "峇里島最新新聞｜南部海域巨浪、落地簽商業活動限制、Mas木雕藝術村",
-    "url": "/blog/bali-news-2026-10-25/",
-    "description": "2026年10月26日峇里島新聞整理：南部海域浪高可能達3公尺、捷克籍男子因涉嫌違反落地簽規定遭遣返、烏布附近Mas藝術村的木雕文化、沙努爾國際能源會議，以及峇里島旅遊經濟展望。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島海浪預報",
-      "峇里島落地簽證",
-      "Mas木雕藝術村",
-      "沙努爾國際會議",
-      "峇里島旅遊經濟",
-      "峇里島旅遊注意事項"
-    ],
-    "pubDate": "2026-10-26",
-    "snippet": "🌊 南峇里島海域浪高上看3公尺！前往離島與海上活動請留意海況 峇里島氣象單位最新預報指出，10月25日南峇里島海域的浪高可能達到3公尺，北部海域則相對平穩，預測浪高約0.5至1.5公尺。 南部海域的海浪與風勢變化，可能影響部分渡輪、快艇及海上活動。對計畫前往努沙佩尼達、藍夢島，或參加南部海岸水上活動的旅客而言，出發前確認海況仍然重要。 氣象預報也顯示，峇里島當日氣溫約20至34°C，部分地區可能出現多雲或空氣朦朧的情況。 旅客需要注意什麼？ - 前往努沙佩尼達或藍夢島前，先向船公司確認船班是否正常。 - 計畫衝浪、浮潛或其他海上活動時，遵守現場安全指示。 - 如果當天需要搭乘國際航班，離島行"
-  },
-  {
-    "id": "indosole",
-    "title": "把廢輪胎變成涼鞋：Indosole 的峇里島環保設計故事",
-    "url": "/blog/indosole/",
-    "description": "認識來自峇里島的 Indosole！將回收廢輪胎製成涼鞋與拖鞋，結合環保設計、日常穿搭與印尼在地工藝，並整理台灣、香港、新加坡、馬來西亞及峇里島的購買資訊。",
-    "heroImage": "https://images.gobaligo.id/images/2026-10/1792763466054-1423.jpg",
-    "category": [
-      "購物指南"
-    ],
-    "tags": [
-      "Indosole",
-      "峇里島環保品牌",
-      "峇里島在地品牌",
-      "峇里島購物",
-      "峇里島伴手禮",
-      "回收輪胎涼鞋",
-      "環保拖鞋",
-      "印尼設計品牌",
-      "Indosole 涼鞋",
-      "峇里島特色商品"
-    ],
-    "pubDate": "2026-10-25",
-    "snippet": "去峇里島旅行，很多人會買藤編包、特色服飾或手工藝品當伴手禮。但你有沒有想過，一雙看起來很普通的拖鞋，竟然可能是用廢棄輪胎製作的？ 來自峇里島的 Indosole，就把這個想法變成了真正的生意。 品牌將回收輪胎運用在鞋底設計，再搭配不同材質與簡約款式，做出適合日常穿著的拖鞋和涼鞋。它不靠鮮豔的峇里島圖騰吸引目光，而是從一個很實際的問題出發：原本被丟棄的輪胎，還能不能有新的用途？ 如果你喜歡環保設計、戶外風格，或想認識不一樣的峇里島在地品牌，Indosole 是值得放進購物清單的一個名字。 品牌故事｜一雙壞掉的拖鞋，開啟一個新想法 Indosole 的故事始於 2004 年。 創辦人 Kyle P"
-  },
-  {
-    "id": "bali-news-2026-10-25",
-    "title": "峇里島最新新聞｜2026年10月25日：努沙佩尼達海浪警報、精靈海灘啟用自動售票設施",
-    "url": "/blog/bali-news-2026-10-25/",
-    "description": "2026年10月25日峇里島新聞整理：峇里島周邊海域至10月27日可能出現最高4公尺巨浪、精靈海灘啟用多語言自動售票機、政府加強飯店與餐廳使用在地產品的管理，以及峇里島與瑞士深化永續旅遊合作、印尼穆斯林旅遊排名上升。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島海浪警報",
-      "努沙佩尼達船班",
-      "精靈海灘門票",
-      "峇里島飯店政策",
-      "峇里島永續旅遊",
-      "印尼穆斯林旅遊指數",
-      "峇里島旅遊資訊"
-    ],
-    "pubDate": "2026-10-25",
-    "snippet": "🌊 峇里島海域發布巨浪警報！最高浪高達4公尺，前往努沙佩尼達請留意船班 印尼氣象、氣候與地球物理局（BMKG）於10月24日發布海象警報，預測 10月24日至27日，峇里島周邊部分海域浪高可能達2.5至4公尺。 警報涵蓋巴東海峽（Selat Badung）、峇里島南部海域、峇里海峽南部及龍目海峽南部。其中，巴東海峽是往返沙努爾與努沙佩尼達的重要航線，海象變化可能影響快艇及其他海上交通。 氣象單位提醒，強風與巨浪可能增加船舶航行風險，船公司應在出航前確認風速、浪高及最新海象資訊。 旅客應該怎麼做？ 如果你已預訂前往努沙佩尼達、藍夢島或其他離島的船票，建議在出發前再次確認船班是否正常。 - 不要"
-  },
-  {
-    "id": "bali-news-2026-10-24",
-    "title": "峇里島最新新聞｜11輛電動公車、墨爾本直飛航線、2026旅客人數有望達720萬人次",
-    "url": "/blog/bali-news-2026-10-24/",
-    "description": "2026年10月24日峇里島新聞整理：11輛電動公車預計12月投入營運、墨爾本直飛峇里島航線增加班次、全年外國旅客有望達720萬人次，以及住宿合法性、旅遊區文化訓練與基礎建設發展。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島最新新聞",
-      "峇里島電動公車",
-      "Trans Sarbagita",
-      "墨爾本直飛峇里島",
-      "峇里島旅客人數2026",
-      "峇里島住宿合法性",
-      "峇里島旅遊政策",
-      "峇里島交通建設"
-    ],
-    "pubDate": "2026-10-24",
-    "snippet": "🚌 峇里島迎來首批11輛電動公車！Trans Sarbagita預計12月投入營運 峇里島公共交通迎來新進展！峇里島政府於10月22日正式啟動電動公車合作計畫，取得11輛由韓國支持提供的電動公車，以及6座充電設施，未來將投入Trans Sarbagita公共交通系統。 這批電動公車每輛約有20個座位，單次充電續航力超過200公里。根據目前規劃，車隊預計於2026年12月正式投入服務，正式營運前將安排免費試乘。 首階段計畫使用Trans Sarbagita第一號路線，連接登巴薩的GOR Ngurah Rai與金巴蘭的GWK（Garuda Wisnu Kencana），沿途經過烏達雅納大學一帶。"
-  },
-  {
-    "id": "snake-fruit",
-    "title": "峇里島蛇皮果怎麼吃？營養、功效與最好吃的砂糖蛇皮果",
-    "url": "/blog/snake-fruit/",
-    "description": "峇里島蛇皮果怎麼吃、營養價值有哪些？一次看懂蛇皮果的熱量、膳食纖維、「記憶之果」由來與美容說法，並推薦甜度高、澀味少的砂糖蛇皮果（Salak Gula Pasir）與產地 Sibetan 村。",
-    "heroImage": "https://images.gobaligo.id/images/2026-10/1792596291291-193.jpg",
-    "category": [
-      "購物指南",
-      "旅遊專題"
-    ],
-    "tags": [
-      "峇里島蛇皮果",
-      "砂糖蛇皮果",
-      "Salak Gula Pasir",
-      "蛇皮果怎麼吃",
-      "蛇皮果怎麼剝",
-      "蛇皮果營養",
-      "蛇皮果熱量",
-      "蛇皮果功效",
-      "蛇皮果記憶之果",
-      "蛇皮果美容",
-      "蛇皮果抗氧化",
-      "Snake fruit"
-    ],
-    "pubDate": "2026-10-23",
-    "snippet": "峇里島蛇皮果怎麼吃？最好吃的就是「砂糖蛇皮果」 到峇里島旅遊，一定要嚐嚐蛇皮果（Salak, 英文稱為 snake fruit）。 這種外皮像蛇鱗的熱帶水果酸甜清脆，是印尼人日常愛吃的水果，其中最值得推薦的，就是砂糖蛇皮果（Salak Gula Pasir）。這篇整理蛇皮果的特色、吃法、種類與購買方式，讓你下次來峇里島一次吃對。 什麼是蛇皮果？ 蛇皮果是東南亞特有的棕櫚科水果，印尼文稱為 Salak。外皮褐色、布滿鱗片紋路，因此得名。果肉一瓣一瓣像蒜瓣，口感介於蘋果的脆與荔枝的軟之間，帶點酸甜與淡淡果香。 在印尼，蛇皮果是傳統市場和路邊水果攤的常見水果，也是峇里島必吃水果之一。 蛇皮果怎麼剝、"
-  },
-  {
-    "id": "bali-news-2026-10-23",
-    "title": "峇里島最新新聞｜燃油管制最新進展、Tulamben海洋文化節、機場便利商店與烏布文化活動",
-    "url": "/blog/bali-news-2026-10-23/",
-    "description": "2026年10月23日峇里島新聞整理：追蹤燃油短缺與車牌奇偶號措施、Tulamben Ocean Harmony Festival持續至10月24日、峇里島機場國內線抵達區新增M Mart、烏布作家與讀者節持續至10月25日，以及10月23日滿月活動資訊。",
-    "heroImage": "",
-    "category": [
-      "新聞存檔"
-    ],
-    "tags": [
-      "峇里島新聞",
-      "峇里島燃油短缺",
-      "Tulamben Ocean Harmony Festival 2026",
-      "峇里島機場便利商店",
-      "烏布作家與讀者節2026",
-      "峇里島滿月活動",
-      "峇里島旅遊最新消息"
-    ],
-    "pubDate": "2026-10-23",
-    "snippet": "⛽ 峇里島燃油供應持續追蹤：奇偶號加油措施原定今天到期，是否取消仍待確認 峇里島近期的燃油配送問題逐步進入恢復階段。政府先前宣布增加7艘運油船，並將燃油儲備目標從約11至12天提高至15天，希望改善加油站補貨效率，避免再次出現大規模排隊。 省政府此前將補貼燃油Pertalite的車牌末碼奇偶號加油措施延長至 10月23日星期五。不過，截至10月22日，尚未找到足夠可靠的最新公告，能確認這項措施已正式取消或再次延長。 峇里島旅遊部門先前表示，10月中旬外國旅客每日到訪量仍約為2.2萬至2.4萬人，沒有出現明顯下滑。但旅遊業者也曾反映，部分司機因排隊加油而延誤接送，甚至需要調整或取消個別預訂。 對"
-  },
-  {
     "id": "maar-resort-ubud",
     "title": "2025新開幕｜Maar Resort Ubud 烏布叢林Villa推薦，稻田私人泳池渡假村",
     "url": "/blog/maar-resort-ubud/",
@@ -584,26 +102,48 @@
     "snippet": "🌿 在稻田裡甦醒的早晨——Maar Resort & Spa Ubud 深度介紹 如果你在峇里島待久了，會漸漸發現，真正讓人念念不忘的住宿，往往不是最大間的、不是設施最多的，而是那種讓你不想退房的地方。 Maar Resort & Spa Ubud 就是這樣的存在。 2025 年 8 月正式開幕，由 Ini Vie Hospitality 集團打造，整個渡假村只有十間 Villa，小而精緻。這不是那種一進大廳就要排隊 Check-in、跟幾百個陌生人共用泳池的大型渡假村——它更像是有人把自己在烏布最美的一塊地，精心改建成只接待少數人的私人庭院。 📍 位置｜藏在農村小路裡，反而是優點 Maa"
   },
   {
-    "id": "bali-news-2026-10-22",
-    "title": "峇里島最新新聞｜燃油供應追蹤、乾季火災風險、烏布作家節與Bali Tech Week",
-    "url": "/blog/bali-news-2026-10-22/",
-    "description": "2026年10月22日峇里島新聞整理：持續追蹤加油站燃油供應及車牌奇偶號措施、峇里島一週發生16起災害、烏布作家與讀者節正式登場、Bali Tech Week持續舉行，以及2027年最低工資調整討論。",
-    "heroImage": "",
+    "id": "bali-sim-card-esim-guide",
+    "title": "峇里島 SIM 卡 / eSIM 完整指南（2026 最新）｜機場買法、品牌比較、訊號實測",
+    "url": "/blog/bali-sim-card-esim-guide/",
+    "description": "峇里島網路怎麼辦？本文比較 Telkomsel、Airalo、Klook eSIM 等主流方案，含機場購買步驟、詐騙警告、各區訊號實測與 APN 設定教學，30 秒找到最適合你的選擇。",
+    "heroImage": "https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg",
     "category": [
-      "新聞存檔"
+      "新手指南"
     ],
     "tags": [
-      "峇里島新聞",
-      "峇里島最新消息",
-      "峇里島燃油短缺",
-      "峇里島乾季火災",
-      "烏布作家與讀者節2026",
-      "Bali Tech Week 2026",
-      "峇里島最低工資2027",
-      "峇里島旅遊注意事項"
+      "峇里島",
+      "SIM卡",
+      "eSIM",
+      "印尼網路",
+      "峇里島網路",
+      "Telkomsel",
+      "旅遊必備",
+      "峇里島5G",
+      "峇里島4G",
+      "峇里島上網方案",
+      "峇里島 SIM 卡",
+      "峇里島 eSIM",
+      "峇里島網路",
+      "峇里島上網",
+      "印尼 SIM 卡",
+      "印尼 eSIM",
+      "Telkomsel 峇里島",
+      "Klook 峇里島 eSIM",
+      "Airalo 印尼",
+      "Holafly 印尼吃到飽",
+      "峇里島機場 SIM 卡",
+      "峇里島 SIM 卡哪裡買",
+      "峇里島 SIM 卡推薦",
+      "峇里島 eSIM 推薦",
+      "峇里島網路 2026",
+      "峇里島 eSIM 安裝教學",
+      "峇里島 APN 設定",
+      "峇里島訊號實測",
+      "Indosat IM3 峇里島",
+      "峇里島自由行網路"
     ],
-    "pubDate": "2026-10-22",
-    "snippet": "⛽ 峇里島燃油供應危機持續追蹤：加油站排隊改善，政府稱不影響遊客人數 峇里島近期的燃油供應與配送問題，仍是當地居民及旅客關注的焦點。省長Wayan Koster於10月19日表示，燃油問題尚未對10月的旅客到訪情況造成明顯影響，並指出國際及國內航班與外國旅客到訪仍有增長。 根據當時公布的數據，峇里島燃油庫存約有3,000萬公升Pertalite，以及1,000萬公升Pertamax。政府強調，這次危機主要涉及燃油運輸、配送延誤及加油站需求集中，而不是島上完全沒有燃油。 為了讓配送與加油站服務恢復穩定，省政府已將車牌末碼奇偶號加油措施延長至 10月23日星期五。不過，部分地區是否已完全恢復正常，"
+    "pubDate": "2026-10-21",
+    "snippet": "30 秒找到你的方案 先講結論：5 天以內短期旅遊選 eSIM（Klook 或 Airalo，落地即用免換卡）；7-14 天或需要本地號碼選機場買 Telkomsel 實體 SIM（覆蓋最廣）；長住 30 天以上直接去 Grapari 門市辦正式方案最划算。不廢話，先看你是哪種旅客： | 情境 | 推薦方案 | 理由 | | --- | --- | --- | | 5 天以內、不想換卡 | eSIM（Klook 或 Airalo） | 台灣在家安裝，落地即用 | | 7–14 天、需要本地號碼 | 機場買 Telkomsel 實體 SIM | 覆蓋最廣、偏遠也能用 | | 3 人以上同行、一台"
   },
   {
     "id": "bali-news-2026-10-21",
@@ -1377,50 +917,6 @@
     ],
     "pubDate": "2026-10-02",
     "snippet": "峇里島遊客關心話題＋新聞總整理｜2026年10月2日 🚧 Seminyak－Denpasar重要道路夜間封閉一個月，22:00～06:00實施 如果近期住在水明漾（Seminyak），這則交通消息要注意。 連接Denpasar與Seminyak、Kuta一帶的 Jalan Kunti II，因排水工程需要進行開挖，從 10月1日至11月1日實施夜間封路及交通改道。 目前規劃的管制時間為： 每天22:00～翌日06:00 白天則維持通行。 Jalan Kunti II是連接Denpasar與水明漾的重要道路，因此如果晚上從： Denpasar → 水明漾 或 水明漾 → Denpasar 移動"
-  },
-  {
-    "id": "bali-sim-card-esim-guide",
-    "title": "峇里島 SIM 卡 / eSIM 完整指南（2026 最新）｜機場買法、品牌比較、訊號實測",
-    "url": "/blog/bali-sim-card-esim-guide/",
-    "description": "峇里島網路怎麼辦？本文比較 Telkomsel、Airalo、Klook eSIM 等主流方案，含機場購買步驟、詐騙警告、各區訊號實測與 APN 設定教學，30 秒找到最適合你的選擇。",
-    "heroImage": "https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg",
-    "category": [
-      "新手指南"
-    ],
-    "tags": [
-      "峇里島",
-      "SIM卡",
-      "eSIM",
-      "印尼網路",
-      "峇里島網路",
-      "Telkomsel",
-      "旅遊必備",
-      "峇里島5G",
-      "峇里島4G",
-      "峇里島上網方案",
-      "峇里島 SIM 卡",
-      "峇里島 eSIM",
-      "峇里島網路",
-      "峇里島上網",
-      "印尼 SIM 卡",
-      "印尼 eSIM",
-      "Telkomsel 峇里島",
-      "Klook 峇里島 eSIM",
-      "Airalo 印尼",
-      "Holafly 印尼吃到飽",
-      "峇里島機場 SIM 卡",
-      "峇里島 SIM 卡哪裡買",
-      "峇里島 SIM 卡推薦",
-      "峇里島 eSIM 推薦",
-      "峇里島網路 2026",
-      "峇里島 eSIM 安裝教學",
-      "峇里島 APN 設定",
-      "峇里島訊號實測",
-      "Indosat IM3 峇里島",
-      "峇里島自由行網路"
-    ],
-    "pubDate": "2026-10-01",
-    "snippet": "30 秒找到你的方案 先講結論：5 天以內短期旅遊選 eSIM（Klook 或 Airalo，落地即用免換卡）；7-14 天或需要本地號碼選機場買 Telkomsel 實體 SIM（覆蓋最廣）；長住 30 天以上直接去 Grapari 門市辦正式方案最划算。不廢話，先看你是哪種旅客： | 情境 | 推薦方案 | 理由 | | --- | --- | --- | | 5 天以內、不想換卡 | eSIM（Klook 或 Airalo） | 台灣在家安裝，落地即用 | | 7–14 天、需要本地號碼 | 機場買 Telkomsel 實體 SIM | 覆蓋最廣、偏遠也能用 | | 3 人以上同行、一台"
   },
   {
     "id": "bali-travel-review-not-cheap",
@@ -4697,8 +4193,7 @@
     "description": "峇里島第一座 Premium Outlet 正式開幕！Sira Village Grand Outlet Bali 位於 Kura Kura Bali 海龜島經濟特區，集結超過 100 個國際品牌、全年 Outlet 折扣、美食、夕陽海景及即時航班資訊，是峇里島最新必訪購物景點。",
     "heroImage": "https://images.gobaligo.id/images/2026-07/1785508711141-sira_index.jpg",
     "category": [
-      "美食景點活動",
-      "購物指南"
+      "美食景點活動"
     ],
     "tags": [
       "Sira Village Grand Outlet Bali",
@@ -9797,7 +9292,7 @@
     "title": "AYANA Resort Bali｜一次看懂阿雅娜完整攻略：4 個區域比較、16個必知亮點、Rock Bar 日落預約 2026 - Go Bali Go",
     "url": "/blog/ayana-resort-bali-guide/",
     "description": "峇里島最知名度假村！AYANA Resort Bali 阿雅娜擁有 Segara、RIMBA、Villas、Rock Bar等。完整比較各區優缺點，教你預約世界最美 Rock Bar 岩石🍷吧，金巴蘭度假不踩雷、玩得盡興！",
-    "heroImage": "https://images.gobaligo.id/images/2026-10/1793375461545-15438.jpg",
+    "heroImage": "https://images.gobaligo.id/vocus/vocus_291e383b3042a6188cafc720cc574d50.png",
     "category": [
       "住宿推薦"
     ],
@@ -10768,7 +10263,7 @@
       "峇里島包車評價實測"
     ],
     "pubDate": "2026-01-01",
-    "snippet": "本頁是什麼：峇里島包車司機推薦名單的第二頁，收錄20+位司機、258 則團友在臉書社團自己發文的搭乘分享。每位司機底下那排數字都是原始貼文連結，可以自己點開查證。 包車行情約 Rp 600,000–800,000／10 小時／五人座（算車不算人頭，烏布以南），2026 年 7 月 1 日起另加油費補貼（半天 Rp 50,000、整天 Rp 100,000）。跨區加價、超時費算法與預約流程，都整理在第一頁。 聯繫司機時請一次講清楚：日期、天數、人數與行李、上下車地點、想去哪些景點，並問清楚含跨區加價的總金額。⚠️ Line 跨區沒辦法用 ID 加好友，要掃 QR Code。 👉 第一頁還有另外"
+    "snippet": "本頁是什麼：峇里島包車司機推薦名單的第二頁，收錄20位司機、258 則團友在臉書社團自己發文的搭乘分享。每位司機底下那排數字都是原始貼文連結，可以自己點開查證。 包車行情約 Rp 600,000–800,000／10 小時／五人座（算車不算人頭，烏布以南），2026 年 7 月 1 日起另加油費補貼（半天 Rp 50,000、整天 Rp 100,000）。跨區加價、超時費算法與預約流程，都整理在第一頁。 聯繫司機時請一次講清楚：日期、天數、人數與行李、上下車地點、想去哪些景點，並問清楚含跨區加價的總金額。⚠️ Line 跨區沒辦法用 ID 加好友，要掃 QR Code。 👉 第一頁還有另外 "
   },
   {
     "id": "bali-child-visa-guide",
