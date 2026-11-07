@@ -35,6 +35,7 @@ const blog = defineCollection({
     newsCategory: z.enum(['政策', '交通', '天氣', '景點', '簽證', '治安', '活動']).optional().catch(undefined),
     // /news/ 列表縮圖的替代文字（未填則由頁面 fallback 到標題）
     imageAlt: z.string().optional(),
+    author: z.enum(['小傑爸', '小傑媽']).optional().catch(undefined),
     embeds: z.array(z.object({
       position: z.string(),
       platform: z.enum(['youtube', 'instagram', 'tiktok']),
