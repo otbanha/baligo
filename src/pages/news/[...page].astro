@@ -125,17 +125,24 @@ for (const cat of siteCategories) {
   siteCategoryCounts[cat] = publishedSitePosts.filter(p => getCategories(p.data.category).includes(cat)).length;
 }
 
-// 只有這 8 個分類有靜態產生的 /blog/category/[cat]/ 頁面（見 src/pages/blog/category/[cat].astro
-// 的 getStaticPaths）；新聞存檔另有 /news/ 首頁，其餘分類（例如「旅遊專題」）沒有靜態頁，
-// 一律導回 /blog/?cat=... 走前端篩選，避免連到 404。
+// 有靜態 /blog/category/[cat]/ 頁的分類（見 src/pages/blog/category/[cat].astro 的
+// getStaticPaths）；新聞存檔另有 /news/ 首頁。旅遊專題與購物指南是 2026-11 補上的。
 const STATIC_CATEGORY_PAGES = new Set([
   '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',
+  '旅遊專題', '購物指南',
 ]);
 const catPageUrl = (cat: string): string => {
   if (cat === '新聞存檔') return '/news/';
   if (STATIC_CATEGORY_PAGES.has(cat)) return `/blog/category/${encodeURIComponent(cat)}/`;
-  return `/blog/?lang=tw&cat=${encodeURIComponent(cat)}`;
+  return `/blog/?cat=${encodeURIComponent(cat)}`;
 };
+
+// 每月新聞彙整（/news/archive/YYYY-MM/）：211 篇每日新聞原本只能靠 /news/ 的
+// 20 篇一頁分頁往前翻，月彙整頁才是可長期索引的穩定入口。
+const archiveMonths = [...new Set(
+  allNewsForCats.map((p: any) => getPublishTime(p).toISOString().slice(0, 7)),
+)].sort().reverse();
+const monthText = (mo: string) => `${mo.slice(0, 4)} 年 ${Number(mo.slice(5, 7))} 月`;
 
 const pageTitle = isFirstPage
   ? '峇里島新聞 | 每日更新峇里島最新消息 - 小傑印尼'
@@ -156,6 +163,9 @@ const faqs = [
 <head>
   <BaseHead title={pageTitle} description={pageDescription} noSuffix={true} />
   <link rel="alternate" type="application/rss+xml" title="峇里島新聞 RSS" href="/news/rss.xml" />
+  <!-- /news/2/ 之後的分頁與月彙整頁內容高度重疊，留著只是讓 Google 重複爬同一批
+       標題。第一頁（最新消息）照常索引，其餘交給 /news/archive/YYYY-MM/。 -->
+  {!isFirstPage && <meta name="robots" content="noindex,follow" />}
   {isFirstPage && (
     <>
       <script type="application/ld+json" set:html={JSON.stringify({
@@ -261,6 +271,15 @@ const faqs = [
             </a>
           ))}
         </div>
+      )}
+
+      {archiveMonths.length > 0 && (
+        <nav class="news-archive-nav" aria-label="每月新聞彙整">
+          <span class="news-archive-label">每月彙整</span>
+          {archiveMonths.map(mo => (
+            <a class="news-archive-link" href={`/news/archive/${mo}/`}>{monthText(mo)}</a>
+          ))}
+        </nav>
       )}
 
       <ul class="news-hub-list">
@@ -394,6 +413,10 @@ const faqs = [
   .news-cat-chip:hover { background: rgba(10, 61, 107, 0.12); }
   .news-cat-chip-count { color: #888; font-weight: 400; }
 
+  .news-archive-nav { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5em; margin: 0 0 1.6em; }
+  .news-archive-label { font-size: 0.78em; font-weight: 600; color: #888; }
+  .news-archive-link { font-size: 0.78em; padding: 0.35em 0.8em; border-radius: 999px; border: 1px solid #e2e2e2; color: #555; text-decoration: none; background: #fff; }
+  .news-archive-link:hover { border-color: var(--ocean, #0f3860); color: var(--ocean, #0f3860); }
   .news-hub-list { list-style: none; margin: 0 0 1.6em; padding: 0; }
   .news-hub-item { border-bottom: 1px solid rgba(197,160,89,0.15); padding: 0.9em 0; }
   .news-hub-item:last-child { border-bottom: none; }

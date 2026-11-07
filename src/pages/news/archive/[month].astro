@@ -1,0 +1,234 @@
+---
+/**
+ * /news/archive/YYYY-MM/ — 每月新聞彙整
+ *
+ * 為什麼需要：每日新聞存檔共 211 篇（每月約 30 篇），每一篇都是薄內容，
+ * 時效一過就只剩稀釋全站品質信號的作用。原本的做法是 45 天後才給個別文章加
+ * noindex，由 /news/ hub 承接；但 hub 只顯示最新 20 篇，再往前的消息就只剩
+ * /news/2/、/news/3/ 這種分頁，對搜尋引擎而言也是一批近似重複的清單頁。
+ *
+ * 改成：每個月一頁彙整（這一頁），把那個月所有新聞的標題、日期、分類與摘要
+ * 收在一起，成為可長期索引的穩定頁面；每日新聞文章一律 noindex,follow，
+ * 權重集中到月彙整與 /news/ hub。
+ */
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  function getPublishTime(p: any): Date {
+    const d = new Date(p.data.pubDate);
+    if (p.data.pubHour != null) d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+    return d;
+  }
+  const now = new Date();
+  const cats = (c: any): string[] => (Array.isArray(c) ? c : c ? [c] : []);
+  const news = (await getCollection('blog')).filter(
+    (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now && cats(p.data.category).includes('新聞存檔'),
+  );
+  const months = [...new Set(news.map((p: any) => getPublishTime(p).toISOString().slice(0, 7)))].sort().reverse();
+  return months.map(month => ({ params: { month }, props: { month, months } }));
+}
+
+const { month, months } = Astro.props as { month: string; months: string[] };
+
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  return d;
+}
+const getCategories = (c: any): string[] => (Array.isArray(c) ? c : c ? [c] : []);
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+function firstExcerpt(body: string, max = 110): string {
+  for (const raw of (body || '').split(/\r?\n/)) {
+    const t = raw.trim();
+    if (!t || /^#{1,6}\s/.test(t) || /^!\[[^\]]*\]\([^)]*\)\s*$/.test(t)) continue;
+    if (/^https?:\/\/\S+$/.test(t) || /^\{\{.*\}\}\s*$/.test(t)) continue;
+    const cleaned = t
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/[*_~`#>]+/g, '')
+      .trim();
+    if (!cleaned) continue;
+    return cleaned.length > max ? cleaned.slice(0, max) + '…' : cleaned;
+  }
+  return '';
+}
+
+const now = new Date();
+const allNews = (await getCollection('blog')).filter(
+  (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now && getCategories(p.data.category).includes('新聞存檔'),
+);
+
+const posts = allNews
+  .filter((p: any) => getPublishTime(p).toISOString().slice(0, 7) === month)
+  .sort((a: any, b: any) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf())
+  .map((p: any) => ({
+    slug: p.data.slug || p.id,
+    title: p.data.title,
+    date: getPublishTime(p).toISOString().slice(0, 10),
+    newsCategory: p.data.newsCategory,
+    excerpt: p.data.description || firstExcerpt(p.body),
+    heroImage: p.data.heroImage || extractFirstImage(p.body),
+    imageAlt: p.data.imageAlt || p.data.title,
+  }));
+
+const [y, m] = month.split('-');
+const monthLabel = `${y} 年 ${Number(m)} 月`;
+const canonicalUrl = `https://gobaligo.id/news/archive/${month}/`;
+const lastmod = posts[0]?.date ?? `${month}-01`;
+
+// 分類統計：讓這一頁有「這個月峇里島發生了什麼」的概覽，而不只是一串連結
+const catCounts: Record<string, number> = {};
+for (const p of posts) if (p.newsCategory) catCounts[p.newsCategory] = (catCounts[p.newsCategory] ?? 0) + 1;
+const catSummary = Object.entries(catCounts).sort((a, b) => b[1] - a[1]);
+
+const title = `${monthLabel}峇里島新聞彙整｜${posts.length} 則峇里島最新消息`;
+const description =
+  `${monthLabel}峇里島新聞總整理，共 ${posts.length} 則：` +
+  (catSummary.length ? catSummary.slice(0, 4).map(([c, n]) => `${c} ${n} 則`).join('、') + '。' : '') +
+  '入境規定、天氣火山示警、交通異動、治安提醒與活動資訊，由長住印尼的台灣人團隊逐日彙編。';
+
+const idx = months.indexOf(month);
+const newerMonth = idx > 0 ? months[idx - 1] : null;
+const olderMonth = idx >= 0 && idx < months.length - 1 ? months[idx + 1] : null;
+const monthText = (mo: string) => `${mo.slice(0, 4)} 年 ${Number(mo.slice(5, 7))} 月`;
+
+const schemas = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: title,
+    description,
+    url: canonicalUrl,
+    inLanguage: 'zh-TW',
+    isPartOf: { '@type': 'WebSite', name: 'Go Bali Go 峇里島旅遊攻略', url: 'https://gobaligo.id' },
+    dateModified: lastmod,
+    mainEntity: {
+      '@type': 'ItemList',
+      name: title,
+      numberOfItems: posts.length,
+      itemListElement: posts.slice(0, 30).map((p, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: p.title,
+        url: `https://gobaligo.id/blog/${p.slug}/`,
+      })),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Go Bali Go', item: 'https://gobaligo.id/blog/' },
+      { '@type': 'ListItem', position: 2, name: '峇里島新聞', item: 'https://gobaligo.id/news/' },
+      { '@type': 'ListItem', position: 3, name: `${monthLabel}彙整`, item: canonicalUrl },
+    ],
+  },
+];
+---
+
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} noSuffix={true} />
+  <link rel="alternate" type="application/rss+xml" title="峇里島新聞 RSS" href="/news/rss.xml" />
+  {schemas.map(s => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+</head>
+<body>
+  <Header lang="zh-tw" slug="news" hideLangSwitcher={true} />
+  <TopStrip lang={'zh-tw'} />
+
+  <main class="na-main">
+    <nav class="na-breadcrumb" aria-label="breadcrumb">
+      <a href="/blog/">首頁</a>
+      <span class="na-sep">›</span>
+      <a href="/news/">峇里島新聞</a>
+      <span class="na-sep">›</span>
+      <span>{monthLabel}彙整</span>
+    </nav>
+
+    <h1 class="na-h1">{monthLabel} 峇里島新聞彙整</h1>
+
+    <p class="na-intro">
+      這一頁收錄 {monthLabel} 整個月的峇里島新聞，共 <strong>{posts.length} 則</strong>
+      {catSummary.length > 0 && <>（{catSummary.map(([c, n], i) => <>{i > 0 && '、'}{c} {n} 則</>)}）</>}。
+      每日新聞由長住印尼的台灣人團隊追蹤印尼當地新聞來源、政府公告與現地社團後逐日彙編，
+      想看最新消息請到 <a href="/news/">峇里島新聞首頁</a>。
+    </p>
+
+    {months.length > 1 && (
+      <nav class="na-months" aria-label="各月彙整">
+        {months.map(mo => (
+          mo === month
+            ? <span class="na-month na-month--current">{monthText(mo)}</span>
+            : <a class="na-month" href={`/news/archive/${mo}/`}>{monthText(mo)}</a>
+        ))}
+      </nav>
+    )}
+
+    <ul class="na-list">
+      {posts.map(p => (
+        <li class="na-item">
+          <a href={`/blog/${p.slug}/`} class="na-link">
+            {p.heroImage && <img class="na-thumb" src={p.heroImage} alt={p.imageAlt} loading="lazy" />}
+            <span class="na-text">
+              <span class="na-meta">{p.date}{p.newsCategory && <span class="na-tag">{p.newsCategory}</span>}</span>
+              <span class="na-title">{p.title}</span>
+              {p.excerpt && <span class="na-excerpt">{p.excerpt}</span>}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <nav class="na-nav" aria-label="上下月">
+      {olderMonth && <a class="na-nav-link" href={`/news/archive/${olderMonth}/`}>← {monthText(olderMonth)}彙整</a>}
+      <a class="na-nav-link" href="/news/">峇里島新聞首頁</a>
+      {newerMonth && <a class="na-nav-link" href={`/news/archive/${newerMonth}/`}>{monthText(newerMonth)}彙整 →</a>}
+    </nav>
+  </main>
+
+  <Footer lang="zh-tw" />
+
+  <style>
+    .na-main { max-width: 860px; margin: 0 auto; padding: 20px 16px 64px; box-sizing: border-box; }
+    .na-breadcrumb { font-size: 12px; color: #888; margin-bottom: 14px; }
+    .na-breadcrumb a { color: var(--ocean, #0f3860); text-decoration: none; }
+    .na-breadcrumb a:hover { text-decoration: underline; }
+    .na-sep { margin: 0 6px; color: #ccc; }
+    .na-h1 { font-size: clamp(1.4rem, 5vw, 1.9rem); color: var(--ocean, #0f3860); line-height: 1.3; margin: 0 0 12px; }
+    .na-intro { font-size: 14px; line-height: 1.9; color: #444; margin: 0 0 18px; }
+    .na-intro a { color: var(--ocean, #0f3860); font-weight: 600; }
+    .na-months { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+    .na-month { font-size: 12px; padding: 5px 11px; border-radius: 999px; border: 1px solid #e2e2e2; color: #555; text-decoration: none; background: #fff; }
+    .na-month:hover { border-color: var(--ocean, #0f3860); color: var(--ocean, #0f3860); }
+    .na-month--current { background: var(--ocean, #0f3860); border-color: var(--ocean, #0f3860); color: #fff; font-weight: 600; }
+    .na-list { list-style: none; padding: 0; margin: 0; }
+    .na-item { border-bottom: 1px solid #eee; }
+    .na-link { display: flex; gap: 12px; padding: 13px 0; text-decoration: none; color: inherit; align-items: flex-start; }
+    .na-link:hover .na-title { color: var(--ocean, #0f3860); text-decoration: underline; }
+    .na-thumb { width: 104px; height: 74px; object-fit: cover; border-radius: 8px; flex: none; background: #f2f2f2; }
+    .na-text { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+    .na-meta { font-size: 11px; color: #999; display: flex; align-items: center; gap: 7px; }
+    .na-tag { background: #f0f4f8; color: #44607d; border-radius: 4px; padding: 1px 6px; font-size: 10px; }
+    .na-title { font-size: 15px; font-weight: 600; line-height: 1.5; color: #1a1a1a; }
+    .na-excerpt { font-size: 12.5px; color: #777; line-height: 1.65; }
+    .na-nav { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; margin-top: 26px; }
+    .na-nav-link { font-size: 13px; color: var(--ocean, #0f3860); text-decoration: none; font-weight: 600; }
+    .na-nav-link:hover { text-decoration: underline; }
+    @media (max-width: 600px) {
+      .na-thumb { width: 84px; height: 60px; }
+      .na-title { font-size: 14px; }
+      .na-excerpt { display: none; }
+    }
+  </style>
+</body>
+</html>

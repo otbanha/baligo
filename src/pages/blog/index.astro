@@ -224,13 +224,19 @@ const socialLinks = [
       // /en/blog/ 併成同一組、只選 /blog/ 當 canonical，英文首頁因而不被索引（2026-10 查出）。
       if (/facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|google-inspectiontool|storebot-google|googleother|adsbot-google|mediapartners-google|bingbot|bingpreview|yandex|baiduspider|360spider|haosouspider|sogou[\w ]*spider|yisouspider|bytespider|duckduckbot|petalbot|gptbot|oai-searchbot|chatgpt-user|claudebot|perplexitybot|headlesschrome|lighthouse|chrome-lighthouse/i.test(navigator.userAgent || '')) return;
 
+      function rememberZhTw() {
+        try {
+          document.cookie = 'gobaligo_lang=zh-tw; path=/; max-age=' + (60*60*24*365) + '; SameSite=Lax';
+        } catch (e) {}
+      }
+
       // ?lang=tw：使用者主動選擇繁體中文，寫入 cookie、移除 lang param
       if (new URLSearchParams(location.search).has('lang')) {
         var p = new URLSearchParams(location.search);
         p.delete('lang');
         var qs = p.toString();
         history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
-        document.cookie = 'gobaligo_lang=zh-tw; path=/; max-age=' + (60*60*24*365) + '; SameSite=Lax';
+        rememberZhTw();
         sessionStorage.setItem('gobaligo_lang_checked', '1');
         return;
       }
@@ -241,8 +247,14 @@ const socialLinks = [
       // 站內導覽（例如從文章頁點擊「文章分類」連結過來）一律信任，不做語言猜測跳轉。
       // 這避免少數瀏覽器（如 Opera 的資料節省/代理模式）在轉址過程中遺失 ?lang=tw
       // 參數時，被瀏覽器語言設定誤判跳轉到錯誤語系首頁。
+      // 站內連結（含 Header／Footer 的 logo）原本是靠網址帶 ?lang=tw 來固定語言，
+      // 等於全站每一頁的 logo 都指向 /blog/?lang=tw 這個非 canonical 的參數網址。
+      // 改成：站內導覽進來就把「要繁中」寫進 cookie，連結本身就能用乾淨的 /blog/。
       try {
-        if (document.referrer && new URL(document.referrer).hostname === location.hostname) return;
+        if (document.referrer && new URL(document.referrer).hostname === location.hostname) {
+          rememberZhTw();
+          return;
+        }
       } catch (e) {}
 
       // 保留當前 query string（cat、page、q 等），帶到目標語言頁面
@@ -264,7 +276,7 @@ const socialLinks = [
       if (matchAny(function(l){
         return l === 'zh-tw' || l === 'zh-hk' || l === 'zh-mo' ||
                l === 'zh-hant' || l.startsWith('zh-hant-');
-      })) return;
+      })) { rememberZhTw(); return; }
 
       // 其他語系：只在確認是簡中或英文時才自動跳轉
       var nav = langs[0] || '';
@@ -320,7 +332,7 @@ const socialLinks = [
     "name": "峇里島旅遊分類攻略",
     "url": "https://gobaligo.id/blog/",
     "description": "涵蓋住宿推薦、簽證通關、分區攻略、美食景點等峇里島旅遊主題分類",
-    "numberOfItems": 9,
+    "numberOfItems": 11,
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "新手指南", "url": "https://gobaligo.id/blog/category/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/" },
       { "@type": "ListItem", "position": 2, "name": "住宿推薦", "url": "https://gobaligo.id/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" },
@@ -330,7 +342,9 @@ const socialLinks = [
       { "@type": "ListItem", "position": 6, "name": "家庭親子", "url": "https://gobaligo.id/blog/category/%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90/" },
       { "@type": "ListItem", "position": 7, "name": "遊記分享", "url": "https://gobaligo.id/blog/category/%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB/" },
       { "@type": "ListItem", "position": 8, "name": "美食景點活動", "url": "https://gobaligo.id/blog/category/%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95/" },
-      { "@type": "ListItem", "position": 9, "name": "旅遊專題", "url": "https://gobaligo.id/blog/?cat=%E6%97%85%E9%81%8A%E5%B0%88%E9%A1%8C" }
+      { "@type": "ListItem", "position": 9, "name": "套裝行程", "url": "https://gobaligo.id/blog/category/%E5%A5%97%E8%A3%9D%E8%A1%8C%E7%A8%8B/" },
+      { "@type": "ListItem", "position": 10, "name": "旅遊專題", "url": "https://gobaligo.id/blog/category/%E6%97%85%E9%81%8A%E5%B0%88%E9%A1%8C/" },
+      { "@type": "ListItem", "position": 11, "name": "購物指南", "url": "https://gobaligo.id/blog/category/%E8%B3%BC%E7%89%A9%E6%8C%87%E5%8D%97/" }
     ]
   })} />
   <!-- 新手指南分類 schema（JS 動態注入） -->
@@ -388,7 +402,7 @@ const socialLinks = [
 
         <!-- Accommodations 2×2（取代原本的田字格快速入口） -->
         <div class="widget-box accom-feature">
-          <h2 class="widget-title fade-in">🏨 Accommodations</h2>
+          <h2 class="widget-title fade-in">🏨 住宿推薦</h2>
           {accomCards.length > 0 ? (
             <div class="accom-grid">
               {accomCards.map((a, i) => (
@@ -656,12 +670,7 @@ const socialLinks = [
       <!-- 編輯精選區塊 -->
       <div id="featured-section" style="display:none">
         <h2 class="section-title fade-in">⭐ 編輯精選</h2>
-        <div class="featured-grid">
-          {[0,1,2].map(i => (
-            <a href="#" class="featured-card" data-index={i}>
-              <div class="featured-image">
-                <img src="" alt="" loading="eager" />
-              </div>
+        <div class="featured-grid" id="featured-grid" data-badge="精選"></div>
               <div class="featured-body">
                 <span class="featured-badge">精選</span>
                 <h3></h3>
@@ -782,6 +791,24 @@ const socialLinks = [
       return allPostsData.find(p => p.id === id || p.slug === id);
     }
 
+      // 編輯精選卡片改成「需要時才由 JS 建立」。
+      // 原本三張卡是伺端就渲染好的佔位 <a href="#">：整個區塊預設 display:none，
+      // 只有選了分類才由 JS 填入網址與標題。結果每個語系的部落格首頁都固定送出
+      // 三個 href="#" 的空連結（可見文字只有「精選」徽章）與三個 src="" 的 <img>。
+      // 2026-11 稽核：Google 會把它們當站內死連結，空 src 也會發出多餘的請求。
+      function ensureFeaturedCards(grid, badgeLabel) {
+        if (grid.querySelector('.featured-card')) return;
+        for (let i = 0; i < 3; i++) {
+          const card = document.createElement('a');
+          card.className = 'featured-card';
+          card.setAttribute('data-index', String(i));
+          card.innerHTML =
+            '<div class="featured-image"><img alt="" /></div>' +
+            '<div class="featured-body"><span class="featured-badge"></span><h3></h3></div>';
+          card.querySelector('.featured-badge').textContent = badgeLabel;
+          grid.appendChild(card);
+        }
+      }
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
       const catHeading = document.getElementById('cat-heading');
@@ -814,7 +841,10 @@ const socialLinks = [
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
       // 從最多 5 篇中亂數取 3 篇
       const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
-      const featuredCardEls = document.querySelectorAll('.featured-card');
+      const featuredGrid = document.getElementById('featured-grid');
+      if (!featuredGrid) { section.style.display = 'none'; return; }
+      ensureFeaturedCards(featuredGrid, featuredGrid.dataset.badge || '');
+      const featuredCardEls = featuredGrid.querySelectorAll('.featured-card');
       featuredCardEls.forEach((card, i) => {
         if (shuffled[i]) {
           card.href = `${blogBase}/${shuffled[i].id}/`;

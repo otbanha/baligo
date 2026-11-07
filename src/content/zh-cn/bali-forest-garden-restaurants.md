@@ -94,7 +94,7 @@ Samm's Farm 是一座令人耳目一新的沉浸式绿洲，完美揉合热带�
 
 https://www.instagram.com/reel/DL6rGFgSkbm/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
 
-**区域：** 水明漾（Seminyak），位于 Jl. Kayu Aya **营业时间：** 07:00–21:30 **Google Maps：** [待补链接]
+**区域：** 水明漾（Seminyak），位于 Jl. Kayu Aya **营业时间：** 07:00–21:30
 
 Bread Yard 位于水明漾的热闹核心，却巧妙引入绿意盎然的花园风格装潢，一踏入店内就能感受到清新的度假氛围。
 

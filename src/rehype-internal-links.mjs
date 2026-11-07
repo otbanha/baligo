@@ -82,6 +82,13 @@ function lookupRedirect(path) {
 
 const ORIGIN = 'https://gobaligo.id';
 
+// 有靜態分類頁的分類（與各語言 blog/category/[cat].astro 的 getStaticPaths 一致）。
+// 新聞存檔沒有分類頁（由 /news/ hub 承接），所以不在這裡，?cat= 連結原樣保留。
+const STATIC_CATEGORY_PAGES = new Set([
+  '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子',
+  '遊記分享', '美食景點活動', '套裝行程', '旅遊專題', '購物指南',
+]);
+
 export function resolveInternalHref(href) {
   if (typeof href !== 'string') return href;
   const hasOrigin = href.startsWith(ORIGIN + '/');
@@ -90,8 +97,27 @@ export function resolveInternalHref(href) {
 
   const m = rel.match(/^([^?#]*)(.*)$/);
   const path = m[1];
-  const rest = m[2];
+  let rest = m[2];
   let target = null;
+
+  // 3. /blog/?cat=住宿推薦 這類「前端篩選」網址 → 真正的 /blog/category/<slug>/ 頁
+  //    內文裡有 35 篇文章這樣連（含 ?lang=tw&cat=...），而且 en / id 的連結還帶著
+  //    繁中分類值。這種網址不是 canonical、內容由 JS 才長出來，爬蟲看不到文章，
+  //    站內連結的權重也傳不到真正的分類頁（2026-11 稽核）。
+  const filterMatch = path.match(/^\/((?:en|id|zh-cn|zh-hk)\/)?blog\/?$/);
+  if (filterMatch && rest) {
+    const params = new URLSearchParams(rest.replace(/^[?#]/, ''));
+    const wanted = params.get('cat');
+    if (wanted && !params.get('q') && !params.get('page')) {
+      const prefix = filterMatch[1] ? `/${filterMatch[1].replace(/\/$/, '')}` : '';
+      const lang = filterMatch[1] ? filterMatch[1].replace(/\/$/, '') : 'zh-tw';
+      const slugMap = CAT_SLUGS_BY_LANG[lang];
+      const seg = slugMap?.[wanted] ?? wanted;
+      if (STATIC_CATEGORY_PAGES.has(wanted)) {
+        return (hasOrigin ? ORIGIN : '') + `${prefix}/blog/category/${encodeURIComponent(seg)}/`;
+      }
+    }
+  }
 
   const cat = path.match(/^\/(en|id)\/blog\/category\/([^/]+)\/?$/);
   if (cat) {

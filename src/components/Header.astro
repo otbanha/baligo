@@ -13,10 +13,13 @@ interface Props {
 }
 const { lang, slug, basePath, basePathMap, hideLangSwitcher, availableLangs } = Astro.props;
 
+// logo 連結：繁中原本指向 /blog/?lang=tw，等於全站每一頁的 logo 都連到一個帶
+// 參數的非 canonical 網址。語言選擇已改由 /blog/ 的偵測腳本在站內導覽時寫進
+// cookie（見 src/pages/blog/index.astro 的 rememberZhTw），所以這裡用乾淨網址。
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
                 lang === 'zh-hk' ? '/zh-hk/blog/' :
-                lang === 'id' ? '/id/blog/' : '/blog/?lang=tw';
+                lang === 'id' ? '/id/blog/' : '/blog/';
 
 const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
                           lang === 'zh-cn' ? '🔍 搜索文章...' :

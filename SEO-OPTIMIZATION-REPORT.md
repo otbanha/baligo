@@ -185,3 +185,115 @@ npm run build     # 通過，產出 5,150 個 HTML
 - 所有 JSON-LD 區塊皆可 `JSON.parse`
 - `/en/`、`/id/` 的 meta 不含漢字
 - `/xx/blog/<slug>/` 若該語言沒有內容檔，則該頁 `noindex` 且不在 sitemap 內
+
+---
+
+# 第二輪（2026-11-07）
+
+## 一、首頁空連結、英文標題、`[待補連結]`
+
+**首頁三個 `href="#"` 空連結。** `/blog/`（各語系的實際首頁）的「編輯精選」三張卡片是
+伺端就渲染好的佔位 `<a href="#">`：整個區塊預設 `display:none`，只有選了分類才由 JS
+填入網址與標題。結果每個語系的首頁都固定送出三個死連結（可見文字只有「精選」徽章）
+與三個 `src=""` 的 `<img>`。改成需要時才由 JS 建立卡片元素，五個語系現在都是 0 個。
+
+**繁中／簡中／港版首頁上的英文標題。** 側欄區塊標題硬寫成英文：
+`🏨 Accommodations`（三個中文語系都有）與 `📰 Bali News`（簡中、港版）。
+英文版與印尼文版本來就有自己的字串，只有中文語系漏了。已改為
+住宿推薦／住宿推荐、峇里島新聞／巴厘岛新闻。
+
+**`[待補連結]`。** 全站掃描 `待補`、`待补`、`Link to be added`、`Tautan menyusul`、`TBD`
+後，真正的佔位只有一處：森林系餐廳那篇的 Bread Yard 留了
+`**Google Maps：** [待補連結]`，五個語系都有。同一篇另外四家餐廳都沒有 Google Maps
+欄位，所以整個欄位移除，與其他四家一致。
+
+> 節慶文章裡的 `TBD` 不是佔位：繁中原文就是「**未定** Ubud Food Festival」，
+> 英文版翻成 `TBD:` 是正確翻譯，保留。
+
+## 二、新聞頁：每月新聞彙整 + 每日新聞 noindex
+
+兩個選項都做了，以「每月彙整」為主：
+
+**新增 `/news/archive/YYYY-MM/`（9 頁，每月自動增加一頁）。** 每一頁收錄該月所有新聞的
+日期、分類、標題與摘要，附 CollectionPage + ItemList + BreadcrumbList schema、
+上下月導覽與全部月份的快捷列。`/news/` 首頁也加上「每月彙整」導覽列。
+
+**每日新聞的可索引窗口從 45 天縮到 3 天。** 211 篇（五語系合計約 1,055 頁）薄內容，
+現在只有最新 3 天內的會被索引，其餘一律 `noindex, follow` 並移出 sitemap，
+排名集中到 `/news/` 首頁與月彙整頁。
+
+> **為什麼不是「一律 noindex」：** `src/pages/news-sitemap.xml.ts` 是 Google News
+> sitemap，只收 48 小時內的新聞。若每日新聞全部 noindex，那份 sitemap 會自相矛盾
+> （送出一批叫 Google 不要索引的網址），Google News 與 Discover 的曝光也一併放棄。
+> 所以窗口設成剛好覆蓋它的 3 天（`NEWS_INDEX_DAYS`，在 `BlogPost.astro` 與
+> `astro.config.mjs` 各一份且數值一致）。要完全不索引每日新聞，把它設成 `0`，
+> 同時移除 `news-sitemap.xml` 與 `robots.txt` 裡那一行即可。
+
+**`/news/2/` 之後的分頁改 `noindex, follow` 並移出 sitemap** —— 內容與月彙整頁高度重疊。
+
+## 三、旅遊專題／購物指南分類頁；Logo 改連 `/blog/`
+
+**兩個分類原本沒有靜態分類頁**，只能靠 `/blog/?cat=` 的前端篩選，爬蟲看不到任何文章。
+其中**旅遊專題是全站最大的分類（236 篇）**。另外 `旅遊專題` 連 `CAT_SLUG_EN` /
+`CAT_SLUG_ID` 都沒有，所以英文與印尼文連 slug 都不存在，sitemap 的分類 hreflang
+也整個跳過它。
+
+已補上：
+
+- `CAT_SLUG_EN['旅遊專題'] = 'travel-tips'`、`CAT_SLUG_ID['旅遊專題'] = 'tips-traveling'`
+- 五個語系各新增 2 頁，共 **10 個分類頁**，全部進 sitemap 並帶完整 hreflang 群組
+- 頁尾分類清單、文章側欄、首頁的 ItemList schema（順便補上漏掉的「套裝行程」，
+  9 項 → 11 項）全部改指真實分類頁
+
+**Logo 改連 `/blog/`。** Header 與 Footer 的 logo 原本指向 `/blog/?lang=tw`，等於全站
+每一頁都連到一個帶參數的非 canonical 網址。`?lang=tw` 原本的用途是避免
+`navigator.languages` 誤判跳轉，現在改由 `/blog/` 的偵測腳本在「站內導覽進來」或
+「瀏覽器本來就是繁中」時把語言寫進 cookie（`rememberZhTw`），連結本身就能用乾淨網址。
+語言切換器仍保留 `?lang=tw`（那是使用者主動選擇，語意正確）。
+
+**內文的 `?cat=` 篩選連結一併導正。** 35 篇文章內文用
+`/blog/?cat=住宿推薦`、甚至 `/en/blog/?lang=tw&cat=<繁中分類值>` 這種寫法連分類。
+在 `rehype-internal-links.mjs` 加一條規則，build 時改寫成該語言正確的
+`/blog/category/<slug>/`（不動內容檔，所以不會觸發重新翻譯）。
+dist 裡現在 0 個 `?cat=` 連結。
+
+## 四、vocus 舊文導引
+
+584 篇文章是從 vocus.cc 搬過來的，舊文還活著且多半比新站早被收錄，等於自己跟自己
+搶關鍵字。跨站 canonical 我們無法自己設，只能在 vocus 每篇放導引連結。
+
+vocus 沒有公開 API，也不在本專案的部署範圍內，所以產出的是**可直接作業的完整對照表**：
+
+- `npm run vocus-map` → `scripts/generate-vocus-redirect-map.mjs`
+- `docs/vocus-redirect-map.csv` — 584 列，含 vocus 網址、標題、發佈日、新網址、
+  **可直接複製貼上的導引文字**，以及四個語言版本的網址
+- `docs/vocus-redirect-map.json` — 機器可讀版
+- `docs/vocus-redirect-sop.md` — 作業方式與注意事項
+
+**584 篇全部驗證過新網址在 dist 裡有對應頁面，沒有任何導引會指向 404**，
+而且 584 篇的 en / id / zh-cn / zh-hk 四個語言版本都齊全。
+CSV 已依發佈日由新到舊排序，先做前面幾十篇效益最高，不必一次做完。
+
+> **要你本人操作的部分：** 實際貼上導引必須在 vocus 後台進行（我沒有、也不應該有
+> 你的 vocus 帳號）。SOP 裡有逐篇步驟，重點是**不要刪除 vocus 原文** —— 直接刪掉會讓
+> 既有排名與外部連結一起消失，留著並導引過來，權重才會慢慢轉移。
+
+## 五、驗證
+
+```bash
+npm run build     # 通過，產出 5,169 個 HTML
+```
+
+| 檢查 | 結果 |
+|---|---|
+| 首頁 `href="#"` 空連結 | 5 語系皆 0（原本各 3 個） |
+| 首頁 `src=""` 空圖 | 5 語系皆 0（原本各 3 個） |
+| 中文語系首頁的英文標題 | 0 |
+| 全站 `待補` / `Link to be added` | 0 |
+| `/news/archive/` 月彙整頁 | 9 頁，皆可索引且進 sitemap |
+| `/news/N/` 分頁進 sitemap | 0（已 noindex） |
+| 新分類頁 | 10 頁（5 語系 × 2），皆進 sitemap 且帶 hreflang |
+| 全站 `?cat=` 篩選連結 | 0 |
+| Logo href | `/blog/`、`/en/blog/` …（無 `?lang=tw`） |
+| vocus 導引指向 404 | 0 / 584 |
+| 第一輪的各項指標 | 無退步（標題、描述、H1、JSON-LD、hreflang 全數維持） |

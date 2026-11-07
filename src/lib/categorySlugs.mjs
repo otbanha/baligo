@@ -14,6 +14,7 @@ export const CAT_SLUG_EN = {
   '美食景點活動': 'food-activities',
   '套裝行程': 'package-tours',
   '購物指南': 'shopping',
+  '旅遊專題': 'travel-tips',
 };
 
 // 2026-10 起印尼文分類頁改用印尼文 slug（舊的繁中值網址在 public/_redirects 301 過來）
@@ -28,6 +29,7 @@ export const CAT_SLUG_ID = {
   '美食景點活動': 'makanan-aktivitas',
   '套裝行程': 'paket-wisata',
   '購物指南': 'belanja',
+  '旅遊專題': 'tips-traveling',
 };
 
 export const CAT_SLUGS_BY_LANG = { en: CAT_SLUG_EN, id: CAT_SLUG_ID };

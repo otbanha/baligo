@@ -12,12 +12,13 @@ const blogBase = lang === 'en' ? '/en/blog' :
                  lang === 'zh-hk' ? '/zh-hk/blog' :
                  lang === 'id' ? '/id/blog' : '/blog';
 
-// 回首頁連結：未帶 lang（如 /share/）時，補上 ?lang=tw 讓 blog/index.astro
-// 直接停在繁中並寫入 cookie，避免依 navigator.languages 誤判跳到英文版
+// 回首頁連結：繁中原本補 ?lang=tw 以避免 navigator.languages 誤判跳轉，但那讓
+// 全站頁尾都連到帶參數的非 canonical 網址。blog/index.astro 的偵測腳本現在只要是
+// 站內導覽就把繁中寫進 cookie（rememberZhTw），因此這裡改用乾淨網址。
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
                 lang === 'zh-hk' ? '/zh-hk/blog/' :
-                lang === 'id' ? '/id/blog/' : '/blog/?lang=tw';
+                lang === 'id' ? '/id/blog/' : '/blog/';
 
 const categories = [
   { slug: '新手指南' },
@@ -27,6 +28,10 @@ const categories = [
   { slug: '美食景點活動' },
   { slug: '套裝行程' },
   { slug: '遊記分享' },
+  // 2026-11 新增的兩個分類頁。旅遊專題是全站最大的分類（236 篇），
+  // 原本連頁尾都沒有一條連結，只能靠 /blog/?cat= 的前端篩選。
+  { slug: '旅遊專題' },
+  { slug: '購物指南' },
 ];
 
 // 分類名稱與分類頁網址皆與 categoryConfig 單一來源一致

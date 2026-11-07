@@ -71,11 +71,22 @@ const metaDesc  = enhancedDescription(description ?? '', cats, lang ?? 'zh-tw', 
 // 全語系都不能讓 BaseHead 再追加一次，否則中文標題會超出 SERP 預算。
 const titleIsFinal = true;
 
-// 每日新聞存檔文章時效短、內容薄，45 天後改用 /news/ hub 彙整頁承接排名，
-// 個別舊文加 noindex 避免大量薄內容稀釋全站品質信號（2026-07 流量調查發現的優化項）。
-const NEWS_STALE_DAYS = 45;
+// 每日新聞存檔文章時效短、內容薄（繁中 211 篇、五語系合計約 1,055 頁）。
+// 原本是 45 天後才個別加 noindex，由 /news/ hub 承接；但 hub 只顯示最新 20 篇，
+// 更早的消息只剩 /news/2/、/news/3/ 這種近似重複的分頁。
+//
+// 2026-11 起改成：只保留極短的可索引窗口，過了就 noindex,follow，內容由
+// /news/ 首頁（最新）與 /news/archive/YYYY-MM/（每月彙整）承接。
+//
+// 為什麼不是「一律 noindex」：src/pages/news-sitemap.xml.ts 是 Google News
+// sitemap，只收 48 小時內的新聞。若每日新聞全部 noindex，那份 sitemap 就會
+// 自相矛盾（送出一批叫 Google 不要索引的網址），Google News 與 Discover 的
+// 曝光也一併放棄。因此窗口設成比 48 小時略寬的 3 天，剛好覆蓋 news sitemap，
+// 其餘 200 多篇立刻退出索引。要完全不索引每日新聞，把這個常數設成 0 即可
+// （同時建議移除 news-sitemap.xml 與 robots.txt 裡那一行）。
+const NEWS_INDEX_DAYS = 3;
 const isStaleNewsArchive = cats.includes('新聞存檔') && pubDate &&
-  (Date.now() - new Date(pubDate).getTime()) / 86400000 > NEWS_STALE_DAYS;
+  (Date.now() - new Date(pubDate).getTime()) / 86400000 > NEWS_INDEX_DAYS;
 
 // 還沒翻譯好的語言版本：/en/blog/… 等路由在找不到該語言的內容檔時會退回繁中原文
 // （見各語言 [...slug].astro 的 langMapBySlug.get(slug) ?? blogPost），於是整篇
@@ -229,14 +240,17 @@ const forumId = SCAM_KEYWORDS.test(title)
 
 const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : lang === 'id' ? '/id/blog' : '/blog';
 const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk' && lang !== 'id';
-const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
-const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}/?cat=`;  // 結尾斜線：/en/blog?cat= 會先被 Cloudflare 轉址一次
-// 只有這 8 個分類有靜態產生的 /category/[cat]/ 頁面（見 src/pages/blog/category/[cat].astro
-// 及各語言版本的 getStaticPaths）；新聞存檔另有 /news/ 首頁（僅繁中版），其餘分類（例如
-// 「旅遊專題」）以及非繁中語言的新聞存檔一律沒有靜態頁，改連到 /blog/?cat=... 走前端篩選，
-// 避免連到 404。
+// ?lang=tw 已不需要掛在站內連結上：/blog/ 的語言偵測腳本只要看到站內 referrer
+// 就把繁中寫進 cookie（見 src/pages/blog/index.astro 的 rememberZhTw），
+// 所以這裡改用乾淨的 canonical 網址，不再讓每篇文章的側欄連到帶參數的網址。
+const blogIndexUrl = `${blogBase}/`;
+const catBaseUrl   = `${blogBase}/?cat=`;  // 結尾斜線：/en/blog?cat= 會先被 Cloudflare 轉址一次
+// 有靜態 /category/[cat]/ 頁的分類（見 src/pages/blog/category/[cat].astro 及各語言版本
+// 的 getStaticPaths）；新聞存檔另有 /news/ 首頁（僅繁中版）。旅遊專題與購物指南是
+// 2026-11 補上的靜態分類頁，之前只能連 /blog/?cat= 走前端篩選。
 const STATIC_CATEGORY_PAGES = new Set([
   '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關', '叫車包車', '家庭親子', '遊記分享', '美食景點活動', '套裝行程',
+  '旅遊專題', '購物指南',
 ]);
 const catPageUrl = (cat: string): string => {
   if (cat === '新聞存檔' && isZhTw) return '/news/';

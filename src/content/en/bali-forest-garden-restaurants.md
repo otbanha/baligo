@@ -98,7 +98,7 @@ The highlight is the stunning **indoor organic farm**, which surrounds diners wi
 
 https://www.instagram.com/reel/DL6rGFgSkbm/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
 
-**Area:** Seminyak, on Jl. Kayu Aya **Hours:** 07:00–21:30 **Google Maps:** [Link to be added]
+**Area:** Seminyak, on Jl. Kayu Aya **Hours:** 07:00–21:30
 
 Bread Yard sits in the lively core of Seminyak, yet cleverly brings in a lush garden-style decor, instantly enveloping you in a fresh, resort-like vibe as you step inside.
 

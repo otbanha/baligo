@@ -239,7 +239,7 @@ const socialLinks = [
 
         <!-- Accommodations 2×2（取代原本的田字格快速入口） -->
         <div class="widget-box accom-feature">
-          <h2 class="widget-title fade-in">🏨 Accommodations</h2>
+          <h2 class="widget-title fade-in">🏨 住宿推荐</h2>
           {accomCards.length > 0 ? (
             <div class="accom-grid">
               {accomCards.map((a, i) => (
@@ -298,7 +298,7 @@ const socialLinks = [
         <!-- Bali News + (峇里岛讨论区 / YouTube) -->
         <div class="news-side-grid" id="top-widgets">
           <div class="widget-box news-widget-box">
-            <h2 class="widget-title fade-in">📰 Bali News</h2>
+            <h2 class="widget-title fade-in">📰 巴厘岛新闻</h2>
             {baliNewsPosts.length > 0 ? (
               <div class="news-scroll">
                 <ul class="news-list">
@@ -481,14 +481,7 @@ const socialLinks = [
 
       <div id="featured-section" style="display:none">
         <h2 class="section-title fade-in">⭐ 编辑精选</h2>
-        <div class="featured-grid">
-          {[0,1,2].map(i => (
-            <a href="#" class="featured-card" data-index={i}>
-              <div class="featured-image"><img src="" alt="" loading="lazy" /></div>
-              <div class="featured-body">
-                <span class="featured-badge">精选</span>
-                <h3></h3>
-              </div>
+        <div class="featured-grid" id="featured-grid" data-badge="精选"></div>
             </a>
           ))}
         </div>
@@ -591,6 +584,24 @@ const socialLinks = [
       return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
     }
 
+      // 編輯精選卡片改成「需要時才由 JS 建立」。
+      // 原本三張卡是伺端就渲染好的佔位 <a href="#">：整個區塊預設 display:none，
+      // 只有選了分類才由 JS 填入網址與標題。結果每個語系的部落格首頁都固定送出
+      // 三個 href="#" 的空連結（可見文字只有「精選」徽章）與三個 src="" 的 <img>。
+      // 2026-11 稽核：Google 會把它們當站內死連結，空 src 也會發出多餘的請求。
+      function ensureFeaturedCards(grid, badgeLabel) {
+        if (grid.querySelector('.featured-card')) return;
+        for (let i = 0; i < 3; i++) {
+          const card = document.createElement('a');
+          card.className = 'featured-card';
+          card.setAttribute('data-index', String(i));
+          card.innerHTML =
+            '<div class="featured-image"><img alt="" /></div>' +
+            '<div class="featured-body"><span class="featured-badge"></span><h3></h3></div>';
+          card.querySelector('.featured-badge').textContent = badgeLabel;
+          grid.appendChild(card);
+        }
+      }
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
       const catHeading = document.getElementById('cat-heading');
@@ -605,7 +616,10 @@ const socialLinks = [
       const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
       const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
-      const featuredCardEls = document.querySelectorAll('.featured-card');
+      const featuredGrid = document.getElementById('featured-grid');
+      if (!featuredGrid) { section.style.display = 'none'; return; }
+      ensureFeaturedCards(featuredGrid, featuredGrid.dataset.badge || '');
+      const featuredCardEls = featuredGrid.querySelectorAll('.featured-card');
       featuredCardEls.forEach((card, i) => {
         if (shuffled[i]) {
           card.href = `${blogBase}/${shuffled[i].id}/`;

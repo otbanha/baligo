@@ -98,7 +98,7 @@ Sorotan utamanya adalah **kebun organik indoor** yang bikin takjub, di mana tamu
 
 https://www.instagram.com/reel/DL6rGFgSkbm/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==
 
-**Lokasi:** Seminyak, di Jl. Kayu Aya **Jam Buka:** 07:00–21:30 **Google Maps:** [Tautan menyusul]
+**Lokasi:** Seminyak, di Jl. Kayu Aya **Jam Buka:** 07:00–21:30
 
 Bread Yard terletak di jantung Seminyak yang ramai, tapi berhasil menghadirkan dekorasi taman hijau yang asri. Begitu masuk, kamu langsung merasakan vibes liburan yang segar.
 

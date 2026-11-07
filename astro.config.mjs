@@ -82,12 +82,36 @@ const catLastmod = (() => {
   return out;
 })();
 
+// 每月新聞彙整頁的 lastmod：該月最後一篇新聞的日期
+const newsArchiveMonthLastmod = (() => {
+  const out = {};
+  const base = join(process.cwd(), 'src/content/blog');
+  const today = new Date().toISOString().split('T')[0];
+  try {
+    for (const f of readdirSync(base).filter(f => /\.mdx?$/.test(f))) {
+      try {
+        const { data } = matter(readFileSync(join(base, f), 'utf-8'));
+        if (data.private || !data.pubDate) continue;
+        const cats = Array.isArray(data.category) ? data.category : (data.category ? [data.category] : []);
+        if (!cats.includes('新聞存檔')) continue;
+        const iso = new Date(data.pubDate).toISOString().split('T')[0];
+        if (!/^\d{4}-\d{2}-\d{2}$/.test(iso) || iso > today) continue;
+        const mo = iso.slice(0, 7);
+        if (!out[mo] || iso > out[mo]) out[mo] = iso;
+      } catch {}
+    }
+  } catch {}
+  return out;
+})();
+
 // 各語言部落格首頁（/blog/、/en/blog/ …）的 lastmod：全站最新一篇文章的日期。
 const blogIndexLastmod = Object.values(catLastmod).sort().at(-1);
 
-// 判斷是否為過期的每日新聞存檔文章（45 天以上），排除於 sitemap 外，
-// 改由 /news/ hub 彙整頁承接排名，避免大量薄內容稀釋全站品質信號。
-const NEWS_STALE_DAYS = 45;
+// 每日新聞存檔文章：3 天後排除於 sitemap 外（原本是 45 天），改由 /news/ 首頁與
+// /news/archive/YYYY-MM/ 每月彙整頁承接排名，避免 211 篇（五語系合計約 1,055 頁）
+// 薄內容稀釋全站品質信號。窗口與 BlogPost 的 NEWS_INDEX_DAYS 一致，並刻意覆蓋
+// news-sitemap.xml 的 48 小時範圍（見 BlogPost 的說明）。
+const NEWS_INDEX_DAYS = 3;
 function isStaleNewsArchive(slug) {
   const dirs = ['blog', 'en', 'zh-cn', 'zh-hk', 'id'];
   for (const dir of dirs) {
@@ -97,7 +121,7 @@ function isStaleNewsArchive(slug) {
         const { data } = matter(readFileSync(p, 'utf-8'));
         const cats = Array.isArray(data.category) ? data.category : (data.category ? [data.category] : []);
         if (!cats.includes('新聞存檔') || !data.pubDate) return false;
-        return (Date.now() - new Date(data.pubDate).getTime()) / 86400000 > NEWS_STALE_DAYS;
+        return (Date.now() - new Date(data.pubDate).getTime()) / 86400000 > NEWS_INDEX_DAYS;
       } catch {}
       break;
     }
@@ -136,7 +160,9 @@ export default defineConfig({
           !page.includes('/bookmarks') &&
           !page.includes('/index-all') &&
           !page.endsWith('/news-sitemap.xml') &&
-          !page.endsWith('/news/rss.xml')
+          !page.endsWith('/news/rss.xml') &&
+          // /news/2/ 以後的分頁已 noindex，交給 /news/archive/YYYY-MM/
+          !/\/news\/\d+\/?$/.test(page)
         ) {
           const path = new URL(page).pathname;
           // /en/、/zh-cn/、/zh-hk/、/id/ 在 functions/_middleware.js 301 到 /xx/blog/，不能放進 sitemap
@@ -221,11 +247,19 @@ export default defineConfig({
           ];
         }
 
-        // /news/ hub（含分頁）與 /news/category/ — 僅 zh-TW，無 hreflang
+        // /news/ hub 與 /news/category/ — 僅 zh-TW，無 hreflang。
+        // /news/2/ 之後的分頁已改 noindex（內容與月彙整頁重疊），不放進 sitemap。
         const newsHubMatch = path.match(/^\/news(?:\/(\d+))?\/?$/);
         if (newsHubMatch) {
-          item.priority = newsHubMatch[1] ? 0.6 : 0.9;
+          item.priority = 0.9;
           item.changefreq = 'daily';
+        }
+        // 每月新聞彙整：取代每日新聞成為可長期索引的穩定頁面
+        const newsArchiveMatch = path.match(/^\/news\/archive\/(\d{4}-\d{2})\/?$/);
+        if (newsArchiveMatch) {
+          item.priority = 0.8;
+          item.changefreq = 'monthly';
+          item.lastmod = newsArchiveMonthLastmod[newsArchiveMatch[1]] ?? undefined;
         }
         const newsCatMatch = path.match(/^\/news\/category\/([^/]+)\/?$/);
         if (newsCatMatch) {
@@ -317,7 +351,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [[remarkBlocks, {}]],
     // rehypeInternalLinks 的 cacheVersion：改了該外掛邏輯就加 1，讓 content layer 快取失效（見該檔說明）
-    rehypePlugins: [[rehypeInternalLinks, { cacheVersion: 2 }], rehypeDemoteH1, rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
+    rehypePlugins: [[rehypeInternalLinks, { cacheVersion: 3 }], rehypeDemoteH1, rehypeImages, rehypeAffiliateLinks, rehypeExternalLinks],
   },
   build: {
     format: 'directory'
