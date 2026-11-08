@@ -105,10 +105,12 @@ const attractionSchemas = ticketsData.slice(0, 15).map((item, idx) => ({
   "@id": `https://gobaligo.id/tickets/#attraction-${idx}`,
   "name": item.name,
   "url": `https://gobaligo.id/tickets/`,
-  "priceCurrency": "IDR",
-  "price": item.idr.toString(),
-  "priceRange": `IDR ${item.idr.toLocaleString('en-US')}`,
-  "inLanguage": "zh-TW"
+  "inLanguage": "zh-TW",
+  "offers": {
+    "@type": "Offer",
+    "price": item.idr.toString(),
+    "priceCurrency": "IDR",
+  },
 }));
 
 const schema = {

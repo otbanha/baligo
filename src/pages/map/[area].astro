@@ -101,7 +101,11 @@ const mainSchema = area.isThematic ? {
   "description": area.seoDescription,
   "url": pageUrl,
   "geo": { "@type": "GeoCoordinates", "latitude": area.center[0], "longitude": area.center[1] },
-  "containedInPlace": { "@type": "Place", "name": "峇里島", "addressCountry": "ID" },
+  "containedInPlace": {
+    "@type": "Place",
+    "name": "峇里島",
+    "address": { "@type": "PostalAddress", "addressCountry": "ID" },
+  },
   "inLanguage": "zh-TW",
 };
 

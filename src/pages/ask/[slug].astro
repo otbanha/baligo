@@ -44,6 +44,25 @@ const related = allQA
   .filter(r => r.id !== q.id && r.data.category === q.data.category)
   .slice(0, 4);
 
+// 擷取答案純文字給 FAQPage.acceptedAnswer.text，避免沿用問題本身當答案
+// （Google 視為不符實際頁面內容的結構化資料）。
+function stripMarkdownToPlainText(md: string): string {
+  const text = md
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')       // 圖片
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')    // 連結 → 純文字
+    .replace(/\{\{[^}]*\}\}/g, '')              // remark {{block}} 指令
+    .replace(/[*_~`#>|]+/g, '')                 // 強調/程式碼/標題/引用/表格符號
+    .replace(/<[^>]+>/g, '')                    // 內嵌 HTML
+    .replace(/\s+/g, ' ')
+    .trim();
+  const LIMIT = 300;
+  if (text.length <= LIMIT) return text;
+  const cut = text.slice(0, LIMIT);
+  const stop = Math.max(cut.lastIndexOf('。'), cut.lastIndexOf('！'), cut.lastIndexOf('？'), cut.lastIndexOf('.'));
+  return stop > 120 ? cut.slice(0, stop + 1) : cut.trim() + '…';
+}
+const faqAnswerText = stripMarkdownToPlainText(q.body ?? '') || q.data.title;
+
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
@@ -52,7 +71,7 @@ const faqSchema = {
     name: q.data.title,
     acceptedAnswer: {
       '@type': 'Answer',
-      text: q.data.title,
+      text: faqAnswerText,
     },
   }],
 };

@@ -194,7 +194,7 @@ const schemaArticle = {
     "@type": "Organization",
     "name": "Go Bali Go 峇里島旅遊攻略",
     "url": "https://gobaligo.id",
-    "logo": { "@type": "ImageObject", "url": "https://gobaligo.id/favicon-32x32.png" }
+    "logo": { "@type": "ImageObject", "url": "https://gobaligo.id/android-chrome-512x512.png", "width": 512, "height": 512 }
   },
   "mainEntityOfPage": { "@type": "WebPage", "@id": articleUrl },
   ...(isNews && newsCategory ? { "articleSection": newsCategory } : cats.length > 0 ? { "articleSection": cats[0] } : {}),
@@ -283,11 +283,7 @@ if (cats.includes('峇里島分區攻略') || cats.includes('峇里岛分区攻�
       "@type": "Audience",
       "audienceType": lang === 'en' ? "Tourists" : lang === 'id' ? "Wisatawan" : "旅遊者",
     },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "addressCountry": "ID",
-      "addressRegion": "Bali",
-    },
+    "address": { "@type": "PostalAddress", "addressCountry": "ID", "addressRegion": "Bali" },
     "includesAttraction": h2s.slice(0, 8).map(h => ({
       "@type": "TouristAttraction",
       "name": h.text,
