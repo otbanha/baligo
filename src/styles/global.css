@@ -344,6 +344,27 @@ h5 { font-size: 1em; }
   color: #2563eb;
 }
 
+/* blockquote 內的 Klook 連結：不要按鈕，與其他延伸閱讀連結一樣顯示為藍色文字連結 */
+.prose blockquote a[href*="klook.com"],
+.prose blockquote a[href*="klook.com"]:hover,
+.prose blockquote a[href*="klook.com"]:visited {
+  display: inline;
+  min-height: 0;
+  margin: 0;
+  padding: 1px 8px;
+  background-color: transparent;
+  border-radius: 4px;
+  box-shadow: none;
+  transform: none;
+  text-decoration: none;
+  font-size: inherit;
+  font-weight: 500;
+  color: #2563eb;
+}
+.prose blockquote a[href*="klook.com"]:hover {
+  color: #1e3a8a;
+}
+
 /* ──────────────────────────────────────────────────────────────────── */
 
 .sr-only {
