@@ -23,7 +23,7 @@ shuffle_h2: false
 embeds: []
 lang: zh-cn
 _srcHash: PENDING_RETRY_25454f99476ae74685d89b1583f58fb7
-_translateAttempts: 1
+_translateAttempts: 2
 ---
 
 > 改编自团友 [杨金迪贴文](https://www.facebook.com/share/p/1d6jA5yyHT/)
@@ -64,7 +64,7 @@ https://youtube.com/shorts/_MY7NyzVvEo?si=OXKs8DZj3El5OCui
 
 **🇫🇷 法国**：有一次逛首饰店时，遇到一位法国大叔，他误以为我们是中国人，用很不客气的口气说 Chinese everywhere。我当下直接告诉他，我们是台湾人，是完全不同的，并且重复说明，直到他明白为止。后来这位大叔开始解释，最近有很多移民在他们国内举行暴动、示威之类的活动。
 
-其他国家的旅客，因为我自己无法辨认，就没法在这里分享了。
+其他国家的旅客，因为我自己无法辨识，就没办法在这里分享了。
 
 https://youtu.be/H5N5_UuK7TI?si=wMuiLQQFIGy8Tsel
 
@@ -79,9 +79,9 @@ https://youtu.be/H5N5_UuK7TI?si=wMuiLQQFIGy8Tsel
 - 泡酒吧，享受夜晚
 - 荡秋千，拍美照
 - 浮潜、冲浪
-- 住进豪华的海滩别墅
+- 住进豪华的海滩 Villa
 
-> [【巴厘岛户外活动】50种必玩清单：泛舟、ATV、浮潜、火山日出｜分龄适合度与预订避坑指南](https://gobaligo.id/zh-cn/blog/bali-top-50-outdoor-activities/)
+> [【巴厘岛户外活动】50 种必玩清单：泛舟、ATV、浮潜、火山日出｜分龄适合度与预订避坑指南](https://gobaligo.id/zh-cn/blog/bali-top-50-outdoor-activities/)
 
 不管你喜欢刺激的冒险、悠闲的海边午后，还是精心拍照的旅行，在巴厘岛都能找到属于自己的方式。
 
@@ -101,7 +101,7 @@ https://youtu.be/H5N5_UuK7TI?si=wMuiLQQFIGy8Tsel
 
 ### 换钱
 
-也有人提到换钱会被骗。我觉得旅行时自己也要提高警觉，毕竟这个世界上本来就什么样的人都有，不管在哪里都一样，在台湾也是如此。
+也有人提到换钱会被骗。我觉得旅行时自己也要提高警觉，毕竟这个世界上本来什么样的人都有，不管在哪里都一样，在台湾也是如此。
 
 {{block:換匯}}
 
@@ -109,7 +109,7 @@ https://youtu.be/H5N5_UuK7TI?si=wMuiLQQFIGy8Tsel
 
 ## 当地人的笑容与我们的一点心意
 
-我接触到的当地人，脸上永远挂着腼腆又害羞的笑容。我听说多数当地人的一般工作薪水大约是台币七、八千元，换算成美金约是 USD$226 到 USD$258。多数人其实过得很辛苦，但我仍相信大部分的人是善良又可爱的。
+我接触到的当地人，脸上永远挂着腼腆又害羞的笑容。我听说多数当地人的一般工作薪水大约是台币七、八千元（约 USD$226 至 USD$258），多数人其实过得很辛苦，但我仍相信大部分的人是善良又可爱的。
 
 所以，如果觉得他们的服务很好，小费请不要吝啬，这是对他们的一种鼓励。
 
@@ -127,6 +127,6 @@ https://youtu.be/H5N5_UuK7TI?si=wMuiLQQFIGy8Tsel
 
 最后，希望大家也能像我们一样，爱上这座岛。
 
-> 杨金迪的游记：[巴厘岛十日游｜连续四年重返，美食、购物与包车推荐](https://gobaligo.id/zh-cn/blog/bali-10-day-trip-food-shopping-guide/)
+> 杨金迪的游记：[巴厘岛十日游｜连四年重返，美食、购物与包车推荐](https://gobaligo.id/zh-cn/blog/bali-10-day-trip-food-shopping-guide/)
 
 {{block:攻略}}
