@@ -237,6 +237,7 @@ h5 { font-size: 1em; }
    color / background-color / border-*-color，gradient 屬於 background-image
    一定會被忽略。這是下面 :visited 規則的必要條件（但非充分，見該處註解）。 */
 .prose a[href*="agoda.com"],
+.prose a[href*="klook.com"],
 .prose a[href*="trip.com"],
 .prose a[href*="booking.com"],
 .prose a[href*="booking.tpm.li"] {
@@ -253,6 +254,7 @@ h5 { font-size: 1em; }
   transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
 }
 .prose a[href*="agoda.com"]:hover,
+.prose a[href*="klook.com"]:hover,
 .prose a[href*="trip.com"]:hover,
 .prose a[href*="booking.com"]:hover,
 .prose a[href*="booking.tpm.li"]:hover {
@@ -271,6 +273,7 @@ h5 { font-size: 1em; }
    它在有支援的瀏覽器（Firefox、舊版 Chrome）仍有效，且不生效時完全無副作用。
    若要可靠地標記「已點過」，得改用 JS + localStorage 加 class，不是純 CSS。 */
 .prose a[href*="agoda.com"]:visited,
+.prose a[href*="klook.com"]:visited,
 .prose a[href*="trip.com"]:visited,
 .prose a[href*="booking.com"]:visited,
 .prose a[href*="booking.tpm.li"]:visited {
@@ -278,7 +281,7 @@ h5 { font-size: 1em; }
   color: #1e3a8a;
 }
 
-/* KKday 專屬：淡黃色按鈕（Klook 改用第一層一般連結樣式） */
+/* KKday 專屬按鈕 */
 .prose a[href*="kkday.com"] {
   display: inline-block;
   padding: 4px 12px;
@@ -311,6 +314,7 @@ h5 { font-size: 1em; }
    這類長按鈕會撐爆行寬、文字折成兩行並把整列擠掉。 */
 @media (max-width: 720px) {
   .prose a[href*="agoda.com"],
+  .prose a[href*="klook.com"],
   .prose a[href*="trip.com"],
   .prose a[href*="booking.com"],
   .prose a[href*="booking.tpm.li"],
