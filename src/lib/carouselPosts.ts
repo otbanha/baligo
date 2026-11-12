@@ -1,5 +1,5 @@
 // 首頁輪播燈箱的選文邏輯（繁中／港繁／簡中首頁共用）
-// 「最新上線」與「最新更新」各取 perGroup 篇，前面最新上線、後面最新更新，兩組不重複，皆排除新聞存檔。
+// 「最新上線」取 newCount 篇、「最新更新」取 updatedCount 篇，前面最新上線、後面最新更新，兩組不重複，皆排除新聞存檔。
 // 「最新更新」只看內文有改的文章（contentUpdatedAt）；只改分類、hero 圖等 frontmatter 不算。
 import type { CarouselPost } from '../components/LatestPostsCarousel.astro';
 
@@ -37,7 +37,7 @@ const baliDay = (d: Date) => new Date(d.getTime() + 8 * 3600 * 1000).toISOString
  */
 export function pickCarouselPosts(
   posts: PostLike[],
-  { perGroup = 5, mapCategory = (c: string) => c } = {},
+  { newCount = 3, updatedCount = 7, mapCategory = (c: string) => c } = {},
 ): CarouselPost[] {
   const eligible = posts.filter(p =>
     p.data.heroImage && !toCategories(p.data.category).some(c => NEWS_CATEGORIES.includes(c)),
@@ -52,7 +52,7 @@ export function pickCarouselPosts(
     status,
   });
 
-  const newest = eligible.slice(0, perGroup);
+  const newest = eligible.slice(0, newCount);
   const newestIds = new Set(newest.map(p => p.id));
 
   // 內文修改時間由 bump-updated-date workflow 寫入；上線當天的修改不算「更新」
@@ -60,7 +60,7 @@ export function pickCarouselPosts(
     .filter(p => !newestIds.has(p.id) && p.data.contentUpdatedAt && baliDay(p.data.contentUpdatedAt) > isoDay(p.data.pubDate))
     .filter(p => !EXCLUDE_FROM_UPDATED.includes(p.data.slug || p.id) && !EXCLUDE_FROM_UPDATED.includes(p.id))
     .sort((a, b) => b.data.contentUpdatedAt!.valueOf() - a.data.contentUpdatedAt!.valueOf())
-    .slice(0, perGroup);
+    .slice(0, updatedCount);
 
   // 前面放最新上線、後面放最新更新
   return [
