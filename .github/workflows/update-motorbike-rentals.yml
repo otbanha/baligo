@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: 抓取 Overpass 機車租賃資料並產生 KML
         run: node scripts/fetch-motorbike-rentals.mjs

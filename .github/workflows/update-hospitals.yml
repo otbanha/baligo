@@ -21,7 +21,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: 抓取 Overpass 醫療設施資料並產生 KML
         run: node scripts/fetch-hospitals.mjs
