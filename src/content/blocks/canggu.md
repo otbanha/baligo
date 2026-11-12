@@ -16,3 +16,4 @@ randomCount: 5
 - [長谷區 10+ 私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅](/blog/canggu-villas-guide/)
 - [長谷頂級渡假村 Regent Bali Canggu](/blog/regent-bali-canggu/)
 - [峇里島團體自由行旅遊：長谷包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
+- [Canggu Berawa 住宿推薦 10 間：海景、泳池別墅、情侶家庭與工作者怎麼選](https://gobaligo.id/blog/best-hotels-berawa-canggu/)
