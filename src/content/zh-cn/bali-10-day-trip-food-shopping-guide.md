@@ -23,14 +23,14 @@ author: 小傑爸
 private: false
 shuffle_h2: false
 embeds: []
-contentUpdatedAt: '2026-11-08T20:53:26+08:00'
 originalUrl: ''
-updatedDate: 2026-11-08T00:00:00.000Z
+contentUpdatedAt: '2026-11-13T13:02:27+08:00'
+updatedDate: 2026-11-13T00:00:00.000Z
 newsCategory: ''
 source: ''
 sourceUrl: ''
 lang: zh-cn
-_srcHash: ff8156813581cf3addeda471a94d1e51
+_srcHash: 38e9c8c111047b003f8dd5002494aebf
 ---
 
 > 改编自团友 [杨金迪游记](https://www.facebook.com/share/p/19yqKzLv7X/)
@@ -103,7 +103,7 @@ https://youtube.com/shorts/CJe5rBgmvsE?si=jd9qa1Ke8-vWgvuB
 
 **Bendol's Roti Bakar - Kuta** 的烤吐司被我们称为「邪恶烤吐司」，炼乳、花生酱、巧克力三种味道合而为一，香气浓郁。同样的，我们也是用 Grab 连叫了三天。（收录在 [库塔美食推荐](https://gobaligo.id/zh-cn/blog/kuta-best-food-guide/)）
 
-延伸补充：位于巴厘岛库塔的Bendol's Roti Bakar - Kuta点选即可开启侧边面板，查看更多资讯是一间营业至深夜的在地碳烤吐司（Roti Bakar）小吃摊。其提供多种甜咸口味的夹心吐司，如起司、巧克力及炼乳等，价格亲民且深受夜间觅食的旅客与当地人喜爱。这里补充 roti bakar 的背景。roti bakar 意为「烤面包」，在荷兰殖民时期发展出来，原本是为了消化隔天的面包，常见抹酱包括炼乳、奶油、巧克力酱与花生酱；后来成为印尼常见的早餐与街头小吃，各种口味也不断推陈出新。
+延伸补充：位于巴厘岛库塔的 Bendol's Roti Bakar - Kuta 点击即可开启侧边面板，查看更多资讯是一间营业至深夜的在地碳烤吐司（Roti Bakar）小吃摊。其提供多种甜咸口味的夹心吐司，如起司、巧克力及炼乳等，价格亲民且深受夜间觅食的旅客与当地人喜爱。这里补充 roti bakar 的背景。roti bakar 意为「烤面包」，在荷兰殖民时期发展出来，原本是为了消化隔天的面包，常见抹酱包括炼乳、奶油、巧克力酱与花生酱；后来成为印尼常见的早餐与街头小吃，各种口味也不断推陈出新。
 
 ### 老店的传统与异国风味
 
@@ -128,43 +128,43 @@ https://youtube.com/shorts/CJe5rBgmvsE?si=jd9qa1Ke8-vWgvuB
 
 延伸补充：
 
-- Mustika Ratu：印尼知名的草本（Jamu）与天然系化妆品品牌。Royal Blue & Moringa 是2025年Puteri Indonesia活动的专属香氛身体乳款式，同系列还有Rose Radiance、Javanese Jasmine、Lily & Honey Nectar等香味可以选择。
-- Secret Garden：这个品牌源自2016年巴厘岛的Secret Garden Village，理念是「Inspired by Earth, Made for You」。据报道，目前全印尼已有75间门店，所以才能在各大购物中心看到它；品牌在2025年10月推出首批Extrait de Parfum系列，主打巴厘岛灵感的香气。
+- Mustika Ratu：印尼知名的草本（Jamu）与天然系化妆品品牌。Royal Blue & Moringa 是2025 年 Puteri Indonesia 活动的专属香氛身体乳款式，同系列还有 Rose Radiance、Javanese Jasmine、Lily & Honey Nectar 等香味可以选择。
+- Secret Garden：这个品牌源自 2016 年巴厘岛的 Secret Garden Village，理念是「Inspired by Earth, Made for You」。据报道，目前全印尼已有 75 间门店，所以才能在各大购物中心看到它；品牌在 2025 年 10 月推出首批 Extrait de Parfum 系列，主打巴厘岛灵感的香气。
 
 {{block:伴手禮}}
 
 ## 逛街与市集：从购物中心到在地生活
 
-Icon Bali（沙努尔）：2024年开幕的购物中心，里面有传统舞蹈表演，卖场还直接连接海滩，购物与看海可以一次拥有。
+Icon Bali（沙努尔）：2024 年开幕的购物中心，里面有传统舞蹈表演，卖场还直接连接海滩，购物与看海可以一次拥有。
 
 https://youtu.be/hdIKOX5wghU?si=AAMKvUO3vdACuGBS
 
-• Mall Bali Galeria（库塔）：库塔的购物中心，里面有好吃的甜甜圈J.CO Donuts & Coffee。
+• Mall Bali Galeria（库塔）：库塔的购物中心，里面有好吃的甜甜圈 J.CO Donuts & Coffee。
 
 Living World Mall Denpasar（登巴萨）：空间宽敞、动线舒适，逛起来很轻松；逛累了还有舒服的摇摇椅可以坐，而且有很多印尼当地品牌。
 
 > [【Living World Denpasar】巴厘岛最新购物中心攻略｜品牌、美食(巴厘岛海底捞)、超市、交通一次看](https://gobaligo.id/zh-cn/blog/Living-World-Denpasar/)
 
-Pasar Seni Kumbasari（登巴萨传统市集）：这是最在地的市场，能窥见当地人的日常生活。观光客不见得会来，但我们非常喜欢；艺术饰品、香料等各式商品应有尽有。
+Pasar Seni Kumbasari（登巴萨传统集市）：这是最在地的市场，能窥见当地人的日常生活。观光客不见得会来，但我们非常喜欢；艺术饰品、香料等各式商品应有尽有。
 
 https://youtu.be/RRurkFC7UG4?si=NxDtfxrgEQ3RkfpT
 
 延伸补充：
 
-- Icon Bali：2024 年 6 月 7 日正式开幕，位于沙努尔海滩旁，有面向主干道与直通海滩的两个入口。占地 38,570 平方米，约有 200 间店铺，包含 Uniqlo、H&M 与 Marks & Spencer，还有巴厘岛第一座 IMAX 影厅。「8 Wonders of Icon Bali」包括水上集市、蝴蝶园、垂直森林与文化剧场等，文化舞台每天都有巴厘传统舞蹈表演；商场也设有空间，让当地中小微型业者展示自家商品。
+- Icon Bali：2024 年 6 月 7 日正式开幕，位在沙努尔海滩旁，有面向主干道与直通海滩的两个入口。占地 38,570 平方米，约有 200 间店家，包含 Uniqlo、H&M 与 Marks & Spencer，还有巴厘岛第一座 IMAX 影厅。「8 Wonders of Icon Bali」包括水上市集、蝴蝶园、垂直森林与文化剧场等，文化舞台每天都有巴厘传统舞蹈表演；商场也设有空间，让当地中小微型业者展示自家商品。
 
 https://youtu.be/hdIKOX5wghU?si=L8xN-SO6rIfFbC9n
 
-- Mall Bali Galeria：位于库塔 Dewa Ruci 圆环旁，紧邻 Jl. Bypass Ngurah Rai，地点方便。最显眼的建筑是 DFS Galleria 免税店，商场内有 Cinema XXI，营业时间为每天早上十点到晚上十点。
-- Living World Denpasar：2023 年 3 月 24 日开幕，是 Kawan Lama Group 在巴厘岛的第一座 Living World，位于 Jl. Gatot Subroto Timur。楼板面积约 12 万平方米、共五层楼，开幕前宣布有超过 350 间店铺进驻；采用太阳能板与 LED 灯等节能设计，据官方说法，员工约七成是当地人。
+- Mall Bali Galeria：位在库塔 Dewa Ruci 圆环旁，紧邻 Jl. Bypass Ngurah Rai，地点方便。最显眼的建筑是 DFS Galleria 免税店，商场内有 Cinema XXI，营业时间为每天早上十点到晚上十点。
+- Living World Denpasar：2023 年 3 月 24 日开幕，是 Kawan Lama Group 在巴厘岛的第一座 Living World，位于 Jl. Gatot Subroto Timur。楼地板面积约 12 万平方米、共五层楼，开幕前宣布有超过 350 间店家进驻；采用太阳能板与 LED 灯等节能设计，据官方说法，员工约七成是当地人。
 
 > [【Living World Denpasar】巴厘岛最新购物中心攻略｜品牌、美食(巴厘岛海底捞)、超市、交通一次看](https://gobaligo.id/zh-cn/blog/Living-World-Denpasar/)
 
-- Pasar Seni Kumbasari：位于 Jl. Gajah Mada，隔着巴东河（Badung River）正对 Badung 市场；这个集市占地两栋大楼，结合当地日常买卖与观光工艺品。印尼观光部的介绍提到这里有超过 1000 个摊位，卖巴迪克、木雕、银饰与藤编包等。多数摊商可议价；停车位有限，骑摩托车或步行前往更方便。各来源的营业时间略有出入，大致落在早上八、九点到下午五、六点，出发前建议再确认一下。
+- Pasar Seni Kumbasari：位在 Jl. Gajah Mada，隔着巴东河（Badung River）正对 Badung 市场；这个市集占地两栋大楼，结合在地日常买卖与观光工艺品。印尼观光部的介绍提到这里有超过 1000 个摊位，卖巴迪克、木雕、银饰与藤编包等。多数摊商可议价；停车位有限，骑机车或步行前往更方便。各来源的营业时间略有出入，大致落在早上八、九点到下午五、六点，出发前建议再确认一下。
 
 https://youtu.be/RRurkFC7UG4?si=AWvRDQe9z6YsPdto
 
-如果想感受巴厘岛的另一面，比起观光景点，这种贴近生活的集市更让我们印象深刻。
+如果想感受巴厘岛的另一面，比起观光景点，这种贴近生活的市集更让我们印象深刻。
 
 > 分类整理，网上最齐全的[巴厘岛住宿推荐](https://gobaligo.id/zh-cn/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/)
 
@@ -174,7 +174,7 @@ https://youtu.be/RRurkFC7UG4?si=AWvRDQe9z6YsPdto
 
 这趟旅程最值得感谢的，是通过社群认识的 Jimmi Liu。对我们来说，他不只是司机，而是在巴厘岛最贴心、最可靠的好朋友。
 
-这次台风造成航班取消，隔天 Jimmi 就火速带我们到机场二楼的华航柜台交涉改票。这种时候，有一位能用当地语言沟通的伙伴格外重要。虽然用英文也能沟通，但当地华航人员看到 Jimmi 开口后马上放下心来，迅速替我们处理票务，让我们得以安排后续行程。
+这次台风造成班机取消，隔天 Jimmi 就火速带我们到机场二楼的华航柜台交涉改票。这种时候，有一位能用当地语言沟通的伙伴格外重要。虽然用英文也能沟通，但当地华航人员看到 Jimmi 开口后马上放下心来，迅速替我们处理票务，让我们得以安排后续行程。
 
 从改票这样的大事，到换钱、确认餐点与结账金额这些小事，Jimmi 都能帮上忙，其他协助更是不在话下。有他相伴，我们在巴厘岛的行程多了许多安心与温暖。
 
@@ -187,5 +187,7 @@ https://youtu.be/RRurkFC7UG4?si=AWvRDQe9z6YsPdto
 也再次谢谢社群管理员的用心推荐，让我们的行程充满好吃、好逛、好玩的回忆。下一次再来，我们一定还会带着这份期待回到这座岛。
 
 > 杨金迪的感想：[我看见的巴厘岛｜鸡蛋花香、各国旅人与当地人的笑容](https://gobaligo.id/zh-cn/blog/bali-travel-observations-tourists-culture/)
+
+{{block:遊記}}
 
 {{block:攻略}}

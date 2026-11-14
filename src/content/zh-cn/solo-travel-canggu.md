@@ -1,10 +1,8 @@
 ---
-title: 巴厘岛坎古独旅好玩吗？住哪里、玩什么、安全要点一次整理
+title: 巴厘岛坎古独自旅行好玩吗？住哪里、玩什么、安全要点一次整理
 slug: solo-travel-canggu
-description: 一个人独旅去巴厘岛坎古会无聊或不安全吗？整理住宿选择、冲浪瑜伽与一日游路线、雨季旱季差异和独旅安全守则，给第一次独旅的你。
+description: 一个人独自去巴厘岛坎古会无聊或不安全吗？整理住宿选择、冲浪瑜伽与一日游路线、雨季旱季差异和独自旅行安全守则，给第一次独自旅行的你。
 pubDate: 2026-11-13T00:00:00.000Z
-updatedDate: 2026-11-12T00:00:00.000Z
-contentUpdatedAt: '2026-11-12T22:30:06+08:00'
 pubHour: 20
 category:
   - 旅遊專題
@@ -23,15 +21,17 @@ author: 小傑爸
 private: false
 shuffle_h2: false
 embeds: []
+contentUpdatedAt: '2026-11-13T13:17:48+08:00'
+updatedDate: 2026-11-13T00:00:00.000Z
 lang: zh-cn
-_srcHash: 48e43b9e9ab9605e07022792548be1f3
+_srcHash: cb3fde09f1544b560a0bd68048cf9381
 ---
 
-# 一个人独旅去巴厘岛坎古，会无聊吗？
+# 一个人独自去巴厘岛坎古，会无聊吗？
 
 住在巴厘岛这些年，常有人私信问我：「我想一个人去坎古，会不会很孤单？安全吗？」
 
-## 坎古为什么适合独旅
+## 坎古为什么适合独自旅行
 
 ![raw-image](https://images.gobaligo.id/images/2026-11/1794493745133-15617.jpg)
 
@@ -43,7 +43,7 @@ _srcHash: 48e43b9e9ab9605e07022792548be1f3
 
 ## 住哪里，看你想要多社交
 
-青年旅舍：预算友好，常有活动，容易交朋友，很多也有独立房。
+青年旅馆：预算友好，常有活动，容易交朋友，很多也有独立房。
 
 民宿或 guesthouse：有自己的房间，花园或厨房共用，不吵也不太孤单。
 
@@ -65,7 +65,7 @@ _srcHash: 48e43b9e9ab9605e07022792548be1f3
 
 ### 舒服度假型
 
-坎古的住宿多到会选到头痛，我之前从三个角度写过：
+坎古的住宿多到会选到头疼，我之前分三个角度写过：
 
 - 想住 [Berawa: Berawa 住宿推荐 10 间](https://gobaligo.id/zh-cn/blog/best-hotels-berawa-canggu/)
 - 想住私人泳池别墅:[坎古泳池别墅攻略](https://gobaligo.id/zh-cn/blog/canggu-villas-guide/)
@@ -83,7 +83,7 @@ _srcHash: 48e43b9e9ab9605e07022792548be1f3
 
 > [Surf Blue Waves 冲浪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F137189-surfing-lesson-in-canggu-bali-by-surf-blue-waves%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd4402db3d3)
 
-- Beach Club：白天悠闲，下午音乐变大，还有 DJ 和泳池派对。餐点可以在场内任何地方点。
+- Beach Club：白天悠闲，下午音乐变大声，还有 DJ 和泳池派对。餐点可以在场内任何地方点。
 
 https://youtube.com/shorts/f0N6FE2dxys?si=4kz0RVqqj4um294X
 
@@ -97,7 +97,7 @@ https://youtube.com/shorts/f0N6FE2dxys?si=4kz0RVqqj4um294X
 
 > [La Brisa 官网](https://labrisa-bali.com/)
 
-- 瑜伽：初级和进阶的课都有。
+- 瑜伽：初学和进阶的课都有。
 
 > [坎古观音瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96815-yoga-experience-guan-yin-yoga-shala-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D296be8316d)
 
@@ -165,7 +165,7 @@ https://youtu.be/op78Dk8CjL4?si=zjdCV6xqBSEU100c
 
 雨季（约 11 到 3 月）：雨常下但通常很短，人少、价格低。
 
-我们现在刚好进入雨季。下雨天别闷在房间，本站整理过[雨天备选](https://gobaligo.id/zh-cn/blog/2026-bali-indoor-activities/)，坎古有蹦床公园、银饰手作和瑜伽中心。
+我们现在刚好进入雨季。下雨天别闷在房间，本站整理过[雨天备案](https://gobaligo.id/zh-cn/blog/2026-bali-indoor-activities/)，坎古有蹦床公园、银饰手作和瑜伽中心。
 
 ## 独旅安全小提醒
 
@@ -182,7 +182,7 @@ https://youtu.be/op78Dk8CjL4?si=zjdCV6xqBSEU100c
 
 > [【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学指南](https://gobaligo.id/zh-cn/blog/2026-03-18-bali-gojek-grab-guide/)
 
-> [巴厘岛SIM卡 / eSIM完整指南（2026最新）｜机场买法、品牌比较、信号实测](https://gobaligo.id/zh-cn/blog/bali-sim-card-esim-guide/)
+> [巴厘岛 SIM 卡 / eSIM 完整指南（2026 最新）｜机场买法、品牌比较、信号实测](https://gobaligo.id/zh-cn/blog/bali-sim-card-esim-guide/)
 
 另外要提醒：坎古部分区域已被列为加强狂犬病监控区。遇到流浪狗和野生猴子，保持距离就好。
 
@@ -194,14 +194,16 @@ https://youtu.be/ByGkcmys01g?si=yPPP0Lzua_FvvLqA
 
 ## 最后
 
-一个人旅行，大多数人怕的不是危险，而是怕没人说话。
+一个人旅行，多数人怕的不是危险，而是怕没人说话。
 
 坎古刚好相反。早上有人约你下水冲浪，下午瑜伽课后有人问你要不要一起吃饭，晚上在海滩随便找个位子坐下，旁边多半也是一个人来的。你不用主动交朋友，朋友会自己出现。
 
-所以别再想“一个人会不会怪”了。Gojek/Grab下载好，保险买好，第一天什么都不排，走到Batu Bolong看夕阳。
+所以别再想「一个人会不会怪」了。Gojek/Grab下载好，保险买好，第一天什么都不排，走到Batu Bolong看夕阳。
 
 ![raw-image](https://images.gobaligo.id/images/2026-11/1794493712200-15618.jpg)
 
 至于接下来要去哪，先把[坎古景点地图](https://gobaligo.id/zh-cn/blog/canggu-guide/)存进手机，100个点，想去哪个就点哪个。
 
 {{block:canggu}}
+
+{{block:solo}}
