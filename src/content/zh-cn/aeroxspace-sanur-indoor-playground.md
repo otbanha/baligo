@@ -1,27 +1,31 @@
 ---
-slug: aeroxspace-sanur-indoor-playground
 title: 巴厘岛亲子景点：占地1000多平米超大室内游乐场在沙努尔开幕 AeroXSpace Adventure
+slug: aeroxspace-sanur-indoor-playground
 description: >-
   巴厘岛沙努尔新开幕：AeroXSpace室内冒险乐园的开幕为巴厘岛的家庭和游客带来了新的娱乐选择。这个面积达3,500平方米的冒险中心，拥有26种不同的吸引力和游戏活动，无论晴天或雨天，都能让所有年龄段的游客享受其中。
-pubDate: '2024-08-25'
-updatedDate: 2026-07-10T00:00:00.000Z
-heroImage: 'https://images.gobaligo.id/vocus/vocus_7c93b6fe6f8a109d963dc6aa5b1aefa4.jpg'
+pubDate: 2024-08-25T00:00:00.000Z
+pubHour: null
+category:
+  - 家庭親子
+  - 美食景點活動
 tags:
   - AeroXSpace
   - 峇里島
   - 沙努爾
   - 遊樂場
   - 室內遊樂場
+heroImage: 'https://images.gobaligo.id/vocus/vocus_7c93b6fe6f8a109d963dc6aa5b1aefa4.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/66cab3d1fd89780001669923'
-category:
-  - 家庭親子
-  - 美食景點活動
+updatedDate: 2026-11-15T00:00:00.000Z
+contentUpdatedAt: '2026-11-15T15:30:52+08:00'
 lang: zh-cn
-_srcHash: 203a4c4ade2d894d832365b638ab42a9
+_srcHash: a9287508a9cd5e98bae34b79791f3df4
 ---
+
 ## AeroXSpace介绍
 
-**先说结论**：AeroXSpace 位于南登巴萨，占地 **3,500 平方米**、共 **26 种游乐设施**，距沙努尔海滩仅 **19 分钟**、库塔海滩约 **30 分钟**车程，招牌是模拟月球重力打篮球的 AeroXCourt，适合作为雨天备选或南部行程中的中途亲子停留点。
+**先讲结论**：AeroXSpace 位于南登巴萨，占地 **3,500 平方米**、共 **26 种游乐设施**，距沙努尔海滩仅 **19 分钟**、库塔海滩约 **30 分钟**车程，招牌是模拟月球重力打篮球的 AeroXCourt，适合作为雨天备选或南部行程中的中途亲子停留点。
 
 [AeroXSpace室内冒险乐园](https://aeroxspace.id/)的开幕为巴厘岛的家庭和游客带来了新的娱乐选择。这个面积达3,500平方米的冒险中心，拥有26种不同的吸引力和游戏活动，无论晴天或雨天，都能让所有年龄段的游客享受其中。
 
@@ -39,13 +43,13 @@ AeroXSpace位于南登巴萨的Jalan Bypass路，距离沙努尔海滩仅19分�
 
 ### AeroXCourt体验
 
-AeroXCourt是一个充气多功能球场，地面柔软并支持空气流通，让游客仿佛置身于月球，体验低重力环境下打篮球或踢足球的感觉，这是乐园中最具创新和吸引力的设施之一。
+AeroXCourt是一个充气多功能球场，地面柔软并支持空气流通，使游客仿佛置身于月球，体验低重力环境下打篮球或踢足球的感觉，这是乐园中最具创新和吸引力的设施之一。
 
 ### 太空过山车
 
 太空过山车让游客在100米长的轨道上翱翔，模拟在太空中穿梭的感觉，这是另一个适合各年龄段游客的必玩设施。
 
-### 小童区域
+### 儿童区域
 
 除了针对成年人和青少年的冒险设施外，AeroXSpace还特别设置了适合小朋友（学龄前）的Toddler Space，让幼儿也能安全地享受游乐时光。
 
@@ -61,15 +65,13 @@ AeroXSpace不仅仅是一个娱乐场所，它还将学习与娱乐结合在一�
 
 乐园提供多种门票选择，从一小时票到全天通行票不等，国际游客的票价从IDR 175,000起，印尼本地居民则享有优惠价格。[订票链接在这里](https://aeroxspace.instantlybooking.com/product/universal-pass)
 
-> 出发前想先抓预算？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
+> 出发前想先抓预算？\*\*[巴厘岛门票票价总表](/zh-cn/tickets/)\*\* 收录全站热门景点的即时参考票价，方便比较 Klook／Trip.com 的优惠。
 
-这里也有 [Klook提供的特价票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
+这里也有 [Klook 提供的特价票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=916957&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F129545-aeroxspace-adventure-pass-in-denpasar-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D506e8ebe54)
 
 ### 未来展望与发展
 
 AeroXSpace乐园计划未来增加更多设施，以吸引更多游客，并有望成为巴厘岛长期的家庭旅游热点。
-
-![未來展望與發展](https://images.gobaligo.id/vocus/vocus_1c87376e37b6384cc0991bd5077a8556.jpg)
 
 ### 专家意见与游客反馈
 
@@ -81,7 +83,7 @@ AeroXSpace的总经理Tourino Dilaga表示，这个乐园不仅仅是冒险的�
 
 ### 🎉 周六限定派对时段：小孩也能体验的「迷你夜店」
 
-AeroXSpace 还有一个让小朋友疯狂的隐藏亮点——每逢周六下午五点后，乐园摇身一变成为专属儿童的派对天堂。现场有 DJ 打碟、舞者热力演出，还有空中飞人从高处撒下糖果与红包，气氛热闹非凡。
+AeroXSpace 还有一个让小朋友疯狂的隐藏亮点——每逢周六下午五点后，乐园摇身一变成为专属儿童的派对天堂。现场有 DJ 放歌、舞者热力演出，还有空中飞人从高处撒下糖果与红包，气氛热闹非凡。
 
 ![週六限定派對時段：小孩也能體驗的「迷你夜店」](https://images.gobaligo.id/vocus/vocus_2ebc3daabf903126c0b5d744f860c0b5.jpg)
 
@@ -89,7 +91,7 @@ AeroXSpace 还有一个让小朋友疯狂的隐藏亮点——每逢周六下午
 
 **票价方面**相当划算：小孩门票 350,000 印尼盾，大人陪同票 50,000 印尼盾，另加保险 5,000 印尼盾，三项合计仅 405,000 印尼盾，换算约 USD$23，性价比极高。入场还附赠一张兑换券，可免费换取一瓶水加一盒爆米花（口味有甜、咸或综合可选），或折抵餐点八五折。
 
-**大人的弹性也很高。** 家长可以在一楼或二楼沙发区休息，免费使用 Wi-Fi；也可以先陪孩子玩一段时间，再行离开处理其他事务，稍后再来接小孩即可，工作人员表示这样的安排完全没有问题。
+**大人的弹性也很高。** 家长可以在一楼或二楼沙发区休息，免费使用 Wi-Fi；也可以先陪孩子玩一段时间，再行离开处理其他事务，稍后回来接小孩即可，工作人员表示这样的安排完全没有问题。
 
 团友 Claire Lin 带着女儿前来，原本打算把孩子托给乐园后去按摩或健身，后来决定先进场陪玩一会儿再离开。她的女儿在现场玩得不亦乐乎，回家后应该可以倒头就睡。这位妈妈感慨地说，原来不只有大人能去夜店，小孩也可以有属于自己的派对体验，这样的设计让她觉得很贴心也很有趣。团友提供的多段视频请看[这里](https://www.facebook.com/share/p/1MJgV21tS5/)
 
@@ -114,7 +116,7 @@ AeroXSpace 还有一个让小朋友疯狂的隐藏亮点——每逢周六下午
 
 在巴厘岛的西岸，Trans Studio Bali 是在库塔靠近水明漾一个受欢迎的大型室内主题游乐园。它适合所有年龄段的人，是家庭和朋友出游的好去处。
 
-Trans Studio Bali有七大主题区，拥有 23 个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划无法进行，请不要担心！Trans Studio Bali 室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
+Trans Studio Bali有七大主题区，拥有 23 个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划不克成行，请不要担心！Trans Studio Bali 室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
 
 ▶[Trans Studio优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 
@@ -128,7 +130,7 @@ Trans Studio Bali有七大主题区，拥有 23 个游乐设施和景点，玩�
 
 **▶**[**巴厘岛住宿推荐：Sanur沙努尔21家从奢华到平价的度假村/villa收集**](/zh-cn/blog/sanur-luxury-budget-resorts/)
 
-### 3. 亲子度假：推荐巴厘岛13家庭亲子度假村
+### 3. 亲子度假：推荐巴厘岛13个家庭亲子度假村
 
 ![親子渡假村推薦](https://images.gobaligo.id/vocus/vocus_0fff621dfe2d6f977c9d6c5a59b80337.png)
 
