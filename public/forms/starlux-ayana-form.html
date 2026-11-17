@@ -533,7 +533,7 @@ function buildCalendar(popupId, hiddenId, displayId) {
   const popup = document.getElementById(popupId);
   const hidden = document.getElementById(hiddenId);
   const display = document.getElementById(displayId);
-  let viewDate = new Date(2026, 9, 1); // Oct 2026 local time
+  let viewDate = popup._viewDate || new Date(2026, 9, 1); // Oct 2026 local time, or resume where last navigated
 
   function render() {
     const t = T[currentLang];
