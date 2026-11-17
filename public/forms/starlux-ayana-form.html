@@ -517,8 +517,13 @@ const T = {
 
 // ── Custom Calendar ─────────────────────────────────────────────────────────
 const CAL_MIN = new Date('2026-10-01');
-const CAL_MAX = new Date('2027-11-30');
+const CAL_MAX_DEPART = '2027-11-30';
+const CAL_MAX_RETURN = '2027-12-02';
 const DISABLED_DAYS = [3, 6]; // Wed, Sat
+
+function calMaxFor(hiddenId) {
+  return hiddenId === 'flight_return' ? CAL_MAX_RETURN : CAL_MAX_DEPART;
+}
 
 function dateToStr(d) {
   return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
@@ -551,6 +556,7 @@ function buildCalendar(popupId, hiddenId, displayId) {
     const firstDay = new Date(year, month, 1).getDay();
     const daysInMonth = new Date(year, month+1, 0).getDate();
     const selectedStr = hidden.value;
+    const maxStr = calMaxFor(hiddenId);
 
     let html = `<div class="cal-header">
       <button class="cal-nav" type="button" onclick="calPrev('${popupId}','${hiddenId}','${displayId}')">‹</button>
@@ -570,7 +576,7 @@ function buildCalendar(popupId, hiddenId, displayId) {
       const str = dateToStr(d);
       const dow = d.getDay();
       const isDisabled = DISABLED_DAYS.includes(dow);
-      const isOutRange = str < '2026-10-01' || str > '2027-11-30';
+      const isOutRange = str < '2026-10-01' || str > maxStr;
       const isSelected = str === selectedStr;
       let cls = 'cal-day';
       if (isDisabled) cls += ' disabled';
@@ -601,9 +607,12 @@ function calPrev(popupId, hiddenId, displayId) {
 
 function calNext(popupId, hiddenId, displayId) {
   const popup = document.getElementById(popupId);
+  const maxD = new Date(calMaxFor(hiddenId) + 'T00:00:00');
+  const maxYear = maxD.getFullYear();
+  const maxMonth = maxD.getMonth();
   popup._viewDate.setMonth(popup._viewDate.getMonth()+1);
-  if (popup._viewDate.getFullYear() > 2027 || (popup._viewDate.getFullYear() === 2027 && popup._viewDate.getMonth() > 10))
-    popup._viewDate = new Date(2027, 10, 1);
+  if (popup._viewDate.getFullYear() > maxYear || (popup._viewDate.getFullYear() === maxYear && popup._viewDate.getMonth() > maxMonth))
+    popup._viewDate = new Date(maxYear, maxMonth, 1);
   buildCalendar(popupId, hiddenId, displayId);
 }
 
