@@ -1,9 +1,12 @@
 ---
-slug: 2026-bali-water-activities
 title: 【2026 巴厘岛水上活动指南】15 种必玩体验：从初级冲浪、沉船潜水到激流泛舟
+slug: 2026-bali-water-activities
 description: >-
   计划去巴厘岛玩水？本篇详细整理15种必玩水上活动，包括冲浪教学、蓝梦岛浮潜、图兰奔沉船潜水与阿勇河漂流。无论你是寻求刺激的冒险家，还是带小孩的亲子家庭，这份完整指南助你找到最适合的巴厘岛玩水行程！
 pubDate: 2026-01-20T00:00:00.000Z
+updatedDate: 2026-11-16T00:00:00.000Z
+contentUpdatedAt: '2026-11-16T22:01:52+08:00'
+pubHour: null
 category:
   - 峇里島分區攻略
   - 美食景點活動
@@ -19,9 +22,10 @@ tags:
   - Bali Water Sports Guide
   - Best Surfing Spots Bali
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: zh-cn
-_srcHash: 1f2fbef068a01c917201c1e458d84144
+_srcHash: 75f025aeacbcb4ddf2ac9ec1520d5d05
 ---
 
 巴厘岛的水上活动非常丰富多元，从刺激的极限运动到悠闲的生态探索，应有尽有。以下是完整的水上活动推荐，适合不同兴趣和体能程度的游客。
@@ -42,14 +46,14 @@ https://youtu.be/gECdNvG16ww
 > [UP2U Surf School](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1254314&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83095-surfing-lesson-up2u-surf-school-bali-kuta-bali-kuta-beach%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D80aae4e08b)
 
 - **推荐地点**：
-    - **库塔海滩 (Kuta Beach)**： 最适合初学者，浪温和且沙滩底，有众多冲浪学校。
-    - **水明漾 (Seminyak)**：适合中级冲浪者，浪较大且人潮较少。
-    - **坎古 (Canggu)**：冲浪文化浓厚，有多个浪点可选，适合中高级冲浪者。
-    - **乌鲁瓦图 (Uluwatu)**：世界级礁石浪点，适合高级冲浪者，可观赏到壮观的管浪。
-    - **巴东巴东 (Padang Padang)**：经典浪点，适合进阶冲浪者。
-    -
+    - 库塔海滩 (Kuta Beach)： 最适合初学者，浪温和且沙滩底，有众多冲浪学校。
+    - 水明漾 (Seminyak)：适合中级冲浪者，有时浪较大。
+    - 坎古 (Canggu)：冲浪文化浓厚，有多个浪点可选，适合中高级冲浪者。
+    - 乌鲁瓦图 (Uluwatu)：世界级礁石浪点，适合高级冲浪者，可观赏到壮观的管浪。
+    - 巴东巴东 (Padang Padang)：经典浪点，适合进阶冲浪者。
 - **注意事项**：建议初学者先上1-2小时课程，了解安全规则和基本技巧。礁石浪点需穿冲浪鞋保护脚部。
- **快速参考：**[【巴厘岛冲浪攻略】适合不同等级的冲浪海滩介绍](/zh-cn/blog/bali-surf-beaches-guide/)
+
+> **快速参考：**[【巴厘岛冲浪攻略】适合不同等级的冲浪海滩介绍](/zh-cn/blog/bali-surf-beaches-guide/)
 
 ## 🌊 刺激水上运动
 
@@ -64,7 +68,7 @@ https://youtu.be/gECdNvG16ww
 - **简介**：系着降落伞由快艇拖曳升空，在空中欣赏巴厘岛海岸线全景。可选择单人、双人或三人同行，飞行高度约50-100米。
 - **推荐地点**：南湾 (Tanjung Benoa)、努沙杜瓦。
 - **体验时间**：约10-15分钟空中飞行。
-- **特色**：可选择“湿降”（落水）或“干降”（降落回船上），前者更刺激有趣。
+- **特色**：可选择「湿降」（落水）或「干降」（降落回船上），前者更刺激有趣。
 
 ### 3. 水上摩托车 (Jet Ski)
 
@@ -73,22 +77,33 @@ https://youtu.be/gECdNvG16ww
 - **体验时间**：15-30分钟不等。
 - **注意事项**：需注意安全范围，遵守当地水域规定，建议穿着救生衣。
 
+### 3.1 水上超跑（Jet Car）
+
+![raw-image](https://images.gobaligo.id/images/2026-11/1794832418751-15674.jpg)
+
+- **简介：** 自己握方向盘开水上超跑，沿着海岸线巡航，也能高速转弯。活动前有合格教练做安全简报与车辆导览，穿上救生衣就能出发。另有水上摩托车、香蕉船可选，费用包含安全装备、置物柜、淋浴设施与基本保险。
+- **推荐地点：** 丹戎贝诺瓦（Tanjung Benoa，南湾），巴厘岛水上活动最集中的区域。
+- **体验时间：** 每种方案 15 分钟（水上超跑、水上摩托车、香蕉船皆同）。
+- **注意事项：** 玩完可使用置物柜与淋浴设施，建议自备换洗衣物。
+
+> 👉 [在 Klook 查看水上超跑 Jet Car 方案与最新价格](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1570345&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F233347-jet-car-watersport-experience-in-bali-with-optional-activities%2F)
+
 ### 4. 飞鱼 (Flying Fish)
 
 - **简介**：搭乘充气式飞鱼艇，由快艇高速拖曳，利用气流让飞鱼艇腾空飞跃，刺激程度极高。通常2-4人一起体验，需抓紧扶手以免被甩出。
 - **推荐地点**：南湾 (Tanjung Benoa)。
 - **体验时间**：约15分钟。
 
-### 5. 喷射背包 (Jetpack) / 水上飞板 (Flyboard)
+### 5. 喷气背包 (Jetpack) / 水上飞板 (Flyboard)
 
-- **简介**：利用水压将人推升至空中，体验如钢铁侠般的飞行感觉。Jetpack 是背包式，Flyboard 则是脚踏板式。需要一定的平衡感和协调性，但教练会先在水面指导。
+- **简介**：利用水压将人推升至空中，体验如钢铁人般的飞行感觉。Jetpack 是背包式，Flyboard 则是脚踏板式。需要一定的平衡感和协调性，但教练会先在水面指导。
 - **推荐地点**：南湾 (Tanjung Benoa)。
 - **体验时间**：约20-30分钟（含教学）。
 - **难度**：中高，需要练习才能稳定飞行。
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
-> ▶点击[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194851&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54214-tanjung-benoa-watersports-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1adba9cee6)有南湾水上活动的套餐组合
+> ▶点击[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194851&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54214-tanjung-benoa-watersports-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1adba9cee6)有南湾水上活动的套装组合
 
 > ▶努沙杜瓦的水上活动请点击[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194851&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16169-nusa-dua-water-sport-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dabdc6821ed)
 
@@ -96,14 +111,14 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6. 水肺潜水 (Scuba Diving)
 
-![6. 水肺潜水 (Scuba Diving)](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
+![6. 水肺潛水 (Scuba Diving)](https://images.gobaligo.id/vocus/vocus_e4f9d3574fd448e635155a11a63a9ec0.png)
 
 - **简介**：巴厘岛是世界级潜点，海洋生物多样性丰富，适合从初学者到技术潜水员。可以看到珊瑚礁、沉船、甚至蝠鲼 (Manta Ray) 和翻车鱼 (Mola Mola)。
 - **推荐潜点**：
-- **图蓝奔 (Tulamben)**：著名的美国自由号沉船 (USAT Liberty Wreck)，适合各级别潜水员。
-    - **艾湄湾 (Amed)**：珊瑚礁和缓坡地形，适合初学者，水流平稳。
-    - **佩尼达岛 (Nusa Penida)**：可遇见蝠鲼、翻车鱼等大型海洋生物，适合进阶潜水员，水流较强。
-    - **门江岸 (Menjangan Island)**：巴厘岛西北部，珊瑚礁墙壮观，能见度极佳。
+    - 图兰奔 (Tulamben)：著名的美国自由号沉船 (USAT Liberty Wreck)，适合各级别潜水员。
+    - 艾湄湾 (Amed)：珊瑚礁和缓坡地形，适合初学者，水流平稳。
+    - 佩尼达岛 (Nusa Penida)：可遇见蝠鲼、翻车鱼等大型海洋生物，适合进阶潜水员，水流较强。
+    - 门江岸 (Menjangan Island)：巴厘岛西北部，珊瑚礁墙壮观，能见度极佳。
 - **最佳季节**：全年可潜，但 7-10 月是观赏翻车鱼的最佳季节。
 
 > ▶巴厘岛免证照水肺潜水请参考[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194851&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F28013-diving-tour-non-certified-divers%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D539043948c)
@@ -114,9 +129,9 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 6.1 浮潜（snorkeling）
 
-![6.1 浮潜（snorkeling）](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
+![6.1 浮潛（snorkeling）](https://images.gobaligo.id/vocus/vocus_8931b9fe6f6fd60c4c95f35857142770.jpg)
 
-> 请参考 [巴厘岛最美浮潜地点大收集：新手友好海洋冒险指南](/zh-cn/blog/bali-snorkeling-spots/)
+> 请参考 [巴厘岛最美浮潜地点大收集：新手友善海洋冒险指南](/zh-cn/blog/bali-snorkeling-spots/)
 
 ### 7. 海底漫步 (Sea Walking)
 
@@ -136,10 +151,10 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 - **简介**：在巴厘岛中部的河流进行激流泛舟，穿越热带雨林、梯田和峡谷，途中可欣赏瀑布和野生动物。河道分为不同等级，适合家庭或寻求刺激的冒险者。
 - **推荐地点**：
-- - **阿勇河 (Ayung River)**：最受欢迎，2-3级rapids，适合初学者和家庭，沿途风景优美。
-    - **特拉加瓦贾河 (Telaga Waja River)**：3-4级rapids，更刺激，适合有经验者或寻求挑战的游客。
-- **体验时间**：约2-2.5小时河道时间（含交通和准备共4-5小时）。
-- **注意事项**：建议穿着快干衣物，携带替换衣物和防水袋。
+    - 阿勇河 (Ayung River)：最受欢迎，2-3级急流，适合初学者和家庭，沿途风景优美。
+    - 特拉加瓦贾河 (Telaga Waja River)：3-4级急流，更刺激，适合有经验者或寻求挑战的游客。
+    - 体验时间：约2-2.5小时河道时间（含交通和准备共4-5小时）。
+    - 注意事项：建议穿着快干衣物，携带替换衣物和防水袋。
 
 > ▶[巴厘岛泛舟推荐&攻略（泛舟常见问题FAQ）](/zh-cn/blog/bali-rafting-ayung-telaga-waja/)
 
@@ -147,19 +162,19 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 https://youtu.be/Xp5gyMslrVE?si=TsAeAp1bhkctFjPx
 
-- **简介**：在平静水域进行的休闲活动，适合欣赏海岸风光和日出日落。SUP 需要平衡感，而皮划艇则更稳定易上手，可以单人或双人划行，探索海湾和小岛。
+- **简介**：在平静水域进行的休闲活动，适合欣赏海岸风光和日出日落。SUP 需要平衡感，而独木舟则更稳定易上手，可以单人或双人划行，探索海湾和小岛。
 - **推荐地点**：沙努尔海滩 (Sanur)、蓝梦岛 (Nusa Lembongan)。
 - **体验时间**：1-2小时，可自行租借或参加导览团。
 
-### 10. 红树林皮划艇之旅 (Mangrove Kayaking)
+### 10. 红树林独木舟之旅 (Mangrove Kayaking)
 
 https://youtube.com/shorts/yerwXithouw
 
-- **简介**：划皮划艇探索红树林生态系统，穿梭在蜿蜒的水道中，观察鸟类、螃蟹、弹涂鱼等生物。环境宁静舒适，适合喜爱大自然和生态观察的游客。
+- **简介**：划独木舟探索红树林生态系统，穿梭在蜿蜒的水道中，观察鸟类、螃蟹、弹涂鱼等生物。环境宁静舒适，适合喜爱大自然和生态观察的游客。
 - **推荐地点**：南湾 (Tanjung Benoa)、蓝梦岛 (Nusa Lembongan) 的红树林保护区。
 - **体验时间**：约0.5-1小时。
 
-> ▶点[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194851&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86700-canoeing-experience-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D63ac30229e)参加南湾红树林皮划艇水上探险体验
+> 点[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194851&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86700-canoeing-experience-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D63ac30229e)参加南湾红树林独木舟水上探险体验
 
 ### 11. 传统「Jukung」帆船出海
 
@@ -173,12 +188,14 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 ### 12. 观赏海豚 (Dolphin Watching)
 
-![12. 观赏海豚 (Dolphin Watching)](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
+![12. 觀賞海豚 (Dolphin Watching)](https://images.gobaligo.id/vocus/vocus_399f7b08094dc7f6d4273d9eaabb76c6.jpg)
 
-- **简介**：清晨6点左右乘船出海，在巴厘岛北部海域观赏野生海豚群。通常能看到数十只海豚跳跃嬉戏，场面壮观。建议提早预订并准时出发以提高观赏成功率。
+- **简介**：清晨 6 点左右乘船出海，在巴厘岛北部海域观赏野生海豚群。通常能看到数十只海豚跳跃嬉戏，场面壮观。建议提早预订并准时出发以提高观赏成功率。
 - **推荐地点**：罗威那 (Lovina)。
-- **最佳时间**：清晨6:00-8:00，海豚最活跃的时段。
+- **最佳时间**：清晨 6:00-8:00，海豚最活跃的时段。
 - **体验时间**：约2-3小时（含往返）。
+
+> 参加 [罗威那赏海豚](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1571986&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50110256-lovina-beach%2F1-things-to-do%2F%3Fspm%3DActivity.BreadCrumb_LIST%26clickId%3D01825ea540)
 
 ### 13. 瀑布与天然水潭探险
 
@@ -187,11 +204,13 @@ https://youtu.be/Z7yPLNwrOrQ?si=wlIUdZ89wdHRXzi3
   **简介**：巴厘岛内陆有许多隐藏的瀑布与天然水潭，水质清凉干净，适合游泳、跳水和拍照。需要徒步一段路才能抵达，途中可欣赏热带雨林和梯田风光。
 
 - **推荐地点**：
-- **特哥努恩安瀑布 (Tegenungan Waterfall)**：距乌布较近，适合初学者，有较宽广的水潭。
-- **坎多澜波瀑布 (Kanto Lampo Waterfall)**：独特的阶梯式瀑布，水流平缓，适合拍照。
-- **图卡杰普恩瀑布 (Tukad Cepung Waterfall)**：隐藏在岩洞中的秘境瀑布，光线照射时特别梦幻。
-- **塞坎佩瀑布 (Sekumpul Waterfall)**：巴厘岛最高瀑布之一，需徒步约1小时，适合冒险者。
+- 特哥努恩安瀑布 (Tegenungan Waterfall)：距乌布较近，适合初学者，有较宽广的水潭。
+- 坎多澜波瀑布 (Kanto Lampo Waterfall)：独特的阶梯式瀑布，水流平缓，适合拍照。
+- 图卡杰普恩瀑布 (Tukad Cepung Waterfall)：隐藏在岩洞中的秘境瀑布，光线照射时特别梦幻。
+- 塞坎佩瀑布 (Sekumpul Waterfall)：巴厘岛最高瀑布之一，需徒步约1小时，适合冒险者。
 - **注意事项**：穿着防滑鞋，携带泳衣和毛巾。
+
+[> 巴厘岛乌布附近的三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布](https://gobaligo.id/zh-cn/blog/ubud-waterfalls-guide/)
 
 ## 🎣 其他水域活动
 
@@ -199,16 +218,16 @@ https://youtu.be/Z7yPLNwrOrQ?si=wlIUdZ89wdHRXzi3
 
 - **简介**：包船出海进行深海钓鱼，体验传统钓鱼或现代海钓技术。常见渔获有金枪鱼、鲭鱼、旗鱼等。适合喜爱钓鱼或想体验海上宁静时光的游客。有半日游和全日游可选。
 - **推荐地点**：沙努尔、努沙杜瓦、佩尼达岛出发。
-- **体验时间**：半日游4-5小时，全日游8-10小时。
+- **体验时间**：半日游 4-5 小时，全日游 8-10 小时。
 - **特色**：部分行程可将渔获带回餐厅料理，新鲜美味。
 
-> ▶[参加钓鱼之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194259&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D87a7be763b)
+> [参加钓鱼之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194259&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D87a7be763b)
 
 ### 15.海滩俱乐部
 
 https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
-遍布巴厘岛的海滩俱乐部，是想感受青春、阳光、奔放的旅人不能错过的行程必安排的景点之一！
+遍布巴厘岛的海滩俱乐部，是想感受青春、阳光、奔放的旅人不能错过的旅程必安排的景点之一！
 
 > [为什么 2026 年来巴厘岛，大家都开始跑 Beach Club？](/zh-cn/blog/2026-bali-beach-club-guide/)
 
@@ -216,20 +235,19 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
   **豪华浮床租借服务**
 
-![额外加码：泳池漂浮](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
+![額外加碼：泳池漂浮](https://images.gobaligo.id/vocus/vocus_c068d50978234e879e8f87aec69d92f5.png)
 
-![额外加码：泳池漂浮](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
+![額外加碼：泳池漂浮](https://images.gobaligo.id/vocus/vocus_790a033adc23cb620a87c55b53d1cf83.png)
 
 在巴厘岛热情的阳光下，让可爱的泳圈为您的假期增添一抹时尚亮点！业者提供直接送达您酒店房间或别墅门口的贴心服务，让您完全不必费心。无论是孩童或成人都能尽情享受水上乐趣。从经典圆形到梦幻独角兽、热带火鹤造型，多种尺寸、形状和设计任您挑选，为您的泳池时光增添更多欢乐与拍照回忆！
 
-> ▶浮床租借USD$2起，请点[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1195005&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14778-getfloat-bali-floaties-rental-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db277d4d55e)
->   ---
+> 浮床租借 USD$2 起，请点[这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1195005&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14778-getfloat-bali-floaties-rental-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db277d4d55e)
 
 ## 💡 活动选择建议
 
   **适合家庭亲子**：香蕉船、海底漫步、红树林独木舟、瀑布探险、观赏海豚
   **适合情侣**：SUP 日落、Jukung 帆船、浮潜、瀑布探险、海滩俱乐部
-  **适合寻求刺激**：飞鱼、Flyboard、激流泛舟、水上摩托、进阶冲浪、深潜
+  **适合寻求刺激**：飞鱼、Flyboard、激流泛舟、水上摩托车、进阶冲浪、深潜
   **适合预算有限**：冲浪教学、独木舟、瀑布探险、沙滩游泳
   **适合不会游泳**：海底漫步、香蕉船（穿救生衣）、红树林独木舟、海滩俱乐部
 
@@ -240,7 +258,7 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 1. 所有水上活动建议穿着救生衣
 2. 选择有信誉的业者和合格教练
 3. 注意天气和海况，风浪大时避免出海
-4. 防晒措施不可少，建议使用海洋友好防晒乳
+4. 防晒措施不可少，建议使用海洋友善防晒乳
 5. 贵重物品妥善保管或寄存
 6. 购买旅游保险以保障安全
 
