@@ -1,10 +1,10 @@
 ---
-slug: ubud-top-20-attractions-guide
 title: 巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇
+slug: ubud-top-20-attractions-guide
 description: >-
   到巴厘岛旅游，唯一一个不能错过的地方就是乌布。这篇巴厘岛旅游攻略为大家献上第一次到乌布必看的乌布攻略，包含圣泉寺、乌布秋千、猴子森林、乌布皇宫、乌布市场、乌布梯田、乌布漂流、乌布瀑布、乌布ATV...20个乌布景点/乌布活动
 pubDate: 2024-07-28T00:00:00.000Z
-updatedDate: 2026-07-10T00:00:00.000Z
+pubHour: null
 category:
   - 峇里島分區攻略
 tags:
@@ -12,15 +12,17 @@ tags:
   - 峇里島
   - 烏布
 heroImage: 'https://images.gobaligo.id/vocus/vocus_474e842e30763c2e08fb64ae53b821a1.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/669fc2a7fd89780001321901'
+updatedDate: 2026-11-17T00:00:00.000Z
+contentUpdatedAt: '2026-11-17T11:55:06+08:00'
 lang: zh-cn
-_srcHash: d568b1b2d5fad4d3469444569cdffa3b
+_srcHash: 90a890b61f44e1b2d89c8321eeb03851
 ---
-**先讲结论**：第一次到乌布必去景点包括**圣泉寺、猴子森林、乌布皇宫、乌布市场、德格拉朗梯田**等，本文精选 **20 个景点/活动**，涵盖自然景观、文化体验与户外活动（漂流、ATV），适合安排 2-3 天深入了解乌布这座巴厘岛文化重镇。
+
+**先说结论**：第一次到乌布必去景点包括**圣泉寺、猴子森林、乌布皇宫、乌布市场、德格拉朗梯田**等，本文精选 **20 个景点/活动**，涵盖自然景观、文化体验与户外活动（漂流、ATV），适合安排 2-3 天深入了解乌布这座巴厘岛文化重镇。
 
 如果问起在巴厘岛除了活力四射的沙滩之外，还有哪里是最受国际游客和印尼游客欢迎的地方？答案之一就是巴厘岛的乌布（Ubud）。我相信你一定听说过「乌布」的旅游景点，并在各种文章中看到过有关乌布的游览和活动介绍。那么，你是否有兴趣到乌布度假呢？如果是的话，在计划乌布之旅之前，建议你完整地阅读这篇文章！我们这里提供关于乌布的旅游指南和旅游贴士。
-
-![峇里島旅遊攻略：第一次到烏布要玩什麼？20個景點推薦 烏布攻略篇](https://images.gobaligo.id/vocus/vocus_bb040f4d92b97741e7688b1d1f6d92e8.jpg)
 
 ## 乌布的魅力
 
@@ -44,16 +46,16 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 ![豐富的住宿選擇](https://images.gobaligo.id/vocus/vocus_13a74a1d8c8fd5941d410b5cd70f4cf0.jpg)
 
-- [【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-resorts-guide/)
-- [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
-- [【乌布住宿推荐】泳池别墅私密天堂: 乌布20间令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
+- [【巴厘岛乌布住宿】乌布30+家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/zh-cn/blog/ubud-resorts-guide/)
+- [探索乌布10+家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/zh-cn/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【乌布住宿推荐】泳池别墅私密天堂: 乌布20+令人惊艳的巴厘岛villa](/zh-cn/blog/ubud-villa-pool-guide/)
 - [乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择](/zh-cn/blog/ubud-yoga-retreats-bali/)
 
 ### 乌布的美食
 
 一个旅游区若没有多样的美食选择是不完整的！目前，乌布旅游区已成为继水明漾之后的另一个巴厘岛美食旅游胜地。在乌布，无论是印尼菜、巴厘特色菜还是西餐，你都可以轻松找到适合自己的餐厅。此外，乌布区域还因其咖啡厅、咖啡店、餐馆和酒吧而成为著名的聚会场所。
 
-请参考「[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)」里的介绍
+> 请参考「[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)」里的介绍
 
 ## 距离和旅行时间
 
@@ -63,7 +65,7 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 如果你住在水明漾区，前往乌布中心区约需32公里，平均车程为1小时30分钟至2小时。
 
-然而面对日益严重的堵车问题，车程的预估还要再多预留一点缓冲时间喔！
+然而面对日益严重的塞车问题，车程的预估还要再多预留一点缓冲时间喔！
 
 ## 乌布的最佳交通方式
 
@@ -81,7 +83,7 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 ![騎摩托車 – 烏布交通指南](https://images.gobaligo.id/vocus/vocus_fc84efe12c3d37e38738d93e3332713f.jpg)
 
-关于租摩托车的话题，可以参考：[巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/zh-cn/blog/bali-motorbike-rental-guide/)
+> 关于租摩托车的话题，可以参考：[巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/zh-cn/blog/bali-motorbike-rental-guide/)
 
 ### 包车 – 乌布交通指南
 
@@ -89,11 +91,11 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 **包车（含司机）** 在乌布找到自驾租车较困难。而且在乌布中心区内找到停车位非常有限，到处都有禁止停车的标志。如果不想为找停车位烦恼、不想自己开车、并想参观乌布以外的其他地方，建议租用含司机的车辆（包车）。
 
-- 关于包车：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
+> 关于包车：[巴厘岛包车自由行全攻略 - 费用、预订方式、优势分析](/zh-cn/blog/bali-private-car-hire-guide/)
 
 **乌布旅游套餐** 有些游客不想自己安排，会选择预订巴厘岛的旅游套餐，这些旅游套餐帮你把随行导游、交通接送、行程规划、景点门票、美味餐点...一次搞定!
 
-> 想比价更多景点门票？可以到 **[巴厘岛门票票价总表](/zh-cn/tickets/)** 看看，49 个热门景点都附 Klook／Agoda／Trip.com 订票链接。
+> 想比价更多景点门票？可以到 [**巴厘岛门票票价总表**](/zh-cn/tickets/) 看看，50+ 个热门景点都附 Klook／Trip 订票链接。
 
 以下是几个高评价的乌布旅游套餐：
 
@@ -119,10 +121,9 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 猴子森林是乌布必访的景点之一，位于一片保护森林内，森林中有许多茂密的大树和长尾灰猴。森林内还有一座名为Pura Dalem Agung Padangtegal的巴厘印度教寺庙。然而野生的猴子具有危险性，只要遵守园区的规则，如不要惊慌、避免跑动、不与雄性猴子对视等，就能确保安全。建议游览时间约1.5小时。
 
-预订旅程：
+[> [猴子森林优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D969e7eeb9b)
 
-- [猴子森林优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D969e7eeb9b)
-- [猴子森林公园 & 艺术村 & 传统市场 & Kecak火舞表演私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17380-monkey-forest-kecak-dance-show-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D64cd31c0de)
+> [猴子森林公园 & 艺术村 & 传统市场 & Kecak火舞表演私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17380-monkey-forest-kecak-dance-show-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D64cd31c0de)
 
 ### 2. 阿勇河漂流 (Ayung River Rafting)
 
@@ -134,12 +135,13 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 预订漂流活动：
 
-- [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e215f68e1)
-- [Telaga Waja河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15931-telaga-waja-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3f6e6d4142)
+> [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e215f68e1)
+
+> [Telaga Waja河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15931-telaga-waja-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3f6e6d4142)
 
 ### 3. 乌布水皇宫 (Taman Saraswati Temple)
 
-这座神庙是供奉智慧女神萨拉斯瓦蒂的地方，庙前有一个莲花池，周围有美丽的巴厘雕刻。每天晚上，这里还会有巴厘舞蹈表演。
+这座寺庙是供奉智慧女神萨拉斯瓦蒂的地方，庙前有一个莲花池，周围有美丽的巴厘雕刻。每天晚上，这里还会有巴厘舞蹈表演。
 
 ### 4. 观看火舞表演 (Watch a Kecak Dance Performance)
 
@@ -149,16 +151,17 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 表演票券预订：
 
-- [乌布卡恰舞 & 火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77794-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0626c21c2b)
-- [乌布皇宫Puri Agung Peliatan卡恰舞 & 火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deae139a4ee)
+> [乌布卡恰舞 & 火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77794-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0626c21c2b)
+
+> [乌布皇宫Puri Agung Peliatan卡恰舞 & 火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892290&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deae139a4ee)
 
 ### 5. 阿贡莱美术馆 (Agung Rai Museum of Art (ARMA)
 
 ![5. 阿貢萊美術館 (Agung Rai Museum of Art (ARMA)](https://images.gobaligo.id/vocus/vocus_4f1ede73cfd2d1d8c2aa4cf499b92168.jpg)
 
-阿贡莱美术馆建于一片有起伏的地形上，拥有巴厘文化风格的花园设计，如莲花池和兰花植物。这是一个在乌布至少值得去一次的地方，数量惊人的巴厘风格艺术收藏。强烈推荐参观。虽然入场费不便宜，但值得停下来一次。有机会亲眼看到艺术家在创作。开放时间为09:00-18:00，门票价格为每人150,000印尼盾。
+阿贡莱美术馆建在一片有起伏的地形上，拥有巴厘文化风格的花园设计，如莲花池和兰花植物。这是一个在乌布至少值得去一次的地方，数量惊人的巴厘风格艺术收藏。强烈推荐参观。虽然入场费不便宜，但值得停下来一次。有机会亲眼看到艺术家在创作。开放时间为09:00-18:00，门票价格为每人150,000印尼盾。
 
-- [预订门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26840-arma-museum-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D93f8f734da)
+> [预订门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26840-arma-museum-ticket%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D93f8f734da)
 
 ### 6. 德格拉朗梯田 (Tegallalang Rice Terraces)
 
@@ -168,18 +171,19 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 预订一日游行程：
 
-- [德格拉朗Tis Cafe & 巴杜尔山吉普车 & 瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98430-tis-cafe-tegallalang-mount-batur-waterfalls-private-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D6f7d67ceac)
-- [乌布瀑布 & 象窟 & 圣泉寺 & 德格拉朗水稻梯田 & 圣猴森林公园之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22141-ubud-favorites-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1f4448235e)
+> [德格拉朗Tis Cafe & 巴杜尔山吉普车 & 瀑布之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98430-tis-cafe-tegallalang-mount-batur-waterfalls-private-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D6f7d67ceac)
+
+> [乌布瀑布 & 象窟 & 圣泉寺 & 德格拉朗水稻梯田 & 圣猴森林公园之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22141-ubud-favorites-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1f4448235e)
 
 ### 7. 象洞 (Goa Gajah Temple)
 
 ![7. 象洞 (Goa Gajah Temple)](https://images.gobaligo.id/vocus/vocus_952716f4ef63ba4cb3e834ec8871d9a4.jpg)
 
-象洞是巴厘岛的一座古老寺庙，里面没有大象喔！这里的雕刻和洞穴内部的设计非常独特，是考古和历史爱好者必访的景点。开放时间为08:00-17:00。
+象洞是巴厘岛的一座古老寺庙，里面没有大象哦！这里的雕刻和洞穴内部的设计非常独特，是考古和历史爱好者必访的景点。开放时间为08:00-17:00。
 
 预订一日游：
 
-- [巴厘岛中部一日游：德格拉朗梯田＆圣猴森林公园＆象洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F10810-tegalalang-monkey-forest-tour-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc33480c5f6)
+> [巴厘岛中部一日游：德格拉朗梯田＆圣猴森林公园＆象洞](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F10810-tegalalang-monkey-forest-tour-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc33480c5f6)
 
 ### 8. 圣泉寺 (Tirta Empul Temple)
 
@@ -189,37 +193,39 @@ _srcHash: d568b1b2d5fad4d3469444569cdffa3b
 
 预订一日游：
 
-- [Tirta Empul Temple身心洗礼 & 乌布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
+[> Tirta Empul Temple身心洗礼 & 乌布探索之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
 
 ### 9. 岩庙 (Gunung Kawi Cliff Temple)
 
 ![9. 巖廟 (Gunung Kawi Cliff Temple)](https://images.gobaligo.id/vocus/vocus_9bacc76e3ee7526bb8196649a060b07d.jpg)
 
-岩庙是一个古老的寺庙，建在悬崖上，周围环境优美，有帕克利桑河的潺潺水声。开放时间为07:00-18:00。
+岩庙是一座古老的寺庙，建在悬崖上，周围环境优美，有帕克利桑河的潺潺水声。开放时间为07:00-18:00。
 
 预订行程：
 
-- [乌布心灵之旅 & 净化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
+> [乌布心灵之旅 & 净化体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
 ### 10. Omma Dayclub
 
 Omma Dayclub 以其壮丽的瀑布景色而闻名。瀑布高约30米，游客可以从俱乐部的露台、盖在河流边的游泳池欣赏近在眼前的壮丽瀑布景色。
 
-- [Omma Dayclub介绍 & 官网](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/)
+> [Omma Dayclub介绍 & 官网](/zh-cn/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ### 11. D'Tukad River Club
 
-D'Tukad河畔俱乐部是位于Tegenungan瀑布顶部的一个日间俱乐部，融合了树屋概念与令人叹为观止的自然景观。在这里，你可以尽情享受令人惊艳的秋千和游泳池。D'Tukad拥有360度瀑布景观，让你在用餐时同时欣赏到瀑布流水的壮观和自然的宏伟。
+D'Tukad河畔俱乐部是位于Tegenungan Waterfall顶部的一个日间俱乐部，综合了树屋概念与令人叹为观止的自然景观。在这里，你可以尽情享受令人惊艳的秋千和游泳池。D'Tukad拥有360度瀑布景观，让你在用餐时同时欣赏到瀑布流水的壮观和自然的宏伟。
 
 预订一日游：
 
-- [D'Tukad River Club与德格拉朗梯田一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17772-river-club-waterfall-swing-tegalalang-rice-terrace-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D457ca69d5c)
+> [D'Tukad River Club与德格拉朗梯田一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17772-river-club-waterfall-swing-tegalalang-rice-terrace-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D457ca69d5c)
 
 ### 12. Wanna Jungle Pool & Bar
 
+https://youtu.be/eJ0oL0O5OY8?si=hZu8Mil2KtWCP3nf
+
 Wanna Jungle Pool & Bar是乌布新开业的日间俱乐部，以其独特的三层无边泳池而闻名。在这里，你可以在清凉的水中畅游，沐浴在热带的放松氛围中，与茂密的森林和标志性的无边泳池融为一体。这里绝对是拍摄Instagram美照的绝佳地点，让你的社交媒体充满乌布独有的浓厚风情。
 
-- [Wanna Jungle Pool & Bar通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da712e9efb5)
+> [Wanna Jungle Pool & Bar通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da712e9efb5)
 
 ### 13. 参观彭丽普兰村（Penglipuran Village）
 
@@ -229,38 +235,41 @@ Wanna Jungle Pool & Bar是乌布新开业的日间俱乐部，以其独特的三
 
 Klook特惠行程
 
-- [巴厘岛彭丽普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
-- [Penglipuran乡村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
-- [巴厘岛彭丽普兰村＆乌布＆大自然＆寺庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
+> [巴厘岛彭丽普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
+
+[> [彭利普兰村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
+
+[> [巴厘岛彭利普兰村＆乌布＆大自然＆寺庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
 
 ### 14.Cretya Ubud
 
 ![14.Cretya Ubud](https://images.gobaligo.id/vocus/vocus_ccfc5c23d027fafbee502e39f43316da.jpg)
 
-Cretya Ubud 是乌布区的一家豪华日间俱乐部，三层式的泳池极具特色，面对郁郁葱葱的德格拉朗梯田，坐拥壮丽的景色。
+Cretya Ubud 是乌布区的一家豪华日间俱乐部，三层式泳池极具特色，面对郁郁葱葱的德格拉朗梯田，坐拥壮丽的景色。
 
 Cretya Ubud 开放时间为每天上午 8 点至晚上 9 点。成人入场费为 250,000 印尼盾。
 
-- [旅游套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
-- [官网自行选位，有低消](https://alasharum.com/cretya-ubud/day-club/)
+[> [旅游套票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
+
+[> [官网自行选位，有低消](https://alasharum.com/cretya-ubud/day-club/)
 
 ### 15. 乌布皇宫 (Ubud Royal Palace)
 
 乌布皇宫位于乌布的主要道路上，附近有乌布艺术市场和乌布水皇宫。看上面的视频小杰带你乌布市区绕一圈。
 
-[乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)
+[> [乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐](/zh-cn/blog/ubud-royal-palace-tour-guide/)]
 
 ### 16. 乌布艺术市场 (Ubud Art Market)
 
 乌布艺术市场是购买巴厘手工艺品的好地方，这里有编织袋、篮子和其他手工艺品。市场靠近乌布皇宫，开放时间为10:00-17:00。
 
-延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
+> [推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
 ### 17. 乌布天空步道 (Campuhan Hill)
 
 一个从乌布皇宫步行就可以轻易到达，被称为「乌布天空步道」的Campuhan Ridge Walk（詹普汉山脊步道）。它是一个隐藏在乌布市中心附近的宝藏，它给你带来了大自然的宁静和美丽风景。这条步道位于山脊上，提供壮观的360度居高临下的宽阔风景，远离城市的喧嚣。
 
-天空步道如何去？花多少时间？最佳造访时段是什么？请看[小杰的详细介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
+> 天空步道如何去？花多少时间？最佳造访时段是什么？请看[小杰的详细介绍](/zh-cn/blog/ubud-campuhan-ridge-walk/)
 
 ### 18. 乌布秋千 (Swing)
 
@@ -268,7 +277,7 @@ Cretya Ubud 开放时间为每天上午 8 点至晚上 9 点。成人入场费�
 
 乌布的秋千是拍摄Instagram照片的热门活动。巴厘岛有很多地方可以玩秋千，但乌布是最著名的。
 
-​请看 [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
+> 请看 [乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/zh-cn/blog/ubud-jungle-swings-photo-guide/)
 
 ### 19 瀑布探秘 (Waterfall Hunting)
 
@@ -280,19 +289,23 @@ Cretya Ubud 开放时间为每天上午 8 点至晚上 9 点。成人入场费�
 
 预订一日游：
 
-- [Hidden Canyon & Tegenungan瀑布探险一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F28599-hidden-canyon-tegenungan-waterfall-goa-gajah-full-day-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D41c518ada3)
-- [Tukad Cepung瀑布一日游 & 丛林秋千](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16085-tukad-cepung-waterfall-jungle-swing-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6d4374e95)
-- 彭[里普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
+> [Hidden Canyon & Tegenungan瀑布探险一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F28599-hidden-canyon-tegenungan-waterfall-goa-gajah-full-day-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D41c518ada3)
+
+>[Tukad Cepung瀑布一日游 & 丛林秋千](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16085-tukad-cepung-waterfall-jungle-swing-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6d4374e95)
+
+> 彭[里普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
 
 ### 20 骑ATV
 
-想要以更快的速度探索乌布的自然之美吗？骑乘ATV（全地形车）是一个极富挑战性和刺激的选择。乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山區，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。请参考 [巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/zh-cn/blog/bali-atv-adventure-guide/)
+想要以更快的速度探索乌布的自然之美吗？骑乘ATV（全地形车）是一个极富挑战性和刺激的选择。乌布的ATV之旅通常穿越热带雨林、河道、隧道和崎岖的山丘，让你置身于一场刺激的冒险之中。这种极速穿越大自然的方式，让你能够在短时间内体验到乌布多样的地形和风光，绝对是冒险者的最爱。请参考 [巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/zh-cn/blog/bali-atv-adventure-guide/)
 
 预订行程：
 
-- [ATV竹林、山洞、瀑布等地形探险](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74631-atv-quad-bike-adventure-abiansila-ubud-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8a8414c7af)
-- [ATV越野之旅（可加购摄影师）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4c8008d13d)
-- [ATV + 泛舟（含午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F18269-atv-ride-ayung-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6559bd8a2d)
+> [ATV竹林、山洞、瀑布等地形探险](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74631-atv-quad-bike-adventure-abiansila-ubud-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8a8414c7af)
+
+[> ATV越野之旅（可加购摄影师）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4c8008d13d)
+
+[> ATV + 泛舟（含午餐）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=892431&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F18269-atv-ride-ayung-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6559bd8a2d)
 
 上面介绍的这20项景点和活动构成了乌布丰富多彩的旅游体验，无论你是喜爱自然景观、文化艺术还是冒险活动，乌布都能满足你的需求。
 
@@ -304,7 +317,7 @@ Cretya Ubud 开放时间为每天上午 8 点至晚上 9 点。成人入场费�
 
 希望这份清单能帮助你规划一个难忘的乌布之旅！
 
-如果你不是第一次来，想要更深入乌布的朋友，还可以参考「[乌布完整攻略：100种深入认识乌布的方式](/zh-cn/blog/ubud-guide/)」，带你更进一步深入乌布喔！
+如果你不是第一次来，想要更深入乌布的朋友，还可以参考「[乌布完整攻略：100种深入了解乌布的方式](/zh-cn/blog/ubud-guide/)」，带你更进一步深入乌布喔！
 
 > 延伸阅读：[巴厘岛旅游注意事项：第一次去巴厘岛必看的32项旅游攻略](/zh-cn/blog/bali-ultimate-guide-2026/)
 

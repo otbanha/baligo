@@ -3,7 +3,6 @@ title: 水上活动被
 slug: bali-budget-trip-11-days
 description: 巴厘岛11天10夜自由行深度游记
 pubDate: 2025-02-25T00:00:00.000Z
-updatedDate: 2026-07-21T00:00:00.000Z
 pubHour: null
 category:
   - 遊記分享
@@ -14,24 +13,28 @@ tags:
   - 巴里島
   - 費用
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc4cd7d779889b43776f8be643f11145.jpg'
+imageAlt: ''
 originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
+updatedDate: 2026-11-17T00:00:00.000Z
+contentUpdatedAt: '2026-11-17T11:10:31+08:00'
 update: 2026/05/23
 lang: zh-cn
-_srcHash: cc8f3c55527e6a103ac97cea04ba6654
+_srcHash: 125280f871126e9e78f9f878aecd791a
 ---
-[> 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：]
 
-**先说结论**：11天10夜两人行实际花费——机票约USD$858、乌布住宿5晚USD$262、金巴兰住宿5晚USD$290、观光税+落地签等杂项约USD$113，性价比高的关键是**选对住宿地点**（乌布丛林宁静区＋金巴兰步行5分钟到海边）。标题提到的「水上活动被宰」是入园纠纷的真实教训，详见下方行程记录。
+> 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：
+
+**先讲结论**：11 天 10 夜两人行实际花费——机票约 USD$858、乌布住宿 5 晚 USD$262、金巴兰住宿 5 晚 USD$290、观光税+落地签等杂项约 USD$113，性价比高的关键是**选对住宿地点**（乌布丛林宁静区＋金巴兰步行 5 分钟到海边）。标题提到的「水上活动被宰」是入园纠纷的真实教训，详见下方行程记录。
 
 ## 巴厘岛11天10夜自由行深度游记
 
 ## 行程概览
 
-- **日期**：2025年1月1日（三）至2025年1月11日（六）
+- **日期**：2025年1月1日（周三）至2025年1月11日（周六）
 - **机票**：中华航空，价格约USD$858/2人
 - **住宿**：
 - - **乌布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)，5晚共262美元，享受原始丛林的宁静与鸟鸣。
-    - **金巴兰**：[Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670)，5晚共290美元，步行5分钟即可到达海边，感受黄金夕阳与海浪声的魅力。
+    - **金巴兰**：[Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670)，5晚共291美元，步行5分钟即可到达海边，感受黄金夕阳与海浪声的魅力。
 - **其他费用**：
 - - **观光税**：2人共21美元
     - **健康表格申报**：出发当天填写，网址：[健康表格申报](https://sshp.kemkes.go.id/register?travel_mode=Air)
@@ -41,7 +44,7 @@ _srcHash: cc8f3c55527e6a103ac97cea04ba6654
     - **机场送机**：包车司机免费送至机场
   **快速参考：**
 
-> [2026巴厘岛入境变革一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/2025-bali-immigration-process/)
+> [一分钟搞懂：印尼/巴厘岛入境流程 - 下飞机/过海关/到领行李的流程](/zh-cn/blog/2025-bali-immigration-process/)
 
 ## 详细行程
 
@@ -49,8 +52,7 @@ _srcHash: cc8f3c55527e6a103ac97cea04ba6654
 
 晚上 6 点，我们抵达乌布酒店，正式展开这次旅程。巴厘岛的夜晚充满热带风情，空气中弥漫着淡淡的花香，让人瞬间感到放松与愉悦。放下行李后，我们走到外面热闹的街道用餐，非常多餐厅可以选择。并早早休息以迎接第二天的冒险。
 
-参考我们的住宿：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)
-  ---
+> 参考我们的住宿：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-684992/bhuwana-ubud-hotel-and-farm/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/HvLmsISG)
 
 ## **第二天（1 月 2 日，四）— 探索丛林与漂流冒险**
 
@@ -67,14 +69,13 @@ ATV / 漂流泛舟不会翻船
 
 有趣的是，我们的同行旅客中竟然有一位外国人穿着高跟鞋参加漂流，场面实在让人莞尔！
 
-🏎️巴厘岛ATV活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)
+> 🏎️巴厘岛ATV活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520ATV%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D28594dcbf2)
 
-🚣巴厘岛泛舟活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
-  ---
+> 🚣巴厘岛漂流活动 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E6%25B3%259B%25E8%2588%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8c8ac92422)
 
-## **第三天（1 月 3 日，五）— 巴**杜**尔火山日出吉普车之旅**
+## **第三天（1 月 3 日，五）— 巴杜尔火山日出吉普车之旅**
 
-### **巴**杜**尔火山日出吉普车**
+### **巴杜尔火山日出吉普车**
 
   **费用**：USD$141/2人（Klook 预订）
   **集合时间**：凌晨 2:50
@@ -89,10 +90,9 @@ ATV / 漂流泛舟不会翻船
 
   **小建议**：记得穿长袖外套，山顶的清晨气温相当低。我们当时只穿短袖短裤，冷到直发抖，但这段经历却成了我们的难忘回忆。
 
-🌋巴杜尔火山日出 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B7%25B4%25E6%259D%259C%25E7%2588%25BE%26spm%3DCity.TopNavigation.SearchInput%26clickId%3D0806a38436)
-  ---
+> 🌋巴杜尔火山日出 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B7%25B4%25E6%259D%259C%25E7%2588%25BE%26spm%3DCity.TopNavigation.SearchInput%26clickId%3D0806a38436)
 
-## **第四天（1 月 4 日，六）— 乌布文化与市集探索**
+## **第四天（1月4日，六）— 乌布文化与市集探索**
 
 ![聖猴公園](https://images.gobaligo.id/vocus/vocus_a5d878122e2993e138a29dc7b0cc9935.jpg)
 
@@ -102,7 +102,7 @@ ATV / 漂流泛舟不会翻船
 
 https://youtu.be/JtxZHtijEkE
 
-车费约 USD$4，游览 20 分钟，感受巴厘岛传统建筑的艺术之美。
+车费约USD$4，游览20分钟，感受巴厘岛传统建筑的艺术之美。
 
 ### **乌布市集**
 
@@ -110,20 +110,19 @@ https://youtu.be/JtxZHtijEkE
 
 ### **乌布水皇宫**
 
-门票约 14 万印尼盾，湖面倒映着传统建筑，画面美如明信片。
+门票约USD$45，湖面倒映着传统建筑，画面美如明信片。
 
-> 💰 想知道更多景点的参考票价吗？**[巴厘岛门票票价总表](/zh-cn/tickets/)** 整理了 49 个热门景点的实时参考价，并附 Klook／Trip.com 比价链接。
+> 💰 想知道更多景点的参考票价吗？[巴厘岛门票票价总表](/zh-cn/tickets/) 整理了49个热门景点的即时参考价，并附Klook／Trip.com比价链接。
 
 ### **圣猴森林公园**
 
-门票 USD$16，游览约 1 小时。猴子们非常调皮，记得保管好物品。
+门票 16 美元，游览约 1 小时。猴子们非常调皮，记得保管好物品。
 
 这一天我们深入感受了乌布的文化氛围，拍摄了大量精美照片，收获满满。
 
 https://youtube.com/shorts/tpPWsvsH-Eo
 
-🐒乌布圣猴森林公园门票▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D39f6fcbd47)
-  ---
+> 🐒乌布圣猴森林公园门票▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F67185-sacred-monkey-forest-ubud-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D39f6fcbd47)
 
 ## **第五天（1 月 5 日，日）— 巴厘岛野生动物园**
 
@@ -140,14 +139,13 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 如果有带小朋友的家庭，建议安排这个行程，孩子一定会玩得非常开心。动物园的餐饮选择也不错，我们在园内用餐后继续游玩，直到下午四点才意犹未尽地返回酒店休息。
 
-🦒巴厘岛野生动物园门票▶[Klook优惠](https://affiliate.klook.com/my_ads/text_links?ad_id=988904&type=all)
+> 🦒巴厘岛野生动物园门票▶[Klook优惠](https://affiliate.klook.com/my_ads/text_links?ad_id=988904&type=all)
 
 > 编按：在巴厘岛野生动物园隔壁，有一个2025新开幕的海洋公园，详细介绍请看[这里](/zh-cn/blog/marine-safari-bali-guide/)
 
 ![遊客可以近距離觸摸鯊魚和魟魚。除此之外還有企鵝、食人魚、水豚君...等，看看我們的介紹喔！](https://images.gobaligo.id/vocus/vocus_d1f018ab990e090d0f3afd49608a82a8.png)
 
 [游客可以近距离触摸鲨鱼和魟鱼。除此之外还有企鹅、食人鱼、水豚君...等，看看我们的介绍喔！](/zh-cn/blog/marine-safari-bali-guide/)
-  ---
 
 ## **第六天（1 月 6 日，一）— 自然与文化之旅：水神庙、圣泉寺与德哥拉朗梯田**
 
@@ -162,7 +160,7 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 布拉坦湖水神庙是一个值得一去的景点。这座寺庙坐落于湖畔，与清澈的湖水相映，景色如诗如画，让人仿佛置身童话世界。我们在这里还体验了抱麝香猫拍照与喂食，这些小动物非常可爱，非常适合与家人或朋友一起拍照留念。现场还有麝香咖啡可以品尝，一杯约 71,500 印尼盾，香气浓郁，非常特别，是不可错过的体验！
 
-🏞️水神庙探索 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B0%25B4%25E7%25A5%259E%25E5%25BB%259F%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D628a0af5e1)
+> 🏞️水神庙探索 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B0%25B4%25E7%25A5%259E%25E5%25BB%259F%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D628a0af5e1)
 
 ### **圣泉寺**
 
@@ -170,11 +168,11 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 圣泉寺是巴厘岛著名的宗教圣地，许多当地人会前来进行沐浴祈福的仪式。虽然我们没有参与洗圣水，但光是观赏当地人的仪式，就能感受到浓厚的宗教氛围。如果对宗教文化特别感兴趣，这里值得一去；若时间有限，这个景点可视情况安排。
 
-🛕💦🙏圣泉寺沐浴祈福、感受自然与文化的融合 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D65b018ea8e)（注意：链接中的zh-TW未修改，但按要求保留原样）
+> 🛕💦🙏圣泉寺沐浴祈福、感受自然与文化的融合 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D65b018ea8e)
 
 ### **德哥拉朗梯田**
 
-  **门票费用**：7美元（约203元台币）
+  **门票费用**：USD$7
 
 ![德哥拉朗梯田](https://images.gobaligo.id/vocus/vocus_633e3a95afc0cd64f57f4c94319ffe5b.jpg)
 
@@ -182,21 +180,20 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 下午我们前往德哥拉朗梯田 Alas Harum，这是巴厘岛最具代表性的自然景观之一，层层叠叠的稻田宛如一幅大自然的画作。我们在这里停留了整个下午，拍了许多美照，也在田间小径悠闲漫步，感受大自然的静谧。由于当天下雨，我们原本计划体验的乌布丛林秋千取消了，但梯田的美景已经让我们觉得非常值得。
 
-🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)（注意：链接中的zh-TW未修改，但按要求保留原样）
+> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
 
 {{block:ubud}}
 
 ### **晚餐：金巴兰海滩餐厅**
 
-  **花费**：44美元（约1366元台币）
+  **花费**：44美元
 
 结束梯田之旅后，我们前往金巴兰海滩享用晚餐。在夕阳西下的背景下，我们品尝了新鲜的海鲜料理，这顿浪漫的晚餐成了当天的完美结尾。
   **快速参考：**
 
 > [巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/zh-cn/blog/jimbaran-seafood-restaurants-list/)
->   ---
 
-## **第七天（1月7日，周二）— 海神庙与悬崖酒吧的绝美日落**
+## **第七天（1 月 7 日，二）— 海神庙与悬崖酒吧的绝美日落**
 
 ### **海神庙**
 
@@ -206,14 +203,11 @@ https://youtube.com/shorts/tpPWsvsH-Eo
 
 早上，我们提早出发以避开交通堵塞，顺利抵达海神庙。这座建筑位于海中岩石上，涨潮时整个寺庙被海水包围，景观非常壮丽，独一无二，是巴厘岛不可错过的地标景点。我们拍了许多照片，感受到了自然与宗教的结合之美。
 
-🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%25B5%25B7%25E7%25A5%259E%25E5%25BB%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3Dfc4a1f4dc2)
-  **快速参考：**
-
-[海神庙票价、退潮时间、周边景点介绍](/zh-cn/blog/bali-tanah-lot-guide/)
+> [海神庙票价、退潮时间、周边景点介绍](/zh-cn/blog/bali-tanah-lot-guide/)
 
 ### **午餐：烤猪饭（Babi Guling）**
 
-  **花费**：USD$10
+  **花费**：10美元
 
 中午，司机带我们去了一家当地人推荐的烤猪饭餐厅，猪肉烤得外酥内嫩，搭配巴厘岛特制辣酱，味道非常惊艳！这样的隐藏版美食，只有当地人才知道，强烈推荐给大家。
 
@@ -227,11 +221,7 @@ Rock Bar 是巴厘岛最知名的悬崖酒吧之一，坐落于海边悬崖上�
 
 https://youtube.com/shorts/tHRxnJqxqbw
 
-
-  **快速参考：**
-
 > [巴厘岛金巴兰岩石酒吧 Rock Bar 如何预约？完整体验攻略！](/zh-cn/blog/bali-rock-bar-reservation-guide/)
->   ---
 
 ## **第八天（1 月 8 日，三）— 南湾水上活动大冒险**
 
@@ -241,12 +231,9 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 这天我们前往南湾参加水上活动，包括浮潜、划船和香蕉船等项目。需要特别提醒的是，我们没有提前在 Klook 预订票券，导致现场购买价格高出许多，这点成了旅程中的一个小遗憾。我们选了 **飞鱼（Flying Fish）** 和 **拖曳伞（Parasailing），**我们两人共花了2,700,000 印尼盾（约174美元/两人）...
 
-如果有计划参加南湾的水上活动，不要像我沒有事先研究好，结果多付了好几倍的钱！**务必提前在网上订票**，不只能省下大笔费用，也能避免到现场被当「冤大头」的情况。
+如果有计划参加南湾的水上活动，不要像我一样没有事先研究好，结果多付了好几倍的钱！**务必提前在网上订票**，不仅能省下大笔费用，也能避免到现场被当「冤大头」的情况。
 
-## 延伸阅读：[巴厘岛南湾水上活动介绍](/zh-cn/blog/tanjung-benoa-water-activities/)
-
-🏖️🌊🚤南湾水上活动，拖曳伞、浮潜、海底漫步、香蕉船体验 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)  ▶[Trip优惠](https://tw.trip.com/travel-guide/attraction/bali/tanjung-benoa-watersports-33461755?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
-  ---
+> [【巴厘岛水上活动指南】15 种必玩体验：从初阶冲浪、沉船潜水到激流泛舟](https://gobaligo.id/zh-cn/blog/2026-bali-water-activities/)
 
 ## **第九天（1 月 9 日，四）— 蓝色断崖与乌鲁瓦图庙火舞表演**
 
@@ -256,7 +243,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 ![藍色公路](https://images.gobaligo.id/vocus/vocus_dfb4281a0aa43733669ec08ef1cb4e0b.jpg)
 
-🏖️🪨🌊探索蓝色公路悬崖之美，劈开的壮丽景观，随手一拍就是 Instagram 打卡胜地！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
+> 🏖️🪨🌊探索蓝色公路悬崖之美，劈开的壮丽景观，随手一拍就是 Instagram 打卡胜地！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
 ### **乌鲁瓦图庙与火舞表演**
 
@@ -268,7 +255,7 @@ https://youtube.com/shorts/tHRxnJqxqbw
 
 下午我们抵达乌鲁瓦图庙，这座寺庙位于高耸的悬崖上，能俯瞰印度洋的壮丽景色。傍晚时分，我们观赏了传统的火舞表演。舞者们身穿鲜艳的服饰，伴随着鼓声与火焰，表演充满巴厘岛的文化魅力，加上夕阳映照悬崖，整个场景美得让人屏息。这绝对是必去的经典景点之一！
 
-🛕🌊🌅 乌鲁瓦图庙 ，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F) [Trip优惠](https://tw.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-TW&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
+[> 🛕🌊🌅 乌鲁瓦图庙，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F) [Trip优惠](https://tw.trip.com/travel-guide/attraction/bali/kecak-dance-uluwatu-136629489?curr=IDR&locale=zh-TW&poiType=66&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
 {{block:uluwatu}}
 
@@ -279,16 +266,14 @@ https://youtube.com/shorts/tHRxnJqxqbw
 Icon Bali
 
 这天我们安排了一个轻松的行程，上午 11 点出发前往 **Icon Bali** 与 **水明漾区**。虽然我们购物欲望不强，但沿街散步，享受咖啡与美食，感受当地时尚氛围，也是很惬意的一天。水明漾的街区有许多精品店与设计师品牌商店，是购物爱好者的天堂！
-  **Icon Bali里有什么？请看小杰的介绍：**
+  **Icon Bali里头有什么？请看小杰的介绍：**
 
 https://youtu.be/hdIKOX5wghU
-
 
   **快速参考：**
 
 - [巴厘岛水明漾100个景点攻略](/zh-cn/blog/seminyak-guide/)
 - [Sanur 50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
-  ---
 
 ## **第十一天（1 月 11 日，六）— 结束愉快的旅程**
 
@@ -298,7 +283,7 @@ https://youtu.be/hdIKOX5wghU
 
 - **按摩体验**：热石按摩与精油按摩，司机推荐，品质保证且价格优惠。我们在旅程中安排了两次按摩，第一次是热石按摩，第二次是精油按摩，两次体验都非常棒，让我们彻底放松身心。
 
-💆‍♀️🌿🕯️在巴厘岛享受一次超放松的SPA，搭配芳香疗法与热石按摩😌，让身心彻底舒缓！▶[各区域的好评SPA推荐](/zh-cn/blog/spa/)
+> 💆‍♀️🌿🕯️在巴厘岛享受一次超放松的SPA，搭配芳香疗法与热石按摩😌，让身心彻底舒缓！▶[各区域的好评SPA推荐](/zh-cn/blog/spa/)
 
 - **包车服务**：推荐使用包车司机，可根据个人喜好规划行程，司机会提供最佳路线建议。我们的司机Ok Bali非常专业，中文流利，还会讲解巴厘岛的历史和文化，让我们对这个地方有了更深的了解。
 
@@ -308,7 +293,7 @@ https://youtu.be/hdIKOX5wghU
 
 右手边是我们这几天的司机，他的名字就叫「Ok」。体贴、细心、不飙车、不抽烟、守时的Ok司机——其实超多优点
 
-🚗👨‍✈️🌴在巴厘岛旅游，包车司机是你的最佳旅伴！他们熟悉当地路线，热情又专业，带你畅游巴厘岛▶[包车司机推荐名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
+> 🚗👨‍✈️🌴在巴厘岛旅游，包车司机是你的最佳旅伴！他们熟悉当地路线，热情又专业，带你畅游巴厘岛▶[包车司机推荐名人榜](/zh-cn/blog/bali-private-car-drivers-guide/)
 
 ## 结语
 
