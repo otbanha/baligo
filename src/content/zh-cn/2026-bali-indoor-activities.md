@@ -1,9 +1,9 @@
 ---
-title: 【2026 巴厘岛下雨/躲太阳行程备选】下雨躲太阳必看！60 个超强室内行程：从新开业购物中心、五星级下午茶到顶级手作体验
+title: 【2026 巴厘岛下雨/躲太阳行程备选】下雨躲太阳必看！60+个超强室内行程：从新开业购物中心、五星级下午茶到顶级手作体验
 slug: 2026-bali-indoor-activities
 description: >-
-  计划去巴厘岛却遇上雨季？或是想找地方躲避烈日酷暑？深度整理60个全岛最强室内行程备选：包括2026全新开业的Icon
-  Bali购物中心、适合家庭的室内游乐场、各区顶级SPA与五星级酒店下午茶推荐。本篇涵盖乌布、坎古、沙努尔和努沙杜瓦，教您如何不让天气影响度假心情，把室内行程玩得比户外更精彩！
+  计划去巴厘岛却遇上雨季？或是想找地方躲避烈日酷暑？深度整理60+个全岛最强室内行程备选：包含2026全新开业的Icon
+  Bali购物中心、适合家庭的室内游乐场、各区顶级SPA与五星级酒店下午茶推荐。本篇涵盖乌布、坎古、沙努尔、努沙杜瓦，教您如何不让天气影响度假心情，把室内行程玩得比户外更精彩！
 pubDate: 2024-01-06T00:00:00.000Z
 pubHour: null
 category:
@@ -20,22 +20,22 @@ tags:
   - 巴厘岛雨季旅遊攻略
   - 峇里島頂級 SPA 評價
   - Bali indoor activities for rain
-heroImage: 'https://images.gobaligo.id/images/2026-08/1786792191505-planb.jpg'
+heroImage: 'https://images.gobaligo.id/images/2026-11/1795013099037-15701.jpg'
 imageAlt: ''
-contentUpdatedAt: '2026-11-13T22:08:13+08:00'
 originalUrl: 'https://vocus.cc/article/6598c6fffd89780001047d76'
+contentUpdatedAt: '2026-11-18T22:47:17+08:00'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-11-13T00:00:00.000Z
+updatedDate: 2026-11-18T00:00:00.000Z
 lang: zh-cn
-_srcHash: 29d5a346d60d10e95ab0c6c5ee196e6d
+_srcHash: b3b24a3d836ef660715708f12b8dc6ea
 ---
 
 **先说结论**：下雨或想躲太阳时，库塔区首选 **Trans Studio Bali**（大型购物中心顶楼室内主题乐园，7大主题区、23个游乐设施，玩一整天都玩不完）；其他区域则有新开业的Icon Bali购物中心、五星酒店下午茶、乌布手作课程等备选。本文按乌布、坎古、沙努尔、努沙杜瓦分区整理60个室内行程。
 
 在**巴厘岛**度假，最怕遇到突如其来的午后雷阵雨，或是正午时分让人难以招架的烈日烈阳。不过，千万别让天气打乱您的度假兴致！这座岛屿除了绝美海景，其实隐藏着无数极具质感的室内空间。无论想在空调房里悠闲逛街、带着孩子在五星级室内游乐场放电，还是在烟雨蒙蒙的乌布山林间体验一场静谧的手作银饰课程，这60个精心挑选的室内备选，将带您发现**巴厘岛**另一种精致且舒适的玩法。
 
-出门前先看一眼[巴厘岛即时天气](/zh-cn/weather/)，确认今天是真的需要备选，还是只是午后一小时的阵雨。
+出门前先看一眼[巴厘岛实时天气](/zh-cn/weather/)，确认今天是真的需要备选，还是只是午后一小时的阵雨。
 
 ![【2026 峇里島下雨/躲太陽行程備案】下雨躲太陽必看！60 個超強室內行程：從新開幕購物中心、五星級下午茶到頂級手作體](https://images.gobaligo.id/images/2026-04/1775523399587-mixcollage-07-apr-2026-07-56-am-5133.jpg)
 
@@ -45,15 +45,26 @@ _srcHash: 29d5a346d60d10e95ab0c6c5ee196e6d
 
 如果你人在库塔这一带，遇到下雨天/大太阳不妨安排下列的备选：
 
+### Beachwalk Shopping Center｜海滩对面的逛街、看电影、用餐一次完成
+
+位于库塔海滩对面的Beachwalk，一个地方就能排满半天行程。二楼有Cinema XXI电影院，下雨天可以直接看场电影。购物有Zara、Uniqlo、H&M、Sephora、The Body Shop，也有Bamboo Blonde、Bali Tees这类巴厘岛本地品牌。餐饮选择很多，印尼菜有Bebek Tepi Sawah、Mr. Wayan by The Sea，日式有Sushi Tei、Genki Sushi、Gyu-Kaku、Kimukatsu。地下一楼B1有Cocomart超市，Candylicious糖果店很适合带小朋友。
+
+- 地址：Jl. Pantai Kuta No. 60, Kuta
+- 营业时间：周一至周四 10:00–22:00，周五至周日 10:00–23:00
+- 建议停留：逛街加用餐约 2–3 小时，加看电影或去海滩可安排半天
+- 小提醒：建筑是开放式、半户外设计，有绿植、水景和自然光。午后大雨或日晒很强时，建议以电影院和室内店家为主。傍晚逛完可以直接走去海滩看夕阳。
+
+> 完整介绍：[Beachwalk Shopping Center](https://gobaligo.id/zh-cn/blog/Beachwalk-Shopping-Center/)
+
 ### Trans Studio Bali
 
 Trans Studio Bali 是在库塔靠近水明漾一个受欢迎的旅游景点。它适合所有年龄段的人，是家庭和朋友出游的好去处。
 
 https://youtube.com/shorts/POSTtRPKK5c
 
-Trans Studio Bali本身就是一个大型购物中心，而位于顶楼的超大室内游乐场有七大主题区，拥有23个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划无法进行，请不要担心！Trans Studio Bali室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
+Trans Studio Bali本身就是一个大型购物中心，而位在顶楼的超大室内游乐场有七大主题区，拥有 23 个游乐设施和景点，玩一整天都玩不完！如果您在巴厘岛旅行时遇到下雨，原来的计划不克成行，请不要担心！Trans Studio Bali 室内主题乐园将为您提供一个充满乐趣和刺激的一天。请看上面小杰介绍的短片。
 
-详细介绍：[【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
+> 详细介绍：[【巴厘岛室内景点】Trans Studio Bali 完全攻略：必玩五大设施](/zh-cn/blog/trans-studio-bali/)
 
 > [Trans Studio优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794706&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D80fb6fdbba)
 
@@ -65,19 +76,19 @@ Trans Studio Bali本身就是一个大型购物中心，而位于顶楼的超大
 
 在巴厘岛颠倒屋拍出令人惊异的照片
 
-Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个特别设计的房间，装潢和家具都是颠倒的。您可以和家人朋友一起来这里度过愉快的一天，拍摄许多有趣的照片。翻转照片后，您会发现自己本来很挫地被工作人员指导姿势，拍出来的照片却在做着不可思议的事！
+Upside Down World Bali是巴厘岛上一个有趣的景点。 这个景点有7个特别设计的房间，装潢和家具都是颠倒的。 你可以和家人和朋友一起来这里度过愉快的一天，拍摄许多有趣的照片。 翻转照片后，你会发现自己本来很挫地被工作人员指导姿势，拍出来的照片却在做着不可思议的事！
 
 ### 冰刀溜冰场
 
 ![冰刀溜冰場](https://images.gobaligo.id/vocus/vocus_ed02bd7b74729a4efdb65c31a67a5cbf.png)
 
-想在巴厘岛炎热的天气或是下雨的日子中寻找不一样的消暑方式吗？来到库塔的MAL BALI GALERIA，西翼3楼**Bali Ice Skating Arena**，享受溜冰的乐趣吧！这里的冰场让您感觉自己像是溜冰高手，展示您的滑行技巧，自由地在冰面上漂移。
+想在巴厘岛炎热的天气或是下雨的日子中寻找不一样的消暑方式吗？来到库塔的MAL BALI GALERIA，西翼 3 楼 **Bali Ice Skating Arena**，享受溜冰的乐趣吧！这里的冰场让你感觉自己像是溜冰高手，展示你的滑行技巧，自由地在冰面上漂移。
 
 冰场每场次限额45位滑冰者，每张门票可享受1.5小时的滑冰体验。无论是与朋友还是家人一起，你都可以在冰冷的冰面上度过一次令人兴奋的溜冰时光！Bali Ice Skating Arena 是雨天或炎热天气里消暑、娱乐的好去处。
 
-> 💰 想知道更多景点的参考票价吗？\*\*[巴厘岛门票票价总表](/zh-cn/tickets/)\*\* 整理了 49 个热门景点的即时参考价，并附 Klook／Trip.com 比价链接。
+> 💰 想知道更多景点的参考票价吗？[巴厘岛门票票价总表](/zh-cn/tickets/) 整理了 49 个热门景点的即时参考价，并附 Klook／Trip.com 比价链接。
 
-- [Bali Ice Skating Arena门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F54334-bali-ice-skating-arena-ticket-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D9cbe7555cd)（须先预购，有人数限制）
+> [Bali Ice Skating Arena门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F54334-bali-ice-skating-arena-ticket-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D9cbe7555cd)（须先预购，有人数限制）
 
 ### 🎮 ZONE OUT Bali：库塔最酷的室内VR冒险基地！
 
@@ -85,11 +96,11 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 
 想在巴厘岛找个不怕晒、不怕下雨，又超好玩的活动吗？位于库塔雷吉安的 ZONE OUT Bali 绝对是你的不二选择！这家高科技室内乐园主打 VR虚拟现实体验，让你化身赛车手、太空探险家、甚至丧尸猎人，在超逼真的场景中尽情冒险。
 
-这里有各式刺激游戏可选：赛车、射击、恐怖、冒险、云霄飞车等，设备新颖、画面沉浸感十足，无论大人小孩都能玩得开心。地点位于库塔闹区，交通方便，是雨天或午后休闲的理想选择。
+这里有各式刺激游戏可选：赛车、射击、恐怖、冒险、过山车等，设备新颖、画面沉浸感十足，无论大人小孩都能玩得开心。地点位于库塔闹区，交通方便，是雨天或午后休闲的理想选择。
 
-详细介绍在[这里](/zh-cn/blog/zone-out-bali-vr-adventure/)
+> 详细介绍在[这里](/zh-cn/blog/zone-out-bali-vr-adventure/)
 
-**Klook订票**：[链接点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1155611&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F182303-zoneout-ticket-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D609046a554)
+> **Klook订票**：[链接点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1155611&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F182303-zoneout-ticket-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D609046a554)
 
 ### 去购物
 
@@ -117,15 +128,15 @@ Upside Down World Bali是巴厘岛上一个有趣的景点。这个景点有7个
 
 ## 水明漾
 
-在水明漾的朋友，碰到下雨天以下的备案可以让你优哉地度过下雨的时间：
+在水明漾的朋友，碰到下雨天以下的备选方案可以让你悠闲地度过下雨的时间：
 
 ### Purpa Fine Art Gallery
 
 ![藝廊的經理Ari Purpa(右)還是個美女喔](https://images.gobaligo.id/vocus/vocus_3db1a26720214b9348cc5617b0479d74.jpg)
 
-画廊的经理Ari Purpa(右)还是个美女喔
+画廊的经理Ari Purpa（右）还是个美女哦
 
-Purpa Fine Art Gallery 提供独特的当代艺术收藏，展示了来自成熟艺术家和新兴艺术家的作品。我们不仅代表了多数的印尼艺术家，还包括那些居住在巴厘岛或在此逗留的各国艺术家。其中一些艺术家已在全球范围内获得认可，如 Walter Spies、Antonio Blanco、Hans Snell、I Gusti Nyoman Lempad、Miguel Covarrubias、Arie Smit、Krijono 等等。
+Purpa Fine Art Gallery 提供独特的当代艺术收藏，展示了来自成熟艺术家和新锐艺术家的作品。我们不仅代表了多数的印尼艺术家，还包括那些居住在巴厘岛或在此逗留的各国艺术家。其中一些艺术家已在全球范围内获得认可，如 Walter Spies、Antonio Blanco、Hans Snell、I Gusti Nyoman Lempad、Miguel Covarrubias、Arie Smit、Krijono 等等。
 
 除了这个画廊，当地还有其他几个有名的画廊：
 
@@ -134,7 +145,7 @@ Purpa Fine Art Gallery 提供独特的当代艺术收藏，展示了来自成熟
 - Buddha Gallery-专卖各种佛陀艺品
 - The Gallery
 
-这里有[地图指南](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️
+> 这里有[地图指南](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️
 
 ### Shooter Bali
 
@@ -142,13 +153,11 @@ https://youtube.com/shorts/A4oeJvzmdTU
 
 SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒吧。在SHOOTERS，您不仅仅是坐在电视前观看比赛，而是亲自参与其中。从充满趣味设计的迷你高尔夫球场，到练习投斧、射击场、篮球投掷，甚至还有适合轻松享受的草地滚球，SHOOTERS 提供的游戏几乎适合所有人，让每个人都能找到自己的乐趣。
 
-这里有[地图指南](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️
-
 ### 购物
 
 ![購物](https://images.gobaligo.id/vocus/vocus_21b20c72ddb3adc1f8b85870c9b75792.jpg)
 
-如果遇到下雨天，可以来到 Seminyak Village，一座充满现代感的玻璃与光影结合的建筑，这里是巴厘岛时尚的购物和美食天堂。位于Seminyak的中心地带，这座生活商场为亚洲各大海滩度假村常见的购物场景增添了新的维度。不仅如此，旁边就是 Seminyak Square，让您在雨天也能享受舒适的购物与餐饮体验。
+如果遇到下雨天，可以来到 Seminyak Village，一座充满现代感的玻璃与光影结合的建筑，这里是巴厘岛时尚的购物和美食天堂。位于水明漾的中心地带，这座生活商场为亚洲各大海滩度假村常见的购物场景增添了新的维度。不仅如此，旁边就是 Seminyak Square，让您在雨天也能享受舒适的购物与餐饮体验。
 
 ### 参加手作坊
 
@@ -156,14 +165,25 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 
 在水明漾遇到下雨天，不妨来参加一场有趣的烹饪课程，为雨天增添一点色彩！水明漾有许多专为美食爱好者设计的手作坊，无论是学习如何制作传统的印尼料理，还是尝试异国风味的甜点，都能让你体验到亲手制作的乐趣。这些课程不仅适合初学者，也能满足进阶厨师的创作欲望。在专业厨师的指导下，享受美食与创作的结合，与朋友或家人一起度过一个充实又有趣的雨天。以下是一些你可以线上预约课程的地方：
 
-- [Warung Nia印尼料理烹饪课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19201-nia-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbad8f6f743)
-- [Peppers Seminyak 的Laneway烹饪班](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113078-the-laneway-cooking-class-at-peppers-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7451d84a30)
-- [星巴克Reserve Dewata咖啡大师课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127649-starbucks-reserve-dewata-coffee-experience-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd6c14650a8)
-- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
+> [Warung Nia印尼料理烹饪课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19201-nia-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbad8f6f743)
+
+> [Peppers Seminyak 的Laneway烹饪班](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113078-the-laneway-cooking-class-at-peppers-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7451d84a30)
+
+[> [星巴克Reserve Dewata咖啡大师课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127649-starbucks-reserve-dewata-coffee-experience-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd6c14650a8)
+
+> [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
 
 在水明漾的 Umah，你能亲手调制专属香氛，从蜡烛、居家喷雾到个人香水都能打造。工艺师会介绍香气基础，提供多达 80 种取材自巴厘岛植物的香氛素材，带你踏上一段探索自我风格的气味旅程。完成后还能带走独一无二的香氛作品，是雨天或疗愈系行程的理想选择。
 
-- [Umah Living Bali蜡烛和室内喷雾制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1185774&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169161-candle-and-room-spray-making-class-at-umah-living-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deeec642300)
+> [Umah Living Bali蜡烛和室内喷雾制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1185774&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169161-candle-and-room-spray-making-class-at-umah-living-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deeec642300)
+
+### Pet Nirvana 宠物天堂
+
+![](https://images.gobaligo.id/images/2026-09/1788959029113-pet_nirvana.jpg)
+
+想在水明漾找个室内外都能待的地方，Pet Nirvana 可以一次玩上好几个小时。园区有宠物互动区、咖啡馆餐饮和高级宠物沙龙，动物包括超过 15 只狗、4 只猫、2 只浣熊，还有蛇和乌龟。互动区和咖啡馆都有室内外空间，建议先在 Klook 预订，通常比现场购票便宜，也能确保位置。票价从 USD$18 起，建议停留 3–4 小时。 
+
+> 完整介绍：[巴厘岛宠物天堂 Pet Nirvana](https://gobaligo.id/zh-cn/blog/bali-pet-nirvana/)
 
 {{block:smk}}
 
@@ -199,29 +219,31 @@ SHOOTERS 是位于热闹的Jalan Petitenget街上一家与众不同的运动酒�
 
 来到**Strike Bowling Bali**，在下雨天也可以享受一个充满欢笑的保龄球时光！无论是家庭出游，还是和朋友、同事聚会，保龄球都是一个既有趣又能增进感情的好方式。Strike 提供巴厘岛最现代化的十瓶保龄球体验，拥有6条自动球道，并配有电脑计分系统。为了照顾小朋友（或其他任何人！），他们还设有防护栏，防止球滚进边沟。
 
-Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在比赛前、比赛中或比赛后都能满足你的饥饿与口渴。
+Strike 内设有的空调的餐厅和酒吧区，供应美食与饮品，让你在比赛前、比赛中或比赛后都能满足你的饥饿与口渴。
 
-不论你是3岁还是80岁，**Strike Bowling** **Bali**都是一个让你在享受乐趣的同时保持活力的绝佳选择。让美好的时光滚动起来吧！
+无论你是3岁还是80岁，**Strike Bowling** **巴厘岛**都是一个让你在享受乐趣的同时保持活力的绝佳选择。让美好的时光滚动起来吧！
 
-### 参加手作坊体验
+### 参加手作体验
 
 ![參加手作坊體驗](https://images.gobaligo.id/vocus/vocus_a9e14939d0a0d7cd0ddfbe64ece1edb3.png)
 
 如果在坎古遇到下雨天，也有许多有趣的手作体验等着你来探索！其中，银饰制作工作坊是个绝佳选择。你可以在这里学习如何将纯银打造成精美的饰品，无论是戒指、耳环还是吊坠，都能亲手设计和制作出专属于你的作品。这是一个结合创意与手工技艺的体验，不仅能带回一份独特的纪念品，也让你沉浸在制作过程的满足感中。
 
-- [坎古银饰制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df330c0b626)
+> [坎古银饰制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df330c0b626)
 
 除此之外，坎古的美食烹饪班同样值得一试。这里有许多专门教授印尼传统料理的课程，让你学习到当地最经典的烹饪技艺。从手工制作香料酱料到煮出美味的Nasi Goreng（印尼炒饭），你将有机会深入了解印尼的饮食文化，并在专业厨师的指导下，亲手完成一道道美味佳肴。即使在雨天，也能在这些工作坊中度过一个充实又充满创意的下午！
 
-- [Villa Canggu by Plataran烹饪课程体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D12dace727a)
-- [Blou Cafe Canggu 餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3ad128193d)
-- [Boheme Canggu 餐厅餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111755-dining-and-cooking-class-experience-at-boheme-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da09389494c)
+> [Villa Canggu by Plataran烹饪课程体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D12dace727a)
+
+> [Blou Cafe Canggu 餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3ad128193d)
+
+> [Boheme Canggu 餐厅餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111755-dining-and-cooking-class-experience-at-boheme-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da09389494c)
 
 ![raw-image](https://images.gobaligo.id/images/2026-11/1794556235165-15633.jpg)
 
 巴厘岛这两年悄悄流行起一件事：自己动手做一件比基尼。从选底色、配珠珠、搭肩带，到穿上身，每个细节都由你决定，不再是店里人人都有的那一件。坎古有 Mer.Made 和 Salome，乌鲁瓦图则有悬崖边的 Bonjour Bali Atelier，每间都有各自的风格，也都有人从头引导，即使没有手作经验也能安心玩。更棒的是，成品完全是你的专属款，穿去海边拍照、泡进泳池，都是独一无二的亮点。这不只是一次体验，更是一份带得走的旅行纪念。想让巴厘岛的度假回忆与众不同，就把一个下午留给这件小小的创作吧。
 
-[> [巴厘岛手工比基尼推荐|坎古、乌鲁瓦图三间DIY比基尼工作坊](https://gobaligo.id/zh-cn/blog/bali-diy-bikini-workshop/)
+> [巴厘岛手作比基尼推荐|坎古、乌鲁瓦图三间 DIY 比基尼工作坊](https://gobaligo.id/zh-cn/blog/bali-diy-bikini-workshop/)
 
 ### 瑜伽
 
@@ -229,32 +251,35 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 如果在下雨天想放松身心，坎古的瑜伽中心绝对是不错的选择。这里有许多知名的瑜伽场馆，让你在静谧的环境中舒展身心。比较有名的包括 **Guan Yin Yoga Shala**、**Canggu Yoga Centre**、**The Practice**、**Samasti Yoga**、和 **Samadi Bali Yoga Health Hub**。无论你是瑜伽新手还是有经验的习练者，这些地方都提供各种不同的课程，从静心冥想到高强度的瑜伽体式训练。雨天来这里，让自己在缓慢的呼吸中找到内心的平静，让身心重新充满能量。
 
-线上预订:
+在线预订:>
 
-- [Canggu Yoga Centre瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17fc7f020)
-- [Guan Yin瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96815-yoga-experience-guan-yin-yoga-shala-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D296be8316d)
-- [The Practice瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D627f689e6b)
-- [Samadi Bali瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D627f689e6b)
+> [Canggu Yoga Centre瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17fc7f020)
+
+> [Guan Yin瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96815-yoga-experience-guan-yin-yoga-shala-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D296be8316d)
+
+> [The Practice瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D627f689e6b)
+
+> [Samadi Bali瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D627f689e6b)
 
 ### **在坎古购物**
 
 ![在Love Anchor & Canggu Center購物](https://images.gobaligo.id/vocus/vocus_10ec4a262314307c49bf7f9ef148359f.jpg)
 
-即使在巴厘岛遇到雨天，也能在坎古找到乐趣！前往Love Anchor、Tropicalife Canggu、Lestari Thrift Shop与Canggu Center，不仅能避开坏天气，还能享受独特的购物与淘宝体验。
+即使在巴厘岛遇到雨天，也能在坎古找到乐趣！前往Love Anchor、Tropicalife Canggu、Lestari Thrift Shop与Canggu Center，不仅能避开坏天气，还能享受独特的购物与挖宝体验。
 
-**Love Anchor**是一个充满波西米亚风情的市场，售卖手工艺品、饰品和服饰；而充满海岛风情的**Tropicalife Canggu**则汇集了在地特色品牌与文创选品；喜欢独特风格的话，结合咖啡与寻宝乐趣的**Lestari Thrift Shop**则提供了丰富的二手服饰与配件。此外，**Canggu Center**则提供更多现代化的购物选择，无论是时尚单品还是当地特色产品，都能满足购物欲望。让雨天也充满惊喜与收获吧！
+**Love Anchor**是一个充满波西米亚风情的市场，贩售手工艺品、饰品和服饰；而充满海岛风情的**Tropicalife Canggu**则汇集了在地特色品牌与文创选品；喜欢独特风格的话，结合咖啡与寻宝乐趣的 **Lestari Thrift Shop** 则提供了丰富的二手服饰与配件。此外，**Canggu Center**则提供更多现代化的购物选择，无论是时尚单品还是当地特色产品，都能满足购物欲望。让雨天也充满惊喜与收获吧！
 
 {{block:canggu}}
 
 ## 乌布
 
-下雨的时候如果你人在乌布附近，这些活动你可以参考一下：
+下雨的时候如果你在乌布附近，这些活动你可以参考一下：
 
 ### 参加手作坊体验
 
 ![參加手作坊體驗](https://images.gobaligo.id/vocus/vocus_d6581c6040ade12c3dcdb42b1a7bc04c.jpg)
 
-乌布不仅是自然之美的宝库，还是艺术与手工艺的摇篮。参加蜡染、木雕、陶艺、银饰、巧克力等手作坊，是一次丰富的文化体验。这些工作坊不仅提供专业导师指导，还能让你亲手制作出具有巴厘岛风格的手工艺品，将当地艺术带回家，成为独特的纪念品。
+乌布不仅是自然之美的宝库，还是艺术与手工的摇篮。参加蜡染、木雕、陶艺、银饰、巧克力等手作坊，是一次丰富的文化体验。这些工作坊不仅提供专业导师指导，还能让你亲手制作出具有巴厘岛风格的手工艺品，将当地艺术带回家，成为独特的纪念品。
 
 > [银制品手工体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73060-silver-making-class-bali-artika-silver%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6673fed541)
 
@@ -266,7 +291,7 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 > [巧克力制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85144-chocolate-tour-crafting-sorga-chocolate-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3Dd779c40b8f)
 
-[椰子油制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16177-coconut-oil-class-balinese-family-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D9a7a2c1a40)
+> [椰子油制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16177-coconut-oil-class-balinese-family-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D9a7a2c1a40)
 
 ### 乌布美食烹饪班
 
@@ -274,13 +299,13 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 乌布的烹饪班为您提供深入体验当地饮食文化的绝佳机会。活动流程包含市场采购、料理技巧学习、亲自动手烹饪和品尝成果。参与者将与导师一同前往市场，挑选新鲜食材，并学习巴厘岛特有的烹饪技巧。接着，在厨房中动手制作经典菜肴，最后坐下享用亲手烹制的美味大餐。这是一场充满文化魅力的美食之旅，将让您深深爱上巴厘岛的独特风味。
 
-[乌布烹饪体验课（包参观猴子森林 & 水稻梯田）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44233-cooking-class-ubud-visit-monkey-forest-rice-terrace%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D37317b2419)
+> [乌布烹饪体验课（含参观猴子森林 & 水稻梯田）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44233-cooking-class-ubud-visit-monkey-forest-rice-terrace%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D37317b2419)
 
-[乌布哥雅精品度假村烹饪课体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19052-goya-boutique-cooking-class-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f61997031)
+> [乌布哥雅精品度假村烹饪课体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19052-goya-boutique-cooking-class-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f61997031)
 
-[Ketut's Bali 美食烹饪教室体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
+> [Ketut's Bali 美食烹饪教室体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
 
-[乌布烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
+> [乌布烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
 
 ### 瑜伽课程
 
@@ -288,11 +313,11 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 在乌布的宁静环境中，参加一堂瑜伽课程是放松身心的极佳方式。在翠绿的稻田间，或者是位于度假村的露天瑜伽空间，你可以跟随瑜伽导师的引导，感受身体的拉伸和呼吸的平静。这不仅是对身体的养生，更是对心灵的沉潜与平衡。
 
-[乌布瑜伽中心瑜伽课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
+> [乌布瑜伽中心瑜伽课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
 
-[乌布丛林日出瑜伽&冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
+> [乌布丛林日出瑜伽＆冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
 
-[The Yoga Barn 瑜伽体验&美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
+[> The Yoga Barn 瑜伽体验＆美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
 
 ### 陶艺工厂 Serayu Pot
 
@@ -300,7 +325,7 @@ Strike 内设有空调的餐厅和酒吧区，供应美食与饮品，让你在�
 
 Serayu Pot位于乌布的心脏地带，是一处制陶工作室和画廊。这个独特的场所不仅展示了传统陶艺的精湛工艺，还提供了一个与艺术家互动的机会。游客可以亲自参与陶艺工作坊，了解制陶的过程，从泥土到精美的陶器，让您亲身感受艺术的魅力。在Serayu Pot，您可以寻找独特的陶艺品，同时欣赏当地艺术家的精彩创作。这里是品味乌布文化艺术的极佳场所，让您身临其境感受陶艺的魅力。此外您还可以在这里参加陶艺制作课程哦！
 
-[陶艺制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
+[> 陶艺制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
 
 ### 参观博物馆/美术馆
 
@@ -310,9 +335,9 @@ Serayu Pot位于乌布的心脏地带，是一处制陶工作室和画廊。这�
 
 巴厘岛的博物馆和美术馆是理想之地，在艺术氛围中度过雨天。例如，乌布地区的博物馆收藏着传统巴厘艺术精品，展示着丰富的文化遗产。此外，您也可以前往乌布的画廊，欣赏当地艺术家的作品，感受其独特的创作风格。对于对巴厘文化感兴趣的旅客来说，下雨天绝对是探索艺术与历史的绝佳时机。这些馆藏富有故事性，让您在雨天时也能深入了解这个岛屿丰富的文化底蕴。
 
-[巴厘岛阿尔玛美术馆](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26840-arma-museum-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D41b02c649d)
+[> 巴厘岛阿尔玛美术馆](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26840-arma-museum-ticket%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D41b02c649d)
 
-[乌布鲁基桑美术馆门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96115-museum-puri-lukisan-admission-ubud-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D6bd985d8b4)
+[> 乌布鲁基桑美术馆门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96115-museum-puri-lukisan-admission-ubud-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D6bd985d8b4)
 
 ### 乌布雨天购物攻略：Sukawati Art Market & Ubud Art Market
 
@@ -320,11 +345,11 @@ Serayu Pot位于乌布的心脏地带，是一处制陶工作室和画廊。这�
 
 在乌布的雨天，不妨前往当地最具代表性的两个艺术市场——Sukawati Art Market和全新的Ubud Art Market，享受独特的购物乐趣。
 
-Sukawati Art Market以其传统的艺术品和手工艺品闻名，这里充满了当地艺术家的手工雕刻、绘画、布料等纪念品，是购买巴厘岛特色礼物的好去处。而新的Ubud Art Market则带来了更现代的氛围，这里有更多时尚、设计感强烈的工艺品和艺术作品，让你在雨天也能尽情探索当代与传统的完美结合。
+Sukawati Art Market以其传统的艺术品和手工制品闻名，这里充满了当地艺术家的手工雕刻、绘画、布料等纪念品，是购买巴厘岛特色礼物的好去处。而新的Ubud Art Market则带来了更现代的氛围，这里有更多时尚、设计感强烈的工艺品和艺术作品，让你在雨天也能尽情探索当代与传统的完美结合。
 
 乌布的这两个市场不仅是购物的好地方，也是遮阳挡雨的市场。雨天里漫步在这些市场中，会让你的旅行更有趣味！
 
-> 延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
+> [推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/zh-cn/blog/ubud-art-markets-guide/)
 
 ### Bali Purma Art & Workshop
 
@@ -332,11 +357,9 @@ Sukawati Art Market以其传统的艺术品和手工艺品闻名，这里充满�
 
 Bali Purma Art & Workshop 提供多种互动式体验，从蜡染绘制、纯银饰品手作，到学习制作巴厘岛人每日必备的 \*canang sari\* 供品，让旅人能真正接触到当地的生活美学。如果你对更细致的工艺有兴趣，这里也有木雕与石雕的进阶课程，能更贴近巴厘岛艺术的灵魂。
 
-其中最受小朋友喜爱的活动，就是传承多代的传统风筝制作课。由风筝匠人亲自指导，从打造竹架、使用\*kertas minyak（油纸）制作风筝外层，到最后的装饰与穿上牵线，每一步都让人觉得既新鲜又治愈。完成后，你会发现这不只是一个手作体验，更像是一场文化连接。下次在巴厘岛遇到雨天，不妨走进 Bali Purma，让这些工艺成为你旅程中最难忘的亮点之一。
+其中最受小朋友喜爱的活动，就是传承多代的传统风筝制作课。由风筝匠人亲自指导，从打造竹架、使用\*kertas minyak（油纸）制作风筝外层，到最后的装饰与穿上牵线，每一步都让人觉得既新鲜又疗愈。完成后，你会发现这不只是一个手作体验，更像是一场文化连接。下次在巴厘岛遇到雨天，不妨走进 Bali Purma，让这些工艺成为你旅程中最难忘的亮点之一。
 
-Bali Purma Art & Workshop [官网](https://linktr.ee/balipurmaartworkshop?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
-
-（🛕🌄🌴延伸阅读：[认识乌布的100个景点](/zh-cn/blog/ubud-guide/)）
+> Bali Purma Art & Workshop [官网](https://linktr.ee/balipurmaartworkshop?utm_source=ig&utm_medium=social&utm_content=link_in_bio)
 
 ![在峇里島雨天還是可以精彩、有意義喔！](https://images.gobaligo.id/vocus/vocus_4675ee467901a748f9f8e52da585d36c.png)
 
@@ -348,11 +371,35 @@ Bali Purma Art & Workshop [官网](https://linktr.ee/balipurmaartworkshop?utm_so
 
 ## 沙努尔
 
+### ICON BALI｜室内漂浮市集与四层楼垂直森林
+
+https://youtu.be/hdIKOX5wghU?si=zYumVpVgDcfsNrXF
+
+2024年6月7日开业的ICON BALI，位于沙努尔Jalan Danau Tamblingan No. 27，馆方称面积32,000平方米。馆内有几个亮点：
+
+- **Jaje Bali室内漂浮市集**：超过30个摊主，用船、肩挑架、自行车展示当地小吃、甜点和小物
+- **Vertical Forest**：跨四层楼的室内垂直绿化空间，适合拍照
+- **购物**：Uniqlo、Marks & Spencer、Sephora、Mango、Swarovski、Pandora、Charles & Keith
+- **餐饮**：Sand Beach Bar and Restaurant、Bubba Gump Shrimp Co.、Tom Sushi、Genki Sushi，咖啡甜点有Starbucks、Fore Coffee、Cotti Coffee、Vilo Gelato等
+- **表演**：文化舞台与圆形剧场有巴厘岛传统舞蹈，时间以当日公告为准
+
+商场有动线通往沙努尔海滩，并设有冲脚区和室内淋浴。营业时间每天10:00–22:00。
+
+> 完整介绍：[ICON BALI](https://gobaligo.id/zh-cn/blog/icon-bali-shopping-mall-sanur/)
+
+### Sira Village Grand Outlet Bali｜超过 100 个国际品牌的 Outlet 购物村
+
+![](https://images.gobaligo.id/images/2026-07/1785508711141-sira_index.jpg)
+
+位于登巴萨南方 Serangan Island 的海龟岛经济特区（Kura Kura Bali）内，是巴厘岛第一座大型 Premium Outlet。有超过 100 个国际品牌，涵盖服饰、鞋款、运动用品和生活精品，全年都是 Outlet 价格。官方表示平均比一般购物中心便宜约 30%。园区还有餐厅、特色咖啡厅、艺术文化展示空间、海岸散步区和夕阳观景空间。距登巴萨市中心约 20 分钟车程，距伍拉赖机场约 30 分钟车程，适合退房后、航班前还有空档的旅客。
+
+- 小提醒：这里是开放式购物村，不是封闭式商场，雨势大时请看天气安排。营业时间你的文章没写，上架前建议补上。
+
+> 完整介绍：[Sira Village Grand Outlet Bali](https://gobaligo.id/zh-cn/blog/sira-village-grand-outlet-bali/)
+
 ### AeroXSpace Adventure室内游乐场
 
-###
-
-![AeroXSpace Adventure室內遊樂場](https://images.gobaligo.id/vocus/vocus_4548e46a1c68e1c1f46eb1d22ea3a4f3.jpg)
+![](https://images.gobaligo.id/vocus/vocus_7c93b6fe6f8a109d963dc6aa5b1aefa4.jpg)
 
 2024年8月底开幕的「占地1000多坪超大室内游乐场 AeroXSpace Adventure」，可以让大人、小朋友都享有无尽的乐趣喔！详细的介绍和购票链接[在这里](/zh-cn/blog/aeroxspace-sanur-indoor-playground/)。
 
@@ -368,9 +415,7 @@ Bali Purma Art & Workshop [官网](https://linktr.ee/balipurmaartworkshop?utm_so
 
 在下雨天，不妨来到沙努尔，与经验丰富的银匠一起亲手打造属于你的银饰吧！在这里，你将学习到金工的基础知识，包括如何安全地使用一些基本工具和简单的技术。你可以利用银丝和银板，为自己或心爱的人设计并制作一件独一无二的珠宝。每个参与者都会使用5克纯银，创作出个人化的艺术作品，这不仅是一个学习新技能的机会，也是一个雨天里充满创意与乐趣的体验。
 
-- [预约沙努尔银饰制作体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124447-silver-jewelry-making-class-in-sanur%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e2fd5ed6)
-
-> ☀️⛱️延伸阅读：[Sanur 50项吃喝玩乐攻略](/zh-cn/blog/sanur-guide/)
+[预约沙努尔银饰制作体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124447-silver-jewelry-making-class-in-sanur%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e2fd5ed6)
 
 ### Clip 'n Climb 室内攀岩
 
@@ -384,17 +429,31 @@ Clip 'n Climb Bali结合运动与娱乐，是巴厘岛新兴的室内冒险景�
 
 ![Kevala Studio Ceramic](https://images.gobaligo.id/vocus/vocus_834e7aaf8284c99975a986b66df9dd1e.jpg)
 
-在巴厘岛想找一种既放松又能激发创意的室内活动？位于沙努尔的 Kevala Studio Ceramic 绝对值得一试。这里提供三种截然不同的陶艺方式：你可以坐在拉坯机前，看着泥土在指尖下慢慢成形；也能选择绘制已成型的陶器，细细为它添上色彩；或是运用于手塑技法捏出独具个性的有机造型，甚至混搭多种技巧玩出自己的风格。Kevala Studio 是岛上知名 Kevala Ceramics 的「小姊妹」品牌，空间不大却温馨，专注于陶艺创作与体验，让旅人能在这里尽情发挥内心的艺术家魂。
+在巴厘岛想找一种既放松又能激发创意的室内活动？位于沙努尔的 Kevala Studio Ceramic 绝对值得一试。这里提供三种截然不同的陶艺方式：你可以坐在拉坯机前，看着泥土在指尖下慢慢成形；也能选择绘制已成型的陶器，细细为它添上色彩；或是运用于手塑技法捏出独具个性的有机造型，甚至混搭多种技巧玩出自己的风格。Kevala Studio 是岛上知名 Kevala Ceramics 的“小姊妹”品牌，空间不大却温馨，专注于陶艺创作与体验，让旅人能在这里尽情发挥内心的艺术家魂。
 
-在 Kevala Studio 的体验包含你的完成品，待作品烧制与上釉后即可带回家，非常适合作为旅程的纪念。工作坊也特别规划了适合小朋友的活动，让全家都能一起玩陶，度过轻松又有趣的时光。课程时间约 2 至 3 小时，每人费用从 IDR 300,000 起，无论是雨天备用、亲子活动，还是单纯想体验巴厘岛的慢生活，这里都很值得排进行程。
+在 Kevala Studio 的体验包含你的完成品，待作品烧制与上釉后即可带回家，非常适合作为旅程的纪念。工作坊也特别规划了适合小朋友的活动，让全家都能一起玩陶，度过轻松又有趣的时光。课程时间约 2 至 3 小时，每人费用从 IDR 300,000 起，无论是雨天备案、亲子活动，还是单纯想体验巴厘岛的慢生活，这里都很值得排进行程。
 
 **Kevala Studio Ceramics**
 
-[studioceramic.net](https://kevalaceramics.com/studio/)
+> [studioceramic.net](https://kevalaceramics.com/studio/)
 
 {{block:sanur}}
 
-### 巴厘岛高尔夫：无论晴雨的完美聚聚地
+## 努沙杜瓦
+
+### Bali Collection
+
+https://youtu.be/3AqPucmnSLE?si=FjWlJGa6cXgtlajn
+
+巴厘购物中心（Bali Collection）是ITDC区内的开放式与半室内综合商场。虽然有些区域走动时需要雨具，但多数店家、精品店、餐厅与咖啡厅都有完善的室内空间。你可以挑一间餐厅享用印尼料理，或是逛逛手工艺品与服饰店。
+
+### Museum Pasifika Bali
+
+**文化艺术巡礼：**Museum Pasifika Bali（太平洋岛民博物馆）是一座馆藏丰富的亚太区艺术博物馆，展示了众多印尼本地及太平洋地区国家的绘画、雕塑与传统艺术品。室内展馆规划完善，非常适合在雨天静静欣赏艺术、避雨兼充实文化气息。
+
+> [太平洋岛民博物馆门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1576792&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F31072-museum-pasifika-ticket-bali%2F)
+
+### 巴厘岛高尔夫：无论晴雨的完美聚会地
 
 https://www.instagram.com/reel/DbzUYihj8e0/
 
@@ -402,7 +461,7 @@ https://www.instagram.com/reel/DbzUYihj8e0/
 
 这里的室内高尔夫环境，让访客完全不受天气影响。骄阳似火时，舒适的空调环境让你远离酷热；雨势滂沱时，室内空间提供了最佳的避雨去处。无需改变计划，无需取消行程，高尔夫球场始终准备好迎接每一位客人。
 
-对于行程紧凑的旅客而言，这是最实用的特色。不用疲于奔命寻找备选方案，也不用被天气弄乱整天的安排。海滩计划被雨水打乱？不如来试试高尔夫。想逃离午间烈日？室内球场提供了凉爽的替代体验。
+对于行程紧凑的旅客来说，这是最实用的特色。不用疲于奔命寻找备选方案，也不用被天气弄乱整天的安排。海滩计划被雨水打乱？不如来试试高尔夫。想逃离午间烈日？室内球场提供了凉爽的替代体验。
 
 无论是高尔夫新手还是经验丰富的玩家，这里都能提供相同的优质体验。朋友和家人聚在一起，轮流挥杆，笑声和竞争并存。年长者可以轻松参与，小孩也能找到乐趣。每个人都能按照自己的节奏享受运动。
 
@@ -412,15 +471,47 @@ https://www.instagram.com/reel/DbzUYihj8e0/
 
 > [官网](https://www.baliinternationalgolf.com/)
 
-## 享受SPA
+### Devdan Show 天谭秀
+
+努沙杜瓦的雨天备选，可以选在空调舒适的剧院里看 Devdan Show。演出地点在努沙杜瓦 ITDC 旅游园区内的 Bali Nusa Dua 剧院，每周一、三、六晚上 19:30 开演，建议至少提前 30 分钟入场。节目从巴厘岛出发，带观众走过爪哇、苏门答腊、加里曼丹、巴布亚，有高空杂技、飞人演出和 LED 灯光布景，没有语言门槛，亲子和团体都适合。旺季建议至少提前 2 至 3 天在线订票，预算足够可选 VIP，注重性价比可选 A 区。
+
+> 完整介绍：[Devdan Show 天谭秀完整攻略](https://gobaligo.id/zh-cn/blog/devdan-show-nusa-dua/)
+
+{{block:dua}}
+
+## 登巴萨
+
+### Living World Denpasar
+
+![Living World Denpasar](https://images.gobaligo.id/images/2026-03/1774615058614-living_world_denpasar.jpg)
+
+Living World Denpasar 是巴厘岛目前占地最大、规模最宏伟的购物中心，结合了时尚、娱乐与美食，成为当地居民和旅客的热门去处。这里拥有国际与本地品牌商店、现代化的电影院，以及多样化的餐饮选择，从地道巴厘岛美食到国际料理应有尽有。商场设计宽敞明亮，并融入巴厘岛传统元素，提供舒适的购物体验。无论是逛街购物、享受美食，还是与家人朋友共度休闲时光，Living World Denpasar 都是登巴萨不可错过的现代化景点！
+
+> [【Living World Denpasar】巴厘岛最大购物中心攻略｜品牌、美食(巴厘岛海底捞)、超市、交通一次看](https://gobaligo.id/zh-cn/blog/Living-World-Denpasar/)
+
+### Milky Verse 太空游乐场（Ramayana Bali Mall）
+
+![](https://images.gobaligo.id/images/2026-11/1794988150304-15695.jpg)
+
+想带孩子到登巴萨找个不怕太阳和下雨的去处，这间太空主题的室内亲子乐园很适合。它位于 Ramayana Bali Mall 商场内，占地约 1,400 平方米，约 30 项游乐设施一次购票就能玩，2025 年 11 月 12 日正式开幕。球池、滑梯、绳索挑战、攀岩一应俱全，还有 Flying Fox 和 Ninja Warrior 闯关设施，幼儿专区也有独立的安全区域。大人也能一起玩，不只是小朋友的专利。因为在空调商场里，雨天或大太阳都能放心安排。 [gobaligo.id](https://gobaligo.id/zh-cn/blog/bali-milky-verse-denpasar/)
+
+> 👉 完整介绍：[巴厘岛亲子景点｜登巴萨 Milky Verse 太空游乐场](/zh-cn/blog/bali-milky-verse-denpasar/)[](https://gobaligo.id/zh-cn/blog/bali-milky-verse-denpasar/)
+
+> [【登巴萨攻略】走访全球百大城市：巴厘岛首府文化、历史与美食地图](https://gobaligo.id/zh-cn/blog/denpasar-culture-guide/)
+
+## 不分区体验
+
+### 享受SPA
+
+![](https://images.gobaligo.id/images/2026-05/1777781606598-chatgpt_image_may_3_2026_11_12_57_am.png)
 
 在下雨天的时候，来做一节放松身心灵的SPA吧！
 
-可以参考我们准备的，以区域划分的「[巴厘岛好评SPA推荐大集合](/zh-cn/blog/spa/)」，除了每个主要旅游区域都有之外，还可以享受优质SPA不踩雷喔！
+可以参考我们准备的，以区域为划分的「[巴厘岛好评SPA推荐大集合](/zh-cn/blog/spa/)」，除了每个主要旅游区域都有之外，还可以享受优质SPA不踩雷喔！
 
-## 享受美食/下午茶
+### 享受美食/下午茶
 
-雨季容易下雨的时段是下午，在这段期间不妨安排个美食或下午茶体验吧！
+雨季容易下雨的时段是下午，在这段时间不妨安排来个美食或下午茶体验吧！
 
 请参考下面的链接：
 
@@ -445,9 +536,20 @@ https://www.instagram.com/reel/DbzUYihj8e0/
 **快速参考：**
 
 > [库塔美食推荐｜巴厘岛最强美食攻略](/zh-cn/blog/kuta-best-food-guide/)
+
 > [水明漾美食攻略｜浪漫、精致与地道巴厘岛的完美结合](/zh-cn/blog/seminyak-restaurants-food-guide/)
 
-## 室内拍摄巴厘岛艺术写真
+> [乌布美食推荐｜巴厘岛最强食记：从脏鸭饭、猪肋排到稻田网美咖啡厅](https://gobaligo.id/zh-cn/blog/ubud-food-guide/)
+
+### 森林系与花园餐厅
+
+![](https://images.gobaligo.id/images/2026-10/1791211329582-index.jpg)
+
+雨季或太阳大的时候，找间被绿意包围的餐厅坐一下午也很舒服。这篇整理了乌布、坎古和水明漾5家主打绿意环绕的森林系与花园餐厅。乌布的The Hidden Space有稻田森林景观，也有素食选项，Woods Pererenan与Samm's Farm在坎古，水明漾的Bread Yard是花园风装修，还可以带宠物。
+
+> 完整介绍：[巴厘岛森林系与花园餐厅推荐](https://gobaligo.id/zh-cn/blog/bali-forest-garden-restaurants/)
+
+### 室内拍摄巴厘岛艺术写真
 
 ![室內拍攝峇里島藝術寫真](https://images.gobaligo.id/vocus/vocus_35b0a39a8078b481c31d12454f96572e.jpg)
 
@@ -461,18 +563,28 @@ https://www.instagram.com/reel/DbzUYihj8e0/
 
 即使没有拍照经验，也能完成一组高质感艺术写真。
 
-### **Klook套餐推荐：**
+#### **Klook套餐推荐：**
 
 - [高评价巴厘岛文化摄影工作室体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94778-bali-traditional-costume-photoshoot-at-asana-artseum%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7c8cbcdce4)
 - [巴厘传统服饰体验及摄影](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1178016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F112401-balinese-costume-experience-and-photoshoot-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dbe5a4f43)
 
-> **快速参考：**[巴厘岛摄影拍照全攻略：旅途跟拍与传统服饰写真的完美指南](/zh-cn/blog/bali-travel-photography-guide/)
+> [巴厘岛摄影拍照全攻略：旅途跟拍与传统服饰写真的完美指南](/zh-cn/blog/bali-travel-photography-guide/)
 
-## 颂钵音疗
+### Puppy Yoga（小狗瑜伽）
+
+![](https://images.gobaligo.id/images/2026-06/1781160568678-index1.jpg)
+
+下雨天或太阳大的时候，Puppy Yoga 是很适合放松的选择。这是以玩耍为主、瑜伽为辅的体验，约 60 分钟，不需要瑜伽经验。课程在乌鲁瓦图、坎古、乌布三区举办，瑜伽垫和小狗由业者提供，现场可以拍照录像。参与的幼犬多是救援回来的流浪狗，课程费用也有一部分用在它们的疫苗、饲料和医疗。
+
+建议穿舒适、耐脏的运动服。对狗毛过敏者请斟酌，预订前也先确认各场次的年龄限制。
+
+> 完整介绍：[Puppy Yoga 小狗瑜伽完整攻略](https://gobaligo.id/zh-cn/blog/Puppy-Yoga-Bali/)
+
+### 颂钵音疗
 
 ![頌缽音療](https://images.gobaligo.id/images/2026-04/1775522389141-d8d933ec-c361-46e3-819c-10e161969091.jpg)
 
-如果说乌布是巴厘岛的灵魂，那么颂钵音疗就是这座岛屿最温暖的呼吸。很多人担心英文不好不敢参加，但其实音频的治愈力是跨越国界的，你只需要放空自己，让那些悠扬的钵声带领你进入梦幻的意识边界，彻底释放深埋在身体里的疲惫。这次特别精选了几处在Google评论上维持满分奇迹的神级场域，结合了绝美的热带雨林景观与专业的音疗引导，让你即使是第一次尝试也能快速进入状况，在2026年的淡季旅行中，这绝对是最高性价比的自我投资！
+如果说乌布是巴厘岛的灵魂，那么颂钵音疗就是这座岛屿最温暖的呼吸。很多人担心英文不好不敢参加，但其实音频的治愈力是跨越国界的，你只需要放空自己，让那些悠扬的钵声带领你进入梦幻的意识边界，彻底释放深埋在身体里的疲惫。这次特别精选了几处在 Google 评论上维持满分奇迹的神级场域，结合了绝美的热带雨林景观与专业的音疗引导，让你即使是第一次尝试也能快速进入状况，在 2026 年的淡季旅行中，这绝对是最高 CP 值的自我投资！
 
 Klook提供了一些新兴的颂钵疗愈服务，让访客在奢华舒适的环境中体验这项古老的疗愈艺术：
 
@@ -487,7 +599,7 @@ Klook提供了一些新兴的颂钵疗愈服务，让访客在奢华舒适的环
 
 ***
 
-无论想躲避倾盆大雨还是避开酷热艳阳，这60个室内备选方案都能让您的**巴厘岛**之行保持优雅与乐趣。在这种天气不稳定或气温偏高的日子里，交通接驳的舒适度更显重要。预约一位专业、车内空间宽敞且冷气充足的**专属司机**，不仅能让全家人在点对点移动时免受风吹日晒雨淋，司机还能根据当下的即时云图，为您机动微调行程。您可以放心地将战利品留在车内，直接在购物中心或SPA馆门口优雅下车，这才是真正无忧无虑的「爽玩」假期。
+无论想躲避倾盆大雨还是避开酷热艳阳，这 60 多个室内备案都能让您的**巴厘岛**之行保持优雅与乐趣。在这种天气不稳定或气温偏高的日子里，交通接驳的舒适度更显重要。预约一位专业、车内空间宽敞且冷气充足的**专属司机**，不仅能让全家人在点对点移动时免受风吹日晒雨淋，司机还能根据当下的即时云图，为您机动微调行程。您可以放心地将战利品留在车内，直接在购物中心或 SPA 馆门口优雅下车，这才是真正无忧无虑的「爽玩」假期。
 
 {{block:包車}}
 
