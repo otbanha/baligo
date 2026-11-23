@@ -1,5 +1,5 @@
 ---
-title: '【Nusa Penida攻略五】佩尼达岛的住宿推荐: 14间从奢华到平价的 Nusa Penida 好评住宿'
+title: '【Nusa Penida攻略五】佩尼达岛的住宿推荐: 15间从奢华到平价的 Nusa Penida 好评住宿'
 slug: nusa-penida-hotels-guide
 description: 佩尼达岛 Nusa Penida 的住宿指南
 pubDate: 2024-02-12T00:00:00.000Z
@@ -22,13 +22,14 @@ imageAlt: ''
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 source: ''
 sourceUrl: ''
-updatedDate: 2026-08-08T00:00:00.000Z
+updatedDate: 2026-11-22T00:00:00.000Z
+contentUpdatedAt: '2026-11-22T16:30:26+08:00'
 update: 2026/05/24
 lang: zh-cn
-_srcHash: 3fbcba86d155e163cdbefa9b1998bc27
+_srcHash: d03f36c8c14a9ff14099798b5f1b8c38
 ---
 
-**先讲结论**：佩尼达岛住宿精选 **14 间**，从奢华无边泳池别墅到平价民宿均有收录，适合依预算与需求挑选（浮潜/海景等不同定位），是佩尼达岛全攻略系列的第五篇。
+**先讲结论**：佩尼达岛住宿精选 **14 间**，从奢华无边泳池别墅到平价民宿皆有收录，适合依预算与需求挑选（浮潜/海景等不同定位），是佩尼达岛全攻略系列的第五篇。
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
@@ -63,7 +64,7 @@ _srcHash: 3fbcba86d155e163cdbefa9b1998bc27
 
 ### 佩尼达岛哪里适合夜生活？
 
-佩尼达岛夜生活最好的地方是在北部，那里有许多提供欢乐时光优惠的美丽鸡尾酒酒吧。
+佩尼达岛夜生活最好的地方是在北部，那里有许多提供欢乐时光优惠的美丽鸡尾酒吧。
 
 佩尼达岛的夜晚不像巴厘岛那样热闹，但您仍然可以找到一些酒吧享受鸡尾酒并享受夜晚。
 
@@ -71,7 +72,7 @@ _srcHash: 3fbcba86d155e163cdbefa9b1998bc27
 
 ### 佩尼达岛住宿贵吗？
 
-佩尼达岛比巴厘岛略贵，但您仍然可以找到价格合理的住宿并且在当地餐厅便宜地吃饭。您可以找到每晚大约50美元的酒店，并且在当地餐厅以每人不超过5或10美元的价格吃饭。
+佩尼达岛比巴厘岛略贵，但您仍然可以找到价格合理的住宿并且在当地餐厅便宜地吃饭。您可以找到每晚大约50美元的酒店，并且在当地餐厅以每人不超5或10美元的价格吃饭。
 
 ![佩尼達島住宿貴嗎？](https://images.gobaligo.id/vocus/vocus_c3d15b269decda31dc9688b1aaf1611f.png)
 
@@ -115,33 +116,33 @@ _srcHash: 3fbcba86d155e163cdbefa9b1998bc27
 
 ![佩尼達島高級住宿](https://images.gobaligo.id/vocus/vocus_886edd873ea94f2c2a3d79fc875bfcd0.png)
 
-佩尼达岛的景观虽然比较原始，但是高级住宿的品质可一点都不马虎哦！请参考我们推荐的八家高品质住宿：
+佩尼达岛的景观虽然比较原始，但是高级住宿的品质可一点都马虎喔！请参考我们推荐的八家高品质住宿：
 
 ### 【西】Adiwana Warnakali Resort：海岛蜜月度假首选 (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
 ![【西】Adiwana Warnakali Resort：海島蜜月度假首選 (地圖)](https://images.gobaligo.id/vocus/vocus_e336bf217c78a4f8b999439a97dc61c9.jpg)
 
-佩尼达岛的 Adiwana Warnakali Resort，是情侣度假的理想选择。 远离尘嚣，坐拥无敌海景，让您享受宁静浪漫的蜜月时光。
+佩尼达岛的 Adiwana Warnakali Resort，是情侣度假的理想选择。远离喧嚣，坐拥无敌海景，让您享受宁静浪漫的蜜月时光。
 
-度假村设有无边泳池、阳光露台、餐厅和酒吧，提供舒适设施和贴心服务。 客房均面向大海，设有宽敞阳台，部分可欣赏泳池美景。
+度假村设有无边泳池、阳光露台、餐厅和酒吧，提供舒适设施和贴心服务。客房均面向大海，设有宽敞阳台，部分可欣赏泳池美景。
 
-对于喜欢冒险的夫妻，度假村提供无与伦比的机会，让您探索努沙佩尼达岛的海底奇迹。 在酒店内的 PADI 潜水中心探索充满活力的珊瑚礁，与壮丽的魔鬼鱼相遇。
+对于喜欢冒险的夫妻，度假村提供无与伦比的机会，让您探索努沙佩尼达岛的海底奇迹。在酒店内的 PADI 潜水中心探索充满活力的珊瑚礁，与壮丽的魔鬼鱼相遇。
 
-想要更奢华体验？ 选择私人泳池套房，享受额外空间、日光浴场和私人泳池，以及迷人的森林景观。
+想要更奢华体验？选择私人泳池套房，享受额外空间、日光浴场和私人泳池，以及迷人的森林景观。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-53497492/adiwana-warnakali-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-53497492/adiwana-warnakali-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【西】Atalaya Villas Nusa Penida：蜜月天堂 (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
 ![【西】Atalaya Villas Nusa Penida：蜜月天堂 (地圖)](https://images.gobaligo.id/vocus/vocus_e5d135a2d4e5a69f9f9ec028ad7bc94b.jpg)
 
-佩尼达岛的 Atalaya Villas，是情侣度假的理想选择。 独立别墅精致梦幻，让您远离尘嚣，享受浪漫时光。
+佩尼达岛的 Atalaya Villas，是情侣度假的理想选择。独立别墅精致梦幻，让您远离尘嚣，享受浪漫时光。
 
-别墅距离水晶湾海滩仅1公里多，酒店拥有无边泳池、热带花园、餐厅和酒吧。 客房提供舒适设施，包括加大双人床、卫浴间和私人露台。 部分客房可欣赏泳池美景。
+别墅距离水晶湾海滩仅1公里多，酒店拥有无边泳池、热带花园、餐厅和酒吧。客房提供舒适设施，包括加大双人床、卫浴间和私人露台。部分客房可欣赏泳池美景。
 
-想要体验更奢华的入住感受？ 选择私人泳池套房吧！ 套房空间更宽敞，设有带遮阳棚的日光浴场、私人泳池。
+想要体验更奢华的入住感受？选择私人泳池套房吧！套房空间更宽敞，设有带遮阳棚的日光浴场、私人泳池。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32273314)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-123445966/atalaya-villas-nusa-penida-adults-only/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32273314)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-123445966/atalaya-villas-nusa-penida-adults-only/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【西】海景天际，宁静相伴：Sea La Vie Resort (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -157,27 +158,27 @@ _srcHash: 3fbcba86d155e163cdbefa9b1998bc27
 
 酒店最具特色的住宿选择是独立木屋小屋，木质地板、四柱木床和宽敞露台，让您在壮丽的海洋和远眺的阿贡火山口前体验独特魅力。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40481143)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-126561038/sea-la-vie-resort-nusa-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=40481143)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-126561038/sea-la-vie-resort-nusa-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【西】辽阔海景，悠然假期：Pramana Natura (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
 ![【西】遼闊海景，悠然假期：Pramana Natura (地圖)](https://images.gobaligo.id/vocus/vocus_357e187da8066c218200ec8426cb0fb2.jpg)
 
-寻找努沙佩尼达岛上空间宽敞、海景优美、拥有无边际泳池的酒店吗？ Pramana Natura 绝对是您的理想选择！
+寻找努沙佩尼达岛上空间宽敞、海景优美、拥有无边泳池的酒店吗？ Pramana Natura 绝对是您的理想选择！
 
-酒店距离 Toyapakeh 海滩仅 1 公里多，附近有 3 间餐厅和 1 家杂货店。 酒店设有无边际泳池、花园、餐厅和酒吧，24 小时接待柜台及提供按摩服务的 spa 让您尽情享受便利与放松。
+酒店距离 Toyapakeh 海滩仅 1 公里多，附近有 3 间餐厅和 1 家杂货店。 酒店设有无边泳池、花园、餐厅和酒吧，24 小时接待柜台及提供按摩服务的 spa 让您尽情享受便利与放松。
 
 客房以茅草屋顶为特色，配备双人床、书桌、保险箱、迷你吧和电视，每个房间皆有阳台，可凭栏远眺波澜壮阔的大海。特色别墅以尖顶设计独立于主楼，提供宽敞空间、加大双人床、沙发床、书桌、保险箱、电视和迷你吧。 卫浴间配有雨林淋浴和落地窗前的独立浴缸，让您享受奢华。
 
 每栋别墅都设有木质阳台，并配有户外用餐区和躺椅，部分别墅更设有私人泳池和热水浴池，让您尽情享受专属海岛假期。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37778046)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-105611606/pramana-natura-nusa-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37778046)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-105611606/pramana-natura-nusa-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【西】海景度假，尽享惬意：MAUA Nusa Penida (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
 ![【西】海景度假，盡享愜意：MAUA Nusa Penida (地圖)](https://images.gobaligo.id/vocus/vocus_f25f685601c34b75417db7a039edf997.jpg)
 
-MAUA Nusa Penida 是一家位于佩尼达岛的4.5星级私人泳池滨海villa，独享最私密的空间！共有四种私人别墅房型可供选择。
+MAUA Nusa Penida 是一家位于佩尼达岛的4.5星级私人泳池滨海别墅，独享最私密的空间！共有四种私人别墅房型可供选择。
 
 地点坐落在 Gamat Bay 海湾旁，距离香蕉海滩仅 10 分钟车程。酒店拥有简约时尚的设计风格，为您打造舒适惬意的度假体验。
 
@@ -195,7 +196,7 @@ MAUA Nusa Penida 是一家位于佩尼达岛的4.5星级私人泳池滨海villa�
 
 海滨餐厅和酒吧为您提供餐饮选择。他们的Wooden floor studio villas配备双人床、书桌、保险箱、电视、沙发、冰箱和电热水壶。 每栋独立别墅均设有木质阳台，配有座椅和可欣赏海景的躺椅。客房装修明亮多彩，可额外付费加床供儿童入住。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5906292)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-22204196/the-angkal/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5906292)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-22204196/the-angkal/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【北】海风轻拂，轻松海岛假期：Blue Harbor Beachfront Villas & Resto (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -211,7 +212,7 @@ MAUA Nusa Penida 是一家位于佩尼达岛的4.5星级私人泳池滨海villa�
 
 推荐选择海景房，额外花费物超所值。 家庭可以选择相连房或支付额外费用加床。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14430582)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-62614689/blue-harbor-beachfront-villas-resto/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14430582)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-62614689/blue-harbor-beachfront-villas-resto/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【北】品味海岛风情，曼妙度假时光：Mambo Beach Resort (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -219,33 +220,45 @@ MAUA Nusa Penida 是一家位于佩尼达岛的4.5星级私人泳池滨海villa�
 
 踏入 Mambo Beach Resort，随处可见的盆栽绿意、精心布置的艺术品、乡村吊灯以及温馨画框，无一不体现着酒店对细节的用心，营造出舒适悠闲又不失时尚的氛围。
 
-这家四星级酒店坐落在Prapat海滩上，周边步行即可到达多家海滩酒吧、咖啡馆和餐厅。最近的杂货店距离超过1公里。
+这家四星级酒店坐落在 Prapat 海滩上，周边步行即可到达多家海滩酒吧、咖啡馆和餐厅。 最近的杂货店距离超过 1 公里。
 
-Mambo Beach Resort设有两个海滨游泳池、花园、日光浴场和提供国际美食的餐厅。酒店还提供港口接送及汽车租赁服务。房价包含欧陆式早餐。
+Mambo Beach Resort 设有两个海滨游泳池、花园、日光浴场和提供国际美食的餐厅。 酒店亦提供港口接送及汽车租赁服务。 房价包含欧陆式早餐。
 
-白色木质客房配有木地板、加大双人床、迷你吧、电热水壶、保险箱和电视。卫浴间配有雨林淋浴。每间客房均设有带座椅或吊椅的私人露台或走廊，部分客房可直接通往酒店的两个泳池之一。
+白色木质客房配有木地板、加大双人床、迷你吧、电热水壶、保险箱和电视。 卫浴间配有雨林淋浴。 每间客房均设有带座椅或吊椅的私人露台或走廊，部分客房可直接通往酒店的两个泳池之一。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=44427492)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-105555988/mambo-beach-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=44427492)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-105555988/mambo-beach-resort/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+
+### 【北】The Sebali Penida Beach Resort
+
+![raw-image](https://images.gobaligo.id/images/2026-11/1795335593177-15815.jpg)
+
+The Sebali Penida Beach Resort 位于蓝梦岛的海岸线上，是 2024 年开业的四星级度假村，现代建筑和岛上的海景融在一起。房型有海景套房、豪华海景房、海景别墅，以及 100 平方米的皇家别墅，客房带私人阳台或露台，推开门就是海景，每天还供应欧陆式早餐。
+
+馆内有户外泳池与泳池吧，傍晚可以到酒吧点一杯调酒，或在花园里散步放松。喜欢海上活动的旅客，可以安排钓鱼、潜水和浮潜，看看蓝梦岛周边的珊瑚礁与海洋生物。餐厅提供当地与国际料理，还有 BBQ 设施，和家人朋友一起吃饭很热闹。
+
+住客评价很亮眼，整体 9.4 分，清洁 9.6 分，服务人员拿到 9.7 分。
+
+> The Sebali Penida Beach Resort 空房 & 房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=62542255) | [Booking](https://booking.tpk.lv/jMYSwaxl)
 
 ## 佩尼达岛中价位住宿
 
-如果您想找一些物超所值的住宿选项，参考我们的攻略是不会踩雷的一份参考清单哦！
+如果您想找一些物超所值的住宿选项，参考我们攻略是不会踩雷的一份参考清单哦！
 
 ### 【东】努沙佩尼达岛的隐藏瑰宝：Kepaon Gari Inn (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
 ![【東】努沙佩尼達島的隱藏瑰寶：Kepaon Gari Inn (地圖)](https://images.gobaligo.id/vocus/vocus_1c2a5741def47124736cd28a426f9f5b.jpg)
 
-Kepaon Gari Inn被誉为佩尼达岛最佳中档酒店之一，拥有众多好评且常年售罄。
+Kepaon Gari Inn 被誉为佩尼达岛最佳中档酒店之一，拥有众多好评且常年售罄。
 
-酒店提供无烟客房、免费Wi-Fi和酒吧，可满足您的基本需求。您可以享用单点早餐，并在酒店租车探索岛屿。
+酒店提供无烟客房、免费 Wi-Fi 和酒吧，可满足您的基本需求。您可以享用单点早餐，并在酒店租车探索岛屿。
 
-Kepaon Gari Inn的地理位置绝佳，步行即可到达千岛观景台，距离塞加宁瀑布4.2公里，非常适合寻求更丰富旅行体验的旅客。您也只需在1.6公里内即可到达著名的阿图海滩和钻石海滩。
+Kepaon Gari Inn 的地理位置绝佳，步行即可到达千岛景观台，距离塞加宁瀑布 4.2 公里，非常适合寻求更丰富旅行体验的旅客。您也只需在 1.6 公里内即可到达著名的阿图海滩和钻石海滩。
 
 酒店提供带阳台景观的独立房间，配备舒适床铺、Wi-Fi、干衣架、私人入口和壮丽景色。这些独立房间绝对超值，是沉浸于巴厘岛氛围的完美中档选择。
 
 总而言之，Kepaon Gari Inn 是单人或情侣旅行者的另一个理想选择。客房大小适中，仅有一张床，非常适合寻求舒适亲密感的朋友出游。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9080904)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-48686372/kepaon-gari-inn/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9080904)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-48686372/kepaon-gari-inn/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【东】Jukung Cottage Beach Bar (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -257,27 +270,27 @@ Kepaon Gari Inn的地理位置绝佳，步行即可到达千岛观景台，距�
 
 酒店每天早晨提供欧陆式早餐，种类丰富。美式餐厅设有宽敞露台，提供澳洲特色美食。步行约 8 分钟的 D'Pandawa Restaurant 则专于意大利菜肴。
 
-酒店设有水上乐园和阳光甲板，提供额外付费服务。您也可以在酒店游泳池畅游，参加浮潜、潜水和健行等丰富活动。
+酒店设有水上乐园和阳光甲板，提供额外付费服务。 您也可以在酒店游泳池畅游，参加浮潜、潜水和健行等丰富活动。
 
-这家禁烟酒店距离巴东努尔市中心仅 20 分钟步行路程。快艇码头距离酒店约 25 分钟步行路程。Buyuk 港距离酒店 3.7 公里。
+这家禁烟酒店距离巴东努尔市中心仅20分钟步行路程。 快艇码头距离酒店约25分钟步行路程。 Buyuk 港距离酒店3.7公里。
 
 Jukung Cottage Batununggul 为您提供舒适的海景住宿体验，让您在巴厘岛度过难忘假期。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25688678)｜
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25688678)｜
 
 ### 【西】椰林海风，家庭乐园：Coco Resort Penida (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
 ![【西】椰林海風，家庭樂園：Coco Resort Penida (地圖)](https://images.gobaligo.id/vocus/vocus_a2fd46d3f6278feff922193149df7aaa.jpg)
 
-寻找努沙佩尼达岛平价住宿？拥有户外泳池、烧烤设施和露台的 Coco Resort 是您的理想选择。
+寻求努沙佩尼达岛平价住宿？拥有户外泳池、烧烤设施和露台的Coco Resort是您的理想选择。
 
-融入传统建筑风格，您可在酒吧悠闲小酌，品尝印尼特色及国际美食。度假村内亦设水上运动设施，满足您的户外需求。距离 Sanur 港口 30 分钟船程，距离水晶湾海滩仅 3 分钟车程。周边拥有众多美丽海滩、峭壁和餐厅，方便探索岛屿风光。
+融入传统建筑风格，您可在酒吧悠闲小酌，品尝印尼特色及国际美食。度假村内亦设水上运动设施，满足您的户外需求。距离Sanur港口30分钟船程，距离水晶湾海滩仅3分钟车程。周边拥有众多美丽海滩、峭壁和餐厅，方便探索岛屿风光。
 
-Coco Resort 提供多样房型，从泳池畔小屋到四人豪华房，应有尽有。所有客房均配备舒适大床、Wi-Fi、空调，部分可欣赏山景或泳池景观。部分套房提供超长床铺，位于地面楼层，空间宽敞舒适。
+Coco Resort提供多样房型，从泳池畔小屋到四人豪华房，应有尽有。所有客房均配备舒适大床、Wi-Fi、空调，部分可欣赏山景或泳池景观。部分套房提供超长床铺，位于地面楼层，空间宽敞舒适。
 
-Coco Resort 是您的全家乐园！户外泳池、水上运动设施和宽敞家庭房，让您在努沙佩尼达岛享受完美家庭度假时光。
+Coco Resort是您的全家乐园！户外泳池、水上运动设施和宽敞家庭房，让您在努沙佩尼达岛享受完美家庭度假时光。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1002587)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-3914633/coco-resort-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1002587)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/bali-hotel-detail-3914633/coco-resort-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707)
 
 ### 【西】Penida Sunset Ocean View Bungalows(📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -309,7 +322,7 @@ Penida Sunset Ocean View Bungalows 仅有8间平房，营造出温馨私密的�
 
 度假村地理位置优越，距离Crystal Bay海滩1.4公里。客人特别赞赏壮丽的日落景色、友善且乐于助人的工作人员、优质的餐厅服务、宁静祥和的环境，以及绝佳的无边泳池体验。度假村非常适合寻求宁静、浪漫和难忘日落体验的旅客。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12518756)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12518756)
 
 ### 【西】西北海景胜地，悠享假期：Semabu Hills Hotel (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -321,11 +334,11 @@ Semabu Hills Hotel 位于努沙佩尼达岛西北部，以其超值价格和迷�
 
 除了风景优美，距离酒店不远的地方还有众多景点，包括距离酒店一箭之遥的海8公里外的塞加宁瀑布、900米外的努沙佩尼达白沙滩和2.2公里外的 Manta Bay 湾。 酒店附近也有许多市场和餐厅，方便探索周边风格。
 
-海景房配有舒适床铺、Wi-Fi、私人入口和浴室，均享有泳池景观和空调。 部分客房最多可容纳 3 人，并提供拉床和沙发床。
+海景房配有舒适床铺、Wi-Fi、私人入口和浴室，均享有泳池景观和空调。部分客房最多可容纳3人，并提供拉床和沙发床。
 
-Semabu Hills Hotel 不仅适合情侣旅行，也非常适合团体旅游。 多床的别墅和周边丰富的活动，让您与朋友们共享难忘的假期时光。
+Semabu Hills Hotel 不仅适合情侣旅行，也非常适合团体旅游。多床的别墅和周边丰富的活动，让您与朋友们共享难忘的假期时光。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2347321) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-9230603/semabu-hills-hotel-nusa-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/FrEKvwkt)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2347321) [Trip](https://hk.trip.com/hotels/bali-hotel-detail-9230603/semabu-hills-hotel-nusa-penida/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D18793707) [Booking](https://booking.tpm.li/FrEKvwkt)
 
 ### 【中】山景环绕，悠闲住宿：Dayuh House
 
@@ -333,13 +346,13 @@ Semabu Hills Hotel 不仅适合情侣旅行，也非常适合团体旅游。 多
 
 位于努沙佩尼达岛中心地带的 Dayuh House 提供令人惊艳的客房，配备 Wi-Fi、空调、露台和令人赞叹的无边泳池，更有美丽的户外空间，让您沉浸于舒适享受。
 
-距离断崖海滩 (Broken Beach) 9公里，让您轻松探索岛屿美景。蒙迪神庙 (Puncak Mundi Temple) 仅 1 公里，而美丽的 Kelingking 海滩也只在 5.6 公里之遥，地理位置绝佳。
+距离断崖海滩 (Broken Beach) 9公里，让您轻松探索岛屿美景。蒙迪神庙 (Puncak Mundi Temple) 仅1公里，而美丽的 Kelingking 海滩也只在5.6公里之遥，地理位置绝佳。
 
-Dayuh House 的每间客房都拥有阳台，可欣赏迷人景致。整个住宿区都有 Wi-Fi 覆盖，客房提供舒适大床和客房送餐服务。客房亦配备私人浴室和平面电视，]
+Dayuh House 的每间客房都拥有阳台，可欣赏迷人景致。整个住宿区都有 Wi-Fi 覆盖，客房提供舒适大床和客房送餐服务。客房亦配备私人浴室和平面电视。
 
-Dayuh House 非常适合单人或双人入住。如果您独自旅行或与伴侣同游，想在努沙佩尼达岛寻找舒适升级的住宿，Dayuh House 也是您的理想选择。周边丰富的活动，让您尽情探索，度过难忘假期。
+Dayuh House 非常适合单人 or 双人入住。如果您独自旅行或与伴侣同游，想在努沙佩尼达岛寻找舒适升级的住宿，Dayuh House 也是您的理想选择。周边丰富的活动，让您尽情探索，度过难忘假期。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8255701)
+> [Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8255701)
 
 ![【中】山景環繞，悠閒住宿：Dayuh House](https://images.gobaligo.id/vocus/vocus_2870cdcafa2fb6e8c64f6c5d48849710.jpg)
 
