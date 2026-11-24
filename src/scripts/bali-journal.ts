@@ -1086,7 +1086,19 @@ async function handleAction(act: string, el: HTMLElement) {
     case 'edit-trip':
       return openSheet('edit-trip');
     case 'del-trip':
-      if (t && confirm(`確定刪除「${t.name}」？刪除後無法復原。`)) {
+      // 不用 confirm()：部分 WebView／內嵌環境會直接回傳 false。改成按兩次確認。
+      if (t && el.dataset.armed !== '1') {
+        el.dataset.armed = '1';
+        el.textContent = `再按一次，刪除「${t.name}」（無法復原）`;
+        setTimeout(() => {
+          if (el.isConnected) {
+            el.dataset.armed = '';
+            el.textContent = '刪除這趟旅行';
+          }
+        }, 4000);
+        return;
+      }
+      if (t) {
         store.trips = store.trips.filter((x) => x.id !== t.id);
         store.currentId = store.trips[0]?.id ?? null;
         save();
