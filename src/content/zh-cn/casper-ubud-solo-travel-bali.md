@@ -1,11 +1,11 @@
 ---
-title: 巴厘岛乌布独旅攻略｜Casper 入住 Alaya Resort、圣泉寺与秘境稻田步道
+title: 巴厘岛乌布独旅攻略｜住 Alaya Resort、圣泉寺与秘境稻田步道
 slug: casper-ubud-solo-travel-bali
 description: >-
   YouTuber Casper 第二次巴厘岛旅行，这次独自到乌布放空三天，入住 Alaya Resort Ubud，探索圣猴森林、乌布皇宫、Sweet
   Orange Walk Trail 稻田步道、圣泉寺净身仪式及巴厘岛超市伴手礼。
 pubDate: 2026-12-24T00:00:00.000Z
-updatedDate: 2026-11-23T00:00:00.000Z
+updatedDate: 2026-11-25T00:00:00.000Z
 contentUpdatedAt: '2026-11-23T14:03:01+08:00'
 pubHour: 12
 category:
@@ -33,7 +33,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: eb92cbd88b55a45ee1c2f4eab66cf692
+_srcHash: 73118637f6ad20fb3c111c944341e810
 ---
 
 # 巴厘岛乌布独旅推荐！YouTuber Casper 入住五星酒店、探索秘境稻田步道与圣泉寺
@@ -132,7 +132,7 @@ https://youtu.be/JtxZHtijEkE?si=mfjKSfHCUe1_yD7o
 
 如果你也正在考虑安排几天乌布之旅，或是想尝试一个人到巴厘岛放空，不妨看看 Casper 的完整视频。
 
-尤其是 Sweet Orange Walk Trail 的实际路线、圣泉寺净身仪式，以及酒店的住宿环境，通过视频会比单纯看文字更有临场感。
+尤其是 Sweet Orange Walk Trail 的实际路线、圣泉寺净身仪式，以及酒店的住宿环境，通过影片会比单纯看文字更有临场感。
 
 **有时候，巴厘岛最值得享受的，不是跑了多少景点，而是终于有时间让自己慢下来。**
 
