@@ -240,8 +240,7 @@ h5 { font-size: 1em; }
 .prose a[href*="klook.com"],
 .prose a[href*="trip.com"],
 .prose a[href*="booking.com"],
-.prose a[href*="booking.tpm.li"],
-.prose a[href*="booking.tpk.lv"] {
+.prose a[href^="https://booking"] {
   display: inline-block;
   padding: 4px 12px;
   background-color: #2563eb;
@@ -258,8 +257,7 @@ h5 { font-size: 1em; }
 .prose a[href*="klook.com"]:hover,
 .prose a[href*="trip.com"]:hover,
 .prose a[href*="booking.com"]:hover,
-.prose a[href*="booking.tpm.li"]:hover,
-.prose a[href*="booking.tpk.lv"]:hover {
+.prose a[href^="https://booking"]:hover {
   color: white;
   text-decoration: none;
   background-color: #1e40af;
@@ -278,8 +276,7 @@ h5 { font-size: 1em; }
 .prose a[href*="klook.com"]:visited,
 .prose a[href*="trip.com"]:visited,
 .prose a[href*="booking.com"]:visited,
-.prose a[href*="booking.tpm.li"]:visited,
-.prose a[href*="booking.tpk.lv"]:visited {
+.prose a[href^="https://booking"]:visited {
   background-color: #93c5fd;
   color: #1e3a8a;
 }
@@ -320,8 +317,7 @@ h5 { font-size: 1em; }
   .prose a[href*="klook.com"],
   .prose a[href*="trip.com"],
   .prose a[href*="booking.com"],
-  .prose a[href*="booking.tpm.li"],
-  .prose a[href*="booking.tpk.lv"],
+  .prose a[href^="https://booking"],
   .prose a[href*="kkday.com"] {
     display: inline-flex;
     align-items: center;
@@ -331,7 +327,7 @@ h5 { font-size: 1em; }
 
 /* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
    排除聯盟連結（已有按鈕樣式） */
-.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):not([href*="booking.tpk.lv"]) {
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href^="https://booking"]) {
   color: #2563eb;
   background-color: transparent;
   padding: 1px 8px;
@@ -340,11 +336,11 @@ h5 { font-size: 1em; }
   text-underline-offset: unset;
   font-weight: 500;
 }
-.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):not([href*="booking.tpk.lv"]):hover {
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href^="https://booking"]):hover {
   background-color: transparent;
   color: #1e3a8a;
 }
-.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):not([href*="booking.tpk.lv"]):visited {
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href^="https://booking"]):visited {
   color: #2563eb;
 }
 
