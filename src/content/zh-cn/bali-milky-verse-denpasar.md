@@ -5,6 +5,8 @@ description: >-
   Milky Verse 于 2025 年 11 月在登巴萨 Ramayana Bali Mall 开幕，太空主题、约 30 项设施，有 Flying Fox
   与 Ninja Warrior，在空调商场里就能让全家玩得尽兴
 pubDate: 2026-11-23T00:00:00.000Z
+updatedDate: 2026-11-27T00:00:00.000Z
+contentUpdatedAt: '2026-11-27T13:48:22+08:00'
 pubHour: 20
 category:
   - 家庭親子
@@ -24,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 742c9ec41cb16dba430ce2bf2ca78088
+_srcHash: ad615c4df2b1b46abf612f6164f70601
 ---
 
 # 巴厘岛亲子景点｜Milky Verse 太空游乐场，在登巴萨的空调商场里放电
@@ -43,7 +45,7 @@ Milky Verse 是印尼的连锁室内亲子游乐场，登巴萨的场地占地�
 
 - **Flying Fox**：开幕时就被当成招牌，大人看了也想试试。
 - **Ninja Warrior**：闯关型设施，适合爱挑战的孩子。
-- **球池、滑梯、绳索挑战、攀岩**：有游客分享过，这些设施组合起来足够让孩子玩得筋疲力尽。
+- **球池、滑梯、绳索挑战、攀岩**：有游客分享过，这些设施组合起来够让孩子玩得筋疲力尽。
 - **幼儿专区**：年纪小的孩子有独立的安全区域，不用跟大孩子挤在一起。
 
 ![raw-image](https://images.gobaligo.id/images/2026-11/1794988249589-15700.jpg)
@@ -62,10 +64,12 @@ Milky Verse 是印尼的连锁室内亲子游乐场，登巴萨的场地占地�
 
 开幕时公布的价格是 **2 小时 Rp 90,000，附赠袜子**。当时也有布偶促销，3 个 Rp 100,000。价格可能随时调整，出发前请以现场或官方社群公告为准。
 
+> [Traveloka 优惠票](https://tpk.lv/lf8MLnA9)
+
 ### 行前小提醒
 
 - 营业时间我没查到这间的官方资料，建议出发前先查 Instagram 或商场信息。
-- 游乐场通常要穿袜子进场，这里开业时有附赠。
+- 游乐场通常要穿袜子进场，这里开幕时有附赠。
 - 想避开人潮，可以挑平日去。
 
 ### 小结
